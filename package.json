@@ -5,7 +5,12 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "astro check"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.14",
@@ -22,6 +27,16 @@
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^25.6.0",
-    "typescript": "^5.9.3"
+    "@typescript-eslint/parser": "^8.59.1",
+    "eslint": "^10.2.1",
+    "eslint-plugin-astro": "^1.7.0",
+    "eslint-plugin-vue": "^10.9.0",
+    "lefthook": "^2.1.6",
+    "prettier": "^3.8.3",
+    "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-tailwindcss": "^0.8.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.59.1",
+    "vue-eslint-parser": "^10.4.0"
   }
 }

@@ -5,19 +5,27 @@ const navLinks = [
   { href: '/about', label: 'About Us' },
 ];
 ---
-<header class="sticky top-0 z-50 bg-white/90 dark:bg-gray-950/90 backdrop-blur border-b border-gray-200 dark:border-gray-800">
-  <nav class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
-    <a href="/" class="font-bold text-lg text-primary hover:opacity-80 transition-opacity">
+
+<header
+  class="sticky top-0 z-50 border-b border-gray-200 bg-white/90 backdrop-blur dark:border-gray-800 dark:bg-gray-950/90"
+>
+  <nav class="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
+    <a href="/" class="text-lg font-bold text-primary transition-opacity hover:opacity-80">
       Guildmages' Forum
     </a>
     <ul class="flex gap-6 text-sm font-medium">
-      {navLinks.map(link => (
-        <li>
-          <a href={link.href} class="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
-            {link.label}
-          </a>
-        </li>
-      ))}
+      {
+        navLinks.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class="text-gray-600 transition-colors hover:text-primary dark:text-gray-400 dark:hover:text-primary"
+            >
+              {link.label}
+            </a>
+          </li>
+        ))
+      }
     </ul>
   </nav>
 </header>

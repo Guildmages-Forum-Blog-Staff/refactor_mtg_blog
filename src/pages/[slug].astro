@@ -9,7 +9,7 @@ import { getPostAuthors } from '../utils/authors';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
-  return posts.map(post => ({
+  return posts.map((post) => ({
     params: { slug: post.id.replace(/\.mdx?$/, '') },
     props: { post },
   }));
@@ -22,25 +22,25 @@ const authors = await getPostAuthors(post.data.authors);
 const coverImage = post.data.cover || post.data.thumbnail;
 ---
 
-<BaseLayout
-  title={post.data.title}
-  description={post.data.excerpt}
-  ogImage={coverImage}
->
+<BaseLayout title={post.data.title} description={post.data.excerpt} ogImage={coverImage}>
   <Navbar />
-  <main class="max-w-6xl mx-auto px-4 py-8">
-    {coverImage && (
-      <img
-        src={coverImage}
-        alt={post.data.title}
-        class="w-full h-64 md:h-80 object-cover rounded-xl mb-8"
-      />
-    )}
+  <main class="mx-auto max-w-6xl px-4 py-8">
+    {
+      coverImage && (
+        <img
+          src={coverImage}
+          alt={post.data.title}
+          class="mb-8 h-64 w-full rounded-xl object-cover md:h-80"
+        />
+      )
+    }
 
     <div class="flex gap-8">
       <!-- Article content -->
       <article class="min-w-0 flex-1">
-        <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-gray-100 mb-4 leading-tight">
+        <h1
+          class="mb-4 text-3xl font-bold leading-tight text-gray-900 dark:text-gray-100 md:text-4xl"
+        >
           {post.data.title}
         </h1>
 
@@ -48,33 +48,36 @@ const coverImage = post.data.cover || post.data.thumbnail;
         <div class="mb-6 flex items-center gap-4">
           <ArticleAuthorHeader authors={authors} client:load />
           <div class="text-sm text-gray-500 dark:text-gray-400">
-            {post.data.date.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
+            {
+              post.data.date.toLocaleDateString('zh-TW', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+              })
+            }
           </div>
         </div>
 
         <!-- Categories -->
-        {post.data.categories.length > 0 && (
-          <div class="flex flex-wrap gap-2 mb-8">
-            {post.data.categories.map(cat => (
-              <a
-                href={`/categories/${encodeURIComponent(cat)}`}
-                class="px-3 py-1 text-xs font-medium bg-primary/10 text-primary rounded-full hover:bg-primary/20 transition-colors"
-              >
-                {cat}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          post.data.categories.length > 0 && (
+            <div class="mb-8 flex flex-wrap gap-2">
+              {post.data.categories.map((cat) => (
+                <a
+                  href={`/categories/${encodeURIComponent(cat)}`}
+                  class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
+                >
+                  {cat}
+                </a>
+              ))}
+            </div>
+          )
+        }
 
         <!-- Content -->
-        <div class="prose prose-lg dark:prose-invert max-w-none
-                    prose-a:text-primary
-                    prose-headings:font-bold
-                    prose-img:rounded-lg
-                    prose-table:text-sm
-                    prose-code:text-primary
-                    prose-code:before:content-none
-                    prose-code:after:content-none">
+        <div
+          class="prose prose-lg max-w-none dark:prose-invert prose-headings:font-bold prose-a:text-primary prose-code:text-primary prose-code:before:content-none prose-code:after:content-none prose-table:text-sm prose-img:rounded-lg"
+        >
           <Content />
         </div>
 
@@ -83,11 +86,13 @@ const coverImage = post.data.cover || post.data.thumbnail;
       </article>
 
       <!-- TOC sidebar -->
-      {headings.length > 0 && (
-        <aside class="hidden xl:block w-64 shrink-0">
-          <TableOfContents headings={headings} client:load />
-        </aside>
-      )}
+      {
+        headings.length > 0 && (
+          <aside class="hidden w-64 shrink-0 xl:block">
+            <TableOfContents headings={headings} client:load />
+          </aside>
+        )
+      }
     </div>
   </main>
 </BaseLayout>

@@ -7,8 +7,13 @@ interface Props {
   description?: string;
   ogImage?: string;
 }
-const { title, description = "Guildmages' Forum 魔風集會所是一個繁體中文的部落格，致力於推廣魔法風雲會競技型賽制。", ogImage } = Astro.props;
+const {
+  title,
+  description = "Guildmages' Forum 魔風集會所是一個繁體中文的部落格，致力於推廣魔法風雲會競技型賽制。",
+  ogImage,
+} = Astro.props;
 ---
+
 <!doctype html>
 <html lang="zh-TW">
   <head>
@@ -19,9 +24,12 @@ const { title, description = "Guildmages' Forum 魔風集會所是一個繁體�
     <title>{title} | Guildmages' Forum 魔風集會所</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
-  <body class="bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100 font-sans">
+  <body class="bg-white font-sans text-gray-900 dark:bg-gray-950 dark:text-gray-100">
     <slot />
     <Footer />
     <script>
@@ -29,7 +37,8 @@ const { title, description = "Guildmages' Forum 魔風集會所是一個繁體�
       document.addEventListener('DOMContentLoaded', () => {
         const tooltip = document.createElement('div');
         tooltip.id = 'scryfall-tooltip';
-        tooltip.style.cssText = 'position:fixed;z-index:9999;pointer-events:none;display:none;transition:opacity 0.15s;';
+        tooltip.style.cssText =
+          'position:fixed;z-index:9999;pointer-events:none;display:none;transition:opacity 0.15s;';
         document.body.appendChild(tooltip);
 
         document.addEventListener('mouseover', (e) => {
@@ -39,7 +48,8 @@ const { title, description = "Guildmages' Forum 魔風集會所是一個繁體�
           if (!imgUrl) return;
           const img = document.createElement('img');
           img.src = imgUrl;
-          img.style.cssText = 'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
+          img.style.cssText =
+            'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
           img.loading = 'lazy';
           tooltip.replaceChildren(img);
           tooltip.style.display = 'block';

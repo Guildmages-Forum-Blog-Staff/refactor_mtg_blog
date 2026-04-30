@@ -1,0 +1,10 @@
+pre-commit:
+  commands:
+    prettier:
+      glob: '*.{js,mjs,ts,astro,vue,json,css}'
+      run: npx prettier --write {staged_files}
+      stage_fixed: true
+    eslint:
+      glob: '*.{js,mjs,ts,astro,vue}'
+      run: npx eslint --fix {staged_files}
+      stage_fixed: true

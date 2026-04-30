@@ -3,12 +3,16 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: #A31F34;
+  --color-primary: #a31f34;
 }
 
 @layer base {
   body {
-    font-family: 'Noto Sans TC', system-ui, -apple-system, sans-serif;
+    font-family:
+      'Noto Sans TC',
+      system-ui,
+      -apple-system,
+      sans-serif;
   }
 
   /* Smooth scroll */
@@ -20,7 +24,7 @@
 @layer components {
   /* Scryfall card links */
   a.scryfall-card {
-    @apply text-primary underline decoration-dotted cursor-pointer transition-all;
+    @apply cursor-pointer text-primary underline decoration-dotted transition-all;
   }
   a.scryfall-card:hover {
     @apply decoration-solid;
@@ -28,12 +32,12 @@
 
   /* YouTube embeds */
   .youtube-embed {
-    @apply relative w-full my-6;
+    @apply relative my-6 w-full;
     padding-bottom: 56.25%;
     height: 0;
   }
   .youtube-embed iframe {
-    @apply absolute inset-0 w-full h-full rounded-lg;
+    @apply absolute inset-0 h-full w-full rounded-lg;
   }
 
   /* TOC scrollbar */
@@ -44,7 +48,7 @@
     @apply bg-transparent;
   }
   .toc::-webkit-scrollbar-thumb {
-    @apply bg-gray-300 dark:bg-gray-700 rounded-full;
+    @apply rounded-full bg-gray-300 dark:bg-gray-700;
   }
 }
 
@@ -59,7 +63,7 @@
     @apply w-full text-sm;
   }
   .prose th {
-    @apply bg-gray-100 dark:bg-gray-800 font-semibold;
+    @apply bg-gray-100 font-semibold dark:bg-gray-800;
   }
 
   /* Article heading anchor offset for sticky navbar */

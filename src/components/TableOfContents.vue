@@ -1,6 +1,6 @@
 <template>
   <nav class="toc sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto text-sm">
-    <p class="font-semibold text-gray-900 dark:text-gray-100 mb-3 text-xs uppercase tracking-wider">
+    <p class="mb-3 text-xs font-semibold uppercase tracking-wider text-gray-900 dark:text-gray-100">
       Contents
     </p>
     <ul class="flex flex-col gap-1">
@@ -12,10 +12,10 @@
         <a
           :href="`#${heading.slug}`"
           :class="[
-            'block py-0.5 pr-2 border-l-2 pl-2 transition-colors leading-snug',
+            'block border-l-2 py-0.5 pl-2 pr-2 leading-snug transition-colors',
             activeSlug === heading.slug
-              ? 'border-primary text-primary font-medium'
-              : 'border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 hover:border-gray-300'
+              ? 'border-primary font-medium text-primary'
+              : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200',
           ]"
           @click.prevent="scrollTo(heading.slug)"
         >
@@ -48,8 +48,8 @@ function scrollTo(slug: string) {
 let observer: IntersectionObserver | null = null;
 
 onMounted(() => {
-  const slugs = props.headings.map(h => h.slug);
-  const elements = slugs.map(s => document.getElementById(s)).filter(Boolean) as HTMLElement[];
+  const slugs = props.headings.map((h) => h.slug);
+  const elements = slugs.map((s) => document.getElementById(s)).filter(Boolean) as HTMLElement[];
 
   observer = new IntersectionObserver(
     (entries) => {
@@ -60,10 +60,10 @@ onMounted(() => {
         }
       }
     },
-    { rootMargin: '-80px 0px -70% 0px', threshold: 0 }
+    { rootMargin: '-80px 0px -70% 0px', threshold: 0 },
   );
 
-  elements.forEach(el => observer!.observe(el));
+  elements.forEach((el) => observer!.observe(el));
 });
 
 onUnmounted(() => {
