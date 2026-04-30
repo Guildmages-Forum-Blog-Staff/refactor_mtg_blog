@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/miohitokiri5474/project/guildmages_forum/mtg_blog/source/**)",
+      "Read(//Users/miohitokiri5474/project/guildmages_forum/mtg_blog/themes/**)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector status)",
+      "Bash(git init *)",
+      "Bash(npm install *)",
+      "Bash(npm info *)",
+      "Bash(python3 -c \"import sys,json; v=json.load\\(sys.stdin\\); print\\(v[-5:]\\)\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(npm run *)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add src/ astro.config.mjs package.json package-lock.json)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector diff --staged --stat)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector log --oneline)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector commit -m ' *)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add src/components/ src/layouts/ src/pages/index.astro \"src/pages/[slug].astro\")",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add src/pages/about.astro src/pages/categories/)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector log --oneline -5)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add src/styles/global.css src/components/Footer.astro src/layouts/BaseLayout.astro src/pages/\\\\[slug\\\\].astro)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector log --oneline -6)",
+      "Bash(node -e \"const p = require\\('/Users/miohitokiri5474/project/guildmages_forum/refector/node_modules/eslint-plugin-astro'\\); console.log\\('configs keys:', Object.keys\\(p.configs || {}\\)\\); console.log\\('top keys:', Object.keys\\(p\\)\\)\")",
+      "Bash(echo \"exit: $?\")",
+      "Bash(npx lefthook *)",
+      "Bash(npx prettier *)",
+      "Bash(npx eslint *)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add .lefthook.yml .prettierignore .prettierrc.mjs eslint.config.mjs package.json package-lock.json tailwind.config.mjs src/components/ArticleAuthorFooter.vue src/components/ArticleAuthorHeader.vue src/components/Footer.astro src/components/Navbar.astro src/components/TableOfContents.vue src/layouts/BaseLayout.astro 'src/pages/[slug].astro' src/pages/about.astro 'src/pages/categories/[cat].astro' src/pages/categories/index.astro src/pages/index.astro src/styles/global.css src/utils/authors.ts)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector log --oneline -3)",
+      "Bash(grep -E '\\\\.\\(js|mjs|ts|mts\\)$')",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add -A)",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector commit -m \"chore: convert astro.config and tailwind.config to typescript\")"
+    ]
+  }
+}
