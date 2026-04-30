@@ -1,0 +1,100 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Navbar from '../../components/Navbar.astro';
+import { getPostAuthors } from '../../utils/authors';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const cats = new Set(posts.flatMap(p => p.data.categories));
+
+  return [...cats].map(cat => ({
+    params: { cat: encodeURIComponent(cat) },
+    props: { cat, posts: posts.filter(p => p.data.categories.includes(cat)) },
+  }));
+}
+
+const { cat, posts } = Astro.props;
+const sorted = [...posts].sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const postsWithAuthors = await Promise.all(
+  sorted.map(async post => ({
+    post,
+    authors: await getPostAuthors(post.data.authors),
+  }))
+);
+---
+
+<BaseLayout title={`${cat} | Categories`}>
+  <Navbar />
+  <main class="max-w-3xl mx-auto px-4 py-10">
+    <div class="mb-8">
+      <a href="/categories" class="text-sm text-gray-500 hover:text-primary transition-colors">
+        ← All Categories
+      </a>
+      <h1 class="text-3xl font-bold mt-2 text-gray-900 dark:text-gray-100">
+        {cat}
+      </h1>
+      <p class="text-sm text-gray-500 mt-1">{sorted.length} articles</p>
+    </div>
+
+    <div class="flex flex-col gap-8">
+      {postsWithAuthors.map(({ post, authors }) => {
+        const slug = post.id.replace(/\.mdx?$/, '');
+        return (
+          <article class="border-b border-gray-100 dark:border-gray-800 pb-8">
+            {(post.data.cover || post.data.thumbnail) && (
+              <a href={`/${slug}`}>
+                <img
+                  src={post.data.cover || post.data.thumbnail}
+                  alt={post.data.title}
+                  class="w-full h-48 object-cover rounded-lg mb-4"
+                />
+              </a>
+            )}
+            <div class="flex flex-wrap gap-2 mb-2">
+              {post.data.categories.map(c => (
+                <a
+                  href={`/categories/${encodeURIComponent(c)}`}
+                  class={`text-xs font-medium hover:underline ${c === cat ? 'text-primary font-semibold' : 'text-gray-500'}`}
+                >
+                  {c}
+                </a>
+              ))}
+            </div>
+            <a href={`/${slug}`}>
+              <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 hover:text-primary transition-colors mb-2">
+                {post.data.title}
+              </h2>
+            </a>
+            {post.data.excerpt && (
+              <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-3">
+                {post.data.excerpt}
+              </p>
+            )}
+            <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+              <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
+              {authors.length > 0 && (
+                <div class="flex items-center gap-1.5">
+                  {authors.map(author => (
+                    <a
+                      href={author.url || `/tags/${author.id}`}
+                      class="flex items-center gap-1 hover:text-primary transition-colors"
+                    >
+                      <img
+                        src={author.avatar}
+                        alt={author.name}
+                        class="w-5 h-5 rounded-full object-cover"
+                      />
+                      <span>{author.name}</span>
+                    </a>
+                  ))}
+                </div>
+              )}
+            </div>
+          </article>
+        );
+      })}
+    </div>
+  </main>
+</BaseLayout>

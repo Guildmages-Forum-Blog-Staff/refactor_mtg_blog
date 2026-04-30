@@ -1,0 +1,91 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+
+const allAuthors = await getCollection('authors');
+
+// Ordered list from old blog's authors.yaml — hardcode the order
+const authorOrder = [
+  'MiohitoKiri5474',
+  'cephille',
+  'JruMTG',
+  'JerobaMTG',
+  'Enki',
+  'T1BloodMoon',
+  'Kappa',
+  'ClarkShih',
+  'jeffchen',
+  'classiccool',
+  'yu-chen',
+  'bruce1235566',
+  'GY_Player',
+  'zhi-mao',
+  'david-yeh',
+  'JerryYang',
+  'Egavas',
+  'layukipedia',
+  'faintmama',
+  'ZHAN',
+  'MarkWen',
+  'Patrick',
+  'Weihow',
+  'mm',
+  'dalance',
+  'XSBeeble',
+  'CIXS',
+  'Chiyou',
+  'Chennel',
+  'sertyple',
+  'Requiem_Black',
+  'Ace',
+  'ZengZengZeng',
+  'Sekun',
+  'manamagic',
+  'Terryrr',
+];
+
+const authorMap = new Map(allAuthors.map(a => [a.id, a.data]));
+const orderedAuthors = authorOrder
+  .map(id => ({ id, data: authorMap.get(id) }))
+  .filter(a => a.data !== undefined) as { id: string; data: NonNullable<ReturnType<typeof authorMap.get>> }[];
+---
+
+<BaseLayout title="About Us">
+  <Navbar />
+  <main class="max-w-4xl mx-auto px-4 py-10">
+    <h1 class="text-3xl font-bold mb-6 text-gray-900 dark:text-gray-100">About Us</h1>
+
+    <div class="prose dark:prose-invert max-w-none mb-12">
+      <p>
+        <strong>Guildmages' Forum 魔風集會所</strong>，這其實是一張在2018年烽會拉尼卡系列中的一張地牌，中文翻譯為「公會法師集會地」。有玩MTG的人都知道拉尼卡時空最為人所知的就是十會盟，它是由十組雙色公會所建構成的時空共管聯盟；而MTG中白藍黑紅綠五色則是一切牌張的根本，透過不同的組合與搭配而有不同的變化。而這就好比每一位玩家都是代表著自己的公會追尋個人目標而來，而我們可以聚集在此地彼此相互交流，來創造出更多有趣的遊戲體驗與MTG的社群連結！
+      </p>
+      <p>下面是我們常駐工作人員和文章作者的介紹：</p>
+    </div>
+
+    <div class="flex flex-col gap-10">
+      {orderedAuthors.map(({ id, data }) => (
+        <div class="flex gap-6 items-start">
+          <a href={data.url || `/tags/${id}`} class="shrink-0">
+            <img
+              src={data.avatar}
+              alt={data.name}
+              class="w-24 h-24 rounded-full object-cover border-2 border-gray-200 dark:border-gray-700"
+            />
+          </a>
+          <div class="flex flex-col gap-1 min-w-0 pt-1">
+            <a
+              href={data.url || `/tags/${id}`}
+              class="text-xl font-bold text-gray-900 dark:text-gray-100 hover:text-primary transition-colors"
+            >
+              {data.name}
+            </a>
+            {data.intro.map((line: string) => (
+              <p class="text-sm text-gray-600 dark:text-gray-400 leading-relaxed" set:html={line} />
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </main>
+</BaseLayout>
