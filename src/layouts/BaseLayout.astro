@@ -1,0 +1,59 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+}
+const { title, description = "Guildmages' Forum 魔風集會所是一個繁體中文的部落格，致力於推廣魔法風雲會競技型賽制。", ogImage } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <title>{title} | Guildmages' Forum 魔風集會所</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100 font-sans">
+    <slot />
+    <script>
+      // Scryfall card hover — imgUrl sourced from server-side remark plugin attributes only
+      document.addEventListener('DOMContentLoaded', () => {
+        const tooltip = document.createElement('div');
+        tooltip.id = 'scryfall-tooltip';
+        tooltip.style.cssText = 'position:fixed;z-index:9999;pointer-events:none;display:none;transition:opacity 0.15s;';
+        document.body.appendChild(tooltip);
+
+        document.addEventListener('mouseover', (e) => {
+          const link = (e.target as Element).closest('a.scryfall-card');
+          if (!link) return;
+          const imgUrl = link.getAttribute('data-card-image');
+          if (!imgUrl) return;
+          const img = document.createElement('img');
+          img.src = imgUrl;
+          img.style.cssText = 'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
+          img.loading = 'lazy';
+          tooltip.replaceChildren(img);
+          tooltip.style.display = 'block';
+        });
+
+        document.addEventListener('mousemove', (e) => {
+          if (tooltip.style.display === 'none') return;
+          const x = e.clientX + 16;
+          const y = e.clientY - 20;
+          tooltip.style.left = Math.min(x, window.innerWidth - 240) + 'px';
+          tooltip.style.top = Math.max(0, Math.min(y, window.innerHeight - 340)) + 'px';
+        });
+
+        document.addEventListener('mouseout', (e) => {
+          if (!(e.target as Element).closest('a.scryfall-card')) return;
+          tooltip.style.display = 'none';
+        });
+      });
+    </script>
+  </body>
+</html>

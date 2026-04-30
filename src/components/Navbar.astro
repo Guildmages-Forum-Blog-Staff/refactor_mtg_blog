@@ -1,0 +1,23 @@
+---
+const navLinks = [
+  { href: '/', label: 'Home' },
+  { href: '/categories', label: 'Categories' },
+  { href: '/about', label: 'About Us' },
+];
+---
+<header class="sticky top-0 z-50 bg-white/90 dark:bg-gray-950/90 backdrop-blur border-b border-gray-200 dark:border-gray-800">
+  <nav class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
+    <a href="/" class="font-bold text-lg text-primary hover:opacity-80 transition-opacity">
+      Guildmages' Forum
+    </a>
+    <ul class="flex gap-6 text-sm font-medium">
+      {navLinks.map(link => (
+        <li>
+          <a href={link.href} class="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
+            {link.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+</header>

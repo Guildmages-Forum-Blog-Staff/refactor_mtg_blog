@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+import ArticleAuthorHeader from '../components/ArticleAuthorHeader.vue';
+import ArticleAuthorFooter from '../components/ArticleAuthorFooter.vue';
+import TableOfContents from '../components/TableOfContents.vue';
+import { getPostAuthors } from '../utils/authors';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map(post => ({
+    params: { slug: post.id.replace(/\.mdx?$/, '') },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await post.render();
+const authors = await getPostAuthors(post.data.authors);
+
+const coverImage = post.data.cover || post.data.thumbnail;
+---
+
+<BaseLayout
+  title={post.data.title}
+  description={post.data.excerpt}
+  ogImage={coverImage}
+>
+  <Navbar />
+  <main class="max-w-6xl mx-auto px-4 py-8">
+    {coverImage && (
+      <img
+        src={coverImage}
+        alt={post.data.title}
+        class="w-full h-64 md:h-80 object-cover rounded-xl mb-8"
+      />
+    )}
+
+    <div class="flex gap-8">
+      <!-- Article content -->
+      <article class="min-w-0 flex-1">
+        <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-gray-100 mb-4 leading-tight">
+          {post.data.title}
+        </h1>
+
+        <!-- Author header -->
+        <div class="mb-6 flex items-center gap-4">
+          <ArticleAuthorHeader authors={authors} client:load />
+          <div class="text-sm text-gray-500 dark:text-gray-400">
+            {post.data.date.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </div>
+        </div>
+
+        <!-- Categories -->
+        {post.data.categories.length > 0 && (
+          <div class="flex flex-wrap gap-2 mb-8">
+            {post.data.categories.map(cat => (
+              <a
+                href={`/categories/${encodeURIComponent(cat)}`}
+                class="px-3 py-1 text-xs font-medium bg-primary/10 text-primary rounded-full hover:bg-primary/20 transition-colors"
+              >
+                {cat}
+              </a>
+            ))}
+          </div>
+        )}
+
+        <!-- Content -->
+        <div class="prose prose-lg dark:prose-invert max-w-none prose-a:text-primary prose-headings:font-bold">
+          <Content />
+        </div>
+
+        <!-- Author footer -->
+        <ArticleAuthorFooter authors={authors} client:load />
+      </article>
+
+      <!-- TOC sidebar -->
+      {headings.length > 0 && (
+        <aside class="hidden xl:block w-64 shrink-0">
+          <TableOfContents headings={headings} client:load />
+        </aside>
+      )}
+    </div>
+  </main>
+</BaseLayout>
+
+<style is:global>
+  a.scryfall-card {
+    color: #A31F34;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    cursor: pointer;
+  }
+  a.scryfall-card:hover {
+    text-decoration-style: solid;
+  }
+</style>
