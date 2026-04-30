@@ -1,13 +1,14 @@
 import { visit } from 'unist-util-visit';
-import type { Root } from 'mdast';
+import type { Root, Link, Parent } from 'mdast';
 
 export function remarkScryfall() {
   return (tree: Root) => {
-    visit(tree, 'link', (node: any, index: number | undefined, parent: any) => {
+    visit(tree, 'link', (node: Link, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
       if (!node.url?.includes('cards.scryfall.io')) return;
 
-      const name = node.children[0]?.type === 'text' ? node.children[0].value : '';
+      const firstChild = node.children[0];
+      const name = firstChild?.type === 'text' ? firstChild.value : '';
       parent.children[index] = {
         type: 'html',
         value: `<a class="scryfall-card" data-card-image="${node.url}" href="${node.url}" target="_blank" rel="noopener noreferrer">${name}</a>`,
