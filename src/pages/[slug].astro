@@ -67,7 +67,14 @@ const coverImage = post.data.cover || post.data.thumbnail;
         )}
 
         <!-- Content -->
-        <div class="prose prose-lg dark:prose-invert max-w-none prose-a:text-primary prose-headings:font-bold">
+        <div class="prose prose-lg dark:prose-invert max-w-none
+                    prose-a:text-primary
+                    prose-headings:font-bold
+                    prose-img:rounded-lg
+                    prose-table:text-sm
+                    prose-code:text-primary
+                    prose-code:before:content-none
+                    prose-code:after:content-none">
           <Content />
         </div>
 
@@ -84,15 +91,3 @@ const coverImage = post.data.cover || post.data.thumbnail;
     </div>
   </main>
 </BaseLayout>
-
-<style is:global>
-  a.scryfall-card {
-    color: #A31F34;
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    cursor: pointer;
-  }
-  a.scryfall-card:hover {
-    text-decoration-style: solid;
-  }
-</style>

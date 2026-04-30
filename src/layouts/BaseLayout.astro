@@ -1,4 +1,7 @@
 ---
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
 interface Props {
   title: string;
   description?: string;
@@ -20,6 +23,7 @@ const { title, description = "Guildmages' Forum 魔風集會所是一個繁體�
   </head>
   <body class="bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100 font-sans">
     <slot />
+    <Footer />
     <script>
       // Scryfall card hover — imgUrl sourced from server-side remark plugin attributes only
       document.addEventListener('DOMContentLoaded', () => {

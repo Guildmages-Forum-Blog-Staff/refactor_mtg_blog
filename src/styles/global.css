@@ -5,3 +5,70 @@
 :root {
   --color-primary: #A31F34;
 }
+
+@layer base {
+  body {
+    font-family: 'Noto Sans TC', system-ui, -apple-system, sans-serif;
+  }
+
+  /* Smooth scroll */
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Scryfall card links */
+  a.scryfall-card {
+    @apply text-primary underline decoration-dotted cursor-pointer transition-all;
+  }
+  a.scryfall-card:hover {
+    @apply decoration-solid;
+  }
+
+  /* YouTube embeds */
+  .youtube-embed {
+    @apply relative w-full my-6;
+    padding-bottom: 56.25%;
+    height: 0;
+  }
+  .youtube-embed iframe {
+    @apply absolute inset-0 w-full h-full rounded-lg;
+  }
+
+  /* TOC scrollbar */
+  .toc::-webkit-scrollbar {
+    width: 4px;
+  }
+  .toc::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  .toc::-webkit-scrollbar-thumb {
+    @apply bg-gray-300 dark:bg-gray-700 rounded-full;
+  }
+}
+
+@layer utilities {
+  /* Prose image centering */
+  .prose img {
+    @apply mx-auto rounded-lg;
+  }
+
+  /* Prose table styling */
+  .prose table {
+    @apply w-full text-sm;
+  }
+  .prose th {
+    @apply bg-gray-100 dark:bg-gray-800 font-semibold;
+  }
+
+  /* Article heading anchor offset for sticky navbar */
+  .prose h1,
+  .prose h2,
+  .prose h3,
+  .prose h4,
+  .prose h5,
+  .prose h6 {
+    scroll-margin-top: 5rem;
+  }
+}
