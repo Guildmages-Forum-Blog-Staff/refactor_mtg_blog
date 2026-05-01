@@ -3,11 +3,12 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: #a31f34;
+  --color-primary: #ab3b3a;
 }
 
 @layer base {
   body {
+    @apply bg-background text-foreground;
     font-family:
       'Noto Sans TC',
       system-ui,
