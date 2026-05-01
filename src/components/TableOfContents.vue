@@ -1,10 +1,10 @@
 <template>
   <nav class="toc sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto text-sm">
-    <p v-if="title" class="mb-2 line-clamp-3 font-semibold leading-snug text-gray-900 dark:text-gray-100">
-      {{ title }}
-    </p>
-    <p class="mb-3 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
+    <p class="mb-2 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
       Contents
+    </p>
+    <p v-if="title" class="mb-3 line-clamp-3 text-base font-bold leading-snug text-gray-900 dark:text-gray-100">
+      {{ title }}
     </p>
     <ul class="flex flex-col gap-1">
       <li
