@@ -89,7 +89,7 @@ const coverImage = post.data.cover || post.data.thumbnail;
       {
         headings.length > 0 && (
           <aside class="hidden w-64 shrink-0 xl:block">
-            <TableOfContents headings={headings} client:load />
+            <TableOfContents headings={headings} title={post.data.title} client:load />
           </aside>
         )
       }
