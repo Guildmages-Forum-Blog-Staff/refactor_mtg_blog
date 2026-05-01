@@ -119,7 +119,7 @@ tags:
 能防禦住的方式只能是用 {% mtglink "Unsubstantiate" %} 把 {% mtglink "Dandân" %} 先一步回手、或是用 {% mtglink "Dance of the Skywise" %} 先一步洗掉它的異能保一回合。
 
 > 關於 `失去異能` 後還能不能被 `修改文字`，答案是可以的，因為 `失去異能` 並不是整張牌變成白板，這張牌本身的特徵還是包含這些敘述，只是沒有生效。
-> 同時修改文字在 Layer 3，異能增減（失去/獲得異能）在 Layer 4，因此即便 {% mtglink "Dandân"} 被 {% mtglink "Dance of the Skywise" %} 洗掉異能還是會被 {% mtglink "Mind Bend" %} 修改文字，並在當回合結束步驟中的清除步驟失去 {% mtglink "Dance of the Skywise" %} 的效果而犧牲。
+> 同時修改文字在 Layer 3，異能增減（失去/獲得異能）在 Layer 4，因此即便 {% mtglink "Dandân" %} 被 {% mtglink "Dance of the Skywise" %} 洗掉異能還是會被 {% mtglink "Mind Bend" %} 修改文字，並在當回合結束步驟中的清除步驟失去 {% mtglink "Dance of the Skywise" %} 的效果而犧牲。
 
 原本以為可以用 {% mtglink "Vision Charm" %} 將基本地都改為對應的類別來避免 {% mtglink "Dandân" %} 被犧牲，但後來想了下無論是回應 {% mtglink "Mind Bend" %} 丟 {% mtglink "Vision Charm" %} 或是在 {% mtglink "Mind Bend" %} 結算後丟 {% mtglink "Vision Charm" %}，中間都會有一個時間點，在這個時候 {% mtglink "Dandân" %} 會不符合生存條件而被犧牲。
 但換句話說，也可以用 {% mtglink "Vision Charm" %} 當作一費掃場，將場上的 {% mtglink "Dandân" %} 通通一掃而盡。

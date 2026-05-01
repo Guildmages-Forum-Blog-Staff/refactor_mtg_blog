@@ -10,13 +10,27 @@ interface MtgTagArgs {
   collectionNumber?: string;
 }
 
-const TAG_PATTERN = /\{%\s*(mtglink|mtgcard|mtgpick)\s+(.*?)\s*%\}/g;
+const getTagPattern = () => /\{%\s*(mtglink|mtgcard|mtgpick)\s+(.*?)\s*%\}/g;
+
+// U+201C/U+201D = curly double-quotes; U+2018/U+2019 = curly single-quotes
+const CURLY_DOUBLE = new RegExp(
+  '[' + String.fromCharCode(0x201c) + String.fromCharCode(0x201d) + ']',
+  'g',
+);
+const CURLY_SINGLE = new RegExp(
+  '[' + String.fromCharCode(0x2018) + String.fromCharCode(0x2019) + ']',
+  'g',
+);
+// ASCII 34 = double-quote, ASCII 39 = single-quote
+const ASCII_DOUBLE = String.fromCharCode(34);
+const ASCII_SINGLE = String.fromCharCode(39);
 
 function tokenize(input: string): string[] {
+  const normalized = input.replace(CURLY_DOUBLE, ASCII_DOUBLE).replace(CURLY_SINGLE, ASCII_SINGLE);
   const tokens: string[] = [];
   const regex = /"([^"]*)"|'([^']*)'|(\S+)/g;
   let match: RegExpExecArray | null;
-  while ((match = regex.exec(input)) !== null) {
+  while ((match = regex.exec(normalized)) !== null) {
     tokens.push(match[1] ?? match[2] ?? match[3]);
   }
   return tokens;
@@ -124,7 +138,7 @@ function renderMtgPick(edition: string, number: string, args: MtgTagArgs): strin
 }
 
 function replaceTagsInText(text: string): string {
-  return text.replace(TAG_PATTERN, (_match, tag: string, argsStr: string) => {
+  return text.replace(getTagPattern(), (_match, tag: string, argsStr: string) => {
     const tokens = tokenize(argsStr);
     if (tag === 'mtgpick') {
       const args = parsePickArgs(tokens);
@@ -148,9 +162,7 @@ export function remarkMtgTags() {
 
         const firstChild = node.children[0] as Text;
         const text = firstChild.value.trim();
-        TAG_PATTERN.lastIndex = 0;
-        if (!TAG_PATTERN.test(text)) return;
-        TAG_PATTERN.lastIndex = 0;
+        if (!getTagPattern().test(text)) return;
 
         parent.children[index] = {
           type: 'html',
@@ -162,9 +174,7 @@ export function remarkMtgTags() {
     // Handle inline tags inside mixed-content paragraphs
     visit(tree, 'text', (node: Text, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
-      TAG_PATTERN.lastIndex = 0;
-      if (!TAG_PATTERN.test(node.value)) return;
-      TAG_PATTERN.lastIndex = 0;
+      if (!getTagPattern().test(node.value)) return;
 
       parent.children[index] = {
         type: 'html',
