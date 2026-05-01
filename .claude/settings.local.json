@@ -36,7 +36,8 @@
       "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector diff package.json)",
       "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add package.json package-lock.json vitest.config.ts src/plugins/__tests__/ src/utils/__tests__/)",
       "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector add astro.config.ts src/layouts/BaseLayout.astro src/plugins/remark-mtg-tags.ts src/plugins/__tests__/remark-mtg-tags.test.ts)",
-      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector commit -m \"feat: drop quotes from mtg tag syntax, support multi-word card names\")"
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector commit -m \"feat: drop quotes from mtg tag syntax, support multi-word card names\")",
+      "Bash(git -C /Users/miohitokiri5474/project/guildmages_forum/refector commit -m \"fix: restore quote-aware tokenizer so quoted card names render without quotes\")"
     ]
   }
 }

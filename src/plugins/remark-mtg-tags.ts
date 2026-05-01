@@ -13,7 +13,13 @@ interface MtgTagArgs {
 const TAG_PATTERN = /\{%\s*(mtglink|mtgcard|mtgpick)\s+(.*?)\s*%\}/g;
 
 function tokenize(input: string): string[] {
-  return input.trim().split(/\s+/).filter(Boolean);
+  const tokens: string[] = [];
+  const regex = /"([^"]*)"|'([^']*)'|(\S+)/g;
+  let match: RegExpExecArray | null;
+  while ((match = regex.exec(input)) !== null) {
+    tokens.push(match[1] ?? match[2] ?? match[3]);
+  }
+  return tokens;
 }
 
 function parseCardArgs(tokens: string[]): MtgTagArgs {
@@ -21,7 +27,12 @@ function parseCardArgs(tokens: string[]): MtgTagArgs {
   const nameTokens: string[] = [];
 
   for (const token of tokens) {
-    const sep = token.indexOf(':') > 0 ? token.indexOf(':') : token.indexOf('=') > 0 ? token.indexOf('=') : -1;
+    const sep =
+      token.indexOf(':') > 0
+        ? token.indexOf(':')
+        : token.indexOf('=') > 0
+          ? token.indexOf('=')
+          : -1;
     if (sep > 0) {
       opts[token.slice(0, sep)] = token.slice(sep + 1);
     } else {
@@ -49,7 +60,12 @@ function parseCardArgs(tokens: string[]): MtgTagArgs {
 function parsePickArgs(tokens: string[]): MtgTagArgs {
   const opts: Record<string, string> = {};
   for (const token of tokens.slice(2)) {
-    const sep = token.indexOf(':') > 0 ? token.indexOf(':') : token.indexOf('=') > 0 ? token.indexOf('=') : -1;
+    const sep =
+      token.indexOf(':') > 0
+        ? token.indexOf(':')
+        : token.indexOf('=') > 0
+          ? token.indexOf('=')
+          : -1;
     if (sep > 0) opts[token.slice(0, sep)] = token.slice(sep + 1);
   }
   return {
