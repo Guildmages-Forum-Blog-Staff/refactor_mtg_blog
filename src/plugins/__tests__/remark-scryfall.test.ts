@@ -2,8 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { remark } from 'remark';
 import { remarkScryfall } from '../remark-scryfall';
 
-const process = (markdown: string) =>
-  remark().use(remarkScryfall).process(markdown);
+const process = (markdown: string) => remark().use(remarkScryfall).process(markdown);
 
 describe('remarkScryfall', () => {
   it('transforms scryfall image link to scryfall-card anchor', async () => {
@@ -11,7 +10,9 @@ describe('remarkScryfall', () => {
     const file = await process(input);
     const html = String(file);
     expect(html).toContain('class="scryfall-card"');
-    expect(html).toContain('data-card-image="https://cards.scryfall.io/large/front/a/b/abc123.jpg"');
+    expect(html).toContain(
+      'data-card-image="https://cards.scryfall.io/large/front/a/b/abc123.jpg"',
+    );
     expect(html).toContain('黑蓮花');
   });
 

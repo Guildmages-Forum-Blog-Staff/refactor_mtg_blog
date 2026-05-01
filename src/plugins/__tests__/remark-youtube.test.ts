@@ -2,8 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { remark } from 'remark';
 import { remarkYoutube } from '../remark-youtube';
 
-const process = (markdown: string) =>
-  remark().use(remarkYoutube).process(markdown);
+const process = (markdown: string) => remark().use(remarkYoutube).process(markdown);
 
 describe('remarkYoutube', () => {
   it('transforms {%youtube ID%} to iframe embed', async () => {
