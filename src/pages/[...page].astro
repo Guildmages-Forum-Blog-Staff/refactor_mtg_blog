@@ -81,8 +81,7 @@ const isFirstPage = page.currentPage === 1;
     </>
   )}
 
-  <!-- Conditional wrapper: solid bg on page 1, plain on others -->
-  <div class:list={[isFirstPage && "bg-background dark:bg-dark-bg"]}>
+  <div>
     <main class="mx-auto max-w-3xl px-4 py-10">
       {!isFirstPage && (
         <h1 class="mb-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
