@@ -31,8 +31,8 @@ let fetchQueue: Promise<void> = Promise.resolve();
 function enqueue<T>(fn: () => Promise<T>): Promise<T> {
   const result = fetchQueue.then(fn);
   fetchQueue = result.then(
-    () => new Promise(r => setTimeout(r, 100)),
-    () => new Promise(r => setTimeout(r, 100)),
+    () => new Promise((r) => setTimeout(r, 100)),
+    () => new Promise((r) => setTimeout(r, 100)),
   ) as Promise<void>;
   return result;
 }

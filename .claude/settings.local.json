@@ -46,7 +46,14 @@
       "Bash(git commit *)",
       "Bash(jobs *)",
       "Bash(kill 49393 *)",
-      "Bash(git rm *)"
+      "Bash(git rm *)",
+      "Bash(cat)",
+      "Bash(git filter-branch *)",
+      "Bash(git stash *)",
+      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch -f --msg-filter 'python3 /tmp/fix_disclosure.py' 548c7d1..HEAD)",
+      "Bash(git push *)",
+      "WebFetch(domain:guildmagesforum.tw)",
+      "Bash(npx tsc *)"
     ]
   }
 }
