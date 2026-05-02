@@ -91,55 +91,57 @@ const isFirstPage = page.currentPage === 1;
       <div id="post-list" class="flex flex-col gap-8">
         {
           postsWithAuthors.map(({ post, authors }: any) => (
-            <article class="border-b border-gray-100 pb-8 dark:border-gray-800">
+            <article class="overflow-hidden rounded-2xl bg-white/95 shadow-md dark:bg-dark-bg/95">
               {(post.data.cover || post.data.thumbnail) && (
                 <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
                   <img
                     src={post.data.cover || post.data.thumbnail}
                     alt={post.data.title}
-                    class="mb-4 h-48 w-full rounded-lg object-cover"
+                    class="h-48 w-full object-cover"
                   />
                 </a>
               )}
-              <div class="mb-2 flex flex-wrap gap-2">
-                {post.data.categories.map((cat: string) => (
-                  <a
-                    href={`/categories/${encodeURIComponent(cat)}`}
-                    class="text-xs font-medium text-primary hover:underline"
-                  >
-                    {cat}
-                  </a>
-                ))}
-              </div>
-              <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
-                <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
-                  {post.data.title}
-                </h2>
-              </a>
-              {post.data.excerpt && (
-                <p class="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-                  {post.data.excerpt}
-                </p>
-              )}
-              <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-                <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
-                {authors.length > 0 && (
-                  <div class="flex items-center gap-1.5">
-                    {authors.map((author: any) => (
-                      <a
-                        href={`/authors/${author.id}`}
-                        class="flex items-center gap-1 transition-colors hover:text-primary"
-                      >
-                        <img
-                          src={author.avatar}
-                          alt={author.name}
-                          class="h-5 w-5 rounded-full object-cover"
-                        />
-                        <span>{author.name}</span>
-                      </a>
-                    ))}
-                  </div>
+              <div class="p-5">
+                <div class="mb-2 flex flex-wrap gap-2">
+                  {post.data.categories.map((cat: string) => (
+                    <a
+                      href={`/categories/${encodeURIComponent(cat)}`}
+                      class="text-xs font-medium text-primary hover:underline"
+                    >
+                      {cat}
+                    </a>
+                  ))}
+                </div>
+                <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                  <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
+                    {post.data.title}
+                  </h2>
+                </a>
+                {post.data.excerpt && (
+                  <p class="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+                    {post.data.excerpt}
+                  </p>
                 )}
+                <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                  <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
+                  {authors.length > 0 && (
+                    <div class="flex items-center gap-1.5">
+                      {authors.map((author: any) => (
+                        <a
+                          href={`/authors/${author.id}`}
+                          class="flex items-center gap-1 transition-colors hover:text-primary"
+                        >
+                          <img
+                            src={author.avatar}
+                            alt={author.name}
+                            class="h-5 w-5 rounded-full object-cover"
+                          />
+                          <span>{author.name}</span>
+                        </a>
+                      ))}
+                    </div>
+                  )}
+                </div>
               </div>
             </article>
           ))
