@@ -54,7 +54,9 @@
       "Bash(git push *)",
       "WebFetch(domain:guildmagesforum.tw)",
       "Bash(npx tsc *)",
-      "Bash(xargs du *)"
+      "Bash(xargs du *)",
+      "Bash(rm /Users/miohitokiri5474/project/guildmages_forum/refactor/src/pages/categories/\\\\[cat\\\\].astro)",
+      "Bash(mkdir -p /Users/miohitokiri5474/project/guildmages_forum/refactor/src/pages/categories/\\\\[cat\\\\])"
     ]
   }
 }

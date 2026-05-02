@@ -2,18 +2,20 @@ import { defineConfig } from 'astro/config';
 import vue from '@astrojs/vue';
 import tailwind from '@astrojs/tailwind';
 import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
 import compress from '@playform/compress';
 import { remarkScryfall } from './src/plugins/remark-scryfall';
 import { remarkYoutube } from './src/plugins/remark-youtube';
 import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 
 export default defineConfig({
+  site: 'https://guildmagesforum.tw',
   compressHTML: true,
   server: {
     host: true,
     allowedHosts: ['gf-preview.miohitokiri5474.tw', 'guildmagesforum.tw'],
   },
-  integrations: [vue(), tailwind(), mdx(), compress()],
+  integrations: [vue(), tailwind(), mdx(), sitemap(), compress()],
   vite: {
     plugins: [
       {
