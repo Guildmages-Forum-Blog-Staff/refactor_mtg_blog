@@ -9,6 +9,21 @@ import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 export default defineConfig({
   integrations: [vue(), tailwind(), mdx()],
   vite: {
+    plugins: [
+      {
+        name: 'pagefind-dev-stub',
+        apply: 'serve',
+        resolveId(id: string) {
+          if (id === '/pagefind/pagefind.js') return id;
+        },
+        load(id: string) {
+          if (id === '/pagefind/pagefind.js') {
+            return `export const init = async () => {};
+export const search = async () => ({ results: [] });`;
+          }
+        },
+      },
+    ],
     build: {
       rollupOptions: {
         external: ['/pagefind/pagefind.js'],
