@@ -73,9 +73,7 @@ const isFirstPage = page.currentPage === 1;
           <p class="mt-4 text-3xl font-medium text-white drop-shadow-lg">
             魔風集會所
           </p>
-          <p class="mt-8 text-sm text-white/60">
-            ↓ 向下捲動
-          </p>
+          <p id="hero-typewriter" class="mt-8 min-h-[1.5em] text-lg text-white/80 drop-shadow"></p>
         </div>
       </section>
     </>
@@ -229,5 +227,41 @@ const isFirstPage = page.currentPage === 1;
         { passive: true },
       );
     }
+  }
+</script>
+
+<script>
+  const tw = document.getElementById('hero-typewriter');
+  if (tw) {
+    const lines = ['各路旅法師的集散地', '讓玩家額外有個 +1/+1 指示物', '釋放各路玩家的限制', '盡情享受遊戲', '不瘋魔不成活'];
+    let lineIdx = 0;
+    let charIdx = 0;
+    let deleting = false;
+    let waitTimer: ReturnType<typeof setTimeout> | null = null;
+
+    function tick() {
+      const current = lines[lineIdx];
+      if (!deleting) {
+        charIdx++;
+        tw.textContent = current.slice(0, charIdx);
+        if (charIdx === current.length) {
+          waitTimer = setTimeout(() => { deleting = true; tick(); }, 2000);
+          return;
+        }
+        setTimeout(tick, 80);
+      } else {
+        charIdx--;
+        tw.textContent = current.slice(0, charIdx);
+        if (charIdx === 0) {
+          deleting = false;
+          lineIdx = (lineIdx + 1) % lines.length;
+          setTimeout(tick, 300);
+          return;
+        }
+        setTimeout(tick, 40);
+      }
+    }
+
+    setTimeout(tick, 600);
   }
 </script>
