@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+---
+
+<BaseLayout title="Contact Us / 聯絡我們">
+  <Navbar />
+  <main class="mx-auto max-w-4xl px-4 py-10">
+    <h1 class="mb-6 text-3xl font-bold text-gray-900 dark:text-gray-100">Contact Us / 聯絡我們</h1>
+
+    <!-- General Contact -->
+    <section class="mb-10">
+      <h2 class="mb-4 text-xl font-semibold text-gray-800 dark:text-gray-200">聯絡方式</h2>
+      <div class="prose max-w-none dark:prose-invert">
+        <ul class="space-y-2">
+          <li>
+            <strong>Facebook：</strong>
+            <a
+              href="https://www.facebook.com/guildmagesforumtw"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-primary transition-colors hover:underline"
+            >
+              Guildmages' Forum 魔風集會所
+            </a>
+          </li>
+          <li>
+            <strong>Email：</strong>
+            <a
+              href="mailto:guildmagesforumblog@gmail.com"
+              class="text-primary transition-colors hover:underline"
+            >
+              guildmagesforumblog@gmail.com
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Article Submission -->
+    <section class="mb-10">
+      <h2 class="mb-4 text-xl font-semibold text-gray-800 dark:text-gray-200">文章投稿</h2>
+      <div class="rounded-xl border border-gray-200 bg-white/60 p-6 dark:border-gray-700 dark:bg-white/5">
+        <p class="mb-4 text-gray-700 dark:text-gray-300">
+          歡迎所有熱愛魔法風雲會的玩家投稿！無論是套牌分享、賽事心得、卡牌分析或是對局技巧，只要是與 MTG 相關的優質內容，我們都非常歡迎。
+        </p>
+        <p class="mb-3 text-gray-700 dark:text-gray-300">投稿請寄至：</p>
+        <p class="mb-1 font-medium text-gray-900 dark:text-gray-100">
+          <a
+            href="mailto:guildmagesforumblog@gmail.com"
+            class="text-primary transition-colors hover:underline"
+          >
+            guildmagesforumblog@gmail.com
+          </a>
+        </p>
+        <p class="mt-4 text-sm text-gray-600 dark:text-gray-400">
+          主旨格式：<span class="rounded bg-gray-100 px-2 py-0.5 font-mono text-primary dark:bg-white/10">文章投稿_文章標題</span>
+        </p>
+      </div>
+    </section>
+
+    <!-- Disclaimer -->
+    <section class="mb-10">
+      <h2 class="mb-4 text-xl font-semibold text-gray-800 dark:text-gray-200">免責聲明</h2>
+      <div class="prose max-w-none dark:prose-invert">
+        <ul class="space-y-2 text-gray-700 dark:text-gray-300">
+          <li>本站為非官方同好內容，依據 Wizards of the Coast 粉絲內容政策運營。</li>
+          <li>MTG 卡牌圖像及翻譯版權歸 Wizards of the Coast 所有。</li>
+          <li>本站由社群愛好者自發創作，與官方無關。</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

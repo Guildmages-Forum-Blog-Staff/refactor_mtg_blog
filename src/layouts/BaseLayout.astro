@@ -146,5 +146,65 @@ const {
         });
       })();
     </script>
+    <button
+      id="scroll-top-btn"
+      aria-label="Back to top"
+      class="fixed bottom-6 right-6 z-50 hidden h-12 w-12 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
+    >
+      <svg class="absolute inset-0 h-12 w-12 -rotate-90" viewBox="0 0 48 48">
+        <circle
+          cx="24" cy="24" r="20"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2.5"
+          class="text-gray-200 dark:text-gray-700"
+        />
+        <circle
+          id="scroll-progress-ring"
+          cx="24" cy="24" r="20"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2.5"
+          stroke-linecap="round"
+          class="text-primary transition-[stroke-dashoffset] duration-100"
+          style="stroke-dasharray: 125.66; stroke-dashoffset: 125.66;"
+        />
+      </svg>
+      <!-- Up arrow -->
+      <svg class="relative h-4 w-4 text-gray-700 dark:text-gray-200" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
+      </svg>
+    </button>
+    <script>
+      (function () {
+        const btn = document.getElementById('scroll-top-btn');
+        const ring = document.getElementById('scroll-progress-ring');
+        const circumference = 125.66;
+
+        if (!btn || !ring) return;
+
+        window.addEventListener('scroll', () => {
+          const scrollTop = window.scrollY;
+          const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+          const progress = docHeight > 0 ? scrollTop / docHeight : 0;
+
+          // Show/hide: hide when at top (scrollTop < 50)
+          if (scrollTop < 50) {
+            btn.classList.remove('flex');
+            btn.classList.add('hidden');
+          } else {
+            btn.classList.remove('hidden');
+            btn.classList.add('flex');
+          }
+
+          // Update ring
+          ring.style.strokeDashoffset = String(circumference * (1 - progress));
+        }, { passive: true });
+
+        btn.addEventListener('click', () => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      })();
+    </script>
   </body>
 </html>
