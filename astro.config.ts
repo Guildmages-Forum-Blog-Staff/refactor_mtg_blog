@@ -7,6 +7,7 @@ import { remarkYoutube } from './src/plugins/remark-youtube';
 import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 
 export default defineConfig({
+  server: { host: true },
   integrations: [vue(), tailwind(), mdx()],
   vite: {
     plugins: [
