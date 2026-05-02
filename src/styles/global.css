@@ -53,6 +53,25 @@
   }
 }
 
+/* Page transition animations */
+@keyframes page-fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes page-fade-out {
+  from { opacity: 1; transform: translateY(0); }
+  to   { opacity: 0; transform: translateY(-6px); }
+}
+
+::view-transition-old(root) {
+  animation: 150ms ease-in page-fade-out;
+}
+
+::view-transition-new(root) {
+  animation: 250ms ease-out page-fade-in;
+}
+
 @keyframes blink {
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }

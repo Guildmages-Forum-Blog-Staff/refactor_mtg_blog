@@ -1,5 +1,6 @@
 ---
 import Footer from '../components/Footer.astro';
+import { ViewTransitions } from 'astro:transitions';
 import '../styles/global.css';
 
 interface Props {
@@ -28,6 +29,7 @@ const {
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
+    <ViewTransitions />
     <script is:inline>
       (function () {
         const stored = localStorage.getItem('theme');
