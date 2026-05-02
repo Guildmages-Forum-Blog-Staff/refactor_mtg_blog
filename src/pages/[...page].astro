@@ -73,7 +73,9 @@ const isFirstPage = page.currentPage === 1;
           <p class="mt-4 text-3xl font-medium text-white drop-shadow-lg">
             魔風集會所
           </p>
-          <p id="hero-typewriter" class="mt-8 min-h-[1.5em] text-lg text-white/80 drop-shadow"></p>
+          <p class="mt-8 min-h-[1.5em] text-lg text-white/80 drop-shadow">
+            <span id="hero-tw-text"></span><span class="hero-cursor">|</span>
+          </p>
         </div>
       </section>
     </>
@@ -231,7 +233,7 @@ const isFirstPage = page.currentPage === 1;
 </script>
 
 <script>
-  const tw = document.getElementById('hero-typewriter');
+  const tw = document.getElementById('hero-tw-text');
   if (tw) {
     const lines = ['各路旅法師的集散地', '讓玩家額外有個 +1/+1 指示物', '釋放各路玩家的限制', '盡情享受遊戲', '不瘋魔不成活'];
     let lineIdx = 0;
