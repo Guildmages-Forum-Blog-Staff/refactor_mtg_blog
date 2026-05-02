@@ -1,0 +1,351 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+import { getPostAuthors } from '../utils/authors';
+
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
+  const allPosts = await getCollection('posts');
+  const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  return paginate(sorted, { pageSize: 10 });
+}
+
+const { page } = Astro.props;
+
+const postsWithAuthors = await Promise.all(
+  page.data.map(async (post: any) => ({
+    post,
+    authors: await getPostAuthors(post.data.authors),
+  })),
+);
+
+function getPaginationItems(current: number, last: number): (number | '...')[] {
+  if (last <= 1) return [1];
+  const delta = 2;
+  const left = current - delta;
+  const right = current + delta;
+  const pages: number[] = [];
+  for (let i = 1; i <= last; i++) {
+    if (i === 1 || i === last || (i >= left && i <= right)) pages.push(i);
+  }
+  const result: (number | '...')[] = [];
+  let prev: number | null = null;
+  for (const p of pages) {
+    if (prev !== null) {
+      if (p - prev === 2) result.push(prev + 1);
+      else if (p - prev > 2) result.push('...');
+    }
+    result.push(p);
+    prev = p;
+  }
+  return result;
+}
+
+const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
+const isFirstPage = page.currentPage === 1;
+---
+
+<BaseLayout title={page.currentPage === 1 ? 'Home' : `Home — Page ${page.currentPage}`}>
+  <Navbar />
+
+  {isFirstPage && (
+    <>
+      <!-- Fixed background image -->
+      <div
+        id="hero-bg"
+        class="fixed inset-0 -z-10 bg-cover bg-center bg-no-repeat"
+        style="background-image: url('/images/WOE-Multicolor-cover.jpg');"
+      ></div>
+
+      <!-- Dark overlay -->
+      <div
+        id="hero-overlay"
+        class="fixed inset-0 bg-black/50"
+        style="z-index: -9;"
+      ></div>
+
+      <!-- Hero section -->
+      <section class="flex h-screen items-center justify-center">
+        <div class="text-center">
+          <h1 class="text-6xl font-bold text-white drop-shadow-2xl tracking-tight">
+            Guildmages' Forum
+          </h1>
+          <p class="mt-4 text-3xl font-medium text-white drop-shadow-lg">
+            魔風集會所
+          </p>
+          <p class="mt-8 text-sm text-white/60">
+            ↓ 向下捲動
+          </p>
+        </div>
+      </section>
+    </>
+  )}
+
+  {isFirstPage ? (
+    <div class="bg-background dark:bg-dark-bg">
+      <main class="mx-auto max-w-3xl px-4 py-10">
+        <div id="post-list" class="flex flex-col gap-8">
+          {
+            postsWithAuthors.map(({ post, authors }: any) => (
+              <article class="border-b border-gray-100 pb-8 dark:border-gray-800">
+                {(post.data.cover || post.data.thumbnail) && (
+                  <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                    <img
+                      src={post.data.cover || post.data.thumbnail}
+                      alt={post.data.title}
+                      class="mb-4 h-48 w-full rounded-lg object-cover"
+                    />
+                  </a>
+                )}
+                <div class="mb-2 flex flex-wrap gap-2">
+                  {post.data.categories.map((cat: string) => (
+                    <a
+                      href={`/categories/${encodeURIComponent(cat)}`}
+                      class="text-xs font-medium text-primary hover:underline"
+                    >
+                      {cat}
+                    </a>
+                  ))}
+                </div>
+                <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                  <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
+                    {post.data.title}
+                  </h2>
+                </a>
+                {post.data.excerpt && (
+                  <p class="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+                    {post.data.excerpt}
+                  </p>
+                )}
+                <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                  <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
+                  {authors.length > 0 && (
+                    <div class="flex items-center gap-1.5">
+                      {authors.map((author: any) => (
+                        <a
+                          href={`/authors/${author.id}`}
+                          class="flex items-center gap-1 transition-colors hover:text-primary"
+                        >
+                          <img
+                            src={author.avatar}
+                            alt={author.name}
+                            class="h-5 w-5 rounded-full object-cover"
+                          />
+                          <span>{author.name}</span>
+                        </a>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              </article>
+            ))
+          }
+        </div>
+
+        <!-- Pagination -->
+        <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
+          <div>
+            {
+              page.url.prev ? (
+                <a
+                  href={page.url.prev}
+                  class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+                >
+                  ← Prev
+                </a>
+              ) : (
+                <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+                  ← Prev
+                </span>
+              )
+            }
+          </div>
+
+          <div class="flex items-center gap-1">
+            {
+              paginationItems.map((item) =>
+                item === '...' ? (
+                  <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
+                ) : (
+                  <a
+                    href={item === 1 ? '/' : `/${item}`}
+                    class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
+                      item === page.currentPage
+                        ? 'bg-primary text-white'
+                        : 'text-gray-600 hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary'
+                    }`}
+                  >
+                    {item}
+                  </a>
+                ),
+              )
+            }
+          </div>
+
+          <div>
+            {
+              page.url.next ? (
+                <a
+                  href={page.url.next}
+                  class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+                >
+                  Next →
+                </a>
+              ) : (
+                <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+                  Next →
+                </span>
+              )
+            }
+          </div>
+        </nav>
+      </main>
+    </div>
+  ) : (
+    <main class="mx-auto max-w-3xl px-4 py-10">
+      <h1 class="mb-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
+        Guildmages' Forum <span class="text-primary">魔風集會所</span>
+      </h1>
+      <div id="post-list" class="flex flex-col gap-8">
+        {
+          postsWithAuthors.map(({ post, authors }: any) => (
+            <article class="border-b border-gray-100 pb-8 dark:border-gray-800">
+              {(post.data.cover || post.data.thumbnail) && (
+                <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                  <img
+                    src={post.data.cover || post.data.thumbnail}
+                    alt={post.data.title}
+                    class="mb-4 h-48 w-full rounded-lg object-cover"
+                  />
+                </a>
+              )}
+              <div class="mb-2 flex flex-wrap gap-2">
+                {post.data.categories.map((cat: string) => (
+                  <a
+                    href={`/categories/${encodeURIComponent(cat)}`}
+                    class="text-xs font-medium text-primary hover:underline"
+                  >
+                    {cat}
+                  </a>
+                ))}
+              </div>
+              <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
+                  {post.data.title}
+                </h2>
+              </a>
+              {post.data.excerpt && (
+                <p class="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+                  {post.data.excerpt}
+                </p>
+              )}
+              <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
+                {authors.length > 0 && (
+                  <div class="flex items-center gap-1.5">
+                    {authors.map((author: any) => (
+                      <a
+                        href={`/authors/${author.id}`}
+                        class="flex items-center gap-1 transition-colors hover:text-primary"
+                      >
+                        <img
+                          src={author.avatar}
+                          alt={author.name}
+                          class="h-5 w-5 rounded-full object-cover"
+                        />
+                        <span>{author.name}</span>
+                      </a>
+                    ))}
+                  </div>
+                )}
+              </div>
+            </article>
+          ))
+        }
+      </div>
+
+      <!-- Pagination -->
+      <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
+        <div>
+          {
+            page.url.prev ? (
+              <a
+                href={page.url.prev}
+                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+              >
+                ← Prev
+              </a>
+            ) : (
+              <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+                ← Prev
+              </span>
+            )
+          }
+        </div>
+
+        <div class="flex items-center gap-1">
+          {
+            paginationItems.map((item) =>
+              item === '...' ? (
+                <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
+              ) : (
+                <a
+                  href={item === 1 ? '/' : `/${item}`}
+                  class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
+                    item === page.currentPage
+                      ? 'bg-primary text-white'
+                      : 'text-gray-600 hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary'
+                  }`}
+                >
+                  {item}
+                </a>
+              ),
+            )
+          }
+        </div>
+
+        <div>
+          {
+            page.url.next ? (
+              <a
+                href={page.url.next}
+                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+              >
+                Next →
+              </a>
+            ) : (
+              <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+                Next →
+              </span>
+            )
+          }
+        </div>
+      </nav>
+    </main>
+  )}
+</BaseLayout>
+
+<script>
+  const heroBg = document.getElementById('hero-bg');
+  if (heroBg) {
+    const postList = document.getElementById('post-list');
+    const firstPost = postList ? postList.querySelector('article') : null;
+    if (firstPost) {
+      window.addEventListener(
+        'scroll',
+        () => {
+          const progress = Math.max(
+            0,
+            Math.min(
+              1,
+              (window.innerHeight - firstPost.getBoundingClientRect().top) /
+                (window.innerHeight / 2),
+            ),
+          );
+          heroBg.style.filter = `blur(${progress * 12}px)`;
+        },
+        { passive: true },
+      );
+    }
+  }
+</script>
