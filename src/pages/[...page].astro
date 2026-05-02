@@ -81,131 +81,14 @@ const isFirstPage = page.currentPage === 1;
     </>
   )}
 
-  {isFirstPage ? (
-    <div class="bg-background dark:bg-dark-bg">
-      <main class="mx-auto max-w-3xl px-4 py-10">
-        <div id="post-list" class="flex flex-col gap-8">
-          {
-            postsWithAuthors.map(({ post, authors }: any) => (
-              <article class="border-b border-gray-100 pb-8 dark:border-gray-800">
-                {(post.data.cover || post.data.thumbnail) && (
-                  <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
-                    <img
-                      src={post.data.cover || post.data.thumbnail}
-                      alt={post.data.title}
-                      class="mb-4 h-48 w-full rounded-lg object-cover"
-                    />
-                  </a>
-                )}
-                <div class="mb-2 flex flex-wrap gap-2">
-                  {post.data.categories.map((cat: string) => (
-                    <a
-                      href={`/categories/${encodeURIComponent(cat)}`}
-                      class="text-xs font-medium text-primary hover:underline"
-                    >
-                      {cat}
-                    </a>
-                  ))}
-                </div>
-                <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
-                  <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
-                    {post.data.title}
-                  </h2>
-                </a>
-                {post.data.excerpt && (
-                  <p class="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-                    {post.data.excerpt}
-                  </p>
-                )}
-                <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-                  <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
-                  {authors.length > 0 && (
-                    <div class="flex items-center gap-1.5">
-                      {authors.map((author: any) => (
-                        <a
-                          href={`/authors/${author.id}`}
-                          class="flex items-center gap-1 transition-colors hover:text-primary"
-                        >
-                          <img
-                            src={author.avatar}
-                            alt={author.name}
-                            class="h-5 w-5 rounded-full object-cover"
-                          />
-                          <span>{author.name}</span>
-                        </a>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </article>
-            ))
-          }
-        </div>
-
-        <!-- Pagination -->
-        <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
-          <div>
-            {
-              page.url.prev ? (
-                <a
-                  href={page.url.prev}
-                  class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
-                >
-                  ← Prev
-                </a>
-              ) : (
-                <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
-                  ← Prev
-                </span>
-              )
-            }
-          </div>
-
-          <div class="flex items-center gap-1">
-            {
-              paginationItems.map((item) =>
-                item === '...' ? (
-                  <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
-                ) : (
-                  <a
-                    href={item === 1 ? '/' : `/${item}`}
-                    class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
-                      item === page.currentPage
-                        ? 'bg-primary text-white'
-                        : 'text-gray-600 hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary'
-                    }`}
-                  >
-                    {item}
-                  </a>
-                ),
-              )
-            }
-          </div>
-
-          <div>
-            {
-              page.url.next ? (
-                <a
-                  href={page.url.next}
-                  class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
-                >
-                  Next →
-                </a>
-              ) : (
-                <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
-                  Next →
-                </span>
-              )
-            }
-          </div>
-        </nav>
-      </main>
-    </div>
-  ) : (
+  <!-- Conditional wrapper: solid bg on page 1, plain on others -->
+  <div class:list={[isFirstPage && "bg-background dark:bg-dark-bg"]}>
     <main class="mx-auto max-w-3xl px-4 py-10">
-      <h1 class="mb-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
-        Guildmages' Forum <span class="text-primary">魔風集會所</span>
-      </h1>
+      {!isFirstPage && (
+        <h1 class="mb-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
+          Guildmages' Forum <span class="text-primary">魔風集會所</span>
+        </h1>
+      )}
       <div id="post-list" class="flex flex-col gap-8">
         {
           postsWithAuthors.map(({ post, authors }: any) => (
@@ -322,7 +205,7 @@ const isFirstPage = page.currentPage === 1;
         </div>
       </nav>
     </main>
-  )}
+  </div>
 </BaseLayout>
 
 <script>
