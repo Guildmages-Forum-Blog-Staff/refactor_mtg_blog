@@ -65,7 +65,7 @@
 @layer utilities {
   /* Prose image centering */
   .prose img {
-    @apply mx-auto rounded-lg;
+    @apply mx-auto max-w-full rounded-lg;
   }
 
   /* Prose table styling */
