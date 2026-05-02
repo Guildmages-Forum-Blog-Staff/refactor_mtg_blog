@@ -10,6 +10,8 @@ export default {
         primary: '#AB3B3A',
         background: '#D7C4BB',
         foreground: '#0C0C0C',
+        'dark-bg': '#1C1C1C',
+        'dark-fg': '#FCFAF2',
       },
       typography: {
         DEFAULT: {

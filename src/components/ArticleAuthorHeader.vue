@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-wrap items-center gap-3">
     <div v-for="author in authors" :key="author.id" class="flex items-center gap-2">
-      <a :href="author.url || `/tags/${author.id}`" class="shrink-0">
+      <a :href="`/authors/${author.id}`" class="shrink-0">
         <img
           :src="author.avatar"
           :alt="author.name"
@@ -9,7 +9,7 @@
         />
       </a>
       <a
-        :href="author.url || `/tags/${author.id}`"
+        :href="`/authors/${author.id}`"
         class="text-sm font-medium text-gray-700 transition-colors hover:text-primary dark:text-gray-300"
       >
         {{ author.name }}

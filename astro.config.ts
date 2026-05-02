@@ -8,6 +8,13 @@ import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 
 export default defineConfig({
   integrations: [vue(), tailwind(), mdx()],
+  vite: {
+    build: {
+      rollupOptions: {
+        external: ['/pagefind/pagefind.js'],
+      },
+    },
+  },
   markdown: {
     remarkPlugins: [remarkScryfall, remarkYoutube, remarkMtgTags],
     shikiConfig: {

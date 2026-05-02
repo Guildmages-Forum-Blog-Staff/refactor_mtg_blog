@@ -1,0 +1,88 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Navbar from '../../components/Navbar.astro';
+
+export async function getStaticPaths() {
+  const [authors, posts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
+
+  return authors.map((author) => {
+    const authorPosts = posts
+      .filter((p) => p.data.authors.includes(author.id))
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    return { params: { username: author.id }, props: { author, posts: authorPosts } };
+  });
+}
+
+const { author, posts } = Astro.props;
+
+const byYear = posts.reduce<Record<number, typeof posts>>((acc, post) => {
+  const year = post.data.date.getFullYear();
+  (acc[year] ??= []).push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(byYear)
+  .map(Number)
+  .sort((a, b) => b - a);
+---
+
+<BaseLayout title={`${author.data.name} | Guildmages' Forum`}>
+  <Navbar />
+  <main class="mx-auto max-w-3xl px-4 py-10">
+    <!-- Author profile -->
+    <div class="mb-10 flex items-start gap-6">
+      <img
+        src={author.data.avatar}
+        alt={author.data.name}
+        class="h-24 w-24 shrink-0 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700"
+      />
+      <div class="flex flex-col gap-2">
+        <h1 class="text-2xl font-bold text-gray-900 dark:text-dark-fg">{author.data.name}</h1>
+        {
+          author.data.intro.map((line) => (
+            <p
+              class="text-sm leading-relaxed text-gray-600 dark:text-dark-fg/70"
+              set:html={line}
+            />
+          ))
+        }
+        <p class="mt-1 text-sm text-gray-400 dark:text-dark-fg/50">{posts.length} 篇文章</p>
+      </div>
+    </div>
+
+    <!-- Posts by year -->
+    <div class="flex flex-col gap-10">
+      {
+        years.map((year) => (
+          <section>
+            <h2 class="mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700 dark:text-dark-fg/60">
+              {year}
+            </h2>
+            <ul class="flex flex-col gap-4">
+              {byYear[year].map((post) => {
+                const slug = post.id.replace(/\.mdx?$/, '');
+                return (
+                  <li class="flex items-baseline justify-between gap-4">
+                    <a
+                      href={`/${slug}`}
+                      class="flex-1 text-base font-medium text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
+                    >
+                      {post.data.title}
+                    </a>
+                    <time class="shrink-0 text-sm text-gray-400 dark:text-dark-fg/50">
+                      {post.data.date.toLocaleDateString('zh-TW', {
+                        month: '2-digit',
+                        day: '2-digit',
+                      })}
+                    </time>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </main>
+</BaseLayout>

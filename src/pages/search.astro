@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+---
+
+<BaseLayout title="搜尋 | Guildmages' Forum">
+  <Navbar />
+  <main class="mx-auto max-w-3xl px-4 py-10">
+    <h1 class="mb-8 text-2xl font-bold text-gray-900 dark:text-dark-fg">搜尋</h1>
+    <div id="search"></div>
+  </main>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    const script = document.createElement('script');
+    script.src = '/pagefind/pagefind-ui.js';
+    script.onload = () => {
+      new PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+      });
+    };
+    document.head.appendChild(script);
+  });
+</script>
+
+<style is:global>
+  :root {
+    --pagefind-ui-primary: #ab3b3a;
+    --pagefind-ui-text: #0c0c0c;
+    --pagefind-ui-background: #d7c4bb;
+    --pagefind-ui-border: #e5e7eb;
+    --pagefind-ui-tag: #f3f4f6;
+  }
+  .dark {
+    --pagefind-ui-text: #fcfaf2;
+    --pagefind-ui-background: #434343;
+    --pagefind-ui-border: #4b5563;
+    --pagefind-ui-tag: #374151;
+  }
+</style>

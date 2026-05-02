@@ -1,0 +1,50 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  posts: CollectionEntry<'posts'>[];
+}
+
+const { posts } = Astro.props;
+if (posts.length === 0) return;
+---
+
+<section class="mt-12 border-t border-gray-200 pt-8 dark:border-gray-700">
+  <h2 class="mb-6 text-xl font-bold text-gray-900 dark:text-dark-fg">相關文章</h2>
+  <div class="grid grid-cols-2 gap-4 lg:grid-cols-4">
+    {
+      posts.map((post) => {
+        const slug = post.id.replace(/\.mdx?$/, '');
+        const cover = post.data.thumbnail || post.data.cover;
+        return (
+          <a
+            href={`/${slug}`}
+            class="group flex flex-col overflow-hidden rounded-xl border border-gray-200 transition-shadow hover:shadow-md dark:border-gray-700"
+          >
+            {cover ? (
+              <img
+                src={cover}
+                alt={post.data.title}
+                class="h-32 w-full object-cover transition-transform duration-300 group-hover:scale-105"
+              />
+            ) : (
+              <div class="h-32 w-full bg-primary/10" />
+            )}
+            <div class="flex flex-1 flex-col p-3">
+              <p class="line-clamp-2 text-sm font-medium leading-snug text-gray-900 dark:text-dark-fg">
+                {post.data.title}
+              </p>
+              <p class="mt-1 text-xs text-gray-500 dark:text-dark-fg/60">
+                {post.data.date.toLocaleDateString('zh-TW', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </p>
+            </div>
+          </a>
+        );
+      })
+    }
+  </div>
+</section>
