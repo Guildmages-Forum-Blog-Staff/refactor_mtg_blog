@@ -2,7 +2,6 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Navbar from '../../components/Navbar.astro';
-import { getPostAuthors } from '../../utils/authors';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -10,92 +9,69 @@ export async function getStaticPaths() {
 
   return [...cats].map((cat) => ({
     params: { cat: encodeURIComponent(cat) },
-    props: { cat, posts: posts.filter((p) => p.data.categories.includes(cat)) },
+    props: {
+      cat,
+      posts: posts
+        .filter((p) => p.data.categories.includes(cat))
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
   }));
 }
 
 const { cat, posts } = Astro.props;
-const sorted = [...posts].sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const postsWithAuthors = await Promise.all(
-  sorted.map(async (post) => ({
-    post,
-    authors: await getPostAuthors(post.data.authors),
-  })),
-);
+const byYear = posts.reduce<Record<number, typeof posts>>((acc, post) => {
+  const year = post.data.date.getFullYear();
+  (acc[year] ??= []).push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(byYear)
+  .map(Number)
+  .sort((a, b) => b - a);
 ---
 
 <BaseLayout title={`${cat} | Categories`}>
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">
-    <div class="mb-8">
+    <div class="mb-10">
       <a href="/categories" class="text-sm text-gray-500 transition-colors hover:text-primary">
         ← All Categories
       </a>
-      <h1 class="mt-2 text-3xl font-bold text-gray-900 dark:text-gray-100">
-        {cat}
-      </h1>
-      <p class="mt-1 text-sm text-gray-500">{sorted.length} articles</p>
+      <h1 class="mt-2 text-2xl font-bold text-gray-900 dark:text-dark-fg">{cat}</h1>
+      <p class="mt-1 text-sm text-gray-400 dark:text-dark-fg/50">{posts.length} 篇文章</p>
     </div>
 
-    <div class="flex flex-col gap-8">
+    <div class="flex flex-col gap-10">
       {
-        postsWithAuthors.map(({ post, authors }) => {
-          const slug = post.id.replace(/\.mdx?$/, '');
-          return (
-            <article class="border-b border-gray-100 pb-8 dark:border-gray-800">
-              {(post.data.cover || post.data.thumbnail) && (
-                <a href={`/${slug}`}>
-                  <img
-                    src={post.data.cover || post.data.thumbnail}
-                    alt={post.data.title}
-                    class="mb-4 h-48 w-full rounded-lg object-cover"
-                  />
-                </a>
-              )}
-              <div class="mb-2 flex flex-wrap gap-2">
-                {post.data.categories.map((c) => (
-                  <a
-                    href={`/categories/${encodeURIComponent(c)}`}
-                    class={`text-xs font-medium hover:underline ${c === cat ? 'font-semibold text-primary' : 'text-gray-500'}`}
-                  >
-                    {c}
-                  </a>
-                ))}
-              </div>
-              <a href={`/${slug}`}>
-                <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
-                  {post.data.title}
-                </h2>
-              </a>
-              {post.data.excerpt && (
-                <p class="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-                  {post.data.excerpt}
-                </p>
-              )}
-              <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-                <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
-                {authors.length > 0 && (
-                  <div class="flex items-center gap-1.5">
-                    {authors.map((author) => (
-                      <a
-                        href={`/authors/${author.id}`}
-                        class="flex items-center gap-1 transition-colors hover:text-primary"
-                      >
-                        <img
-                          src={author.avatar}
-                          alt={author.name}
-                          class="h-5 w-5 rounded-full object-cover"
-                        />
-                        <span>{author.name}</span>
-                      </a>
-                    ))}
-                  </div>
-                )}
-              </div>
-            </article>
-          );
-        })
+        years.map((year) => (
+          <section>
+            <h2 class="mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700 dark:text-dark-fg/60">
+              {year}
+            </h2>
+            <ul class="flex flex-col gap-4">
+              {byYear[year].map((post) => {
+                const slug = post.id.replace(/\.mdx?$/, '');
+                return (
+                  <li class="flex items-baseline justify-between gap-4">
+                    <a
+                      href={`/${slug}`}
+                      class="flex-1 text-base font-medium text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
+                    >
+                      {post.data.title}
+                    </a>
+                    <time class="shrink-0 text-sm text-gray-400 dark:text-dark-fg/50">
+                      {post.data.date.toLocaleDateString('zh-TW', {
+                        month: '2-digit',
+                        day: '2-digit',
+                      })}
+                    </time>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        ))
       }
     </div>
   </main>
