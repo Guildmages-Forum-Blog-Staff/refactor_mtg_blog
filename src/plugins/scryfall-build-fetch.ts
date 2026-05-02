@@ -7,14 +7,26 @@ const CACHE_PATH = join(process.cwd(), '.scryfall-cache.json');
 let cache: Record<string, string> = {};
 let cacheLoaded = false;
 
+// Build-time stats
+const stats = { cacheHit: 0, fetched: 0, failed: 0 };
+
 function ensureCache() {
   if (cacheLoaded) return;
   try {
     cache = JSON.parse(readFileSync(CACHE_PATH, 'utf-8'));
+    console.log(`[scryfall] cache loaded — ${Object.keys(cache).length} entries`);
   } catch {
     cache = {};
+    console.log('[scryfall] no cache found, starting fresh');
   }
   cacheLoaded = true;
+
+  // Print summary when build process exits
+  process.once('exit', () => {
+    console.log(
+      `[scryfall] build summary — cache hits: ${stats.cacheHit}, fetched: ${stats.fetched}, failed: ${stats.failed}`,
+    );
+  });
 }
 
 function persistCache() {
@@ -54,26 +66,35 @@ export async function fetchImageByName(
 ): Promise<string | null> {
   ensureCache();
   const key = `name:${name}:${edition}:${language}`;
-  if (cache[key]) return cache[key];
+  if (cache[key]) {
+    stats.cacheHit++;
+    console.log(`[scryfall] cache hit  — ${name}${edition ? ` [${edition}]` : ''}`);
+    return cache[key];
+  }
 
   return enqueue(async () => {
     try {
       let url = `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(name)}`;
       if (edition) url += `&set=${encodeURIComponent(edition)}`;
+      console.log(`[scryfall] fetching  — ${name}${edition ? ` [${edition}]` : ''}`);
       const res = await fetch(url);
       if (!res.ok) {
-        console.warn(`[scryfall] not found: ${name} (${edition})`);
+        stats.failed++;
+        console.warn(`[scryfall] not found — ${name}${edition ? ` [${edition}]` : ''} (HTTP ${res.status})`);
         return null;
       }
       const data = (await res.json()) as Record<string, unknown>;
       const imgUrl = getImageUrl(data);
       if (imgUrl) {
+        stats.fetched++;
         cache[key] = imgUrl;
         persistCache();
+        console.log(`[scryfall] fetched   — ${name}${edition ? ` [${edition}]` : ''}`);
       }
       return imgUrl;
     } catch (e) {
-      console.warn(`[scryfall] fetch error for ${name}:`, e);
+      stats.failed++;
+      console.warn(`[scryfall] error     — ${name}:`, e);
       return null;
     }
   });
@@ -86,26 +107,35 @@ export async function fetchImageByNumber(
 ): Promise<string | null> {
   ensureCache();
   const key = `pick:${edition}:${number}:${language}`;
-  if (cache[key]) return cache[key];
+  if (cache[key]) {
+    stats.cacheHit++;
+    console.log(`[scryfall] cache hit  — ${edition}/${number}`);
+    return cache[key];
+  }
 
   return enqueue(async () => {
     try {
       let url = `https://api.scryfall.com/cards/${encodeURIComponent(edition)}/${encodeURIComponent(number)}`;
       if (language && language !== 'en') url += `/${encodeURIComponent(language)}`;
+      console.log(`[scryfall] fetching  — ${edition}/${number}`);
       const res = await fetch(url);
       if (!res.ok) {
-        console.warn(`[scryfall] not found: ${edition}/${number}`);
+        stats.failed++;
+        console.warn(`[scryfall] not found — ${edition}/${number} (HTTP ${res.status})`);
         return null;
       }
       const data = (await res.json()) as Record<string, unknown>;
       const imgUrl = getImageUrl(data);
       if (imgUrl) {
+        stats.fetched++;
         cache[key] = imgUrl;
         persistCache();
+        console.log(`[scryfall] fetched   — ${edition}/${number}`);
       }
       return imgUrl;
     } catch (e) {
-      console.warn(`[scryfall] fetch error for ${edition}/${number}:`, e);
+      stats.failed++;
+      console.warn(`[scryfall] error     — ${edition}/${number}:`, e);
       return null;
     }
   });
