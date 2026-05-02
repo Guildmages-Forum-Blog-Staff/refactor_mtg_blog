@@ -80,7 +80,9 @@ export async function fetchImageByName(
       const res = await fetch(url);
       if (!res.ok) {
         stats.failed++;
-        console.warn(`[scryfall] not found — ${name}${edition ? ` [${edition}]` : ''} (HTTP ${res.status})`);
+        console.warn(
+          `[scryfall] not found — ${name}${edition ? ` [${edition}]` : ''} (HTTP ${res.status})`,
+        );
         return null;
       }
       const data = (await res.json()) as Record<string, unknown>;

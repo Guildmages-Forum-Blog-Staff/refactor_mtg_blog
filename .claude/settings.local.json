@@ -53,7 +53,8 @@
       "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch -f --msg-filter 'python3 /tmp/fix_disclosure.py' 548c7d1..HEAD)",
       "Bash(git push *)",
       "WebFetch(domain:guildmagesforum.tw)",
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "Bash(xargs du *)"
     ]
   }
 }
