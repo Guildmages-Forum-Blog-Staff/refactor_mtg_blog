@@ -1,5 +1,6 @@
 import { visit } from 'unist-util-visit';
 import type { Root, Paragraph, Text, Parent } from 'mdast';
+import { fetchImageByName, fetchImageByNumber } from './scryfall-build-fetch';
 
 interface MtgTagArgs {
   name?: string;
@@ -91,10 +92,12 @@ function parsePickArgs(tokens: string[]): MtgTagArgs {
   };
 }
 
-function renderMtgLink(name: string, args: MtgTagArgs): string {
+async function renderMtgLink(name: string, args: MtgTagArgs): Promise<string> {
   const display = args.alt ?? name;
+  const imgUrl = await fetchImageByName(name, args.edition, args.language);
   const attrs = [
     `class="mtg-link scryfall-card"`,
+    imgUrl ? `data-card-image="${imgUrl}"` : '',
     `data-card-name="${name}"`,
     args.edition ? `data-edition="${args.edition}"` : '',
     `data-language="${args.language}"`,
@@ -104,82 +107,84 @@ function renderMtgLink(name: string, args: MtgTagArgs): string {
   return `<a ${attrs}>${display}</a>`;
 }
 
-function renderMtgCard(name: string, args: MtgTagArgs): string {
+async function renderMtgCard(name: string, args: MtgTagArgs): Promise<string> {
   if (args.tooltip) return renderMtgLink(name, args);
-  const attrs = [
-    `class="mtg-card-img"`,
-    `data-card-name="${name}"`,
-    args.edition ? `data-edition="${args.edition}"` : '',
-    `data-language="${args.language}"`,
-  ]
-    .filter(Boolean)
-    .join(' ');
-  return `<span ${attrs}></span>`;
+  const imgUrl = await fetchImageByName(name, args.edition, args.language);
+  if (!imgUrl) {
+    // fallback: render as link without image
+    return `<a class="mtg-link scryfall-card" data-card-name="${name}">${name}</a>`;
+  }
+  return `<img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" />`;
 }
 
-function renderMtgPick(edition: string, number: string, args: MtgTagArgs): string {
+async function renderMtgPick(edition: string, number: string, args: MtgTagArgs): Promise<string> {
+  const imgUrl = await fetchImageByNumber(edition, number, args.language);
   if (args.tooltip) {
     const display = args.alt ?? '';
-    const attrs = [
-      `class="mtg-link scryfall-card"`,
-      `data-edition="${edition}"`,
-      `data-number="${number}"`,
-      `data-language="${args.language}"`,
-    ].join(' ');
-    return `<a ${attrs}>${display}</a>`;
+    return `<a class="scryfall-card" ${imgUrl ? `data-card-image="${imgUrl}"` : ''} data-edition="${edition}" data-number="${number}">${display}</a>`;
   }
-  const attrs = [
-    `class="mtg-card-pick"`,
-    `data-edition="${edition}"`,
-    `data-number="${number}"`,
-    `data-language="${args.language}"`,
-  ].join(' ');
-  return `<span ${attrs}></span>`;
+  if (!imgUrl)
+    return `<span class="mtg-card-pick" data-edition="${edition}" data-number="${number}"></span>`;
+  return `<img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${edition} ${number}" />`;
 }
 
-function replaceTagsInText(text: string): string {
-  return text.replace(getTagPattern(), (_match, tag: string, argsStr: string) => {
+async function replaceTagsInText(text: string): Promise<string> {
+  const pattern = getTagPattern();
+  const parts: Array<string | Promise<string>> = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = pattern.exec(text)) !== null) {
+    if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
+    const [, tag, argsStr] = match;
     const tokens = tokenize(argsStr);
     if (tag === 'mtgpick') {
       const args = parsePickArgs(tokens);
-      return renderMtgPick(args.edition ?? '', args.collectionNumber ?? '', args);
+      parts.push(renderMtgPick(args.edition ?? '', args.collectionNumber ?? '', args));
+    } else {
+      const args = parseCardArgs(tokens);
+      if (tag === 'mtglink') parts.push(renderMtgLink(args.name ?? '', args));
+      else parts.push(renderMtgCard(args.name ?? '', args));
     }
-    const args = parseCardArgs(tokens);
-    if (tag === 'mtglink') return renderMtgLink(args.name ?? '', args);
-    return renderMtgCard(args.name ?? '', args);
-  });
+    lastIndex = match.index + match[0].length;
+  }
+  if (lastIndex < text.length) parts.push(text.slice(lastIndex));
+  return (await Promise.all(parts)).join('');
 }
 
 export function remarkMtgTags() {
-  return (tree: Root) => {
-    // Handle solo-paragraph tags (block level)
+  return async (tree: Root) => {
+    type PendingReplacement = {
+      parent: Parent;
+      index: number;
+      textFn: () => Promise<string>;
+    };
+    const pending: PendingReplacement[] = [];
+
+    // Collect paragraph-level solo tags
     visit(
       tree,
       'paragraph',
       (node: Paragraph, index: number | undefined, parent: Parent | undefined) => {
         if (index === undefined || !parent) return;
         if (node.children.length !== 1 || node.children[0].type !== 'text') return;
-
-        const firstChild = node.children[0] as Text;
-        const text = firstChild.value.trim();
+        const text = (node.children[0] as Text).value.trim();
         if (!getTagPattern().test(text)) return;
-
-        parent.children[index] = {
-          type: 'html',
-          value: replaceTagsInText(text),
-        };
+        pending.push({ parent, index, textFn: () => replaceTagsInText(text) });
       },
     );
 
-    // Handle inline tags inside mixed-content paragraphs
+    // Collect inline text tags
     visit(tree, 'text', (node: Text, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
       if (!getTagPattern().test(node.value)) return;
-
-      parent.children[index] = {
-        type: 'html',
-        value: replaceTagsInText(node.value),
-      };
+      const value = node.value;
+      pending.push({ parent, index, textFn: () => replaceTagsInText(value) });
     });
+
+    // Resolve all async replacements sequentially
+    for (const { parent, index, textFn } of pending) {
+      parent.children[index] = { type: 'html', value: await textFn() };
+    }
   };
 }
