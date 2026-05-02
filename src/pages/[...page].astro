@@ -48,22 +48,24 @@ const isFirstPage = page.currentPage === 1;
 <BaseLayout title={page.currentPage === 1 ? 'Home' : `Home — Page ${page.currentPage}`}>
   <Navbar />
 
+  <!-- Fixed background image (persisted across paginated pages) -->
+  <div
+    id="hero-bg"
+    transition:persist
+    class="fixed inset-0 -z-10 bg-cover bg-center bg-no-repeat"
+    style={`background-image: url('/images/WOE-Multicolor-cover.jpg');${!isFirstPage ? ' filter: blur(12px);' : ''}`}
+  ></div>
+
+  <!-- Dark overlay -->
+  <div
+    id="hero-overlay"
+    transition:persist
+    class="fixed inset-0 bg-black/50"
+    style="z-index: -9;"
+  ></div>
+
   {isFirstPage && (
     <>
-      <!-- Fixed background image -->
-      <div
-        id="hero-bg"
-        class="fixed inset-0 -z-10 bg-cover bg-center bg-no-repeat"
-        style="background-image: url('/images/WOE-Multicolor-cover.jpg');"
-      ></div>
-
-      <!-- Dark overlay -->
-      <div
-        id="hero-overlay"
-        class="fixed inset-0 bg-black/50"
-        style="z-index: -9;"
-      ></div>
-
       <!-- Hero section -->
       <section class="flex h-screen items-center justify-center">
         <div class="text-center">
@@ -211,7 +213,8 @@ const isFirstPage = page.currentPage === 1;
 
 <script>
   const heroBg = document.getElementById('hero-bg');
-  if (heroBg) {
+  const isHeroPage = !!document.getElementById('hero-tw-text');
+  if (heroBg && isHeroPage) {
     const postList = document.getElementById('post-list');
     const firstPost = postList ? postList.querySelector('article') : null;
     if (firstPost) {
