@@ -93,12 +93,13 @@ const isFirstPage = page.currentPage === 1;
       <div id="post-list" class="flex flex-col gap-8">
         {
           postsWithAuthors.map(({ post, authors }: any) => (
-            <article class="overflow-hidden rounded-2xl bg-white/95 shadow-md dark:bg-dark-bg/95">
+            <article class="post-card overflow-hidden rounded-2xl bg-white/95 shadow-md dark:bg-dark-bg/95">
               {(post.data.cover || post.data.thumbnail) && (
                 <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
                   <img
                     src={post.data.cover || post.data.thumbnail}
                     alt={post.data.title}
+                    loading="lazy"
                     class="h-48 w-full object-cover"
                   />
                 </a>
@@ -136,6 +137,7 @@ const isFirstPage = page.currentPage === 1;
                           <img
                             src={author.avatar}
                             alt={author.name}
+                            loading="lazy"
                             class="h-5 w-5 rounded-full object-cover"
                           />
                           <span>{author.name}</span>
@@ -271,4 +273,26 @@ const isFirstPage = page.currentPage === 1;
 
     setTimeout(tick, 600);
   }
+</script>
+
+<script>
+  function initCardReveal() {
+    const cards = document.querySelectorAll<HTMLElement>('.post-card');
+    if (!cards.length) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        }
+      },
+      { threshold: 0.1 },
+    );
+    cards.forEach((card) => observer.observe(card));
+  }
+
+  initCardReveal();
+  document.addEventListener('astro:after-swap', initCardReveal);
 </script>

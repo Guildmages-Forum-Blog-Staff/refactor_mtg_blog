@@ -8,7 +8,7 @@ export async function getStaticPaths() {
   const cats = new Set(posts.flatMap((p) => p.data.categories));
 
   return [...cats].map((cat) => ({
-    params: { cat: encodeURIComponent(cat) },
+    params: { cat },
     props: {
       cat,
       posts: posts

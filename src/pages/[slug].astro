@@ -35,6 +35,7 @@ const coverImage = post.data.cover || post.data.thumbnail;
         <img
           src={coverImage}
           alt={post.data.title}
+          loading="lazy"
           class="mb-8 h-64 w-full rounded-xl object-cover md:h-80"
         />
       )

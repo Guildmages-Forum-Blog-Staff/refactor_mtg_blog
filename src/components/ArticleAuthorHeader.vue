@@ -5,6 +5,7 @@
         <img
           :src="author.avatar"
           :alt="author.name"
+          loading="lazy"
           class="h-8 w-8 rounded-full border border-gray-200 object-cover dark:border-gray-700"
         />
       </a>
