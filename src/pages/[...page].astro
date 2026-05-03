@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
 import { getPostAuthors } from '../utils/authors';
+import { buildCategoryBreadcrumbs } from '../utils/categories';
 
 export async function getStaticPaths({ paginate }: { paginate: Function }) {
   const allPosts = await getCollection('posts');
@@ -106,12 +107,12 @@ const isFirstPage = page.currentPage === 1;
               )}
               <div class="p-5">
                 <div class="mb-2 flex flex-wrap gap-2">
-                  {post.data.categories.map((cat: string) => (
+                  {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
                     <a
-                      href={`/categories/${encodeURIComponent(cat)}`}
+                      href={`/categories/${encodeURIComponent(cat)}/`}
                       class="text-xs font-medium text-primary hover:underline"
                     >
-                      {cat}
+                      {label}
                     </a>
                   ))}
                 </div>

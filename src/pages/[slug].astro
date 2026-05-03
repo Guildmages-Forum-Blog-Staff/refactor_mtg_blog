@@ -9,6 +9,7 @@ import WalineComments from '../components/WalineComments.vue';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import { getPostAuthors } from '../utils/authors';
 import { getRelatedPosts } from '../utils/related';
+import { buildCategoryBreadcrumbs } from '../utils/categories';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -68,12 +69,12 @@ const coverImage = post.data.cover || post.data.thumbnail;
         {
           post.data.categories.length > 0 && (
             <div class="mb-8 flex flex-wrap gap-2">
-              {post.data.categories.map((cat) => (
+              {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
                 <a
-                  href={`/categories/${encodeURIComponent(cat)}`}
+                  href={`/categories/${encodeURIComponent(cat)}/`}
                   class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
                 >
-                  {cat}
+                  {label}
                 </a>
               ))}
             </div>
