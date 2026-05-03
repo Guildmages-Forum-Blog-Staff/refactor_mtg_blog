@@ -10,6 +10,7 @@ import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 
 export default defineConfig({
   site: 'https://guildmagesforum.tw',
+  base: '/refactor_mtg_blog',
   compressHTML: true,
   server: {
     host: true,
