@@ -2,13 +2,22 @@
 
 ## Commands
 
+<!-- AUTO-GENERATED from package.json scripts -->
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Dev server at localhost:4321 |
+| `npm run build` | Production build + pagefind index |
+| `npm run preview` | Preview production build locally |
+| `npm run check` | Astro type-check |
+| `npm run lint` / `lint:fix` | ESLint |
+| `npm run format` / `format:check` | Prettier |
+| `npm run test` | Run tests once |
+| `npm run test:watch` | Watch mode |
+| `npm run test:coverage` | Coverage report |
+<!-- END AUTO-GENERATED -->
+
 ```bash
-npm run dev       # localhost:4321
-npm run build
-npm run check     # Astro type-check
-npm run lint / lint:fix / format
-npm run test / test:watch / test:coverage
-npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts
+npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts  # single plugin test
 ```
 
 ## Stack
