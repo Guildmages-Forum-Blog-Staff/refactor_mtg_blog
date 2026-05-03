@@ -93,6 +93,43 @@ const coverImage = post.data.cover || post.data.thumbnail;
           <ArticleAuthorFooter authors={authors} client:load />
         </div>
 
+        <!-- CC license block -->
+        <div data-pagefind-ignore class="mt-8 rounded-xl border border-gray-200 bg-gray-50 px-5 py-4 text-sm text-gray-600 dark:border-gray-700 dark:bg-white/5 dark:text-dark-fg/70">
+          <dl class="flex flex-col gap-1.5">
+            <div class="flex gap-2">
+              <dt class="w-24 shrink-0 font-semibold text-gray-700 dark:text-dark-fg/90">Title</dt>
+              <dd>{post.data.title}</dd>
+            </div>
+            <div class="flex gap-2">
+              <dt class="w-24 shrink-0 font-semibold text-gray-700 dark:text-dark-fg/90">Author</dt>
+              <dd>{authors.map((a) => a.name).join(', ')}</dd>
+            </div>
+            <div class="flex gap-2">
+              <dt class="w-24 shrink-0 font-semibold text-gray-700 dark:text-dark-fg/90">Created at</dt>
+              <dd>{post.data.date.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</dd>
+            </div>
+            {post.data.updated && (
+              <div class="flex gap-2">
+                <dt class="w-24 shrink-0 font-semibold text-gray-700 dark:text-dark-fg/90">Updated at</dt>
+                <dd>{post.data.updated.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</dd>
+              </div>
+            )}
+            <div class="flex gap-2">
+              <dt class="w-24 shrink-0 font-semibold text-gray-700 dark:text-dark-fg/90">Link</dt>
+              <dd><a href={Astro.url.href} class="break-all text-primary hover:underline">{Astro.url.href}</a></dd>
+            </div>
+            <div class="flex gap-2">
+              <dt class="w-24 shrink-0 font-semibold text-gray-700 dark:text-dark-fg/90">License</dt>
+              <dd>
+                This work is licensed under{' '}
+                <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">
+                  CC BY-NC-SA 4.0
+                </a>.
+              </dd>
+            </div>
+          </dl>
+        </div>
+
         <!-- Related posts -->
         <div data-pagefind-ignore>
           <RelatedPosts posts={relatedPosts} />
