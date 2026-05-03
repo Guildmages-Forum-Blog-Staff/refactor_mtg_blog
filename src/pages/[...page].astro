@@ -106,15 +106,20 @@ const isFirstPage = page.currentPage === 1;
                 </a>
               )}
               <div class="p-5">
-                <div class="mb-2 flex flex-wrap gap-2">
-                  {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
-                    <a
-                      href={`/categories/${encodeURIComponent(cat)}/`}
-                      class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
-                    >
-                      {label}
-                    </a>
-                  ))}
+                <div class="mb-2 flex flex-wrap items-center justify-between gap-2">
+                  <div class="flex flex-wrap gap-2">
+                    {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
+                      <a
+                        href={`/categories/${encodeURIComponent(cat)}/`}
+                        class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
+                      >
+                        {label}
+                      </a>
+                    ))}
+                  </div>
+                  <time class="shrink-0 text-xs text-gray-400 dark:text-gray-500">
+                    {post.data.date.toLocaleDateString('zh-TW')}
+                  </time>
                 </div>
                 <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
                   <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
@@ -126,27 +131,24 @@ const isFirstPage = page.currentPage === 1;
                     {post.data.excerpt}
                   </p>
                 )}
-                <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-                  <time>{post.data.date.toLocaleDateString('zh-TW')}</time>
-                  {authors.length > 0 && (
-                    <div class="flex items-center gap-1.5">
-                      {authors.map((author: any) => (
-                        <a
-                          href={`/authors/${author.id}`}
-                          class="flex items-center gap-1 transition-colors hover:text-primary"
-                        >
-                          <img
-                            src={author.avatar}
-                            alt={author.name}
-                            loading="lazy"
-                            class="h-5 w-5 rounded-full object-cover"
-                          />
-                          <span>{author.name}</span>
-                        </a>
-                      ))}
-                    </div>
-                  )}
-                </div>
+                {authors.length > 0 && (
+                  <div class="flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400">
+                    {authors.map((author: any) => (
+                      <a
+                        href={`/authors/${author.id}`}
+                        class="flex items-center gap-1 transition-colors hover:text-primary"
+                      >
+                        <img
+                          src={author.avatar}
+                          alt={author.name}
+                          loading="lazy"
+                          class="h-5 w-5 rounded-full object-cover"
+                        />
+                        <span>{author.name}</span>
+                      </a>
+                    ))}
+                  </div>
+                )}
               </div>
             </article>
           ))
