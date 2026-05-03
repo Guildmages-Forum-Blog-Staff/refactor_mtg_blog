@@ -33,7 +33,7 @@
       v-show="showBtn"
       aria-label="Back to top"
       class="flex h-10 w-10 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
-      :style="{ position: 'fixed', bottom: '1.5rem', right: btnRight + 'px' }"
+      :style="{ position: 'fixed', bottom: 'calc(1.5rem + 50px)', right: btnRight + 'px' }"
       @click="scrollToTop"
     >
       <svg class="absolute inset-0 h-10 w-10 -rotate-90" viewBox="0 0 48 48">
