@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+## Workflow Rules
+
+- **Commit after every change.** Each logical change (file edit, fix, feature) gets its own commit immediately. Never batch unrelated changes.
+
 ## Commands
 
 <!-- AUTO-GENERATED from package.json scripts -->
