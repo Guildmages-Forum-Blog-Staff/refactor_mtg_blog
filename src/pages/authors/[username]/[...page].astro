@@ -1,0 +1,162 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Navbar from '../../../components/Navbar.astro';
+import ArticleAuthorFooter from '../../../components/ArticleAuthorFooter.vue';
+
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
+  const [authors, posts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
+
+  return authors.flatMap((author) => {
+    const authorPosts = posts
+      .filter((p) => p.data.authors.includes(author.id))
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    return paginate(authorPosts, { params: { username: author.id }, props: { author }, pageSize: 20 });
+  });
+}
+
+const { author } = Astro.props;
+const { username } = Astro.params;
+const { page } = Astro.props;
+
+const byYear = (page.data as any[]).reduce<Record<number, any[]>>((acc, post) => {
+  const year = post.data.date.getFullYear();
+  (acc[year] ??= []).push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+
+function getPaginationItems(current: number, last: number): (number | '...')[] {
+  if (last <= 1) return [1];
+  const delta = 2;
+  const pages: number[] = [];
+  for (let i = 1; i <= last; i++) {
+    if (i === 1 || i === last || (i >= current - delta && i <= current + delta)) pages.push(i);
+  }
+  const result: (number | '...')[] = [];
+  let prev: number | null = null;
+  for (const p of pages) {
+    if (prev !== null) {
+      if (p - prev === 2) result.push(prev + 1);
+      else if (p - prev > 2) result.push('...');
+    }
+    result.push(p);
+    prev = p;
+  }
+  return result;
+}
+
+const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const avatar = author.data.avatar.startsWith('/') ? `${base}${author.data.avatar}` : author.data.avatar;
+const authorBase = `${import.meta.env.BASE_URL}authors/${username}`;
+const authorCard = [{
+  id: author.id,
+  username: author.data.username,
+  name: author.data.name,
+  avatar,
+  url: author.data.url,
+  intro: author.data.intro,
+}];
+---
+
+<BaseLayout
+  title={page.currentPage === 1
+    ? `${author.data.name} | Guildmages' Forum`
+    : `${author.data.name} — Page ${page.currentPage} | Guildmages' Forum`}
+>
+  <Navbar />
+  <main class="mx-auto max-w-3xl px-4 py-10">
+    <!-- Author profile -->
+    <ArticleAuthorFooter authors={authorCard} client:load />
+    <p class="mb-10 mt-2 text-sm text-gray-400 dark:text-dark-fg/50">{page.total} 篇文章</p>
+
+    <!-- Posts by year -->
+    <div class="flex flex-col gap-10">
+      {
+        years.map((year) => (
+          <section>
+            <h2 class="mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700 dark:text-dark-fg/60">
+              {year}
+            </h2>
+            <ul class="flex flex-col gap-4">
+              {byYear[year].map((post: any) => {
+                const slug = post.id.replace(/\.mdx?$/, '');
+                return (
+                  <li class="flex items-baseline justify-between gap-4">
+                    <a
+                      href={`${import.meta.env.BASE_URL}${slug}`}
+                      class="flex-1 text-base font-medium text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
+                    >
+                      {post.data.title}
+                    </a>
+                    <time class="shrink-0 text-sm text-gray-400 dark:text-dark-fg/50">
+                      {post.data.date.toLocaleDateString('zh-TW', {
+                        month: '2-digit',
+                        day: '2-digit',
+                      })}
+                    </time>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+
+    {page.lastPage > 1 && (
+      <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
+        <div>
+          {page.url.prev ? (
+            <a
+              href={page.url.prev}
+              class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+            >
+              ← Prev
+            </a>
+          ) : (
+            <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+              ← Prev
+            </span>
+          )}
+        </div>
+
+        <div class="flex items-center gap-1">
+          {paginationItems.map((item) =>
+            item === '...' ? (
+              <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
+            ) : (
+              <a
+                href={item === 1 ? `${authorBase}/` : `${authorBase}/${item}`}
+                class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
+                  item === page.currentPage
+                    ? 'bg-primary text-white'
+                    : 'text-gray-600 hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary'
+                }`}
+              >
+                {item}
+              </a>
+            ),
+          )}
+        </div>
+
+        <div>
+          {page.url.next ? (
+            <a
+              href={page.url.next}
+              class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+            >
+              Next →
+            </a>
+          ) : (
+            <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+              Next →
+            </span>
+          )}
+        </div>
+      </nav>
+    )}
+  </main>
+</BaseLayout>
