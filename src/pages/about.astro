@@ -45,6 +45,7 @@ const authorOrder = [
   'Terryrr',
 ];
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const authorMap = new Map(allAuthors.map((a) => [a.id, a.data]));
 const orderedAuthors = authorOrder
   .map((id) => ({ id, data: authorMap.get(id) }))
@@ -71,16 +72,16 @@ const orderedAuthors = authorOrder
       {
         orderedAuthors.map(({ id, data }) => (
           <div class="flex items-start gap-6">
-            <a href={data.url || `/tags/${id}`} class="shrink-0">
+            <a href={data.url || `${base}/authors/${id}`} class="shrink-0">
               <img
-                src={data.avatar}
+                src={data.avatar.startsWith('/') ? `${base}${data.avatar}` : data.avatar}
                 alt={data.name}
                 class="h-40 w-40 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700"
               />
             </a>
             <div class="flex min-w-0 flex-col gap-1 pt-1">
               <a
-                href={data.url || `/tags/${id}`}
+                href={data.url || `${base}/authors/${id}`}
                 class="text-3xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100"
               >
                 {data.name}
