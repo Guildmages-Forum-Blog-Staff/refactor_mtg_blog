@@ -54,7 +54,7 @@ const isFirstPage = page.currentPage === 1;
     id="hero-bg"
     transition:persist
     class="fixed inset-0 -z-10 bg-cover bg-center bg-no-repeat"
-    style={`background-image: url('/images/WOE-Multicolor-cover.jpg');${!isFirstPage ? ' filter: blur(12px);' : ''}`}
+    style={`background-image: url('${import.meta.env.BASE_URL}images/WOE-Multicolor-cover.jpg');${!isFirstPage ? ' filter: blur(12px);' : ''}`}
   ></div>
 
   <!-- Dark overlay -->
@@ -96,7 +96,7 @@ const isFirstPage = page.currentPage === 1;
           postsWithAuthors.map(({ post, authors }: any) => (
             <article class="post-card overflow-hidden rounded-2xl bg-white/95 shadow-md dark:bg-dark-bg/95">
               {(post.data.cover || post.data.thumbnail) && (
-                <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                <a href={`${import.meta.env.BASE_URL}${post.id.replace(/\.mdx?$/, '')}`}>
                   <img
                     src={post.data.cover || post.data.thumbnail}
                     alt={post.data.title}
@@ -110,7 +110,7 @@ const isFirstPage = page.currentPage === 1;
                   <div class="flex flex-wrap gap-2">
                     {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
                       <a
-                        href={`/categories/${encodeURIComponent(cat)}/`}
+                        href={`${import.meta.env.BASE_URL}categories/${encodeURIComponent(cat)}/`}
                         class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
                       >
                         {label}
@@ -121,7 +121,7 @@ const isFirstPage = page.currentPage === 1;
                     {post.data.date.toLocaleDateString('zh-TW')}
                   </time>
                 </div>
-                <a href={`/${post.id.replace(/\.mdx?$/, '')}`}>
+                <a href={`${import.meta.env.BASE_URL}${post.id.replace(/\.mdx?$/, '')}`}>
                   <h2 class="mb-2 text-xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100">
                     {post.data.title}
                   </h2>
@@ -135,7 +135,7 @@ const isFirstPage = page.currentPage === 1;
                   <div class="flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400">
                     {authors.map((author: any) => (
                       <a
-                        href={`/authors/${author.id}`}
+                        href={`${import.meta.env.BASE_URL}authors/${author.id}`}
                         class="flex items-center gap-1 transition-colors hover:text-primary"
                       >
                         <img
@@ -181,7 +181,7 @@ const isFirstPage = page.currentPage === 1;
                 <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
               ) : (
                 <a
-                  href={item === 1 ? '/' : `/${item}`}
+                  href={item === 1 ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}${item}`}
                   class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
                     item === page.currentPage
                       ? 'bg-primary text-white'

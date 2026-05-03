@@ -9,7 +9,7 @@ import { remarkYoutube } from './src/plugins/remark-youtube';
 import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 
 export default defineConfig({
-  site: 'https://guildmagesforum.tw',
+  site: 'https://guildmages-forum-blog-staff.github.io',
   base: '/refactor_mtg_blog',
   compressHTML: true,
   server: {

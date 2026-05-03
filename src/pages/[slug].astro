@@ -71,7 +71,7 @@ const coverImage = post.data.cover || post.data.thumbnail;
             <div class="mb-8 flex flex-wrap gap-2">
               {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
                 <a
-                  href={`/categories/${encodeURIComponent(cat)}/`}
+                  href={`${import.meta.env.BASE_URL}categories/${encodeURIComponent(cat)}/`}
                   class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
                 >
                   {label}

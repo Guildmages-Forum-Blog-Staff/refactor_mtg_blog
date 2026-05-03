@@ -8,11 +8,18 @@ export type AuthorData = {
   intro: string[];
 };
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+function withBase(path: string): string {
+  return path.startsWith('/') ? `${base}${path}` : path;
+}
+
 export async function getAllAuthors() {
   const collection = await getCollection('authors');
   return collection.map((entry) => ({
     id: entry.id,
     ...entry.data,
+    avatar: withBase(entry.data.avatar),
   }));
 }
 

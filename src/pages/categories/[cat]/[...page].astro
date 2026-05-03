@@ -47,7 +47,7 @@ function getPaginationItems(current: number, last: number): (number | '...')[] {
 }
 
 const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
-const catBase = `/categories/${cat}`;
+const catBase = `${import.meta.env.BASE_URL}categories/${cat}`;
 ---
 
 <BaseLayout
@@ -56,7 +56,7 @@ const catBase = `/categories/${cat}`;
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">
     <div class="mb-10">
-      <a href="/categories" class="text-sm text-gray-500 transition-colors hover:text-primary">
+      <a href={`${import.meta.env.BASE_URL}categories`} class="text-sm text-gray-500 transition-colors hover:text-primary">
         ← All Categories
       </a>
       <h1 class="mt-2 text-2xl font-bold text-gray-900 dark:text-dark-fg">{cat}</h1>
@@ -76,7 +76,7 @@ const catBase = `/categories/${cat}`;
                 return (
                   <li class="flex items-baseline justify-between gap-4">
                     <a
-                      href={`/${slug}`}
+                      href={`${import.meta.env.BASE_URL}${slug}`}
                       class="flex-1 text-base font-medium text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
                     >
                       {post.data.title}
