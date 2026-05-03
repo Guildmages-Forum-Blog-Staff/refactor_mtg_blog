@@ -51,35 +51,13 @@ const coverImage = post.data.cover || post.data.thumbnail;
           {post.data.title}
         </h1>
 
-        <!-- Author header -->
-        <div class="mb-6 flex items-center gap-4">
-          <ArticleAuthorHeader authors={authors} client:load />
-          <div class="text-sm text-gray-500 dark:text-gray-400">
-            {
-              post.data.date.toLocaleDateString('zh-TW', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric',
-              })
-            }
-          </div>
-        </div>
-
-        <!-- Categories -->
-        {
-          post.data.categories.length > 0 && (
-            <div class="mb-8 flex flex-wrap gap-2">
-              {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
-                <a
-                  href={`${import.meta.env.BASE_URL}categories/${encodeURIComponent(cat)}/`}
-                  class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
-                >
-                  {label}
-                </a>
-              ))}
-            </div>
-          )
-        }
+        <!-- Author header with date, categories, views -->
+        <ArticleAuthorHeader
+          authors={authors}
+          date={post.data.date.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
+          categories={buildCategoryBreadcrumbs(post.data.categories)}
+          client:load
+        />
 
         <!-- Content -->
         <div
