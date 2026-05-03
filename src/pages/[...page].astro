@@ -110,7 +110,7 @@ const isFirstPage = page.currentPage === 1;
                   {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
                     <a
                       href={`/categories/${encodeURIComponent(cat)}/`}
-                      class="text-xs font-medium text-primary hover:underline"
+                      class="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
                     >
                       {label}
                     </a>
