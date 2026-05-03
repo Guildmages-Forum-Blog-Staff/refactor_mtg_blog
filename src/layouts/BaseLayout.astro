@@ -91,7 +91,7 @@ const {
     <button
       id="scroll-top-btn"
       aria-label="Back to top"
-      class="fixed bottom-6 right-6 z-50 hidden h-12 w-12 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90 xl:!hidden"
+      class="fixed bottom-6 right-6 z-50 hidden h-12 w-12 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
     >
       <svg class="absolute inset-0 h-12 w-12 -rotate-90" viewBox="0 0 48 48">
         <circle
@@ -126,11 +126,17 @@ const {
         if (!btn || !ring) return;
 
         window.addEventListener('scroll', () => {
+          // Hide when TOC component is present (it has its own button)
+          if (document.querySelector('.toc')) {
+            btn.classList.remove('flex');
+            btn.classList.add('hidden');
+            return;
+          }
+
           const scrollTop = window.scrollY;
           const docHeight = document.documentElement.scrollHeight - window.innerHeight;
           const progress = docHeight > 0 ? scrollTop / docHeight : 0;
 
-          // Show/hide: hide when at top (scrollTop < 50)
           if (scrollTop < 50) {
             btn.classList.remove('flex');
             btn.classList.add('hidden');
@@ -139,7 +145,6 @@ const {
             btn.classList.add('flex');
           }
 
-          // Update ring
           ring.style.strokeDashoffset = String(circumference * (1 - progress));
         }, { passive: true });
 
