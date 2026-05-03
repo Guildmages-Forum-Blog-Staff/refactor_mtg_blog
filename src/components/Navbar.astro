@@ -55,7 +55,7 @@ const friendLinks = [
             </li>
           ))
         }
-        <!-- Friends dropdown -->
+        <!-- Friends dropdown (desktop) -->
         <li class="relative">
           <button
             id="friends-trigger"
@@ -148,52 +148,99 @@ const friendLinks = [
       </button>
     </div>
   </nav>
+</header>
 
-  <!-- Mobile dropdown (hidden by default, shown when hamburger open) -->
-  <div
-    id="nav-mobile-menu"
-    class="hidden border-t border-gray-200 bg-white/90 px-4 py-3 backdrop-blur dark:border-gray-800 dark:bg-dark-bg/90 md:hidden"
-  >
-    <ul class="flex flex-col gap-4 text-sm font-medium">
-      {
-        navLinks.map((link) => (
+<!-- Mobile full-screen overlay -->
+<div
+  id="nav-mobile-overlay"
+  class="fixed inset-0 z-[150] hidden overflow-hidden md:hidden"
+  aria-hidden="true"
+>
+  <!-- Panels container -->
+  <div class="relative h-full w-full">
+
+    <!-- Main nav panel -->
+    <div
+      id="nav-panel-main"
+      class="absolute inset-0 flex flex-col bg-white transition-transform duration-300 dark:bg-dark-bg"
+      style="transform: translateX(100%)"
+    >
+      <!-- Panel header -->
+      <div class="flex h-14 shrink-0 items-center justify-between border-b border-gray-200 px-4 dark:border-gray-800">
+        <span class="text-lg font-bold text-primary">選單</span>
+        <button id="nav-overlay-close" aria-label="關閉選單" class="rounded-md p-1.5 text-gray-600 hover:bg-gray-100 dark:text-dark-fg/70 dark:hover:bg-white/10">
+          <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <!-- Nav links -->
+      <ul class="flex flex-col overflow-y-auto px-4 py-6 text-base font-medium">
+        {navLinks.map((link) => (
           <li>
             <a
               href={link.href}
-              class="text-gray-600 transition-colors hover:text-primary dark:text-dark-fg/70 dark:hover:text-primary"
+              class="flex items-center py-3 text-gray-700 transition-colors hover:text-primary dark:text-dark-fg/80 dark:hover:text-primary"
             >
               {link.label}
             </a>
           </li>
-        ))
-      }
-      <li>
-        <details class="group">
-          <summary class="flex cursor-pointer list-none items-center justify-between text-gray-600 dark:text-dark-fg/70">
+        ))}
+        <!-- Friends → opens friends panel -->
+        <li>
+          <button
+            id="mobile-friends-trigger"
+            class="flex w-full items-center justify-between py-3 text-gray-700 transition-colors hover:text-primary dark:text-dark-fg/80 dark:hover:text-primary"
+          >
             Friends
-            <svg class="h-3.5 w-3.5 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            <svg class="h-4 w-4 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
-          </summary>
-          <ul class="mt-3 flex flex-col gap-3 pl-3 border-l border-gray-200 dark:border-gray-700">
-            {friendLinks.map((link) => (
-              <li>
-                <a
-                  href={link.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="text-gray-500 transition-colors hover:text-primary dark:text-dark-fg/60 dark:hover:text-primary"
-                >
-                  {link.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </details>
-      </li>
-    </ul>
+          </button>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Friends panel -->
+    <div
+      id="nav-panel-friends"
+      class="absolute inset-0 flex flex-col bg-white transition-transform duration-300 dark:bg-dark-bg"
+      style="transform: translateX(100%)"
+    >
+      <!-- Panel header -->
+      <div class="flex h-14 shrink-0 items-center justify-between border-b border-gray-200 px-4 dark:border-gray-800">
+        <button id="mobile-friends-back" class="flex items-center gap-1 text-sm text-gray-600 hover:text-primary dark:text-dark-fg/70 dark:hover:text-primary">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+          </svg>
+          Back
+        </button>
+        <span class="font-bold text-gray-900 dark:text-dark-fg">Friends</span>
+        <button id="nav-overlay-close-2" aria-label="關閉選單" class="rounded-md p-1.5 text-gray-600 hover:bg-gray-100 dark:text-dark-fg/70 dark:hover:bg-white/10">
+          <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <!-- Friends links -->
+      <ul class="flex flex-col overflow-y-auto px-4 py-6 text-base">
+        {friendLinks.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center py-3 text-gray-700 transition-colors hover:text-primary dark:text-dark-fg/80 dark:hover:text-primary"
+            >
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
   </div>
-</header>
+</div>
 
 <!-- Search modal -->
 <div id="search-overlay" class="fixed inset-0 z-[200] hidden">
@@ -342,7 +389,6 @@ const friendLinks = [
 
       const excerptEl = document.createElement('div');
       excerptEl.className = 'mt-0.5 line-clamp-2 text-sm text-gray-500 dark:text-dark-fg/60';
-      // Strip pagefind's <mark> tags — textContent is XSS-safe
       excerptEl.textContent = (item.excerpt ?? '').replace(/<[^>]*>/g, '');
 
       a.append(titleEl, excerptEl);
@@ -351,7 +397,7 @@ const friendLinks = [
     searchResults.replaceChildren(fragment);
   });
 
-  // Friends dropdown
+  // Desktop Friends dropdown
   const friendsTrigger = document.getElementById('friends-trigger');
   const friendsDropdown = document.getElementById('friends-dropdown');
   const friendsChevron = document.getElementById('friends-chevron');
@@ -368,23 +414,64 @@ const friendLinks = [
     if (friendsChevron) friendsChevron.style.transform = '';
   });
 
-  // Hamburger menu toggle
+  // Mobile full-screen overlay
   const hamburger = document.getElementById('nav-hamburger');
-  const mobileMenu = document.getElementById('nav-mobile-menu');
   const iconHamburger = document.getElementById('icon-hamburger');
   const iconClose = document.getElementById('icon-close');
+  const overlay = document.getElementById('nav-mobile-overlay')!;
+  const panelMain = document.getElementById('nav-panel-main')!;
+  const panelFriends = document.getElementById('nav-panel-friends')!;
 
-  hamburger?.addEventListener('click', () => {
-    mobileMenu!.classList.toggle('hidden');
-    const isOpen = !mobileMenu!.classList.contains('hidden');
-    hamburger.setAttribute('aria-expanded', String(isOpen));
-    iconHamburger!.classList.toggle('hidden', isOpen);
-    iconClose!.classList.toggle('hidden', !isOpen);
-  });
+  function openOverlay() {
+    overlay.classList.remove('hidden');
+    overlay.removeAttribute('aria-hidden');
+    document.body.style.overflow = 'hidden';
+    // Slide main panel in from right
+    requestAnimationFrame(() => {
+      panelMain.style.transform = 'translateX(0)';
+      panelFriends.style.transform = 'translateX(100%)';
+    });
+    hamburger?.setAttribute('aria-expanded', 'true');
+    iconHamburger?.classList.add('hidden');
+    iconClose?.classList.remove('hidden');
+  }
 
-  // Close mobile menu on page navigation
+  function closeOverlay() {
+    panelMain.style.transform = 'translateX(100%)';
+    panelFriends.style.transform = 'translateX(100%)';
+    document.body.style.overflow = '';
+    hamburger?.setAttribute('aria-expanded', 'false');
+    iconHamburger?.classList.remove('hidden');
+    iconClose?.classList.add('hidden');
+    setTimeout(() => {
+      overlay.classList.add('hidden');
+      overlay.setAttribute('aria-hidden', 'true');
+    }, 300);
+  }
+
+  function openFriendsPanel() {
+    panelMain.style.transform = 'translateX(-100%)';
+    panelFriends.style.transform = 'translateX(0)';
+  }
+
+  function closeFriendsPanel() {
+    panelMain.style.transform = 'translateX(0)';
+    panelFriends.style.transform = 'translateX(100%)';
+  }
+
+  hamburger?.addEventListener('click', openOverlay);
+  document.getElementById('nav-overlay-close')?.addEventListener('click', closeOverlay);
+  document.getElementById('nav-overlay-close-2')?.addEventListener('click', closeOverlay);
+  document.getElementById('mobile-friends-trigger')?.addEventListener('click', openFriendsPanel);
+  document.getElementById('mobile-friends-back')?.addEventListener('click', closeFriendsPanel);
+
+  // Close on page navigation
   document.addEventListener('astro:after-swap', () => {
-    mobileMenu?.classList.add('hidden');
+    overlay.classList.add('hidden');
+    overlay.setAttribute('aria-hidden', 'true');
+    panelMain.style.transform = 'translateX(100%)';
+    panelFriends.style.transform = 'translateX(100%)';
+    document.body.style.overflow = '';
     hamburger?.setAttribute('aria-expanded', 'false');
     iconHamburger?.classList.remove('hidden');
     iconClose?.classList.add('hidden');
