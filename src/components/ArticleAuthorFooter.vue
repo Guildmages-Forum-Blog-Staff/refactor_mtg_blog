@@ -6,7 +6,7 @@
           :src="author.avatar"
           :alt="author.name"
           loading="lazy"
-          class="h-20 w-20 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700"
+          class="h-60 w-60 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700"
         />
       </a>
       <div class="flex min-w-0 flex-col gap-1">
