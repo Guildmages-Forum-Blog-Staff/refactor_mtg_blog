@@ -45,8 +45,8 @@ describe('remarkMtgTags — mtgcard', () => {
   it('renders inline image span by default', async () => {
     const file = await process('{% mtgcard Black Lotus %}');
     const html = String(file);
-    expect(html).toContain('class="mtg-card-img"');
-    expect(html).toContain('data-card-name="Black Lotus"');
+    expect(html).toContain('class="mtgcard rounded-lg my-4 max-w-xs"');
+    expect(html).toContain('alt="Black Lotus"');
   });
 
   it('renders tooltip link when tooltip:true', async () => {
@@ -58,7 +58,7 @@ describe('remarkMtgTags — mtgcard', () => {
   it('does not render tooltip when tooltip:false', async () => {
     const file = await process('{% mtgcard Counterspell tooltip:false %}');
     const html = String(file);
-    expect(html).toContain('class="mtg-card-img"');
+    expect(html).toContain('class="mtgcard rounded-lg my-4 max-w-xs"');
     expect(html).not.toContain('mtg-link');
   });
 });
@@ -67,15 +67,16 @@ describe('remarkMtgTags — mtgpick', () => {
   it('renders inline image span by default', async () => {
     const file = await process('{% mtgpick blb 82 %}');
     const html = String(file);
-    expect(html).toContain('class="mtg-card-pick"');
-    expect(html).toContain('data-edition="blb"');
-    expect(html).toContain('data-number="82"');
+    expect(html).toContain('class="mtgcard rounded-lg my-4 max-w-xs"');
+    expect(html).toContain('alt="blb 82"');
   });
 
   it('renders tooltip link when tooltip:true', async () => {
     const file = await process('{% mtgpick blb 82 tooltip:true %}');
     const html = String(file);
-    expect(html).toContain('class="mtg-link scryfall-card"');
+    expect(html).toContain('class="scryfall-card"');
+    expect(html).toContain('data-edition="blb"');
+    expect(html).toContain('data-number="82"');
   });
 });
 
