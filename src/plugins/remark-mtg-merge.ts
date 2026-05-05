@@ -115,11 +115,17 @@ async function buildMergeImage(names: string[]): Promise<string | null> {
   return filename;
 }
 
+interface PendingMatch {
+  index: number;
+  parent: Parent;
+  names: string[];
+}
+
 export function remarkMtgMerge(options: MtgMergeOptions = {}) {
   const base = (options.base ?? '/').replace(/\/$/, '');
 
   return async function transformer(tree: Root) {
-    const tasks: Array<() => Promise<void>> = [];
+    const pending: PendingMatch[] = [];
 
     visit(tree, 'paragraph', (node: Paragraph, index, parent: Parent | null) => {
       if (!parent || index === undefined) return;
@@ -138,23 +144,27 @@ export function remarkMtgMerge(options: MtgMergeOptions = {}) {
         return;
       }
 
-      const capturedIndex = index;
-      tasks.push(async () => {
-        const filename = await buildMergeImage(names);
-        if (!filename) return;
-
-        const altText = names.join(' + ');
-        const src = `${base}/generated/${filename}`;
-
-        const imgNode = {
-          type: 'html',
-          value: `<img src="${src}" alt="${altText}" class="mtg-merge-card rounded-lg" loading="lazy" />`,
-        };
-
-        (parent as any).children.splice(capturedIndex, 1, imgNode);
-      });
+      pending.push({ index, parent, names });
     });
 
-    await Promise.all(tasks.map((t) => t()));
+    const resolved = await Promise.all(
+      pending.map(async ({ index, parent, names }) => {
+        const filename = await buildMergeImage(names);
+        if (!filename) return null;
+        return { index, parent, names, filename };
+      }),
+    );
+
+    const valid = resolved.filter((r): r is NonNullable<typeof r> => r !== null);
+    valid.sort((a, b) => b.index - a.index);
+
+    for (const { index, parent, names, filename } of valid) {
+      const src = `${base}/generated/${filename}`;
+      const imgNode = {
+        type: 'html',
+        value: `<img src="${src}" alt="${names.join(' + ')}" class="mtg-merge-card rounded-lg" loading="lazy" />`,
+      };
+      (parent.children as unknown[]).splice(index, 1, imgNode);
+    }
   };
 }
