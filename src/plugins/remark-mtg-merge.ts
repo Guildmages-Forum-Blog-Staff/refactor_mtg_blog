@@ -133,8 +133,8 @@ export function remarkMtgMerge(options: MtgMergeOptions = {}) {
       if (!match || match[0] !== text.trim()) return;
 
       const names = parseNames(match[1]);
-      if (!names || names.length < 2) {
-        console.warn(`[mtgmerge] invalid syntax — needs array of ≥2 card names: ${match[1]}`);
+      if (!names || names.length < 2 || names.length > 4) {
+        console.warn(`[mtgmerge] invalid syntax — needs array of 2–4 card names: ${match[1]}`);
         return;
       }
 
