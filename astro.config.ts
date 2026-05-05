@@ -41,7 +41,12 @@ export const search = async () => ({ results: [] });`;
     },
   },
   markdown: {
-    remarkPlugins: [remarkScryfall, remarkYoutube, remarkMtgTags, [remarkMtgMerge, { base: '/refactor_mtg_blog/' }]],
+    remarkPlugins: [
+      remarkScryfall,
+      remarkYoutube,
+      remarkMtgTags,
+      [remarkMtgMerge, { base: '/refactor_mtg_blog/' }],
+    ],
     shikiConfig: {
       theme: 'github-dark',
     },
