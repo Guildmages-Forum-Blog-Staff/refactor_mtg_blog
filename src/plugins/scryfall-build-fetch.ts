@@ -21,8 +21,9 @@ function ensureCache() {
   }
   cacheLoaded = true;
 
-  // Print summary when build process exits
+  // Flush cache + print summary when build process exits
   process.once('exit', () => {
+    if (stats.fetched > 0) persistCache();
     console.log(
       `[scryfall] build summary — cache hits: ${stats.cacheHit}, fetched: ${stats.fetched}, failed: ${stats.failed}`,
     );
@@ -90,7 +91,6 @@ export async function fetchImageByName(
       if (imgUrl) {
         stats.fetched++;
         cache[key] = imgUrl;
-        persistCache();
         console.log(`[scryfall] fetched   — ${name}${edition ? ` [${edition}]` : ''}`);
       }
       return imgUrl;
@@ -131,7 +131,6 @@ export async function fetchImageByNumber(
       if (imgUrl) {
         stats.fetched++;
         cache[key] = imgUrl;
-        persistCache();
         console.log(`[scryfall] fetched   — ${edition}/${number}`);
       }
       return imgUrl;
