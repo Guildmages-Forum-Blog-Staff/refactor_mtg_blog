@@ -7,6 +7,7 @@ import compress from '@playform/compress';
 import { remarkScryfall } from './src/plugins/remark-scryfall';
 import { remarkYoutube } from './src/plugins/remark-youtube';
 import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
+import { remarkMtgMerge } from './src/plugins/remark-mtg-merge';
 
 export default defineConfig({
   site: 'https://guildmages-forum-blog-staff.github.io',
@@ -40,7 +41,7 @@ export const search = async () => ({ results: [] });`;
     },
   },
   markdown: {
-    remarkPlugins: [remarkScryfall, remarkYoutube, remarkMtgTags],
+    remarkPlugins: [remarkScryfall, remarkYoutube, remarkMtgTags, [remarkMtgMerge, { base: '/refactor_mtg_blog/' }]],
     shikiConfig: {
       theme: 'github-dark',
     },
