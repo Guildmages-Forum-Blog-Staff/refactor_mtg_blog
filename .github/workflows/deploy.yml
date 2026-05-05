@@ -5,7 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * 1'  # every Monday 02:00 UTC (10:00 Taipei)
+    - cron: '0 2 * * 1' # every Monday 02:00 UTC (10:00 Taipei)
 
 permissions:
   contents: read
@@ -20,28 +20,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout your repository using git
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v4
-        with:
-          static_site_generator: astro
-
-      - name: Build
-        run: npm run build
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
+      - name: Install, build, and upload your site
+        uses: withastro/action@v2
 
   deploy:
     needs: build

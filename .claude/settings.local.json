@@ -60,7 +60,9 @@
       "Bash(git remote *)",
       "Bash(grep -n 'href=`/' /Users/miohitokiri5474/project/guildmages_forum/refactor/src/pages/categories/index.astro)",
       "Bash(grep -n 'href=`/' /Users/miohitokiri5474/project/guildmages_forum/refactor/src/pages/categories/\\\\[cat\\\\]/\\\\[...page\\\\].astro)",
-      "Bash(grep -n 'href=`/' /Users/miohitokiri5474/project/guildmages_forum/refactor/src/pages/authors/\\\\[username\\\\].astro)"
+      "Bash(grep -n 'href=`/' /Users/miohitokiri5474/project/guildmages_forum/refactor/src/pages/authors/\\\\[username\\\\].astro)",
+      "WebSearch",
+      "Bash(npm audit *)"
     ]
   }
 }
