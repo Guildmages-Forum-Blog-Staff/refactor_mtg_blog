@@ -274,7 +274,11 @@ const isFirstPage = page.currentPage === 1;
       }
     }
 
-    setTimeout(tick, 600);
+    const initialTimer = setTimeout(tick, 600);
+    document.addEventListener('astro:before-swap', () => {
+      clearTimeout(initialTimer);
+      if (waitTimer !== null) clearTimeout(waitTimer);
+    }, { once: true });
   }
 </script>
 
