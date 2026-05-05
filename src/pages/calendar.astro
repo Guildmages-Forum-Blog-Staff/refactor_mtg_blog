@@ -19,7 +19,12 @@ interface CalEvent {
 let events: CalEvent[] = [];
 
 try {
-  const data = await ical.async.fromURL(ICAL_URL);
+  const data = await Promise.race([
+    ical.async.fromURL(ICAL_URL),
+    new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error('iCal fetch timed out')), 10_000),
+    ),
+  ]);
 
   events = Object.values(data)
     .filter((e: any) => e.type === 'VEVENT' && e.start instanceof Date)
