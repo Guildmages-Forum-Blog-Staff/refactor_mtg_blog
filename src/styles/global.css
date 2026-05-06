@@ -8,12 +8,25 @@
 
 @layer base {
   body {
-    @apply bg-background text-foreground;
+    @apply text-foreground;
     font-family:
       'Noto Sans TC',
       system-ui,
       -apple-system,
       sans-serif;
+    background-image:
+      linear-gradient(rgba(215, 196, 187, 0.88), rgba(215, 196, 187, 0.88)),
+      url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotus-plains-6040-final-jaa-small.jpg?t=1727796986');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+  html.dark body {
+    background-image:
+      linear-gradient(rgba(28, 28, 28, 0.88), rgba(28, 28, 28, 0.88)),
+      url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotusswamp-60-40-metal-print-smaller.jpg?t=1742030717');
   }
 
   /* Smooth scroll */
