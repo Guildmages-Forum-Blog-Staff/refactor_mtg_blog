@@ -14,6 +14,7 @@
       system-ui,
       -apple-system,
       sans-serif;
+    background-color: #D7C4BB;
     background-image:
       linear-gradient(rgba(215, 196, 187, 0.88), rgba(215, 196, 187, 0.88)),
       url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotus-plains-6040-final-jaa-small.jpg?t=1727796986');
@@ -24,6 +25,7 @@
   }
 
   html.dark body {
+    background-color: #1C1C1C;
     background-image:
       linear-gradient(rgba(28, 28, 28, 0.88), rgba(28, 28, 28, 0.88)),
       url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotusswamp-60-40-metal-print-smaller.jpg?t=1742030717');
