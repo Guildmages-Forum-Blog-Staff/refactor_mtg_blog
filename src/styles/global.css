@@ -11,6 +11,20 @@
 }
 
 @layer base {
+  /* Background image on html so body overlay sits on top without color-mix() */
+  html {
+    scroll-behavior: smooth;
+    background-image: url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotus-plains-6040-final-jaa-small.jpg?t=1727796986');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+  html.dark {
+    background-image: url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotusswamp-60-40-metal-print-smaller.jpg?t=1742030717');
+  }
+
   body {
     @apply text-foreground;
     font-family:
@@ -18,26 +32,11 @@
       system-ui,
       -apple-system,
       sans-serif;
-    background-color: var(--color-bg);
-    background-image:
-      linear-gradient(color-mix(in srgb, var(--color-bg) 88%, transparent), color-mix(in srgb, var(--color-bg) 88%, transparent)),
-      url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotus-plains-6040-final-jaa-small.jpg?t=1727796986');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-color: rgba(145, 152, 159, 0.82);
   }
 
   html.dark body {
-    background-color: var(--color-dark-bg);
-    background-image:
-      linear-gradient(color-mix(in srgb, var(--color-dark-bg) 88%, transparent), color-mix(in srgb, var(--color-dark-bg) 88%, transparent)),
-      url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotusswamp-60-40-metal-print-smaller.jpg?t=1742030717');
-  }
-
-  /* Smooth scroll */
-  html {
-    scroll-behavior: smooth;
+    background-color: rgba(28, 28, 28, 0.88);
   }
 }
 
