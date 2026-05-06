@@ -38,15 +38,12 @@ function persistCache() {
   }
 }
 
-// Sequential fetch queue — guarantees 100ms between Scryfall requests
+// Sequential fetch queue — 100ms between request sends (responses may overlap)
 let fetchQueue: Promise<void> = Promise.resolve();
 
 function enqueue<T>(fn: () => Promise<T>): Promise<T> {
   const result = fetchQueue.then(fn);
-  fetchQueue = result.then(
-    () => new Promise((r) => setTimeout(r, 100)),
-    () => new Promise((r) => setTimeout(r, 100)),
-  ) as Promise<void>;
+  fetchQueue = fetchQueue.then(() => new Promise<void>((r) => setTimeout(r, 100)));
   return result;
 }
 
