@@ -41,8 +41,13 @@ const friendLinks = [
   class="sticky top-0 z-50 border-b border-gray-200 bg-white backdrop-blur dark:border-gray-800 dark:bg-dark-bg"
 >
   <nav class="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
-    <a href={base} class="text-lg font-bold text-primary transition-opacity hover:opacity-80">
-      Guildmages' Forum
+    <a href={base} class="flex items-center gap-2 transition-opacity hover:opacity-80">
+      <img
+        src={`${base}images/logo.jpg`}
+        alt="Guildmages' Forum"
+        class="h-9 w-9 rounded-lg object-cover"
+      />
+      <span class="text-lg font-bold text-primary">Guildmages' Forum</span>
     </a>
 
     <!-- Desktop links: hidden on mobile, flex on md+ -->
