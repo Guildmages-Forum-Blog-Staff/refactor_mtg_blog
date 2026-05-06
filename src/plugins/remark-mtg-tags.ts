@@ -92,11 +92,24 @@ function parsePickArgs(tokens: string[]): MtgTagArgs {
   };
 }
 
+function scryfallNameUrl(name: string, edition: string): string {
+  const q = edition ? `!"${name}" s:${edition}` : `!"${name}"`;
+  return `https://scryfall.com/search?q=${encodeURIComponent(q)}`;
+}
+
+function scryfallPickUrl(edition: string, number: string): string {
+  return `https://scryfall.com/card/${encodeURIComponent(edition)}/${encodeURIComponent(number)}`;
+}
+
 async function renderMtgLink(name: string, args: MtgTagArgs): Promise<string> {
   const display = args.alt ?? name;
   const imgUrl = await fetchImageByName(name, args.edition, args.language);
+  const href = scryfallNameUrl(name, args.edition);
   const attrs = [
     `class="mtg-link scryfall-card"`,
+    `href="${href}"`,
+    `target="_blank"`,
+    `rel="noopener noreferrer"`,
     imgUrl ? `data-card-image="${imgUrl}"` : '',
     `data-card-name="${name}"`,
     args.edition ? `data-edition="${args.edition}"` : '',
@@ -110,22 +123,23 @@ async function renderMtgLink(name: string, args: MtgTagArgs): Promise<string> {
 async function renderMtgCard(name: string, args: MtgTagArgs): Promise<string> {
   if (args.tooltip) return renderMtgLink(name, args);
   const imgUrl = await fetchImageByName(name, args.edition, args.language);
+  const href = scryfallNameUrl(name, args.edition);
   if (!imgUrl) {
-    // fallback: render as link without image
-    return `<a class="mtg-link scryfall-card" data-card-name="${name}">${name}</a>`;
+    return `<a class="mtg-link scryfall-card" href="${href}" target="_blank" rel="noopener noreferrer" data-card-name="${name}">${name}</a>`;
   }
-  return `<img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" />`;
+  return `<a href="${href}" target="_blank" rel="noopener noreferrer"><img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" /></a>`;
 }
 
 async function renderMtgPick(edition: string, number: string, args: MtgTagArgs): Promise<string> {
   const imgUrl = await fetchImageByNumber(edition, number, args.language);
+  const href = scryfallPickUrl(edition, number);
   if (args.tooltip) {
     const display = args.alt ?? '';
-    return `<a class="scryfall-card" ${imgUrl ? `data-card-image="${imgUrl}"` : ''} data-edition="${edition}" data-number="${number}">${display}</a>`;
+    return `<a class="scryfall-card" href="${href}" target="_blank" rel="noopener noreferrer" ${imgUrl ? `data-card-image="${imgUrl}"` : ''} data-edition="${edition}" data-number="${number}">${display}</a>`;
   }
   if (!imgUrl)
     return `<span class="mtg-card-pick" data-edition="${edition}" data-number="${number}"></span>`;
-  return `<img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${edition} ${number}" />`;
+  return `<a href="${href}" target="_blank" rel="noopener noreferrer"><img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${edition} ${number}" /></a>`;
 }
 
 async function replaceTagsInText(text: string): Promise<string> {
