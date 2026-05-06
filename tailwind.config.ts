@@ -7,11 +7,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#AB3B3A',
-        background: '#D7C4BB',
-        foreground: '#0C0C0C',
-        'dark-bg': '#1C1C1C',
-        'dark-fg': '#FCFAF2',
+        primary: 'var(--color-primary)',
+        background: 'var(--color-bg)',
+        foreground: 'var(--color-fg)',
+        'dark-bg': 'var(--color-dark-bg)',
+        'dark-fg': 'var(--color-dark-fg)',
       },
       typography: {
         DEFAULT: {
