@@ -85,6 +85,20 @@
   animation: 250ms ease-out page-fade-in;
 }
 
+/* Theme toggle: cross-fade only, no translate */
+@keyframes theme-fade-out {
+  to { opacity: 0; }
+}
+@keyframes theme-fade-in {
+  from { opacity: 0; }
+}
+.is-theme-transitioning::view-transition-old(root) {
+  animation: 300ms ease both theme-fade-out;
+}
+.is-theme-transitioning::view-transition-new(root) {
+  animation: 300ms ease both theme-fade-in;
+}
+
 @keyframes blink {
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }

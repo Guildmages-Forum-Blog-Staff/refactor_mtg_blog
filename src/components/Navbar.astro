@@ -426,9 +426,18 @@ const friendLinks = [
     applyThemeIcons(document.documentElement.classList.contains('dark'));
 
     function handleToggle() {
-      const isDark = document.documentElement.classList.toggle('dark');
-      localStorage.setItem('theme', isDark ? 'dark' : 'light');
-      applyThemeIcons(isDark);
+      const applyTheme = () => {
+        const isDark = document.documentElement.classList.toggle('dark');
+        localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        applyThemeIcons(isDark);
+      };
+      if (!document.startViewTransition) {
+        applyTheme();
+        return;
+      }
+      document.documentElement.classList.add('is-theme-transitioning');
+      const t = document.startViewTransition(applyTheme);
+      t.finished.finally(() => document.documentElement.classList.remove('is-theme-transitioning'));
     }
     document
       .getElementById('dark-mode-toggle')
