@@ -94,7 +94,7 @@ const isFirstPage = page.currentPage === 1;
       <div id="post-list" class="flex flex-col gap-8">
         {
           postsWithAuthors.map(({ post, authors }: any) => (
-            <article class="post-card overflow-hidden rounded-2xl bg-white/95 shadow-md dark:bg-dark-bg/95">
+            <article class="post-card overflow-hidden rounded-2xl bg-white/80 shadow-md backdrop-blur-sm dark:bg-dark-bg/80">
               {(post.data.cover || post.data.thumbnail) && (
                 <a href={`${import.meta.env.BASE_URL}${post.id.replace(/\.mdx?$/, '')}`}>
                   <img
