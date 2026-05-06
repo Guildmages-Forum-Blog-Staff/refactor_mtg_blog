@@ -188,31 +188,43 @@ const coverImage = post.data.cover || post.data.thumbnail;
 </style>
 
 <script>
-  const tocBtn = document.getElementById('toc-toggle');
-  const tocAside = document.getElementById('toc-aside');
+  (function () {
+    let abort: AbortController | null = null;
 
-  if (tocBtn && tocAside) {
-    tocBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const isLarge = window.innerWidth >= 1280;
-      if (isLarge) {
-        const hidden = tocAside.classList.toggle('xl-hidden');
-        tocBtn.setAttribute('aria-expanded', String(!hidden));
-      } else {
-        const open = tocAside.classList.toggle('toc-open');
-        tocBtn.setAttribute('aria-expanded', String(open));
-      }
-    });
+    function setup() {
+      abort?.abort();
+      abort = new AbortController();
+      const { signal } = abort;
 
-    document.addEventListener('click', (e) => {
-      if (
-        !tocAside.contains(e.target as Node) &&
-        !tocBtn.contains(e.target as Node) &&
-        tocAside.classList.contains('toc-open')
-      ) {
-        tocAside.classList.remove('toc-open');
-        tocBtn.setAttribute('aria-expanded', 'false');
-      }
-    });
-  }
+      const tocBtn = document.getElementById('toc-toggle');
+      const tocAside = document.getElementById('toc-aside');
+      if (!tocBtn || !tocAside) return;
+
+      tocBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const isLarge = window.innerWidth >= 1280;
+        if (isLarge) {
+          const hidden = tocAside.classList.toggle('xl-hidden');
+          tocBtn.setAttribute('aria-expanded', String(!hidden));
+        } else {
+          const open = tocAside.classList.toggle('toc-open');
+          tocBtn.setAttribute('aria-expanded', String(open));
+        }
+      }, { signal });
+
+      document.addEventListener('click', (e) => {
+        if (
+          !tocAside.contains(e.target as Node) &&
+          !tocBtn.contains(e.target as Node) &&
+          tocAside.classList.contains('toc-open')
+        ) {
+          tocAside.classList.remove('toc-open');
+          tocBtn.setAttribute('aria-expanded', 'false');
+        }
+      }, { signal });
+    }
+
+    setup();
+    document.addEventListener('astro:after-swap', setup);
+  })();
 </script>
