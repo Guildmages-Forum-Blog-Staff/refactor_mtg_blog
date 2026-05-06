@@ -29,10 +29,11 @@
       </ul>
     </nav>
 
+    <Teleport to="body">
     <button
       v-show="showBtn"
       aria-label="Back to top"
-      class="fixed bottom-6 right-6 flex h-10 w-10 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
+      class="fixed bottom-6 right-6 z-50 flex h-10 w-10 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
       @click="scrollToTop"
     >
       <svg class="absolute inset-0 h-10 w-10 -rotate-90" viewBox="0 0 48 48">
@@ -47,6 +48,7 @@
         <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
       </svg>
     </button>
+    </Teleport>
   </div>
 </template>
 
