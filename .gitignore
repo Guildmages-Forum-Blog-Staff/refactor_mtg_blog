@@ -5,5 +5,4 @@ dist/
 .env.*
 !.env.example
 public/generated/
-.scryfall-cache.json
 .claude/settings.local.json
