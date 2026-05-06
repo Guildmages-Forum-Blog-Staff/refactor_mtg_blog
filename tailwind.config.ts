@@ -22,6 +22,7 @@ export default {
               borderRadius: '0.25rem',
               padding: '0.125rem 0.375rem',
               fontWeight: 'inherit',
+              color: '#434343',
             },
           },
         },
