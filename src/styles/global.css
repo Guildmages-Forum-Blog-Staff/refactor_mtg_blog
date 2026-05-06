@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: 171 59 58;
-  --color-bg: 145 152 159;
-  --color-fg: 12 12 12;
-  --color-dark-bg: 28 28 28;
-  --color-dark-fg: 252 250 242;
+  --color-primary: #ab3b3a;
+  --color-bg: #91989F;
+  --color-fg: #0C0C0C;
+  --color-dark-bg: #1C1C1C;
+  --color-dark-fg: #FCFAF2;
 }
 
 @layer base {

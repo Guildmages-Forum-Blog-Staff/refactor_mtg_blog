@@ -7,11 +7,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: 'rgb(var(--color-primary) / <alpha-value>)',
-        background: 'rgb(var(--color-bg) / <alpha-value>)',
-        foreground: 'rgb(var(--color-fg) / <alpha-value>)',
-        'dark-bg': 'rgb(var(--color-dark-bg) / <alpha-value>)',
-        'dark-fg': 'rgb(var(--color-dark-fg) / <alpha-value>)',
+        primary: '#AB3B3A',
+        background: '#91989F',
+        foreground: '#0C0C0C',
+        'dark-bg': '#1C1C1C',
+        'dark-fg': '#FCFAF2',
       },
       typography: {
         DEFAULT: {
