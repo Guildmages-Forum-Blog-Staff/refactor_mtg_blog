@@ -119,31 +119,39 @@ const {
     </button>
     <script>
       (function () {
-        const btn = document.getElementById('scroll-top-btn');
-        const ring = document.getElementById('scroll-progress-ring');
         const circumference = 125.66;
+        let abort: AbortController | null = null;
 
-        if (!btn || !ring) return;
+        function setup() {
+          abort?.abort();
+          abort = new AbortController();
+          const { signal } = abort;
 
-        window.addEventListener('scroll', () => {
-          const scrollTop = window.scrollY;
-          const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-          const progress = docHeight > 0 ? scrollTop / docHeight : 0;
+          const btn = document.getElementById('scroll-top-btn');
+          const ring = document.getElementById('scroll-progress-ring');
+          if (!btn || !ring) return;
 
-          if (scrollTop < 50) {
-            btn.classList.remove('flex');
-            btn.classList.add('hidden');
-          } else {
-            btn.classList.remove('hidden');
-            btn.classList.add('flex');
-          }
+          window.addEventListener('scroll', () => {
+            const scrollTop = window.scrollY;
+            const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const progress = docHeight > 0 ? scrollTop / docHeight : 0;
 
-          ring.style.strokeDashoffset = String(circumference * (1 - progress));
-        }, { passive: true });
+            if (scrollTop < 50) {
+              btn.classList.remove('flex');
+              btn.classList.add('hidden');
+            } else {
+              btn.classList.remove('hidden');
+              btn.classList.add('flex');
+            }
 
-        btn.addEventListener('click', () => {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
+            ring.style.strokeDashoffset = String(circumference * (1 - progress));
+          }, { passive: true, signal });
+
+          btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }), { signal });
+        }
+
+        setup();
+        document.addEventListener('astro:after-swap', setup);
       })();
     </script>
   </body>
