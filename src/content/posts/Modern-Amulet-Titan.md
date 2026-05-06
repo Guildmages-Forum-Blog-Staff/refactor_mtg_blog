@@ -29,7 +29,7 @@ authors:
 準備好了嗎？
 **_When nature calls,_ Run.**
 
-<br></br>
+<br />
 
 ## 二、現今環境簡介
 
@@ -41,7 +41,7 @@ authors:
 
 在[怒火](https://scryfall.com/card/mh2/126/fury)被禁之後，泰坦護身符的一大剋星紅黑呼魂套牌大量減少，也讓泰坦套牌的環境佔率逐漸上升，雖然後怒火時代的王者鐵木爾犀牛是泰坦護身符的小劣勢對局，但在[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)出現後，地脈犀牛套牌進入了大家的視野，對泰坦護身符來說，[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)和[亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)的減少，使得泰坦護身符對地脈犀牛成了小優開的對局，讓泰坦護身符成為環境小贏家。
 
-<br></br>
+<br />
 
 ## 三、構築介紹
 
@@ -69,7 +69,7 @@ authors:
 <small><span id="quote3">**註3：**</span>敏捷地與爆發地有兩個不同的流派，分別是「[翰威城垛](https://scryfall.com/card/emn/204/hanweir-battlements)體系」及「[剋星城塞
 ](https://scryfall.com/card/avr/229/slayers-stronghold)+[教團要塞陽園](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion)」兩種組合，我們[後面](#link1)會詳談。</small>
 
-<br></br>
+<br />
 
 ### 2. 自由卡位
 
@@ -85,7 +85,7 @@ authors:
 
 詳細歡迎參考上面我這次MIT用的牌表，我對本次的牌表蠻滿意的，唯獨賽前就2張[探索大地](https://scryfall.com/card/wwk/99/explore)或1張[雲遊者梓紗](https://scryfall.com/card/chk/201/azusa-lost-but-seeking) + 1張[探查洞穴](https://scryfall.com/card/lci/213/spelunking)考慮了一段時間，最終還是選擇濾牌表現更好的2張[探索大地](https://scryfall.com/card/wwk/99/explore)。
 
-<br></br>
+<br />
 
 ## 四、對局計畫
 
@@ -111,7 +111,7 @@ authors:
 | [雲遊者梓紗](https://scryfall.com/card/chk/201/azusa-lost-but-seeking)         | +1 魔法力 | +5 魔法力 | +9 魔法力 | +13 魔法力 |
 | [探查洞穴](https://scryfall.com/card/lci/213/spelunking)                       | -1 魔法力 | +1 魔法力 | +3 魔法力 | +5 魔法力  |
 
-<br></br>
+<br />
 
 ### 2. 獲勝手段
 
@@ -124,7 +124,7 @@ authors:
 - **裸男瓦拉庫**
   [依呂夏林地樹靈](https://scryfall.com/card/thb/169/dryad-of-the-ilysian-grove)（以下簡稱「裸男」）會讓所有操控的地都帶有類別，讓任意地都能符合[熔天頂瓦拉庫](https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle)（以下簡稱「瓦拉庫」）的檢查，在瓦拉庫與其他地同時進場的情況（通常是泰坦觸發）更是能同時檢查造成巨量的傷害。即使在沒有泰坦的情況，裸男給的額外下地機會配合跳地就是每回合6點的傷害，依然很可觀。
 
-<br></br>
+<br />
 
 ## 五、套牌小撇步和規則
 
@@ -191,7 +191,7 @@ authors:
   - 場上原先有一塊瓦拉庫跟裸男，巨像下了7個地
     → 只會有3次瓦拉庫觸發，因為只有從巨像下的第5塊地開始才符合瓦拉庫的檢查條件（另外5塊山脈）
 
-<br></br>
+<br />
 
 ## 六、對局技巧與備牌選擇
 
@@ -234,7 +234,7 @@ authors:
 4.  **比泰坦更快更積極的威脅：**
     舉例來說，像是一回[流光爍影](https://scryfall.com/card/mh1/7/ephemerate)或[死裡逃生](https://scryfall.com/card/woe/101/not-dead-after-all)的[悲慟](https://scryfall.com/card/mh2/87/grief)，或是準時傾曳[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)的犀牛，這類型的威脅就會依據環境的數量去做備編解牌的對應。
 
-<br></br>
+<br />
 
 ## 七、後犀牛時代與近代新篇三我的看法
 
@@ -275,7 +275,7 @@ authors:
 
 作為一張功能性地牌，能複製到墳場的泰坦、護身符、裸男都很不錯，唯一比較麻煩的地方是泰坦護身符不是一套容易躁狂的套牌，再加上目前泰坦套牌地的構築其實很緊，我覺得可以列入觀察。
 
-<br></br>
+<br />
 
 ## 八、後記
 
