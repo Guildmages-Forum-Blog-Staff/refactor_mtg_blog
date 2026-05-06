@@ -272,7 +272,10 @@ const friendLinks = [
 </div>
 
 <script>
-  // Re-query each call so icons resolve whether header is persisted or fresh
+  // pagefind is module-level so it initialises once across navigations
+  let pagefind: any = null;
+  let navAbort: AbortController | null = null;
+
   function applyThemeIcons(dark: boolean) {
     document.getElementById('icon-sun')?.classList.toggle('hidden', !dark);
     document.getElementById('icon-moon')?.classList.toggle('hidden', dark);
@@ -280,199 +283,157 @@ const friendLinks = [
     document.getElementById('icon-moon-mobile')?.classList.toggle('hidden', dark);
   }
 
-  function refreshIcons() {
+  function setupNav() {
+    // Abort all listeners from previous setup before re-attaching
+    navAbort?.abort();
+    navAbort = new AbortController();
+    const { signal } = navAbort;
+
+    // ── Theme icons ──────────────────────────────────────────────────────────
     applyThemeIcons(document.documentElement.classList.contains('dark'));
-  }
 
-  // Run on initial load AND after each View Transition swap
-  refreshIcons();
-  document.addEventListener('astro:after-swap', refreshIcons);
-
-  function handleToggle() {
-    const isDark = document.documentElement.classList.toggle('dark');
-    localStorage.setItem('theme', isDark ? 'dark' : 'light');
-    applyThemeIcons(isDark);
-  }
-
-  // Guard against double-attachment on persisted header
-  const toggle = document.getElementById('dark-mode-toggle');
-  const toggleMobile = document.getElementById('dark-mode-toggle-mobile');
-  if (toggle && !toggle.dataset.themeInit) {
-    toggle.dataset.themeInit = '1';
-    toggle.addEventListener('click', handleToggle);
-  }
-  if (toggleMobile && !toggleMobile.dataset.themeInit) {
-    toggleMobile.dataset.themeInit = '1';
-    toggleMobile.addEventListener('click', handleToggle);
-  }
-
-  // Search modal
-  const searchTrigger = document.getElementById('search-trigger');
-  const searchTriggerMobile = document.getElementById('search-trigger-mobile');
-  const searchOverlay = document.getElementById('search-overlay')!;
-  const searchBackdrop = document.getElementById('search-backdrop');
-  const searchClose = document.getElementById('search-close');
-  const searchInput = document.getElementById('search-input') as HTMLInputElement;
-  const searchResults = document.getElementById('search-results')!;
-
-  let pagefind: any = null;
-
-  async function initPagefind() {
-    if (pagefind) return;
-    try {
-      pagefind = await import(/* @vite-ignore */ '/pagefind/pagefind.js');
-      await pagefind.init();
-    } catch {
-      // only available after npm run build
+    function handleToggle() {
+      const isDark = document.documentElement.classList.toggle('dark');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      applyThemeIcons(isDark);
     }
-  }
+    document.getElementById('dark-mode-toggle')?.addEventListener('click', handleToggle, { signal });
+    document.getElementById('dark-mode-toggle-mobile')?.addEventListener('click', handleToggle, { signal });
 
-  function setHint(text: string) {
-    const p = document.createElement('p');
-    p.className = 'px-3 py-6 text-center text-sm text-gray-400 dark:text-dark-fg/40';
-    p.textContent = text;
-    searchResults.replaceChildren(p);
-  }
+    // ── Search ───────────────────────────────────────────────────────────────
+    const searchOverlay = document.getElementById('search-overlay')!;
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const searchResults = document.getElementById('search-results')!;
 
-  function openSearch() {
-    searchOverlay.classList.remove('hidden');
-    document.body.style.overflow = 'hidden';
-    searchInput.focus();
-    if (searchResults.childElementCount === 0) setHint('輸入關鍵字開始搜尋');
-    initPagefind();
-  }
-
-  function closeSearch() {
-    searchOverlay.classList.add('hidden');
-    document.body.style.overflow = '';
-    searchInput.value = '';
-    searchResults.replaceChildren();
-  }
-
-  searchTrigger?.addEventListener('click', openSearch);
-  searchTriggerMobile?.addEventListener('click', openSearch);
-  searchClose?.addEventListener('click', closeSearch);
-  searchBackdrop?.addEventListener('click', closeSearch);
-
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeSearch();
-    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-      e.preventDefault();
-      openSearch();
-    }
-  });
-
-  searchInput?.addEventListener('input', async () => {
-    const query = searchInput.value.trim();
-    if (!query) { setHint('輸入關鍵字開始搜尋'); return; }
-
-    if (!pagefind) {
-      setHint('請先執行 npm run build 以建立搜尋索引');
-      return;
+    async function initPagefind() {
+      if (pagefind) return;
+      try {
+        pagefind = await import(/* @vite-ignore */ '/pagefind/pagefind.js');
+        await pagefind.init();
+      } catch { /* only available after npm run build */ }
     }
 
-    const res = await pagefind.search(query);
-    const items: any[] = await Promise.all(res.results.slice(0, 8).map((r: any) => r.data()));
-
-    if (items.length === 0) { setHint('找不到相關文章'); return; }
-
-    const fragment = document.createDocumentFragment();
-    for (const item of items) {
-      const a = document.createElement('a');
-      a.href = item.url;
-      a.className = 'block rounded-xl px-4 py-3 transition-colors hover:bg-gray-100 dark:hover:bg-white/10';
-
-      const titleEl = document.createElement('div');
-      titleEl.className = 'font-medium text-gray-900 dark:text-dark-fg';
-      titleEl.textContent = item.meta?.title ?? '';
-
-      const excerptEl = document.createElement('div');
-      excerptEl.className = 'mt-0.5 line-clamp-2 text-sm text-gray-500 dark:text-dark-fg/60';
-      excerptEl.textContent = (item.excerpt ?? '').replace(/<[^>]*>/g, '');
-
-      a.append(titleEl, excerptEl);
-      fragment.appendChild(a);
+    function setHint(text: string) {
+      const p = document.createElement('p');
+      p.className = 'px-3 py-6 text-center text-sm text-gray-400 dark:text-dark-fg/40';
+      p.textContent = text;
+      searchResults.replaceChildren(p);
     }
-    searchResults.replaceChildren(fragment);
-  });
 
-  // Desktop Friends dropdown
-  const friendsTrigger = document.getElementById('friends-trigger');
-  const friendsDropdown = document.getElementById('friends-dropdown');
-  const friendsChevron = document.getElementById('friends-chevron');
+    function openSearch() {
+      searchOverlay.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+      searchInput.focus();
+      if (searchResults.childElementCount === 0) setHint('輸入關鍵字開始搜尋');
+      initPagefind();
+    }
 
-  friendsTrigger?.addEventListener('click', (e) => {
-    e.stopPropagation();
-    const isOpen = !friendsDropdown!.classList.contains('hidden');
-    friendsDropdown!.classList.toggle('hidden', isOpen);
-    friendsChevron!.style.transform = isOpen ? '' : 'rotate(180deg)';
-  });
+    function closeSearch() {
+      searchOverlay.classList.add('hidden');
+      document.body.style.overflow = '';
+      searchInput.value = '';
+      searchResults.replaceChildren();
+    }
 
-  document.addEventListener('click', () => {
-    friendsDropdown?.classList.add('hidden');
-    if (friendsChevron) friendsChevron.style.transform = '';
-  });
+    document.getElementById('search-trigger')?.addEventListener('click', openSearch, { signal });
+    document.getElementById('search-trigger-mobile')?.addEventListener('click', openSearch, { signal });
+    document.getElementById('search-close')?.addEventListener('click', closeSearch, { signal });
+    document.getElementById('search-backdrop')?.addEventListener('click', closeSearch, { signal });
 
-  // Mobile full-screen overlay
-  const hamburger = document.getElementById('nav-hamburger');
-  const iconHamburger = document.getElementById('icon-hamburger');
-  const iconClose = document.getElementById('icon-close');
-  const overlay = document.getElementById('nav-mobile-overlay')!;
-  const panelMain = document.getElementById('nav-panel-main')!;
-  const panelFriends = document.getElementById('nav-panel-friends')!;
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeSearch();
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); openSearch(); }
+    }, { signal });
 
-  function openOverlay() {
-    overlay.classList.remove('hidden');
-    overlay.removeAttribute('aria-hidden');
-    document.body.style.overflow = 'hidden';
-    // Slide main panel in from right
-    requestAnimationFrame(() => {
+    searchInput?.addEventListener('input', async () => {
+      const query = searchInput.value.trim();
+      if (!query) { setHint('輸入關鍵字開始搜尋'); return; }
+      if (!pagefind) { setHint('請先執行 npm run build 以建立搜尋索引'); return; }
+
+      const res = await pagefind.search(query);
+      const items: any[] = await Promise.all(res.results.slice(0, 8).map((r: any) => r.data()));
+      if (items.length === 0) { setHint('找不到相關文章'); return; }
+
+      const fragment = document.createDocumentFragment();
+      for (const item of items) {
+        const a = document.createElement('a');
+        a.href = item.url;
+        a.className = 'block rounded-xl px-4 py-3 transition-colors hover:bg-gray-100 dark:hover:bg-white/10';
+        const titleEl = document.createElement('div');
+        titleEl.className = 'font-medium text-gray-900 dark:text-dark-fg';
+        titleEl.textContent = item.meta?.title ?? '';
+        const excerptEl = document.createElement('div');
+        excerptEl.className = 'mt-0.5 line-clamp-2 text-sm text-gray-500 dark:text-dark-fg/60';
+        excerptEl.textContent = (item.excerpt ?? '').replace(/<[^>]*>/g, '');
+        a.append(titleEl, excerptEl);
+        fragment.appendChild(a);
+      }
+      searchResults.replaceChildren(fragment);
+    }, { signal });
+
+    // ── Desktop Friends dropdown ──────────────────────────────────────────────
+    const friendsDropdown = document.getElementById('friends-dropdown');
+    const friendsChevron = document.getElementById('friends-chevron');
+
+    document.getElementById('friends-trigger')?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isOpen = !friendsDropdown!.classList.contains('hidden');
+      friendsDropdown!.classList.toggle('hidden', isOpen);
+      friendsChevron!.style.transform = isOpen ? '' : 'rotate(180deg)';
+    }, { signal });
+
+    document.addEventListener('click', () => {
+      friendsDropdown?.classList.add('hidden');
+      if (friendsChevron) friendsChevron.style.transform = '';
+    }, { signal });
+
+    // ── Mobile overlay ────────────────────────────────────────────────────────
+    const hamburger = document.getElementById('nav-hamburger');
+    const iconHamburger = document.getElementById('icon-hamburger');
+    const iconClose = document.getElementById('icon-close');
+    const overlay = document.getElementById('nav-mobile-overlay')!;
+    const panelMain = document.getElementById('nav-panel-main')!;
+    const panelFriends = document.getElementById('nav-panel-friends')!;
+
+    function openOverlay() {
+      overlay.classList.remove('hidden');
+      overlay.removeAttribute('aria-hidden');
+      document.body.style.overflow = 'hidden';
+      requestAnimationFrame(() => {
+        panelMain.style.transform = 'translateX(0)';
+        panelFriends.style.transform = 'translateX(100%)';
+      });
+      hamburger?.setAttribute('aria-expanded', 'true');
+      iconHamburger?.classList.add('hidden');
+      iconClose?.classList.remove('hidden');
+    }
+
+    function closeOverlay() {
+      panelMain.style.transform = 'translateX(100%)';
+      panelFriends.style.transform = 'translateX(100%)';
+      document.body.style.overflow = '';
+      hamburger?.setAttribute('aria-expanded', 'false');
+      iconHamburger?.classList.remove('hidden');
+      iconClose?.classList.add('hidden');
+      setTimeout(() => {
+        overlay.classList.add('hidden');
+        overlay.setAttribute('aria-hidden', 'true');
+      }, 300);
+    }
+
+    hamburger?.addEventListener('click', openOverlay, { signal });
+    document.getElementById('nav-overlay-close')?.addEventListener('click', closeOverlay, { signal });
+    document.getElementById('nav-overlay-close-2')?.addEventListener('click', closeOverlay, { signal });
+    document.getElementById('mobile-friends-trigger')?.addEventListener('click', () => {
+      panelMain.style.transform = 'translateX(-100%)';
+      panelFriends.style.transform = 'translateX(0)';
+    }, { signal });
+    document.getElementById('mobile-friends-back')?.addEventListener('click', () => {
       panelMain.style.transform = 'translateX(0)';
       panelFriends.style.transform = 'translateX(100%)';
-    });
-    hamburger?.setAttribute('aria-expanded', 'true');
-    iconHamburger?.classList.add('hidden');
-    iconClose?.classList.remove('hidden');
+    }, { signal });
   }
 
-  function closeOverlay() {
-    panelMain.style.transform = 'translateX(100%)';
-    panelFriends.style.transform = 'translateX(100%)';
-    document.body.style.overflow = '';
-    hamburger?.setAttribute('aria-expanded', 'false');
-    iconHamburger?.classList.remove('hidden');
-    iconClose?.classList.add('hidden');
-    setTimeout(() => {
-      overlay.classList.add('hidden');
-      overlay.setAttribute('aria-hidden', 'true');
-    }, 300);
-  }
-
-  function openFriendsPanel() {
-    panelMain.style.transform = 'translateX(-100%)';
-    panelFriends.style.transform = 'translateX(0)';
-  }
-
-  function closeFriendsPanel() {
-    panelMain.style.transform = 'translateX(0)';
-    panelFriends.style.transform = 'translateX(100%)';
-  }
-
-  hamburger?.addEventListener('click', openOverlay);
-  document.getElementById('nav-overlay-close')?.addEventListener('click', closeOverlay);
-  document.getElementById('nav-overlay-close-2')?.addEventListener('click', closeOverlay);
-  document.getElementById('mobile-friends-trigger')?.addEventListener('click', openFriendsPanel);
-  document.getElementById('mobile-friends-back')?.addEventListener('click', closeFriendsPanel);
-
-  // Close on page navigation
-  document.addEventListener('astro:after-swap', () => {
-    overlay.classList.add('hidden');
-    overlay.setAttribute('aria-hidden', 'true');
-    panelMain.style.transform = 'translateX(100%)';
-    panelFriends.style.transform = 'translateX(100%)';
-    document.body.style.overflow = '';
-    hamburger?.setAttribute('aria-expanded', 'false');
-    iconHamburger?.classList.remove('hidden');
-    iconClose?.classList.add('hidden');
-  });
+  setupNav();
+  document.addEventListener('astro:after-swap', setupNav);
 </script>
