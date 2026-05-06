@@ -17,6 +17,12 @@ export default {
         DEFAULT: {
           css: {
             maxWidth: 'none',
+            'code:not(pre code)': {
+              backgroundColor: '#BDC0BA',
+              borderRadius: '0.25rem',
+              padding: '0.125rem 0.375rem',
+              fontWeight: 'inherit',
+            },
           },
         },
       },
