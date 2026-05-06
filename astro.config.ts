@@ -9,6 +9,7 @@ import { remarkYoutube } from './src/plugins/remark-youtube';
 import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 import { remarkMtgMerge } from './src/plugins/remark-mtg-merge';
 import { remarkBasePath } from './src/plugins/remark-base-path';
+import remarkBreaks from 'remark-breaks';
 
 export default defineConfig({
   site: 'https://guildmages-forum-blog-staff.github.io',
@@ -44,6 +45,7 @@ export const search = async () => ({ results: [] });`;
   markdown: {
     remarkPlugins: [
       [remarkBasePath, { base: '/refactor_mtg_blog/' }],
+      remarkBreaks,
       remarkScryfall,
       remarkYoutube,
       remarkMtgTags,
