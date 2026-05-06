@@ -173,14 +173,22 @@ const coverImage = post.data.cover || post.data.thumbnail;
     }
   }
 
-  /* Desktop: fade in/out, keeps layout space */
+  /* Desktop: collapse width + fade so article expands to full width */
   @media (min-width: 1280px) {
     #toc-aside {
       display: block !important;
-      transition: opacity 200ms ease;
+      flex-shrink: 0;
+      width: 16rem;
+      overflow: hidden;
       opacity: 1;
+      transition:
+        width 300ms cubic-bezier(0.4, 0, 0.2, 1),
+        margin-left 300ms cubic-bezier(0.4, 0, 0.2, 1),
+        opacity 200ms ease;
     }
     #toc-aside.xl-hidden {
+      width: 0 !important;
+      margin-left: -2rem; /* cancels gap-8 so article fills full width */
       opacity: 0;
       pointer-events: none;
     }
