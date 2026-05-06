@@ -7,6 +7,7 @@ interface Props {
 
 const { posts } = Astro.props;
 if (posts.length === 0) return;
+const base = import.meta.env.BASE_URL;
 ---
 
 <section class="mt-12 border-t border-gray-200 pt-8 dark:border-gray-700">
@@ -18,7 +19,7 @@ if (posts.length === 0) return;
         const cover = post.data.thumbnail || post.data.cover;
         return (
           <a
-            href={`/${slug}`}
+            href={`${base}${slug}`}
             class="group flex flex-col overflow-hidden rounded-xl border border-gray-200 bg-white transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-dark-bg"
           >
             {cover ? (
