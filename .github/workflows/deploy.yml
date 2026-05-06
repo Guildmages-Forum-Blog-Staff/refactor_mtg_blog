@@ -7,11 +7,6 @@ on:
   schedule:
     - cron: '0 2 * * 1' # every Monday 02:00 UTC (10:00 Taipei)
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -19,26 +14,43 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+    outputs:
+      cache_updated: ${{ steps.cache_check.outputs.updated }}
     steps:
-      - name: Checkout your repository using git
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Cache Scryfall API responses
-        uses: actions/cache@v4
-        with:
-          path: .scryfall-cache.json
-          key: scryfall-${{ hashFiles('src/content/posts/**') }}
-          restore-keys: |
-            scryfall-
 
       - name: Install, build, and upload your site
         uses: withastro/action@v2
         with:
           node-version: '20'
 
+      - name: Check if Scryfall cache was updated
+        id: cache_check
+        run: |
+          if ! git diff --quiet .scryfall-cache.json; then
+            echo "updated=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push updated Scryfall cache
+        if: steps.cache_check.outputs.updated == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .scryfall-cache.json
+          git commit -m "chore: update scryfall cache [auto]"
+          git push
+
   deploy:
     needs: build
+    if: needs.build.outputs.cache_updated != 'true'
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
