@@ -126,13 +126,6 @@ const {
         if (!btn || !ring) return;
 
         window.addEventListener('scroll', () => {
-          // Hide when TOC component is present (it has its own button)
-          if (document.querySelector('.toc')) {
-            btn.classList.remove('flex');
-            btn.classList.add('hidden');
-            return;
-          }
-
           const scrollTop = window.scrollY;
           const docHeight = document.documentElement.scrollHeight - window.innerHeight;
           const progress = docHeight > 0 ? scrollTop / docHeight : 0;

@@ -29,26 +29,6 @@
       </ul>
     </nav>
 
-    <Teleport to="body">
-    <button
-      v-show="showBtn"
-      aria-label="Back to top"
-      class="fixed bottom-6 right-6 z-50 flex h-10 w-10 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
-      @click="scrollToTop"
-    >
-      <svg class="absolute inset-0 h-10 w-10 -rotate-90" viewBox="0 0 48 48">
-        <circle cx="24" cy="24" r="20" fill="none" stroke="currentColor" stroke-width="2.5" class="text-gray-200 dark:text-gray-700" />
-        <circle
-          cx="24" cy="24" r="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
-          class="text-primary transition-[stroke-dashoffset] duration-100"
-          :style="`stroke-dasharray: 125.66; stroke-dashoffset: ${125.66 * (1 - scrollProgress)}`"
-        />
-      </svg>
-      <svg class="relative h-4 w-4 text-gray-700 dark:text-gray-200" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
-      </svg>
-    </button>
-    </Teleport>
   </div>
 </template>
 
@@ -64,8 +44,6 @@ interface Heading {
 const props = defineProps<{ headings: Heading[]; title?: string }>();
 const sidebarRef = ref<HTMLElement | null>(null);
 const activeSlug = ref('');
-const showBtn = ref(false);
-const scrollProgress = ref(0);
 
 function scrollTo(slug: string) {
   const el = document.getElementById(slug);
@@ -76,13 +54,6 @@ function scrollTo(slug: string) {
 
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-
-function onScroll() {
-  const scrollTop = window.scrollY;
-  const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-  showBtn.value = scrollTop >= 50;
-  scrollProgress.value = docHeight > 0 ? scrollTop / docHeight : 0;
 }
 
 let observer: IntersectionObserver | null = null;
@@ -104,11 +75,9 @@ onMounted(() => {
   );
 
   elements.forEach((el) => observer!.observe(el));
-  window.addEventListener('scroll', onScroll, { passive: true });
 });
 
 onUnmounted(() => {
   observer?.disconnect();
-  window.removeEventListener('scroll', onScroll);
 });
 </script>
