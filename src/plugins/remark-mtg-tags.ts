@@ -29,10 +29,15 @@ const ASCII_SINGLE = String.fromCharCode(39);
 function tokenize(input: string): string[] {
   const normalized = input.replace(CURLY_DOUBLE, ASCII_DOUBLE).replace(CURLY_SINGLE, ASCII_SINGLE);
   const tokens: string[] = [];
-  const regex = /"([^"]*)"|'([^']*)'|(\S+)/g;
+  // Match key="value", key='value', "value", 'value', or bare token — in that priority order
+  const regex = /([^=\s]+)="([^"]*)"|([^=\s]+)='([^']*)'|"([^"]*)"|'([^']*)'|(\S+)/g;
   let match: RegExpExecArray | null;
   while ((match = regex.exec(normalized)) !== null) {
-    tokens.push(match[1] ?? match[2] ?? match[3]);
+    if (match[1] !== undefined) tokens.push(`${match[1]}=${match[2]}`);
+    else if (match[3] !== undefined) tokens.push(`${match[3]}=${match[4]}`);
+    else if (match[5] !== undefined) tokens.push(match[5]);
+    else if (match[6] !== undefined) tokens.push(match[6]);
+    else tokens.push(match[7]);
   }
   return tokens;
 }
