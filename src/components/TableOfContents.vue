@@ -32,8 +32,7 @@
     <button
       v-show="showBtn"
       aria-label="Back to top"
-      class="flex h-10 w-10 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
-      :style="{ position: 'fixed', bottom: 'calc(1.5rem + 50px)', right: btnRight + 'px' }"
+      class="fixed bottom-6 right-6 flex h-10 w-10 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
       @click="scrollToTop"
     >
       <svg class="absolute inset-0 h-10 w-10 -rotate-90" viewBox="0 0 48 48">
@@ -65,7 +64,6 @@ const sidebarRef = ref<HTMLElement | null>(null);
 const activeSlug = ref('');
 const showBtn = ref(false);
 const scrollProgress = ref(0);
-const btnRight = ref(24);
 
 function scrollTo(slug: string) {
   const el = document.getElementById(slug);
@@ -76,12 +74,6 @@ function scrollTo(slug: string) {
 
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-
-function updateBtnPosition() {
-  if (!sidebarRef.value) return;
-  const rect = sidebarRef.value.getBoundingClientRect();
-  btnRight.value = window.innerWidth - rect.right;
 }
 
 function onScroll() {
@@ -111,13 +103,10 @@ onMounted(() => {
 
   elements.forEach((el) => observer!.observe(el));
   window.addEventListener('scroll', onScroll, { passive: true });
-  window.addEventListener('resize', updateBtnPosition);
-  updateBtnPosition();
 });
 
 onUnmounted(() => {
   observer?.disconnect();
   window.removeEventListener('scroll', onScroll);
-  window.removeEventListener('resize', updateBtnPosition);
 });
 </script>
