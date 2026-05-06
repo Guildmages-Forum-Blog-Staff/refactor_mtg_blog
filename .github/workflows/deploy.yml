@@ -23,6 +23,14 @@ jobs:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
 
+      - name: Cache Scryfall API responses
+        uses: actions/cache@v4
+        with:
+          path: .scryfall-cache.json
+          key: scryfall-${{ hashFiles('src/content/posts/**') }}
+          restore-keys: |
+            scryfall-
+
       - name: Install, build, and upload your site
         uses: withastro/action@v2
         with:
