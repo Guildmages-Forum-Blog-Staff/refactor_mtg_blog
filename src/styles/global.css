@@ -32,11 +32,6 @@
       system-ui,
       -apple-system,
       sans-serif;
-    background-color: rgba(145, 152, 159, 0.82);
-  }
-
-  html.dark body {
-    background-color: rgba(28, 28, 28, 0.88);
   }
 }
 
