@@ -49,14 +49,6 @@ const isFirstPage = page.currentPage === 1;
 <BaseLayout title={page.currentPage === 1 ? 'Home' : `Home — Page ${page.currentPage}`}>
   <Navbar />
 
-  <!-- Fixed background image (persisted across paginated pages) -->
-  <div
-    id="hero-bg"
-    transition:persist
-    class="fixed inset-0 -z-10 bg-cover bg-center bg-no-repeat"
-    style={`background-image: url('${import.meta.env.BASE_URL}images/WOE-Multicolor-cover.jpg');${!isFirstPage ? ' filter: blur(12px);' : ''}`}
-  ></div>
-
   <!-- Dark overlay -->
   <div
     id="hero-overlay"
