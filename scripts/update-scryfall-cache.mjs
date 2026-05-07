@@ -21,7 +21,7 @@ try {
 
 let lastFetch = 0;
 async function fetchWithDelay(url) {
-  const wait = Math.max(0, 100 - (Date.now() - lastFetch));
+  const wait = Math.max(0, 200 - (Date.now() - lastFetch));
   if (wait > 0) await new Promise((r) => setTimeout(r, wait));
   lastFetch = Date.now();
   return fetch(url);
