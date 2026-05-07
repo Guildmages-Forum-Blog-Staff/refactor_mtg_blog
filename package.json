@@ -13,7 +13,8 @@
     "check": "astro check",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "cache:update": "node scripts/update-scryfall-cache.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.14",

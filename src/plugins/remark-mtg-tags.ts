@@ -127,12 +127,16 @@ async function renderMtgLink(name: string, args: MtgTagArgs): Promise<string> {
 
 async function renderMtgCard(name: string, args: MtgTagArgs): Promise<string> {
   if (args.tooltip) return renderMtgLink(name, args);
-  const imgUrl = await fetchImageByName(name, args.edition, args.language);
+  const imgUrls = await fetchImageByName(name, args.edition, args.language);
   const href = scryfallNameUrl(name, args.edition);
-  if (!imgUrl) {
+  if (!imgUrls) {
     return `<a class="mtg-link scryfall-card" href="${href}" target="_blank" rel="noopener noreferrer" data-card-name="${name}">${name}</a>`;
   }
-  return `<a href="${href}" target="_blank" rel="noopener noreferrer"><img src="${imgUrl}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" /></a>`;
+  const imgs = imgUrls
+    .split('|')
+    .map((url) => `<img src="${url}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" />`)
+    .join('');
+  return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="inline-flex gap-2">${imgs}</a>`;
 }
 
 async function renderMtgPick(edition: string, number: string, args: MtgTagArgs): Promise<string> {

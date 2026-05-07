@@ -47,12 +47,16 @@ function enqueue<T>(fn: () => Promise<T>): Promise<T> {
   return result;
 }
 
-function getImageUrl(card: Record<string, unknown>): string | null {
+// Returns pipe-separated URLs for all faces (DFCs get two URLs, normal cards one)
+function getImageUrls(card: Record<string, unknown>): string | null {
   const imageUris = card.image_uris as Record<string, string> | undefined;
-  if (imageUris) return imageUris.large;
+  if (imageUris?.large) return imageUris.large;
   const cardFaces = card.card_faces as Array<Record<string, unknown>> | undefined;
-  if (cardFaces?.[0]?.image_uris) {
-    return (cardFaces[0].image_uris as Record<string, string>).large;
+  if (cardFaces) {
+    const urls = cardFaces
+      .map((f) => (f.image_uris as Record<string, string> | undefined)?.large)
+      .filter((u): u is string => !!u);
+    if (urls.length) return urls.join('|');
   }
   return null;
 }
@@ -84,7 +88,7 @@ export async function fetchImageByName(
         return null;
       }
       const data = (await res.json()) as Record<string, unknown>;
-      const imgUrl = getImageUrl(data);
+      const imgUrl = getImageUrls(data);
       if (imgUrl) {
         stats.fetched++;
         cache[key] = imgUrl;
@@ -124,7 +128,7 @@ export async function fetchImageByNumber(
         return null;
       }
       const data = (await res.json()) as Record<string, unknown>;
-      const imgUrl = getImageUrl(data);
+      const imgUrl = getImageUrls(data);
       if (imgUrl) {
         stats.fetched++;
         cache[key] = imgUrl;

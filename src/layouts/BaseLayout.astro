@@ -65,20 +65,27 @@ const {
           if (!link) return;
           const imgUrl = link.getAttribute('data-card-image');
           if (!imgUrl) return;
-          const img = document.createElement('img');
-          img.src = imgUrl;
-          img.style.cssText =
-            'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
-          img.loading = 'lazy';
-          tooltip.replaceChildren(img);
-          tooltip.style.display = 'block';
+          const urls = imgUrl.split('|').filter(Boolean);
+          tooltip.replaceChildren(
+            ...urls.map((src) => {
+              const img = document.createElement('img');
+              img.src = src;
+              img.style.cssText =
+                'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
+              img.loading = 'lazy';
+              return img;
+            }),
+          );
+          tooltip.style.display = 'flex';
+          tooltip.style.gap = '8px';
         });
 
         document.addEventListener('mousemove', (e) => {
           if (tooltip.style.display === 'none') return;
           const x = e.clientX + 16;
           const y = e.clientY - 20;
-          tooltip.style.left = Math.min(x, window.innerWidth - 240) + 'px';
+          const w = tooltip.offsetWidth || 240;
+          tooltip.style.left = Math.min(x, window.innerWidth - w - 8) + 'px';
           tooltip.style.top = Math.max(0, Math.min(y, window.innerHeight - 340)) + 'px';
         });
 
