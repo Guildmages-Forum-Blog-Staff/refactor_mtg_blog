@@ -127,6 +127,7 @@
 
   /* MTG card images — fixed width matching original blog */
   img.mtgcard {
+    display: inline-block !important;
     max-width: 220px !important;
     width: auto;
     height: auto;
