@@ -134,7 +134,10 @@ async function renderMtgCard(name: string, args: MtgTagArgs): Promise<string> {
   }
   const imgs = imgUrls
     .split('|')
-    .map((url) => `<img src="${url}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" />`)
+    .map(
+      (url) =>
+        `<img src="${url}" class="mtgcard rounded-lg my-4 max-w-xs" loading="lazy" alt="${name}" />`,
+    )
     .join('');
   return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="inline-flex gap-2">${imgs}</a>`;
 }
