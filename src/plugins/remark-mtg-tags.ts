@@ -134,12 +134,9 @@ async function renderMtgCard(name: string, args: MtgTagArgs): Promise<string> {
   }
   const imgs = imgUrls
     .split('|')
-    .map(
-      (url) =>
-        `<img src="${url}" class="mtgcard rounded-lg" loading="lazy" alt="${name}" />`,
-    )
+    .map((url) => `<img src="${url}" class="mtgcard rounded-lg" loading="lazy" alt="${name}" />`)
     .join('');
-  return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="inline-flex gap-2">${imgs}</a>`;
+  return `<div class="flex justify-center gap-2 my-2"><a href="${href}" target="_blank" rel="noopener noreferrer" class="inline-flex gap-2">${imgs}</a></div><br />`;
 }
 
 async function renderMtgPick(edition: string, number: string, args: MtgTagArgs): Promise<string> {
@@ -151,7 +148,7 @@ async function renderMtgPick(edition: string, number: string, args: MtgTagArgs):
   }
   if (!imgUrl)
     return `<span class="mtg-card-pick" data-edition="${edition}" data-number="${number}"></span>`;
-  return `<a href="${href}" target="_blank" rel="noopener noreferrer"><img src="${imgUrl}" class="mtgcard rounded-lg" loading="lazy" alt="${edition} ${number}" /></a>`;
+  return `<div class="flex justify-center my-2"><a href="${href}" target="_blank" rel="noopener noreferrer"><img src="${imgUrl}" class="mtgcard rounded-lg" loading="lazy" alt="${edition} ${number}" /></a></div><br />`;
 }
 
 async function replaceTagsInText(text: string): Promise<string> {

@@ -125,12 +125,12 @@
     @apply mx-auto max-w-full rounded-lg;
   }
 
-  /* MTG card images — fixed width matching original blog, not centered */
+  /* MTG card images — fixed width matching original blog */
   img.mtgcard {
     max-width: 220px !important;
     width: auto;
     height: auto;
-    margin: 0.25rem 0 !important;
+    margin: 0 !important;
   }
 
   /* Prose table styling */
