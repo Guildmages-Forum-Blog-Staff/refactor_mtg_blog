@@ -49,14 +49,6 @@ const isFirstPage = page.currentPage === 1;
 <BaseLayout title={page.currentPage === 1 ? 'Home' : `Home — Page ${page.currentPage}`}>
   <Navbar />
 
-  <!-- Dark overlay -->
-  <div
-    id="hero-overlay"
-    transition:persist
-    class="fixed inset-0 bg-black/50"
-    style="z-index: -9;"
-  ></div>
-
   {isFirstPage && (
     <>
       <!-- Hero section -->
