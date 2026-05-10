@@ -54,15 +54,12 @@
     @apply absolute inset-0 h-full w-full rounded-lg;
   }
 
-  /* TOC scrollbar */
-  .toc::-webkit-scrollbar {
-    width: 4px;
+  /* TOC nav — hide scrollbar, keep scroll functionality */
+  .toc nav::-webkit-scrollbar {
+    display: none;
   }
-  .toc::-webkit-scrollbar-track {
-    @apply bg-transparent;
-  }
-  .toc::-webkit-scrollbar-thumb {
-    @apply rounded-full bg-gray-300 dark:bg-gray-700;
+  .toc nav {
+    scrollbar-width: none;
   }
 }
 
