@@ -242,6 +242,36 @@
     @apply text-white;
   }
 
+  /* Waline comment widget — Nippon color theme */
+  .waline-container {
+    --waline-theme-color: #ab3b3a;       /* 真朱 SHINSYU */
+    --waline-active-color: #cb1b45;      /* 紅 KURENAI */
+    --waline-color: #0c0c0c;             /* 呂 RO */
+    --waline-bg-color: #f5f2eb;          /* 生成 KINIIRO warm white */
+    --waline-bg-color-light: #e8e4db;
+    --waline-bg-color-hover: #ddd9d0;
+    --waline-border-color: #91989f;      /* 銀鼠 GINNEZUMI */
+    --waline-disable-bg-color: #c8c8c8;
+    --waline-disable-color: #7a7a7a;
+    --waline-code-bg-color: #bdc0ba;
+    --waline-info-bg-color: rgba(101, 103, 101, 0.1);
+    --waline-info-color: #656765;        /* 鈍 NIBI */
+    --waline-border: 1px solid var(--waline-border-color);
+    --waline-avatar-size: 3.25rem;
+    --waline-m-avatar-size: 2rem;
+  }
+  .dark .waline-container {
+    --waline-color: #fcfaf2;             /* 白練 SHIRONERI */
+    --waline-bg-color: #1c1c1c;          /* 墨 SUMI */
+    --waline-bg-color-light: #282b2f;
+    --waline-bg-color-hover: #333;
+    --waline-border-color: #444;
+    --waline-disable-bg-color: #333;
+    --waline-disable-color: #666;
+    --waline-info-bg-color: rgba(101, 103, 101, 0.15);
+    --waline-info-color: #91989f;        /* 銀鼠 GINNEZUMI */
+  }
+
   /* Article heading anchor offset for sticky navbar */
   .prose h1,
   .prose h2,
