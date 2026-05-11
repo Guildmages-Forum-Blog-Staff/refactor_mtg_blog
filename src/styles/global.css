@@ -136,7 +136,16 @@
     @apply w-full text-sm;
   }
   .prose th {
-    @apply bg-gray-100 font-semibold dark:bg-gray-800;
+    background-color: #787878;
+    @apply font-semibold text-white;
+  }
+  .prose tbody tr:nth-child(odd) {
+    background-color: #828282;
+    @apply text-white;
+  }
+  .prose tbody tr:nth-child(even) {
+    background-color: #91989F;
+    @apply text-white;
   }
 
   /* Article heading anchor offset for sticky navbar */
