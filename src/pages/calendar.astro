@@ -169,7 +169,9 @@ function linkifyText(text: string): string {
                         ? formatDate(ev.start)
                         : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`}
                     </span>
-                    {ev.location && <span>📍 {ev.location}</span>}
+                    {ev.location && (
+                      <span set:html={`📍 ${linkifyText(ev.location)}`} />
+                    )}
                   </div>
 
                   {ev.description && (
@@ -220,7 +222,9 @@ function linkifyText(text: string): string {
                   <span class="text-xs text-gray-400 dark:text-dark-fg/40">
                     {formatDate(ev.start)}
                     {!isAllDay(ev.start, ev.end) && ` ${formatTime(ev.start)}`}
-                    {ev.location && ` · ${ev.location}`}
+                    {ev.location && (
+                      <span set:html={` · ${linkifyText(ev.location)}`} />
+                    )}
                   </span>
                 </div>
               </div>
