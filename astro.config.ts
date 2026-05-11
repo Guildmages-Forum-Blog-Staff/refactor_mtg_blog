@@ -49,9 +49,9 @@ export const search = async () => ({ results: [] });`;
       remarkBreaks,
       remarkScryfall,
       remarkYoutube,
-      remarkNotel,
       remarkMtgTags,
       [remarkMtgMerge, { base: '/refactor_mtg_blog/' }],
+      remarkNotel,
     ],
     shikiConfig: {
       theme: 'github-dark',
