@@ -158,15 +158,15 @@
   /* Source: https://nipponcolors.com/ */
   .notel {
     @apply my-4 rounded-lg overflow-hidden;
-    border-left: 4px solid #707c74; /* 利休鼠 RIKYUNEZUMI */
+    border-left: 4px solid #656765; /* 鈍 NIBI */
   }
   .notel-title {
     @apply px-4 py-2 font-semibold text-white text-sm;
-    background-color: #707c74; /* 利休鼠 RIKYUNEZUMI */
+    background-color: #656765; /* 鈍 NIBI */
   }
   .notel-body {
     @apply px-4 py-3;
-    background-color: rgba(112, 124, 116, 0.1);
+    background-color: rgba(101, 103, 101, 0.1);
   }
   /* 紅 KURENAI */
   .notel-red { border-left-color: #cb1b45; }
@@ -178,7 +178,7 @@
   .notel-blue .notel-body { background-color: rgba(0, 92, 175, 0.1); }
   /* 若竹 WAKATAKE */
   .notel-green { border-left-color: #5dac81; }
-  .notel-green .notel-title { background-color: #5dac81; }
+  .notel-green .notel-title { background-color: #5dac81; color: #1a1a1a; }
   .notel-green .notel-body { background-color: rgba(93, 172, 129, 0.1); }
   /* 山吹 YAMABUKI */
   .notel-yellow { border-left-color: #ffb11b; }
@@ -190,7 +190,7 @@
   .notel-purple .notel-body { background-color: rgba(119, 66, 141, 0.1); }
   /* 纁 SOHI */
   .notel-orange { border-left-color: #ed784a; }
-  .notel-orange .notel-title { background-color: #ed784a; }
+  .notel-orange .notel-title { background-color: #ed784a; color: #1a1a1a; }
   .notel-orange .notel-body { background-color: rgba(237, 120, 74, 0.1); }
   /* 新橋 SHINBASHI */
   .notel-cyan { border-left-color: #0089a7; }
@@ -198,7 +198,7 @@
   .notel-cyan .notel-body { background-color: rgba(0, 137, 167, 0.1); }
 
   /* Dark mode overrides for notel */
-  .dark .notel-body { background-color: rgba(112, 124, 116, 0.15); }
+  .dark .notel-body { background-color: rgba(101, 103, 101, 0.15); }
   .dark .notel-red .notel-body { background-color: rgba(203, 27, 69, 0.15); }
   .dark .notel-blue .notel-body { background-color: rgba(0, 92, 175, 0.15); }
   .dark .notel-green .notel-body { background-color: rgba(93, 172, 129, 0.15); }
