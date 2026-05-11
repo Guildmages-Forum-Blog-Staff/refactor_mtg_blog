@@ -148,6 +148,7 @@
   }
   .prose th {
     background-color: #282b2f;
+    font-size: 1.5rem;
     @apply font-semibold text-white;
   }
   .prose tbody tr:nth-child(odd) {
