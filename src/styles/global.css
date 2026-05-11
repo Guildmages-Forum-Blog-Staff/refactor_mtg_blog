@@ -133,7 +133,18 @@
 
   /* Prose table styling */
   .prose table {
-    @apply w-full text-sm;
+    @apply w-full text-sm overflow-hidden rounded-lg;
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  .prose th,
+  .prose td {
+    @apply text-center px-3 py-2;
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+  }
+  .prose th:last-child,
+  .prose td:last-child {
+    border-right: none;
   }
   .prose th {
     background-color: #787878;
