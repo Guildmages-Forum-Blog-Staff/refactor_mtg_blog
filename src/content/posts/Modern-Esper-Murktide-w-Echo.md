@@ -208,7 +208,7 @@ FON這張牌，每個龍侯/大眼都會放2～3張，也有1張或4張、甚至
 
 簡稱正康。在我們通過前期的干擾、或一些相對慢速的對局，正康都是相當可靠的許可咒語。測試過3張的版本，因為很多時候都覺得就少那一張康，因此最後帶滿4張。
 
-> "Two mana, counter target spell, what a beautiful card!" ～ 擷取自某次[Andrea Mengucci](https://www.youtube.com/@AndreaMengucci)的直播。 
+> Two mana, counter target spell, what a beautiful card! ～ 擷取自某次[Andrea Mengucci](https://www.youtube.com/@AndreaMengucci)的直播。 
 
 {% mtgcard "Fatal Push" %}
 
