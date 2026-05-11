@@ -75,13 +75,14 @@ function isAllDay(start: Date, end: Date) {
 }
 
 function linkifyText(text: string): string {
+  const stripped = text.replace(/<a\b[^>]*>(.*?)<\/a>/gis, '$1');
   const urlRegex = /https?:\/\/[^\s<>"]+/g;
   const parts: string[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
 
-  while ((match = urlRegex.exec(text)) !== null) {
-    const before = text
+  while ((match = urlRegex.exec(stripped)) !== null) {
+    const before = stripped
       .slice(lastIndex, match.index)
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
@@ -98,7 +99,7 @@ function linkifyText(text: string): string {
     lastIndex = match.index + match[0].length;
   }
 
-  const tail = text
+  const tail = stripped
     .slice(lastIndex)
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
