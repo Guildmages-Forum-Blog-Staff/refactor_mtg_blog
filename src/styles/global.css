@@ -4,10 +4,10 @@
 
 :root {
   --color-primary: #ab3b3a;
-  --color-bg: #91989F;
-  --color-fg: #0C0C0C;
-  --color-dark-bg: #1C1C1C;
-  --color-dark-fg: #FCFAF2;
+  --color-bg: #91989f;
+  --color-fg: #0c0c0c;
+  --color-dark-bg: #1c1c1c;
+  --color-dark-fg: #fcfaf2;
 }
 
 @layer base {
@@ -65,13 +65,25 @@
 
 /* Page transition animations */
 @keyframes page-fade-in {
-  from { opacity: 0; transform: translateY(6px); }
-  to   { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 @keyframes page-fade-out {
-  from { opacity: 1; transform: translateY(0); }
-  to   { opacity: 0; transform: translateY(-6px); }
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
 }
 
 ::view-transition-old(root) {
@@ -84,10 +96,14 @@
 
 /* Theme toggle: cross-fade only, no translate */
 @keyframes theme-fade-out {
-  to { opacity: 0; }
+  to {
+    opacity: 0;
+  }
 }
 @keyframes theme-fade-in {
-  from { opacity: 0; }
+  from {
+    opacity: 0;
+  }
 }
 .is-theme-transitioning::view-transition-old(root) {
   animation: 300ms ease both theme-fade-out;
@@ -97,8 +113,13 @@
 }
 
 @keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
 }
 
 .hero-cursor {
@@ -109,7 +130,9 @@
 .post-card {
   opacity: 0;
   transform: translateY(16px);
-  transition: opacity 0.5s ease, transform 0.5s ease;
+  transition:
+    opacity 0.5s ease,
+    transform 0.5s ease;
 }
 .post-card.visible {
   opacity: 1;
@@ -133,13 +156,13 @@
 
   /* Prose table styling */
   .prose table {
-    @apply w-full text-sm overflow-hidden rounded-lg;
+    @apply w-full overflow-hidden rounded-lg text-sm;
     border-collapse: separate;
     border-spacing: 0;
   }
   .prose th,
   .prose td {
-    @apply text-center px-3 py-2;
+    @apply px-3 py-2 text-center;
     border-right: 1px solid rgba(255, 255, 255, 0.25);
   }
   .prose th:last-child,
@@ -148,7 +171,9 @@
   }
   .prose th {
     background-color: #282b2f;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
     @apply font-semibold text-white;
   }
   .prose tbody tr:nth-child(odd) {
@@ -156,7 +181,7 @@
     @apply text-gray-900;
   }
   .dark .prose tbody tr:nth-child(odd) {
-    background-color: #1C1C1C;
+    background-color: #1c1c1c;
     @apply text-white;
   }
   .prose tbody tr:nth-child(even) {
