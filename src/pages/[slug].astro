@@ -142,7 +142,7 @@ const coverImage = post.data.cover || post.data.thumbnail;
         <!-- Comments -->
         {post.data.comments !== false && (
           <div id="comments-section" data-pagefind-ignore class="mt-12 border-t border-gray-200 pt-8 dark:border-gray-700">
-            <WalineComments path={`/${post.id.replace(/\.mdx?$/, '')}`} client:only="vue" />
+            <WalineComments path={`/${post.id.replace(/\.mdx?$/, '')}/`} client:only="vue" />
           </div>
         )}
       </article>

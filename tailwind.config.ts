@@ -17,6 +17,8 @@ export default {
         DEFAULT: {
           css: {
             maxWidth: 'none',
+            'blockquote p:first-of-type::before': { content: 'none' },
+            'blockquote p:last-of-type::after': { content: 'none' },
             'code:not(pre code)': {
               backgroundColor: '#BDC0BA',
               borderRadius: '0.25rem',

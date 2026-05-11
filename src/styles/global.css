@@ -4,10 +4,10 @@
 
 :root {
   --color-primary: #ab3b3a;
-  --color-bg: #91989F;
-  --color-fg: #0C0C0C;
-  --color-dark-bg: #1C1C1C;
-  --color-dark-fg: #FCFAF2;
+  --color-bg: #91989f;
+  --color-fg: #0c0c0c;
+  --color-dark-bg: #1c1c1c;
+  --color-dark-fg: #fcfaf2;
 }
 
 @layer base {
@@ -65,13 +65,25 @@
 
 /* Page transition animations */
 @keyframes page-fade-in {
-  from { opacity: 0; transform: translateY(6px); }
-  to   { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 @keyframes page-fade-out {
-  from { opacity: 1; transform: translateY(0); }
-  to   { opacity: 0; transform: translateY(-6px); }
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
 }
 
 ::view-transition-old(root) {
@@ -84,10 +96,14 @@
 
 /* Theme toggle: cross-fade only, no translate */
 @keyframes theme-fade-out {
-  to { opacity: 0; }
+  to {
+    opacity: 0;
+  }
 }
 @keyframes theme-fade-in {
-  from { opacity: 0; }
+  from {
+    opacity: 0;
+  }
 }
 .is-theme-transitioning::view-transition-old(root) {
   animation: 300ms ease both theme-fade-out;
@@ -97,8 +113,13 @@
 }
 
 @keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
 }
 
 .hero-cursor {
@@ -109,7 +130,9 @@
 .post-card {
   opacity: 0;
   transform: translateY(16px);
-  transition: opacity 0.5s ease, transform 0.5s ease;
+  transition:
+    opacity 0.5s ease,
+    transform 0.5s ease;
 }
 .post-card.visible {
   opacity: 1;
@@ -131,12 +154,92 @@
     margin: 0 !important;
   }
 
+  /* Notel callout blocks — Japanese traditional colors (日本の伝統色) */
+  /* Source: https://nipponcolors.com/ */
+  .notel {
+    @apply my-4 rounded-lg overflow-hidden;
+    border-left: 4px solid #656765; /* 鈍 NIBI */
+  }
+  .notel-title {
+    @apply px-4 py-2 font-semibold text-white text-sm;
+    background-color: #656765; /* 鈍 NIBI */
+  }
+  .notel-body {
+    @apply px-4 py-3;
+    background-color: rgba(101, 103, 101, 0.1);
+  }
+  /* 紅 KURENAI */
+  .notel-red { border-left-color: #cb1b45; }
+  .notel-red .notel-title { background-color: #cb1b45; }
+  .notel-red .notel-body { background-color: rgba(203, 27, 69, 0.1); }
+  /* 瑠璃 RURI */
+  .notel-blue { border-left-color: #005caf; }
+  .notel-blue .notel-title { background-color: #005caf; }
+  .notel-blue .notel-body { background-color: rgba(0, 92, 175, 0.1); }
+  /* 若竹 WAKATAKE */
+  .notel-green { border-left-color: #5dac81; }
+  .notel-green .notel-title { background-color: #5dac81; color: #1a1a1a; }
+  .notel-green .notel-body { background-color: rgba(93, 172, 129, 0.1); }
+  /* 山吹 YAMABUKI */
+  .notel-yellow { border-left-color: #ffb11b; }
+  .notel-yellow .notel-title { background-color: #ffb11b; color: #1a1a1a; }
+  .notel-yellow .notel-body { background-color: rgba(255, 177, 27, 0.1); }
+  /* 江戸紫 EDOMURASAKI */
+  .notel-purple { border-left-color: #77428d; }
+  .notel-purple .notel-title { background-color: #77428d; }
+  .notel-purple .notel-body { background-color: rgba(119, 66, 141, 0.1); }
+  /* 纁 SOHI */
+  .notel-orange { border-left-color: #ed784a; }
+  .notel-orange .notel-title { background-color: #ed784a; color: #1a1a1a; }
+  .notel-orange .notel-body { background-color: rgba(237, 120, 74, 0.1); }
+  /* 新橋 SHINBASHI */
+  .notel-cyan { border-left-color: #0089a7; }
+  .notel-cyan .notel-title { background-color: #0089a7; }
+  .notel-cyan .notel-body { background-color: rgba(0, 137, 167, 0.1); }
+
+  /* Dark mode overrides for notel */
+  .dark .notel-body { background-color: rgba(101, 103, 101, 0.15); }
+  .dark .notel-red .notel-body { background-color: rgba(203, 27, 69, 0.15); }
+  .dark .notel-blue .notel-body { background-color: rgba(0, 92, 175, 0.15); }
+  .dark .notel-green .notel-body { background-color: rgba(93, 172, 129, 0.15); }
+  .dark .notel-yellow .notel-body { background-color: rgba(255, 177, 27, 0.15); }
+  .dark .notel-purple .notel-body { background-color: rgba(119, 66, 141, 0.15); }
+  .dark .notel-orange .notel-body { background-color: rgba(237, 120, 74, 0.15); }
+  .dark .notel-cyan .notel-body { background-color: rgba(0, 137, 167, 0.15); }
+
   /* Prose table styling */
   .prose table {
-    @apply w-full text-sm;
+    @apply w-full overflow-hidden rounded-lg text-sm;
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  .prose th,
+  .prose td {
+    @apply px-3 py-2 text-center;
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+  }
+  .prose th:last-child,
+  .prose td:last-child {
+    border-right: none;
   }
   .prose th {
-    @apply bg-gray-100 font-semibold dark:bg-gray-800;
+    background-color: #282b2f;
+    font-size: 1.2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    @apply font-semibold text-white;
+  }
+  .prose tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+    @apply text-gray-900;
+  }
+  .dark .prose tbody tr:nth-child(odd) {
+    background-color: #1c1c1c;
+    @apply text-white;
+  }
+  .prose tbody tr:nth-child(even) {
+    background-color: #282b2f;
+    @apply text-white;
   }
 
   /* Article heading anchor offset for sticky navbar */

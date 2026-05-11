@@ -113,7 +113,7 @@ CUBE適合是建立在限制賽基礎上的遊戲方式，也是用來做推廣�
 ## 實作CUBE — 如何作出第一個CUBE
 
 Linux Torvalds曾說：
-> "Talk is cheap， show me the code."
+> Talk is cheap， show me the code.
 
 讀者讀到這也不禁要問CUBE在哪裡呢？我要怎麼做出第一個呢？
 
@@ -180,7 +180,7 @@ Legacy > Modern > Pioneer > Standard、 Master/Remaster > 沒有Master的；Jump
 10~20%的雙色地、或調色工具可以讓玩家運作更順利（不需要極順利），參考基準為一般的系列輪抽包，每一包都會給你一張非基本地，此外也可以加上調色的無色神器。
 
 9. **足夠的生物**：
-> "Magic is a cross between chess and playing-card games." - Reid Duke
+> Magic is a cross between chess and playing-card games. - Reid Duke
 
 MAGIC是一個結合象棋遊戲特性的卡牌遊戲，生物就是你的棋子，沒有棋子遊戲沒辦法運行。生物沒有公定數量，但經驗上至少有五成的生物佔比會讓遊戲更好進行。
 

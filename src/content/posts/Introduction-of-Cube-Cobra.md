@@ -152,7 +152,7 @@ categories:
 * 如果你有瘋魔主題所以要棄牌，可以加上"discrd"
 * 如果你覺得這樣子兩個tag很麻煩，也可以加上"loot"就好
 
-> "對於還是不知道該怎麼做的人，有沒有可以抄tag的地方？"
+> 對於還是不知道該怎麼做的人，有沒有可以抄tag的地方？
 
 答案是有的，還記得之前提及的Scryfall嗎？
 Scryfall提供一個由社群支持的[Scryfall Tagger](https://tagger.scryfall.com/)站，用來標記每張牌的特性。
