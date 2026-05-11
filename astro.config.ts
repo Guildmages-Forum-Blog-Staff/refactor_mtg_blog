@@ -9,6 +9,7 @@ import { remarkYoutube } from './src/plugins/remark-youtube';
 import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 import { remarkMtgMerge } from './src/plugins/remark-mtg-merge';
 import { remarkBasePath } from './src/plugins/remark-base-path';
+import { remarkNotel } from './src/plugins/remark-notel';
 import remarkBreaks from 'remark-breaks';
 
 export default defineConfig({
@@ -48,6 +49,7 @@ export const search = async () => ({ results: [] });`;
       remarkBreaks,
       remarkScryfall,
       remarkYoutube,
+      remarkNotel,
       remarkMtgTags,
       [remarkMtgMerge, { base: '/refactor_mtg_blog/' }],
     ],

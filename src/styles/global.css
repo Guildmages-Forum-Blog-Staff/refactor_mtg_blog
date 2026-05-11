@@ -154,6 +154,41 @@
     margin: 0 !important;
   }
 
+  /* Notel callout blocks */
+  .notel {
+    @apply my-4 rounded-lg overflow-hidden;
+    border-left: 4px solid #6b7280;
+  }
+  .notel-title {
+    @apply px-4 py-2 font-semibold text-white text-sm;
+    background-color: #6b7280;
+  }
+  .notel-body {
+    @apply px-4 py-3;
+    background-color: rgba(107, 114, 128, 0.1);
+  }
+  .notel-red { border-left-color: #ef4444; }
+  .notel-red .notel-title { background-color: #ef4444; }
+  .notel-red .notel-body { background-color: rgba(239, 68, 68, 0.1); }
+  .notel-blue { border-left-color: #3b82f6; }
+  .notel-blue .notel-title { background-color: #3b82f6; }
+  .notel-blue .notel-body { background-color: rgba(59, 130, 246, 0.1); }
+  .notel-green { border-left-color: #22c55e; }
+  .notel-green .notel-title { background-color: #22c55e; }
+  .notel-green .notel-body { background-color: rgba(34, 197, 94, 0.1); }
+  .notel-yellow { border-left-color: #eab308; }
+  .notel-yellow .notel-title { background-color: #eab308; }
+  .notel-yellow .notel-body { background-color: rgba(234, 179, 8, 0.1); }
+  .notel-purple { border-left-color: #a855f7; }
+  .notel-purple .notel-title { background-color: #a855f7; }
+  .notel-purple .notel-body { background-color: rgba(168, 85, 247, 0.1); }
+  .notel-orange { border-left-color: #f97316; }
+  .notel-orange .notel-title { background-color: #f97316; }
+  .notel-orange .notel-body { background-color: rgba(249, 115, 22, 0.1); }
+  .notel-cyan { border-left-color: #06b6d4; }
+  .notel-cyan .notel-title { background-color: #06b6d4; }
+  .notel-cyan .notel-body { background-color: rgba(6, 182, 212, 0.1); }
+
   /* Prose table styling */
   .prose table {
     @apply w-full overflow-hidden rounded-lg text-sm;
