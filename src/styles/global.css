@@ -147,15 +147,19 @@
     border-right: none;
   }
   .prose th {
-    background-color: #787878;
+    background-color: #282b2f;
     @apply font-semibold text-white;
   }
   .prose tbody tr:nth-child(odd) {
-    background-color: #828282;
+    background-color: #ffffff;
+    @apply text-gray-900;
+  }
+  .dark .prose tbody tr:nth-child(odd) {
+    background-color: #1C1C1C;
     @apply text-white;
   }
   .prose tbody tr:nth-child(even) {
-    background-color: #91989F;
+    background-color: #282b2f;
     @apply text-white;
   }
 
