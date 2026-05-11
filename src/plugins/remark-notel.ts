@@ -2,13 +2,32 @@ import type { Root, Paragraph, RootContent, Text } from 'mdast';
 
 const CURLY_L = String.fromCharCode(0x201c);
 const CURLY_R = String.fromCharCode(0x201d);
+const CURLY_SL = String.fromCharCode(0x2018);
+const CURLY_SR = String.fromCharCode(0x2019);
 
 const OPEN_RE =
   /^\{%\s*notel(?:\s+(default|red|blue|green|yellow|purple|orange|cyan))?\s+(.+?)\s*%\}/;
 const CLOSE_RE = /\{%\s*endnotel\s*%\}/;
 
+function escapeHtml(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 function stripQuotes(s: string): string {
-  return s.replace(new RegExp(`[${CURLY_L}${CURLY_R}"]`, 'g'), '').trim();
+  let normalized = s
+    .replace(new RegExp(CURLY_L, 'g'), '"')
+    .replace(new RegExp(CURLY_R, 'g'), '"')
+    .replace(new RegExp(CURLY_SL, 'g'), "'")
+    .replace(new RegExp(CURLY_SR, 'g'), "'")
+    .trim();
+  if (normalized.startsWith('"') && normalized.endsWith('"')) {
+    normalized = normalized.slice(1, -1).trim();
+  }
+  return normalized;
 }
 
 function findClose(text: string): { index: number } | null {
@@ -48,7 +67,7 @@ export function remarkNotel() {
       }
 
       const color = openMatch[1] ?? 'default';
-      const title = stripQuotes(openMatch[2]);
+      const title = escapeHtml(stripQuotes(openMatch[2]));
       const openTagLen = openMatch[0].length;
 
       const openHtml: RootContent = {
@@ -126,9 +145,23 @@ export function remarkNotel() {
         continue;
       }
 
+      // Preserve content from the opening paragraph after the open tag
+      const afterOpenText = firstText.slice(openTagLen).replace(/^\n/, '');
+      const openParaChildren: Paragraph['children'] = [];
+      if (afterOpenText.trim()) {
+        openParaChildren.push({ type: 'text', value: afterOpenText });
+      }
+      for (let k = 1; k < para.children.length; k++) {
+        openParaChildren.push(para.children[k]);
+      }
+      const openParaExtra: RootContent[] =
+        openParaChildren.length > 0
+          ? [{ type: 'paragraph', children: openParaChildren } as Paragraph]
+          : [];
+
       const inner = children.slice(i + 1, j);
-      children.splice(i, j - i + 1, openHtml, ...inner, closeHtml);
-      i += inner.length + 2;
+      children.splice(i, j - i + 1, openHtml, ...openParaExtra, ...inner, closeHtml);
+      i += openParaExtra.length + inner.length + 2;
     }
   };
 }
