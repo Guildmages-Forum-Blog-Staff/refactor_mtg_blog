@@ -73,6 +73,41 @@ function formatTime(d: Date): string | null {
 function isAllDay(start: Date, end: Date) {
   return formatTime(start) === null && formatTime(end) === null;
 }
+
+function linkifyText(text: string): string {
+  const urlRegex = /https?:\/\/[^\s<>"]+/g;
+  const parts: string[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = urlRegex.exec(text)) !== null) {
+    const before = text
+      .slice(lastIndex, match.index)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/\n/g, '<br>');
+    parts.push(before);
+
+    const url = match[0].replace(/"/g, '&quot;');
+    const display = match[0].replace(/&/g, '&amp;');
+    parts.push(
+      `<a href="${url}" target="_blank" rel="noopener noreferrer" class="text-primary underline hover:opacity-80 break-all">${display}</a>`,
+    );
+
+    lastIndex = match.index + match[0].length;
+  }
+
+  const tail = text
+    .slice(lastIndex)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/\n/g, '<br>');
+  parts.push(tail);
+
+  return parts.join('');
+}
 ---
 
 <BaseLayout title="活動日曆 | Guildmages' Forum">
@@ -138,9 +173,10 @@ function isAllDay(start: Date, end: Date) {
                   </div>
 
                   {ev.description && (
-                    <p class="mt-1 line-clamp-2 text-sm text-gray-600 dark:text-dark-fg/70">
-                      {ev.description}
-                    </p>
+                    <p
+                      class="mt-1 line-clamp-2 text-sm text-gray-600 dark:text-dark-fg/70"
+                      set:html={linkifyText(ev.description)}
+                    />
                   )}
                 </div>
               </div>
