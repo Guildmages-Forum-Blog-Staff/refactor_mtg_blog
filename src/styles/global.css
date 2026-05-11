@@ -172,8 +172,8 @@
   .prose th {
     background-color: #282b2f;
     font-size: 1.2rem;
-    padding-top: 0.2rem;
-    padding-bottom: 0.2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
     @apply font-semibold text-white;
   }
   .prose tbody tr:nth-child(odd) {
