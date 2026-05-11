@@ -45,9 +45,7 @@ describe('remarkNotel', () => {
   it('normalizes curly double-quotes in title', async () => {
     const curlyL = String.fromCharCode(0x201c);
     const curlyR = String.fromCharCode(0x201d);
-    const file = await process(
-      `{% notel red ${curlyL}Dragon${curlyR} %}\ncontent\n{% endnotel %}`,
-    );
+    const file = await process(`{% notel red ${curlyL}Dragon${curlyR} %}\ncontent\n{% endnotel %}`);
     const html = String(file);
     expect(html).toContain('Dragon');
     expect(html).not.toContain(curlyL);
@@ -56,9 +54,7 @@ describe('remarkNotel', () => {
 
   it('normalizes curly single-quotes in title', async () => {
     const curlySR = String.fromCharCode(0x2019);
-    const file = await process(
-      `{% notel blue It${curlySR}s a note %}\ncontent\n{% endnotel %}`,
-    );
+    const file = await process(`{% notel blue It${curlySR}s a note %}\ncontent\n{% endnotel %}`);
     const html = String(file);
     // curly right single-quote → ASCII apostrophe (not HTML-escaped)
     expect(html).toContain("It's a note");
