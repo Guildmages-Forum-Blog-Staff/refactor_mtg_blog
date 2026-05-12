@@ -1,11 +1,10 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import type { GetStaticPathsOptions, Page } from 'astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Navbar from '../../../components/Navbar.astro';
 
-type PaginateFn = (data: unknown[], opts?: Record<string, unknown>) => unknown;
-
-export async function getStaticPaths({ paginate }: { paginate: PaginateFn }) {
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const posts = await getCollection('posts');
   const cats = new Set(posts.flatMap((p) => p.data.categories));
 
@@ -18,9 +17,9 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFn }) {
 }
 
 const { cat } = Astro.params;
-const { page } = Astro.props;
+const { page } = Astro.props as { page: Page<CollectionEntry<'posts'>> };
 
-const byYear = (page.data as CollectionEntry<'posts'>[]).reduce<Record<number, CollectionEntry<'posts'>[]>>((acc, post) => {
+const byYear = page.data.reduce<Record<number, CollectionEntry<'posts'>[]>>((acc, post) => {
   const year = post.data.date.getFullYear();
   (acc[year] ??= []).push(post);
   return acc;
