@@ -90,13 +90,15 @@ function linkifyText(text: string): string {
       .replace(/\n/g, '<br>');
     parts.push(before);
 
-    const url = match[0].replace(/"/g, '&quot;');
-    const display = match[0].replace(/&/g, '&amp;');
+    const rawUrl = match[0].replace(/[.,;:!?)\]]+$/, '');
+    urlRegex.lastIndex = match.index + rawUrl.length;
+    const url = rawUrl.replace(/"/g, '&quot;');
+    const display = rawUrl.replace(/&/g, '&amp;');
     parts.push(
       `<a href="${url}" target="_blank" rel="noopener noreferrer" class="text-primary underline hover:opacity-80 break-all">${display}</a>`,
     );
 
-    lastIndex = match.index + match[0].length;
+    lastIndex = match.index + rawUrl.length;
   }
 
   const tail = stripped
