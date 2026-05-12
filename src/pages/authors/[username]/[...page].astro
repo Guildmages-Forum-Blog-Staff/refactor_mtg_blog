@@ -94,7 +94,7 @@ const authorCard = [
                 {year}
               </h2>
               <ul class="flex flex-col gap-4">
-                {byYear[year].map((post: CollectionEntry<'posts'>) => {
+                {byYear[year].map((post) => {
                   const slug = post.id.replace(/\.mdx?$/, '');
                   return (
                     <li class="flex items-baseline justify-between gap-4">
