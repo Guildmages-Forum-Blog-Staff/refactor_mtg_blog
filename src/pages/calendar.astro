@@ -1,5 +1,5 @@
 ---
-import ical from 'node-ical';
+import ical, { type ParameterValue, type VEvent } from 'node-ical';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
 
@@ -16,6 +16,11 @@ interface CalEvent {
   url?: string;
 }
 
+function paramValueToString(v: ParameterValue | undefined): string | undefined {
+  if (v == null) return undefined;
+  return typeof v === 'string' ? v : v.val;
+}
+
 let events: CalEvent[] = [];
 
 try {
@@ -27,14 +32,17 @@ try {
   ]);
 
   events = Object.values(data)
-    .filter((e) => e.type === 'VEVENT' && e.start instanceof Date)
+    .filter(
+      (e): e is VEvent =>
+        !!e && e.type === 'VEVENT' && e.start instanceof Date && e.end instanceof Date,
+    )
     .map((e) => ({
-      uid: e.uid ?? '',
-      summary: e.summary ?? '(無標題)',
-      start: e.start as Date,
+      uid: e.uid,
+      summary: paramValueToString(e.summary) ?? '(無標題)',
+      start: e.start,
       end: e.end as Date,
-      description: e.description,
-      location: e.location,
+      description: paramValueToString(e.description),
+      location: paramValueToString(e.location),
       url: e.url,
     }))
     .sort((a, b) => a.start.valueOf() - b.start.valueOf());
