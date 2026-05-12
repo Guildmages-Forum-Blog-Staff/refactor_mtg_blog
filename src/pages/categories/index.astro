@@ -46,8 +46,8 @@ function count(name: string) {
                     </svg>
                     <a
                       href={catLink(node.name)}
+                      data-stop-toggle
                       class="flex-1 font-semibold text-gray-800 transition-colors hover:text-primary dark:text-gray-200 dark:hover:text-primary"
-                      onclick="event.stopPropagation()"
                     >
                       {node.name}
                     </a>
@@ -91,3 +91,9 @@ function count(name: string) {
     </div>
   </main>
 </BaseLayout>
+
+<script>
+  document
+    .querySelectorAll<HTMLAnchorElement>('a[data-stop-toggle]')
+    .forEach((a) => a.addEventListener('click', (e) => e.stopPropagation()));
+</script>
