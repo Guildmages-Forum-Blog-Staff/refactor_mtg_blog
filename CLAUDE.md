@@ -48,6 +48,9 @@ Author slugs in frontmatter must match YAML filename in `src/content/authors/`.
 | `remark-scryfall` | image links to `cards.scryfall.io` | `<a class="scryfall-card">` |
 | `remark-youtube` | `{% youtube ID %}` | `<iframe>` |
 | `remark-mtg-tags` | `{% mtglink/mtgcard/mtgpick ... %}` | card links/images |
+| `remark-mtg-merge` | `{% mtgmerge ["Card1", "Card2"] %}` | stitched multi-card image |
+| `remark-notel` | `{% notel [color] Title %}...{% endnotel %}` | colored note box |
+| `remark-base-path` | (internal) prepends base URL to image paths | — |
 
 **Critical:** Astro's `remark-smartypants` converts `"` → curly quotes before plugins run. `remark-mtg-tags` normalizes via `CURLY_DOUBLE`/`CURLY_SINGLE` constants using `String.fromCharCode` — never replace with literal curly chars.  
 `getTagPattern()` is a factory (not module-level `/g` regex) to avoid stale `lastIndex`.

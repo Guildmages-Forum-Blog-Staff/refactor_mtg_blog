@@ -120,6 +120,35 @@ npm run cache:update
 
 Double-faced cards (DFCs) store both face images as pipe-separated URLs. Hover tooltips display all faces side by side.
 
+### `{% mtgmerge ["Card1", "Card2"] %}`
+
+Stitch 2–4 card images side by side into a single `.webp` image at build time. Cards must be in `.scryfall-cache.json`.
+
+```
+{% mtgmerge ["Lightning Bolt", "Ragavan, Nimble Pilferer"] %}
+{% mtgmerge ["Island", "Mountain", "Forest"] %}
+```
+
+---
+
+## Note Blocks
+
+### `{% notel [color] Title %}...{% endnotel %}`
+
+Colored callout box. Color is optional (defaults to `default`).
+
+Valid colors: `default`, `red`, `blue`, `green`, `yellow`, `purple`, `orange`, `cyan`
+
+```
+{% notel Title without color %}
+Content here.
+{% endnotel %}
+
+{% notel blue Important Note %}
+This is a blue callout.
+{% endnotel %}
+```
+
 ---
 
 ## Routing
