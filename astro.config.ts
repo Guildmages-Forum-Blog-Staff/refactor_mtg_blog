@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
+import tailwindcss from '@tailwindcss/vite';
 import vue from '@astrojs/vue';
-import tailwind from '@astrojs/tailwind';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import compress from '@playform/compress';
@@ -20,9 +20,13 @@ export default defineConfig({
     host: true,
     allowedHosts: ['gf-preview.miohitokiri5474.tw', 'guildmagesforum.tw'],
   },
-  integrations: [vue(), tailwind(), mdx(), sitemap(), compress()],
+  legacy: {
+    collectionsBackwardsCompat: true,
+  },
+  integrations: [vue(), mdx(), sitemap(), compress()],
   vite: {
     plugins: [
+      tailwindcss(),
       {
         name: 'pagefind-dev-stub',
         apply: 'serve',
