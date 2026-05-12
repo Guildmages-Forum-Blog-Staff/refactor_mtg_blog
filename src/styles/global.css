@@ -1,6 +1,33 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #ab3b3a;
+  --color-background: #91989f;
+  --color-foreground: #0c0c0c;
+  --color-dark-bg: #1c1c1c;
+  --color-dark-fg: #fcfaf2;
+}
+
+/* Typography plugin overrides (migrated from tailwind.config.ts) */
+.prose {
+  max-width: none;
+}
+.prose :where(blockquote p:first-of-type)::before {
+  content: none;
+}
+.prose :where(blockquote p:last-of-type)::after {
+  content: none;
+}
+.prose :where(code):not(:where(pre *)) {
+  background-color: #bdc0ba;
+  border-radius: 0.25rem;
+  padding: 0.125rem 0.375rem;
+  font-weight: inherit;
+  color: #434343;
+}
 
 :root {
   --color-primary: #ab3b3a;

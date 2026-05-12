@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
 import ArticleAuthorHeader from '../components/ArticleAuthorHeader.vue';
@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content, headings } = await post.render();
+const { Content, headings } = await render(post);
 const authors = await getPostAuthors(post.data.authors);
 const allPosts = await getCollection('posts');
 const relatedPosts = getRelatedPosts(post, allPosts);
