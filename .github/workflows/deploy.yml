@@ -24,9 +24,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install, build, and upload your site
-        uses: withastro/action@v2
+        uses: withastro/action@v3
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Check if Scryfall cache was updated
         id: cache_check
