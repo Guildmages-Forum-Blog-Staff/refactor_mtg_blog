@@ -146,7 +146,7 @@ const isFirstPage = page.currentPage === 1;
             page.url.prev ? (
               <a
                 href={page.url.prev}
-                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
               >
                 ← Prev
               </a>
@@ -169,7 +169,7 @@ const isFirstPage = page.currentPage === 1;
                   class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
                     item === page.currentPage
                       ? 'bg-primary text-white'
-                      : 'bg-white text-gray-600 hover:bg-gray-100 hover:text-primary dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary'
+                      : 'bg-white text-gray-600 hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white'
                   }`}
                 >
                   {item}
@@ -184,7 +184,7 @@ const isFirstPage = page.currentPage === 1;
             page.url.next ? (
               <a
                 href={page.url.next}
-                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
+                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
               >
                 Next →
               </a>
