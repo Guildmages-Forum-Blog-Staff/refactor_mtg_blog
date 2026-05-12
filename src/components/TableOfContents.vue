@@ -1,10 +1,15 @@
 <template>
   <div ref="sidebarRef" class="toc sticky top-20 flex flex-col gap-3">
     <nav class="max-h-[calc(100vh-9rem)] overflow-y-auto text-sm">
-      <p class="mb-2 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
+      <p
+        class="mb-2 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400"
+      >
         Contents
       </p>
-      <p v-if="title" class="mb-3 line-clamp-3 text-base font-bold leading-snug text-gray-900 dark:text-gray-100">
+      <p
+        v-if="title"
+        class="mb-3 line-clamp-3 text-base font-bold leading-snug text-gray-900 dark:text-gray-100"
+      >
         {{ title }}
       </p>
       <ul class="flex flex-col gap-1">
@@ -28,7 +33,6 @@
         </li>
       </ul>
     </nav>
-
   </div>
 </template>
 
@@ -50,10 +54,6 @@ function scrollTo(slug: string) {
   if (el) {
     el.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
-}
-
-function scrollToTop() {
-  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 let observer: IntersectionObserver | null = null;

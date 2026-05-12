@@ -26,11 +26,14 @@
           :key="author.id"
           :href="`${base}/authors/${author.id}`"
           class="text-sm font-semibold text-gray-900 transition-colors hover:text-primary dark:text-gray-100"
-        >{{ author.name }}<span v-if="i < authors.length - 1">,</span></a>
+          >{{ author.name }}<span v-if="i < authors.length - 1">,</span></a
+        >
       </div>
 
       <!-- Line 2: date · categories · views -->
-      <div class="flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-gray-500 dark:text-gray-400">
+      <div
+        class="flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-gray-500 dark:text-gray-400"
+      >
         <span>{{ date }}</span>
         <template v-if="categories.length">
           <span>·</span>
@@ -38,7 +41,8 @@
             <a
               :href="`${base}/categories/${encodeURIComponent(crumb.cat)}/`"
               class="transition-colors hover:text-primary"
-            >{{ crumb.label }}</a><span v-if="i < categories.length - 1">&nbsp;·</span>
+              >{{ crumb.label }}</a
+            ><span v-if="i < categories.length - 1">&nbsp;·</span>
           </span>
         </template>
         <span>·</span>
@@ -51,7 +55,10 @@
 <script setup lang="ts">
 import { onMounted } from 'vue';
 
-interface CategoryCrumb { label: string; cat: string; }
+interface CategoryCrumb {
+  label: string;
+  cat: string;
+}
 interface Author {
   id: string;
   username: string;

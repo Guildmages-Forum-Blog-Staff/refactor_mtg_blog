@@ -157,11 +157,11 @@
   /* Notel callout blocks — Japanese traditional colors (日本の伝統色) */
   /* Source: https://nipponcolors.com/ */
   .notel {
-    @apply my-4 rounded-lg overflow-hidden;
+    @apply my-4 overflow-hidden rounded-lg;
     border-left: 4px solid #656765; /* 鈍 NIBI */
   }
   .notel-title {
-    @apply px-4 py-2 font-semibold text-white text-sm;
+    @apply px-4 py-2 text-sm font-semibold text-white;
     background-color: #656765; /* 鈍 NIBI */
   }
   .notel-body {
@@ -169,43 +169,104 @@
     background-color: rgba(101, 103, 101, 0.1);
   }
   /* 紅 KURENAI */
-  .notel-red { border-left-color: #cb1b45; }
-  .notel-red .notel-title { background-color: #cb1b45; }
-  .notel-red .notel-body { background-color: rgba(203, 27, 69, 0.1); }
+  .notel-red {
+    border-left-color: #cb1b45;
+  }
+  .notel-red .notel-title {
+    background-color: #cb1b45;
+  }
+  .notel-red .notel-body {
+    background-color: rgba(203, 27, 69, 0.1);
+  }
   /* 瑠璃 RURI */
-  .notel-blue { border-left-color: #005caf; }
-  .notel-blue .notel-title { background-color: #005caf; }
-  .notel-blue .notel-body { background-color: rgba(0, 92, 175, 0.1); }
+  .notel-blue {
+    border-left-color: #005caf;
+  }
+  .notel-blue .notel-title {
+    background-color: #005caf;
+  }
+  .notel-blue .notel-body {
+    background-color: rgba(0, 92, 175, 0.1);
+  }
   /* 若竹 WAKATAKE */
-  .notel-green { border-left-color: #5dac81; }
-  .notel-green .notel-title { background-color: #5dac81; color: #1a1a1a; }
-  .notel-green .notel-body { background-color: rgba(93, 172, 129, 0.1); }
+  .notel-green {
+    border-left-color: #5dac81;
+  }
+  .notel-green .notel-title {
+    background-color: #5dac81;
+    color: #1a1a1a;
+  }
+  .notel-green .notel-body {
+    background-color: rgba(93, 172, 129, 0.1);
+  }
   /* 山吹 YAMABUKI */
-  .notel-yellow { border-left-color: #ffb11b; }
-  .notel-yellow .notel-title { background-color: #ffb11b; color: #1a1a1a; }
-  .notel-yellow .notel-body { background-color: rgba(255, 177, 27, 0.1); }
+  .notel-yellow {
+    border-left-color: #ffb11b;
+  }
+  .notel-yellow .notel-title {
+    background-color: #ffb11b;
+    color: #1a1a1a;
+  }
+  .notel-yellow .notel-body {
+    background-color: rgba(255, 177, 27, 0.1);
+  }
   /* 江戸紫 EDOMURASAKI */
-  .notel-purple { border-left-color: #77428d; }
-  .notel-purple .notel-title { background-color: #77428d; }
-  .notel-purple .notel-body { background-color: rgba(119, 66, 141, 0.1); }
+  .notel-purple {
+    border-left-color: #77428d;
+  }
+  .notel-purple .notel-title {
+    background-color: #77428d;
+  }
+  .notel-purple .notel-body {
+    background-color: rgba(119, 66, 141, 0.1);
+  }
   /* 纁 SOHI */
-  .notel-orange { border-left-color: #ed784a; }
-  .notel-orange .notel-title { background-color: #ed784a; color: #1a1a1a; }
-  .notel-orange .notel-body { background-color: rgba(237, 120, 74, 0.1); }
+  .notel-orange {
+    border-left-color: #ed784a;
+  }
+  .notel-orange .notel-title {
+    background-color: #ed784a;
+    color: #1a1a1a;
+  }
+  .notel-orange .notel-body {
+    background-color: rgba(237, 120, 74, 0.1);
+  }
   /* 新橋 SHINBASHI */
-  .notel-cyan { border-left-color: #0089a7; }
-  .notel-cyan .notel-title { background-color: #0089a7; }
-  .notel-cyan .notel-body { background-color: rgba(0, 137, 167, 0.1); }
+  .notel-cyan {
+    border-left-color: #0089a7;
+  }
+  .notel-cyan .notel-title {
+    background-color: #0089a7;
+  }
+  .notel-cyan .notel-body {
+    background-color: rgba(0, 137, 167, 0.1);
+  }
 
   /* Dark mode overrides for notel */
-  .dark .notel-body { background-color: rgba(101, 103, 101, 0.15); }
-  .dark .notel-red .notel-body { background-color: rgba(203, 27, 69, 0.15); }
-  .dark .notel-blue .notel-body { background-color: rgba(0, 92, 175, 0.15); }
-  .dark .notel-green .notel-body { background-color: rgba(93, 172, 129, 0.15); }
-  .dark .notel-yellow .notel-body { background-color: rgba(255, 177, 27, 0.15); }
-  .dark .notel-purple .notel-body { background-color: rgba(119, 66, 141, 0.15); }
-  .dark .notel-orange .notel-body { background-color: rgba(237, 120, 74, 0.15); }
-  .dark .notel-cyan .notel-body { background-color: rgba(0, 137, 167, 0.15); }
+  .dark .notel-body {
+    background-color: rgba(101, 103, 101, 0.15);
+  }
+  .dark .notel-red .notel-body {
+    background-color: rgba(203, 27, 69, 0.15);
+  }
+  .dark .notel-blue .notel-body {
+    background-color: rgba(0, 92, 175, 0.15);
+  }
+  .dark .notel-green .notel-body {
+    background-color: rgba(93, 172, 129, 0.15);
+  }
+  .dark .notel-yellow .notel-body {
+    background-color: rgba(255, 177, 27, 0.15);
+  }
+  .dark .notel-purple .notel-body {
+    background-color: rgba(119, 66, 141, 0.15);
+  }
+  .dark .notel-orange .notel-body {
+    background-color: rgba(237, 120, 74, 0.15);
+  }
+  .dark .notel-cyan .notel-body {
+    background-color: rgba(0, 137, 167, 0.15);
+  }
 
   /* Prose table styling */
   .prose table {
@@ -244,32 +305,32 @@
 
   /* Waline comment widget — Nippon color theme */
   .waline-container {
-    --waline-theme-color: #ab3b3a;       /* 真朱 SHINSYU */
-    --waline-active-color: #cb1b45;      /* 紅 KURENAI */
-    --waline-color: #0c0c0c;             /* 呂 RO */
-    --waline-bg-color: #f5f2eb;          /* 生成 KINIIRO warm white */
+    --waline-theme-color: #ab3b3a; /* 真朱 SHINSYU */
+    --waline-active-color: #cb1b45; /* 紅 KURENAI */
+    --waline-color: #0c0c0c; /* 呂 RO */
+    --waline-bg-color: #f5f2eb; /* 生成 KINIIRO warm white */
     --waline-bg-color-light: #e8e4db;
     --waline-bg-color-hover: #ddd9d0;
-    --waline-border-color: #91989f;      /* 銀鼠 GINNEZUMI */
+    --waline-border-color: #91989f; /* 銀鼠 GINNEZUMI */
     --waline-disable-bg-color: #c8c8c8;
     --waline-disable-color: #7a7a7a;
     --waline-code-bg-color: #bdc0ba;
     --waline-info-bg-color: rgba(101, 103, 101, 0.1);
-    --waline-info-color: #656765;        /* 鈍 NIBI */
+    --waline-info-color: #656765; /* 鈍 NIBI */
     --waline-border: 1px solid var(--waline-border-color);
     --waline-avatar-size: 3.25rem;
     --waline-m-avatar-size: 2rem;
   }
   .dark .waline-container {
-    --waline-color: #fcfaf2;             /* 白練 SHIRONERI */
-    --waline-bg-color: #1c1c1c;          /* 墨 SUMI */
+    --waline-color: #fcfaf2; /* 白練 SHIRONERI */
+    --waline-bg-color: #1c1c1c; /* 墨 SUMI */
     --waline-bg-color-light: #282b2f;
     --waline-bg-color-hover: #333;
     --waline-border-color: #444;
     --waline-disable-bg-color: #333;
     --waline-disable-color: #666;
     --waline-info-bg-color: rgba(101, 103, 101, 0.15);
-    --waline-info-color: #91989f;        /* 銀鼠 GINNEZUMI */
+    --waline-info-color: #91989f; /* 銀鼠 GINNEZUMI */
   }
 
   /* Article heading anchor offset for sticky navbar */

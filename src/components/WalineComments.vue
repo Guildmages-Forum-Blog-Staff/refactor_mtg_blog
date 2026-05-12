@@ -1,5 +1,5 @@
 <template>
-  <div ref="el" class="waline-container"></div>
+  <div ref="el" class="waline-container"/>
 </template>
 
 <script setup lang="ts">

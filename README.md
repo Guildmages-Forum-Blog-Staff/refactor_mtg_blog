@@ -8,33 +8,33 @@
 
 ## Stack
 
-| Layer | Tech |
-|---|---|
-| Framework | Astro 5 (static) |
-| UI components | Vue 3 (`client:load`) |
-| Styling | Tailwind CSS + Typography plugin |
-| Content | MDX (posts) + YAML (authors) |
-| Search | Pagefind |
-| Comments | Waline |
+| Layer         | Tech                             |
+| ------------- | -------------------------------- |
+| Framework     | Astro 5 (static)                 |
+| UI components | Vue 3 (`client:load`)            |
+| Styling       | Tailwind CSS + Typography plugin |
+| Content       | MDX (posts) + YAML (authors)     |
+| Search        | Pagefind                         |
+| Comments      | Waline                           |
 
 ---
 
 ## Commands
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Dev server at `localhost:4321` |
-| `npm run build` | Production build + Pagefind index |
-| `npm run preview` | Serve `dist/` locally |
-| `npm run check` | Astro type-check |
-| `npm run lint` | ESLint |
-| `npm run lint:fix` | ESLint auto-fix |
-| `npm run format` | Prettier rewrite |
-| `npm run format:check` | Prettier check (CI) |
-| `npm run test` | Vitest (once) |
-| `npm run test:watch` | Vitest watch mode |
-| `npm run test:coverage` | Vitest + V8 coverage |
-| `npm run cache:update` | Pre-fetch Scryfall card images into `.scryfall-cache.json` |
+| Command                 | Description                                                |
+| ----------------------- | ---------------------------------------------------------- |
+| `npm run dev`           | Dev server at `localhost:4321`                             |
+| `npm run build`         | Production build + Pagefind index                          |
+| `npm run preview`       | Serve `dist/` locally                                      |
+| `npm run check`         | Astro type-check                                           |
+| `npm run lint`          | ESLint                                                     |
+| `npm run lint:fix`      | ESLint auto-fix                                            |
+| `npm run format`        | Prettier rewrite                                           |
+| `npm run format:check`  | Prettier check (CI)                                        |
+| `npm run test`          | Vitest (once)                                              |
+| `npm run test:watch`    | Vitest watch mode                                          |
+| `npm run test:coverage` | Vitest + V8 coverage                                       |
+| `npm run cache:update`  | Pre-fetch Scryfall card images into `.scryfall-cache.json` |
 
 ---
 
@@ -46,7 +46,7 @@ MDX files. Required frontmatter:
 
 ```yaml
 ---
-title: "Post Title"
+title: 'Post Title'
 date: 2025-01-01
 tags: [tag1, tag2]
 categories: [Modern]
@@ -55,7 +55,7 @@ authors: [username]
 updated: 2025-02-01
 cover: /path/to/cover.jpg
 thumbnail: /path/to/thumb.jpg
-excerpt: "Short summary"
+excerpt: 'Short summary'
 ---
 ```
 
@@ -67,7 +67,7 @@ YAML files. Filename = username slug (must match `authors[]` in post frontmatter
 username: miohitokiri5474
 name: Display Name
 avatar: /path/to/avatar.jpg
-url: https://example.com        # optional
+url: https://example.com # optional
 intro:
   - Line one of bio
   - Line two of bio
@@ -153,14 +153,14 @@ This is a blue callout.
 
 ## Routing
 
-| Route | Page |
-|---|---|
-| `/` | Paginated post list |
-| `/[slug]` | Post detail |
-| `/categories/[cat]/` | Category post list |
-| `/authors/[username]/` | Author post list |
-| `/about` | About page |
-| `/contact` | Contact page |
+| Route                  | Page                |
+| ---------------------- | ------------------- |
+| `/`                    | Paginated post list |
+| `/[slug]`              | Post detail         |
+| `/categories/[cat]/`   | Category post list  |
+| `/authors/[username]/` | Author post list    |
+| `/about`               | About page          |
+| `/contact`             | Contact page        |
 
 ---
 
