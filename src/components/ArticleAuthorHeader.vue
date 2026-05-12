@@ -71,11 +71,11 @@ defineProps<{ authors: Author[]; date: string; categories: CategoryCrumb[] }>();
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 onMounted(() => {
-  if (!document.getElementById('vercount-script')) {
-    const script = document.createElement('script');
-    script.id = 'vercount-script';
-    script.src = 'https://cn.vercount.one/js';
-    document.head.appendChild(script);
-  }
+  document.getElementById('busuanzi-script')?.remove();
+  const script = document.createElement('script');
+  script.id = 'busuanzi-script';
+  script.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+  script.async = true;
+  document.head.appendChild(script);
 });
 </script>
