@@ -41,7 +41,10 @@ async function fetchByName(name, edition, language) {
   if (edition) url += `&set=${encodeURIComponent(edition)}`;
   console.log(`[fetch] ${name}${edition ? ` [${edition}]` : ''}`);
   const res = await fetchWithDelay(url);
-  if (!res.ok) { console.warn(`[skip]  ${name} — HTTP ${res.status}`); return; }
+  if (!res.ok) {
+    console.warn(`[skip]  ${name} — HTTP ${res.status}`);
+    return;
+  }
   const data = await res.json();
   const urls = getImageUrls(data);
   if (urls.length) {
@@ -57,7 +60,10 @@ async function fetchByNumber(edition, number, language) {
   if (language && language !== 'en') url += `/${encodeURIComponent(language)}`;
   console.log(`[fetch] ${edition}/${number}`);
   const res = await fetchWithDelay(url);
-  if (!res.ok) { console.warn(`[skip]  ${edition}/${number} — HTTP ${res.status}`); return; }
+  if (!res.ok) {
+    console.warn(`[skip]  ${edition}/${number} — HTTP ${res.status}`);
+    return;
+  }
   const data = await res.json();
   const urls = getImageUrls(data);
   if (urls.length) {
@@ -109,7 +115,11 @@ function parsePickArgs(tokens) {
     const sep = t.indexOf('=') > 0 ? t.indexOf('=') : t.indexOf(':') > 0 ? t.indexOf(':') : -1;
     if (sep > 0) opts[t.slice(0, sep)] = t.slice(sep + 1);
   }
-  return { edition: tokens[0]?.toLowerCase() ?? '', number: tokens[1] ?? '', language: opts.language ?? 'en' };
+  return {
+    edition: tokens[0]?.toLowerCase() ?? '',
+    number: tokens[1] ?? '',
+    language: opts.language ?? 'en',
+  };
 }
 
 function walkDir(dir) {
@@ -145,15 +155,26 @@ for (const file of walkDir(CONTENT_DIR)) {
 
 function dedup(cards, keyFn) {
   const seen = new Set();
-  return cards.filter((c) => { const k = keyFn(c); if (seen.has(k)) return false; seen.add(k); return true; });
+  return cards.filter((c) => {
+    const k = keyFn(c);
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
 }
 
 const uniqueNames = dedup(nameCards, (c) => `name:${c.name}:${c.edition}:${c.language}`);
 const uniquePicks = dedup(pickCards, (c) => `pick:${c.edition}:${c.number}:${c.language}`);
-const uncachedNames = uniqueNames.filter((c) => !cache[`name:${c.name}:${c.edition}:${c.language}`]);
-const uncachedPicks = uniquePicks.filter((c) => !cache[`pick:${c.edition}:${c.number}:${c.language}`]);
+const uncachedNames = uniqueNames.filter(
+  (c) => !cache[`name:${c.name}:${c.edition}:${c.language}`],
+);
+const uncachedPicks = uniquePicks.filter(
+  (c) => !cache[`pick:${c.edition}:${c.number}:${c.language}`],
+);
 
-console.log(`\nFound ${uniqueNames.length} named cards (${uncachedNames.length} uncached), ${uniquePicks.length} picks (${uncachedPicks.length} uncached)`);
+console.log(
+  `\nFound ${uniqueNames.length} named cards (${uncachedNames.length} uncached), ${uniquePicks.length} picks (${uncachedPicks.length} uncached)`,
+);
 
 for (const { name, edition, language } of uncachedNames) {
   await fetchByName(name, edition, language);

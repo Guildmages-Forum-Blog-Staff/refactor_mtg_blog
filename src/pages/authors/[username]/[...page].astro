@@ -1,17 +1,23 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Navbar from '../../../components/Navbar.astro';
 import ArticleAuthorFooter from '../../../components/ArticleAuthorFooter.vue';
 
-export async function getStaticPaths({ paginate }: { paginate: Function }) {
+type PaginateFn = (data: unknown[], opts?: Record<string, unknown>) => unknown;
+
+export async function getStaticPaths({ paginate }: { paginate: PaginateFn }) {
   const [authors, posts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
 
   return authors.flatMap((author) => {
     const authorPosts = posts
       .filter((p) => p.data.authors.includes(author.id))
       .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-    return paginate(authorPosts, { params: { username: author.id }, props: { author }, pageSize: 20 });
+    return paginate(authorPosts, {
+      params: { username: author.id },
+      props: { author },
+      pageSize: 20,
+    });
   });
 }
 
@@ -19,13 +25,15 @@ const { author } = Astro.props;
 const { username } = Astro.params;
 const { page } = Astro.props;
 
-const byYear = (page.data as any[]).reduce<Record<number, any[]>>((acc, post) => {
+const byYear = (page.data as CollectionEntry<'posts'>[]).reduce<Record<number, CollectionEntry<'posts'>[]>>((acc, post) => {
   const year = post.data.date.getFullYear();
   (acc[year] ??= []).push(post);
   return acc;
 }, {});
 
-const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+const years = Object.keys(byYear)
+  .map(Number)
+  .sort((a, b) => b - a);
 
 function getPaginationItems(current: number, last: number): (number | '...')[] {
   if (last <= 1) return [1];
@@ -49,16 +57,20 @@ function getPaginationItems(current: number, last: number): (number | '...')[] {
 
 const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const avatar = author.data.avatar.startsWith('/') ? `${base}${author.data.avatar}` : author.data.avatar;
+const avatar = author.data.avatar.startsWith('/')
+  ? `${base}${author.data.avatar}`
+  : author.data.avatar;
 const authorBase = `${import.meta.env.BASE_URL}authors/${username}`;
-const authorCard = [{
-  id: author.id,
-  username: author.data.username,
-  name: author.data.name,
-  avatar,
-  url: author.data.url,
-  intro: author.data.intro,
-}];
+const authorCard = [
+  {
+    id: author.id,
+    username: author.data.username,
+    name: author.data.name,
+    avatar,
+    url: author.data.url,
+    intro: author.data.intro,
+  },
+];
 ---
 
 <BaseLayout
@@ -69,96 +81,98 @@ const authorCard = [{
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">
     <div class="rounded-2xl bg-white/80 p-6 backdrop-blur-sm dark:bg-dark-bg/80">
-    <!-- Author profile -->
-    <ArticleAuthorFooter authors={authorCard} client:load />
-    <p class="mb-10 mt-2 text-sm text-gray-400 dark:text-dark-fg/50">{page.total} 篇文章</p>
+      <!-- Author profile -->
+      <ArticleAuthorFooter authors={authorCard} client:load />
+      <p class="mb-10 mt-2 text-sm text-gray-400 dark:text-dark-fg/50">{page.total} 篇文章</p>
 
-    <!-- Posts by year -->
-    <div class="flex flex-col gap-10">
+      <!-- Posts by year -->
+      <div class="flex flex-col gap-10">
+        {
+          years.map((year) => (
+            <section>
+              <h2 class="mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700 dark:text-dark-fg/60">
+                {year}
+              </h2>
+              <ul class="flex flex-col gap-4">
+                {byYear[year].map((post: CollectionEntry<'posts'>) => {
+                  const slug = post.id.replace(/\.mdx?$/, '');
+                  return (
+                    <li class="flex items-baseline justify-between gap-4">
+                      <a
+                        href={`${import.meta.env.BASE_URL}${slug}`}
+                        class="flex-1 text-base font-medium text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
+                      >
+                        {post.data.title}
+                      </a>
+                      <time class="shrink-0 text-sm text-gray-400 dark:text-dark-fg/50">
+                        {post.data.date.toLocaleDateString('zh-TW', {
+                          month: '2-digit',
+                          day: '2-digit',
+                        })}
+                      </time>
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
+          ))
+        }
+      </div>
+
       {
-        years.map((year) => (
-          <section>
-            <h2 class="mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700 dark:text-dark-fg/60">
-              {year}
-            </h2>
-            <ul class="flex flex-col gap-4">
-              {byYear[year].map((post: any) => {
-                const slug = post.id.replace(/\.mdx?$/, '');
-                return (
-                  <li class="flex items-baseline justify-between gap-4">
-                    <a
-                      href={`${import.meta.env.BASE_URL}${slug}`}
-                      class="flex-1 text-base font-medium text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
-                    >
-                      {post.data.title}
-                    </a>
-                    <time class="shrink-0 text-sm text-gray-400 dark:text-dark-fg/50">
-                      {post.data.date.toLocaleDateString('zh-TW', {
-                        month: '2-digit',
-                        day: '2-digit',
-                      })}
-                    </time>
-                  </li>
-                );
-              })}
-            </ul>
-          </section>
-        ))
+        page.lastPage > 1 && (
+          <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
+            <div>
+              {page.url.prev ? (
+                <a
+                  href={page.url.prev}
+                  class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
+                >
+                  ← Prev
+                </a>
+              ) : (
+                <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+                  ← Prev
+                </span>
+              )}
+            </div>
+
+            <div class="flex items-center gap-1">
+              {paginationItems.map((item) =>
+                item === '...' ? (
+                  <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
+                ) : (
+                  <a
+                    href={item === 1 ? `${authorBase}/` : `${authorBase}/${item}`}
+                    class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
+                      item === page.currentPage
+                        ? 'bg-primary text-white'
+                        : 'bg-white text-gray-600 hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white'
+                    }`}
+                  >
+                    {item}
+                  </a>
+                ),
+              )}
+            </div>
+
+            <div>
+              {page.url.next ? (
+                <a
+                  href={page.url.next}
+                  class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
+                >
+                  Next →
+                </a>
+              ) : (
+                <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
+                  Next →
+                </span>
+              )}
+            </div>
+          </nav>
+        )
       }
-    </div>
-
-    {page.lastPage > 1 && (
-      <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
-        <div>
-          {page.url.prev ? (
-            <a
-              href={page.url.prev}
-              class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
-            >
-              ← Prev
-            </a>
-          ) : (
-            <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
-              ← Prev
-            </span>
-          )}
-        </div>
-
-        <div class="flex items-center gap-1">
-          {paginationItems.map((item) =>
-            item === '...' ? (
-              <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
-            ) : (
-              <a
-                href={item === 1 ? `${authorBase}/` : `${authorBase}/${item}`}
-                class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
-                  item === page.currentPage
-                    ? 'bg-primary text-white'
-                    : 'text-gray-600 hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary'
-                }`}
-              >
-                {item}
-              </a>
-            ),
-          )}
-        </div>
-
-        <div>
-          {page.url.next ? (
-            <a
-              href={page.url.next}
-              class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-primary dark:text-dark-fg/70 dark:hover:bg-white/10 dark:hover:text-primary"
-            >
-              Next →
-            </a>
-          ) : (
-            <span class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-gray-300 dark:text-dark-fg/30">
-              Next →
-            </span>
-          )}
-        </div>
-      </nav>
-    )}
     </div>
   </main>
 </BaseLayout>

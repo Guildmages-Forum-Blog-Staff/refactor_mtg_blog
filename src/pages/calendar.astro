@@ -27,8 +27,8 @@ try {
   ]);
 
   events = Object.values(data)
-    .filter((e: any) => e.type === 'VEVENT' && e.start instanceof Date)
-    .map((e: any) => ({
+    .filter((e) => e.type === 'VEVENT' && e.start instanceof Date)
+    .map((e) => ({
       uid: e.uid ?? '',
       summary: e.summary ?? '(無標題)',
       start: e.start as Date,
@@ -90,13 +90,15 @@ function linkifyText(text: string): string {
       .replace(/\n/g, '<br>');
     parts.push(before);
 
-    const url = match[0].replace(/"/g, '&quot;');
-    const display = match[0].replace(/&/g, '&amp;');
+    const rawUrl = match[0].replace(/[.,;:!?)\]]+$/, '');
+    urlRegex.lastIndex = match.index + rawUrl.length;
+    const url = rawUrl.replace(/"/g, '&quot;');
+    const display = rawUrl.replace(/&/g, '&amp;');
     parts.push(
       `<a href="${url}" target="_blank" rel="noopener noreferrer" class="text-primary underline hover:opacity-80 break-all">${display}</a>`,
     );
 
-    lastIndex = match.index + match[0].length;
+    lastIndex = match.index + rawUrl.length;
   }
 
   const tail = stripped
@@ -114,7 +116,9 @@ function linkifyText(text: string): string {
 <BaseLayout title="活動日曆 | Guildmages' Forum">
   <Navbar />
   <main class="mx-auto max-w-4xl px-4 py-10">
-    <div class="mb-10 rounded-2xl border border-white/30 bg-white/60 p-6 shadow-lg backdrop-blur-md dark:border-white/10 dark:bg-dark-bg/60">
+    <div
+      class="mb-10 rounded-2xl border border-white/30 bg-white/60 p-6 shadow-lg backdrop-blur-md dark:border-white/10 dark:bg-dark-bg/60"
+    >
       <h1 class="mb-2 text-3xl font-bold text-gray-900 dark:text-gray-100">活動日曆</h1>
       <p class="text-sm text-gray-400 dark:text-dark-fg/50">
         資料來自 Google 日曆，每次部署自動同步。
@@ -137,7 +141,7 @@ function linkifyText(text: string): string {
           <div class="flex flex-col gap-4">
             {upcoming.map((ev) => (
               <div class="flex gap-4 rounded-xl border border-white/40 bg-white/70 p-5 shadow-sm backdrop-blur-md transition-shadow hover:shadow-md dark:border-white/10 dark:bg-dark-bg/60">
-                <!-- Date badge -->
+                {/* Date badge */}
                 <div class="flex w-16 shrink-0 flex-col items-center justify-center rounded-lg bg-primary/10 py-2 text-center">
                   <span class="text-xs font-semibold text-primary">
                     {ev.start.toLocaleDateString('zh-TW', { month: 'short' })}
@@ -147,7 +151,7 @@ function linkifyText(text: string): string {
                   </span>
                 </div>
 
-                <!-- Details -->
+                {/* Details */}
                 <div class="flex min-w-0 flex-col gap-1">
                   {ev.url ? (
                     <a
@@ -170,9 +174,7 @@ function linkifyText(text: string): string {
                         ? formatDate(ev.start)
                         : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`}
                     </span>
-                    {ev.location && (
-                      <span set:html={`📍 ${linkifyText(ev.location)}`} />
-                    )}
+                    {ev.location && <span set:html={`📍 ${linkifyText(ev.location)}`} />}
                   </div>
 
                   {ev.description && (
@@ -223,9 +225,7 @@ function linkifyText(text: string): string {
                   <span class="text-xs text-gray-400 dark:text-dark-fg/40">
                     {formatDate(ev.start)}
                     {!isAllDay(ev.start, ev.end) && ` ${formatTime(ev.start)}`}
-                    {ev.location && (
-                      <span set:html={` · ${linkifyText(ev.location)}`} />
-                    )}
+                    {ev.location && <span set:html={` · ${linkifyText(ev.location)}`} />}
                   </span>
                 </div>
               </div>

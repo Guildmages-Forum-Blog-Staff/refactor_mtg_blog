@@ -1,11 +1,14 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
-import { getPostAuthors } from '../utils/authors';
+import { getPostAuthors, type AuthorData } from '../utils/authors';
 import { buildCategoryBreadcrumbs } from '../utils/categories';
 
-export async function getStaticPaths({ paginate }: { paginate: Function }) {
+type PaginateFn = (data: unknown[], opts?: Record<string, unknown>) => unknown;
+type PostWithAuthors = { post: CollectionEntry<'posts'>; authors: (AuthorData & { id: string })[] };
+
+export async function getStaticPaths({ paginate }: { paginate: PaginateFn }) {
   const allPosts = await getCollection('posts');
   const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
   return paginate(sorted, { pageSize: 10 });
@@ -14,7 +17,7 @@ export async function getStaticPaths({ paginate }: { paginate: Function }) {
 const { page } = Astro.props;
 
 const postsWithAuthors = await Promise.all(
-  page.data.map(async (post: any) => ({
+  page.data.map(async (post: CollectionEntry<'posts'>) => ({
     post,
     authors: await getPostAuthors(post.data.authors),
   })),
@@ -49,35 +52,40 @@ const isFirstPage = page.currentPage === 1;
 <BaseLayout title={page.currentPage === 1 ? 'Home' : `Home — Page ${page.currentPage}`}>
   <Navbar />
 
-  {isFirstPage && (
-    <>
-      <!-- Hero section -->
-      <section class="flex h-screen items-center justify-center">
-        <div class="text-center">
-          <h1 class="text-4xl font-bold text-white drop-shadow-2xl tracking-tight md:text-6xl">
-            Guildmages' Forum
-          </h1>
-          <p class="mt-4 text-xl font-medium text-white drop-shadow-lg md:text-3xl">
-            魔風集會所
-          </p>
-          <p class="mt-8 min-h-[1.5em] text-lg text-white/80 drop-shadow">
-            <span id="hero-tw-text"></span><span class="hero-cursor">|</span>
-          </p>
-        </div>
-      </section>
-    </>
-  )}
+  {
+    isFirstPage && (
+      <>
+        {/* Hero section */}
+        <section class="flex h-screen items-center justify-center">
+          <div class="text-center">
+            <h1 class="text-4xl font-bold tracking-tight text-white drop-shadow-2xl md:text-6xl">
+              Guildmages' Forum
+            </h1>
+            <p class="mt-4 text-xl font-medium text-white drop-shadow-lg md:text-3xl">魔風集會所</p>
+            <p class="mt-8 min-h-[1.5em] text-lg text-white/80 drop-shadow">
+              <>
+                <span id="hero-tw-text" />
+                <span class="hero-cursor">|</span>
+              </>
+            </p>
+          </div>
+        </section>
+      </>
+    )
+  }
 
   <div>
     <main class="mx-auto max-w-3xl px-4 py-10">
-      {!isFirstPage && (
-        <h1 class="mb-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
-          Guildmages' Forum <span class="text-primary">魔風集會所</span>
-        </h1>
-      )}
+      {
+        !isFirstPage && (
+          <h1 class="mb-8 text-3xl font-bold text-gray-900 dark:text-gray-100">
+            Guildmages' Forum <span class="text-primary">魔風集會所</span>
+          </h1>
+        )
+      }
       <div id="post-list" class="flex flex-col gap-8">
         {
-          postsWithAuthors.map(({ post, authors }: any) => (
+          postsWithAuthors.map(({ post, authors }: PostWithAuthors) => (
             <article class="post-card overflow-hidden rounded-2xl bg-white shadow-md backdrop-blur-sm dark:bg-dark-bg">
               {(post.data.cover || post.data.thumbnail) && (
                 <a href={`${import.meta.env.BASE_URL}${post.id.replace(/\.mdx?$/, '')}`}>
@@ -117,7 +125,7 @@ const isFirstPage = page.currentPage === 1;
                 )}
                 {authors.length > 0 && (
                   <div class="flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400">
-                    {authors.map((author: any) => (
+                    {authors.map((author) => (
                       <a
                         href={`${import.meta.env.BASE_URL}authors/${author.id}`}
                         class="flex items-center gap-1 transition-colors hover:text-primary"
@@ -146,7 +154,7 @@ const isFirstPage = page.currentPage === 1;
             page.url.prev ? (
               <a
                 href={page.url.prev}
-                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
+                class="flex items-center gap-1 rounded-md bg-white px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
               >
                 ← Prev
               </a>
@@ -165,7 +173,9 @@ const isFirstPage = page.currentPage === 1;
                 <span class="px-1 text-sm text-gray-400 dark:text-dark-fg/30">…</span>
               ) : (
                 <a
-                  href={item === 1 ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}${item}`}
+                  href={
+                    item === 1 ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}${item}`
+                  }
                   class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
                     item === page.currentPage
                       ? 'bg-primary text-white'
@@ -184,7 +194,7 @@ const isFirstPage = page.currentPage === 1;
             page.url.next ? (
               <a
                 href={page.url.next}
-                class="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium bg-white text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
+                class="flex items-center gap-1 rounded-md bg-white px-3 py-2 text-sm font-medium text-gray-600 transition-colors hover:bg-primary hover:text-white dark:bg-dark-bg dark:text-dark-fg/70 dark:hover:bg-primary dark:hover:text-white"
               >
                 Next →
               </a>
@@ -229,7 +239,13 @@ const isFirstPage = page.currentPage === 1;
 <script>
   const tw = document.getElementById('hero-tw-text');
   if (tw) {
-    const lines = ['各路旅法師的集散地', '讓玩家額外有個 +1/+1 指示物', '釋放各路玩家的限制', '盡情享受遊戲', '不瘋魔不成活'];
+    const lines = [
+      '各路旅法師的集散地',
+      '讓玩家額外有個 +1/+1 指示物',
+      '釋放各路玩家的限制',
+      '盡情享受遊戲',
+      '不瘋魔不成活',
+    ];
     let lineIdx = 0;
     let charIdx = 0;
     let deleting = false;
@@ -241,7 +257,10 @@ const isFirstPage = page.currentPage === 1;
         charIdx++;
         tw.textContent = current.slice(0, charIdx);
         if (charIdx === current.length) {
-          waitTimer = setTimeout(() => { deleting = true; tick(); }, 2000);
+          waitTimer = setTimeout(() => {
+            deleting = true;
+            tick();
+          }, 2000);
           return;
         }
         setTimeout(tick, 80);
@@ -259,10 +278,14 @@ const isFirstPage = page.currentPage === 1;
     }
 
     const initialTimer = setTimeout(tick, 600);
-    document.addEventListener('astro:before-swap', () => {
-      clearTimeout(initialTimer);
-      if (waitTimer !== null) clearTimeout(waitTimer);
-    }, { once: true });
+    document.addEventListener(
+      'astro:before-swap',
+      () => {
+        clearTimeout(initialTimer);
+        if (waitTimer !== null) clearTimeout(waitTimer);
+      },
+      { once: true },
+    );
   }
 </script>
 
