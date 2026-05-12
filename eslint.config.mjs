@@ -1,15 +1,14 @@
+import { defineConfig, globalIgnores } from 'eslint/config';
 import tseslint from 'typescript-eslint';
 import astro from 'eslint-plugin-astro';
 import vue from 'eslint-plugin-vue';
 import vueParser from 'vue-eslint-parser';
 import tsParser from '@typescript-eslint/parser';
 
-export default tseslint.config(
-  {
-    ignores: ['dist/', 'node_modules/', '.astro/'],
-  },
-  ...tseslint.configs.recommended,
-  ...astro.configs['flat/recommended'],
+export default defineConfig(
+  globalIgnores(['dist/', 'node_modules/', '.astro/']),
+  tseslint.configs.recommended,
+  astro.configs['flat/recommended'],
   {
     files: ['**/*.vue'],
     plugins: { vue },
