@@ -1,20 +1,21 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
 import { getPostAuthors, type AuthorData } from '../utils/authors';
 import { buildCategoryBreadcrumbs } from '../utils/categories';
+import type { PaginatedPostsProps } from '../utils/pagination';
 
-type PaginateFn = (data: unknown[], opts?: Record<string, unknown>) => unknown;
 type PostWithAuthors = { post: CollectionEntry<'posts'>; authors: (AuthorData & { id: string })[] };
 
-export async function getStaticPaths({ paginate }: { paginate: PaginateFn }) {
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection('posts');
   const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
   return paginate(sorted, { pageSize: 10 });
 }
 
-const { page } = Astro.props;
+const { page } = Astro.props as PaginatedPostsProps;
 
 const postsWithAuthors = await Promise.all(
   page.data.map(async (post: CollectionEntry<'posts'>) => ({
@@ -252,6 +253,7 @@ const isFirstPage = page.currentPage === 1;
     let waitTimer: ReturnType<typeof setTimeout> | null = null;
 
     function tick() {
+      if (!tw) return;
       const current = lines[lineIdx];
       if (!deleting) {
         charIdx++;
