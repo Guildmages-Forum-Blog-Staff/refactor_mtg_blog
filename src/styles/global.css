@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./mtg-tags.css";
 @plugin "@tailwindcss/typography";
 
 @custom-variant dark (&:where(.dark, .dark *));
@@ -71,14 +72,6 @@
 }
 
 @layer components {
-  /* Scryfall card links */
-  a.scryfall-card {
-    @apply cursor-pointer text-primary underline decoration-dotted transition-all;
-  }
-  a.scryfall-card:hover {
-    @apply decoration-solid;
-  }
-
   /* YouTube embeds */
   .youtube-embed {
     @apply relative my-6 w-full;
@@ -178,15 +171,6 @@
   /* Prose image centering */
   .prose img {
     @apply mx-auto max-w-full rounded-lg;
-  }
-
-  /* MTG card images — fixed width matching original blog */
-  img.mtgcard {
-    display: inline-block !important;
-    max-width: 220px !important;
-    width: auto;
-    height: auto;
-    margin: 0 !important;
   }
 
   /* Notel callout blocks — Japanese traditional colors (日本の伝統色) */
