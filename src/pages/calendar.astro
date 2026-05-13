@@ -32,15 +32,12 @@ try {
   ]);
 
   events = Object.values(data)
-    .filter(
-      (e): e is VEvent =>
-        !!e && e.type === 'VEVENT' && e.start instanceof Date && e.end instanceof Date,
-    )
+    .filter((e): e is VEvent => !!e && e.type === 'VEVENT' && e.start instanceof Date)
     .map((e) => ({
       uid: e.uid,
       summary: paramValueToString(e.summary) ?? '(無標題)',
       start: e.start,
-      end: e.end as Date,
+      end: e.end instanceof Date ? e.end : e.start,
       description: paramValueToString(e.description),
       location: paramValueToString(e.location),
       url: e.url,
