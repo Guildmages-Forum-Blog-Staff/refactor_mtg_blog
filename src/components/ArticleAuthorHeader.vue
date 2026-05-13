@@ -46,7 +46,7 @@
           </span>
         </template>
         <span>·</span>
-        <span><span id="busuanzi_value_page_pv">-</span> 次閱讀</span>
+        <span><span id="vercount_value_page_pv">-</span> 次閱讀</span>
       </div>
     </div>
   </div>
@@ -71,10 +71,10 @@ defineProps<{ authors: Author[]; date: string; categories: CategoryCrumb[] }>();
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 onMounted(() => {
-  document.getElementById('busuanzi-script')?.remove();
+  document.getElementById('vercount-script')?.remove();
   const script = document.createElement('script');
-  script.id = 'busuanzi-script';
-  script.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+  script.id = 'vercount-script';
+  script.src = 'https://events.vercount.one/js';
   script.async = true;
   document.head.appendChild(script);
 });
