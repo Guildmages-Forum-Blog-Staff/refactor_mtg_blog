@@ -9,12 +9,14 @@ import type { AuthorPaginatedPostsProps } from '../../../utils/pagination';
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const [authors, posts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
 
+  const authorId = (id: string) => id.replace(/\.ya?ml$/, '');
+
   return authors.flatMap((author) => {
     const authorPosts = posts
-      .filter((p) => p.data.authors.includes(author.id))
+      .filter((p) => p.data.authors.includes(authorId(author.id)))
       .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
     return paginate(authorPosts, {
-      params: { username: author.id },
+      params: { username: authorId(author.id) },
       props: { author },
       pageSize: 20,
     });
@@ -60,9 +62,10 @@ const avatar = author.data.avatar.startsWith('/')
   ? `${base}${author.data.avatar}`
   : author.data.avatar;
 const authorBase = `${import.meta.env.BASE_URL}authors/${username}`;
+const authorId = author.id.replace(/\.ya?ml$/, '');
 const authorCard = [
   {
-    id: author.id,
+    id: authorId,
     username: author.data.username,
     name: author.data.name,
     avatar,
