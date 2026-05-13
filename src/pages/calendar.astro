@@ -75,7 +75,8 @@ function isAllDay(start: Date, end: Date) {
 }
 
 function linkifyText(text: string): string {
-  const stripped = text.replace(/<a\b[^>]*>(.*?)<\/a>/gis, '$1');
+  const normalized = text.replace(/<br\s*\/?>/gi, '\n');
+  const stripped = normalized.replace(/<a\b[^>]*>(.*?)<\/a>/gis, '$1');
   const urlRegex = /https?:\/\/[^\s<>"]+/g;
   const parts: string[] = [];
   let lastIndex = 0;
