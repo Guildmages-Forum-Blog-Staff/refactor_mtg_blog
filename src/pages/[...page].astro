@@ -1,10 +1,11 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import type { GetStaticPathsOptions, Page } from 'astro';
+import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
 import { getPostAuthors, type AuthorData } from '../utils/authors';
 import { buildCategoryBreadcrumbs } from '../utils/categories';
+import type { PaginatedPostsProps } from '../utils/pagination';
 
 type PostWithAuthors = { post: CollectionEntry<'posts'>; authors: (AuthorData & { id: string })[] };
 
@@ -14,7 +15,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   return paginate(sorted, { pageSize: 10 });
 }
 
-const { page } = Astro.props as { page: Page<CollectionEntry<'posts'>> };
+const { page } = Astro.props as PaginatedPostsProps;
 
 const postsWithAuthors = await Promise.all(
   page.data.map(async (post: CollectionEntry<'posts'>) => ({

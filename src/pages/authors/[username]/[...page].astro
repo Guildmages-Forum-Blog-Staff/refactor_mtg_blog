@@ -1,9 +1,10 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import type { GetStaticPathsOptions, Page } from 'astro';
+import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Navbar from '../../../components/Navbar.astro';
 import ArticleAuthorFooter from '../../../components/ArticleAuthorFooter.vue';
+import type { AuthorPaginatedPostsProps } from '../../../utils/pagination';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const [authors, posts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
@@ -21,10 +22,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 }
 
 const { username } = Astro.params;
-const { author, page } = Astro.props as {
-  author: CollectionEntry<'authors'>;
-  page: Page<CollectionEntry<'posts'>>;
-};
+const { author, page } = Astro.props as AuthorPaginatedPostsProps;
 
 const byYear = page.data.reduce<Record<number, CollectionEntry<'posts'>[]>>((acc, post) => {
   const year = post.data.date.getFullYear();
