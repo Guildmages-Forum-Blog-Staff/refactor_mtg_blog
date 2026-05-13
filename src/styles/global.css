@@ -38,17 +38,25 @@
 }
 
 @layer base {
-  /* Background image on html so body overlay sits on top without color-mix() */
+  /* Fixed pseudo-element background: works on mobile (iOS/Android) where
+     background-attachment:fixed is broken. position:fixed pins it to the
+     viewport on all devices; content scrolls over it. */
   html {
     scroll-behavior: smooth;
+  }
+
+  html::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
     background-image: url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotus-plains-6040-final-jaa-small.jpg?t=1727796986');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     background-repeat: no-repeat;
   }
 
-  html.dark {
+  html.dark::before {
     background-image: url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotusswamp-60-40-metal-print-smaller.jpg?t=1742030717');
   }
 
