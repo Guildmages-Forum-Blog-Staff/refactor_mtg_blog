@@ -15,38 +15,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      pages: write
-    outputs:
-      cache_updated: ${{ steps.cache_check.outputs.updated }}
+      contents: read
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+
+      # Restore Scryfall card cache so prebuild only fetches deltas instead of
+      # all ~3800 cards from scratch each run. Primary key changes whenever any
+      # post does; restore-keys grabs the most recent cache for warm starts on
+      # cache-miss. actions/cache@v5 auto-saves at end of job iff primary key
+      # was missed (i.e. posts changed since last successful build).
+      - name: Restore Scryfall cache
+        uses: actions/cache@v5
+        with:
+          path: .cache/cards.json
+          key: scryfall-cache-${{ hashFiles('src/content/posts/**') }}
+          restore-keys: |
+            scryfall-cache-
 
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         with:
           node-version: '22'
 
-      - name: Check if Scryfall cache was updated
-        id: cache_check
-        run: |
-          if ! git diff --quiet .scryfall-cache.json; then
-            echo "updated=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Commit and push updated Scryfall cache
-        if: steps.cache_check.outputs.updated == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .scryfall-cache.json
-          git commit -m "chore: update scryfall cache [auto]"
-          git push
-
   deploy:
     needs: build
-    if: needs.build.outputs.cache_updated != 'true'
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -57,4 +50,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
