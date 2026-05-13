@@ -4,7 +4,8 @@ import { createHash } from 'crypto';
 import { existsSync, mkdirSync } from 'fs';
 import { join } from 'path';
 import sharp from 'sharp';
-import { fetchImageByName } from './scryfall-build-fetch';
+import { lookupCard } from './mtg-card-cache';
+import { cacheKey } from './mtg-tag-shared';
 
 export interface MtgMergeOptions {
   base?: string;
@@ -29,14 +30,14 @@ function ensureOutputDir() {
   if (!existsSync(OUTPUT_DIR)) mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
-function hashNames(names: string[]): string {
+export function hashNames(names: string[]): string {
   return createHash('md5')
     .update([...names].sort().join('|').toLowerCase())
     .digest('hex')
     .slice(0, 12);
 }
 
-function parseNames(raw: string): string[] | null {
+export function parseNames(raw: string): string[] | null {
   const normalized = raw.replace(CURLY_DOUBLE, '"').replace(CURLY_SINGLE, "'");
   try {
     const parsed = JSON.parse(normalized);
@@ -47,6 +48,15 @@ function parseNames(raw: string): string[] | null {
     // not valid JSON array
   }
   return null;
+}
+
+// Map each requested name to its image URL via the shared cache; null if the
+// card is missing from cache or has no face image. Extracted for unit testing.
+export function resolveCardUrls(names: string[]): (string | null)[] {
+  return names.map((n) => {
+    const r = lookupCard(cacheKey('search', { name: n, edition: '', language: 'en' }));
+    return r.ok ? (r.card.card_faces[0]?.image ?? null) : null;
+  });
 }
 
 async function fetchBuffer(url: string): Promise<Buffer | null> {
@@ -73,8 +83,7 @@ async function buildMergeImage(names: string[]): Promise<string | null> {
 
   console.log(`[mtgmerge] stitching  — ${names.join(', ')}`);
 
-  const urls = await Promise.all(names.map((n) => fetchImageByName(n, '', 'en')));
-  const validUrls = urls.filter((u): u is string => u !== null);
+  const validUrls = resolveCardUrls(names).filter((u): u is string => u !== null);
 
   if (validUrls.length === 0) {
     console.warn(`[mtgmerge] no images found for: ${names.join(', ')}`);
