@@ -23,6 +23,7 @@ export function tokenize(argString: string): string[] {
   const tokens: string[] = [];
   let current = '';
   let inQuote = false;
+  const STRAIGHT_DOUBLE = String.fromCharCode(0x22);
   for (let i = 0; i < argString.length; i++) {
     const ch = argString[i];
     if (ch === '\\' && i + 1 < argString.length) {
@@ -30,7 +31,22 @@ export function tokenize(argString: string): string[] {
       i++;
       continue;
     }
-    if (ch === String.fromCharCode(0x22) || ch === OPEN_DOUBLE || ch === CLOSE_DOUBLE) {
+    // Adjacent `""` (straight only, U+0022 pair) restores authors' `\"` intent
+    // after Astro's smartypants drops the backslash: emit one literal `"` plus
+    // one quote-toggle. Direction depends on inQuote — open+literal when
+    // outside, literal+close when inside.
+    if (ch === STRAIGHT_DOUBLE && argString[i + 1] === STRAIGHT_DOUBLE) {
+      if (inQuote) {
+        current += STRAIGHT_DOUBLE;
+        inQuote = false;
+      } else {
+        inQuote = true;
+        current += STRAIGHT_DOUBLE;
+      }
+      i++;
+      continue;
+    }
+    if (ch === STRAIGHT_DOUBLE || ch === OPEN_DOUBLE || ch === CLOSE_DOUBLE) {
       inQuote = !inQuote;
       continue;
     }
