@@ -34,6 +34,9 @@ export async function getAuthorById(username: string) {
 export async function getPostAuthors(usernames: string[]) {
   const all = await getAllAuthors();
   return usernames
-    .map((u) => all.find((a) => a.id.replace(/\.ya?ml$/, '') === u || a.username === u))
+    .map((u) => {
+      const normalizedU = u.replace(/\.ya?ml$/, '');
+      return all.find((a) => a.id === normalizedU || a.username === normalizedU);
+    })
     .filter((a): a is AuthorData & { id: string } => a !== undefined);
 }
