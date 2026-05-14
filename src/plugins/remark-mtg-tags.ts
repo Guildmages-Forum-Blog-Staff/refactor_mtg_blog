@@ -21,6 +21,15 @@ const TAG_RE = () => /\{%\s*(mtgcard|mtglink|mtgpick)\s+([\s\S]*?)\s*%\}/g;
 const CURLY_APOSTROPHE = String.fromCharCode(0x2019);
 const CURLY_APOSTROPHE_RE = new RegExp(CURLY_APOSTROPHE, 'g');
 
+// U+2026 horizontal ellipsis appears in card names after Astro's smartypants
+// collapses literal `. . .` (spaced) or `...` (compact) at runtime. The prebuild
+// scans MDX source directly so cache keys preserve the author's `. . .` form
+// (canonical Scryfall form for cards like `With Great Power . . .` and
+// `Welcome to . . . // Jurassic Park`). renderSearch retries with the spaced
+// form on cache miss so both author and runtime forms resolve.
+const ELLIPSIS = String.fromCharCode(0x2026);
+const ELLIPSIS_RE = new RegExp(ELLIPSIS, 'g');
+
 const ROTATED_LAYOUTS = new Set(['split', 'planar']);
 const isRotated = (card: Card) => ROTATED_LAYOUTS.has(card.layout);
 const frontImage = (card: Card): string | null => card.card_faces?.[0]?.image ?? null;
@@ -64,6 +73,15 @@ function renderSearch(tag: 'mtglink' | 'mtgcard', args: SearchArgs): string {
   if (!result.ok && result.reason === 'missing' && args.name.includes(CURLY_APOSTROPHE)) {
     const straightName = args.name.replace(CURLY_APOSTROPHE_RE, "'");
     const altResult = lookupCard(cacheKey('search', { ...args, name: straightName }));
+    if (altResult.ok) result = altResult;
+  }
+  // Ellipsis fallback: smartypants collapses both `. . .` and `...` to U+2026
+  // before the plugin runs. Cache keys use the author's literal `. . .` form
+  // (canonical Scryfall form for the ellipsis cards we ship). Retry the
+  // spaced form on miss.
+  if (!result.ok && result.reason === 'missing' && args.name.includes(ELLIPSIS)) {
+    const spacedName = args.name.replace(ELLIPSIS_RE, '. . .');
+    const altResult = lookupCard(cacheKey('search', { ...args, name: spacedName }));
     if (altResult.ok) result = altResult;
   }
   if (!result.ok) return renderError(args.name, result.reason);

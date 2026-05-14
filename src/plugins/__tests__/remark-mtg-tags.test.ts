@@ -190,3 +190,35 @@ describe('remarkMtgTags — non-matching', () => {
     expect(html).toContain('Just a regular paragraph.');
   });
 });
+
+// Smartypants (Astro's default markdown option, on for the prod blog) collapses
+// both `...` and `. . .` to U+2026 `…` before this plugin runs. Prebuild scans
+// MDX source directly so cache keys use the literal author form. The fallback
+// retries on miss with `…` → `. . .` to bridge that asymmetry — mirrors the
+// existing CURLY_APOSTROPHE fallback.
+describe('remarkMtgTags — ellipsis fallback', () => {
+  const ELLIPSIS = String.fromCharCode(0x2026);
+
+  it('finds cached card when smartypants collapsed `. . .` to `…`', () => {
+    seed({
+      'search|With Great Power . . .||en': {
+        name: 'With Great Power . . .',
+        scryfall_uri: 'https://scryfall.com/x',
+        layout: 'normal',
+        card_faces: [{ image: 'https://img/wgp.jpg' }],
+      },
+    });
+    // The post-smartypants AST text uses the U+2026 form; the cache key uses
+    // the literal `. . .` form because prebuild scans the MDX source directly.
+    // The fallback bridges this asymmetry.
+    const html = proc(`{% mtgcard "With Great Power ${ELLIPSIS}" %}`);
+    expect(html).toContain('src="https://img/wgp.jpg"');
+    expect(html).not.toContain('mtgcard-error');
+  });
+
+  it('still renders mtgcard-error when neither key form is cached', () => {
+    seed({});
+    const html = proc(`{% mtgcard "Never Cached ${ELLIPSIS}" %}`);
+    expect(html).toContain('mtgcard-error');
+  });
+});
