@@ -164,3 +164,31 @@ describe('Card #4 — _____ (UNH#23, five underscores)', () => {
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #5 — Who // What // When // Where // Why (UNH#120, split layout)', () => {
+  const NAME = 'Who // What // When // Where // Why';
+
+  it('mtgcard wraps in rotated frame and uses Who-face image', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('mtgcard-frame--rotated');
+    expect(html).toContain('mtgcard--rotated');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip wrapping the rotated card image', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('mtgcard-frame--rotated');
+  });
+
+  it('mtgmerge parseNames keeps all four //', () => {
+    const names = parseNames(`["${NAME}", "Black Lotus"]`);
+    expect(names).toEqual([NAME, 'Black Lotus']);
+  });
+
+  it('mtgmerge resolveCardUrls returns first-face image', () => {
+    const urls = resolveCardUrls([NAME, 'Black Lotus']);
+    expect(urls[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+    expect(urls[1]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
