@@ -1,0 +1,142 @@
+{
+  "schema": "20260512-faces",
+  "found": {
+    "search|SP//dr, Piloted by Peni||en": {
+      "name": "SP//dr, Piloted by Peni",
+      "scryfall_uri": "https://scryfall.com/card/spm/147/spdr-piloted-by-peni",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/c/4/c47c1d83-e76d-4939-9ed6-05a9e709dea1.jpg?1758986794"
+        }
+      ],
+      "oracle_id": "722ab6e4-a2e0-4aaa-a050-7b6436e22b40"
+    },
+    "search|+2 Mace||en": {
+      "name": "+2 Mace",
+      "scryfall_uri": "https://scryfall.com/card/afr/1/+2-mace",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.jpg?1627701221"
+        }
+      ],
+      "oracle_id": "629fe1be-272d-465f-b9b1-2ce177410f13"
+    },
+    "search|\"Ach! Hans, Run!\"||en": {
+      "name": "\"Ach! Hans, Run!\"",
+      "scryfall_uri": "https://scryfall.com/card/unh/116/ach!-hans-run!",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/8/4/84f2c8f5-8e11-4639-b7de-00e4a2cbabee.jpg?1618996002"
+        }
+      ],
+      "oracle_id": "a2c5ee76-6084-413c-bb70-45490d818374"
+    },
+    "search|_____||en": {
+      "name": "_____",
+      "scryfall_uri": "https://scryfall.com/card/unh/23/_____",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/5/a/5aa90ab6-2686-4462-8725-5d4370c05437.jpg?1663738897"
+        }
+      ],
+      "oracle_id": "4e536142-4ebe-4062-887b-5dd123c41d39"
+    },
+    "search|Who // What // When // Where // Why||en": {
+      "name": "Who // What // When // Where // Why",
+      "scryfall_uri": "https://scryfall.com/card/unh/120/who-what-when-where-why",
+      "layout": "split",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/8/9/8987644d-5a31-4a4e-9a8a-3d6260ed0fd6.jpg?1562488870"
+        },
+        {
+          "image": "https://cards.scryfall.io/large/front/8/9/8987644d-5a31-4a4e-9a8a-3d6260ed0fd6.jpg?1562488870"
+        },
+        {
+          "image": "https://cards.scryfall.io/large/front/8/9/8987644d-5a31-4a4e-9a8a-3d6260ed0fd6.jpg?1562488870"
+        },
+        {
+          "image": "https://cards.scryfall.io/large/front/8/9/8987644d-5a31-4a4e-9a8a-3d6260ed0fd6.jpg?1562488870"
+        },
+        {
+          "image": "https://cards.scryfall.io/large/front/8/9/8987644d-5a31-4a4e-9a8a-3d6260ed0fd6.jpg?1562488870"
+        }
+      ],
+      "oracle_id": "adfe1b07-dd82-4c39-a7a6-ded0b1c39761"
+    },
+    "search|Question Elemental?||en": {
+      "name": "Question Elemental?",
+      "scryfall_uri": "https://scryfall.com/card/unh/43/question-elemental%3F",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/7/2/72ec2c53-2958-46d0-8322-b673cf0b79d4.jpg?1562488853"
+        }
+      ],
+      "oracle_id": "b474623d-a929-4d07-990f-e75756e8c204"
+    },
+    "search|Circle of Protection: Red||en": {
+      "name": "Circle of Protection: Red",
+      "scryfall_uri": "https://scryfall.com/card/9ed/11/circle-of-protection:-red",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/d/7/d7920b6d-ff71-4802-9589-e1df0c58b9ff.jpg?1562742407"
+        }
+      ],
+      "oracle_id": "df2738fe-9cd1-4347-8808-105fcfde1190"
+    },
+    "search|R&D's Secret Lair||en": {
+      "name": "R&D's Secret Lair",
+      "scryfall_uri": "https://scryfall.com/card/unh/135/r&ds-secret-lair",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/9/b/9bfdc6a9-0a44-43ef-b065-02ef5d6110dc.jpg?1720467993"
+        }
+      ],
+      "oracle_id": "b6be7abe-cee3-418f-bf52-8b5405e3462f"
+    },
+    "search|With Great Power . . .||en": {
+      "name": "With Great Power . . .",
+      "scryfall_uri": "https://scryfall.com/card/spm/24/with-great-power-",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/f/7/f717c096-e161-426e-a8d7-c93b117e16b9.jpg?1774784575"
+        }
+      ],
+      "oracle_id": "dfedb968-f27c-4117-aff6-da707dd43e82"
+    },
+    "search|Welcome to . . . // Jurassic Park||en": {
+      "name": "Welcome to . . . // Jurassic Park",
+      "scryfall_uri": "https://scryfall.com/card/rex/7/welcome-to-jurassic-park",
+      "layout": "transform",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748"
+        },
+        {
+          "image": "https://cards.scryfall.io/large/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748"
+        }
+      ],
+      "oracle_id": "a4b37d16-95b3-4143-a0b2-ad9f2aba91f8"
+    },
+    "search|Black Lotus||en": {
+      "name": "Black Lotus",
+      "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus",
+      "layout": "normal",
+      "card_faces": [
+        {
+          "image": "https://cards.scryfall.io/large/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1559591477"
+        }
+      ],
+      "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b"
+    }
+  },
+  "not_found": {}
+}
