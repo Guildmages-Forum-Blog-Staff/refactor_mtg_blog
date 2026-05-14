@@ -89,3 +89,24 @@ describe('Card #1 — SP//dr, Piloted by Peni (SPM#147, // in name body)', () =>
     expect(urls[1]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #2 — +2 Mace (AFR#1, leading +)', () => {
+  const NAME = '+2 Mace';
+
+  it('mtgcard (quoted) renders image', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink (quoted) renders tooltip', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('+2 Mace');
+  });
+
+  it('mtgmerge parses + and resolves URL', () => {
+    expect(parseNames(`["${NAME}", "Black Lotus"]`)).toEqual([NAME, 'Black Lotus']);
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
