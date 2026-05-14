@@ -8,6 +8,7 @@ import {
   resolveCardUrls,
 } from '../remark-mtg-merge';
 import { __setCardDataForTests, type Card } from '../mtg-card-cache';
+import { tokenize, parseSearchTagArgs } from '../mtg-tag-shared';
 // Vite (vitest's loader) resolves JSON imports natively — no import attribute needed.
 import fixture from './__fixtures__/edge-card-names.cache.json';
 
@@ -300,5 +301,24 @@ describe('Card #10 — Welcome to . . . // Jurassic Park (REX#7, DFC + spaced el
   it('mtgmerge parses DFC name with embedded ellipsis', () => {
     expect(parseNames(`["${NAME}"]`)).toEqual([NAME]);
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
+
+describe('Parser-unit — edge tokenization', () => {
+  it('unquoted "+2 Mace" splits at the space (known limitation, name=+2, edition=Mace)', () => {
+    // The author SHOULD quote — `{% mtgcard "+2 Mace" %}`. Without quotes,
+    // tokenizer emits ["+2", "Mace"]; "Mace" matches SET_CODE_PATTERN so it
+    // becomes edition. Document the failure mode so future authors know.
+    const tokens = tokenize('+2 Mace');
+    expect(tokens).toEqual(['+2', 'Mace']);
+    const args = parseSearchTagArgs(tokens);
+    expect(args.name).toBe('+2');
+    expect(args.edition).toBe('mace');
+  });
+
+  it('quoted "+2 Mace" parses as single name', () => {
+    const tokens = tokenize('"+2 Mace"');
+    expect(tokens).toEqual(['+2 Mace']);
+    expect(parseSearchTagArgs(tokens).name).toBe('+2 Mace');
   });
 });
