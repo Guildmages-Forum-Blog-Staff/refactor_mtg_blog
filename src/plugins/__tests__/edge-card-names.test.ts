@@ -141,3 +141,26 @@ describe('Card #3 — "Ach! Hans, Run!" (UNH#116, quotes in name)', () => {
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #4 — _____ (UNH#23, five underscores)', () => {
+  const NAME = '_____';
+
+  it('mtgcard renders image (underscores survive markdown)', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip with literal underscores as display', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('_____');
+    // Guard: emphasis tags must not appear
+    expect(html).not.toMatch(/<em>|<strong>/);
+  });
+
+  it('mtgmerge parseNames + resolveCardUrls round-trip underscores', () => {
+    expect(parseNames(`["${NAME}"]`)).toEqual([NAME]);
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
