@@ -61,3 +61,31 @@ describe('edge-card-names — fixture sanity', () => {
     expect(html).toContain('Black Lotus');
   });
 });
+
+describe('Card #1 — SP//dr, Piloted by Peni (SPM#147, // in name body)', () => {
+  const NAME = 'SP//dr, Piloted by Peni';
+
+  it('mtgcard renders single-frame image (not rotated split frame)', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).not.toContain('mtgcard-frame--rotated');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip with display name', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('SP//dr, Piloted by Peni');
+  });
+
+  it('mtgmerge parseNames preserves // in name body', () => {
+    const names = parseNames(`["${NAME}", "Black Lotus"]`);
+    expect(names).toEqual([NAME, 'Black Lotus']);
+  });
+
+  it('mtgmerge resolveCardUrls returns image URL for SP//dr from cache', () => {
+    const urls = resolveCardUrls([NAME, 'Black Lotus']);
+    expect(urls[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+    expect(urls[1]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
