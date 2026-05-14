@@ -232,3 +232,29 @@ describe('Card #7 — Circle of Protection: Red (9ED#11, colon in name)', () => 
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe("Card #8 — R&D's Secret Lair (UNH#135, & + apostrophe)", () => {
+  const NAME = "R&D's Secret Lair";
+
+  it('mtgcard renders image (apostrophe fallback handles smartypants curly)', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip with & escaped in display text', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('R&amp;D');
+  });
+
+  it('mtgmerge parseNames preserves both & and apostrophe', () => {
+    expect(parseNames(`["${NAME}"]`)).toEqual([NAME]);
+  });
+
+  it('mtgmerge resolveCardUrls finds card despite apostrophe variant', () => {
+    // No smartypants here (parseNames + resolveCardUrls are pure); cache key
+    // uses straight apostrophe (matches fixture). Should hit.
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
