@@ -25,7 +25,9 @@ export async function getAllAuthors() {
 
 export async function getAuthorById(username: string) {
   const collection = await getCollection('authors');
-  const entry = collection.find((a) => a.id.replace(/\.ya?ml$/, '') === username || a.data.username === username);
+  const entry = collection.find(
+    (a) => a.id.replace(/\.ya?ml$/, '') === username || a.data.username === username,
+  );
   return entry ? { id: entry.id.replace(/\.ya?ml$/, ''), ...entry.data } : null;
 }
 
