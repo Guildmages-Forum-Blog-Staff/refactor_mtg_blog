@@ -13,7 +13,10 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 
   return authors.flatMap((author) => {
     const authorPosts = posts
-      .filter((p) => p.data.authors.includes(authorId(author.id)))
+      .filter((p) =>
+        p.data.authors.includes(authorId(author.id)) ||
+        p.data.authors.includes(author.data.username)
+      )
       .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
     return paginate(authorPosts, {
       params: { username: authorId(author.id) },
