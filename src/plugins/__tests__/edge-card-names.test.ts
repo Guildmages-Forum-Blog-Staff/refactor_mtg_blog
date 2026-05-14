@@ -110,3 +110,34 @@ describe('Card #2 — +2 Mace (AFR#1, leading +)', () => {
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #3 — "Ach! Hans, Run!" (UNH#116, quotes in name)', () => {
+  // The cache key uses straight quotes (smartypants does not touch the JSON-
+  // encoded fixture). The author's source tag uses backslash-escaped quotes,
+  // which the tokenizer treats as literal " chars within the quoted token.
+  const NAME = '"Ach! Hans, Run!"';
+  const SOURCE = '{% mtgcard "\\"Ach! Hans, Run!\\"" %}';
+
+  it('mtgcard renders image despite quotes-in-name', () => {
+    const html = mtgTagsHtml(SOURCE);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip with the quoted name as display', () => {
+    const html = mtgTagsHtml('{% mtglink "\\"Ach! Hans, Run!\\"" %}');
+    expect(html).toContain('class="tooltip"');
+    // htmlEscape converts " to &quot; in the display text
+    expect(html).toContain('&quot;Ach! Hans, Run!&quot;');
+  });
+
+  it('mtgmerge parses literal " inside JSON-encoded name', () => {
+    // JSON: ["\"Ach! Hans, Run!\""], inner literal name has surrounding "
+    const names = parseNames('["\\"Ach! Hans, Run!\\""]');
+    expect(names).toEqual([NAME]);
+  });
+
+  it('mtgmerge resolveCardUrls finds card from cache', () => {
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
