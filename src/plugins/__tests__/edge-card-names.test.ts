@@ -258,3 +258,24 @@ describe("Card #8 — R&D's Secret Lair (UNH#135, & + apostrophe)", () => {
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #9 — With Great Power . . . (SPM#24, spaced ellipsis)', () => {
+  const NAME = 'With Great Power . . .';
+
+  it('mtgcard renders image despite smartypants ellipsis interaction', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip with spaced dots preserved', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('With Great Power . . .');
+  });
+
+  it('mtgmerge parses and resolves spaced-dot name', () => {
+    expect(parseNames(`["${NAME}"]`)).toEqual([NAME]);
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
