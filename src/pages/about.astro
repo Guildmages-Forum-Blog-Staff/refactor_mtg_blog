@@ -40,13 +40,13 @@ const authorOrder = [
   'Requiem_Black',
   'Ace',
   'ZengZengZeng',
-  'Sekun',
+  'Suken',
   'manamagic',
   'Terryrr',
 ];
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const authorMap = new Map(allAuthors.map((a) => [a.id, a.data]));
+const authorMap = new Map(allAuthors.map((a) => [a.id.replace(/\.ya?ml$/, ''), a.data]));
 const orderedAuthors = authorOrder
   .map((id) => ({ id, data: authorMap.get(id) }))
   .filter((a) => a.data !== undefined) as {

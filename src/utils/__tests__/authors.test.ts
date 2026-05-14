@@ -6,7 +6,7 @@ vi.mock('astro:content', () => ({
 }));
 
 import { getCollection } from 'astro:content';
-import { getAuthorById, getPostAuthors } from '../authors';
+import { getAuthorById, getPostAuthors, getAllAuthors } from '../authors';
 
 const mockAuthors = [
   {
@@ -80,5 +80,101 @@ describe('getPostAuthors', () => {
   it('returns empty array for empty input', async () => {
     const authors = await getPostAuthors([]);
     expect(authors).toHaveLength(0);
+  });
+});
+
+describe('.yml id normalization', () => {
+  it('getAllAuthors normalizes .yml extension from raw ids', async () => {
+    const mockAuthorsWithExt = [
+      {
+        id: 'MiohitoKiri5474.yml',
+        data: mockAuthors[0].data,
+      },
+      {
+        id: 'JerobaMTG.yaml',
+        data: mockAuthors[1].data,
+      },
+    ];
+    vi.mocked(getCollection).mockResolvedValue(mockAuthorsWithExt as never);
+
+    const authors = await getAllAuthors();
+
+    expect(authors).toHaveLength(2);
+    expect(authors[0].id).toBe('MiohitoKiri5474');
+    expect(authors[1].id).toBe('JerobaMTG');
+  });
+
+  it('getAuthorById finds entry when raw id has .yml extension', async () => {
+    const mockAuthorsWithExt = [
+      {
+        id: 'MiohitoKiri5474.yml',
+        data: mockAuthors[0].data,
+      },
+    ];
+    vi.mocked(getCollection).mockResolvedValue(mockAuthorsWithExt as never);
+
+    const author = await getAuthorById('MiohitoKiri5474');
+
+    expect(author).not.toBeNull();
+    expect(author?.id).toBe('MiohitoKiri5474');
+    expect(author?.name).toBe('台南猴王的耍猴日常');
+  });
+
+  it('getAuthorById finds entry when raw id has .yaml extension', async () => {
+    const mockAuthorsWithExt = [
+      {
+        id: 'JerobaMTG.yaml',
+        data: mockAuthors[1].data,
+      },
+    ];
+    vi.mocked(getCollection).mockResolvedValue(mockAuthorsWithExt as never);
+
+    const author = await getAuthorById('JerobaMTG');
+
+    expect(author).not.toBeNull();
+    expect(author?.id).toBe('JerobaMTG');
+    expect(author?.username).toBe('JerobaMTG');
+  });
+
+  it('getPostAuthors returns correct author when raw ids have .yml extension', async () => {
+    const mockAuthorsWithExt = [
+      {
+        id: 'MiohitoKiri5474.yml',
+        data: mockAuthors[0].data,
+      },
+      {
+        id: 'JerobaMTG.yaml',
+        data: mockAuthors[1].data,
+      },
+    ];
+    vi.mocked(getCollection).mockResolvedValue(mockAuthorsWithExt as never);
+
+    const authors = await getPostAuthors(['MiohitoKiri5474', 'JerobaMTG']);
+
+    expect(authors).toHaveLength(2);
+    expect(authors[0].id).toBe('MiohitoKiri5474');
+    expect(authors[1].id).toBe('JerobaMTG');
+    expect(authors[0].username).toBe('MiohitoKiri5474');
+    expect(authors[1].username).toBe('JerobaMTG');
+  });
+
+  it('getPostAuthors handles mixed normalized and .yml ids', async () => {
+    const mockAuthorsWithExt = [
+      {
+        id: 'MiohitoKiri5474.yml',
+        data: mockAuthors[0].data,
+      },
+      {
+        id: 'JerobaMTG', // no extension
+        data: mockAuthors[1].data,
+      },
+    ];
+    vi.mocked(getCollection).mockResolvedValue(mockAuthorsWithExt as never);
+
+    const authors = await getPostAuthors(['MiohitoKiri5474', 'JerobaMTG']);
+
+    expect(authors).toHaveLength(2);
+    expect(authors[0].id).toBe('MiohitoKiri5474');
+    expect(authors[1].id).toBe('JerobaMTG');
   });
 });
