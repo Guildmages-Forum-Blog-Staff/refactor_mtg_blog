@@ -279,3 +279,26 @@ describe('Card #9 — With Great Power . . . (SPM#24, spaced ellipsis)', () => {
     expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #10 — Welcome to . . . // Jurassic Park (REX#7, DFC + spaced ellipsis)', () => {
+  const NAME = 'Welcome to . . . // Jurassic Park';
+
+  it('mtgcard renders front-face image (DFC, not rotated frame)', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+    // DFC is not split, so NOT rotated
+    expect(html).not.toContain('mtgcard-frame--rotated');
+    expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
+  });
+
+  it('mtglink renders tooltip with full DFC name', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('Welcome to . . . // Jurassic Park');
+  });
+
+  it('mtgmerge parses DFC name with embedded ellipsis', () => {
+    expect(parseNames(`["${NAME}"]`)).toEqual([NAME]);
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
