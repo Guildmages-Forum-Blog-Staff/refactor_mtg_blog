@@ -192,3 +192,23 @@ describe('Card #5 — Who // What // When // Where // Why (UNH#120, split layout
     expect(urls[1]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
   });
 });
+
+describe('Card #6 — Question Elemental? (UNH#43, trailing ?)', () => {
+  const NAME = 'Question Elemental?';
+
+  it('mtgcard renders image', () => {
+    const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
+    expect(html).toContain('class="mtgcard rounded-lg"');
+  });
+
+  it('mtglink renders tooltip with literal ? in display', () => {
+    const html = mtgTagsHtml(`{% mtglink "${NAME}" %}`);
+    expect(html).toContain('class="tooltip"');
+    expect(html).toContain('Question Elemental?');
+  });
+
+  it('mtgmerge parses and resolves', () => {
+    expect(parseNames(`["${NAME}"]`)).toEqual([NAME]);
+    expect(resolveCardUrls([NAME])[0]).toMatch(/^https:\/\/cards\.scryfall\.io\//);
+  });
+});
