@@ -94,7 +94,7 @@ Options: `edition=xxx`, `language=ja`, `tooltip=true`, `alt="Display text"`
 
 ### `{% mtgcard Name [edition] %}`
 
-Card image block (centered, 220px wide, with link to Scryfall).
+Card image block (centered, 300px max-width, with link to Scryfall).
 
 ```
 {% mtgcard "Ragavan, Nimble Pilferer" neo %}

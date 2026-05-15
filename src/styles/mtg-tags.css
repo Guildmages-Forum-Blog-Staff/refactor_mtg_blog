@@ -54,7 +54,7 @@
   /* MTG card images — fixed width matching original blog (relocated) */
   img.mtgcard {
     display: inline-block !important;
-    max-width: 220px !important;
+    max-width: 300px !important;
     width: auto;
     height: auto;
     margin: 0 !important;
