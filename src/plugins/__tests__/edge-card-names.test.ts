@@ -68,7 +68,7 @@ describe('Card #1 — SP//dr, Piloted by Peni (SPM#147, // in name body)', () =>
 
   it('mtgcard renders single-frame image (not rotated split frame)', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     expect(html).not.toContain('mtgcard-frame--rotated');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
   });
@@ -96,7 +96,7 @@ describe('Card #2 — +2 Mace (AFR#1, leading +)', () => {
 
   it('mtgcard (quoted) renders image', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
   });
 
@@ -121,7 +121,7 @@ describe('Card #3 — "Ach! Hans, Run!" (UNH#116, quotes in name)', () => {
 
   it('mtgcard renders image despite quotes-in-name', () => {
     const html = mtgTagsHtml(SOURCE);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
   });
 
@@ -148,7 +148,7 @@ describe('Card #4 — _____ (UNH#23, five underscores)', () => {
 
   it('mtgcard renders image (underscores survive markdown)', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
   });
 
@@ -199,7 +199,7 @@ describe('Card #6 — Question Elemental? (UNH#43, trailing ?)', () => {
 
   it('mtgcard renders image', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
   });
 
   it('mtglink renders tooltip with literal ? in display', () => {
@@ -219,7 +219,7 @@ describe('Card #7 — Circle of Protection: Red (9ED#11, colon in name)', () => 
 
   it('mtgcard renders image', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
   });
 
   it('mtglink renders tooltip with colon in display name', () => {
@@ -239,7 +239,7 @@ describe("Card #8 — R&D's Secret Lair (UNH#135, & + apostrophe)", () => {
 
   it('mtgcard renders image (apostrophe fallback handles smartypants curly)', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
   });
 
@@ -265,7 +265,7 @@ describe('Card #9 — With Great Power . . . (SPM#24, spaced ellipsis)', () => {
 
   it('mtgcard renders image despite smartypants ellipsis interaction', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);
   });
 
@@ -286,7 +286,7 @@ describe('Card #10 — Welcome to . . . // Jurassic Park (REX#7, DFC + spaced el
 
   it('mtgcard renders front-face image (DFC, not rotated frame)', () => {
     const html = mtgTagsHtml(`{% mtgcard "${NAME}" %}`);
-    expect(html).toContain('class="mtgcard rounded-lg"');
+    expect(html).toContain('class="mtgcard w-full rounded-lg"');
     // DFC is not split, so NOT rotated
     expect(html).not.toContain('mtgcard-frame--rotated');
     expect(html).toMatch(/src="https:\/\/cards\.scryfall\.io\/.+"/);

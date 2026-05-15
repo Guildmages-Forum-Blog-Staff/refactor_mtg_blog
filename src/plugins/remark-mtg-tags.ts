@@ -50,7 +50,7 @@ function renderImage(card: Card, alt: string): string {
   if (isRotated(card)) {
     return `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" /></span>`;
   }
-  return `<img class="mtgcard rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" />`;
+  return `<img class="mtgcard w-full rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" />`;
 }
 
 function renderTooltip(card: Card, display: string): string {
