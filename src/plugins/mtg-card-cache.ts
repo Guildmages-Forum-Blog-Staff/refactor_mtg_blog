@@ -73,12 +73,12 @@ function load(): CacheShape {
 }
 
 export type LookupResult =
-  | { ok: true; card: Card }
-  | { ok: false; reason: 'missing' | 'not_found' };
+  | { type: 'Ok'; value: Card }
+  | { type: 'Err'; error: 'missing' | 'not_found' };
 
 export function lookupCard(key: string): LookupResult {
   const c = load();
-  if (key in c.found) return { ok: true, card: c.found[key] };
-  if (key in c.not_found) return { ok: false, reason: 'not_found' };
-  return { ok: false, reason: 'missing' };
+  if (key in c.found) return { type: 'Ok', value: c.found[key] };
+  if (key in c.not_found) return { type: 'Err', error: 'not_found' };
+  return { type: 'Err', error: 'missing' };
 }

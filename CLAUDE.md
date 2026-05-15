@@ -63,9 +63,9 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 
 - `scripts/build-card-cache.ts` — prebuild script. Scans `src/content/posts/**/*.{md,mdx}` for tag references, batches Scryfall queries (75/req), retries with `// ` spacing then DFC front-face then `flavor_name` on misses, and writes `.cache/cards.json` atomically (tmp + rename) under a PID lockfile. Schema-versioned; bumping `CACHE_SCHEMA` triggers a full refetch.
 - `npm run predev` / `npm run prebuild` — auto-run the script before `dev`/`build`. `npm run cache:update` and `cache:refresh` run it manually (`--refresh` clears `not_found` entries).
-- `src/plugins/mtg-card-cache.ts` — synchronous runtime reader. Loads `.cache/cards.json` lazily on first lookup, returns typed `LookupResult` (`{ ok: true, card }` or `{ ok: false, reason: 'missing' | 'not_found' }`).
+- `src/plugins/mtg-card-cache.ts` — synchronous runtime reader. Loads `.cache/cards.json` lazily on first lookup, returns typed `LookupResult` (`{ type: 'Ok', value: Card }` or `{ type: 'Err', error: 'missing' | 'not_found' }`, Rust-style).
 - `src/plugins/mtg-tag-shared.ts` — **single source of truth** for parser/tokenizer/cache-key logic. Imported by both `remark-mtg-tags.ts` and the prebuild script so key derivation cannot drift.
-- **Render-time misses** produce `<span class="mtgcard-error">找不到卡片「...」</span>`; the hint differs by reason (`not_found` vs `missing`).
+- **Render-time misses** produce `<span class="mtgcard-error">找不到卡片「...」</span>`; the hint differs by error (`not_found` vs `missing`).
 - `.cache/cards.json` is **gitignored**; CI persists it via `actions/cache`.
 
 ## Dark Mode

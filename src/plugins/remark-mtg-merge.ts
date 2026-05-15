@@ -55,7 +55,7 @@ export function parseNames(raw: string): string[] | null {
 export function resolveCardUrls(names: string[]): (string | null)[] {
   return names.map((n) => {
     const r = lookupCard(cacheKey('search', { name: n, edition: '', language: 'en' }));
-    return r.ok ? (r.card.card_faces[0]?.image ?? null) : null;
+    return r.type === 'Ok' ? (r.value.card_faces[0]?.image ?? null) : null;
   });
 }
 

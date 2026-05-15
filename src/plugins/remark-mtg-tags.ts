@@ -72,24 +72,24 @@ function renderSearch(tag: 'mtglink' | 'mtgcard', args: SearchArgs): string {
   // the runtime also sees U+2019 — those match directly. But sources with a
   // straight apostrophe U+0027 produce U+0027 prebuild keys; smartypants
   // converts them to U+2019 at runtime, so we retry with U+0027 on miss.
-  if (!result.ok && result.reason === 'missing' && args.name.includes(CURLY_APOSTROPHE)) {
+  if (result.type === 'Err' && result.error === 'missing' && args.name.includes(CURLY_APOSTROPHE)) {
     const straightName = args.name.replace(CURLY_APOSTROPHE_RE, "'");
     const altResult = lookupCard(cacheKey('search', { ...args, name: straightName }));
-    if (altResult.ok) result = altResult;
+    if (altResult.type === 'Ok') result = altResult;
   }
   // Ellipsis fallback: smartypants collapses both `. . .` and `...` to U+2026
   // before the plugin runs. Cache keys use the author's literal `. . .` form
   // (canonical Scryfall form for the ellipsis cards we ship). Retry the
   // spaced form on miss.
-  if (!result.ok && result.reason === 'missing' && args.name.includes(ELLIPSIS)) {
+  if (result.type === 'Err' && result.error === 'missing' && args.name.includes(ELLIPSIS)) {
     const spacedName = args.name.replace(ELLIPSIS_RE, '. . .');
     const altResult = lookupCard(cacheKey('search', { ...args, name: spacedName }));
-    if (altResult.ok) result = altResult;
+    if (altResult.type === 'Ok') result = altResult;
   }
-  if (!result.ok) return renderError(args.name, result.reason);
+  if (result.type === 'Err') return renderError(args.name, result.error);
   const isTooltip = tag === 'mtglink' || args.tooltip;
-  const display = args.alt ?? result.card.name;
-  return isTooltip ? renderTooltip(result.card, display) : renderImage(result.card, display);
+  const display = args.alt ?? result.value.name;
+  return isTooltip ? renderTooltip(result.value, display) : renderImage(result.value, display);
 }
 
 function renderPick(args: PickArgs): string {
@@ -97,9 +97,9 @@ function renderPick(args: PickArgs): string {
   const key = cacheKey('pick', args);
   const result = lookupCard(key);
   const label = `${args.edition.toUpperCase()} #${args.collectionNumber}`;
-  if (!result.ok) return renderError(label, result.reason);
-  const display = args.alt ?? result.card.name;
-  return args.tooltip ? renderTooltip(result.card, display) : renderImage(result.card, display);
+  if (result.type === 'Err') return renderError(label, result.error);
+  const display = args.alt ?? result.value.name;
+  return args.tooltip ? renderTooltip(result.value, display) : renderImage(result.value, display);
 }
 
 function replaceTagsInText(text: string): string {
