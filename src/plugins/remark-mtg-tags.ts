@@ -1,213 +1,121 @@
 import { visit } from 'unist-util-visit';
-import type { Root, Paragraph, Text, Parent } from 'mdast';
-import { fetchImageByName, fetchImageByNumber } from './scryfall-build-fetch';
+import type { Root, Text, Parent } from 'mdast';
+import {
+  parseSearchTagArgs,
+  parsePickArgs,
+  cacheKey,
+  htmlEscape,
+  tokenize,
+  type SearchArgs,
+  type PickArgs,
+} from './mtg-tag-shared';
+import { lookupCard, type Card } from './mtg-card-cache';
 
-interface MtgTagArgs {
-  name?: string;
-  edition: string;
-  language: string;
-  tooltip: boolean;
-  alt: string | null;
-  collectionNumber?: string;
+// Factory, not a module-level constant: the `g` flag carries `lastIndex` state
+// across calls, so a shared instance would skip matches when reused.
+const TAG_RE = () => /\{%\s*(mtgcard|mtglink|mtgpick)\s+([\s\S]*?)\s*%\}/g;
+
+// U+2019 appears as a typographic apostrophe in card names when authors type
+// with a smart-quotes editor (e.g. Tormod's Crypt). The prebuild script reads
+// raw source files and stores the name verbatim, so some cache keys have U+2019
+// while others (straight-apostrophe sources) have U+0027.  renderSearch uses
+// a fallback lookup to handle both variants.
+const CURLY_APOSTROPHE = String.fromCharCode(0x2019);
+const CURLY_APOSTROPHE_RE = new RegExp(CURLY_APOSTROPHE, 'g');
+
+// U+2026 horizontal ellipsis appears in card names after Astro's smartypants
+// collapses literal `. . .` (spaced) or `...` (compact) at runtime. The prebuild
+// scans MDX source directly so cache keys preserve the author's `. . .` form
+// (canonical Scryfall form for cards like `With Great Power . . .` and
+// `Welcome to . . . // Jurassic Park`). renderSearch retries with the spaced
+// form on cache miss so both author and runtime forms resolve.
+const ELLIPSIS = String.fromCharCode(0x2026);
+const ELLIPSIS_RE = new RegExp(ELLIPSIS, 'g');
+
+const ROTATED_LAYOUTS = new Set(['split', 'planar']);
+const isRotated = (card: Card) => ROTATED_LAYOUTS.has(card.layout);
+const frontImage = (card: Card): string | null => card.card_faces?.[0]?.image ?? null;
+
+function renderError(label: string, reason: 'missing' | 'not_found'): string {
+  const hint =
+    reason === 'not_found'
+      ? '（請確認拼字或 set code）'
+      : '（cache 缺項，執行 npm run cache:update）';
+  return `<span class="mtgcard-error">找不到卡片「${htmlEscape(label)}」${htmlEscape(hint)}</span>`;
 }
 
-const getTagPattern = () => /\{%\s*(mtglink|mtgcard|mtgpick)\s+(.*?)\s*%\}/g;
-
-// U+201C/U+201D = curly double-quotes; U+2018/U+2019 = curly single-quotes
-const CURLY_DOUBLE = new RegExp(
-  '[' + String.fromCharCode(0x201c) + String.fromCharCode(0x201d) + ']',
-  'g',
-);
-const CURLY_SINGLE = new RegExp(
-  '[' + String.fromCharCode(0x2018) + String.fromCharCode(0x2019) + ']',
-  'g',
-);
-// ASCII 34 = double-quote, ASCII 39 = single-quote
-const ASCII_DOUBLE = String.fromCharCode(34);
-const ASCII_SINGLE = String.fromCharCode(39);
-
-function tokenize(input: string): string[] {
-  const normalized = input.replace(CURLY_DOUBLE, ASCII_DOUBLE).replace(CURLY_SINGLE, ASCII_SINGLE);
-  const tokens: string[] = [];
-  // Match key="value", key='value', "value", 'value', or bare token — in that priority order
-  const regex = /([^=\s]+)="([^"]*)"|([^=\s]+)='([^']*)'|"([^"]*)"|'([^']*)'|(\S+)/g;
-  let match: RegExpExecArray | null;
-  while ((match = regex.exec(normalized)) !== null) {
-    if (match[1] !== undefined) tokens.push(`${match[1]}=${match[2]}`);
-    else if (match[3] !== undefined) tokens.push(`${match[3]}=${match[4]}`);
-    else if (match[5] !== undefined) tokens.push(match[5]);
-    else if (match[6] !== undefined) tokens.push(match[6]);
-    else tokens.push(match[7]);
+function renderImage(card: Card, alt: string): string {
+  const img = frontImage(card);
+  if (!img) return `<a href="${htmlEscape(card.scryfall_uri)}">${htmlEscape(card.name)}</a>`;
+  if (isRotated(card)) {
+    return `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" /></span>`;
   }
-  return tokens;
+  return `<img class="mtgcard w-full rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" />`;
 }
 
-function parseCardArgs(tokens: string[]): MtgTagArgs {
-  const opts: Record<string, string> = {};
-  const nameTokens: string[] = [];
+function renderTooltip(card: Card, display: string): string {
+  const img = frontImage(card);
+  const inner = img
+    ? isRotated(card)
+      ? `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated" src="${htmlEscape(img)}" /></span>`
+      : `<img class="mtgcard" src="${htmlEscape(img)}" />`
+    : '';
+  return `<a class="tooltip" href="${htmlEscape(card.scryfall_uri)}">${htmlEscape(display)}<span>${inner}</span></a>`;
+}
 
-  for (const token of tokens) {
-    const sep =
-      token.indexOf(':') > 0
-        ? token.indexOf(':')
-        : token.indexOf('=') > 0
-          ? token.indexOf('=')
-          : -1;
-    if (sep > 0) {
-      opts[token.slice(0, sep)] = token.slice(sep + 1);
-    } else {
-      nameTokens.push(token);
-    }
+function renderSearch(tag: 'mtglink' | 'mtgcard', args: SearchArgs): string {
+  if (!args.name) return renderError('(empty)', 'missing');
+  const key = cacheKey('search', args);
+  let result = lookupCard(key);
+  // Apostrophe fallback: source files may contain U+2019 (curly apostrophe) in
+  // card names, producing U+2019 cache keys via the prebuild. After smartypants
+  // the runtime also sees U+2019 — those match directly. But sources with a
+  // straight apostrophe U+0027 produce U+0027 prebuild keys; smartypants
+  // converts them to U+2019 at runtime, so we retry with U+0027 on miss.
+  if (result.type === 'Err' && result.error === 'missing' && args.name.includes(CURLY_APOSTROPHE)) {
+    const straightName = args.name.replace(CURLY_APOSTROPHE_RE, "'");
+    const altResult = lookupCard(cacheKey('search', { ...args, name: straightName }));
+    if (altResult.type === 'Ok') result = altResult;
   }
-
-  // Last name token is edition if short alphanumeric and not the only name token
-  let edition = '';
-  const last = nameTokens[nameTokens.length - 1];
-  if (nameTokens.length > 1 && last && /^[a-z0-9]{3}$/i.test(last)) {
-    edition = last.toLowerCase();
-    nameTokens.pop();
+  // Ellipsis fallback: smartypants collapses both `. . .` and `...` to U+2026
+  // before the plugin runs. Cache keys use the author's literal `. . .` form
+  // (canonical Scryfall form for the ellipsis cards we ship). Retry the
+  // spaced form on miss.
+  if (result.type === 'Err' && result.error === 'missing' && args.name.includes(ELLIPSIS)) {
+    const spacedName = args.name.replace(ELLIPSIS_RE, '. . .');
+    const altResult = lookupCard(cacheKey('search', { ...args, name: spacedName }));
+    if (altResult.type === 'Ok') result = altResult;
   }
-
-  return {
-    name: nameTokens.join(' '),
-    edition: opts['edition'] ?? edition,
-    language: opts['language'] ?? 'en',
-    tooltip: opts['tooltip'] === 'true',
-    alt: opts['alt'] ?? null,
-  };
+  if (result.type === 'Err') return renderError(args.name, result.error);
+  const isTooltip = tag === 'mtglink' || args.tooltip;
+  const display = args.alt ?? result.value.name;
+  return isTooltip ? renderTooltip(result.value, display) : renderImage(result.value, display);
 }
 
-function parsePickArgs(tokens: string[]): MtgTagArgs {
-  const opts: Record<string, string> = {};
-  for (const token of tokens.slice(2)) {
-    const sep =
-      token.indexOf(':') > 0
-        ? token.indexOf(':')
-        : token.indexOf('=') > 0
-          ? token.indexOf('=')
-          : -1;
-    if (sep > 0) opts[token.slice(0, sep)] = token.slice(sep + 1);
-  }
-  return {
-    edition: tokens[0]?.toLowerCase() ?? '',
-    collectionNumber: tokens[1] ?? '',
-    language: opts['language'] ?? 'en',
-    tooltip: opts['tooltip'] === 'true',
-    alt: opts['alt'] ?? null,
-  };
+function renderPick(args: PickArgs): string {
+  if (!args.edition || !args.collectionNumber) return renderError('(empty)', 'missing');
+  const key = cacheKey('pick', args);
+  const result = lookupCard(key);
+  const label = `${args.edition.toUpperCase()} #${args.collectionNumber}`;
+  if (result.type === 'Err') return renderError(label, result.error);
+  const display = args.alt ?? result.value.name;
+  return args.tooltip ? renderTooltip(result.value, display) : renderImage(result.value, display);
 }
 
-function scryfallNameUrl(name: string, edition: string): string {
-  const q = edition ? `!"${name}" s:${edition}` : `!"${name}"`;
-  return `https://scryfall.com/search?q=${encodeURIComponent(q)}`;
-}
-
-function scryfallPickUrl(edition: string, number: string): string {
-  return `https://scryfall.com/card/${encodeURIComponent(edition)}/${encodeURIComponent(number)}`;
-}
-
-async function renderMtgLink(name: string, args: MtgTagArgs): Promise<string> {
-  const display = args.alt ?? name;
-  const imgUrl = await fetchImageByName(name, args.edition, args.language);
-  const href = scryfallNameUrl(name, args.edition);
-  const attrs = [
-    `class="mtg-link scryfall-card"`,
-    `href="${href}"`,
-    `target="_blank"`,
-    `rel="noopener noreferrer"`,
-    imgUrl ? `data-card-image="${imgUrl}"` : '',
-    `data-card-name="${name}"`,
-    args.edition ? `data-edition="${args.edition}"` : '',
-    `data-language="${args.language}"`,
-  ]
-    .filter(Boolean)
-    .join(' ');
-  return `<a ${attrs}>${display}</a>`;
-}
-
-async function renderMtgCard(name: string, args: MtgTagArgs): Promise<string> {
-  if (args.tooltip) return renderMtgLink(name, args);
-  const imgUrls = await fetchImageByName(name, args.edition, args.language);
-  const href = scryfallNameUrl(name, args.edition);
-  if (!imgUrls) {
-    return `<a class="mtg-link scryfall-card" href="${href}" target="_blank" rel="noopener noreferrer" data-card-name="${name}">${name}</a>`;
-  }
-  const imgs = imgUrls
-    .split('|')
-    .map((url) => `<img src="${url}" class="mtgcard rounded-lg" loading="lazy" alt="${name}" />`)
-    .join('');
-  return `<div style="text-align:center;margin:0.5rem 0"><a href="${href}" target="_blank" rel="noopener noreferrer" style="display:inline-flex;gap:8px">${imgs}</a></div><br />`;
-}
-
-async function renderMtgPick(edition: string, number: string, args: MtgTagArgs): Promise<string> {
-  const imgUrl = await fetchImageByNumber(edition, number, args.language);
-  const href = scryfallPickUrl(edition, number);
-  if (args.tooltip) {
-    const display = args.alt ?? '';
-    return `<a class="scryfall-card" href="${href}" target="_blank" rel="noopener noreferrer" ${imgUrl ? `data-card-image="${imgUrl}"` : ''} data-edition="${edition}" data-number="${number}">${display}</a>`;
-  }
-  if (!imgUrl)
-    return `<span class="mtg-card-pick" data-edition="${edition}" data-number="${number}"></span>`;
-  return `<div style="text-align:center;margin:0.5rem 0"><a href="${href}" target="_blank" rel="noopener noreferrer"><img src="${imgUrl}" class="mtgcard rounded-lg" loading="lazy" alt="${edition} ${number}" /></a></div><br />`;
-}
-
-async function replaceTagsInText(text: string): Promise<string> {
-  const pattern = getTagPattern();
-  const parts: Array<string | Promise<string>> = [];
-  let lastIndex = 0;
-  let match: RegExpExecArray | null;
-
-  while ((match = pattern.exec(text)) !== null) {
-    if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
-    const [, tag, argsStr] = match;
-    const tokens = tokenize(argsStr);
-    if (tag === 'mtgpick') {
-      const args = parsePickArgs(tokens);
-      parts.push(renderMtgPick(args.edition ?? '', args.collectionNumber ?? '', args));
-    } else {
-      const args = parseCardArgs(tokens);
-      if (tag === 'mtglink') parts.push(renderMtgLink(args.name ?? '', args));
-      else parts.push(renderMtgCard(args.name ?? '', args));
-    }
-    lastIndex = match.index + match[0].length;
-  }
-  if (lastIndex < text.length) parts.push(text.slice(lastIndex));
-  return (await Promise.all(parts)).join('');
+function replaceTagsInText(text: string): string {
+  return text.replace(TAG_RE(), (_full, tag: string, raw: string) => {
+    const tokens = tokenize(raw);
+    if (tag === 'mtgpick') return renderPick(parsePickArgs(tokens));
+    return renderSearch(tag as 'mtglink' | 'mtgcard', parseSearchTagArgs(tokens));
+  });
 }
 
 export function remarkMtgTags() {
-  return async (tree: Root) => {
-    type PendingReplacement = {
-      parent: Parent;
-      index: number;
-      textFn: () => Promise<string>;
-    };
-    const pending: PendingReplacement[] = [];
-
-    // Collect paragraph-level solo tags
-    visit(
-      tree,
-      'paragraph',
-      (node: Paragraph, index: number | undefined, parent: Parent | undefined) => {
-        if (index === undefined || !parent) return;
-        if (node.children.length !== 1 || node.children[0].type !== 'text') return;
-        const text = (node.children[0] as Text).value.trim();
-        if (!getTagPattern().test(text)) return;
-        pending.push({ parent, index, textFn: () => replaceTagsInText(text) });
-      },
-    );
-
-    // Collect inline text tags
+  return (tree: Root) => {
     visit(tree, 'text', (node: Text, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
-      if (!getTagPattern().test(node.value)) return;
-      const value = node.value;
-      pending.push({ parent, index, textFn: () => replaceTagsInText(value) });
+      if (!TAG_RE().test(node.value)) return;
+      parent.children[index] = { type: 'html', value: replaceTagsInText(node.value) };
     });
-
-    // Resolve all async replacements sequentially
-    for (const { parent, index, textFn } of pending) {
-      parent.children[index] = { type: 'html', value: await textFn() };
-    }
   };
 }

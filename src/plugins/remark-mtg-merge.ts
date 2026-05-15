@@ -4,7 +4,8 @@ import { createHash } from 'crypto';
 import { existsSync, mkdirSync } from 'fs';
 import { join } from 'path';
 import sharp from 'sharp';
-import { fetchImageByName } from './scryfall-build-fetch';
+import { lookupCard } from './mtg-card-cache';
+import { cacheKey } from './mtg-tag-shared';
 
 export interface MtgMergeOptions {
   base?: string;
@@ -29,14 +30,14 @@ function ensureOutputDir() {
   if (!existsSync(OUTPUT_DIR)) mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
-function hashNames(names: string[]): string {
+export function hashNames(names: string[]): string {
   return createHash('md5')
     .update([...names].sort().join('|').toLowerCase())
     .digest('hex')
     .slice(0, 12);
 }
 
-function parseNames(raw: string): string[] | null {
+export function parseNames(raw: string): string[] | null {
   const normalized = raw.replace(CURLY_DOUBLE, '"').replace(CURLY_SINGLE, "'");
   try {
     const parsed = JSON.parse(normalized);
@@ -47,6 +48,27 @@ function parseNames(raw: string): string[] | null {
     // not valid JSON array
   }
   return null;
+}
+
+// Map each requested name to its image URL via the shared cache; null if the
+// card is missing from cache or has no face image. Extracted for unit testing.
+export function resolveCardUrls(names: string[]): (string | null)[] {
+  return names.map((n) => {
+    const r = lookupCard(cacheKey('search', { name: n, edition: '', language: 'en' }));
+    return r.type === 'Ok' ? (r.value.card_faces[0]?.image ?? null) : null;
+  });
+}
+
+// Surface partial-miss state: a multi-card mtgmerge that loses one name would
+// otherwise stitch silently. Full-miss is handled by the caller's no-images
+// warning so this stays silent in that case to avoid duplicate noise.
+export function warnOnPartialMiss(names: string[], urls: (string | null)[]): void {
+  const missing = names.filter((_, i) => urls[i] === null);
+  if (missing.length === 0 || missing.length === names.length) return;
+  const stitched = names.length - missing.length;
+  console.warn(
+    `[mtgmerge] missing ${missing.length}/${names.length} cards: ${missing.join(', ')}; stitching ${stitched}`,
+  );
 }
 
 async function fetchBuffer(url: string): Promise<Buffer | null> {
@@ -73,7 +95,8 @@ async function buildMergeImage(names: string[]): Promise<string | null> {
 
   console.log(`[mtgmerge] stitching  — ${names.join(', ')}`);
 
-  const urls = await Promise.all(names.map((n) => fetchImageByName(n, '', 'en')));
+  const urls = resolveCardUrls(names);
+  warnOnPartialMiss(names, urls);
   const validUrls = urls.filter((u): u is string => u !== null);
 
   if (validUrls.length === 0) {

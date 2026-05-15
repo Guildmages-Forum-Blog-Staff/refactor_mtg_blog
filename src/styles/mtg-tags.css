@@ -1,0 +1,84 @@
+@layer components {
+  /* Scryfall card links (relocated from global.css) */
+  a.scryfall-card {
+    @apply text-primary cursor-pointer underline decoration-dotted transition-all;
+  }
+  a.scryfall-card:hover {
+    @apply decoration-solid;
+  }
+
+  /* mtglink tooltip — pinned image on hover */
+  .tooltip {
+    text-decoration: none;
+    position: relative;
+    display: inline;
+  }
+  .tooltip > span {
+    display: none;
+    color: inherit;
+  }
+  .tooltip > span img {
+    margin: 0;
+  }
+  .tooltip:hover > span {
+    display: block;
+    position: absolute;
+    top: 12px;
+    left: 32px;
+    z-index: 1000;
+    overflow: hidden;
+    padding: 8px;
+  }
+  @media (min-width: 769px) {
+    .markdown-body > table:not(.not-markdown):has(.tooltip) {
+      overflow: visible;
+    }
+  }
+
+  /* mtgcard error rendering on cache miss */
+  .mtgcard-error {
+    display: inline-block;
+    padding: 2px 8px;
+    border: 1px solid #c00;
+    background: #fff0f0;
+    color: #900;
+    border-radius: 3px;
+    font-size: 0.9em;
+  }
+  .mtgcard-error::before {
+    content: '\26A0  ';
+  }
+}
+
+@layer utilities {
+  /* MTG card images — fixed width matching original blog (relocated) */
+  img.mtgcard {
+    display: inline-block !important;
+    max-width: 300px !important;
+    width: auto;
+    height: auto;
+    margin: 0 !important;
+  }
+
+  /* mtgcard rotated frame for split / planar layouts */
+  .mtgcard-frame--rotated {
+    display: block;
+    margin: 16px auto;
+    position: relative;
+    width: 418px;
+    aspect-ratio: 418 / 300;
+    max-width: 100%;
+    container-type: inline-size;
+  }
+  .mtgcard.mtgcard--rotated {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100cqi;
+    width: auto;
+    aspect-ratio: 300 / 418;
+    margin: 0;
+    transform: translate(-50%, -50%) rotate(90deg);
+    max-width: none !important;
+  }
+}

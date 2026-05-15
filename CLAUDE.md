@@ -54,16 +54,27 @@ Author slugs in frontmatter must match YAML filename in `src/content/authors/`.
 | `remark-notel`     | `{% notel [color] Title %}...{% endnotel %}` | colored note box            |
 | `remark-base-path` | (internal) prepends base URL to image paths  | —                           |
 
-**Critical:** Astro's `remark-smartypants` converts `"` → curly quotes before plugins run. `remark-mtg-tags` normalizes via `CURLY_DOUBLE`/`CURLY_SINGLE` constants using `String.fromCharCode` — never replace with literal curly chars.  
-`getTagPattern()` is a factory (not module-level `/g` regex) to avoid stale `lastIndex`.
+**Critical:** Astro's `remark-smartypants` converts `"` → curly quotes before plugins run. Plugins must normalize via constants declared with `String.fromCharCode` (e.g. `OPEN_DOUBLE`, `CLOSE_DOUBLE` in `mtg-tag-shared.ts`) — never replace with literal curly chars.  
+Per-file `TAG_RE` is a factory (not a module-level `/g` regex) to avoid stale `lastIndex`.
+
+## MTG Card Cache
+
+The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from a prebuilt JSON cache, not via runtime Scryfall calls.
+
+- `scripts/build-card-cache.ts` — prebuild script. Scans `src/content/posts/**/*.{md,mdx}` for tag references, batches Scryfall queries (75/req), retries with `// ` spacing then DFC front-face then `flavor_name` on misses, and writes `.cache/cards.json` atomically (tmp + rename) under a PID lockfile. Schema-versioned; bumping `CACHE_SCHEMA` triggers a full refetch.
+- `npm run predev` / `npm run prebuild` — auto-run the script before `dev`/`build`. `npm run cache:update` and `cache:refresh` run it manually (`--refresh` clears `not_found` entries).
+- `src/plugins/mtg-card-cache.ts` — synchronous runtime reader. Loads `.cache/cards.json` lazily on first lookup, returns typed `LookupResult` (`{ type: 'Ok', value: Card }` or `{ type: 'Err', error: 'missing' | 'not_found' }`, Rust-style).
+- `src/plugins/mtg-tag-shared.ts` — **single source of truth** for parser/tokenizer/cache-key logic. Imported by both `remark-mtg-tags.ts` and the prebuild script so key derivation cannot drift.
+- **Render-time misses** produce `<span class="mtgcard-error">找不到卡片「...」</span>`; the hint differs by error (`not_found` vs `missing`).
+- `.cache/cards.json` is **gitignored**; CI persists it via `actions/cache`.
 
 ## Dark Mode
 
 `darkMode: 'class'`. Persisted in `localStorage('theme')`. Inline script in `BaseLayout.astro` `<head>` applies class before paint; re-applied on `astro:after-swap`.
 
-## Colors (`tailwind.config.ts`)
+## Colors (`src/styles/global.css`)
 
-`primary`, `background`, `foreground`, `dark-bg`, `dark-fg`. Keep `--color-primary` in `global.css` in sync with Tailwind config.
+Tailwind v4 CSS-first config — no `tailwind.config.{js,ts}`. Theme tokens live in the `@theme { ... }` block at the top of `global.css`: `primary`, `background`, `foreground`, `dark-bg`, `dark-fg`. The `:root` block below re-exports `--color-bg` / `--color-fg` aliases for non-Tailwind consumers (Waline etc.) — keep both in sync when changing a colour.
 
 ## Vue Components
 
