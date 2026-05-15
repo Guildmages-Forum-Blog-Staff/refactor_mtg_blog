@@ -111,6 +111,17 @@ const CURLY_SINGLE_RE = new RegExp(
 );
 
 // ---------- post scanning ----------
+
+// mtgmerge entries reach this script as bare JSON names — the surrounding
+// `[edition, language, alt, tooltip]` slots don't exist in that syntax, so we
+// fill them with the same defaults `parseSearchTagArgs` would emit for a single
+// positional token. Centralised here so adding a `SearchArgs` field forces an
+// update at a single site rather than drifting between this script and the
+// runtime parser.
+function defaultSearchArgs(name: string): SearchArgs {
+  return { name, edition: '', language: 'en', alt: null, tooltip: false };
+}
+
 async function listPostFiles(): Promise<string[]> {
   const out: string[] = [];
   async function walk(dir: string): Promise<void> {
@@ -185,13 +196,7 @@ export function scanTextForRefs(text: string, rel: string, refs: Map<string, Pos
     if (!Array.isArray(names)) continue;
     for (const name of names) {
       if (typeof name !== 'string') continue;
-      const args: SearchArgs = {
-        name: name.trim(),
-        edition: '',
-        language: 'en',
-        alt: null,
-        tooltip: false,
-      };
+      const args = defaultSearchArgs(name.trim());
       if (!args.name) continue;
       const key = cacheKey('search', args);
       const source = `${rel}:${lineNo}`;
