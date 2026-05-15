@@ -74,6 +74,10 @@ let RATE_LIMIT_MS = 500;
 /**
  * Test-only: redirect filesystem paths and rate-limit. Pass an empty object
  * (or omit fields) to revert to production defaults.
+ *
+ * Separate from `__setCardDataForTests` in `src/plugins/mtg-card-cache.ts`,
+ * which seeds the runtime reader's in-memory cache. This hook only affects
+ * the prebuild script's filesystem and Scryfall throttling.
  */
 export function __setPathsForTests(
   opts: { postsDir?: string; cacheDir?: string; rateLimitMs?: number } = {},
