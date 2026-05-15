@@ -34,7 +34,7 @@
 | `npm run test`          | Vitest (once)                                              |
 | `npm run test:watch`    | Vitest watch mode                                          |
 | `npm run test:coverage` | Vitest + V8 coverage                                       |
-| `npm run cache:update`  | Pre-fetch Scryfall card images into `.scryfall-cache.json` |
+| `npm run cache:update`  | Refresh `.cache/cards.json` from Scryfall (auto-runs via `predev` / `prebuild`) |
 
 ---
 
@@ -108,21 +108,15 @@ Card image by collector number.
 {% mtgpick neo 141 language=ja %}
 ```
 
-### Scryfall Image Cache
+### Scryfall card cache
 
-Card images are pre-fetched at build time from Scryfall API and stored in `.scryfall-cache.json`.
+Card metadata is prebuilt from the Scryfall API into `.cache/cards.json` by `scripts/build-card-cache.ts`, which runs automatically via `predev` / `prebuild`. The cache file is gitignored; CI persists it across builds via `actions/cache`.
 
-Run after adding new cards to posts:
-
-```bash
-npm run cache:update
-```
-
-Double-faced cards (DFCs) store both face images as pipe-separated URLs. Hover tooltips display all faces side by side.
+Each entry stores `name`, `scryfall_uri`, `layout`, `card_faces[]` (each face has its own `image` URL), and an optional `oracle_id`. Split / planar / DFC layouts populate multiple `card_faces` entries; the renderer picks the front face and adds rotation styling where appropriate.
 
 ### `{% mtgmerge ["Card1", "Card2"] %}`
 
-Stitch 2–4 card images side by side into a single `.webp` image at build time. Cards must be in `.scryfall-cache.json`.
+Stitch 2–4 card images side by side into a single `.webp` image at build time. Cards must be in `.cache/cards.json`.
 
 ```
 {% mtgmerge ["Lightning Bolt", "Ragavan, Nimble Pilferer"] %}
@@ -172,7 +166,7 @@ Toggled via `.dark` class on `<html>`. Persisted in `localStorage('theme')`. App
 
 ## Development Notes
 
-- **Astro content cache:** `.astro/data-store.json` caches rendered markdown HTML. Delete it when remark plugins change to force re-processing.
+- **Astro content cache:** `.astro/data-store.json` caches rendered markdown HTML. The prebuild script invalidates it automatically whenever `.cache/cards.json` is regenerated, so manual deletion is rarely needed.
 - **Base path:** `/refactor_mtg_blog/` — all internal links and image paths must include this prefix.
 - **Curly quotes:** Astro's `remark-smartypants` converts straight quotes to curly quotes before custom plugins run. MTG tag plugins normalize via `CURLY_DOUBLE`/`CURLY_SINGLE` constants using `String.fromCharCode` — never replace with literal curly chars.
 - **Vue components:** Use `client:load` for interactive components. `client:only="vue"` for Waline comments.
