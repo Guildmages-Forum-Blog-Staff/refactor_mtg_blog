@@ -137,7 +137,7 @@ describe('cacheKey', () => {
 });
 
 describe('htmlEscape', () => {
-  it("escapes &<>\"'", () => {
+  it('escapes &<>"\'', () => {
     expect(htmlEscape(`a&b<c>d"e'f`)).toBe('a&amp;b&lt;c&gt;d&quot;e&#39;f');
   });
 });
@@ -179,7 +179,7 @@ describe('tokenize', () => {
     expect(tokenize("'Black Lotus'")).toEqual(["'Black", "Lotus'"]);
   });
 
-  it("single-quote wrapping with backslash space yields one token with literal apostrophes", () => {
+  it('single-quote wrapping with backslash space yields one token with literal apostrophes', () => {
     expect(tokenize("'Black\\ Lotus'")).toEqual(["'Black Lotus'"]);
   });
 
@@ -188,17 +188,17 @@ describe('tokenize', () => {
   // tokenizer would treat each `""` as an open-then-close, dropping the user's
   // intent to embed a literal `"`. We restore the intent: `""` adjacent is one
   // quote-toggle plus one literal `"`, with direction depending on inQuote.
-  it("treats adjacent `\"\"` at start of input as open-quote plus literal `\"`", () => {
+  it('treats adjacent `""` at start of input as open-quote plus literal `"`', () => {
     // Cluster A reproducer: smartypants output of `"\"Ach! Hans, Run!\""`.
     expect(tokenize('""Ach! Hans, Run!""')).toEqual(['"Ach! Hans, Run!"']);
   });
 
-  it("treats adjacent `\"\"` mid-token as literal `\"` then quote-toggle", () => {
+  it('treats adjacent `""` mid-token as literal `"` then quote-toggle', () => {
     // Inside a quoted token, `""` should emit the literal then close.
     expect(tokenize('"foo""')).toEqual(['foo"']);
   });
 
-  it("preserves literal `\"` from adjacent `\"\"` inside a quoted span with whitespace", () => {
+  it('preserves literal `"` from adjacent `""` inside a quoted span with whitespace', () => {
     // The whole `He said ""Hi""` sits inside an outer quoted span, so the
     // inner spaces must NOT split tokens.
     expect(tokenize('"He said ""Hi"" today"')).toEqual(['He said "Hi" today']);
