@@ -32,3 +32,19 @@ for pairing in mtgmerge tests; it is not an edge case.
 - Card layout changes on Scryfall (rare; e.g. errata) — refetch and update fixture
 - `Card` shape extended in `mtg-card-cache.ts` — regenerate fixture
 - New edge-case card added to memory — add a new entry, append a row above
+
+## How to refresh
+
+There is no automated drift check — the trigger is a test failure here, or a
+manual review when shipping a `Card` shape change. To refresh by hand:
+
+1. Look up the Source query above for the affected row.
+2. Fetch the card: `curl 'https://api.scryfall.com/cards/<set>/<collector>' > /tmp/card.json`.
+3. Transpose into the cache shape used by `mtg-card-cache.ts`: `{ name, scryfall_uri, layout, card_faces: [{ image }], oracle_id? }` — `image` comes from `image_uris.large` for single-face cards or each entry's `image_uris.large` for DFC/split.
+4. Replace the matching entry in `edge-card-names.cache.json` and bump the `Captured-at:` date above.
+5. Re-run `npx vitest run src/plugins/__tests__/edge-card-names.test.ts`.
+
+If many rows drift at once (e.g. Scryfall renames the layout taxonomy), it is
+usually cheaper to regenerate the whole fixture from a fresh `.cache/cards.json`
+produced by `npm run cache:refresh` for a minimal seed post that references all
+edge cases, then copy the relevant `found` entries here.
