@@ -78,7 +78,7 @@ export type LookupResult =
 
 export function lookupCard(key: string): LookupResult {
   const c = load();
-  if (c.found[key]) return { ok: true, card: c.found[key] };
-  if (c.not_found[key]) return { ok: false, reason: 'not_found' };
+  if (key in c.found) return { ok: true, card: c.found[key] };
+  if (key in c.not_found) return { ok: false, reason: 'not_found' };
   return { ok: false, reason: 'missing' };
 }
