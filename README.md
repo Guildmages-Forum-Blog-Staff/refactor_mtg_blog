@@ -21,21 +21,21 @@
 
 ## Commands
 
-| Command                 | Description                                                |
-| ----------------------- | ---------------------------------------------------------- |
-| `npm run dev`           | Dev server at `localhost:4321`                             |
-| `npm run build`         | Production build + Pagefind index                          |
-| `npm run preview`       | Serve `dist/` locally                                      |
-| `npm run check`         | Astro type-check                                           |
-| `npm run lint`          | ESLint                                                     |
-| `npm run lint:fix`      | ESLint auto-fix                                            |
-| `npm run format`        | Prettier rewrite                                           |
-| `npm run format:check`  | Prettier check (CI)                                        |
-| `npm run test`          | Vitest (once)                                              |
-| `npm run test:watch`    | Vitest watch mode                                          |
-| `npm run test:coverage` | Vitest + V8 coverage                                       |
+| Command                 | Description                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| `npm run dev`           | Dev server at `localhost:4321`                                                  |
+| `npm run build`         | Production build + Pagefind index                                               |
+| `npm run preview`       | Serve `dist/` locally                                                           |
+| `npm run check`         | Astro type-check                                                                |
+| `npm run lint`          | ESLint                                                                          |
+| `npm run lint:fix`      | ESLint auto-fix                                                                 |
+| `npm run format`        | Prettier rewrite                                                                |
+| `npm run format:check`  | Prettier check (CI)                                                             |
+| `npm run test`          | Vitest (once)                                                                   |
+| `npm run test:watch`    | Vitest watch mode                                                               |
+| `npm run test:coverage` | Vitest + V8 coverage                                                            |
 | `npm run cache:update`  | Refresh `.cache/cards.json` from Scryfall (auto-runs via `predev` / `prebuild`) |
-| `npm run cache:refresh` | Same as `cache:update` but also clears `not_found` entries before re-fetching |
+| `npm run cache:refresh` | Same as `cache:update` but also clears `not_found` entries before re-fetching   |
 
 ---
 

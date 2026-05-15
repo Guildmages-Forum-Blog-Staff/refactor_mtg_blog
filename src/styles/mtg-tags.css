@@ -1,7 +1,7 @@
 @layer components {
   /* Scryfall card links (relocated from global.css) */
   a.scryfall-card {
-    @apply cursor-pointer text-primary underline decoration-dotted transition-all;
+    @apply text-primary cursor-pointer underline decoration-dotted transition-all;
   }
   a.scryfall-card:hover {
     @apply decoration-solid;
@@ -46,7 +46,7 @@
     font-size: 0.9em;
   }
   .mtgcard-error::before {
-    content: "\26A0  ";
+    content: '\26A0  ';
   }
 }
 
