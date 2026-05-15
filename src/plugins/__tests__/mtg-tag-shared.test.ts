@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi, afterEach } from 'vitest';
 import {
   parseSearchTagArgs,
   parsePickArgs,
@@ -73,6 +73,40 @@ describe('parseSearchTagArgs', () => {
   it('trims ideographic space (U+3000)', () => {
     const r = parseSearchTagArgs(['　Black Lotus　']);
     expect(r.name).toBe('Black Lotus');
+  });
+});
+
+describe('applyKv whitelist', () => {
+  // Unknown KV keys used to overwrite positional / typed fields directly:
+  // `{% mtgcard "Black Lotus" name=Foo %}` would clobber `args.name`. Restrict
+  // KV writes to {alt, tooltip, language} and warn on anything else.
+  const warnSpy = vi.spyOn(console, 'warn').mockImplementation(() => {});
+  afterEach(() => warnSpy.mockClear());
+
+  it('does not let `name=` overwrite the positional name in search args', () => {
+    const r = parseSearchTagArgs(['Black Lotus', 'name=Foo']);
+    expect(r.name).toBe('Black Lotus');
+    expect(warnSpy).toHaveBeenCalledWith(expect.stringContaining('name=Foo'));
+  });
+
+  it('does not let `edition=` overwrite the positional edition in pick args', () => {
+    const r = parsePickArgs(['lea', '230', 'edition=foo']);
+    expect(r.edition).toBe('lea');
+    expect(warnSpy).toHaveBeenCalledWith(expect.stringContaining('edition=foo'));
+  });
+
+  it('does not let `collectionNumber=` overwrite the positional collection number in pick args', () => {
+    const r = parsePickArgs(['lea', '230', 'collectionNumber=999']);
+    expect(r.collectionNumber).toBe('230');
+    expect(warnSpy).toHaveBeenCalledWith(expect.stringContaining('collectionNumber=999'));
+  });
+
+  it('still accepts whitelisted alt/tooltip/language', () => {
+    const r = parseSearchTagArgs(['X', 'alt=A', 'tooltip=true', 'language=ja']);
+    expect(r.alt).toBe('A');
+    expect(r.tooltip).toBe(true);
+    expect(r.language).toBe('ja');
+    expect(warnSpy).not.toHaveBeenCalled();
   });
 });
 

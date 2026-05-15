@@ -105,13 +105,36 @@ export function normalizeForRetry(name: string): string {
   return name.replace(/\s*\/\/\s*/g, ' // ');
 }
 
-function applyKv(args: Record<string, unknown>, entry: string): void {
+// Whitelisted KV keys. Anything outside this set is rejected with a warning so
+// a malformed tag (e.g. `name=Foo`) cannot silently overwrite a positional or
+// typed field. alt/tooltip/language are the only fields ever set via KV in real
+// posts; positional fields stay positional-only.
+const KV_KEYS = ['alt', 'tooltip', 'language'] as const;
+type KvKey = (typeof KV_KEYS)[number];
+const ALLOWED_KV: ReadonlySet<string> = new Set<string>(KV_KEYS);
+
+function applyKv(args: SearchArgs | PickArgs, entry: string): void {
   const eq = entry.indexOf('=');
   if (eq <= 0) return;
   const key = entry.slice(0, eq);
   const raw = entry.slice(eq + 1);
-  const lower = raw.toLowerCase();
-  args[key] = lower === 'true' ? true : lower === 'false' ? false : raw;
+  if (!ALLOWED_KV.has(key)) {
+    console.warn(`[mtg-tags] ignoring unknown key=value: ${entry}`);
+    return;
+  }
+  switch (key as KvKey) {
+    case 'alt':
+      args.alt = raw;
+      return;
+    case 'tooltip': {
+      const lower = raw.toLowerCase();
+      args.tooltip = lower === 'true';
+      return;
+    }
+    case 'language':
+      args.language = raw;
+      return;
+  }
 }
 
 export function parseSearchTagArgs(tokens: string[]): SearchArgs {
@@ -133,7 +156,7 @@ export function parseSearchTagArgs(tokens: string[]): SearchArgs {
       args.edition = entry.toLowerCase();
       return;
     }
-    applyKv(args as unknown as Record<string, unknown>, entry);
+    applyKv(args, entry);
   });
   return args;
 }
@@ -157,7 +180,7 @@ export function parsePickArgs(tokens: string[]): PickArgs {
       args.collectionNumber = entry;
       return;
     }
-    applyKv(args as unknown as Record<string, unknown>, entry);
+    applyKv(args, entry);
   });
   return args;
 }
