@@ -30,6 +30,10 @@ let warnedMissing = false;
 /**
  * Test-only: inject cache data directly into the in-memory store, bypassing
  * disk I/O. Pass nothing (or empty fields) to reset to an empty cache.
+ *
+ * Separate from `__setPathsForTests` in `scripts/build-card-cache.ts`, which
+ * redirects the prebuild script's filesystem inputs/outputs. This hook only
+ * affects the runtime reader's in-memory cache.
  */
 export function __setCardDataForTests(
   data: {
