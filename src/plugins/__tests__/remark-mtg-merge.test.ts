@@ -1,4 +1,4 @@
-import { describe, it, expect, beforeEach } from 'vitest';
+import { describe, it, expect, beforeEach, vi, afterEach } from 'vitest';
 import { remark } from 'remark';
 import remarkStringify from 'remark-stringify';
 import {
@@ -6,6 +6,7 @@ import {
   parseNames,
   hashNames,
   resolveCardUrls,
+  warnOnPartialMiss,
 } from '../remark-mtg-merge';
 import { __setCardDataForTests, type Card } from '../mtg-card-cache';
 
@@ -118,6 +119,31 @@ describe('resolveCardUrls', () => {
       found: { 'search|A||en': card(null) },
     });
     expect(resolveCardUrls(['A'])).toEqual([null]);
+  });
+});
+
+describe('warnOnPartialMiss', () => {
+  // Without this surface, a 4-card mtgmerge silently produces a 3-card composite
+  // when one name fails to resolve. We surface the missing names so author /
+  // CI logs can catch the drift.
+  const warnSpy = vi.spyOn(console, 'warn').mockImplementation(() => {});
+  afterEach(() => warnSpy.mockClear());
+
+  it('warns and lists the missing names when only some entries are null', () => {
+    warnOnPartialMiss(['A', 'B', 'C'], ['https://a', null, 'https://c']);
+    expect(warnSpy).toHaveBeenCalledTimes(1);
+    expect(warnSpy).toHaveBeenCalledWith(expect.stringContaining('B'));
+    expect(warnSpy).toHaveBeenCalledWith(expect.stringContaining('1/3'));
+  });
+
+  it('is silent when all entries resolved', () => {
+    warnOnPartialMiss(['A', 'B'], ['https://a', 'https://b']);
+    expect(warnSpy).not.toHaveBeenCalled();
+  });
+
+  it('is silent when zero entries resolved (caller emits the no-images warning)', () => {
+    warnOnPartialMiss(['A', 'B'], [null, null]);
+    expect(warnSpy).not.toHaveBeenCalled();
   });
 });
 

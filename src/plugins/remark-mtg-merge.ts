@@ -59,6 +59,18 @@ export function resolveCardUrls(names: string[]): (string | null)[] {
   });
 }
 
+// Surface partial-miss state: a multi-card mtgmerge that loses one name would
+// otherwise stitch silently. Full-miss is handled by the caller's no-images
+// warning so this stays silent in that case to avoid duplicate noise.
+export function warnOnPartialMiss(names: string[], urls: (string | null)[]): void {
+  const missing = names.filter((_, i) => urls[i] === null);
+  if (missing.length === 0 || missing.length === names.length) return;
+  const stitched = names.length - missing.length;
+  console.warn(
+    `[mtgmerge] missing ${missing.length}/${names.length} cards: ${missing.join(', ')}; stitching ${stitched}`,
+  );
+}
+
 async function fetchBuffer(url: string): Promise<Buffer | null> {
   try {
     const res = await fetch(url);
@@ -83,7 +95,9 @@ async function buildMergeImage(names: string[]): Promise<string | null> {
 
   console.log(`[mtgmerge] stitching  — ${names.join(', ')}`);
 
-  const validUrls = resolveCardUrls(names).filter((u): u is string => u !== null);
+  const urls = resolveCardUrls(names);
+  warnOnPartialMiss(names, urls);
+  const validUrls = urls.filter((u): u is string => u !== null);
 
   if (validUrls.length === 0) {
     console.warn(`[mtgmerge] no images found for: ${names.join(', ')}`);
