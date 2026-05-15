@@ -22,14 +22,16 @@ jobs:
 
       # Restore Scryfall card cache so prebuild only fetches deltas instead of
       # all ~3800 cards from scratch each run. Primary key changes whenever any
-      # post does; restore-keys grabs the most recent cache for warm starts on
-      # cache-miss. actions/cache@v5 auto-saves at end of job iff primary key
-      # was missed (i.e. posts changed since last successful build).
+      # post or the prebuild script does; restore-keys grabs the most recent
+      # cache for warm starts on cache-miss. actions/cache@v5 auto-saves at end
+      # of job iff primary key was missed (i.e. posts or the script changed
+      # since last successful build). Hashing the script captures CACHE_SCHEMA
+      # bumps and retry-logic changes so we don't silently reuse stale shapes.
       - name: Restore Scryfall cache
         uses: actions/cache@v5
         with:
           path: .cache/cards.json
-          key: scryfall-cache-${{ hashFiles('src/content/posts/**') }}
+          key: scryfall-cache-${{ hashFiles('src/content/posts/**', 'scripts/build-card-cache.ts') }}
           restore-keys: |
             scryfall-cache-
 
