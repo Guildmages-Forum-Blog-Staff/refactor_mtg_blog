@@ -11,6 +11,8 @@ import {
 } from './mtg-tag-shared';
 import { lookupCard, type Card } from './mtg-card-cache';
 
+// Factory, not a module-level constant: the `g` flag carries `lastIndex` state
+// across calls, so a shared instance would skip matches when reused.
 const TAG_RE = () => /\{%\s*(mtgcard|mtglink|mtgpick)\s+([\s\S]*?)\s*%\}/g;
 
 // U+2019 appears as a typographic apostrophe in card names when authors type
