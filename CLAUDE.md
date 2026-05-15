@@ -72,9 +72,9 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 
 `darkMode: 'class'`. Persisted in `localStorage('theme')`. Inline script in `BaseLayout.astro` `<head>` applies class before paint; re-applied on `astro:after-swap`.
 
-## Colors (`tailwind.config.ts`)
+## Colors (`src/styles/global.css`)
 
-`primary`, `background`, `foreground`, `dark-bg`, `dark-fg`. Keep `--color-primary` in `global.css` in sync with Tailwind config.
+Tailwind v4 CSS-first config — no `tailwind.config.{js,ts}`. Theme tokens live in the `@theme { ... }` block at the top of `global.css`: `primary`, `background`, `foreground`, `dark-bg`, `dark-fg`. The `:root` block below re-exports `--color-bg` / `--color-fg` aliases for non-Tailwind consumers (Waline etc.) — keep both in sync when changing a colour.
 
 ## Vue Components
 
