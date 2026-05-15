@@ -35,6 +35,7 @@
 | `npm run test:watch`    | Vitest watch mode                                          |
 | `npm run test:coverage` | Vitest + V8 coverage                                       |
 | `npm run cache:update`  | Refresh `.cache/cards.json` from Scryfall (auto-runs via `predev` / `prebuild`) |
+| `npm run cache:refresh` | Same as `cache:update` but also clears `not_found` entries before re-fetching |
 
 ---
 
@@ -114,6 +115,8 @@ Card metadata is prebuilt from the Scryfall API into `.cache/cards.json` by `scr
 
 Each entry stores `name`, `scryfall_uri`, `layout`, `card_faces[]` (each face has its own `image` URL), and an optional `oracle_id`. Split / planar / DFC layouts populate multiple `card_faces` entries; the renderer picks the front face and adds rotation styling where appropriate.
 
+When a tag references a card that is not in the cache, the renderer emits `<span class="mtgcard-error">找不到卡片「Name」</span>` instead of failing the build, so authors can spot typos at preview time.
+
 ### `{% mtgmerge ["Card1", "Card2"] %}`
 
 Stitch 2–4 card images side by side into a single `.webp` image at build time. Cards must be in `.cache/cards.json`.
@@ -168,7 +171,7 @@ Toggled via `.dark` class on `<html>`. Persisted in `localStorage('theme')`. App
 
 - **Astro content cache:** `.astro/data-store.json` caches rendered markdown HTML. The prebuild script invalidates it automatically whenever `.cache/cards.json` is regenerated, so manual deletion is rarely needed.
 - **Base path:** `/refactor_mtg_blog/` — all internal links and image paths must include this prefix.
-- **Curly quotes:** Astro's `remark-smartypants` converts straight quotes to curly quotes before custom plugins run. MTG tag plugins normalize via `CURLY_DOUBLE`/`CURLY_SINGLE` constants using `String.fromCharCode` — never replace with literal curly chars.
+- **Curly quotes:** Astro's `remark-smartypants` converts straight quotes to curly quotes before custom plugins run. MTG plugins and the prebuild script normalize via constants built with `String.fromCharCode(0x201c)` / `0x201d` / `0x2018` / `0x2019` — never replace with literal curly chars (some editors silently convert them back to ASCII).
 - **Vue components:** Use `client:load` for interactive components. `client:only="vue"` for Waline comments.
 
 ---
