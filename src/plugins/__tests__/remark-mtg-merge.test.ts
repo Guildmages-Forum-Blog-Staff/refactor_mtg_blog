@@ -90,10 +90,7 @@ describe('resolveCardUrls', () => {
         'search|B||en': card('https://img/b.jpg', { name: 'B' }),
       },
     });
-    expect(resolveCardUrls(['A', 'B'])).toEqual([
-      'https://img/a.jpg',
-      'https://img/b.jpg',
-    ]);
+    expect(resolveCardUrls(['A', 'B'])).toEqual(['https://img/a.jpg', 'https://img/b.jpg']);
   });
 
   it('returns null entries for cache misses (preserves positional order)', () => {
