@@ -67,7 +67,7 @@ let LOCK_FILE = path.join(CACHE_DIR, 'cards.lock');
 export const CACHE_SCHEMA = '20260512-faces';
 const TODAY = new Date().toISOString().slice(0, 10);
 
-const SCRYFALL_BASE = "https://api.scryfall.com";
+const SCRYFALL_BASE = 'https://api.scryfall.com';
 const COLLECTION_BATCH_SIZE = 75;
 let RATE_LIMIT_MS = 500;
 
@@ -86,7 +86,7 @@ export function __setPathsForTests(
   RATE_LIMIT_MS = opts.rateLimitMs ?? 500;
 }
 
-const REFRESH = process.argv.includes("--refresh");
+const REFRESH = process.argv.includes('--refresh');
 
 // Module-level regex with 'g' flag; reset lastIndex at the top of each file
 // scan rather than constructing a new RegExp per iteration.
@@ -98,12 +98,12 @@ const TAG_RE = /\{%\s*(mtgcard|mtglink|mtgpick)\s+([\s\S]*?)\s*%\}/g;
 // silently corrupted by some editors back into the ASCII variants, making the
 // replace a no-op.
 const CURLY_DOUBLE_RE = new RegExp(
-  "[" + String.fromCharCode(0x201c) + String.fromCharCode(0x201d) + "]",
-  "g",
+  '[' + String.fromCharCode(0x201c) + String.fromCharCode(0x201d) + ']',
+  'g',
 );
 const CURLY_SINGLE_RE = new RegExp(
-  "[" + String.fromCharCode(0x2018) + String.fromCharCode(0x2019) + "]",
-  "g",
+  '[' + String.fromCharCode(0x2018) + String.fromCharCode(0x2019) + ']',
+  'g',
 );
 
 // ---------- post scanning ----------
@@ -131,11 +131,11 @@ export function scanTextForRefs(text: string, rel: string, refs: Map<string, Pos
   let m;
   while ((m = TAG_RE.exec(text)) !== null) {
     // Derive 1-indexed line number from the match offset.
-    const lineNo = text.slice(0, m.index).split("\n").length;
+    const lineNo = text.slice(0, m.index).split('\n').length;
 
     const tagName = m[1];
     const tokens = tokenize(m[2]);
-    const isPick = tagName === "mtgpick";
+    const isPick = tagName === 'mtgpick';
     let ref: PostRef;
     if (isPick) {
       const args = parsePickArgs(tokens);
@@ -173,15 +173,21 @@ export function scanTextForRefs(text: string, rel: string, refs: Map<string, Pos
     const lineNo = text.slice(0, mm.index).split('\n').length;
     let names: unknown;
     try {
-      const normalized = mm[1]
-        .replace(CURLY_DOUBLE_RE, '"')
-        .replace(CURLY_SINGLE_RE, "'");
+      const normalized = mm[1].replace(CURLY_DOUBLE_RE, '"').replace(CURLY_SINGLE_RE, "'");
       names = JSON.parse(normalized);
-    } catch { continue; }
+    } catch {
+      continue;
+    }
     if (!Array.isArray(names)) continue;
     for (const name of names) {
       if (typeof name !== 'string') continue;
-      const args: SearchArgs = { name: name.trim(), edition: '', language: 'en', alt: null, tooltip: false };
+      const args: SearchArgs = {
+        name: name.trim(),
+        edition: '',
+        language: 'en',
+        alt: null,
+        tooltip: false,
+      };
       if (!args.name) continue;
       const key = cacheKey('search', args);
       const source = `${rel}:${lineNo}`;
@@ -200,7 +206,7 @@ async function scanPosts(): Promise<Map<string, PostRef>> {
   const refs = new Map<string, PostRef>();
   const files = await listPostFiles();
   for (const file of files) {
-    const text = await fsp.readFile(file, "utf8");
+    const text = await fsp.readFile(file, 'utf8');
     const rel = path.relative(REPO_ROOT, file);
     scanTextForRefs(text, rel, refs);
   }
@@ -214,18 +220,22 @@ function emptyCache(): CacheShape {
 
 function loadCache(): CacheShape {
   try {
-    const raw = fs.readFileSync(CACHE_FILE, "utf8");
+    const raw = fs.readFileSync(CACHE_FILE, 'utf8');
     const parsed = JSON.parse(raw) as CacheShape;
     if (parsed.schema !== CACHE_SCHEMA) {
-      console.log(`[build-card-cache] schema ${parsed.schema || "(none)"} → ${CACHE_SCHEMA}; clearing cache.`);
+      console.log(
+        `[build-card-cache] schema ${parsed.schema || '(none)'} → ${CACHE_SCHEMA}; clearing cache.`,
+      );
       return emptyCache();
     }
     if (!parsed.found) parsed.found = {};
     if (!parsed.not_found) parsed.not_found = {};
     return parsed;
   } catch (err) {
-    if ((err as NodeJS.ErrnoException).code !== "ENOENT") {
-      console.warn(`[build-card-cache] cache unreadable (${(err as Error).message}); starting from empty.`);
+    if ((err as NodeJS.ErrnoException).code !== 'ENOENT') {
+      console.warn(
+        `[build-card-cache] cache unreadable (${(err as Error).message}); starting from empty.`,
+      );
     }
     return emptyCache();
   }
@@ -235,15 +245,15 @@ function loadCache(): CacheShape {
 export function acquireLock(): boolean {
   fs.mkdirSync(CACHE_DIR, { recursive: true });
   try {
-    fs.writeFileSync(LOCK_FILE, String(process.pid), { flag: "wx" });
+    fs.writeFileSync(LOCK_FILE, String(process.pid), { flag: 'wx' });
     return true;
   } catch (err) {
-    if ((err as NodeJS.ErrnoException).code !== "EEXIST") throw err;
+    if ((err as NodeJS.ErrnoException).code !== 'EEXIST') throw err;
 
     // Lockfile exists — probe whether the recorded PID is still alive.
     let stalePid: number;
     try {
-      const body = fs.readFileSync(LOCK_FILE, "utf8").trim();
+      const body = fs.readFileSync(LOCK_FILE, 'utf8').trim();
       stalePid = body ? parseInt(body, 10) : NaN;
     } catch {
       stalePid = NaN;
@@ -251,13 +261,17 @@ export function acquireLock(): boolean {
 
     if (!Number.isFinite(stalePid)) {
       // Non-numeric or empty lockfile body — treat as stale.
-      try { fs.unlinkSync(LOCK_FILE); } catch {}
-      console.warn("[build-card-cache] removing stale lock (unreadable PID)");
       try {
-        fs.writeFileSync(LOCK_FILE, String(process.pid), { flag: "wx" });
+        fs.unlinkSync(LOCK_FILE);
+      } catch {}
+      console.warn('[build-card-cache] removing stale lock (unreadable PID)');
+      try {
+        fs.writeFileSync(LOCK_FILE, String(process.pid), { flag: 'wx' });
         return true;
       } catch {
-        console.warn(`[build-card-cache] lock acquire failed; if no other build is running, remove ${LOCK_FILE} manually.`);
+        console.warn(
+          `[build-card-cache] lock acquire failed; if no other build is running, remove ${LOCK_FILE} manually.`,
+        );
         return false;
       }
     }
@@ -265,22 +279,30 @@ export function acquireLock(): boolean {
     try {
       process.kill(stalePid, 0);
       // Signal succeeded → process is alive (or EPERM, caught below).
-      console.warn(`[build-card-cache] another instance (PID ${stalePid}) holds the lock; skipping write.`);
+      console.warn(
+        `[build-card-cache] another instance (PID ${stalePid}) holds the lock; skipping write.`,
+      );
       return false;
     } catch (killErr) {
-      if ((killErr as NodeJS.ErrnoException).code === "EPERM") {
+      if ((killErr as NodeJS.ErrnoException).code === 'EPERM') {
         // Process exists but owned by another user — treat as alive.
-        console.warn(`[build-card-cache] another instance (PID ${stalePid}) holds the lock; skipping write.`);
+        console.warn(
+          `[build-card-cache] another instance (PID ${stalePid}) holds the lock; skipping write.`,
+        );
         return false;
       }
       // ESRCH: process dead — stale lock.
-      try { fs.unlinkSync(LOCK_FILE); } catch {}
+      try {
+        fs.unlinkSync(LOCK_FILE);
+      } catch {}
       console.warn(`[build-card-cache] removing stale lock from PID ${stalePid}`);
       try {
-        fs.writeFileSync(LOCK_FILE, String(process.pid), { flag: "wx" });
+        fs.writeFileSync(LOCK_FILE, String(process.pid), { flag: 'wx' });
         return true;
       } catch {
-        console.warn(`[build-card-cache] lock acquire failed; if no other build is running, remove ${LOCK_FILE} manually.`);
+        console.warn(
+          `[build-card-cache] lock acquire failed; if no other build is running, remove ${LOCK_FILE} manually.`,
+        );
         return false;
       }
     }
@@ -288,7 +310,9 @@ export function acquireLock(): boolean {
 }
 
 export function releaseLock(): void {
-  try { fs.unlinkSync(LOCK_FILE); } catch {}
+  try {
+    fs.unlinkSync(LOCK_FILE);
+  } catch {}
 }
 
 export function writeCache(cache: CacheShape): void {
@@ -315,21 +339,25 @@ function sleep(ms: number): Promise<void> {
 // normalizeFaces collapses these into a single card_faces: [{image}, ...]
 // array so consumers never have to branch on layout. For split-family inputs
 // we copy the top-level image into each face slot.
-const SPLIT_FAMILY_LAYOUTS = new Set([
-  "split", "flip", "aftermath", "adventure", "prepare",
-]);
+const SPLIT_FAMILY_LAYOUTS = new Set(['split', 'flip', 'aftermath', 'adventure', 'prepare']);
 const DFC_FAMILY_LAYOUTS = new Set([
-  "transform", "modal_dfc", "double_faced_token", "reversible_card", "art_series",
+  'transform',
+  'modal_dfc',
+  'double_faced_token',
+  'reversible_card',
+  'art_series',
 ]);
 
-function isFrontUrl(u: unknown): boolean { return typeof u === "string" && u.includes("/large/front/"); }
-function isBackUrl(u: unknown): boolean  { return typeof u === "string" && u.includes("/large/back/"); }
+function isFrontUrl(u: unknown): boolean {
+  return typeof u === 'string' && u.includes('/large/front/');
+}
+function isBackUrl(u: unknown): boolean {
+  return typeof u === 'string' && u.includes('/large/back/');
+}
 
 export function normalizeFaces(c: ScryfallCard): Array<{ image: string | null }> {
   const top = c.image_uris?.large ?? null;
-  const raw = Array.isArray(c.card_faces) && c.card_faces.length > 0
-    ? c.card_faces
-    : [null];
+  const raw = Array.isArray(c.card_faces) && c.card_faces.length > 0 ? c.card_faces : [null];
   const faces = raw.map((f) => ({ image: f?.image_uris?.large ?? top }));
 
   // Front face must sit at [0]. Scryfall already orders DFC faces this way,
@@ -342,10 +370,14 @@ export function normalizeFaces(c: ScryfallCard): Array<{ image: string | null }>
   const urls = faces.map((f) => f.image);
   const allSame = urls.length > 1 && urls.every((u) => u === urls[0]);
   if (allSame && !SPLIT_FAMILY_LAYOUTS.has(c.layout)) {
-    console.warn(`[build-card-cache] WARN: duplicate face URLs on non-split layout: ${c.name} (${c.layout})`);
+    console.warn(
+      `[build-card-cache] WARN: duplicate face URLs on non-split layout: ${c.name} (${c.layout})`,
+    );
   }
   if (urls.some(isBackUrl) && !DFC_FAMILY_LAYOUTS.has(c.layout)) {
-    console.warn(`[build-card-cache] WARN: back-face URL on non-DFC layout: ${c.name} (${c.layout})`);
+    console.warn(
+      `[build-card-cache] WARN: back-face URL on non-DFC layout: ${c.name} (${c.layout})`,
+    );
   }
   return faces;
 }
@@ -354,7 +386,7 @@ export function normalizeFaces(c: ScryfallCard): Array<{ image: string | null }>
 // We render this URL into post HTML, so dropping the param keeps the rendered
 // links clean and doesn't pollute Scryfall's analytics with our blog traffic.
 function stripScryfallUri(uri: string): string {
-  return typeof uri === "string" ? uri.replace(/\?utm_source=api$/, "") : uri;
+  return typeof uri === 'string' ? uri.replace(/\?utm_source=api$/, '') : uri;
 }
 
 export function trimCardData(c: ScryfallCard): Card {
@@ -375,7 +407,7 @@ export function trimCardData(c: ScryfallCard): Card {
 
 export function buildCollectionIdentifier(ref: PostRef): Record<string, string> {
   const { kind, args } = ref;
-  if (kind === "pick") {
+  if (kind === 'pick') {
     return { set: args.edition, collector_number: args.collectionNumber };
   }
   // search kind
@@ -386,8 +418,8 @@ export function buildCollectionIdentifier(ref: PostRef): Record<string, string> 
 async function postCollection(identifiers: Record<string, string>[]): Promise<CollectionResponse> {
   // identifiers: array of {name?, set?, collector_number?}, max 75
   const res = await fetch(`${SCRYFALL_BASE}/cards/collection`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ identifiers }),
   });
   if (!res.ok) {
@@ -405,7 +437,7 @@ async function getSingleCardMultilingual(args: SearchArgs): Promise<ScryfallCard
   const url = `${SCRYFALL_BASE}/cards/search?q=${encodeURIComponent(q)}&include_multilingual=1`;
   const res = await fetch(url);
   if (!res.ok) return null;
-  const json = await res.json() as { data?: ScryfallCard[] };
+  const json = (await res.json()) as { data?: ScryfallCard[] };
   if (!json.data || json.data.length === 0) return null;
   return json.data[0];
 }
@@ -418,11 +450,11 @@ async function getSingleCardMultilingual(args: SearchArgs): Promise<ScryfallCard
 // missing/extra spaces between word stems.
 function normalizeForFuzzyMatch(s: string): string {
   return s
-    .normalize("NFD")
-    .replace(/\p{Diacritic}/gu, "")
+    .normalize('NFD')
+    .replace(/\p{Diacritic}/gu, '')
     .toLowerCase()
-    .replace(/[^a-z0-9 ]/g, "")
-    .replace(/\s+/g, " ")
+    .replace(/[^a-z0-9 ]/g, '')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
@@ -448,13 +480,11 @@ async function getSingleCardByFlavor(args: SearchArgs): Promise<ScryfallCard | n
   //      both sides match. Real typos (missing spaces, wrong words) survive
   //      this filter and stay in not_found.
   if (HEXO_DELIM_RE.test(args.name)) return null;
-  const q = args.edition
-    ? `!"${args.name}" set:${args.edition}`
-    : `!"${args.name}"`;
+  const q = args.edition ? `!"${args.name}" set:${args.edition}` : `!"${args.name}"`;
   const url = `${SCRYFALL_BASE}/cards/search?q=${encodeURIComponent(q)}`;
   const res = await fetch(url);
   if (!res.ok) return null;
-  const json = await res.json() as { data?: ScryfallCard[] };
+  const json = (await res.json()) as { data?: ScryfallCard[] };
   if (!json.data || json.data.length === 0) return null;
   const card = json.data[0];
   if (card.flavor_name && card.flavor_name === args.name) return card;
@@ -471,7 +501,10 @@ function chunk<T>(arr: T[], size: number): T[][] {
 
 // Accepts envelopes shaped { key, ref: { kind, args, … } }.
 // Returns a Map<key, trimmedCard> for successful matches.
-export function matchResultBack(envelopes: Envelope[], foundCards: ScryfallCard[]): Map<string, Card> {
+export function matchResultBack(
+  envelopes: Envelope[],
+  foundCards: ScryfallCard[],
+): Map<string, Card> {
   // Match Scryfall result to envelope entry. Scryfall echoes identifiers in
   // the not_found array verbatim; for `data` we match by name+set or
   // set+number.
@@ -479,7 +512,7 @@ export function matchResultBack(envelopes: Envelope[], foundCards: ScryfallCard[
   for (const card of foundCards) {
     for (const env of envelopes) {
       if (matched.has(env.key)) continue;
-      if (env.ref.kind === "pick") {
+      if (env.ref.kind === 'pick') {
         if (
           card.set?.toLowerCase() === env.ref.args.edition.toLowerCase() &&
           String(card.collector_number) === String(env.ref.args.collectionNumber)
@@ -493,8 +526,9 @@ export function matchResultBack(envelopes: Envelope[], foundCards: ScryfallCard[
         // only "Front" — accept startsWith match.
         const cardName = card.name.toLowerCase();
         const wantName = env.ref.args.name.toLowerCase();
-        const nameOk = cardName === wantName || cardName.startsWith(wantName + " // ");
-        const setOk = !env.ref.args.edition || card.set?.toLowerCase() === env.ref.args.edition.toLowerCase();
+        const nameOk = cardName === wantName || cardName.startsWith(wantName + ' // ');
+        const setOk =
+          !env.ref.args.edition || card.set?.toLowerCase() === env.ref.args.edition.toLowerCase();
         if (nameOk && setOk) {
           matched.set(env.key, trimCardData(card));
           break;
@@ -507,13 +541,13 @@ export function matchResultBack(envelopes: Envelope[], foundCards: ScryfallCard[
 
 // ---------- main ----------
 export async function main(): Promise<void> {
-  console.log("[build-card-cache] scanning posts...");
+  console.log('[build-card-cache] scanning posts...');
   const refs = await scanPosts();
   console.log(`[build-card-cache] found ${refs.size} unique tag references.`);
 
   const cache = loadCache();
   if (REFRESH) {
-    console.log("[build-card-cache] --refresh: clearing cache.found and cache.not_found.");
+    console.log('[build-card-cache] --refresh: clearing cache.found and cache.not_found.');
     cache.found = {};
     cache.not_found = {};
   }
@@ -533,21 +567,25 @@ export async function main(): Promise<void> {
   for (const [key, ref] of refs) {
     if (cache.found[key]) continue;
     if (cache.not_found[key]) continue;
-    if (ref.kind === "search" && HEXO_DELIM_RE.test(ref.args.name)) {
+    if (ref.kind === 'search' && HEXO_DELIM_RE.test(ref.args.name)) {
       malformed.push({ key, ref });
       continue;
     }
-    if (ref.kind === "search" && ref.args.language !== "en") {
+    if (ref.kind === 'search' && ref.args.language !== 'en') {
       multilingualMissing.push({ key, ref });
     } else {
       englishMissing.push({ key, ref });
     }
   }
 
-  console.log(`[build-card-cache] missing: ${englishMissing.length} batchable, ${multilingualMissing.length} multilingual single-fetch${malformed.length ? `, ${malformed.length} malformed (skipped)` : ""}.`);
+  console.log(
+    `[build-card-cache] missing: ${englishMissing.length} batchable, ${multilingualMissing.length} multilingual single-fetch${malformed.length ? `, ${malformed.length} malformed (skipped)` : ''}.`,
+  );
 
   if (!acquireLock()) {
-    console.warn("[build-card-cache] another instance holds the lock; will read-only and skip writes.");
+    console.warn(
+      '[build-card-cache] another instance holds the lock; will read-only and skip writes.',
+    );
     summarize(cache, refs);
     return;
   }
@@ -560,12 +598,16 @@ export async function main(): Promise<void> {
       if (batchCount > 0) await sleep(RATE_LIMIT_MS);
       batchCount++;
       const identifiers = batch.map((m) => buildCollectionIdentifier(m.ref));
-      console.log(`[build-card-cache] batch ${batchCount}/${Math.ceil(englishMissing.length / COLLECTION_BATCH_SIZE)} (${identifiers.length} identifiers)`);
+      console.log(
+        `[build-card-cache] batch ${batchCount}/${Math.ceil(englishMissing.length / COLLECTION_BATCH_SIZE)} (${identifiers.length} identifiers)`,
+      );
       let resp: CollectionResponse;
       try {
         resp = await postCollection(identifiers);
       } catch (err) {
-        console.warn(`[build-card-cache] batch failed: ${(err as Error).message}; preserving existing cache, skipping ${batch.length} entries.`);
+        console.warn(
+          `[build-card-cache] batch failed: ${(err as Error).message}; preserving existing cache, skipping ${batch.length} entries.`,
+        );
         continue;
       }
       // Pass batch directly — envelopes are already { key, ref }.
@@ -582,11 +624,11 @@ export async function main(): Promise<void> {
 
     // --- DFC retry layer 1: normalize spacing around `//` ---
     const dfcRetryCandidates = stillNotFound.filter(
-      (m) => m.ref.kind === "search" && m.ref.args.name.includes("//"),
+      (m) => m.ref.kind === 'search' && m.ref.args.name.includes('//'),
     );
     // Entries that don't qualify for either DFC retry collect here.
     const trulyNotFound = stillNotFound.filter(
-      (m) => !(m.ref.kind === "search" && m.ref.args.name.includes("//")),
+      (m) => !(m.ref.kind === 'search' && m.ref.args.name.includes('//')),
     );
 
     if (dfcRetryCandidates.length > 0) {
@@ -597,7 +639,11 @@ export async function main(): Promise<void> {
         const sref = m.ref as Extract<PostRef, { kind: 'search' }>;
         return {
           key: m.key,
-          ref: { kind: 'search' as const, args: { ...sref.args, name: normalizeForRetry(sref.args.name) }, sources: sref.sources },
+          ref: {
+            kind: 'search' as const,
+            args: { ...sref.args, name: normalizeForRetry(sref.args.name) },
+            sources: sref.sources,
+          },
         };
       });
       const identifiers = spacingRetryEnvelopes.map((env) => buildCollectionIdentifier(env.ref));
@@ -627,7 +673,7 @@ export async function main(): Promise<void> {
       // Authors who write the canonical full DFC name fail layer 1 because
       // Scryfall's collection endpoint only accepts the front face by name.
       const frontFaceCandidates = stillAfterSpacing.filter(
-        (m) => m.ref.kind === "search" && m.ref.args.name.includes("//"),
+        (m) => m.ref.kind === 'search' && m.ref.args.name.includes('//'),
       );
       if (frontFaceCandidates.length > 0) {
         await sleep(RATE_LIMIT_MS);
@@ -635,11 +681,17 @@ export async function main(): Promise<void> {
           const sref = m.ref as Extract<PostRef, { kind: 'search' }>;
           return {
             key: m.key,
-            ref: { kind: 'search' as const, args: { ...sref.args, name: sref.args.name.split("//")[0].trim() }, sources: sref.sources },
+            ref: {
+              kind: 'search' as const,
+              args: { ...sref.args, name: sref.args.name.split('//')[0].trim() },
+              sources: sref.sources,
+            },
           };
         });
         const ffIdentifiers = frontFaceEnvelopes.map((env) => buildCollectionIdentifier(env.ref));
-        console.log(`[build-card-cache] DFC front-face retry batch (${ffIdentifiers.length} identifiers)`);
+        console.log(
+          `[build-card-cache] DFC front-face retry batch (${ffIdentifiers.length} identifiers)`,
+        );
         try {
           const resp = await postCollection(ffIdentifiers);
           const matched = matchResultBack(frontFaceEnvelopes, resp.data || []);
@@ -653,7 +705,9 @@ export async function main(): Promise<void> {
             }
           }
         } catch (err) {
-          console.warn(`[build-card-cache] DFC front-face retry batch failed: ${(err as Error).message}`);
+          console.warn(
+            `[build-card-cache] DFC front-face retry batch failed: ${(err as Error).message}`,
+          );
           for (const m of frontFaceCandidates) trulyNotFound.push(m);
         }
       }
@@ -661,7 +715,7 @@ export async function main(): Promise<void> {
       // Entries from stillAfterSpacing that don't have "//" (shouldn't happen
       // given the filter above, but be safe) go straight to trulyNotFound.
       for (const m of stillAfterSpacing) {
-        if (!(m.ref.kind === "search" && m.ref.args.name.includes("//"))) {
+        if (!(m.ref.kind === 'search' && m.ref.args.name.includes('//'))) {
           trulyNotFound.push(m);
         }
       }
@@ -672,9 +726,13 @@ export async function main(): Promise<void> {
       await sleep(RATE_LIMIT_MS);
       let card: ScryfallCard | null;
       try {
-        card = await getSingleCardMultilingual((m.ref as Extract<PostRef, { kind: 'search' }>).args);
+        card = await getSingleCardMultilingual(
+          (m.ref as Extract<PostRef, { kind: 'search' }>).args,
+        );
       } catch (err) {
-        console.warn(`[build-card-cache] multilingual fetch failed for ${m.key}: ${(err as Error).message}`);
+        console.warn(
+          `[build-card-cache] multilingual fetch failed for ${m.key}: ${(err as Error).message}`,
+        );
         continue;
       }
       if (card) cache.found[m.key] = trimCardData(card);
@@ -687,9 +745,9 @@ export async function main(): Promise<void> {
     // endpoint cannot match these; the search endpoint's `!"X"` operator can.
     // Pull qualifying entries out of trulyNotFound, retry, and only re-add
     // those that still miss.
-    const flavorRetryCandidates = trulyNotFound.filter((m) => m.ref.kind === "search");
+    const flavorRetryCandidates = trulyNotFound.filter((m) => m.ref.kind === 'search');
     if (flavorRetryCandidates.length > 0) {
-      const remainsAfterFlavor = trulyNotFound.filter((m) => m.ref.kind !== "search");
+      const remainsAfterFlavor = trulyNotFound.filter((m) => m.ref.kind !== 'search');
       for (const m of flavorRetryCandidates) {
         await sleep(RATE_LIMIT_MS);
         let card: ScryfallCard | null = null;
@@ -697,11 +755,15 @@ export async function main(): Promise<void> {
           const sref = (m.ref as Extract<PostRef, { kind: 'search' }>).args;
           card = await getSingleCardByFlavor(sref);
         } catch (err) {
-          console.warn(`[build-card-cache] flavor retry failed for ${m.key}: ${(err as Error).message}`);
+          console.warn(
+            `[build-card-cache] flavor retry failed for ${m.key}: ${(err as Error).message}`,
+          );
         }
         if (card) {
           const sref = (m.ref as Extract<PostRef, { kind: 'search' }>).args;
-          console.log(`[build-card-cache] flavor retry hit: "${sref.name}" → ${card.name} (${card.set} ${card.collector_number})`);
+          console.log(
+            `[build-card-cache] flavor retry hit: "${sref.name}" → ${card.name} (${card.set} ${card.collector_number})`,
+          );
           cache.found[m.key] = trimCardData(card);
         } else {
           remainsAfterFlavor.push(m);
@@ -760,18 +822,20 @@ function summarize(cache: CacheShape, refs: Map<string, PostRef>): void {
   const total = refs.size;
   const found = [...refs.keys()].filter((k) => cache.found[k]).length;
   const notFound = [...refs.keys()].filter((k) => cache.not_found[k]).length;
-  console.log("");
-  console.log(`[build-card-cache] summary: ${found} found, ${notFound} not_found, total tag refs ${total}`);
+  console.log('');
+  console.log(
+    `[build-card-cache] summary: ${found} found, ${notFound} not_found, total tag refs ${total}`,
+  );
   if (notFound > 0) {
-    console.log("[build-card-cache] unresolved entries:");
+    console.log('[build-card-cache] unresolved entries:');
     for (const [key, ref] of refs) {
       if (cache.not_found[key]) {
         const meta = cache.not_found[key];
         let label: string;
-        if (ref.kind === "pick") {
+        if (ref.kind === 'pick') {
           label = `${ref.args.edition} #${ref.args.collectionNumber}`;
         } else {
-          label = `"${ref.args.name}"${ref.args.edition ? ` [${ref.args.edition}]` : ""}`;
+          label = `"${ref.args.name}"${ref.args.edition ? ` [${ref.args.edition}]` : ''}`;
         }
         console.log(`  ${label}`);
         for (const src of meta.sources) console.log(`    at ${src}`);
