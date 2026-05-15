@@ -97,8 +97,10 @@ Options: `edition=xxx`, `language=ja`, `tooltip=true`, `alt="Display text"`
 Card image block (centered, 220px wide, with link to Scryfall).
 
 ```
-{% mtgcard Ragavan neo %}
+{% mtgcard "Ragavan, Nimble Pilferer" neo %}
 ```
+
+Use `mtglink` if you want a hover tooltip — `tooltip=true` on `mtgcard` is deprecated.
 
 ### `{% mtgpick edition number %}`
 
