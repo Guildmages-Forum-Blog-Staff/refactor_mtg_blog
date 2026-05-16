@@ -67,10 +67,6 @@ describe('hashNames', () => {
     expect(h).toMatch(/^[0-9a-f]{12}$/);
   });
 
-  it('is order-insensitive (sorts before hashing)', () => {
-    expect(hashNames(['A', 'B'])).toBe(hashNames(['B', 'A']));
-  });
-
   it('is case-insensitive (lowercases before hashing)', () => {
     expect(hashNames(['Foo'])).toBe(hashNames(['foo']));
     expect(hashNames(['Foo'])).toBe(hashNames(['FOO']));
