@@ -20,4 +20,10 @@ describe('rehypePangu', () => {
     expect(html).toContain('中文 English');
     expect(html).toContain('English 內容');
   });
+
+  it('does not insert spaces inside fenced code blocks', () => {
+    const html = run('```\n中文English\n```');
+    expect(html).toContain('中文English');
+    expect(html).not.toContain('中文 English');
+  });
 });
