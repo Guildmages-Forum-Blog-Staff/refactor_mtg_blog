@@ -141,13 +141,11 @@ describe('rehypePangu', () => {
   });
 
   it('still spaces a CJK-bearing attribute value inside a raw node', () => {
-    // Trade-off: pangu.spacingText operates on the entire raw string and
-    // cannot distinguish attribute values from text content. The file-level
-    // scope comment in rehype-pangu.ts says attribute values are out of
-    // scope, but values that mix CJK with ASCII (e.g. <img alt>) will in
-    // fact receive a pangu pass. Pin the actual behaviour so an accidental
-    // change shows up here; if this ever needs to be tightened, the fix is
-    // either an HTML-aware raw walker or a documentation correction.
+    // applyPangu sees the whole raw string and cannot tell attribute
+    // values from text content — the rehype-pangu.ts header documents this
+    // raw-HTML caveat. Pin the resulting behaviour so an accidental change
+    // surfaces here; if this ever needs to be tightened, the fix is an
+    // HTML-aware raw walker rather than a regex tweak.
     const html = run(
       '<img class="mtg" alt="中文Card名稱" src="https://example.com/x.jpg" />',
     );

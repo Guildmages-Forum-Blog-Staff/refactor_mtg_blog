@@ -5,10 +5,22 @@
 //     raw HTML pulled from YAML straight into the DOM
 //   - Hard-coded UI strings in Astro templates (e.g. the slogan list in
 //     pages/[...page].astro)
-//   - HTML attribute values everywhere — pangu does not touch attrs
+//   - Attribute values on hast Element nodes — `properties` is never
+//     read or written; only the `value` of Text and Raw nodes is touched.
 // Those surfaces need their own spacing solution (manual spacing in YAML
 // or templates, or a separate runtime / post-process pass) — not this
 // plugin.
+//
+// Caveat for raw HTML: this project's remark plugins (remark-mtg-tags,
+// remark-mtg-merge, remark-notel) emit synthesised HTML as `raw` hast
+// nodes whose `value` is one string covering tags + attributes + text.
+// applyPangu runs over that whole string and cannot distinguish an
+// attribute value from prose, so a CJK<>ASCII boundary that happens to
+// sit inside an attribute (e.g. <img alt="中文Card">) is spaced just
+// like prose. In practice this only triggers on accessibility text
+// (alt / title / aria-label) since URL-like attributes (src / href) and
+// class lists in this project are ASCII-only; the rehype-pangu test
+// suite pins the resulting behaviour for the shapes those plugins emit.
 import { visit, SKIP } from 'unist-util-visit';
 import pangu from 'pangu';
 import type { Root, Element, Text, RootContent } from 'hast';
