@@ -82,6 +82,9 @@ export function rehypePangu() {
       if (isSkipElement(node as RootContent)) return SKIP;
       if (node.type === 'text') {
         (node as Text).value = pangu.spacingText((node as Text).value);
+      } else if (node.type === 'raw') {
+        const n = node as { value: string };
+        n.value = pangu.spacingText(n.value);
       }
     });
 
