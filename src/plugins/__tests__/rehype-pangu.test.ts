@@ -4,6 +4,7 @@ import remarkParse from 'remark-parse';
 import smartypants from 'remark-smartypants';
 import remarkRehype from 'remark-rehype';
 import rehypeStringify from 'rehype-stringify';
+import type { Root, Element, Text } from 'hast';
 import { rehypePangu } from '../rehype-pangu';
 
 const run = (md: string) =>
@@ -121,4 +122,23 @@ describe('rehypePangu', () => {
     expect(run('加上+1/-1指示物')).toContain('加上 +1/-1 指示物');
     expect(run('加上-1/+1指示物')).toContain('加上 -1/+1 指示物');
   });
+
+  // Direct hast-level skip tests cover every SKIP_TAGS member uniformly.
+  // remark-rehype emits inline raw HTML (`<kbd>x</kbd>`) as `raw` nodes
+  // rather than elements, so skip behaviour for kbd/samp/script/style can
+  // only be observed at the implementation layer; synthesise the tree
+  // directly to avoid coupling these assertions to markdown parsing quirks.
+  it.each(['pre', 'code', 'script', 'style', 'kbd', 'samp'])(
+    'skips %s element subtree at the hast level',
+    (tagName) => {
+      const text: Text = { type: 'text', value: '中文foo內容' };
+      const tree: Root = {
+        type: 'root',
+        children: [{ type: 'element', tagName, properties: {}, children: [text] } as Element],
+      };
+      rehypePangu()(tree);
+      const child = (tree.children[0] as Element).children[0] as Text;
+      expect(child.value).toBe('中文foo內容');
+    },
+  );
 });
