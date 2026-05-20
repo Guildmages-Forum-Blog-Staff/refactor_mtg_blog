@@ -65,6 +65,10 @@ function isClosingTagRaw(node: RootContent): boolean {
 function firstChar(node: RootContent): string | null {
   if (node.type === 'text') return (node as Text).value.slice(0, 1) || null;
   if (node.type === 'raw') {
+    // Greedy tag-strip on both ends. Assumes raw values from remark-rehype
+    // are well-formed HTML fragments (no `>` inside attribute values), which
+    // is the contract of the markdown→hast bridge and of the synthetic raw
+    // strings emitted by this project's remark plugins.
     const stripped = (node as { value: string }).value
       .replace(/^(<[^>]*>)+/, '')
       .replace(/(<[^>]*>)+$/, '');
@@ -82,6 +86,8 @@ function firstChar(node: RootContent): string | null {
 function lastChar(node: RootContent): string | null {
   if (node.type === 'text') return (node as Text).value.slice(-1) || null;
   if (node.type === 'raw') {
+    // Same well-formedness assumption as firstChar: tag-strip is greedy
+    // and would mis-cut a raw value that smuggled `>` inside an attribute.
     const stripped = (node as { value: string }).value
       .replace(/^(<[^>]*>)+/, '')
       .replace(/(<[^>]*>)+$/, '');
