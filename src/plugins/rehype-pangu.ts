@@ -5,6 +5,16 @@ import type { Root, Element, Text, RootContent } from 'hast';
 const SKIP_TAGS = new Set(['pre', 'code', 'script', 'style', 'kbd', 'samp']);
 const CJK = /[一-鿿㐀-䶿]/;
 const ALNUM = /[A-Za-z0-9]/;
+// Pangu reads the leading sign in patterns like -1/-1 (MTG counter notation)
+// as a binary operator after CJK and splits it from the number — e.g. it
+// turns "加上-1/-1指示物" into "加上 - 1/-1 指示物". This regex re-glues the
+// sign back to its numerator, restricted to slash-fractions whose second
+// half is also signed so we never touch genuine math like "X - 1/2".
+const SIGNED_FRACTION_FIXUP = /(\s)([+-]) (\d+\/[+-]\d+)/g;
+
+function applyPangu(input: string): string {
+  return pangu.spacingText(input).replace(SIGNED_FRACTION_FIXUP, '$1$2$3');
+}
 
 function isSkipElement(node: RootContent): boolean {
   return node.type === 'element' && SKIP_TAGS.has((node as Element).tagName);
@@ -81,10 +91,10 @@ export function rehypePangu() {
     visit(tree, (node) => {
       if (isSkipElement(node as RootContent)) return SKIP;
       if (node.type === 'text') {
-        (node as Text).value = pangu.spacingText((node as Text).value);
+        (node as Text).value = applyPangu((node as Text).value);
       } else if (node.type === 'raw') {
         const n = node as { value: string };
-        n.value = pangu.spacingText(n.value);
+        n.value = applyPangu(n.value);
       }
     });
 

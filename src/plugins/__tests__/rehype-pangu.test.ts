@@ -101,4 +101,16 @@ describe('rehypePangu', () => {
     expect(html).toContain('完');
     expect(html).not.toMatch(/ {2}/);
   });
+
+  it('preserves MTG counter notation -N/-M after CJK', () => {
+    // pangu by itself would read the leading minus sign as a binary operator
+    // after CJK and produce "加上 - 1/-1 指示物" — splitting the counter.
+    // Our plugin must keep the slash-fraction glued together.
+    expect(run('加上-1/-1指示物')).toContain('加上 -1/-1 指示物');
+    expect(run('在生物上加-1/-1指示物')).toContain('在生物上加 -1/-1 指示物');
+  });
+
+  it('preserves MTG counter notation +N/+M after CJK', () => {
+    expect(run('加+1/+1指示物')).toContain('加 +1/+1 指示物');
+  });
 });
