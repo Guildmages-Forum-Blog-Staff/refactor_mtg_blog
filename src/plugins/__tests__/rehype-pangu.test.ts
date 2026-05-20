@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { unified } from 'unified';
 import remarkParse from 'remark-parse';
+import smartypants from 'remark-smartypants';
 import remarkRehype from 'remark-rehype';
 import rehypeStringify from 'rehype-stringify';
 import { rehypePangu } from '../rehype-pangu';
@@ -19,6 +20,16 @@ const runTwice = (md: string) =>
     .use(remarkParse)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypePangu)
+    .use(rehypePangu)
+    .use(rehypeStringify, { allowDangerousHtml: true })
+    .processSync(md)
+    .toString();
+
+const runWithSmartypants = (md: string) =>
+  unified()
+    .use(remarkParse)
+    .use(smartypants)
+    .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypePangu)
     .use(rehypeStringify, { allowDangerousHtml: true })
     .processSync(md)
@@ -69,5 +80,25 @@ describe('rehypePangu', () => {
     for (const md of fixtures) {
       expect(runTwice(md)).toEqual(run(md));
     }
+  });
+
+  it('preserves smartypants curly quotes in English-only contexts', () => {
+    // Astro enables remark-smartypants automatically; this mirrors that.
+    // With ASCII word boundaries on both sides, smartypants picks open + close
+    // (U+201C, U+201D) — pangu must leave that untouched.
+    const html = runWithSmartypants('Pre "quoted text" post');
+    expect(html).toContain('“quoted text”');
+    expect(html).not.toMatch(/ {2}/);
+  });
+
+  it('coexists with smartypants when CJK is adjacent to the quoted span', () => {
+    // Smartypants's quirk: with CJK on either side it cannot read a word
+    // boundary and falls back to U+201D on both ends. Pangu must still leave
+    // the result well-formed: no double spaces, no missing CJK content.
+    const html = runWithSmartypants('他說"hello world"完');
+    expect(html).toContain('hello world');
+    expect(html).toContain('他說');
+    expect(html).toContain('完');
+    expect(html).not.toMatch(/ {2}/);
   });
 });
