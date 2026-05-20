@@ -123,6 +123,68 @@ describe('rehypePangu', () => {
     expect(run('加上-1/+1指示物')).toContain('加上 -1/+1 指示物');
   });
 
+  // The next four tests pin behaviour against raw-HTML shapes emitted by
+  // this project's own remark plugins (remark-mtg-tags, remark-mtg-merge,
+  // remark-notel). They land in the rehype tree as `raw` hast nodes and
+  // therefore go through applyPangu wholesale — so we want to confirm
+  // pangu's whole-string pass neither corrupts URLs / class lists nor
+  // misses CJK<>ASCII boundaries that genuinely live inside the raw text.
+
+  it('preserves ASCII-only attribute values across a raw inline span', () => {
+    // mtgcard-error shape: <span class="mtgcard-error">找不到卡片「name」</span>.
+    // class is pure ASCII, content mixes CJK with a CJK-bracketed ASCII name,
+    // so there is no CJK<>ASCII boundary anywhere — output must equal input
+    // modulo paragraph wrapping.
+    const html = run('<span class="mtgcard-error">找不到卡片「Lightning Bolt」</span>');
+    expect(html).toContain('class="mtgcard-error"');
+    expect(html).toContain('找不到卡片「Lightning Bolt」');
+  });
+
+  it('still spaces a CJK-bearing attribute value inside a raw node', () => {
+    // Trade-off: pangu.spacingText operates on the entire raw string and
+    // cannot distinguish attribute values from text content. The file-level
+    // scope comment in rehype-pangu.ts says attribute values are out of
+    // scope, but values that mix CJK with ASCII (e.g. <img alt>) will in
+    // fact receive a pangu pass. Pin the actual behaviour so an accidental
+    // change shows up here; if this ever needs to be tightened, the fix is
+    // either an HTML-aware raw walker or a documentation correction.
+    const html = run(
+      '<img class="mtg" alt="中文Card名稱" src="https://example.com/x.jpg" />',
+    );
+    expect(html).toContain('alt="中文 Card 名稱"');
+    expect(html).toContain('src="https://example.com/x.jpg"');
+    expect(html).toContain('class="mtg"');
+  });
+
+  it('handles nested raw HTML (mtgcard tooltip pattern) without touching URLs', () => {
+    // The mtgcard tooltip emits <a class="tooltip" href="..."><display>
+    // <span><oracle></span></a>. Pangu must space inner CJK<>ASCII
+    // boundaries but leave the href URL intact end-to-end.
+    const html = run(
+      '前<a class="tooltip" href="https://example.com/path">中文Display<span>中文Inner</span></a>後',
+    );
+    expect(html).toContain('href="https://example.com/path"');
+    expect(html).toContain('中文 Display');
+    expect(html).toContain('中文 Inner');
+    expect(html).not.toMatch(/https?:\/\/ /);
+    expect(html).not.toMatch(/example\. com/);
+  });
+
+  it('handles notel-style multi-segment raw HTML', () => {
+    // remark-notel emits an opening raw fragment that already carries the
+    // title and body wrappers, and a separate closing fragment. The
+    // structural class lists must survive intact while CJK<>ASCII content
+    // inside the title and body is spaced.
+    const html = run(
+      '<div class="notel notel-info"><div class="notel-title">中文Title</div><div class="notel-body">內文foo結尾</div></div>',
+    );
+    expect(html).toContain('class="notel notel-info"');
+    expect(html).toContain('class="notel-title"');
+    expect(html).toContain('class="notel-body"');
+    expect(html).toContain('中文 Title');
+    expect(html).toContain('內文 foo 結尾');
+  });
+
   // Direct hast-level skip tests cover every SKIP_TAGS member uniformly.
   // remark-rehype emits inline raw HTML (`<kbd>x</kbd>`) as `raw` nodes
   // rather than elements, so skip behaviour for kbd/samp/script/style can
