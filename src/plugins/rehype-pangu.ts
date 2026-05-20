@@ -1,3 +1,14 @@
+// Scope: this plugin runs inside the Astro markdown / MDX pipeline only.
+// Anything rendered outside that pipeline never reaches us:
+//   - Author intro strings injected via `v-html` (ArticleAuthorFooter.vue)
+//     or `set:html` (about.astro, authors/[username]/[...page].astro) —
+//     raw HTML pulled from YAML straight into the DOM
+//   - Hard-coded UI strings in Astro templates (e.g. the slogan list in
+//     pages/[...page].astro)
+//   - HTML attribute values everywhere — pangu does not touch attrs
+// Those surfaces need their own spacing solution (manual spacing in YAML
+// or templates, or a separate runtime / post-process pass) — not this
+// plugin.
 import { visit, SKIP } from 'unist-util-visit';
 import pangu from 'pangu';
 import type { Root, Element, Text, RootContent } from 'hast';
