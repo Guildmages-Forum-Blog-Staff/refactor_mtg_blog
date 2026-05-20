@@ -116,7 +116,7 @@ describe('rehypePangu', () => {
   });
 
   it('preserves MTG counter notation across mixed signs after CJK', () => {
-    // The SIGNED_FRACTION_FIXUP regex requires both halves to carry a sign,
+    // The MTG_SIGNED_FRACTION_FIXUP regex requires both halves to carry a sign,
     // not just matching signs. Lock in the cross-sign cases so a future
     // narrowing of the regex (e.g. restricting to same-sign pairs) is caught.
     expect(run('加上+1/-1指示物')).toContain('加上 +1/-1 指示物');

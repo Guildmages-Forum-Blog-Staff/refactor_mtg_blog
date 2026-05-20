@@ -33,10 +33,10 @@ const ALNUM = /[A-Za-z0-9]/;
 // turns "加上-1/-1指示物" into "加上 - 1/-1 指示物". This regex re-glues the
 // sign back to its numerator, restricted to slash-fractions whose second
 // half is also signed so we never touch genuine math like "X - 1/2".
-const SIGNED_FRACTION_FIXUP = /(\s)([+-]) (\d+\/[+-]\d+)/g;
+const MTG_SIGNED_FRACTION_FIXUP = /(\s)([+-]) (\d+\/[+-]\d+)/g;
 
 function applyPangu(input: string): string {
-  return pangu.spacingText(input).replace(SIGNED_FRACTION_FIXUP, '$1$2$3');
+  return pangu.spacingText(input).replace(MTG_SIGNED_FRACTION_FIXUP, '$1$2$3');
 }
 
 function isSkipElement(node: RootContent): boolean {
