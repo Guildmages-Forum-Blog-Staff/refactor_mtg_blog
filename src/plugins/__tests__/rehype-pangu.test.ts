@@ -26,4 +26,10 @@ describe('rehypePangu', () => {
     expect(html).toContain('中文English');
     expect(html).not.toContain('中文 English');
   });
+
+  it('inserts space at the boundary between CJK text and an adjacent inline code element', () => {
+    const html = run('中文`code`表示');
+    expect(html).toContain('中文 <code>');
+    expect(html).toContain('</code> 表示');
+  });
 });
