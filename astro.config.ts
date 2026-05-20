@@ -10,6 +10,7 @@ import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 import { remarkMtgMerge } from './src/plugins/remark-mtg-merge';
 import { remarkBasePath } from './src/plugins/remark-base-path';
 import { remarkNotel } from './src/plugins/remark-notel';
+import { rehypePangu } from './src/plugins/rehype-pangu';
 import remarkBreaks from 'remark-breaks';
 
 export default defineConfig({
@@ -57,6 +58,7 @@ export const search = async () => ({ results: [] });`;
       [remarkMtgMerge, { base: '/refactor_mtg_blog/' }],
       remarkNotel,
     ],
+    rehypePlugins: [rehypePangu],
     shikiConfig: {
       theme: 'github-dark',
     },
