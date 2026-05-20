@@ -10,8 +10,33 @@ function isSkipElement(node: RootContent): boolean {
   return node.type === 'element' && SKIP_TAGS.has((node as Element).tagName);
 }
 
+function rawValue(node: RootContent): string | null {
+  return node.type === 'raw' ? (node as { value: string }).value : null;
+}
+
+function isTagOnlyRaw(node: RootContent): boolean {
+  const v = rawValue(node);
+  return v !== null && /^(<[^>]*>)+$/.test(v.trim());
+}
+
+function isOpeningTagRaw(node: RootContent): boolean {
+  const v = rawValue(node);
+  return v !== null && /^<(?!\/)/.test(v.trim());
+}
+
+function isClosingTagRaw(node: RootContent): boolean {
+  const v = rawValue(node);
+  return v !== null && /^<\//.test(v.trim());
+}
+
 function firstChar(node: RootContent): string | null {
   if (node.type === 'text') return (node as Text).value.slice(0, 1) || null;
+  if (node.type === 'raw') {
+    const stripped = (node as { value: string }).value
+      .replace(/^(<[^>]*>)+/, '')
+      .replace(/(<[^>]*>)+$/, '');
+    return stripped.slice(0, 1) || null;
+  }
   if (node.type === 'element') {
     for (const child of (node as Element).children) {
       const c = firstChar(child);
@@ -23,6 +48,12 @@ function firstChar(node: RootContent): string | null {
 
 function lastChar(node: RootContent): string | null {
   if (node.type === 'text') return (node as Text).value.slice(-1) || null;
+  if (node.type === 'raw') {
+    const stripped = (node as { value: string }).value
+      .replace(/^(<[^>]*>)+/, '')
+      .replace(/(<[^>]*>)+$/, '');
+    return stripped.slice(-1) || null;
+  }
   if (node.type === 'element') {
     const children = (node as Element).children;
     for (let i = children.length - 1; i >= 0; i--) {
@@ -37,6 +68,14 @@ function needsSpace(a: string, b: string): boolean {
   return (CJK.test(a) && ALNUM.test(b)) || (ALNUM.test(a) && CJK.test(b));
 }
 
+function appendSpace(node: Text): void {
+  if (!/\s$/.test(node.value)) node.value += ' ';
+}
+
+function prependSpace(node: Text): void {
+  if (!/^\s/.test(node.value)) node.value = ' ' + node.value;
+}
+
 export function rehypePangu() {
   return (tree: Root) => {
     visit(tree, (node) => {
@@ -49,21 +88,37 @@ export function rehypePangu() {
     visit(tree, 'element', (el: Element) => {
       if (isSkipElement(el)) return SKIP;
       const ch = el.children;
-      for (let i = 0; i < ch.length - 1; i++) {
+      for (let i = 0; i < ch.length; i++) {
         const cur = ch[i];
-        const nxt = ch[i + 1];
-        if (cur.type === 'text' && nxt.type === 'element') {
-          const a = (cur as Text).value.slice(-1);
-          const b = firstChar(nxt);
-          if (a && b && needsSpace(a, b) && !/\s/.test(a)) {
-            (cur as Text).value += ' ';
-          }
-        } else if (cur.type === 'element' && nxt.type === 'text') {
-          const a = lastChar(cur);
-          const b = (nxt as Text).value.slice(0, 1);
-          if (a && b && needsSpace(a, b) && !/\s/.test(b)) {
-            (nxt as Text).value = ' ' + (nxt as Text).value;
-          }
+        const a = lastChar(cur);
+        if (!a) continue;
+
+        let openings = 0;
+        let closings = 0;
+        let nxtIdx = i + 1;
+        while (nxtIdx < ch.length && isTagOnlyRaw(ch[nxtIdx])) {
+          if (isOpeningTagRaw(ch[nxtIdx])) openings++;
+          else if (isClosingTagRaw(ch[nxtIdx])) closings++;
+          nxtIdx++;
+        }
+        if (nxtIdx >= ch.length) continue;
+
+        const nxt = ch[nxtIdx];
+        const b = firstChar(nxt);
+        if (!b || !needsSpace(a, b)) continue;
+
+        const sideForOpenings = openings > 0 && closings === 0;
+        const sideForClosings = closings > 0 && openings === 0;
+
+        if (sideForOpenings) {
+          if (cur.type === 'text') appendSpace(cur as Text);
+          else if (nxt.type === 'text') prependSpace(nxt as Text);
+        } else if (sideForClosings) {
+          if (nxt.type === 'text') prependSpace(nxt as Text);
+          else if (cur.type === 'text') appendSpace(cur as Text);
+        } else {
+          if (cur.type === 'text') appendSpace(cur as Text);
+          else if (nxt.type === 'text') prependSpace(nxt as Text);
         }
       }
     });

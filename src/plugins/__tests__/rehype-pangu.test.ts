@@ -32,4 +32,10 @@ describe('rehypePangu', () => {
     expect(html).toContain('中文 <code>');
     expect(html).toContain('</code> 表示');
   });
+
+  it('inserts space at the boundary between CJK text and an adjacent raw HTML node', () => {
+    const html = run('中文<span>foo</span>結尾');
+    expect(html).toContain('中文 <span>');
+    expect(html).toContain('</span> 結尾');
+  });
 });
