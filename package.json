@@ -28,6 +28,7 @@
     "astro": "^6.0.0",
     "js-yaml": "^4.1.1",
     "node-ical": "^0.26.1",
+    "pangu": "^7.2.1",
     "remark-breaks": "^4.0.0",
     "tailwindcss": "^4.0.0",
     "unist-util-visit": "^5.1.0",
