@@ -1,26 +1,3 @@
-// Scope: this plugin runs inside the Astro markdown / MDX pipeline only.
-// Anything rendered outside that pipeline never reaches us:
-//   - Author intro strings injected via `v-html` (ArticleAuthorFooter.vue)
-//     or `set:html` (about.astro, authors/[username]/[...page].astro) —
-//     raw HTML pulled from YAML straight into the DOM
-//   - Hard-coded UI strings in Astro templates (e.g. the slogan list in
-//     pages/[...page].astro)
-//   - Attribute values on hast Element nodes — `properties` is never
-//     read or written; only the `value` of Text and Raw nodes is touched.
-// Those surfaces need their own spacing solution (manual spacing in YAML
-// or templates, or a separate runtime / post-process pass) — not this
-// plugin.
-//
-// Caveat for raw HTML: this project's remark plugins (remark-mtg-tags,
-// remark-mtg-merge, remark-notel) emit synthesised HTML as `raw` hast
-// nodes whose `value` is one string covering tags + attributes + text.
-// applyPangu runs over that whole string and cannot distinguish an
-// attribute value from prose, so a CJK<>ASCII boundary that happens to
-// sit inside an attribute (e.g. <img alt="中文Card">) is spaced just
-// like prose. In practice this only triggers on accessibility text
-// (alt / title / aria-label) since URL-like attributes (src / href) and
-// class lists in this project are ASCII-only; the rehype-pangu test
-// suite pins the resulting behaviour for the shapes those plugins emit.
 import { visit, SKIP } from 'unist-util-visit';
 import pangu from 'pangu';
 import type { Root, Element, Text, RootContent } from 'hast';
@@ -115,6 +92,36 @@ function prependSpace(node: Text): void {
   if (!/^\s/.test(node.value)) node.value = ' ' + node.value;
 }
 
+/**
+ * Rehype plugin that inserts a single ASCII space at every CJK<>ASCII
+ * alphanumeric boundary inside the Astro markdown / MDX pipeline. Wraps
+ * pangu.spacingText with two extras: a SKIP_TAGS guard for code-like
+ * subtrees and a second sibling pass that bridges boundaries spanning
+ * an inline element edge.
+ *
+ * Scope — anything rendered outside the markdown / MDX pipeline never
+ * reaches this plugin:
+ *  - Author intro strings injected via `v-html` (ArticleAuthorFooter.vue)
+ *    or `set:html` (about.astro, authors/[username]/[...page].astro) —
+ *    raw HTML pulled from YAML straight into the DOM.
+ *  - Hard-coded UI strings in Astro templates (e.g. the slogan list in
+ *    pages/[...page].astro).
+ *  - Attribute values on hast Element nodes — `properties` is never
+ *    read or written; only the `value` of Text and Raw nodes is touched.
+ * Those surfaces need their own spacing solution (manual spacing in
+ * YAML or templates, or a separate runtime / post-process pass).
+ *
+ * Caveat for raw HTML — this project's remark plugins (remark-mtg-tags,
+ * remark-mtg-merge, remark-notel) emit synthesised HTML as `raw` hast
+ * nodes whose `value` is one string covering tags + attributes + text.
+ * applyPangu runs over that whole string and cannot distinguish an
+ * attribute value from prose, so a CJK<>ASCII boundary that happens to
+ * sit inside an attribute (e.g. `<img alt="中文Card">`) is spaced just
+ * like prose. In practice this only triggers on accessibility text
+ * (alt / title / aria-label) since URL-like attributes (src / href) and
+ * class lists in this project are ASCII-only; the rehype-pangu test
+ * suite pins the resulting behaviour for the shapes those plugins emit.
+ */
 export function rehypePangu() {
   return (tree: Root) => {
     visit(tree, (node) => {
