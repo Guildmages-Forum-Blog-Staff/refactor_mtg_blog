@@ -39,6 +39,15 @@ jobs:
         uses: withastro/action@v6
         with:
           node-version: '22'
+          # Astro's Content Layer cache (node_modules/.astro/data-store.json)
+          # invalidates only when the astro.config object's serialised digest
+          # changes — function bodies (i.e. remark/rehype plugin internals)
+          # are not part of that digest, so editing a plugin without touching
+          # astro.config.ts silently reuses stale pre-rendered HTML across
+          # CI runs (restore-keys fallback inside withastro/action will hit
+          # the previous build's cache). Forcing a fresh render every CI run
+          # costs ~10-15s but guarantees plugin changes actually ship.
+          cache: 'false'
 
   deploy:
     needs: build
