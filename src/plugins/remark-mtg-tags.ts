@@ -48,17 +48,17 @@ function renderImage(card: Card, alt: string): string {
   const img = frontImage(card);
   if (!img) return `<a href="${htmlEscape(card.scryfall_uri)}">${htmlEscape(card.name)}</a>`;
   if (isRotated(card)) {
-    return `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" /></span>`;
+    return `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated rounded-lg" loading="lazy" decoding="async" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" /></span>`;
   }
-  return `<img class="mtgcard w-full rounded-lg" loading="lazy" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" />`;
+  return `<img class="mtgcard w-full rounded-lg" loading="lazy" decoding="async" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" />`;
 }
 
 function renderTooltip(card: Card, display: string): string {
   const img = frontImage(card);
   const inner = img
     ? isRotated(card)
-      ? `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated" src="${htmlEscape(img)}" /></span>`
-      : `<img class="mtgcard" src="${htmlEscape(img)}" />`
+      ? `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated" loading="lazy" decoding="async" src="${htmlEscape(img)}" /></span>`
+      : `<img class="mtgcard" loading="lazy" decoding="async" src="${htmlEscape(img)}" />`
     : '';
   return `<a class="tooltip" href="${htmlEscape(card.scryfall_uri)}">${htmlEscape(display)}<span>${inner}</span></a>`;
 }

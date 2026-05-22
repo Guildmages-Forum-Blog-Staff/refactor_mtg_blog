@@ -185,7 +185,7 @@ export function remarkMtgMerge(options: MtgMergeOptions = {}) {
       const src = `${base}/generated/${filename}`;
       const imgNode = {
         type: 'html',
-        value: `<img src="${src}" alt="${names.join(' + ')}" class="mtg-merge-card rounded-lg" loading="lazy" />`,
+        value: `<img src="${src}" alt="${names.join(' + ')}" class="mtg-merge-card rounded-lg" loading="lazy" decoding="async" />`,
       };
       (parent.children as unknown[]).splice(index, 1, imgNode);
     }
