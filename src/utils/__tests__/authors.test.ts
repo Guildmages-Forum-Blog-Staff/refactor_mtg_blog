@@ -178,3 +178,52 @@ describe('.yml id normalization', () => {
     expect(authors[1].id).toBe('JerobaMTG');
   });
 });
+
+describe('intro spacing', () => {
+  // Author intros land on the page via v-html / set:html (the author footer
+  // and the about page), which bypasses the markdown / MDX pipeline and
+  // therefore rehype-pangu. Apply pangu.spacingText at load time so the
+  // YAML strings get the same CJK<>ASCII spacing treatment as post bodies.
+  const mockWithMixedIntro = [
+    {
+      id: 'PanguAuthor',
+      data: {
+        username: 'PanguAuthor',
+        name: 'Pangu Tester',
+        avatar: '/images/x.jpg',
+        intro: ['畢業於MIT', '常駐於Taipei市', 'already spaced line'],
+      },
+    },
+  ];
+
+  beforeEach(() => {
+    vi.mocked(getCollection).mockResolvedValue(mockWithMixedIntro as never);
+  });
+
+  it('getAllAuthors spaces CJK<>ASCII boundaries in intro lines', async () => {
+    const authors = await getAllAuthors();
+    expect(authors[0].intro).toEqual([
+      '畢業於 MIT',
+      '常駐於 Taipei 市',
+      'already spaced line',
+    ]);
+  });
+
+  it('getAuthorById spaces CJK<>ASCII boundaries in intro lines', async () => {
+    const author = await getAuthorById('PanguAuthor');
+    expect(author?.intro).toEqual([
+      '畢業於 MIT',
+      '常駐於 Taipei 市',
+      'already spaced line',
+    ]);
+  });
+
+  it('getPostAuthors spaces CJK<>ASCII boundaries in intro lines', async () => {
+    const authors = await getPostAuthors(['PanguAuthor']);
+    expect(authors[0].intro).toEqual([
+      '畢業於 MIT',
+      '常駐於 Taipei 市',
+      'already spaced line',
+    ]);
+  });
+});

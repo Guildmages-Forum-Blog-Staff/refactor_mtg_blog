@@ -39,6 +39,25 @@ jobs:
         uses: withastro/action@v6
         with:
           node-version: '22'
+          # Disable withastro/action's Astro cache (`node_modules/.astro/`,
+          # the cache-dir input): Content Layer data-store, optimized
+          # images, and other build artefacts. The action's cache key is
+          # derived from a digest of the astro.config object, which
+          # collapses function bodies (i.e. remark/rehype plugin
+          # internals) to opaque [Function] tokens — so editing a plugin
+          # without touching astro.config.ts leaves the digest stable and
+          # the action's restore-keys fallback would reuse the previous
+          # build's pre-rendered HTML, shipping output that does not
+          # reflect the plugin change. Turning the cache off forces a
+          # cold render every CI run; the trade-off is one extra markdown
+          # + asset pipeline pass per build, which on a site this size is
+          # acceptable for correctness.
+          #
+          # Out of scope: setup-node's package-manager cache (independent
+          # of `cache:` here, used for installing node_modules) and the
+          # workflow-level Scryfall .cache/cards.json restore above —
+          # both remain active.
+          cache: 'false'
 
   deploy:
     needs: build
