@@ -3,7 +3,10 @@ import pangu from 'pangu';
 import type { Root, Element, Text, RootContent } from 'hast';
 
 const SKIP_TAGS = new Set(['pre', 'code', 'script', 'style', 'kbd', 'samp']);
-const CJK = /[一-鿿㐀-䶿]/;
+// Sibling-boundary pass only needs Han ideographs — pangu's full CJK range
+// is handled per-text-node by applyPangu. Naming it HAN avoids implying
+// broader coverage (Hiragana, Katakana, Hangul) that this regex lacks.
+const HAN = /[一-鿿㐀-䶿]/;
 const ALNUM = /[A-Za-z0-9]/;
 // Pangu reads the leading sign in patterns like -1/-1 (MTG counter notation)
 // as a binary operator after CJK and splits it from the number — e.g. it
@@ -46,7 +49,12 @@ function spaceChildren(nodes: RootContent[]): void {
       if (!isSkipElement(node)) spaceChildren((node as Element).children as RootContent[]);
     } else if (node.type === 'raw') {
       if (isSkipRaw(node)) {
-        depth++;
+        // Only track depth for tag-only raw nodes (e.g. <kbd> split from its
+        // text by remark-rehype). A self-contained block like <script>…</script>
+        // as a single raw value must not increment depth — it has no matching
+        // sibling close node and would leak, treating all later siblings as
+        // inside-skip and suppressing their spacing.
+        if (isTagOnlyRaw(node)) depth++;
       } else if (isSkipRawClose(node)) {
         if (depth > 0) depth--;
       } else if (depth === 0) {
@@ -119,7 +127,7 @@ function lastChar(node: RootContent): string | null {
 }
 
 function needsSpace(a: string, b: string): boolean {
-  return (CJK.test(a) && ALNUM.test(b)) || (ALNUM.test(a) && CJK.test(b));
+  return (HAN.test(a) && ALNUM.test(b)) || (ALNUM.test(a) && HAN.test(b));
 }
 
 function appendSpace(node: Text): void {

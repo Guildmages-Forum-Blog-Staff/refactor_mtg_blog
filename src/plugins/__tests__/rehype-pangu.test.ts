@@ -146,9 +146,7 @@ describe('rehypePangu', () => {
     // raw-HTML caveat. Pin the resulting behaviour so an accidental change
     // surfaces here; if this ever needs to be tightened, the fix is an
     // HTML-aware raw walker rather than a regex tweak.
-    const html = run(
-      '<img class="mtg" alt="中文Card名稱" src="https://example.com/x.jpg" />',
-    );
+    const html = run('<img class="mtg" alt="中文Card名稱" src="https://example.com/x.jpg" />');
     expect(html).toContain('alt="中文 Card 名稱"');
     expect(html).toContain('src="https://example.com/x.jpg"');
     expect(html).toContain('class="mtg"');
@@ -181,6 +179,14 @@ describe('rehypePangu', () => {
     expect(html).toContain('class="notel-body"');
     expect(html).toContain('中文 Title');
     expect(html).toContain('內文 foo 結尾');
+  });
+
+  it('does not suppress spacing on siblings following a self-contained block skip tag', () => {
+    // A block-level <script>…</script> lands as ONE raw node; spaceChildren
+    // must not increment skip depth for it (no matching close sibling exists).
+    // Verify that text after the block is still spaced normally.
+    const html = run('<script>中文code</script>\n\n後續中文English段落');
+    expect(html).toContain('中文 English');
   });
 
   // Inline raw HTML skip: remark-rehype emits `<kbd>x</kbd>` as a raw hast
