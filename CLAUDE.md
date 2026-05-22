@@ -28,14 +28,16 @@ npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts  # single plugin te
 
 ## Stack
 
-**Astro 5 + Vue 3 + Tailwind CSS** static blog. Vue only for interactive components (`client:load`).
+**Astro 6 + Vue 3 + Tailwind CSS** static blog. Vue only for interactive components (`client:load`).
+
+`astro.config.ts` sets `legacy.collectionsBackwardsCompat: true` — `src/content/config.ts` still uses the v5-era `defineCollection({ type: 'content' | 'data' })` shape rather than the v6 loader API. Keep both in mind when touching collection schemas.
 
 ## Content Collections (`src/content/`)
 
-- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `tags`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`
+- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `tags`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`
 - `authors/` — YAML. Schema: `username`, `name`, `avatar`, `url?`, `intro[]`
 
-Author slugs in frontmatter must match YAML filename in `src/content/authors/`.
+Author slugs in frontmatter must match YAML filename in `src/content/authors/`. Author loaders in `src/utils/authors.ts` run each `intro[]` line through `pangu.spacingText` at load time so YAML intros get the same CJK↔ASCII spacing as post bodies (which go through `rehype-pangu`).
 
 ## Routing
 
@@ -43,19 +45,24 @@ Author slugs in frontmatter must match YAML filename in `src/content/authors/`.
 - `[...page].astro` — paginated home
 - `categories/[cat]/[...page].astro` — paginated category pages
 
-## Remark Plugins (`src/plugins/`)
+## Markdown Plugins (`src/plugins/`)
 
-| Plugin             | Syntax                                       | Output                      |
-| ------------------ | -------------------------------------------- | --------------------------- |
-| `remark-scryfall`  | image links to `cards.scryfall.io`           | `<a class="scryfall-card">` |
-| `remark-youtube`   | `{% youtube ID %}`                           | `<iframe>`                  |
-| `remark-mtg-tags`  | `{% mtglink/mtgcard/mtgpick ... %}`          | card links/images           |
-| `remark-mtg-merge` | `{% mtgmerge ["Card1", "Card2"] %}`          | stitched multi-card image   |
-| `remark-notel`     | `{% notel [color] Title %}...{% endnotel %}` | colored note box            |
-| `remark-base-path` | (internal) prepends base URL to image paths  | —                           |
+Wired up in `astro.config.ts` under `markdown.remarkPlugins` / `markdown.rehypePlugins`.
+
+| Plugin             | Stage  | Syntax                                       | Output                                  |
+| ------------------ | ------ | -------------------------------------------- | --------------------------------------- |
+| `remark-scryfall`  | remark | image links to `cards.scryfall.io`           | `<a class="scryfall-card">`             |
+| `remark-youtube`   | remark | `{% youtube ID %}`                           | `<iframe>`                              |
+| `remark-mtg-tags`  | remark | `{% mtglink/mtgcard/mtgpick ... %}`          | card links/images                       |
+| `remark-mtg-merge` | remark | `{% mtgmerge ["Card1", "Card2"] %}`          | stitched multi-card image               |
+| `remark-notel`     | remark | `{% notel [color] Title %}...{% endnotel %}` | colored note box                        |
+| `remark-base-path` | remark | (internal) prepends base URL to image paths  | —                                       |
+| `rehype-pangu`     | rehype | (internal) CJK↔ASCII text spacing            | text nodes spaced via `pangu` + fixups  |
 
 **Critical:** Astro's `remark-smartypants` converts `"` → curly quotes before plugins run. Plugins must normalize via constants declared with `String.fromCharCode` (e.g. `OPEN_DOUBLE`, `CLOSE_DOUBLE` in `mtg-tag-shared.ts`) — never replace with literal curly chars.  
 Per-file `TAG_RE` is a factory (not a module-level `/g` regex) to avoid stale `lastIndex`.
+
+**`rehype-pangu` scope:** Skips `pre/code/script/style/kbd/samp` subtrees (and their split-raw-tag equivalents from `remark-rehype`), tracks skip-depth across sibling raw nodes, and re-glues MTG counter notation like `-1/-1` after pangu splits the sign. See `src/plugins/rehype-pangu.ts` JSDoc before extending — scope boundaries are deliberate and locked in by fixtures in `__tests__/rehype-pangu.test.ts`.
 
 ## MTG Card Cache
 

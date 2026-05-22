@@ -1,6 +1,6 @@
 # Guildmages' Forum 魔風集會所
 
-繁體中文 Magic: The Gathering 競技部落格。Built with Astro 5 + Vue 3 + Tailwind CSS.
+繁體中文 Magic: The Gathering 競技部落格。Built with Astro 6 + Vue 3 + Tailwind CSS.
 
 **Live site:** https://guildmages-forum-blog-staff.github.io/refactor_mtg_blog/
 
@@ -10,7 +10,7 @@
 
 | Layer         | Tech                             |
 | ------------- | -------------------------------- |
-| Framework     | Astro 5 (static)                 |
+| Framework     | Astro 6 (static)                 |
 | UI components | Vue 3 (`client:load`)            |
 | Styling       | Tailwind CSS + Typography plugin |
 | Content       | MDX (posts) + YAML (authors)     |
@@ -174,6 +174,7 @@ Toggled via `.dark` class on `<html>`. Persisted in `localStorage('theme')`. App
 - **Astro content cache:** `.astro/data-store.json` caches rendered markdown HTML. The prebuild script invalidates it automatically whenever `.cache/cards.json` is regenerated, so manual deletion is rarely needed.
 - **Base path:** `/refactor_mtg_blog/` — all internal links and image paths must include this prefix.
 - **Curly quotes:** Astro's `remark-smartypants` converts straight quotes to curly quotes before custom plugins run. MTG plugins and the prebuild script normalize via constants built with `String.fromCharCode(0x201c)` / `0x201d` / `0x2018` / `0x2019` — never replace with literal curly chars (some editors silently convert them back to ASCII).
+- **CJK↔ASCII spacing:** Post bodies are spaced at build time by `rehype-pangu`; author `intro[]` lines are spaced at load time by `src/utils/authors.ts`. Don't hand-insert spaces between Chinese and ASCII — let the pipeline do it so spacing stays consistent.
 - **Vue components:** Use `client:load` for interactive components. `client:only="vue"` for Waline comments.
 
 ---
