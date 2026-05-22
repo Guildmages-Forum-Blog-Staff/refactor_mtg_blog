@@ -20,6 +20,44 @@ function isSkipElement(node: RootContent): boolean {
   return node.type === 'element' && SKIP_TAGS.has((node as Element).tagName);
 }
 
+function isSkipRaw(node: RootContent): boolean {
+  const v = rawValue(node);
+  if (v === null) return false;
+  const m = v.trim().match(/^<([A-Za-z][A-Za-z0-9]*)/);
+  return m !== null && SKIP_TAGS.has(m[1].toLowerCase());
+}
+
+function isSkipRawClose(node: RootContent): boolean {
+  const v = rawValue(node);
+  if (v === null) return false;
+  const m = v.trim().match(/^<\/([A-Za-z][A-Za-z0-9]*)/);
+  return m !== null && SKIP_TAGS.has(m[1].toLowerCase());
+}
+
+// Walk element children while tracking skip depth across sibling raw nodes.
+// remark-rehype splits inline HTML like <kbd>text</kbd> into three sibling
+// raw nodes: the opening tag, a text node, and the closing tag. A flat visit
+// cannot see that the text sits inside a skip-tag boundary, so we walk
+// manually and carry a depth counter instead.
+function spaceChildren(nodes: RootContent[]): void {
+  let depth = 0;
+  for (const node of nodes) {
+    if (node.type === 'element') {
+      if (!isSkipElement(node)) spaceChildren((node as Element).children as RootContent[]);
+    } else if (node.type === 'raw') {
+      if (isSkipRaw(node)) {
+        depth++;
+      } else if (isSkipRawClose(node)) {
+        if (depth > 0) depth--;
+      } else if (depth === 0) {
+        (node as { value: string }).value = applyPangu((node as { value: string }).value);
+      }
+    } else if (node.type === 'text' && depth === 0) {
+      (node as Text).value = applyPangu((node as Text).value);
+    }
+  }
+}
+
 function rawValue(node: RootContent): string | null {
   return node.type === 'raw' ? (node as { value: string }).value : null;
 }
@@ -124,15 +162,7 @@ function prependSpace(node: Text): void {
  */
 export function rehypePangu() {
   return (tree: Root) => {
-    visit(tree, (node) => {
-      if (isSkipElement(node as RootContent)) return SKIP;
-      if (node.type === 'text') {
-        (node as Text).value = applyPangu((node as Text).value);
-      } else if (node.type === 'raw') {
-        const n = node as { value: string };
-        n.value = applyPangu(n.value);
-      }
-    });
+    spaceChildren(tree.children as RootContent[]);
 
     visit(tree, 'element', (el: Element) => {
       if (isSkipElement(el)) return SKIP;

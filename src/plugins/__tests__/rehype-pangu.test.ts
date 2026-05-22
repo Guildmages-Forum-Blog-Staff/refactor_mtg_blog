@@ -183,11 +183,20 @@ describe('rehypePangu', () => {
     expect(html).toContain('內文 foo 結尾');
   });
 
+  // Inline raw HTML skip: remark-rehype emits `<kbd>x</kbd>` as a raw hast
+  // node, not an element — verify isSkipRaw guards these through markdown input.
+  it.each(['kbd', 'samp'])(
+    'does not space CJK content inside inline <%s> (raw hast node from markdown)',
+    (tagName) => {
+      const html = run(`前置<${tagName}>中文foo內容</${tagName}>後置`);
+      expect(html).toContain('中文foo內容');
+      expect(html).not.toContain('中文 foo');
+    },
+  );
+
   // Direct hast-level skip tests cover every SKIP_TAGS member uniformly.
-  // remark-rehype emits inline raw HTML (`<kbd>x</kbd>`) as `raw` nodes
-  // rather than elements, so skip behaviour for kbd/samp/script/style can
-  // only be observed at the implementation layer; synthesise the tree
-  // directly to avoid coupling these assertions to markdown parsing quirks.
+  // These exercise the isSkipElement path (element nodes); the raw-node path
+  // is covered by the inline tests above.
   it.each(['pre', 'code', 'script', 'style', 'kbd', 'samp'])(
     'skips %s element subtree at the hast level',
     (tagName) => {
