@@ -36,4 +36,17 @@ describe('externalLinksOptions', () => {
     expect(html).not.toContain('rel=');
     expect(html).not.toContain('target=');
   });
+
+  it('leaves self-host (apex) absolute links untouched', () => {
+    const html = run('[post](https://guildmagesforum.tw/About-Play-Boosters/)');
+    expect(html).toContain('href="https://guildmagesforum.tw/About-Play-Boosters/"');
+    expect(html).not.toContain('rel=');
+    expect(html).not.toContain('target=');
+  });
+
+  it('leaves self-host (www) absolute links untouched', () => {
+    const html = run('[post](https://www.guildmagesforum.tw/Round-Process/)');
+    expect(html).not.toContain('rel=');
+    expect(html).not.toContain('target=');
+  });
 });
