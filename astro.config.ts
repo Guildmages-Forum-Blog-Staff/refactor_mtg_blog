@@ -11,7 +11,9 @@ import { remarkMtgMerge } from './src/plugins/remark-mtg-merge';
 import { remarkBasePath } from './src/plugins/remark-base-path';
 import { remarkNotel } from './src/plugins/remark-notel';
 import { rehypePangu } from './src/plugins/rehype-pangu';
+import { externalLinksOptions } from './src/plugins/external-links';
 import remarkBreaks from 'remark-breaks';
+import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
   site: 'https://guildmages-forum-blog-staff.github.io',
@@ -58,7 +60,7 @@ export const search = async () => ({ results: [] });`;
       [remarkMtgMerge, { base: '/refactor_mtg_blog/' }],
       remarkNotel,
     ],
-    rehypePlugins: [rehypePangu],
+    rehypePlugins: [rehypePangu, [rehypeExternalLinks, externalLinksOptions]],
     shikiConfig: {
       theme: 'github-dark',
     },
