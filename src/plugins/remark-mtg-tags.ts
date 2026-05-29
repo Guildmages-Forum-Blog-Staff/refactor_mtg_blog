@@ -46,7 +46,8 @@ function renderError(label: string, reason: 'missing' | 'not_found'): string {
 
 function renderImage(card: Card, alt: string): string {
   const img = frontImage(card);
-  if (!img) return `<a href="${htmlEscape(card.scryfall_uri)}">${htmlEscape(card.name)}</a>`;
+  if (!img)
+    return `<a href="${htmlEscape(card.scryfall_uri)}" target="_blank" rel="nofollow noopener noreferrer">${htmlEscape(card.name)}</a>`;
   if (isRotated(card)) {
     return `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated rounded-lg" loading="lazy" decoding="async" src="${htmlEscape(img)}" alt="${htmlEscape(alt)}" /></span>`;
   }
@@ -60,7 +61,7 @@ function renderTooltip(card: Card, display: string): string {
       ? `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated" loading="lazy" decoding="async" src="${htmlEscape(img)}" /></span>`
       : `<img class="mtgcard" loading="lazy" decoding="async" src="${htmlEscape(img)}" />`
     : '';
-  return `<a class="tooltip" href="${htmlEscape(card.scryfall_uri)}">${htmlEscape(display)}<span>${inner}</span></a>`;
+  return `<a class="tooltip" href="${htmlEscape(card.scryfall_uri)}" target="_blank" rel="nofollow noopener noreferrer">${htmlEscape(display)}<span>${inner}</span></a>`;
 }
 
 function renderSearch(tag: 'mtglink' | 'mtgcard', args: SearchArgs): string {

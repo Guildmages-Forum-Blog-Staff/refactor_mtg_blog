@@ -36,6 +36,28 @@ describe('remarkMtgTags — mtglink', () => {
     expect(html).toContain('src="https://img/black-lotus.jpg"');
   });
 
+  it('tooltip link carries external-link target/rel attributes', () => {
+    seed({ 'search|Black Lotus||en': blackLotus });
+    const html = proc('{% mtglink "Black Lotus" %}');
+    expect(html).toContain('target="_blank"');
+    expect(html).toContain('rel="nofollow noopener noreferrer"');
+  });
+
+  it('image fallback link (card without image) carries target/rel attributes', () => {
+    seed({
+      'search|No Image Card||en': {
+        name: 'No Image Card',
+        scryfall_uri: 'https://scryfall.com/card/noimg',
+        layout: 'normal',
+        card_faces: [{ image: null }],
+      },
+    });
+    const html = proc('{% mtgcard "No Image Card" %}');
+    expect(html).toContain('href="https://scryfall.com/card/noimg"');
+    expect(html).toContain('target="_blank"');
+    expect(html).toContain('rel="nofollow noopener noreferrer"');
+  });
+
   it('uses alt= as display text', () => {
     seed({ 'search|Unsubstantiate||en': { ...blackLotus, name: 'Unsubstantiate' } });
     const html = proc('{% mtglink Unsubstantiate alt=取消實質 %}');
