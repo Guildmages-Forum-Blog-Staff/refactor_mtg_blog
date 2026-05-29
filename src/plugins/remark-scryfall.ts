@@ -11,7 +11,7 @@ export function remarkScryfall() {
       const name = firstChild?.type === 'text' ? firstChild.value : '';
       parent.children[index] = {
         type: 'html',
-        value: `<a class="scryfall-card" data-card-image="${node.url}" href="${node.url}" target="_blank" rel="noopener noreferrer">${name}</a>`,
+        value: `<a class="scryfall-card" data-card-image="${node.url}" href="${node.url}" target="_blank" rel="nofollow noopener noreferrer">${name}</a>`,
       };
     });
   };

@@ -32,12 +32,12 @@ describe('remarkScryfall', () => {
     expect(html).toContain('</a>');
   });
 
-  it('sets target="_blank" and rel="noopener noreferrer"', async () => {
+  it('sets target="_blank" and rel="nofollow noopener noreferrer"', async () => {
     const input = '[テスト](https://cards.scryfall.io/large/front/x/y/xyz.jpg)';
     const file = await process(input);
     const html = String(file);
     expect(html).toContain('target="_blank"');
-    expect(html).toContain('rel="noopener noreferrer"');
+    expect(html).toContain('rel="nofollow noopener noreferrer"');
   });
 
   it('includes the card URL in the href attribute', async () => {
