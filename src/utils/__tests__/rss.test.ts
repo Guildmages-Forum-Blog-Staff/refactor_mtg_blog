@@ -1,5 +1,11 @@
 import { describe, it, expect } from 'vitest';
-import { buildRssItems, type RssSourcePost } from '../rss';
+import {
+  buildRssItems,
+  resolveFeedSite,
+  feedSelfHref,
+  buildChannelData,
+  type RssSourcePost,
+} from '../rss';
 
 const BASE = '/refactor_mtg_blog/';
 
@@ -90,5 +96,31 @@ describe('buildRssItems', () => {
     expect(items).toHaveLength(50);
     expect(items[0].link).toBe('/refactor_mtg_blog/post-59/');
     expect(items.some((it) => it.link === '/refactor_mtg_blog/post-0/')).toBe(false);
+  });
+});
+
+describe('resolveFeedSite', () => {
+  it('combines the base path onto the site origin', () => {
+    const url = resolveFeedSite('/refactor_mtg_blog/', new URL('https://example.github.io'));
+    expect(url.href).toBe('https://example.github.io/refactor_mtg_blog/');
+  });
+});
+
+describe('feedSelfHref', () => {
+  it('points at rss.xml under the base path', () => {
+    const site = new URL('https://example.github.io/refactor_mtg_blog/');
+    expect(feedSelfHref(site)).toBe('https://example.github.io/refactor_mtg_blog/rss.xml');
+  });
+});
+
+describe('buildChannelData', () => {
+  it('includes the language tag', () => {
+    expect(buildChannelData('https://x/rss.xml', 'zh-TW')).toContain('<language>zh-TW</language>');
+  });
+
+  it('includes an atom:self link to the feed url', () => {
+    expect(buildChannelData('https://x/feed/rss.xml', 'zh-TW')).toContain(
+      '<atom:link href="https://x/feed/rss.xml" rel="self" type="application/rss+xml" />',
+    );
   });
 });

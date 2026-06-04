@@ -39,3 +39,25 @@ export function buildRssItems(posts: RssSourcePost[], baseUrl: string): RssItem[
       categories: post.data.categories,
     }));
 }
+
+/**
+ * Resolve the feed's channel <link> — the blog home (site origin + base path).
+ * `baseUrl` carries a trailing slash; being root-relative it replaces the
+ * origin's own path rather than appending to it.
+ */
+export function resolveFeedSite(baseUrl: string, site: URL | string): URL {
+  return new URL(baseUrl, site);
+}
+
+/** Absolute URL of the feed document itself, for the atom:self link. */
+export function feedSelfHref(siteWithBase: URL): string {
+  return new URL('rss.xml', siteWithBase).href;
+}
+
+/**
+ * Channel-level custom XML: the language tag and an atom:self link. The latter
+ * needs `xmlns: { atom: 'http://www.w3.org/2005/Atom' }` on the rss() call.
+ */
+export function buildChannelData(feedHref: string, language: string): string {
+  return `<language>${language}</language><atom:link href="${feedHref}" rel="self" type="application/rss+xml" />`;
+}
