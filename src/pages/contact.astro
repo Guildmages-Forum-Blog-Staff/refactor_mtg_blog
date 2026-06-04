@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar.astro';
 <BaseLayout title="Contact Us / 聯絡我們">
   <Navbar />
   <main class="mx-auto max-w-4xl px-4 py-10">
-    <div class="rounded-2xl bg-white/80 p-6 backdrop-blur-sm dark:bg-dark-bg/80">
+    <div class="dark:bg-dark-bg/80 rounded-2xl bg-white/80 p-6 backdrop-blur-sm">
       <h1 class="mb-6 text-3xl font-bold text-gray-900 dark:text-gray-100">
         Contact Us / 聯絡我們
       </h1>
@@ -14,7 +14,7 @@ import Navbar from '../components/Navbar.astro';
       <!-- General Contact -->
       <section class="mb-10">
         <h2 class="mb-4 text-xl font-semibold text-gray-800 dark:text-gray-200">聯絡方式</h2>
-        <div class="prose max-w-none dark:prose-invert">
+        <div class="prose dark:prose-invert max-w-none">
           <ul class="space-y-2">
             <li>
               <strong>Facebook：</strong>
@@ -61,7 +61,7 @@ import Navbar from '../components/Navbar.astro';
           </p>
           <p class="mt-4 text-sm text-gray-600 dark:text-gray-400">
             主旨格式：<span
-              class="rounded bg-gray-100 px-2 py-0.5 font-mono text-primary dark:bg-white/10"
+              class="text-primary rounded bg-gray-100 px-2 py-0.5 font-mono dark:bg-white/10"
               >文章投稿_文章標題</span
             >
           </p>
@@ -71,7 +71,7 @@ import Navbar from '../components/Navbar.astro';
       <!-- Disclaimer -->
       <section class="mb-10">
         <h2 class="mb-4 text-xl font-semibold text-gray-800 dark:text-gray-200">免責聲明</h2>
-        <div class="prose max-w-none dark:prose-invert">
+        <div class="prose dark:prose-invert max-w-none">
           <ul class="space-y-2 text-gray-700 dark:text-gray-300">
             <li>本站為非官方同好內容，依據 Wizards of the Coast 粉絲內容政策運營。</li>
             <li>MTG 卡牌圖像及翻譯版權歸 Wizards of the Coast 所有。</li>

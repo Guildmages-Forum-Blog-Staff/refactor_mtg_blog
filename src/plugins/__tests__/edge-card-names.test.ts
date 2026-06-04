@@ -3,10 +3,7 @@ import { remark } from 'remark';
 import remarkSmartypants from 'remark-smartypants';
 import remarkStringify from 'remark-stringify';
 import { remarkMtgTags } from '../remark-mtg-tags';
-import {
-  parseNames,
-  resolveCardUrls,
-} from '../remark-mtg-merge';
+import { parseNames, resolveCardUrls } from '../remark-mtg-merge';
 import { __setCardDataForTests, type Card } from '../mtg-card-cache';
 import { tokenize, parseSearchTagArgs } from '../mtg-tag-shared';
 // Vite (vitest's loader) resolves JSON imports natively — no import attribute needed.
@@ -37,11 +34,7 @@ import fixture from './__fixtures__/edge-card-names.cache.json';
 
 function mtgTagsHtml(md: string): string {
   return String(
-    remark()
-      .use(remarkSmartypants)
-      .use(remarkMtgTags)
-      .use(remarkStringify)
-      .processSync(md),
+    remark().use(remarkSmartypants).use(remarkMtgTags).use(remarkStringify).processSync(md),
   );
 }
 

@@ -2,13 +2,13 @@
   <div ref="sidebarRef" class="toc sticky top-20 flex flex-col gap-3">
     <nav class="max-h-[calc(100vh-9rem)] overflow-y-auto text-sm">
       <p
-        class="mb-2 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400"
+        class="mb-2 text-xs font-semibold tracking-wider text-gray-500 uppercase dark:text-gray-400"
       >
         Contents
       </p>
       <p
         v-if="title"
-        class="mb-3 line-clamp-3 text-base font-bold leading-snug text-gray-900 dark:text-gray-100"
+        class="mb-3 line-clamp-3 text-base leading-snug font-bold text-gray-900 dark:text-gray-100"
       >
         {{ title }}
       </p>
@@ -21,9 +21,9 @@
           <a
             :href="`#${heading.slug}`"
             :class="[
-              'block border-l-2 py-0.5 pl-2 pr-2 leading-snug transition-colors',
+              'block border-l-2 py-0.5 pr-2 pl-2 leading-snug transition-colors',
               activeSlug === heading.slug
-                ? 'border-primary font-medium text-primary'
+                ? 'border-primary text-primary font-medium'
                 : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200',
             ]"
             @click.prevent="scrollTo(heading.slug)"

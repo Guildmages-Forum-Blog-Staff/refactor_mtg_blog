@@ -202,28 +202,16 @@ describe('intro spacing', () => {
 
   it('getAllAuthors spaces CJK<>ASCII boundaries in intro lines', async () => {
     const authors = await getAllAuthors();
-    expect(authors[0].intro).toEqual([
-      '畢業於 MIT',
-      '常駐於 Taipei 市',
-      'already spaced line',
-    ]);
+    expect(authors[0].intro).toEqual(['畢業於 MIT', '常駐於 Taipei 市', 'already spaced line']);
   });
 
   it('getAuthorById spaces CJK<>ASCII boundaries in intro lines', async () => {
     const author = await getAuthorById('PanguAuthor');
-    expect(author?.intro).toEqual([
-      '畢業於 MIT',
-      '常駐於 Taipei 市',
-      'already spaced line',
-    ]);
+    expect(author?.intro).toEqual(['畢業於 MIT', '常駐於 Taipei 市', 'already spaced line']);
   });
 
   it('getPostAuthors spaces CJK<>ASCII boundaries in intro lines', async () => {
     const authors = await getPostAuthors(['PanguAuthor']);
-    expect(authors[0].intro).toEqual([
-      '畢業於 MIT',
-      '常駐於 Taipei 市',
-      'already spaced line',
-    ]);
+    expect(authors[0].intro).toEqual(['畢業於 MIT', '常駐於 Taipei 市', 'already spaced line']);
   });
 });

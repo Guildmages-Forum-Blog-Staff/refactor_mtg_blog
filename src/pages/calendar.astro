@@ -123,44 +123,48 @@ function linkifyText(text: string): string {
   <Navbar />
   <main class="mx-auto max-w-4xl px-4 py-10">
     <div
-      class="mb-10 rounded-2xl border border-white/30 bg-white/60 p-6 shadow-lg backdrop-blur-md dark:border-white/10 dark:bg-dark-bg/60"
+      class="dark:bg-dark-bg/60 mb-10 rounded-2xl border border-white/30 bg-white/60 p-6 shadow-lg backdrop-blur-md dark:border-white/10"
     >
       <h1 class="mb-2 text-3xl font-bold text-gray-900 dark:text-gray-100">活動日曆</h1>
-      <p class="text-sm text-gray-400 dark:text-dark-fg/50">
+      <p class="dark:text-dark-fg/50 text-sm text-gray-400">
         資料來自 Google 日曆，每次部署自動同步。
       </p>
-      <p class="mt-1 text-xs text-gray-400 dark:text-dark-fg/40">
+      <p class="dark:text-dark-fg/40 mt-1 text-xs text-gray-400">
         上次同步：{syncedAt}
       </p>
     </div>
 
     {
       upcoming.length === 0 && past.length === 0 && (
-        <p class="text-gray-500 dark:text-dark-fg/50">目前無活動資料。</p>
+        <p class="dark:text-dark-fg/50 text-gray-500">目前無活動資料。</p>
       )
     }
 
     {
       upcoming.length > 0 && (
         <section class="mb-14">
-          <h2 class="mb-6 text-lg font-bold text-gray-700 dark:text-dark-fg/70">即將到來</h2>
+          <h2 class="dark:text-dark-fg/70 mb-6 text-lg font-bold text-gray-700">即將到來</h2>
           <div class="flex flex-col gap-4">
             {upcoming.map((ev) => (
               <div
-                class="flex cursor-pointer gap-4 rounded-xl border border-white/40 bg-white/70 p-5 shadow-sm backdrop-blur-md transition-shadow hover:shadow-md dark:border-white/10 dark:bg-dark-bg/60"
+                class="dark:bg-dark-bg/60 flex cursor-pointer gap-4 rounded-xl border border-white/40 bg-white/70 p-5 shadow-sm backdrop-blur-md transition-shadow hover:shadow-md dark:border-white/10"
                 data-cal-card={ev.uid}
                 data-summary={ev.summary}
-                data-date={isAllDay(ev.start, ev.end) ? formatDate(ev.start) : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`}
+                data-date={
+                  isAllDay(ev.start, ev.end)
+                    ? formatDate(ev.start)
+                    : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`
+                }
                 data-location-html={ev.location ? linkifyText(ev.location) : ''}
                 data-description-html={ev.description ? linkifyText(ev.description) : ''}
                 data-url={ev.url ?? ''}
               >
                 {/* Date badge */}
-                <div class="flex w-16 shrink-0 flex-col items-center justify-center rounded-lg bg-primary/10 py-2 text-center">
-                  <span class="text-xs font-semibold text-primary">
+                <div class="bg-primary/10 flex w-16 shrink-0 flex-col items-center justify-center rounded-lg py-2 text-center">
+                  <span class="text-primary text-xs font-semibold">
                     {ev.start.toLocaleDateString('zh-TW', { month: 'short' })}
                   </span>
-                  <span class="text-2xl font-bold leading-none text-primary">
+                  <span class="text-primary text-2xl leading-none font-bold">
                     {ev.start.getDate()}
                   </span>
                 </div>
@@ -172,17 +176,17 @@ function linkifyText(text: string): string {
                       href={ev.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      class="truncate text-base font-semibold text-gray-900 transition-colors hover:text-primary dark:text-dark-fg"
+                      class="hover:text-primary dark:text-dark-fg truncate text-base font-semibold text-gray-900 transition-colors"
                     >
                       {ev.summary}
                     </a>
                   ) : (
-                    <span class="truncate text-base font-semibold text-gray-900 dark:text-dark-fg">
+                    <span class="dark:text-dark-fg truncate text-base font-semibold text-gray-900">
                       {ev.summary}
                     </span>
                   )}
 
-                  <div class="flex flex-wrap gap-x-3 gap-y-1 text-xs text-gray-500 dark:text-dark-fg/50">
+                  <div class="dark:text-dark-fg/50 flex flex-wrap gap-x-3 gap-y-1 text-xs text-gray-500">
                     <span>
                       {isAllDay(ev.start, ev.end)
                         ? formatDate(ev.start)
@@ -193,7 +197,7 @@ function linkifyText(text: string): string {
 
                   {ev.description && (
                     <p
-                      class="mt-1 line-clamp-2 text-sm text-gray-600 dark:text-dark-fg/70"
+                      class="dark:text-dark-fg/70 mt-1 line-clamp-2 text-sm text-gray-600"
                       set:html={linkifyText(ev.description)}
                     />
                   )}
@@ -208,23 +212,27 @@ function linkifyText(text: string): string {
     {
       past.length > 0 && (
         <section>
-          <h2 class="mb-6 text-lg font-bold text-gray-700 dark:text-dark-fg/70">過去活動</h2>
+          <h2 class="dark:text-dark-fg/70 mb-6 text-lg font-bold text-gray-700">過去活動</h2>
           <div class="flex flex-col gap-3">
             {past.map((ev) => (
               <div
                 class="flex cursor-pointer gap-4 rounded-xl border border-white/20 bg-white/40 p-4 opacity-70 backdrop-blur-sm dark:border-white/5 dark:bg-white/5"
                 data-cal-card={ev.uid}
                 data-summary={ev.summary}
-                data-date={isAllDay(ev.start, ev.end) ? formatDate(ev.start) : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`}
+                data-date={
+                  isAllDay(ev.start, ev.end)
+                    ? formatDate(ev.start)
+                    : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`
+                }
                 data-location-html={ev.location ? linkifyText(ev.location) : ''}
                 data-description-html={ev.description ? linkifyText(ev.description) : ''}
                 data-url={ev.url ?? ''}
               >
                 <div class="flex w-14 shrink-0 flex-col items-center justify-center rounded-lg bg-gray-200 py-2 text-center dark:bg-white/10">
-                  <span class="text-xs font-semibold text-gray-500 dark:text-dark-fg/50">
+                  <span class="dark:text-dark-fg/50 text-xs font-semibold text-gray-500">
                     {ev.start.toLocaleDateString('zh-TW', { month: 'short' })}
                   </span>
-                  <span class="text-xl font-bold leading-none text-gray-500 dark:text-dark-fg/50">
+                  <span class="dark:text-dark-fg/50 text-xl leading-none font-bold text-gray-500">
                     {ev.start.getDate()}
                   </span>
                 </div>
@@ -235,16 +243,16 @@ function linkifyText(text: string): string {
                       href={ev.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      class="truncate text-sm font-medium text-gray-600 line-through transition-colors hover:text-primary dark:text-dark-fg/60"
+                      class="hover:text-primary dark:text-dark-fg/60 truncate text-sm font-medium text-gray-600 line-through transition-colors"
                     >
                       {ev.summary}
                     </a>
                   ) : (
-                    <span class="truncate text-sm font-medium text-gray-600 line-through dark:text-dark-fg/60">
+                    <span class="dark:text-dark-fg/60 truncate text-sm font-medium text-gray-600 line-through">
                       {ev.summary}
                     </span>
                   )}
-                  <span class="text-xs text-gray-400 dark:text-dark-fg/40">
+                  <span class="dark:text-dark-fg/40 text-xs text-gray-400">
                     {formatDate(ev.start)}
                     {!isAllDay(ev.start, ev.end) && ` ${formatTime(ev.start)}`}
                     {ev.location && <span set:html={` · ${linkifyText(ev.location)}`} />}
@@ -267,32 +275,45 @@ function linkifyText(text: string): string {
     >
       <div id="cal-modal-backdrop" class="absolute inset-0 bg-black/60 backdrop-blur-sm"></div>
       <div
-        class="relative z-10 w-full max-w-lg overflow-y-auto rounded-2xl border border-white/30 bg-white/95 p-6 shadow-2xl dark:border-white/10 dark:bg-dark-bg/95"
+        class="dark:bg-dark-bg/95 relative z-10 w-full max-w-lg overflow-y-auto rounded-2xl border border-white/30 bg-white/95 p-6 shadow-2xl dark:border-white/10"
         style="max-height: 90vh"
       >
         <button
           id="cal-modal-close"
-          class="absolute right-4 top-4 rounded-full p-1 text-gray-400 transition-colors hover:text-gray-700 dark:hover:text-gray-200"
+          class="absolute top-4 right-4 rounded-full p-1 text-gray-400 transition-colors hover:text-gray-700 dark:hover:text-gray-200"
           aria-label="關閉"
         >
-          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 20 20"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+          >
             <path d="M4 4l12 12M16 4L4 16"></path>
           </svg>
         </button>
-        <h2 id="cal-modal-title" class="mb-3 pr-8 text-xl font-bold text-gray-900 dark:text-dark-fg"></h2>
-        <p id="cal-modal-date" class="mb-1 text-sm text-gray-500 dark:text-dark-fg/60"></p>
-        <p id="cal-modal-location" class="mb-3 text-sm text-gray-500 dark:text-dark-fg/60" hidden></p>
+        <h2
+          id="cal-modal-title"
+          class="dark:text-dark-fg mb-3 pr-8 text-xl font-bold text-gray-900"
+        >
+        </h2>
+        <p id="cal-modal-date" class="dark:text-dark-fg/60 mb-1 text-sm text-gray-500"></p>
+        <p id="cal-modal-location" class="dark:text-dark-fg/60 mb-3 text-sm text-gray-500" hidden>
+        </p>
         <div
           id="cal-modal-description"
-          class="mb-4 text-sm leading-relaxed text-gray-700 dark:text-dark-fg/80 [&_a]:break-all [&_a]:text-primary [&_a]:underline"
+          class="dark:text-dark-fg/80 [&_a]:text-primary mb-4 text-sm leading-relaxed text-gray-700 [&_a]:break-all [&_a]:underline"
           hidden
-        ></div>
+        >
+        </div>
         <a
           id="cal-modal-link"
           href="#"
           target="_blank"
           rel="noopener noreferrer"
-          class="inline-block rounded-lg bg-primary px-4 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-80"
+          class="bg-primary inline-block rounded-lg px-4 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-80"
           hidden
         >
           查看活動連結 →

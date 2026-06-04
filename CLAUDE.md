@@ -49,15 +49,15 @@ Author slugs in frontmatter must match YAML filename in `src/content/authors/`. 
 
 Wired up in `astro.config.ts` under `markdown.remarkPlugins` / `markdown.rehypePlugins`.
 
-| Plugin             | Stage  | Syntax                                       | Output                                  |
-| ------------------ | ------ | -------------------------------------------- | --------------------------------------- |
-| `remark-scryfall`  | remark | image links to `cards.scryfall.io`           | `<a class="scryfall-card">`             |
-| `remark-youtube`   | remark | `{% youtube ID %}`                           | `<iframe>`                              |
-| `remark-mtg-tags`  | remark | `{% mtglink/mtgcard/mtgpick ... %}`          | card links/images                       |
-| `remark-mtg-merge` | remark | `{% mtgmerge ["Card1", "Card2"] %}`          | stitched multi-card image               |
-| `remark-notel`     | remark | `{% notel [color] Title %}...{% endnotel %}` | colored note box                        |
-| `remark-base-path` | remark | (internal) prepends base URL to image paths  | —                                       |
-| `rehype-pangu`     | rehype | (internal) CJK↔ASCII text spacing            | text nodes spaced via `pangu` + fixups  |
+| Plugin             | Stage  | Syntax                                       | Output                                 |
+| ------------------ | ------ | -------------------------------------------- | -------------------------------------- |
+| `remark-scryfall`  | remark | image links to `cards.scryfall.io`           | `<a class="scryfall-card">`            |
+| `remark-youtube`   | remark | `{% youtube ID %}`                           | `<iframe>`                             |
+| `remark-mtg-tags`  | remark | `{% mtglink/mtgcard/mtgpick ... %}`          | card links/images                      |
+| `remark-mtg-merge` | remark | `{% mtgmerge ["Card1", "Card2"] %}`          | stitched multi-card image              |
+| `remark-notel`     | remark | `{% notel [color] Title %}...{% endnotel %}` | colored note box                       |
+| `remark-base-path` | remark | (internal) prepends base URL to image paths  | —                                      |
+| `rehype-pangu`     | rehype | (internal) CJK↔ASCII text spacing            | text nodes spaced via `pangu` + fixups |
 
 **Critical:** Astro's `remark-smartypants` converts `"` → curly quotes before plugins run. Plugins must normalize via constants declared with `String.fromCharCode` (e.g. `OPEN_DOUBLE`, `CLOSE_DOUBLE` in `mtg-tag-shared.ts`) — never replace with literal curly chars.  
 Per-file `TAG_RE` is a factory (not a module-level `/g` regex) to avoid stale `lastIndex`.

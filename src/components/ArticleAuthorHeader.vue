@@ -25,7 +25,7 @@
           v-for="(author, i) in authors"
           :key="author.id"
           :href="`${base}/authors/${author.id}`"
-          class="text-sm font-semibold text-gray-900 transition-colors hover:text-primary dark:text-gray-100"
+          class="hover:text-primary text-sm font-semibold text-gray-900 transition-colors dark:text-gray-100"
           >{{ author.name }}<span v-if="i < authors.length - 1">,</span></a
         >
       </div>
@@ -40,7 +40,7 @@
           <span v-for="(crumb, i) in categories" :key="crumb.cat" class="flex items-center gap-1">
             <a
               :href="`${base}/categories/${encodeURIComponent(crumb.cat)}/`"
-              class="transition-colors hover:text-primary"
+              class="hover:text-primary transition-colors"
               >{{ crumb.label }}</a
             ><span v-if="i < categories.length - 1">&nbsp;·</span>
           </span>

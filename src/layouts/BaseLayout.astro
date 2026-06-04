@@ -47,7 +47,7 @@ const {
       })();
     </script>
   </head>
-  <body class="flex min-h-screen flex-col font-sans text-foreground dark:text-dark-fg">
+  <body class="text-foreground dark:text-dark-fg flex min-h-screen flex-col font-sans">
     <div class="flex-1">
       <slot />
     </div>
@@ -99,7 +99,7 @@ const {
     <button
       id="scroll-top-btn"
       aria-label="Back to top"
-      class="fixed bottom-6 right-6 z-50 hidden h-12 w-12 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80 dark:bg-dark-bg/90"
+      class="dark:bg-dark-bg/90 fixed right-6 bottom-6 z-50 hidden h-12 w-12 items-center justify-center rounded-full bg-white/90 shadow-lg backdrop-blur transition-opacity hover:opacity-80"
     >
       <svg class="absolute inset-0 h-12 w-12 -rotate-90" viewBox="0 0 48 48">
         <circle

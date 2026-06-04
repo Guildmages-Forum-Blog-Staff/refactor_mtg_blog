@@ -19,7 +19,11 @@ function writePost(postsDir: string, name: string, body: string): void {
   writeFileSync(path.join(postsDir, name), body);
 }
 
-function readCache(cacheDir: string): { schema: string; found: Record<string, unknown>; not_found: Record<string, unknown> } {
+function readCache(cacheDir: string): {
+  schema: string;
+  found: Record<string, unknown>;
+  not_found: Record<string, unknown>;
+} {
   return JSON.parse(readFileSync(path.join(cacheDir, 'cards.json'), 'utf8'));
 }
 
@@ -79,14 +83,16 @@ describe('build-card-cache main() — retry layers', () => {
       const u = String(url);
       if (opts?.method === 'POST' && u.includes('/cards/collection')) {
         return jsonResponse({
-          data: [makeScryfallCard({
-            name: 'Black Lotus',
-            scryfall_uri: 'https://scryfall.com/card/lea/233/black-lotus',
-            oracle_id: 'oracle-bl',
-            image_uris: { large: 'https://img/black-lotus.jpg' },
-            set: 'lea',
-            collector_number: '233',
-          })],
+          data: [
+            makeScryfallCard({
+              name: 'Black Lotus',
+              scryfall_uri: 'https://scryfall.com/card/lea/233/black-lotus',
+              oracle_id: 'oracle-bl',
+              image_uris: { large: 'https://img/black-lotus.jpg' },
+              set: 'lea',
+              collector_number: '233',
+            }),
+          ],
           not_found: [],
         }) as unknown as Response;
       }
@@ -119,12 +125,14 @@ describe('build-card-cache main() — retry layers', () => {
         }
         if (requestedName === 'Fire // Ice') {
           return jsonResponse({
-            data: [makeScryfallCard({
-              name: 'Fire // Ice',
-              scryfall_uri: 'https://scryfall.com/x',
-              layout: 'split',
-              image_uris: { large: 'https://img/fire-ice.jpg' },
-            })],
+            data: [
+              makeScryfallCard({
+                name: 'Fire // Ice',
+                scryfall_uri: 'https://scryfall.com/x',
+                layout: 'split',
+                image_uris: { large: 'https://img/fire-ice.jpg' },
+              }),
+            ],
             not_found: [],
           }) as unknown as Response;
         }
@@ -160,16 +168,18 @@ describe('build-card-cache main() — retry layers', () => {
         // Layer 2 sends the front-face name only, which succeeds.
         if (requestedName === 'Delver of Secrets') {
           return jsonResponse({
-            data: [makeScryfallCard({
-              name: 'Delver of Secrets // Insectile Aberration',
-              scryfall_uri: 'https://scryfall.com/x',
-              layout: 'transform',
-              image_uris: undefined,
-              card_faces: [
-                { image_uris: { large: 'https://img/front.jpg' } },
-                { image_uris: { large: 'https://img/back.jpg' } },
-              ],
-            })],
+            data: [
+              makeScryfallCard({
+                name: 'Delver of Secrets // Insectile Aberration',
+                scryfall_uri: 'https://scryfall.com/x',
+                layout: 'transform',
+                image_uris: undefined,
+                card_faces: [
+                  { image_uris: { large: 'https://img/front.jpg' } },
+                  { image_uris: { large: 'https://img/back.jpg' } },
+                ],
+              }),
+            ],
             not_found: [],
           }) as unknown as Response;
         }
@@ -203,13 +213,15 @@ describe('build-card-cache main() — retry layers', () => {
         // Flavor retry uses GET /cards/search?q=!"X". Return a card whose
         // flavor_name matches exactly.
         return jsonResponse({
-          data: [makeScryfallCard({
-            name: 'Rhystic Study',
-            flavor_name: 'Stay with Me',
-            scryfall_uri: 'https://scryfall.com/x',
-            oracle_id: 'oracle-rs',
-            image_uris: { large: 'https://img/rs.jpg' },
-          })],
+          data: [
+            makeScryfallCard({
+              name: 'Rhystic Study',
+              flavor_name: 'Stay with Me',
+              scryfall_uri: 'https://scryfall.com/x',
+              oracle_id: 'oracle-rs',
+              image_uris: { large: 'https://img/rs.jpg' },
+            }),
+          ],
         }) as unknown as Response;
       }
       throw new Error(`unexpected fetch: ${u}`);

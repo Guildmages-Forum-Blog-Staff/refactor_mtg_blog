@@ -33,10 +33,7 @@ describe('scanTextForRefs', () => {
     const refs = new Map();
     scanTextForRefs(text, 'fake.md', refs);
     expect(refs.size).toBe(2);
-    expect([...refs.keys()].sort()).toEqual([
-      'search|Bar||en',
-      'search|Foo||en',
-    ]);
+    expect([...refs.keys()].sort()).toEqual(['search|Bar||en', 'search|Foo||en']);
   });
   it('handles multi-line tag bodies', () => {
     const refs = new Map();
@@ -48,7 +45,12 @@ describe('scanTextForRefs', () => {
 describe('normalizeFaces', () => {
   it('hoists image_uris into one face for normal cards', () => {
     expect(
-      normalizeFaces({ name: 'X', scryfall_uri: 'https://x', layout: 'normal', image_uris: { large: 'https://img/x.png' } }),
+      normalizeFaces({
+        name: 'X',
+        scryfall_uri: 'https://x',
+        layout: 'normal',
+        image_uris: { large: 'https://img/x.png' },
+      }),
     ).toEqual([{ image: 'https://img/x.png' }]);
   });
   it('uses card_faces when per-face images are present', () => {
@@ -91,7 +93,13 @@ describe('matchResultBack', () => {
       },
     ];
     const cards = [
-      { name: 'BLACK LOTUS', set: 'lea', layout: 'normal', image_uris: { large: 'https://img/x' }, scryfall_uri: 'https://x' },
+      {
+        name: 'BLACK LOTUS',
+        set: 'lea',
+        layout: 'normal',
+        image_uris: { large: 'https://img/x' },
+        scryfall_uri: 'https://x',
+      },
     ];
     expect(matchResultBack(envs, cards).has('k1')).toBe(true);
   });
@@ -101,7 +109,13 @@ describe('matchResultBack', () => {
         key: 'k1',
         ref: {
           kind: 'search' as const,
-          args: { name: 'Delver of Secrets', edition: '', language: 'en', alt: null, tooltip: false },
+          args: {
+            name: 'Delver of Secrets',
+            edition: '',
+            language: 'en',
+            alt: null,
+            tooltip: false,
+          },
           sources: [],
         },
       },

@@ -12,7 +12,7 @@
       <div class="flex min-w-0 flex-col gap-1">
         <a
           :href="`${base}/authors/${author.id}`"
-          class="text-3xl font-bold text-gray-900 transition-colors hover:text-primary dark:text-gray-100"
+          class="hover:text-primary text-3xl font-bold text-gray-900 transition-colors dark:text-gray-100"
         >
           {{ author.name }}
         </a>

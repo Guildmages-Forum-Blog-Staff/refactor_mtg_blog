@@ -6,14 +6,12 @@ import { __setCardDataForTests, type Card } from '../mtg-card-cache';
 
 type NotFoundEntry = { first_seen: string; sources: string[] };
 
-function seed(
-  found: Record<string, Card>,
-  notFound: Record<string, NotFoundEntry> = {},
-): void {
+function seed(found: Record<string, Card>, notFound: Record<string, NotFoundEntry> = {}): void {
   __setCardDataForTests({ found, not_found: notFound });
 }
 
-const proc = (md: string) => String(remark().use(remarkMtgTags).use(remarkStringify).processSync(md));
+const proc = (md: string) =>
+  String(remark().use(remarkMtgTags).use(remarkStringify).processSync(md));
 
 beforeEach(() => {
   __setCardDataForTests();
@@ -146,7 +144,7 @@ describe('remarkMtgTags — mtgcard', () => {
     expect(html).toContain('src="https://img/ml.jpg"');
   });
 
-  it("single-quote wrapping does NOT delimit — author error, renders mtgcard-error", () => {
+  it('single-quote wrapping does NOT delimit — author error, renders mtgcard-error', () => {
     seed({ 'search|Black Lotus||en': blackLotus });
     // Tokenizer splits on the inner whitespace; tokens are ["'Black", "Lotus'"].
     // parseSearchTagArgs takes "'Black" as name; "Lotus'" has a non-alphanumeric
@@ -156,7 +154,7 @@ describe('remarkMtgTags — mtgcard', () => {
     expect(html).not.toContain('src="https://img/black-lotus.jpg"');
   });
 
-  it("single-quote wrapping with backslash space still fails — apostrophes stay literal", () => {
+  it('single-quote wrapping with backslash space still fails — apostrophes stay literal', () => {
     seed({ 'search|Black Lotus||en': blackLotus });
     // Backslash escape merges into one token, but the leading/trailing `'`
     // remain literal characters in the name. Cache lookup misses.
