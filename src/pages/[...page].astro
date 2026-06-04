@@ -6,12 +6,13 @@ import Navbar from '../components/Navbar.astro';
 import { getPostAuthors, type AuthorData } from '../utils/authors';
 import { buildCategoryBreadcrumbs } from '../utils/categories';
 import type { PaginatedPostsProps } from '../utils/pagination';
+import { postSlug, sortByDateDesc } from '../utils/posts';
 
 type PostWithAuthors = { post: CollectionEntry<'posts'>; authors: (AuthorData & { id: string })[] };
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const allPosts = await getCollection('posts');
-  const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  const sorted = sortByDateDesc(allPosts);
   return paginate(sorted, { pageSize: 10 });
 }
 
@@ -89,7 +90,7 @@ const isFirstPage = page.currentPage === 1;
           postsWithAuthors.map(({ post, authors }: PostWithAuthors) => (
             <article class="post-card dark:bg-dark-bg overflow-hidden rounded-2xl bg-white shadow-md backdrop-blur-sm">
               {(post.data.cover || post.data.thumbnail) && (
-                <a href={`${import.meta.env.BASE_URL}${post.id.replace(/\.mdx?$/, '')}`}>
+                <a href={`${import.meta.env.BASE_URL}${postSlug(post.id)}`}>
                   <img
                     src={post.data.cover || post.data.thumbnail}
                     alt={post.data.title}
@@ -114,7 +115,7 @@ const isFirstPage = page.currentPage === 1;
                     {post.data.date.toLocaleDateString('zh-TW')}
                   </time>
                 </div>
-                <a href={`${import.meta.env.BASE_URL}${post.id.replace(/\.mdx?$/, '')}`}>
+                <a href={`${import.meta.env.BASE_URL}${postSlug(post.id)}`}>
                   <h2 class="hover:text-primary mb-2 text-xl font-bold text-gray-900 transition-colors dark:text-gray-100">
                     {post.data.title}
                   </h2>

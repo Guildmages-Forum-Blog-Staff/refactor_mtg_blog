@@ -10,11 +10,12 @@ import RelatedPosts from '../components/RelatedPosts.astro';
 import { getPostAuthors } from '../utils/authors';
 import { getRelatedPosts } from '../utils/related';
 import { buildCategoryBreadcrumbs } from '../utils/categories';
+import { postSlug } from '../utils/posts';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
   return posts.map((post) => ({
-    params: { slug: post.id.replace(/\.mdx?$/, '') },
+    params: { slug: postSlug(post.id) },
     props: { post },
   }));
 }
@@ -205,7 +206,7 @@ const coverImage = post.data.cover || post.data.thumbnail;
               data-pagefind-ignore
               class="mt-12 border-t border-gray-200 pt-8 dark:border-gray-700"
             >
-              <WalineComments path={`/${post.id.replace(/\.mdx?$/, '')}/`} client:only="vue" />
+              <WalineComments path={`/${postSlug(post.id)}/`} client:only="vue" />
             </div>
           )
         }

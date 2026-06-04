@@ -4,15 +4,14 @@ import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Navbar from '../../../components/Navbar.astro';
 import type { PaginatedPostsProps } from '../../../utils/pagination';
+import { postSlug, sortByDateDesc } from '../../../utils/posts';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const posts = await getCollection('posts');
   const cats = new Set(posts.flatMap((p) => p.data.categories));
 
   return [...cats].flatMap((cat) => {
-    const sorted = posts
-      .filter((p) => p.data.categories.includes(cat))
-      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    const sorted = sortByDateDesc(posts.filter((p) => p.data.categories.includes(cat)));
     return paginate(sorted, { params: { cat }, pageSize: 10 });
   });
 }
@@ -81,7 +80,7 @@ const catBase = `${import.meta.env.BASE_URL}categories/${cat}`;
             </h2>
             <ul class="flex flex-col gap-4">
               {byYear[year].map((post) => {
-                const slug = post.id.replace(/\.mdx?$/, '');
+                const slug = postSlug(post.id);
                 return (
                   <li class="flex items-baseline justify-between gap-4">
                     <a
