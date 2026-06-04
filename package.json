@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
+    "prepare": "lefthook install",
     "dev": "astro dev",
     "predev": "tsx scripts/build-card-cache.ts",
     "build": "astro build && pagefind --site dist",
