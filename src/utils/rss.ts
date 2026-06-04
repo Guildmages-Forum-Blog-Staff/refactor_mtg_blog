@@ -1,4 +1,8 @@
 import type { CollectionEntry } from 'astro:content';
+import { postSlug, sortByDateDesc } from './posts';
+
+/** Maximum number of (most recent) posts included in the feed. */
+const RSS_ITEM_LIMIT = 50;
 
 /**
  * The subset of a posts collection entry the RSS feed needs. Derived from the
@@ -18,18 +22,20 @@ export interface RssItem {
 }
 
 /**
- * Map post collection entries to RSS item objects, newest first.
- * `baseUrl` is expected to carry a trailing slash (e.g. `/refactor_mtg_blog/`);
- * the slug is derived from the entry id with the `.md`/`.mdx` extension removed.
+ * Map post collection entries to RSS item objects, newest first, capped at the
+ * {@link RSS_ITEM_LIMIT} most recent posts. `baseUrl` is expected to carry a
+ * trailing slash (e.g. `/refactor_mtg_blog/`); each link also ends with a
+ * trailing slash so it matches the directory-format page route exactly
+ * (`<base><slug>/`) regardless of dots in the slug.
  */
 export function buildRssItems(posts: RssSourcePost[], baseUrl: string): RssItem[] {
-  return [...posts]
-    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  return sortByDateDesc(posts)
+    .slice(0, RSS_ITEM_LIMIT)
     .map((post) => ({
       title: post.data.title,
       pubDate: post.data.date,
       description: post.data.excerpt ?? '',
-      link: `${baseUrl}${post.id.replace(/\.mdx?$/, '')}`,
+      link: `${baseUrl}${postSlug(post.id)}/`,
       categories: post.data.categories,
     }));
 }
