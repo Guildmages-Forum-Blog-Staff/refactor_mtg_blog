@@ -1,12 +1,13 @@
-export interface RssSourcePost {
-  id: string;
-  data: {
-    title: string;
-    date: Date;
-    excerpt?: string;
-    categories: string[];
-  };
-}
+import type { CollectionEntry } from 'astro:content';
+
+/**
+ * The subset of a posts collection entry the RSS feed needs. Derived from the
+ * content schema via CollectionEntry so it cannot drift from the source of
+ * truth in src/content/config.ts.
+ */
+export type RssSourcePost = Pick<CollectionEntry<'posts'>, 'id'> & {
+  data: Pick<CollectionEntry<'posts'>['data'], 'title' | 'date' | 'excerpt' | 'categories'>;
+};
 
 export interface RssItem {
   title: string;
