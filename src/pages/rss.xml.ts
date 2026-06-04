@@ -2,10 +2,7 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 import type { APIContext } from 'astro';
 import { buildRssItems } from '../utils/rss';
-
-const SITE_TITLE = "Guildmages' Forum 魔風集會所";
-const SITE_DESCRIPTION =
-  "Guildmages' Forum 魔風集會所是一個繁體中文的部落格，致力於推廣魔法風雲會競技型賽制。";
+import { SITE_TITLE, SITE_DESCRIPTION } from '../config/site';
 
 export async function GET(context: APIContext) {
   if (!context.site) {
