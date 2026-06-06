@@ -2,6 +2,7 @@
 import ical, { type ParameterValue, type VEvent } from 'node-ical';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
+import { formatEventDate, eventBadge } from '../utils/calendar';
 
 const ICAL_URL =
   'https://calendar.google.com/calendar/ical/2782072e99e58fdfd8359b71f7fcd3690ac4fd088727d1d47be063132a41f487%40group.calendar.google.com/public/basic.ics';
@@ -11,6 +12,7 @@ interface CalEvent {
   summary: string;
   start: Date;
   end: Date;
+  allDay: boolean;
   description?: string;
   location?: string;
   url?: string;
@@ -38,6 +40,7 @@ try {
       summary: paramValueToString(e.summary) ?? '(無標題)',
       start: e.start,
       end: e.end instanceof Date ? e.end : e.start,
+      allDay: e.datetype === 'date',
       description: paramValueToString(e.description),
       location: paramValueToString(e.location),
       url: e.url,
@@ -58,26 +61,6 @@ const syncedAt = now.toLocaleString('zh-TW', {
 });
 const upcoming = events.filter((e) => e.end >= now);
 const past = events.filter((e) => e.end < now).reverse();
-
-function formatDate(d: Date) {
-  return d.toLocaleDateString('zh-TW', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-    weekday: 'short',
-  });
-}
-
-function formatTime(d: Date): string | null {
-  const h = d.getHours();
-  const m = d.getMinutes();
-  if (h === 0 && m === 0) return null;
-  return d.toLocaleTimeString('zh-TW', { hour: '2-digit', minute: '2-digit', hour12: false });
-}
-
-function isAllDay(start: Date, end: Date) {
-  return formatTime(start) === null && formatTime(end) === null;
-}
 
 function linkifyText(text: string): string {
   const normalized = text.replace(/<br\s*\/?>/gi, '\n');
@@ -145,65 +128,63 @@ function linkifyText(text: string): string {
         <section class="mb-14">
           <h2 class="dark:text-dark-fg/70 mb-6 text-lg font-bold text-gray-700">即將到來</h2>
           <div class="flex flex-col gap-4">
-            {upcoming.map((ev) => (
-              <div
-                class="dark:bg-dark-bg/60 flex cursor-pointer gap-4 rounded-xl border border-white/40 bg-white/70 p-5 shadow-sm backdrop-blur-md transition-shadow hover:shadow-md dark:border-white/10"
-                data-cal-card={ev.uid}
-                data-summary={ev.summary}
-                data-date={
-                  isAllDay(ev.start, ev.end)
-                    ? formatDate(ev.start)
-                    : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`
-                }
-                data-location-html={ev.location ? linkifyText(ev.location) : ''}
-                data-description-html={ev.description ? linkifyText(ev.description) : ''}
-                data-url={ev.url ?? ''}
-              >
-                {/* Date badge */}
-                <div class="bg-primary/10 flex w-16 shrink-0 flex-col items-center justify-center rounded-lg py-2 text-center">
-                  <span class="text-primary text-xs font-semibold">
-                    {ev.start.toLocaleDateString('zh-TW', { month: 'short' })}
-                  </span>
-                  <span class="text-primary text-2xl leading-none font-bold">
-                    {ev.start.getDate()}
-                  </span>
-                </div>
-
-                {/* Details */}
-                <div class="flex min-w-0 flex-col gap-1">
-                  {ev.url ? (
-                    <a
-                      href={ev.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="hover:text-primary dark:text-dark-fg truncate text-base font-semibold text-gray-900 transition-colors"
-                    >
-                      {ev.summary}
-                    </a>
-                  ) : (
-                    <span class="dark:text-dark-fg truncate text-base font-semibold text-gray-900">
-                      {ev.summary}
-                    </span>
-                  )}
-
-                  <div class="dark:text-dark-fg/50 flex flex-wrap gap-x-3 gap-y-1 text-xs text-gray-500">
-                    <span>
-                      {isAllDay(ev.start, ev.end)
-                        ? formatDate(ev.start)
-                        : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`}
-                    </span>
-                    {ev.location && <span set:html={`📍 ${linkifyText(ev.location)}`} />}
+            {upcoming.map((ev) => {
+              const dateText = formatEventDate(ev.start, ev.end, ev.allDay);
+              const badge = eventBadge(ev.start, ev.end, ev.allDay);
+              return (
+                <div
+                  class="dark:bg-dark-bg/60 flex cursor-pointer gap-4 rounded-xl border border-white/40 bg-white/70 p-5 shadow-sm backdrop-blur-md transition-shadow hover:shadow-md dark:border-white/10"
+                  data-cal-card={ev.uid}
+                  data-summary={ev.summary}
+                  data-date={dateText}
+                  data-location-html={ev.location ? linkifyText(ev.location) : ''}
+                  data-description-html={ev.description ? linkifyText(ev.description) : ''}
+                  data-url={ev.url ?? ''}
+                >
+                  {/* Date badge; a bottom bar marks multi-day events */}
+                  <div
+                    class="bg-primary/10 flex w-16 shrink-0 flex-col items-center justify-center rounded-lg py-2 text-center"
+                    title={badge.multiDay ? `共 ${badge.spanDays} 天` : undefined}
+                  >
+                    <span class="text-primary text-xs font-semibold">{badge.month}</span>
+                    <span class="text-primary text-2xl leading-none font-bold">{badge.day}</span>
+                    {badge.multiDay && (
+                      <span class="bg-primary/70 mt-1 h-1 w-6 rounded-full" aria-hidden="true" />
+                    )}
                   </div>
 
-                  {ev.description && (
-                    <p
-                      class="dark:text-dark-fg/70 mt-1 line-clamp-2 text-sm text-gray-600"
-                      set:html={linkifyText(ev.description)}
-                    />
-                  )}
+                  {/* Details */}
+                  <div class="flex min-w-0 flex-col gap-1">
+                    {ev.url ? (
+                      <a
+                        href={ev.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="hover:text-primary dark:text-dark-fg truncate text-base font-semibold text-gray-900 transition-colors"
+                      >
+                        {ev.summary}
+                      </a>
+                    ) : (
+                      <span class="dark:text-dark-fg truncate text-base font-semibold text-gray-900">
+                        {ev.summary}
+                      </span>
+                    )}
+
+                    <div class="dark:text-dark-fg/50 flex flex-wrap gap-x-3 gap-y-1 text-xs text-gray-500">
+                      <span>{dateText}</span>
+                      {ev.location && <span set:html={`📍 ${linkifyText(ev.location)}`} />}
+                    </div>
+
+                    {ev.description && (
+                      <p
+                        class="dark:text-dark-fg/70 mt-1 line-clamp-2 text-sm text-gray-600"
+                        set:html={linkifyText(ev.description)}
+                      />
+                    )}
+                  </div>
                 </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </section>
       )
@@ -214,52 +195,60 @@ function linkifyText(text: string): string {
         <section>
           <h2 class="dark:text-dark-fg/70 mb-6 text-lg font-bold text-gray-700">過去活動</h2>
           <div class="flex flex-col gap-3">
-            {past.map((ev) => (
-              <div
-                class="flex cursor-pointer gap-4 rounded-xl border border-white/20 bg-white/40 p-4 opacity-70 backdrop-blur-sm dark:border-white/5 dark:bg-white/5"
-                data-cal-card={ev.uid}
-                data-summary={ev.summary}
-                data-date={
-                  isAllDay(ev.start, ev.end)
-                    ? formatDate(ev.start)
-                    : `${formatDate(ev.start)} ${formatTime(ev.start)} – ${formatTime(ev.end)}`
-                }
-                data-location-html={ev.location ? linkifyText(ev.location) : ''}
-                data-description-html={ev.description ? linkifyText(ev.description) : ''}
-                data-url={ev.url ?? ''}
-              >
-                <div class="flex w-14 shrink-0 flex-col items-center justify-center rounded-lg bg-gray-200 py-2 text-center dark:bg-white/10">
-                  <span class="dark:text-dark-fg/50 text-xs font-semibold text-gray-500">
-                    {ev.start.toLocaleDateString('zh-TW', { month: 'short' })}
-                  </span>
-                  <span class="dark:text-dark-fg/50 text-xl leading-none font-bold text-gray-500">
-                    {ev.start.getDate()}
-                  </span>
-                </div>
-
-                <div class="flex min-w-0 flex-col gap-0.5">
-                  {ev.url ? (
-                    <a
-                      href={ev.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="hover:text-primary dark:text-dark-fg/60 truncate text-sm font-medium text-gray-600 line-through transition-colors"
-                    >
-                      {ev.summary}
-                    </a>
-                  ) : (
-                    <span class="dark:text-dark-fg/60 truncate text-sm font-medium text-gray-600 line-through">
-                      {ev.summary}
+            {past.map((ev) => {
+              const dateText = formatEventDate(ev.start, ev.end, ev.allDay);
+              const badge = eventBadge(ev.start, ev.end, ev.allDay);
+              return (
+                <div
+                  class="flex cursor-pointer gap-4 rounded-xl border border-white/20 bg-white/40 p-4 opacity-70 backdrop-blur-sm dark:border-white/5 dark:bg-white/5"
+                  data-cal-card={ev.uid}
+                  data-summary={ev.summary}
+                  data-date={dateText}
+                  data-location-html={ev.location ? linkifyText(ev.location) : ''}
+                  data-description-html={ev.description ? linkifyText(ev.description) : ''}
+                  data-url={ev.url ?? ''}
+                >
+                  <div
+                    class="flex w-14 shrink-0 flex-col items-center justify-center rounded-lg bg-gray-200 py-2 text-center dark:bg-white/10"
+                    title={badge.multiDay ? `共 ${badge.spanDays} 天` : undefined}
+                  >
+                    <span class="dark:text-dark-fg/50 text-xs font-semibold text-gray-500">
+                      {badge.month}
                     </span>
-                  )}
-                  <span class="dark:text-dark-fg/40 text-xs text-gray-400">
-                    {formatDate(ev.start)}
-                    {!isAllDay(ev.start, ev.end) && ` ${formatTime(ev.start)}`}
-                    {ev.location && <span set:html={` · ${linkifyText(ev.location)}`} />}
-                  </span>
+                    <span class="dark:text-dark-fg/50 text-xl leading-none font-bold text-gray-500">
+                      {badge.day}
+                    </span>
+                    {badge.multiDay && (
+                      <span
+                        class="mt-1 h-1 w-5 rounded-full bg-gray-400 dark:bg-white/30"
+                        aria-hidden="true"
+                      />
+                    )}
+                  </div>
+
+                  <div class="flex min-w-0 flex-col gap-0.5">
+                    {ev.url ? (
+                      <a
+                        href={ev.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="hover:text-primary dark:text-dark-fg/60 truncate text-sm font-medium text-gray-600 line-through transition-colors"
+                      >
+                        {ev.summary}
+                      </a>
+                    ) : (
+                      <span class="dark:text-dark-fg/60 truncate text-sm font-medium text-gray-600 line-through">
+                        {ev.summary}
+                      </span>
+                    )}
+                    <span class="dark:text-dark-fg/40 text-xs text-gray-400">
+                      {dateText}
+                      {ev.location && <span set:html={` · ${linkifyText(ev.location)}`} />}
+                    </span>
+                  </div>
                 </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </section>
       )
