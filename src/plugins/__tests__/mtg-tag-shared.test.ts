@@ -6,6 +6,7 @@ import {
   htmlEscape,
   normalizeForRetry,
   tokenize, // NEW
+  endsInOpenQuote,
   SET_CODE_PATTERN,
 } from '../mtg-tag-shared';
 
@@ -202,5 +203,29 @@ describe('tokenize', () => {
     // The whole `He said ""Hi""` sits inside an outer quoted span, so the
     // inner spaces must NOT split tokens.
     expect(tokenize('"He said ""Hi"" today"')).toEqual(['He said "Hi" today']);
+  });
+});
+
+describe('endsInOpenQuote', () => {
+  it('flags a body whose quote never closes', () => {
+    expect(endsInOpenQuote('"Seam Rip')).toBe(true); // {% mtglink "Seam Rip %}
+  });
+  it('passes a balanced quoted body', () => {
+    expect(endsInOpenQuote('"Black Lotus"')).toBe(false);
+  });
+  it('passes a bare unquoted body', () => {
+    expect(endsInOpenQuote('Counterspell')).toBe(false);
+  });
+  it('treats curly quotes as delimiters', () => {
+    const open = String.fromCharCode(0x201c);
+    const close = String.fromCharCode(0x201d);
+    expect(endsInOpenQuote(`${open}Lightning Bolt${close}`)).toBe(false);
+    expect(endsInOpenQuote(`${open}Lightning Bolt`)).toBe(true);
+  });
+  it('does not count a backslash-escaped quote as a delimiter', () => {
+    expect(endsInOpenQuote('Black\\" Lotus')).toBe(false);
+  });
+  it('treats a "" pair as a single toggle (matches tokenize)', () => {
+    expect(endsInOpenQuote('""quoted""')).toBe(false);
   });
 });

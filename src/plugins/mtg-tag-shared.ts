@@ -63,6 +63,33 @@ export function tokenize(argString: string): string[] {
   return tokens;
 }
 
+/**
+ * Reports whether `argString` ends with an unterminated quote — i.e. the same
+ * `inQuote` state tracking as `tokenize`, surfaced for the linter. MUST mirror
+ * tokenize's quote handling (straight `"`, curly U+201C/U+201D, `\` escape,
+ * `""` pair). If tokenize's quote logic changes, change this too.
+ */
+export function endsInOpenQuote(argString: string): boolean {
+  let inQuote = false;
+  const STRAIGHT_DOUBLE = String.fromCharCode(0x22);
+  for (let i = 0; i < argString.length; i++) {
+    const ch = argString[i];
+    if (ch === '\\' && i + 1 < argString.length) {
+      i++;
+      continue;
+    }
+    if (ch === STRAIGHT_DOUBLE && argString[i + 1] === STRAIGHT_DOUBLE) {
+      inQuote = !inQuote;
+      i++;
+      continue;
+    }
+    if (ch === STRAIGHT_DOUBLE || ch === OPEN_DOUBLE || ch === CLOSE_DOUBLE) {
+      inQuote = !inQuote;
+    }
+  }
+  return inQuote;
+}
+
 // Set codes are 2-6 alphanumerics. Supports 4-letter promo sets (pmh1, pmoc).
 export const SET_CODE_PATTERN = /^[a-z0-9]{2,6}$/i;
 
