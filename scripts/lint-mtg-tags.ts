@@ -1,5 +1,5 @@
 #!/usr/bin/env tsx
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { endsInOpenQuote } from '../src/plugins/mtg-tag-shared';
@@ -82,6 +82,9 @@ export function lintFiles(files: string[]): Finding[] {
   const out: Finding[] = [];
   for (const f of files) {
     if (!/\.(md|mdx)$/.test(f)) continue;
+    // lefthook's {staged_files} can include staged deletions, whose paths are
+    // already gone from disk — skip rather than crash the commit with ENOENT.
+    if (!existsSync(f)) continue;
     out.push(...lintText(readFileSync(f, 'utf8'), f));
   }
   return out;

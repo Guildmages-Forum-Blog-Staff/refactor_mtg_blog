@@ -50,4 +50,15 @@ describe('lintFiles', () => {
     expect(fs.some((f) => f.file === bad)).toBe(true);
     expect(fs.some((f) => f.file === good)).toBe(false);
   });
+
+  it('skips paths that no longer exist (lefthook may pass staged deletions)', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'lint-'));
+    const deleted = join(dir, 'deleted.md'); // never written -> does not exist
+    const present = join(dir, 'present.md');
+    writeFileSync(present, '{% mtglink "Seam Rip %}');
+    // Must not throw on the missing path, and must still lint the present one.
+    const fs = lintFiles([deleted, present]);
+    expect(fs.every((f) => f.file === present)).toBe(true);
+    expect(fs.some((f) => f.rule === 'unbalanced-quote')).toBe(true);
+  });
 });
