@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "lint:tags": "tsx scripts/lint-mtg-tags.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "check": "astro check",
