@@ -142,7 +142,7 @@ MIT後的近代藍黑（或是艾斯波），我認為可以往中速方向走�
 由於本文是我主筆的關係，以下的主要內容，會以[我的牌表](https://melee.gg/Decklist/View/474954)為主去進行說明。這邊也說明一下我跟Jeff的版本主要的差異：
 - 主牌局我選用了3張 {% mtglink "Force of Negation" alt="FON" %} 而他沒帶；Jeff改帶了2張 {% mtglink "Consider" %} 、以及一張 {% mtglink "Drown in the Loch" %} ，而第3張的剋墳選用也有些許的差異。
 - 生物的部分，Jeff專注於價值，以及一些靠  {% mtglink "Harbinger of the Seas" alt="海島人" %} unfair win的對局， {% mtglink "Tamiyo, Inquisitive Student//Tamiyo, Seasoned Scholar" alt="多美代" %} 與海島人各帶足2張；我則更專注於解牌的應對，這兩張生物牌只帶各1張，多帶了 {% mtglink "Prismatic Ending" %} ，與 {% mtglink "Sink into Stupor//Soporific Springs" %} 。 
-- 找地地的選用，Jeff做得更為分散，能降低被 {% mtglink "Surgical Extraction" alt="手摘" %} 的影響。另外，他帶了第3張 {% mtglink "Watery Grave" alt"藍黑電震地" %} ，來降低中後期正拍海島循環、亙古回聲而被快地卡住的問題。
+- 找地地的選用，Jeff做得更為分散，能降低被 {% mtglink "Surgical Extraction" alt="手摘" %} 的影響。另外，他帶了第3張 {% mtglink "Watery Grave" alt="藍黑電震地" %} ，來降低中後期正拍海島循環、亙古回聲而被快地卡住的問題。
 - 而備牌基本上12張相同，但我更重視剋墳與換備後的中速對局；而Jeff更重視需要掃場、以及Eldrazi Ramp的對局。
 - Jeff賽後檢討，正編應該捨棄 {% mtglink "Consider" %}  投入{% mtglink "Force of Negation" alt="FON" %} ，已經有兩張多美代的情況，FON的代價完全可以接受，備牌的 {% mtglink "Shatter Assumptions" %} 並不是好選擇，會傾向帶第四張的 {% mtglink "Consign to Memory" %} 。
 
@@ -336,7 +336,7 @@ Preordain作為套牌濾牌的基石，但由於環境中存在著過快的組�
 
 由於是三色混白的構築，至少需要兩張可以被找出、且可以產白的地。
 
-4張電震地中，選擇2張藍黑、2張白藍的版本， {% mtglink "Watery Grave" alt"藍黑電震地" %} 放2張是主色的關係，而 {% mtglink "Hallowed Fountain" alt"白藍電震地" %} 曾經測過只放1張，另一張改放 {% mtglink "Meticulous Archive" alt="白藍刺探地" %} ，發現會在需要一回 {% mtglink "Prismatic Ending" %} 時但手上是必須躺進的刺探地的局面，因此最後還是選擇帶2張白藍電震地。
+4張電震地中，選擇2張藍黑、2張白藍的版本， {% mtglink "Watery Grave" alt="藍黑電震地" %} 放2張是主色的關係，而 {% mtglink "Hallowed Fountain" alt="白藍電震地" %} 曾經測過只放1張，另一張改放 {% mtglink "Meticulous Archive" alt="白藍刺探地" %} ，發現會在需要一回 {% mtglink "Prismatic Ending" %} 時但手上是必須躺進的刺探地的局面，因此最後還是選擇帶2張白藍電震地。
 
 而在多次測試中，刺探地可接受的上限基本上是2張，測過多放一張白藍刺探的版本，但一樣是被卡住過後就改回2張了。而不選擇藍黑、白藍各1張的原因是，基本上前兩回合如果雙方都是下找地後讓過的控制對局，你基本上是希望刺探後三回合時不會卡住你2發黑色咒語（例：Bowmaster+Push），因此選擇2張 {% mtglink "Undercity Sewers" alt="藍黑刺探地" %} 。
 
