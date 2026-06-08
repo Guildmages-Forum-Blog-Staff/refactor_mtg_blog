@@ -60,11 +60,16 @@ describe('remarkScryfall', () => {
     expect(html).toContain('href="https://cards.scryfall.io/large/front/c/d/cd456.jpg"');
   });
 
-  it('preserves inline formatting (bold) inside the scryfall-card anchor', async () => {
-    const input = '[**衝動**](https://cards.scryfall.io/large/front/a/b/abc123.jpg)';
+  it.each([
+    ['bold', '[**衝動**]', '<strong>衝動</strong>'],
+    ['italic', '[*衝動*]', '<em>衝動</em>'],
+    ['bold-italic', '[***衝動***]', '<em><strong>衝動</strong></em>'],
+  ])('preserves inline %s inside the scryfall-card anchor', async (_kind, wrapped, expected) => {
+    const input = `${wrapped}(https://cards.scryfall.io/large/front/a/b/abc123.jpg)`;
     const file = await process(input);
     const html = String(file);
     expect(html).toContain('class="scryfall-card"');
-    expect(html).toContain('<strong>衝動</strong>');
+    expect(html).toContain(expected);
+    expect(html).not.toContain('*'); // no literal emphasis markers leaked
   });
 });
