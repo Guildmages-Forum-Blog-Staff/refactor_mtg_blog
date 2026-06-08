@@ -5,6 +5,7 @@ import {
   matchResultBack,
   buildCollectionIdentifier,
   trimCardData,
+  SCRYFALL_HEADERS,
 } from '../build-card-cache';
 
 describe('scanTextForRefs', () => {
@@ -189,5 +190,12 @@ describe('trimCardData', () => {
     });
     // Distinguishes "key absent" from "key present with value undefined".
     expect('oracle_id' in trimmed).toBe(false);
+  });
+});
+
+describe('SCRYFALL_HEADERS', () => {
+  it('sends a custom, node-related User-Agent (Scryfall 400s on a default one)', () => {
+    expect(SCRYFALL_HEADERS['User-Agent']).toMatch(/^Node\.js\//);
+    expect(SCRYFALL_HEADERS['Accept']).toBe('application/json');
   });
 });

@@ -71,6 +71,15 @@ const SCRYFALL_BASE = 'https://api.scryfall.com';
 const COLLECTION_BATCH_SIZE = 75;
 let RATE_LIMIT_MS = 500;
 
+// Scryfall rejects requests that carry a default HTTP-library User-Agent with
+// HTTP 400, and asks every client to identify itself plus declare an Accept
+// type. Send these on every request — omitting them fails the whole batch.
+// See https://scryfall.com/docs/api ("Required request headers").
+export const SCRYFALL_HEADERS: Record<string, string> = {
+  'User-Agent': `Node.js/${process.version}`,
+  Accept: 'application/json',
+};
+
 /**
  * Test-only: redirect filesystem paths and rate-limit. Pass an empty object
  * (or omit fields) to revert to production defaults.
@@ -428,7 +437,7 @@ async function postCollection(identifiers: Record<string, string>[]): Promise<Co
   // identifiers: array of {name?, set?, collector_number?}, max 75
   const res = await fetch(`${SCRYFALL_BASE}/cards/collection`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { ...SCRYFALL_HEADERS, 'Content-Type': 'application/json' },
     body: JSON.stringify({ identifiers }),
   });
   if (!res.ok) {
@@ -444,7 +453,7 @@ async function getSingleCardMultilingual(args: SearchArgs): Promise<ScryfallCard
     ? `!"${args.name}" set:${args.edition} lang:${args.language}`
     : `!"${args.name}" lang:${args.language}`;
   const url = `${SCRYFALL_BASE}/cards/search?q=${encodeURIComponent(q)}&include_multilingual=1`;
-  const res = await fetch(url);
+  const res = await fetch(url, { headers: SCRYFALL_HEADERS });
   if (!res.ok) return null;
   const json = (await res.json()) as { data?: ScryfallCard[] };
   if (!json.data || json.data.length === 0) return null;
@@ -491,7 +500,7 @@ async function getSingleCardByFlavor(args: SearchArgs): Promise<ScryfallCard | n
   if (HEXO_DELIM_RE.test(args.name)) return null;
   const q = args.edition ? `!"${args.name}" set:${args.edition}` : `!"${args.name}"`;
   const url = `${SCRYFALL_BASE}/cards/search?q=${encodeURIComponent(q)}`;
-  const res = await fetch(url);
+  const res = await fetch(url, { headers: SCRYFALL_HEADERS });
   if (!res.ok) return null;
   const json = (await res.json()) as { data?: ScryfallCard[] };
   if (!json.data || json.data.length === 0) return null;
