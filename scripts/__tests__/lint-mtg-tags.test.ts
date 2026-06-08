@@ -1,5 +1,8 @@
 import { describe, it, expect } from 'vitest';
-import { lintText, type Finding } from '../lint-mtg-tags';
+import { lintText, lintFiles, type Finding } from '../lint-mtg-tags';
+import { mkdtempSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 
 const rules = (fs: Finding[]) => fs.map((f) => f.rule).sort();
 
@@ -33,5 +36,18 @@ describe('lintText', () => {
 
   it('does not flag escaped or paired quotes', () => {
     expect(lintText('{% mtgcard Black\\" Lotus %}', 'ok.md')).toEqual([]);
+  });
+});
+
+describe('lintFiles', () => {
+  it('collects findings across explicit files', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'lint-'));
+    const good = join(dir, 'good.md');
+    const bad = join(dir, 'bad.md');
+    writeFileSync(good, '{% mtglink "Seam Rip" %}');
+    writeFileSync(bad, '{% mtglink "Seam Rip %}');
+    const fs = lintFiles([good, bad]);
+    expect(fs.some((f) => f.file === bad)).toBe(true);
+    expect(fs.some((f) => f.file === good)).toBe(false);
   });
 });

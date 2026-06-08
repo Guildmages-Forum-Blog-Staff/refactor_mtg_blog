@@ -1,4 +1,7 @@
 #!/usr/bin/env tsx
+import { readFileSync, readdirSync } from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 import { endsInOpenQuote } from '../src/plugins/mtg-tag-shared';
 
 export type LintRule = 'unterminated-tag' | 'unbalanced-quote';
@@ -67,4 +70,45 @@ export function lintText(text: string, file: string): Finding[] {
   }
 
   return findings.sort((a, b) => a.line - b.line);
+}
+
+// This project is ESM ("type": "module"); CommonJS `__dirname` / `require.main`
+// are unavailable, so derive both from import.meta — same idiom as
+// scripts/build-card-cache.ts.
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const POSTS_DIR = path.resolve(__dirname, '..', 'src', 'content', 'posts');
+
+export function lintFiles(files: string[]): Finding[] {
+  const out: Finding[] = [];
+  for (const f of files) {
+    if (!/\.(md|mdx)$/.test(f)) continue;
+    out.push(...lintText(readFileSync(f, 'utf8'), f));
+  }
+  return out;
+}
+
+function walkPosts(dir: string): string[] {
+  const out: string[] = [];
+  for (const e of readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, e.name);
+    if (e.isDirectory()) out.push(...walkPosts(full));
+    else if (e.isFile() && /\.(md|mdx)$/.test(e.name)) out.push(full);
+  }
+  return out;
+}
+
+// CLI: lint the file args, or every post when none are given. The
+// import.meta.url check is true only when run directly via tsx (not imported).
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+  const args = process.argv.slice(2).filter((a) => !a.startsWith('-'));
+  const files = args.length ? args : walkPosts(POSTS_DIR);
+  const findings = lintFiles(files);
+  if (findings.length) {
+    for (const f of findings) {
+      console.error(`${f.file}:${f.line}  [${f.rule}] ${f.message}\n    ${f.snippet}`);
+    }
+    console.error(`\n[lint-mtg-tags] ${findings.length} problem(s) found.`);
+    process.exit(1);
+  }
+  console.log('[lint-mtg-tags] no problems found.');
 }
