@@ -2,9 +2,9 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { endsInOpenQuote } from '../src/plugins/mtg-tag-shared';
+import { endsInOpenQuote, findMalformedKvKey } from '../src/plugins/mtg-tag-shared';
 
-export type LintRule = 'unterminated-tag' | 'unbalanced-quote';
+export type LintRule = 'unterminated-tag' | 'unbalanced-quote' | 'malformed-kv';
 
 export interface Finding {
   file: string;
@@ -54,16 +54,29 @@ export function lintText(text: string, file: string): Finding[] {
     }
   }
 
-  // Rule 2: a well-formed name tag whose body ends with an open quote.
+  // Rules 2 & 3 both inspect well-formed (closed) name tags' bodies.
   TAG_RE.lastIndex = 0;
   let m: RegExpExecArray | null;
   while ((m = TAG_RE.exec(text)) !== null) {
+    // Rule 2: a body that ends with an open quote (missing closing ").
     if (endsInOpenQuote(m[2])) {
       findings.push({
         file,
         line: lineOf(text, m.index),
         rule: 'unbalanced-quote',
         message: 'mtg tag body has an unterminated quote (likely a missing closing ")',
+        snippet: snippetAt(text, m.index),
+      });
+    }
+    // Rule 3: a KV key glued to a quote with no `=` (e.g. alt"x"). Quotes stay
+    // balanced so Rule 2 can't see it, yet the renderer silently drops the arg.
+    const kvKey = findMalformedKvKey(m[2]);
+    if (kvKey) {
+      findings.push({
+        file,
+        line: lineOf(text, m.index),
+        rule: 'malformed-kv',
+        message: `mtg tag arg "${kvKey}" is missing '=' (write ${kvKey}="...")`,
         snippet: snippetAt(text, m.index),
       });
     }

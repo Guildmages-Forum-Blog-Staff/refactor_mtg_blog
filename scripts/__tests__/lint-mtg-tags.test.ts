@@ -37,6 +37,17 @@ describe('lintText', () => {
   it('does not flag escaped or paired quotes', () => {
     expect(lintText('{% mtgcard Black\\" Lotus %}', 'ok.md')).toEqual([]);
   });
+
+  it('flags a KV arg missing its = (alt"x")', () => {
+    // {% mtglink "Watery Grave" alt"藍黑電震地" %} — quotes stay balanced and the
+    // tag is closed, so only the malformed-kv rule can catch this.
+    const text = '{% mtglink "Watery Grave" alt"x" %}';
+    expect(rules(lintText(text, 'bad.md'))).toContain('malformed-kv');
+  });
+
+  it('passes a well-formed KV arg (alt="x")', () => {
+    expect(lintText('{% mtglink "Watery Grave" alt="x" %}', 'ok.md')).toEqual([]);
+  });
 });
 
 describe('lintFiles', () => {
