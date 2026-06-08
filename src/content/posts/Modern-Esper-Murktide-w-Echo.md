@@ -144,7 +144,7 @@ MIT後的近代藍黑（或是艾斯波），我認為可以往中速方向走�
 - 生物的部分，Jeff專注於價值，以及一些靠  {% mtglink "Harbinger of the Seas" alt="海島人" %} unfair win的對局， {% mtglink "Tamiyo, Inquisitive Student//Tamiyo, Seasoned Scholar" alt="多美代" %} 與海島人各帶足2張；我則更專注於解牌的應對，這兩張生物牌只帶各1張，多帶了 {% mtglink "Prismatic Ending" %} ，與 {% mtglink "Sink into Stupor//Soporific Springs" %} 。 
 - 找地地的選用，Jeff做得更為分散，能降低被 {% mtglink "Surgical Extraction" alt="手摘" %} 的影響。另外，他帶了第3張 {% mtglink "Watery Grave" alt"藍黑電震地" %} ，來降低中後期正拍海島循環、亙古回聲而被快地卡住的問題。
 - 而備牌基本上12張相同，但我更重視剋墳與換備後的中速對局；而Jeff更重視需要掃場、以及Eldrazi Ramp的對局。
-- Jeff賽後檢討，正編應該捨棄 {% mtglink "Consider" %}  投入{% mtglink "Force of Negation" alt="FON" %} ，已經有兩張多美代的情況，FON的代價完全可以接受，備牌的 {% mtglink Shatter Assumptions" %} 並不是好選擇，會傾向帶第四張的 {% mtglink "Consign to Memory" %} 。
+- Jeff賽後檢討，正編應該捨棄 {% mtglink "Consider" %}  投入{% mtglink "Force of Negation" alt="FON" %} ，已經有兩張多美代的情況，FON的代價完全可以接受，備牌的 {% mtglink "Shatter Assumptions" %} 並不是好選擇，會傾向帶第四張的 {% mtglink "Consign to Memory" %} 。
 
 ### 套牌核心
 
