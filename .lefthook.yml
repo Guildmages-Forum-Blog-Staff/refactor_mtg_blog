@@ -51,3 +51,6 @@ pre-commit:
       glob: '*.{js,mjs,ts,astro,vue}'
       run: npx eslint --fix {staged_files}
       stage_fixed: true
+    mtg-tags:
+      glob: '*.{md,mdx}'
+      run: npx tsx scripts/lint-mtg-tags.ts {staged_files}
