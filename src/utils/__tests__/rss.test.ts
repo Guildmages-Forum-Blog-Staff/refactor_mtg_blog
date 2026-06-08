@@ -123,4 +123,22 @@ describe('buildChannelData', () => {
       '<atom:link href="https://x/feed/rss.xml" rel="self" type="application/rss+xml" />',
     );
   });
+
+  it('escapes XML metacharacters in the feed href attribute', () => {
+    expect(buildChannelData('https://x/rss.xml?a=1&b=2"<>', 'zh-TW')).toContain(
+      'href="https://x/rss.xml?a=1&amp;b=2&quot;&lt;&gt;"',
+    );
+  });
+
+  it('escapes XML metacharacters in the language tag content', () => {
+    expect(buildChannelData('https://x/rss.xml', 'a&b<c>')).toContain(
+      '<language>a&amp;b&lt;c&gt;</language>',
+    );
+  });
+
+  it('escapes a single quote to &apos; even where a double-quoted attribute does not require it', () => {
+    expect(buildChannelData("https://x/rss.xml?q='", 'zh-TW')).toContain(
+      'href="https://x/rss.xml?q=&apos;"',
+    );
+  });
 });

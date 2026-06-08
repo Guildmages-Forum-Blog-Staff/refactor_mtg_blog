@@ -54,10 +54,33 @@ export function feedSelfHref(siteWithBase: URL): string {
   return new URL('rss.xml', siteWithBase).href;
 }
 
+const XML_ESCAPES: Record<string, string> = {
+  '&': '&amp;',
+  '<': '&lt;',
+  '>': '&gt;',
+  '"': '&quot;',
+  "'": '&apos;',
+};
+
+/**
+ * Escape every XML metacharacter that has a predefined entity — `&`, `<`, `>`,
+ * `"`, `'`. A single character-class pass maps each source character exactly
+ * once, so there is no "`&` must come first" ordering hazard that a chain of
+ * `.replace()` calls would carry. We escape all five even where a context
+ * (e.g. `'` inside a double-quoted attribute) would not strictly require it:
+ * for security-relevant markup, escape everything escapable rather than
+ * reasoning about which character is safe in which position.
+ */
+function escapeXml(value: string): string {
+  return value.replace(/[&<>"']/g, (c) => XML_ESCAPES[c]);
+}
+
 /**
  * Channel-level custom XML: the language tag and an atom:self link. The latter
  * needs `xmlns: { atom: 'http://www.w3.org/2005/Atom' }` on the rss() call.
+ * Both interpolated values are XML-escaped so feed hrefs carrying a query
+ * string (`&`) or any metacharacter cannot break out of the markup.
  */
 export function buildChannelData(feedHref: string, language: string): string {
-  return `<language>${language}</language><atom:link href="${feedHref}" rel="self" type="application/rss+xml" />`;
+  return `<language>${escapeXml(language)}</language><atom:link href="${escapeXml(feedHref)}" rel="self" type="application/rss+xml" />`;
 }
