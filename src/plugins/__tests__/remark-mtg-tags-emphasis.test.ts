@@ -10,11 +10,12 @@ import { __setCardDataForTests } from '../mtg-card-cache';
 // Regression guard for the Hexo tag-plugin failure mode: Hexo replaces
 // `{% mtglink %}` with an HTML-comment placeholder BEFORE markdown runs, so a
 // placeholder at the start of a line becomes a CommonMark HTML block that
-// swallows the rest of the line — any `**bold**` after it stops being parsed as
-// emphasis and leaks literal `**`. This project's remarkMtgTags runs AFTER the
-// markdown parse (it rewrites `text` nodes in the mdast tree), so `**bold**` is
-// already its own `strong` node before the tag is touched. These tests assert
-// the final HTML still contains <strong>, especially when mtglink comes first.
+// swallows the rest of the line — any emphasis (`**bold**`, `*italic*`,
+// `***both***`) after it stops being parsed and leaks literal asterisks. This
+// project's remarkMtgTags runs AFTER the markdown parse (it rewrites `text`
+// nodes in the mdast tree), so emphasis is already its own em/strong node
+// before the tag is touched. These tests assert the final HTML keeps the
+// emphasis element, especially when mtglink comes first.
 
 const blackLotus = {
   name: 'Black Lotus',
@@ -23,7 +24,7 @@ const blackLotus = {
   card_faces: [{ image: 'https://img/black-lotus.jpg' }],
 };
 
-// Mirror Astro's chain so emphasis is rendered to <strong> (markdown->markdown
+// Mirror Astro's chain so emphasis is rendered to em/strong (markdown->markdown
 // would stringify it back to `**bold**` and prove nothing).
 const toHtml = (md: string) =>
   String(
@@ -40,19 +41,23 @@ beforeEach(() => {
   __setCardDataForTests({ found: { 'search|Black Lotus||en': blackLotus }, not_found: {} });
 });
 
-describe('remarkMtgTags — bold interop (Hexo placeholder regression)', () => {
-  it('bold still renders when mtglink is used FIRST in the paragraph', () => {
-    const html = toHtml('{% mtglink "Black Lotus" %} 然後使用 **致命一擊**');
+describe('remarkMtgTags — emphasis interop (Hexo placeholder regression)', () => {
+  it.each([
+    ['bold', '**致命一擊**', '<strong>致命一擊</strong>'],
+    ['italic', '*致命一擊*', '<em>致命一擊</em>'],
+    ['bold-italic', '***致命一擊***', '<em><strong>致命一擊</strong></em>'],
+  ])('%s still renders when mtglink is used FIRST in the paragraph', (_kind, emph, expected) => {
+    const html = toHtml(`{% mtglink "Black Lotus" %} 然後使用 ${emph}`);
     expect(html).toContain('class="tooltip"'); // mtglink rendered
-    expect(html).toContain('<strong>致命一擊</strong>'); // bold survived
-    expect(html).not.toContain('**'); // no literal asterisks leaked
+    expect(html).toContain(expected); // emphasis survived
+    expect(html).not.toContain('*'); // no literal asterisks leaked
   });
 
-  it('bold renders when mtglink comes after the bold', () => {
+  it('emphasis renders when mtglink comes after the bold', () => {
     const html = toHtml('**致命一擊** 然後使用 {% mtglink "Black Lotus" %}');
     expect(html).toContain('<strong>致命一擊</strong>');
     expect(html).toContain('class="tooltip"');
-    expect(html).not.toContain('**');
+    expect(html).not.toContain('*');
   });
 
   it('bold on both sides of an mtglink in the same paragraph', () => {
@@ -60,6 +65,6 @@ describe('remarkMtgTags — bold interop (Hexo placeholder regression)', () => {
     expect(html).toContain('<strong>前面粗體</strong>');
     expect(html).toContain('<strong>後面粗體</strong>');
     expect(html).toContain('class="tooltip"');
-    expect(html).not.toContain('**');
+    expect(html).not.toContain('*');
   });
 });
