@@ -1,8 +1,21 @@
 import { describe, it, expect } from 'vitest';
-import { remark } from 'remark';
+import { unified } from 'unified';
+import remarkParse from 'remark-parse';
+import remarkRehype from 'remark-rehype';
+import rehypeRaw from 'rehype-raw';
+import rehypeStringify from 'rehype-stringify';
 import { remarkScryfall } from '../remark-scryfall';
 
-const process = (markdown: string) => remark().use(remarkScryfall).process(markdown);
+// Mirror Astro's chain (parse -> remark plugins -> rehype allowDangerousHtml -> raw -> stringify)
+// so assertions run against the final HTML, where hProperties take effect.
+const process = (markdown: string) =>
+  unified()
+    .use(remarkParse)
+    .use(remarkScryfall)
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeRaw)
+    .use(rehypeStringify)
+    .process(markdown);
 
 describe('remarkScryfall', () => {
   it('transforms scryfall image link to scryfall-card anchor', async () => {
@@ -45,5 +58,13 @@ describe('remarkScryfall', () => {
     const file = await process(input);
     const html = String(file);
     expect(html).toContain('href="https://cards.scryfall.io/large/front/c/d/cd456.jpg"');
+  });
+
+  it('preserves inline formatting (bold) inside the scryfall-card anchor', async () => {
+    const input = '[**衝動**](https://cards.scryfall.io/large/front/a/b/abc123.jpg)';
+    const file = await process(input);
+    const html = String(file);
+    expect(html).toContain('class="scryfall-card"');
+    expect(html).toContain('<strong>衝動</strong>');
   });
 });
