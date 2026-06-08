@@ -71,12 +71,16 @@ const SCRYFALL_BASE = 'https://api.scryfall.com';
 const COLLECTION_BATCH_SIZE = 75;
 let RATE_LIMIT_MS = 500;
 
-// Scryfall rejects requests that carry a default HTTP-library User-Agent with
-// HTTP 400, and asks every client to identify itself plus declare an Accept
-// type. Send these on every request — omitting them fails the whole batch.
-// See https://scryfall.com/docs/api ("Required request headers").
+// Scryfall requires a User-Agent that names the application (e.g.
+// "MTGExampleApp/1.0") and an Accept header; a default HTTP-library UA gets an
+// HTTP 400 that fails the whole batch. Identify by app name + package version
+// (read from package.json so the version tracks releases automatically).
+// See https://scryfall.com/docs/api ("Required Headers").
+const PKG_VERSION = (
+  JSON.parse(fs.readFileSync(path.join(REPO_ROOT, 'package.json'), 'utf8')) as { version: string }
+).version;
 export const SCRYFALL_HEADERS: Record<string, string> = {
-  'User-Agent': `Node.js/${process.version}`,
+  'User-Agent': `GuildmagesForumBlog/${PKG_VERSION}`,
   Accept: 'application/json',
 };
 

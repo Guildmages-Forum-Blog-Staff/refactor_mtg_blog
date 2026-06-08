@@ -194,8 +194,11 @@ describe('trimCardData', () => {
 });
 
 describe('SCRYFALL_HEADERS', () => {
-  it('sends a custom, node-related User-Agent (Scryfall 400s on a default one)', () => {
-    expect(SCRYFALL_HEADERS['User-Agent']).toMatch(/^Node\.js\//);
+  it('identifies the app by name + version (not a library-default UA)', () => {
+    // Scryfall: "the header should be the name of your application, such as
+    // MTGExampleApp/1.0 ... Do not allow HTTP libraries to choose the header."
+    expect(SCRYFALL_HEADERS['User-Agent']).toMatch(/^GuildmagesForumBlog\/\d+\.\d+\.\d+/);
+    expect(SCRYFALL_HEADERS['User-Agent']).not.toMatch(/^Node\.js\//);
     expect(SCRYFALL_HEADERS['Accept']).toBe('application/json');
   });
 });
