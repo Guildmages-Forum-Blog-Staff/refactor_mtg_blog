@@ -140,6 +140,55 @@ const KV_KEYS = ['alt', 'tooltip', 'language'] as const;
 type KvKey = (typeof KV_KEYS)[number];
 const ALLOWED_KV: ReadonlySet<string> = new Set<string>(KV_KEYS);
 
+/**
+ * Scans a tag argument string for a malformed key-value arg: a whitelisted KV
+ * key (alt/tooltip/language) glued directly onto an opening quote with no `=`
+ * between them, e.g. `alt"foo"` (author dropped the `=`; should be `alt="foo"`).
+ * `tokenize` silently collapses `alt"foo"` into the bare token `altfoo`, which
+ * `parseSearchTagArgs`/`applyKv` then drop on the floor — so the alt/tooltip/
+ * language is lost with no error. The render plugins' two structural checks
+ * (`endsInOpenQuote`, unterminated-tag) cannot see it because the quotes stay
+ * balanced and the tag is closed; this is the only probe that surfaces it.
+ *
+ * Mirrors `tokenize`'s quote handling so a KV key appearing *inside* a quoted
+ * name (e.g. `"Foo alt"`) is never mistaken for a bare arg. Returns the
+ * offending key, or null. If tokenize's quote logic changes, change this too.
+ */
+export function findMalformedKvKey(argString: string): string | null {
+  let inQuote = false;
+  let bare = '';
+  const STRAIGHT_DOUBLE = String.fromCharCode(0x22);
+  for (let i = 0; i < argString.length; i++) {
+    const ch = argString[i];
+    if (ch === '\\' && i + 1 < argString.length) {
+      // Escaped char becomes literal — joins the current bare token (as tokenize does).
+      if (!inQuote) bare += argString[i + 1];
+      i++;
+      continue;
+    }
+    if (ch === STRAIGHT_DOUBLE && argString[i + 1] === STRAIGHT_DOUBLE) {
+      // `""` pair toggles quote state without acting as a lone open/close; the
+      // literal `"` it injects means `bare` can never equal a clean KV key.
+      inQuote = !inQuote;
+      bare = '';
+      i++;
+      continue;
+    }
+    if (ch === STRAIGHT_DOUBLE || ch === OPEN_DOUBLE || ch === CLOSE_DOUBLE) {
+      // A lone quote that OPENS a span directly after a bare KV key === the typo.
+      if (!inQuote && ALLOWED_KV.has(bare)) return bare;
+      inQuote = !inQuote;
+      bare = '';
+      continue;
+    }
+    if (!inQuote) {
+      if (/\s/.test(ch)) bare = '';
+      else bare += ch;
+    }
+  }
+  return null;
+}
+
 function applyKv(args: SearchArgs | PickArgs, entry: string): void {
   const eq = entry.indexOf('=');
   if (eq <= 0) return;

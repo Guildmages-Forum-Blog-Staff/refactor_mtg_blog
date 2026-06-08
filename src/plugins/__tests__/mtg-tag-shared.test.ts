@@ -7,6 +7,7 @@ import {
   normalizeForRetry,
   tokenize, // NEW
   endsInOpenQuote,
+  findMalformedKvKey,
   SET_CODE_PATTERN,
 } from '../mtg-tag-shared';
 
@@ -227,5 +228,27 @@ describe('endsInOpenQuote', () => {
   });
   it('treats a "" pair as a single toggle (matches tokenize)', () => {
     expect(endsInOpenQuote('""quoted""')).toBe(false);
+  });
+});
+
+describe('findMalformedKvKey', () => {
+  it('flags a KV key glued directly to an opening quote (missing =)', () => {
+    // {% mtglink "Watery Grave" alt"藍黑電震地" %} — author dropped the `=`.
+    expect(findMalformedKvKey('"Watery Grave" alt"x"')).toBe('alt');
+  });
+  it('returns null for a well-formed KV arg', () => {
+    expect(findMalformedKvKey('"Watery Grave" alt="x"')).toBeNull();
+  });
+  it('does not flag a KV key that appears inside a quoted name', () => {
+    // "alt" sits inside the quoted name, not as a bare arg — must not trip.
+    expect(findMalformedKvKey('"Foo alt"')).toBeNull();
+  });
+  it('flags tooltip and language, not just alt', () => {
+    expect(findMalformedKvKey('Foo tooltip"true"')).toBe('tooltip');
+    expect(findMalformedKvKey('Foo language"ja"')).toBe('language');
+  });
+  it('returns null for plain bare or quoted names', () => {
+    expect(findMalformedKvKey('Counterspell')).toBeNull();
+    expect(findMalformedKvKey('"Black Lotus"')).toBeNull();
   });
 });
