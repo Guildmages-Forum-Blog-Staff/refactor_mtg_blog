@@ -60,16 +60,25 @@ describe('remarkScryfall', () => {
     expect(html).toContain('href="https://cards.scryfall.io/large/front/c/d/cd456.jpg"');
   });
 
+  // `leak` is the substring that would appear if the emphasis marker leaked
+  // unparsed. Underscore cases use a name-qualified guard because the anchor
+  // legitimately contains `target="_blank"`, so a bare `_` would false-positive.
   it.each([
-    ['bold', '[**衝動**]', '<strong>衝動</strong>'],
-    ['italic', '[*衝動*]', '<em>衝動</em>'],
-    ['bold-italic', '[***衝動***]', '<em><strong>衝動</strong></em>'],
-  ])('preserves inline %s inside the scryfall-card anchor', async (_kind, wrapped, expected) => {
-    const input = `${wrapped}(https://cards.scryfall.io/large/front/a/b/abc123.jpg)`;
-    const file = await process(input);
-    const html = String(file);
-    expect(html).toContain('class="scryfall-card"');
-    expect(html).toContain(expected);
-    expect(html).not.toContain('*'); // no literal emphasis markers leaked
-  });
+    ['bold', '[**衝動**]', '<strong>衝動</strong>', '*'],
+    ['italic', '[*衝動*]', '<em>衝動</em>', '*'],
+    ['bold-italic', '[***衝動***]', '<em><strong>衝動</strong></em>', '*'],
+    ['underscore italic', '[_衝動_]', '<em>衝動</em>', '_衝動'],
+    ['underscore bold', '[__衝動__]', '<strong>衝動</strong>', '_衝動'],
+    ['underscore bold-italic', '[___衝動___]', '<em><strong>衝動</strong></em>', '_衝動'],
+  ])(
+    'preserves inline %s inside the scryfall-card anchor',
+    async (_kind, wrapped, expected, leak) => {
+      const input = `${wrapped}(https://cards.scryfall.io/large/front/a/b/abc123.jpg)`;
+      const file = await process(input);
+      const html = String(file);
+      expect(html).toContain('class="scryfall-card"');
+      expect(html).toContain(expected);
+      expect(html).not.toContain(leak); // no literal emphasis markers leaked
+    },
+  );
 });
