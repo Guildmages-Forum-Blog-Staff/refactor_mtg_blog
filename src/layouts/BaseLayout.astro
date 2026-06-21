@@ -64,24 +64,40 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
           'position:fixed;z-index:9999;pointer-events:none;display:none;transition:opacity 0.15s;';
         document.body.appendChild(tooltip);
 
+        const CARD_IMG_CSS =
+          'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
+
+        function makeImg(src: string): HTMLImageElement {
+          const img = document.createElement('img');
+          img.src = src;
+          img.style.cssText = CARD_IMG_CSS;
+          img.loading = 'lazy';
+          return img;
+        }
+
         document.addEventListener('mouseover', (e) => {
-          const link = (e.target as Element).closest('a.scryfall-card');
-          if (!link) return;
-          const imgUrl = link.getAttribute('data-card-image');
-          if (!imgUrl) return;
-          const urls = imgUrl.split('|').filter(Boolean);
-          tooltip.replaceChildren(
-            ...urls.map((src) => {
-              const img = document.createElement('img');
-              img.src = src;
-              img.style.cssText =
-                'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
-              img.loading = 'lazy';
-              return img;
-            }),
-          );
-          tooltip.style.display = 'flex';
-          tooltip.style.gap = '8px';
+          const el = e.target as Element;
+
+          // scryfall-card: image URL in data attribute
+          const scryfallLink = el.closest('a.scryfall-card');
+          if (scryfallLink) {
+            const imgUrl = scryfallLink.getAttribute('data-card-image');
+            if (!imgUrl) return;
+            tooltip.replaceChildren(...imgUrl.split('|').filter(Boolean).map(makeImg));
+            tooltip.style.display = 'flex';
+            tooltip.style.gap = '8px';
+            return;
+          }
+
+          // mtglink tooltip: image lives in hidden span > img
+          const tooltipLink = el.closest('a.tooltip');
+          if (tooltipLink) {
+            const img = tooltipLink.querySelector(':scope > span img') as HTMLImageElement | null;
+            if (!img?.src) return;
+            tooltip.replaceChildren(makeImg(img.src));
+            tooltip.style.display = 'flex';
+            tooltip.style.gap = '8px';
+          }
         });
 
         document.addEventListener('mousemove', (e) => {
@@ -94,39 +110,9 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
         });
 
         document.addEventListener('mouseout', (e) => {
-          if (!(e.target as Element).closest('a.scryfall-card')) return;
+          const el = e.target as Element;
+          if (!el.closest('a.scryfall-card') && !el.closest('a.tooltip')) return;
           tooltip.style.display = 'none';
-        });
-
-        // mtglink card preview — viewport-clamped fixed positioning
-        document.addEventListener('mouseover', (e) => {
-          const link = (e.target as Element).closest('a.tooltip');
-          if (!link) return;
-          if (link.contains((e as MouseEvent).relatedTarget as Node)) return;
-          const span = link.querySelector(':scope > span') as HTMLElement | null;
-          if (!span) return;
-          span.style.cssText =
-            'display:block;visibility:hidden;position:fixed;z-index:1000;padding:8px;pointer-events:none;';
-          const rect = link.getBoundingClientRect();
-          const sw = span.offsetWidth || 316;
-          const sh = span.offsetHeight || 440;
-          let left = rect.right + 8;
-          if (left + sw > window.innerWidth - 8) left = Math.max(8, rect.left - sw - 8);
-          const top = Math.max(
-            8,
-            Math.min(rect.top + rect.height / 2 - sh / 2, window.innerHeight - sh - 8),
-          );
-          span.style.left = left + 'px';
-          span.style.top = top + 'px';
-          span.style.visibility = 'visible';
-        });
-
-        document.addEventListener('mouseout', (e) => {
-          const link = (e.target as Element).closest('a.tooltip');
-          if (!link) return;
-          if (link.contains((e as MouseEvent).relatedTarget as Node)) return;
-          const span = link.querySelector(':scope > span') as HTMLElement | null;
-          if (span) span.style.display = 'none';
         });
       });
     </script>
