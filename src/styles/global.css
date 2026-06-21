@@ -1,15 +1,16 @@
 @import 'tailwindcss';
+@import '@wairo-palette/css';
 @import './mtg-tags.css';
 @plugin '@tailwindcss/typography';
 
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --color-primary: #ab3b3a;
-  --color-background: #91989f;
-  --color-foreground: #0c0c0c;
-  --color-dark-bg: #1c1c1c;
-  --color-dark-fg: #fcfaf2;
+  --color-primary: var(--color-shinsyu);      /* 真朱 */
+  --color-background: var(--color-ginnezumi); /* 銀鼠 */
+  --color-foreground: var(--color-kuro);      /* 黒 */
+  --color-dark-bg: var(--color-sumi);         /* 墨 */
+  --color-dark-fg: var(--color-shironeri);    /* 白練 */
 }
 
 /* Typography plugin overrides (migrated from tailwind.config.ts) */
@@ -23,19 +24,19 @@
   content: none;
 }
 .prose :where(code):not(:where(pre *)) {
-  background-color: #bdc0ba;
+  background-color: var(--color-shironezumi); /* 白鼠 */
   border-radius: 0.25rem;
   padding: 0.125rem 0.375rem;
   font-weight: inherit;
-  color: #434343;
+  color: var(--color-keshizumi); /* 消炭 */
 }
 
 :root {
-  --color-primary: #ab3b3a;
-  --color-bg: #91989f;
-  --color-fg: #0c0c0c;
-  --color-dark-bg: #1c1c1c;
-  --color-dark-fg: #fcfaf2;
+  --color-primary: var(--color-shinsyu);
+  --color-bg: var(--color-ginnezumi);
+  --color-fg: var(--color-kuro);
+  --color-dark-bg: var(--color-sumi);
+  --color-dark-fg: var(--color-shironeri);
 }
 
 @layer base {
@@ -174,117 +175,116 @@
   }
 
   /* Notel callout blocks — Japanese traditional colors (日本の伝統色) */
-  /* Source: https://nipponcolors.com/ */
   .notel {
     @apply my-4 overflow-hidden rounded-lg;
-    border-left: 4px solid #656765; /* 鈍 NIBI */
+    border-left: 4px solid var(--color-nibi); /* 鈍 */
   }
   .notel-title {
     @apply px-4 py-2 text-sm font-semibold text-white;
-    background-color: #656765; /* 鈍 NIBI */
+    background-color: var(--color-nibi); /* 鈍 */
   }
   .notel-body {
     @apply px-4 py-3;
-    background-color: rgba(101, 103, 101, 0.1);
+    background-color: color-mix(in srgb, var(--color-nibi) 10%, transparent);
   }
   /* 紅 KURENAI */
   .notel-red {
-    border-left-color: #cb1b45;
+    border-left-color: var(--color-kurenai);
   }
   .notel-red .notel-title {
-    background-color: #cb1b45;
+    background-color: var(--color-kurenai);
   }
   .notel-red .notel-body {
-    background-color: rgba(203, 27, 69, 0.1);
+    background-color: color-mix(in srgb, var(--color-kurenai) 10%, transparent);
   }
   /* 瑠璃 RURI */
   .notel-blue {
-    border-left-color: #005caf;
+    border-left-color: var(--color-ruri);
   }
   .notel-blue .notel-title {
-    background-color: #005caf;
+    background-color: var(--color-ruri);
   }
   .notel-blue .notel-body {
-    background-color: rgba(0, 92, 175, 0.1);
+    background-color: color-mix(in srgb, var(--color-ruri) 10%, transparent);
   }
   /* 若竹 WAKATAKE */
   .notel-green {
-    border-left-color: #5dac81;
+    border-left-color: var(--color-wakatake);
   }
   .notel-green .notel-title {
-    background-color: #5dac81;
+    background-color: var(--color-wakatake);
     color: #1a1a1a;
   }
   .notel-green .notel-body {
-    background-color: rgba(93, 172, 129, 0.1);
+    background-color: color-mix(in srgb, var(--color-wakatake) 10%, transparent);
   }
   /* 山吹 YAMABUKI */
   .notel-yellow {
-    border-left-color: #ffb11b;
+    border-left-color: var(--color-yamabuki);
   }
   .notel-yellow .notel-title {
-    background-color: #ffb11b;
+    background-color: var(--color-yamabuki);
     color: #1a1a1a;
   }
   .notel-yellow .notel-body {
-    background-color: rgba(255, 177, 27, 0.1);
+    background-color: color-mix(in srgb, var(--color-yamabuki) 10%, transparent);
   }
   /* 江戸紫 EDOMURASAKI */
   .notel-purple {
-    border-left-color: #77428d;
+    border-left-color: var(--color-edomurasaki);
   }
   .notel-purple .notel-title {
-    background-color: #77428d;
+    background-color: var(--color-edomurasaki);
   }
   .notel-purple .notel-body {
-    background-color: rgba(119, 66, 141, 0.1);
+    background-color: color-mix(in srgb, var(--color-edomurasaki) 10%, transparent);
   }
   /* 纁 SOHI */
   .notel-orange {
-    border-left-color: #ed784a;
+    border-left-color: var(--color-sohi);
   }
   .notel-orange .notel-title {
-    background-color: #ed784a;
+    background-color: var(--color-sohi);
     color: #1a1a1a;
   }
   .notel-orange .notel-body {
-    background-color: rgba(237, 120, 74, 0.1);
+    background-color: color-mix(in srgb, var(--color-sohi) 10%, transparent);
   }
   /* 新橋 SHINBASHI */
   .notel-cyan {
-    border-left-color: #0089a7;
+    border-left-color: var(--color-shinbashi);
   }
   .notel-cyan .notel-title {
-    background-color: #0089a7;
+    background-color: var(--color-shinbashi);
   }
   .notel-cyan .notel-body {
-    background-color: rgba(0, 137, 167, 0.1);
+    background-color: color-mix(in srgb, var(--color-shinbashi) 10%, transparent);
   }
 
   /* Dark mode overrides for notel */
   .dark .notel-body {
-    background-color: rgba(101, 103, 101, 0.15);
+    background-color: color-mix(in srgb, var(--color-nibi) 15%, transparent);
   }
   .dark .notel-red .notel-body {
-    background-color: rgba(203, 27, 69, 0.15);
+    background-color: color-mix(in srgb, var(--color-kurenai) 15%, transparent);
   }
   .dark .notel-blue .notel-body {
-    background-color: rgba(0, 92, 175, 0.15);
+    background-color: color-mix(in srgb, var(--color-ruri) 15%, transparent);
   }
   .dark .notel-green .notel-body {
-    background-color: rgba(93, 172, 129, 0.15);
+    background-color: color-mix(in srgb, var(--color-wakatake) 15%, transparent);
   }
   .dark .notel-yellow .notel-body {
-    background-color: rgba(255, 177, 27, 0.15);
+    background-color: color-mix(in srgb, var(--color-yamabuki) 15%, transparent);
   }
   .dark .notel-purple .notel-body {
-    background-color: rgba(119, 66, 141, 0.15);
+    background-color: color-mix(in srgb, var(--color-edomurasaki) 15%, transparent);
   }
   .dark .notel-orange .notel-body {
-    background-color: rgba(237, 120, 74, 0.15);
+    background-color: color-mix(in srgb, var(--color-sohi) 15%, transparent);
   }
   .dark .notel-cyan .notel-body {
-    background-color: rgba(0, 137, 167, 0.15);
+    background-color: color-mix(in srgb, var(--color-shinbashi) 15%, transparent);
   }
 
   /* Prose table styling */
@@ -314,7 +314,7 @@
     @apply text-gray-900;
   }
   .dark .prose tbody tr:nth-child(odd) {
-    background-color: #1c1c1c;
+    background-color: var(--color-sumi); /* 墨 */
     @apply text-white;
   }
   .prose tbody tr:nth-child(even) {
@@ -324,32 +324,32 @@
 
   /* Waline comment widget — Nippon color theme */
   .waline-container {
-    --waline-theme-color: #ab3b3a; /* 真朱 SHINSYU */
-    --waline-active-color: #cb1b45; /* 紅 KURENAI */
-    --waline-color: #0c0c0c; /* 呂 RO */
-    --waline-bg-color: #f5f2eb; /* 生成 KINIIRO warm white */
+    --waline-theme-color: var(--color-shinsyu);     /* 真朱 */
+    --waline-active-color: var(--color-kurenai);    /* 紅 */
+    --waline-color: var(--color-kuro);              /* 黒 */
+    --waline-bg-color: #f5f2eb;
     --waline-bg-color-light: #e8e4db;
     --waline-bg-color-hover: #ddd9d0;
-    --waline-border-color: #91989f; /* 銀鼠 GINNEZUMI */
+    --waline-border-color: var(--color-ginnezumi);  /* 銀鼠 */
     --waline-disable-bg-color: #c8c8c8;
     --waline-disable-color: #7a7a7a;
-    --waline-code-bg-color: #bdc0ba;
-    --waline-info-bg-color: rgba(101, 103, 101, 0.1);
-    --waline-info-color: #656765; /* 鈍 NIBI */
+    --waline-code-bg-color: var(--color-shironezumi); /* 白鼠 */
+    --waline-info-bg-color: color-mix(in srgb, var(--color-nibi) 10%, transparent);
+    --waline-info-color: var(--color-nibi);         /* 鈍 */
     --waline-border: 1px solid var(--waline-border-color);
     --waline-avatar-size: 3.25rem;
     --waline-m-avatar-size: 2rem;
   }
   .dark .waline-container {
-    --waline-color: #fcfaf2; /* 白練 SHIRONERI */
-    --waline-bg-color: #1c1c1c; /* 墨 SUMI */
+    --waline-color: var(--color-shironeri);         /* 白練 */
+    --waline-bg-color: var(--color-sumi);           /* 墨 */
     --waline-bg-color-light: #282b2f;
     --waline-bg-color-hover: #333;
     --waline-border-color: #444;
     --waline-disable-bg-color: #333;
     --waline-disable-color: #666;
-    --waline-info-bg-color: rgba(101, 103, 101, 0.15);
-    --waline-info-color: #91989f; /* 銀鼠 GINNEZUMI */
+    --waline-info-bg-color: color-mix(in srgb, var(--color-nibi) 15%, transparent);
+    --waline-info-color: var(--color-ginnezumi);    /* 銀鼠 */
   }
 
   /* Article heading anchor offset for sticky navbar */
