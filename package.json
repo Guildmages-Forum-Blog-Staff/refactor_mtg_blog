@@ -27,6 +27,7 @@
     "@astrojs/sitemap": "^3.7.2",
     "@astrojs/vue": "^6.0.0",
     "@tailwindcss/typography": "^0.5.19",
+    "@wairo-palette/css": "file:../../nippon-color/packages/css",
     "@waline/client": "^3.13.0",
     "astro": "^6.0.0",
     "js-yaml": "^4.1.1",
