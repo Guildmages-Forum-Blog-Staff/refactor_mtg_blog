@@ -97,6 +97,37 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
           if (!(e.target as Element).closest('a.scryfall-card')) return;
           tooltip.style.display = 'none';
         });
+
+        // mtglink card preview — viewport-clamped fixed positioning
+        document.addEventListener('mouseover', (e) => {
+          const link = (e.target as Element).closest('a.tooltip');
+          if (!link) return;
+          if (link.contains((e as MouseEvent).relatedTarget as Node)) return;
+          const span = link.querySelector(':scope > span') as HTMLElement | null;
+          if (!span) return;
+          span.style.cssText =
+            'display:block;visibility:hidden;position:fixed;z-index:1000;padding:8px;pointer-events:none;';
+          const rect = link.getBoundingClientRect();
+          const sw = span.offsetWidth || 316;
+          const sh = span.offsetHeight || 440;
+          let left = rect.right + 8;
+          if (left + sw > window.innerWidth - 8) left = Math.max(8, rect.left - sw - 8);
+          const top = Math.max(
+            8,
+            Math.min(rect.top + rect.height / 2 - sh / 2, window.innerHeight - sh - 8),
+          );
+          span.style.left = left + 'px';
+          span.style.top = top + 'px';
+          span.style.visibility = 'visible';
+        });
+
+        document.addEventListener('mouseout', (e) => {
+          const link = (e.target as Element).closest('a.tooltip');
+          if (!link) return;
+          if (link.contains((e as MouseEvent).relatedTarget as Node)) return;
+          const span = link.querySelector(':scope > span') as HTMLElement | null;
+          if (span) span.style.display = 'none';
+        });
       });
     </script>
     <button
