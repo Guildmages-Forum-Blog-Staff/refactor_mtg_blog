@@ -89,12 +89,12 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
             return;
           }
 
-          // mtglink tooltip: image lives in hidden span > img
+          // mtglink tooltip: image URL in data attribute (set by remark-mtg-tags)
           const tooltipLink = el.closest('a.tooltip');
           if (tooltipLink) {
-            const img = tooltipLink.querySelector(':scope > span img') as HTMLImageElement | null;
-            if (!img?.src) return;
-            tooltip.replaceChildren(makeImg(img.src));
+            const imgUrl = tooltipLink.getAttribute('data-card-image');
+            if (!imgUrl) return;
+            tooltip.replaceChildren(makeImg(imgUrl));
             tooltip.style.display = 'flex';
             tooltip.style.gap = '8px';
           }

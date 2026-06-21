@@ -61,7 +61,7 @@ function renderTooltip(card: Card, display: string): string {
       ? `<span class="mtgcard-frame mtgcard-frame--rotated"><img class="mtgcard mtgcard--rotated" loading="lazy" decoding="async" src="${htmlEscape(img)}" /></span>`
       : `<img class="mtgcard" loading="lazy" decoding="async" src="${htmlEscape(img)}" />`
     : '';
-  return `<a class="tooltip" href="${htmlEscape(card.scryfall_uri)}" target="_blank" rel="nofollow noopener noreferrer">${htmlEscape(display)}<span>${inner}</span></a>`;
+  return `<a class="tooltip" href="${htmlEscape(card.scryfall_uri)}" target="_blank" rel="nofollow noopener noreferrer"${img ? ` data-card-image="${htmlEscape(img)}"` : ''}>${htmlEscape(display)}<span>${inner}</span></a>`;
 }
 
 function renderSearch(tag: 'mtglink' | 'mtgcard', args: SearchArgs): string {
