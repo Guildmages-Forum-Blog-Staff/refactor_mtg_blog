@@ -7,3 +7,4 @@ dist/
 public/generated/
 .claude/settings.local.json
 .cache/
+.playwright-mcp/
