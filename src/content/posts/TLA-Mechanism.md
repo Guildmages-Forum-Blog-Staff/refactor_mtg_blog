@@ -2,8 +2,6 @@
 
 title: "降世神通：最後的氣宗～機制解析"
 date: "2025-10-31 23:53:17"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

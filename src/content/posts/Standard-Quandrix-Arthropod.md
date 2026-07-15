@@ -2,8 +2,6 @@
 
 title: "增值成長：標準量析節獸"
 date: "2026-06-09 13:25:11"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

@@ -3,8 +3,6 @@
 title: "英雄齊心：標準復仇者集結"
 date: "6/29/2026, 9:32:45 AM"
 updated: "2026-07-06 12:06:58"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

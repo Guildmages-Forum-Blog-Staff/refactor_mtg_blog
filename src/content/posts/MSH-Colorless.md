@@ -1,8 +1,6 @@
 ---
 title: "漫威超級英雄（MSH）限制賽介紹 — 無色、地"
 date: "2026-06-18 11:21:16"
-tags:
-  - "XSBeeble"
 authors:
   - "XSBeeble"
 

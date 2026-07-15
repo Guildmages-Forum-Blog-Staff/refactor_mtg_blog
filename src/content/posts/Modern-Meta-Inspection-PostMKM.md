@@ -1,8 +1,6 @@
 ---
 title: "Modern 環境考察 post MKM"
 date: "2024-02-25 22:42:26"
-tags:
-  - "MiohitoKiri5474"
 cover: "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2024/01/23/MTG-Leyline-header.jpg"
 thumbnail: "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2024/01/23/MTG-Leyline-header.jpg"
 excerpt: "我的犀牛現在有警戒辟邪先攻繫命踐踏，你要鏟牌了嗎？"

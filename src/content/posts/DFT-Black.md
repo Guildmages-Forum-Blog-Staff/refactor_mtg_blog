@@ -1,8 +1,6 @@
 ---
 title: "乙太飄移（DFT）限制賽介紹 — 黑色"
 date: "2025-02-05 11:32:28"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

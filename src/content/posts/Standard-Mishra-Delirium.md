@@ -1,8 +1,6 @@
 ---
 title: "陰慘實現：標準米斯拉躁狂"
 date: "2024-11-01 16:03:39"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

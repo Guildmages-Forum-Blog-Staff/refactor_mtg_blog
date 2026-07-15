@@ -2,9 +2,6 @@
 
 title: "Guildmage's Forum 魔風集會所二周年運營咨文"
 date: "2025-09-06 17:00:52"
-tags:
-  - "Guildmages' Forum"
-  - "cephille"
 cover: "https://i.meee.com.tw/rnGjyFh.jpg"
 thumbnail: "https://i.meee.com.tw/rnGjyFh.jpg"
 excerpt: "喜迎 Guildmages' Forum 網站成立二周年！！！"

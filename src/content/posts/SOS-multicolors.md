@@ -2,8 +2,6 @@
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 多色"
 date: "2026-04-13 00:04:29"
 updated: "2026-04-15 16:07:02"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

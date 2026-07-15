@@ -1,8 +1,6 @@
 ---
 title: "漫威超級英雄（MSH）限制賽介紹 — 紅色"
 date: "6/17/2026, 11:02:13 AM"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 

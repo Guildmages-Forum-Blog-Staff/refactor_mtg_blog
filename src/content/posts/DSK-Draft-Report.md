@@ -2,9 +2,6 @@
 
 title: "暮悲邸：鬼屋驚魂（DSK）輪抽分享"
 date: "2024-10-06 18:10:05"
-tags:
-  - "cephille"
-  - "jeffchen"
 cover: "https://i.meee.com.tw/uACP7WK.jpg"
 thumbnail: "https://i.meee.com.tw/uACP7WK.jpg"
 excerpt: "DSK 輪抽真好玩…… 咦？怎麼上秘稀了！"

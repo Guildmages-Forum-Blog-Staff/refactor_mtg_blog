@@ -1,8 +1,6 @@
 ---
 title: "如何施放無費用咒語"
 date: 2023-09-05 17:13:27
-tags:
-  - "JruMTG"
 categories:
   - "MTG Rules"
 authors:

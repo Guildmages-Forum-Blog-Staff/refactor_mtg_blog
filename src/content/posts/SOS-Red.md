@@ -2,8 +2,6 @@
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 紅色"
 date: "2026-04-14 17:50:11"
 updated: "2026-04-15 16:08:49"
-tags:
-  - "老炳"
 authors:
   - "Terryrr"
 categories:

@@ -2,8 +2,6 @@
 
 title: "近代中的指揮官榮耀：伊捷水獺行侶"
 date: "2024-10-08 14:01:01"
-tags:
-  - "ZHAN"
 authors:
   - "ZHAN"
 categories:

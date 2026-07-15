@@ -1,8 +1,6 @@
 ---
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 秘典SOA"
 date: "2026-04-16 10:00:00"
-tags:
-  - "Chennel"
 authors:
   - "Chennel"
 categories:

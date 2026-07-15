@@ -2,8 +2,6 @@
 
 title: "邪敵陰影：標準隱密奇襲"
 date: "2026-03-11 12:45:03"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

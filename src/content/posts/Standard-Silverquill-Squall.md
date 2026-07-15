@@ -2,8 +2,6 @@
 
 title: "連筆成鋒：標準銀毫史克爾"
 date: "5/29/2026, 10:21:58 AM"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸（DSK）限制賽介紹 — 白色"
 date: "2024-09-18 10:19:13"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

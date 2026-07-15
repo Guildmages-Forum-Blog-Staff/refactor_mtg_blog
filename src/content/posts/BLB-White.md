@@ -1,8 +1,6 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 白色"
 date: "2024-07-26 00:08:27"
-tags:
-  - "GY_Player"
 cover: "https://media.wizards.com/2024/images/daily/cardart_flowerfoot_swordmaster_aaron_miller_tpu2734bsqnd.webp"
 thumbnail: "https://media.wizards.com/2024/images/daily/cardart_flowerfoot_swordmaster_aaron_miller_tpu2734bsqnd.webp"
 excerpt: "兔兔大軍襲來"

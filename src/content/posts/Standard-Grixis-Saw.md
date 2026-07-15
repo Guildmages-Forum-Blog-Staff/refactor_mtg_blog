@@ -2,8 +2,6 @@
 
 title: "一道遊戲：標準格立極奪魂鋸"
 date: "2025-01-01 11:54:17"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

@@ -2,8 +2,6 @@
 
 title: "忍者龜機制解析"
 date: "2026-02-20 19:04:07"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

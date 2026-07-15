@@ -1,8 +1,6 @@
 ---
 title: "魔風路上的好玩組合技"
 date: "2024-05-29 14:59:14"
-tags:
-  - "T1BloodMoon"
 cover: "https://i.imgur.com/2Ehfp2c.png"
 thumbnail: "https://i.imgur.com/2Ehfp2c.png"
 excerpt: "終曲魔風路上的好玩組合技"

@@ -3,8 +3,6 @@
 title: "忒修斯之船：我與蘇勒台控制的千葉之旅"
 date: "6/22/2026, 9:18:29 PM"
 updated: "2026-06-22 22:19:26"
-tags:
-  - "Patrick"
 authors:
   - "Patrick"
 cover: "https://i.meee.com.tw/8fqR4Uy.jpg"

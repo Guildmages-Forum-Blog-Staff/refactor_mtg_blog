@@ -1,8 +1,6 @@
 ---
 title: "漫威超級英雄（MSH）限制賽介紹 — 藍色"
 date: "6/16/2026, 4:48:27 PM"
-tags:
-  - "Chennel"
 authors:
   - "Chennel"
 

@@ -2,8 +2,6 @@
 title: "漫威超級英雄（MSH）限制賽介紹 — MAR"
 date: "2026-06-18 11:21:58"
 updated: "2026-06-24 23:10:15"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 

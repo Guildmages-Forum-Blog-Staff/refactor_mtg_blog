@@ -1,8 +1,6 @@
 ---
 title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 魅附奇譚(WOT)"
 date: 2023-09-05 17:39:08
-tags:
-  - cephille
 categories:
   - "Limited"
   - "WOE"

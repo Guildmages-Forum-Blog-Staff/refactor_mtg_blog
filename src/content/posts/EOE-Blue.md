@@ -2,8 +2,6 @@
 title: '虛空邊域（EOE）限制賽介紹 — 藍色'
 date: 2025-7-22 09:00:00
  
-tags: 
- - "Chennel"
 
 authors:
  - "Chennel"

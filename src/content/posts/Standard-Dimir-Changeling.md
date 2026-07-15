@@ -2,8 +2,6 @@
 
 title: "幻法仙靈：標準百變化形"
 date: "2026-02-10 14:56:57"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

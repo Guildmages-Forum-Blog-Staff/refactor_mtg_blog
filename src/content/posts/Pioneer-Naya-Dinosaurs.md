@@ -1,8 +1,6 @@
 ---
 title: "炙陽怒火：先驅納雅恐龍"
 date: 2023-10-10 14:00:00
-tags:
-  - "JerobaMTG"
 excerpt: "不久前威世智釋出了下一個標準系列《依夏蘭迷窟》的先行預覽，由戈厄塔帶領我們回到恐龍初次種族化的時空。機會難得，就讓我們用先驅納雅恐龍來聊聊未來標準恐龍套牌的可能構築方向。"
 cover: "https://i.imgur.com/C8aM8pu.jpg"
 thumbnail: "https://i.imgur.com/C8aM8pu.jpg"

@@ -2,8 +2,6 @@
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 黑色"
 date: "2026-04-13 23:25:00"
 updated: "2026-04-15 16:08:32"
-tags:
-  - "老炳"
 authors:
   - "Terryrr"
 categories:

@@ -2,9 +2,6 @@
 
 title: "艾斯波龍侯 — 亙古回聲再臨"
 date: "2025-02-20 19:51:48"
-tags:
-  - "cephille"
-  - "jeffchen"
 authors:
   - "cephille"
   - "jeffchen"

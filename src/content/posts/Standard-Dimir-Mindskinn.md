@@ -2,8 +2,6 @@
 
 title: "心靈侵蝕：標準藍黑懼魘"
 date: "2025-01-07 09:11:38"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

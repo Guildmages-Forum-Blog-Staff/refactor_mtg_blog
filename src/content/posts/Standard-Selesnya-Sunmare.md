@@ -2,8 +2,6 @@
 
 title: "鐵騎馬鞍：標準白綠日魘"
 date: "2025-02-23 14:51:16"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

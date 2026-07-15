@@ -1,8 +1,6 @@
 ---
 title: "飛馳之刃：再論艾斯波忍者"
 date: "6/2/2026, 11:24:02 PM"
-tags:
-  - "cephille"
 cover: "https://i.meee.com.tw/v33clJQ.jpg"
 thumbnail: "https://i.meee.com.tw/v33clJQ.jpg"
 excerpt: "不假良史之辭，不託飛馳之勢，而聲名自傳於後。"

@@ -1,8 +1,6 @@
 ---
 title: "《光雷驛鏢客》舊科技新譯"
 date: "2024-05-01 16:42:45"
-tags:
-  - "JerobaMTG"
 cover: "https://i.postimg.cc/JnJFM7kf/Guidestone-Compass.jpg"
 thumbnail: "https://i.postimg.cc/JnJFM7kf/Guidestone-Compass.jpg"
 excerpt: "標準牌池已經達到頂峰了，是時候來回顧舊科技看看有沒有什麼變化"

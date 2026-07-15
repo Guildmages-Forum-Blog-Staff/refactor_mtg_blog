@@ -1,8 +1,6 @@
 ---
 title: "漫威超級英雄（MSH）限制賽介紹 — 綠色"
 date: "6/17/2026, 11:41:43 AM"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 

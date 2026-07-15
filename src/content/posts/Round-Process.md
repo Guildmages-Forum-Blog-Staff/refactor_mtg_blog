@@ -3,8 +3,6 @@
 title: "回合流程詳解"
 date: "2023-10-27 00:00:00"
 updated: "2025-07-23 09:13:24"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -2,8 +2,6 @@
 
 title: "世界賽選手訪談－MIT第四輪冠軍 陳柏宏 (蹦蹦)"
 date: "2024-10-14 11:20:57"
-tags:
-  - "faintmama"
 authors:
   - "faintmama"
 categories:

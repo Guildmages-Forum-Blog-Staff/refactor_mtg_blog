@@ -2,8 +2,6 @@
 
 title: "虛空邊域機制解析"
 date: "2025-07-11 09:38:02"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

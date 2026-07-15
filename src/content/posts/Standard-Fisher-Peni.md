@@ -2,8 +2,6 @@
 
 title: "行縷飾裝：標準釣客潘妮"
 date: "2025-10-27 09:07:12"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

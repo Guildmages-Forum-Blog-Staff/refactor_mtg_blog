@@ -2,8 +2,6 @@
 
 title: "不義之財：標準蘇勒台柯提斯"
 date: "2025-05-06 19:58:31"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

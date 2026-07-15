@@ -2,8 +2,6 @@
 date: 2023-10-19 13:30:00
 
 title: "關於Play Booster我想說的是..."
-tags:
-  - cephille
 
 cover: "https://i.imgur.com/ycIvzuf.jpg"
 thumbnail: "https://i.imgur.com/ycIvzuf.jpg"

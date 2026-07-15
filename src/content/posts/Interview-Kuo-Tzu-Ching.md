@@ -1,9 +1,6 @@
 ---
 title: "臺灣玩家專訪－郭子敬"
 date: "2025-04-03 22:56:12"
-tags:
-  - "faintmama"
-  - "cephille"
 authors:
   - "faintmama"
   - "cephille"

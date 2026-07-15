@@ -2,10 +2,6 @@
 
 title: "世界賽選手訪談－MIT第二輪冠軍 林承翰"
 date: "2025-01-25 10:56:30"
-tags:
-  - "faintmama"
-  - "cephille"
-  - "ZHAN"
 authors:
   - "faintmama"
   - "cephille"

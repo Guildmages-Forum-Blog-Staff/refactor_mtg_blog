@@ -1,10 +1,6 @@
 ---
 title: "依夏蘭迷窟標準初探"
 date: "2023-11-23 12:17:46"
-tags:
-  - "JruMTG"
-  - "JerobaMTG"
-  - "cephille"
 cover: "https://media.wizards.com/2023/images/daily/4slfxf8289r9.png"
 thumbnail: "https://media.wizards.com/2023/images/daily/4slfxf8289r9.png"
 excerpt: "來看看依夏蘭迷窟有甚麼新的標準構築"

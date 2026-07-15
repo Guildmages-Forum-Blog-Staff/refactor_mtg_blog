@@ -1,8 +1,6 @@
 ---
 title: "關於新手如何在限制賽中進步 — 輪抽賽篇"
 date: "2024-08-13 16:13:49"
-tags:
-  - "cephille"
 cover: "https://i.imgur.com/SlBNO1P.jpeg"
 thumbnail: "https://i.imgur.com/SlBNO1P.jpeg"
 excerpt: "看完了前一篇現開賽的介紹後，接下來讓我們進入輪抽賽吧！"

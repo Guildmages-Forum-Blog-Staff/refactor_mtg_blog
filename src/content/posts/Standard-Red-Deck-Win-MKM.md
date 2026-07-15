@@ -1,8 +1,6 @@
 ---
 title: "MKM後的標準紅快構築概念"
 date: "2024-03-16 11:22:35"
-tags:
-  - "yu-chen"
 cover: "https://i.postimg.cc/QdVnKCMq/cover.jpg"
 thumbnail: "https://i.postimg.cc/QdVnKCMq/cover.jpg"
 excerpt: "MKM加入後標準紅快會如何變化呢？"

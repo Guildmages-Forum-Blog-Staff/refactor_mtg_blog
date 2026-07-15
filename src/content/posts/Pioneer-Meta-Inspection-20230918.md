@@ -1,8 +1,6 @@
 ---
 title: "Pioneer 環境考察 2023/09/18"
 date: 2023-09-18 01:05:45
-tags:
-  - "MiohitoKiri5474"
 cover: "https://mktg-assets.tcgplayer.com/fit-in/600x600/filters:quality(75)/content/opengraph/MTG-Up-the-Beanstalk-WOE.jpg"
 thumbnail: "https://mktg-assets.tcgplayer.com/fit-in/600x600/filters:quality(75)/content/opengraph/MTG-Up-the-Beanstalk-WOE.jpg"
 excerpt: "雖然距離 MIT#4 還有一段時間，但還是稍微接觸一下現在的先驅環境吧"

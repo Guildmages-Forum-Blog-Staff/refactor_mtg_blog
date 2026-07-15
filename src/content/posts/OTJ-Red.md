@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 紅色"
 date: "2024-04-09 00:09:34"
-tags:
-  - "T1BloodMoon"
 cover: "https://media.wizards.com/2024/images/daily/oi51t43mifol.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/oi51t43mifol.png"
 excerpt: "兩費打四不夠，那兩費打五怎麼樣？啟示天災希歐蕊表示：先不要"

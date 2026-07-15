@@ -2,9 +2,6 @@
 
 title: "世界賽選手訪談－MIT第一輪冠軍 李俊廷"
 date: "2025-01-24 17:25:39"
-tags:
-  - "faintmama"
-  - "cephille"
 authors:
   - "faintmama"
   - "cephille"

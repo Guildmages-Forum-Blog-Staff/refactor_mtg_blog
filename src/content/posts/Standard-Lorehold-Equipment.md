@@ -2,8 +2,6 @@
 
 title: "重鑄利鋒：標準衡鑑武具"
 date: "5/9/2026, 11:11:51 PM"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

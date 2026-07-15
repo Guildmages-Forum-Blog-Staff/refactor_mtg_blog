@@ -2,8 +2,6 @@
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 白色"
 date: "2026-04-13 21:54:49"
 updated: "2026-04-15 16:07:53"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

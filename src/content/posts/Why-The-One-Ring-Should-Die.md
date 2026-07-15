@@ -1,8 +1,6 @@
 ---
 title: "為什麼（我認為） The One Ring 必須死：Dec 16th BnR 預測"
 date: "2024-12-09 23:07:29"
-tags:
-  - "MiohitoKiri5474"
 cover: "https://guildmagesforum.tw/images/Why-The-One-Ring-Should-Die/cover.jpg"
 thumbnail: "https://guildmagesforum.tw/images/Why-The-One-Ring-Should-Die/cover.jpg"
 excerpt: "老威你可以把 The One Ring 給 ban 了嗎⋯⋯拜託啦⋯⋯"

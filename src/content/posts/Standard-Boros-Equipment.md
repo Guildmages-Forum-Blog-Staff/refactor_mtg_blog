@@ -2,8 +2,6 @@
 
 title: "極限爆發：標準紅白武具"
 date: "2025-06-19 13:45:33"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

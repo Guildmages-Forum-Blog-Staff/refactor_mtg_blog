@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 綠色"
 date: "2025-09-17 11:46:32"
-tags:
-  - "Chennel"
 authors:
   - "Chennel"
 categories:

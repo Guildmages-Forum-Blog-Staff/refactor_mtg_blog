@@ -2,8 +2,6 @@
 title: '虛空邊域（EOE）限制賽介紹 — 綠色'
 date: 2025-7-23 17:00:00
  
-tags: 
- - "ZHAN"
 
 authors:
  - "ZHAN"

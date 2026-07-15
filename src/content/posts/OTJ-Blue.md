@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 藍色"
 date: "2024-04-08 18:25:57"
-tags:
-  - "JruMTG"
 cover: "https://media.wizards.com/2024/images/daily/ghq4lmol25be.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/ghq4lmol25be.png"
 excerpt: "設謀咒語，然後想辦法活下去"

@@ -2,8 +2,6 @@
 title: "漫威超級英雄（MSH）限制賽介紹 — 黑色"
 date: "6/17/2026, 10:33:32 AM"
 updated: "2026-06-17 10:55:00"
-tags:
-  - "Terryrr"
 authors:
   - "Terryrr"
 

@@ -1,8 +1,6 @@
 ---
 title: "祖爾領土 : 祖爾一出，必要見血!!!"
 date: "2025-06-24 13:37:30"
-tags:
-  - "ClarkShih"
 authors:
   - "ClarkShih"
 categories:

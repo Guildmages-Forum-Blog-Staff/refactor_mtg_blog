@@ -1,8 +1,6 @@
 ---
 title: "紅黑中速：舊時代的王者還能起舞？"
 date: "2024-05-20 20:20:55"
-tags:
-  - "ClarkShih"
 categories:
   - "Construct"
   - "Pioneer"

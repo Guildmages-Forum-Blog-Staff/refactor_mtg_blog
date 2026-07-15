@@ -2,8 +2,6 @@
 
 title: "暮悲邸標準初探"
 date: "2024-09-25 21:30:16"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

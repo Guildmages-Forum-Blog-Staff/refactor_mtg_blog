@@ -2,8 +2,6 @@
 title: '虛空邊域（EOE）限制賽介紹 — 黑色'
 date: 2025-7-22 10:00:00
  
-tags: 
- - "cephille"
 
 authors:
  - "cephille"

@@ -2,8 +2,6 @@
 
 title: "文章翻譯 — Reid Duke的「等級一」：參加大獎賽：第一部分"
 date: "6/13/2026, 9:14:08 AM"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "2026 千葉 Spotlight：4C全知全能戰報"
 date: "6/7/2026, 9:06:57 PM"
-tags:
-  - "zhi-mao"
 cover: "https://i.meee.com.tw/SNCIQGc.webp"
 thumbnail: "https://i.meee.com.tw/SNCIQGc.webp"
 excerpt: "在滿街靈技與控制的狹縫間，用組合技撕開一條勝利通道吧！"

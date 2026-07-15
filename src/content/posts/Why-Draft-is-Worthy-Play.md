@@ -2,8 +2,6 @@
 title: "寫給輪抽的讚歌 — 為什麼輪抽值得玩？"
 date: "2025-12-08 10:52:29"
 udpated: "2026-03-16 13:56:19"
-tags:
-  - "cephille"
 cover: "https://i.meee.com.tw/YUabzfm.jpg"
 thumbnail: "https://i.meee.com.tw/YUabzfm.jpg"
 excerpt: "如果有什麼事是一場輪抽無法解決的，那就再打一場。"

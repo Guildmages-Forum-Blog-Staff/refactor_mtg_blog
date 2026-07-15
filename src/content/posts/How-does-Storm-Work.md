@@ -2,8 +2,6 @@
 
 title: "風暴是如何運作的？"
 date: "2025-03-26 14:38:42"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

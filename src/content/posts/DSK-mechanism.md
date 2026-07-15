@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸機制解析"
 date: "2024-09-04 12:26:45"
-tags:
-  - "JruMTG"
 categories:
   - "Limited"
   - "DSK"

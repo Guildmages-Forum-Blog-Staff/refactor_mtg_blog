@@ -2,8 +2,6 @@
 
 title: "不倦朝聖：標準阿嬤進香團"
 date: "2025-12-18 14:03:20"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

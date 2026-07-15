@@ -2,8 +2,6 @@
 
 title: "從斬落與毀容來分析標準威脅結構的變遷"
 date: "2024-10-01 11:02:08"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

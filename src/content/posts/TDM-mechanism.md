@@ -2,8 +2,6 @@
 
 title: "韃契：龍襲風暴～機制解析"
 date: "2025-03-20 14:35:02"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

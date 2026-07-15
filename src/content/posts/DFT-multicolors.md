@@ -1,8 +1,6 @@
 ---
 title: "乙太飄移（DFT）限制賽介紹 — 多色"
 date: "2025-02-06 16:13:57"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

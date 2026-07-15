@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — 無色、地"
 date: "2025-06-05 13:04:51"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

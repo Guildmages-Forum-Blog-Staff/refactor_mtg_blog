@@ -1,8 +1,6 @@
 ---
 title: "天下武功，惟快不破！MIT八強紅白召集賽報"
 date: "2024-06-06 12:44:42"
-tags:
-  - "JerryYang"
 cover: "https://i.postimg.cc/3rbkH0YP/knight-errand-of-eos-by-kevin-sidharta-v0-EGhjx-EUd2tlq-EX0n-JBHBFDSfys7-Zxa-DJ99-PUwgq-At-NE.webp"
 thumbnail: "https://i.postimg.cc/3rbkH0YP/knight-errand-of-eos-by-kevin-sidharta-v0-EGhjx-EUd2tlq-EX0n-JBHBFDSfys7-Zxa-DJ99-PUwgq-At-NE.webp"
 excerpt: "紅白召集大軍壓境MIT#6！來看看傑利羊這篇賽報吧！"

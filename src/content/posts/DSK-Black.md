@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸（DSK）限制賽介紹 — 黑色"
 date: "2024-09-18 22:27:07"
-tags:
-  - "jeffchen"
 authors:
   - "jeffchen"
 categories:

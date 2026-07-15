@@ -1,8 +1,6 @@
 ---
 title: "敗戰處理：豬鼻子的標準藍黑中速回顧"
 date: "2025-07-10 09:43:03"
-tags:
-  - "cephille"
 cover: "https://i.meee.com.tw/EZxxiG6.jpg"
 thumbnail: "https://i.meee.com.tw/EZxxiG6.jpg"
 excerpt: "……一度打得很掙扎、差點發狂，卻莫名其妙習慣當條 underdog 的感覺了，不知不覺變得很平靜，反正也沒有什麼會因此失去。漸漸又能夠享受對弈的快樂，更開始摸索出適合自己的打法。 ～摘錄自王靖《誤闖競爭級別的大叔年末日記》"

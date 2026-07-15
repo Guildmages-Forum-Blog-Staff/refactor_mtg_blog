@@ -2,8 +2,6 @@
 #  
 title: "操控其他玩家時可以做甚麼？"
 date: "2025-12-24 12:43:21"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

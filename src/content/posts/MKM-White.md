@@ -1,8 +1,6 @@
 ---
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 白色"
 date: "2024-01-31 14:32:14"
-tags:
-  - "JruMTG"
 cover: "https://media.wizards.com/2024/images/daily/jkNtYf4Mb09B.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/jkNtYf4Mb09B.png"
 excerpt: "缺去除？缺飛兵？缺偵探？白色通通能替你解決！ 來看看MKM的白色牌吧～"

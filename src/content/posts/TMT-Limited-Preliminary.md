@@ -1,8 +1,6 @@
 ---
 title: "忍者龜（TMT）限制賽初探"
 date: "2026-02-24 12:45:14"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

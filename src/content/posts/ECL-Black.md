@@ -1,8 +1,6 @@
 ---
 title: "洛溫：闇影籠罩（ECL）限制賽介紹 — 黑色"
 date: "2026-01-14 09:40:52"
-tags:
-  - "老炳"
 authors:
   - "Terryrr"
 categories:

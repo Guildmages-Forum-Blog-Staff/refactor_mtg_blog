@@ -1,8 +1,6 @@
 ---
 title: "鐵木爾犀牛的RC構築指南"
 date: "2024-03-01 15:30:26"
-tags:
-  - "ClarkShih"
 cover: "https://i.postimg.cc/HxVv1wkh/rhinos.jpg"
 thumbnail: "https://i.postimg.cc/HxVv1wkh/rhinos.jpg"
 excerpt: "DEN24 Sat 9:00 - U.S. Regional Championship 11-3 #28"

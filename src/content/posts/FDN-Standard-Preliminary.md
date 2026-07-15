@@ -2,10 +2,6 @@
 
 title: "基石構築標準初探"
 date: "2024-11-11 12:27:23"
-tags:
-  - "JruMTG"
-  - "cephille"
-  - "JerobaMTG"
 authors:
   - "JruMTG"
   - "cephille"

@@ -2,8 +2,6 @@
 
 title: "至炫熔彩：標準粹麗香托托"
 date: "4/28/2026, 9:34:38 AM"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

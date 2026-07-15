@@ -1,8 +1,6 @@
 ---
 title: "觸發式異能何時檢查條件？"
 date: "2023-11-27 12:13:39"
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/rdLxUzz.jpg"
 thumbnail: "https://i.imgur.com/rdLxUzz.jpg"
 excerpt: "觸發式異能究竟在甚麼條件下才能上堆疊或成功結算呢？"

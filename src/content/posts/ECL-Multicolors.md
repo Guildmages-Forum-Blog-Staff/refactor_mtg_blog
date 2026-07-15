@@ -1,8 +1,6 @@
 ---
 title: "洛溫：闇影籠罩（ECL）限制賽介紹 — 多色"
 date: "2026-01-12 16:01:57"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

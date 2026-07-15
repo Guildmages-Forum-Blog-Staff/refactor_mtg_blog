@@ -1,8 +1,6 @@
 ---
 title: "Modern 環境考察 post 12/4 BnR & LCI"
 date: "2023-12-19 13:22:21"
-tags:
-  - "MiohitoKiri5474"
 cover: "https://i.imgur.com/XxE3KJ3.jpg"
 thumbnail: "https://i.imgur.com/XxE3KJ3.jpg"
 excerpt: "回應你的戒指抽牌：康掉"

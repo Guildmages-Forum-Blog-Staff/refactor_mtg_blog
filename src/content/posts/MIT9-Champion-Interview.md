@@ -2,8 +2,6 @@
 
 title: "世界賽選手訪談－MIT第九輪冠軍 Samuel Yeh"
 date: "2025-12-02 11:42:07"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/VPWSMYB.jpg"
 thumbnail: "https://i.meee.com.tw/VPWSMYB.jpg"
 excerpt: "曾在各階段創造過不同傳說的菜鳥，不時會在自己的粉專分享生活趣事，然而上了賽場又經常化身戰鬼。似乎擁有不同面向的他，究竟是怎麼看待魔法風雲會這款遊戲的呢？"

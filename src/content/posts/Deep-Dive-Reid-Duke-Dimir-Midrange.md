@@ -2,8 +2,6 @@
 
 title: "Deep Dive — 跟著 Reid Duke 學習藍黑中速"
 date: "2024-11-29 10:29:09"
-tags:
-  - "cephille"
 cover: "https://i.imgur.com/U55B0QF.jpeg"
 thumbnail: "https://i.imgur.com/U55B0QF.jpeg"
 excerpt: "終於有這樣的機會可以跟 RD 大大學習了，來看看這一篇吧！保證你受用無窮！"

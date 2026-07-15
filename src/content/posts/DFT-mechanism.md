@@ -2,8 +2,6 @@
 
 title: "乙太飄移機制解析"
 date: "2025-01-24 17:23:46"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

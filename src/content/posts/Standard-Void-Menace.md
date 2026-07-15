@@ -2,8 +2,6 @@
 
 title: "大膽偵員：標準空洞威懾"
 date: "2025-10-08 17:04:09"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

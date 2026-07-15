@@ -1,10 +1,6 @@
 ---
 title: "光雷驛鏢客標準初探"
 date: "2024-04-26 10:33:22"
-tags:
-  - "JruMTG"
-  - "cephille"
-  - "T1BloodMoon"
 cover: "https://media.wizards.com/2024/images/daily/e2Wn82hgjad2-1920x1080.jpg"
 thumbnail: "https://media.wizards.com/2024/images/daily/e2Wn82hgjad2-1920x1080.jpg"
 excerpt: "來看看光雷驛鏢客標準初探有甚麼新的標準構築"

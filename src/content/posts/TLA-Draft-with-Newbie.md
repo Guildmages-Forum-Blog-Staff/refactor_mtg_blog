@@ -2,8 +2,6 @@
 
 title: "降世神通：2025年最後也最完美的輪抽推廣"
 date: "2025-12-03 07:41:12"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/wFZOBGR.jpg"
 thumbnail: "https://i.meee.com.tw/wFZOBGR.jpg"
 excerpt: "喔氣氣氣氣氣……這系列未免也太強太香太好玩了吧？（動畫還很好看）"

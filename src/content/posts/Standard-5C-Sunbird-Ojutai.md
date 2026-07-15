@@ -1,8 +1,6 @@
 ---
 title: "五色晨曦：標準陽禽歐祝泰"
 date: "2024-01-09 12:40:19"
-tags:
-  - "JerobaMTG"
 excerpt: "新年之始 萬象更新 祥龍獻瑞 鳳凰來儀"
 cover: "https://i.imgur.com/uDGrBk8.png"
 thumbnail: "https://i.imgur.com/uDGrBk8.png"

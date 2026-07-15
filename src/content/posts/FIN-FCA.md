@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — FCA"
 date: "2025-06-05 13:06:06"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

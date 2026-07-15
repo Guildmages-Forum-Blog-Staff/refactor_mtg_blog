@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — 紅色"
 date: "2025-06-04 12:46:32"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

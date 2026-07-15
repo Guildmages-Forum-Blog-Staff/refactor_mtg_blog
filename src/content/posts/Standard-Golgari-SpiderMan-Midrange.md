@@ -2,8 +2,6 @@
 
 title: "黑綠中速：依然不獾贏你"
 date: "6/3/2026, 3:33:46 PM"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/6CUdRjT.webp"
 thumbnail: "https://i.meee.com.tw/6CUdRjT.webp"
 excerpt: "陪伴玩家一同成長的溫暖構築。"

@@ -2,9 +2,6 @@
 
 title: "藍黑龍侯新科技 — 亙古回聲"
 date: "2024-09-13 14:50:17"
-tags:
-  - "cephille"
-  - "jeffchen"
 categories:
   - "Construct"
   - "Modern"

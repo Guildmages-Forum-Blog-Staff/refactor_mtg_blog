@@ -1,8 +1,6 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 紅色"
 date: "2024-07-26 00:09:06"
-tags:
-  - "ClarkShih"
 cover: "https://media.wizards.com/2024/images/daily/z0xv4t02bpoo.webp"
 thumbnail: "https://media.wizards.com/2024/images/daily/z0xv4t02bpoo.webp"
 excerpt: "衝啊！燒啊！刺啊！準備好要迎戰紅色色組激進攻擊了嗎？"

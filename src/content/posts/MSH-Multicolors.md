@@ -2,8 +2,6 @@
 title: "漫威超級英雄（MSH）限制賽介紹 — 多色"
 date: "6/15/2026, 5:39:40 PM"
 updated: "2026-06-15 18:05:42"
-tags:
-  - "ClarkShih"
 authors:
   - "ClarkShih"
 

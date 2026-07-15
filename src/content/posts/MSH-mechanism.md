@@ -3,8 +3,6 @@
 title: "漫威超級英雄機制解析"
 date: "6/7/2026, 10:30:59 AM"
 updated: "2026-06-07 10:58:53"
-tags:
-  - "JruMTG"
 
 authors:
   - "JruMTG"

@@ -2,8 +2,6 @@
 
 title: "文章翻譯 — Reid Duke的「等級一」：快攻套牌"
 date: "2026-02-12 15:16:48"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

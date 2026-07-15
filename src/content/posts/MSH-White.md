@@ -1,8 +1,6 @@
 ---
 title: "漫威超級英雄（MSH）限制賽介紹 — 白色"
 date: "6/16/2026, 1:23:30 PM"
-tags:
-  - "Egavas"
 authors:
   - "Egavas"
 

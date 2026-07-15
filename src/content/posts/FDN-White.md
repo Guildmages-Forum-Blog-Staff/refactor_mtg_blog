@@ -1,8 +1,6 @@
 ---
 title: '基石構築（FDN）限制賽介紹 — 白色'
 date: "2024-11-05 08:00:00"
-tags: 
- - "jeffchen"
 authors:
   - "jeffchen"
 

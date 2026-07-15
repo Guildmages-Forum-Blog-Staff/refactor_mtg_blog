@@ -1,8 +1,6 @@
 ---
 title: "如果你有一箱MSH常規盒，你會拿它做什麼？"
 date: "2026-07-14 10:14:43"
-tags:
-  - "cephille"
 cover: "https://i.meee.com.tw/hpsfOuG.jpg"
 thumbnail: "https://i.meee.com.tw/hpsfOuG.jpg"
 excerpt: "……問就是打爆限制賽"

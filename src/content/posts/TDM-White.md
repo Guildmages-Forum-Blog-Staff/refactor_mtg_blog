@@ -1,8 +1,6 @@
 ---
 title: "韃契：龍襲風暴（TDM）限制賽介紹 — 白色"
 date: "2025-04-01 21:43:06"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "洛溫：闇影籠罩（ECL）限制賽介紹 — 綠色"
 date: "2026-01-15 15:51:25"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

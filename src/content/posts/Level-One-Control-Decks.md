@@ -2,8 +2,6 @@
 
 title: "文章翻譯 — Reid Duke的「等級一」：控制套牌"
 date: "2026-02-21 15:20:23"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

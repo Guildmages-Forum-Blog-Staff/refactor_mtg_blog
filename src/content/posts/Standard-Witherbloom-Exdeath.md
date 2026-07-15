@@ -2,8 +2,6 @@
 
 title: "復生實驗：標準靡華艾克斯迪司"
 date: "5/25/2026, 9:06:08 AM"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

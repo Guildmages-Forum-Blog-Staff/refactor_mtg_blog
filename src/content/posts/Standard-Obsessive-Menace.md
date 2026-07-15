@@ -2,8 +2,6 @@
 
 title: "頑固追擊：標準偏執威懾"
 date: "2025-11-25 10:55:02"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

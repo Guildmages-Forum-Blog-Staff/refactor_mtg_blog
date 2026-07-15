@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — 多色"
 date: "2025-06-02 16:59:33"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

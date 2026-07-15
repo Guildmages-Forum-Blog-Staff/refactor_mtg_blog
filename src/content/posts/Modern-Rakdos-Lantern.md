@@ -3,8 +3,6 @@
 title: "牢底坐穿：近代洞察明燈"
 date: "5/12/2026, 9:16:30 AM"
 
-tags:
-  - "JruMTG"
 
 authors:
   - "JruMTG"
