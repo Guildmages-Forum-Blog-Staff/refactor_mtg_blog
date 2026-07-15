@@ -1,8 +1,6 @@
 ---
 title: "洛溫：闇影籠罩（ECL）限制賽介紹 — 白色"
 date: "2026-01-13 14:48:03"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

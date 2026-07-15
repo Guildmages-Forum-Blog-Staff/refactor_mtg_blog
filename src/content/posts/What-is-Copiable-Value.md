@@ -1,8 +1,6 @@
 ---
 title: "什麼是可複製特徵"
 date: "2023-12-28 21:54:27"
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/cggbVm7.jpg"
 thumbnail: "https://i.imgur.com/cggbVm7.jpg"
 excerpt: "Kiki-Jiki複製一塊成為生物的變身地會得到什麼？"

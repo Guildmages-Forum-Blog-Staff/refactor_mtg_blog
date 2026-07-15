@@ -2,8 +2,6 @@
 
 title: "森林圖書館是如何運作的？"
 date: "2024-12-18 17:53:59"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -2,8 +2,6 @@
 
 title: "RIP是如何作用的？"
 date: "2025-09-08 09:13:30"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

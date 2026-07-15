@@ -2,8 +2,6 @@
 
 title: "陽壽對決：標準帕克式的幸運"
 date: "2025-11-03 22:18:14"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

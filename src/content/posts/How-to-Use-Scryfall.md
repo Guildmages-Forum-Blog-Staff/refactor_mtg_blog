@@ -2,8 +2,6 @@
 
 title: "如何使用Scryfall"
 date: "2026-01-21 14:15:11"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

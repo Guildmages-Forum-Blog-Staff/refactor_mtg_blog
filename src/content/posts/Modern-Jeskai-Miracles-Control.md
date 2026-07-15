@@ -2,8 +2,6 @@
 
 title: "一費掃場：你若多抽奇蹟自來"
 date: "2025-10-29 07:34:01"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/XlRQ8Jz.png"
 thumbnail: "https://i.meee.com.tw/XlRQ8Jz.png"
 excerpt: "你已經死……不對，半死不活而已，請再陪我玩一下。順帶一提，讓我們把各自的生物都置於牌庫底吧。"

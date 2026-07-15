@@ -2,8 +2,6 @@
 
 title: "老曹的MIT#9參賽誌"
 date: "2025-06-22 20:58:21"
-tags:
-  - "sertyple"
 cover: "https://i.meee.com.tw/WC6Mr65.jpg"
 thumbnail: "https://i.meee.com.tw/WC6Mr65.jpg"
 excerpt: "過程不夠完美，但每一步都誠實面對自己的準備與選擇！"

@@ -1,8 +1,6 @@
 ---
 title: "鼠輩掘起：紅綠快攻解析與對局指南"
 date: "2025-03-22 11:25:28"
-tags:
-  - "xsbeeble"
 authors:
   - "XSBeeble"
 categories:

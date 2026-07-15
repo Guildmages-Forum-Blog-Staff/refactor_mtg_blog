@@ -1,8 +1,6 @@
 ---
 title: "降世神通：最後的氣宗（TLA）限制賽介紹 — 白色"
 date: "2025-11-10 18:49:18"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "關於新手如何在限制賽中進步 — 現開賽篇"
 date: "2024-07-30 13:50:01"
-tags:
-  - "cephille"
 cover: "https://i.postimg.cc/W3PwqTFT/Spike-Tournament-Grinder-by-Zoltan-Boros.avif"
 thumbnail: "https://i.postimg.cc/W3PwqTFT/Spike-Tournament-Grinder-by-Zoltan-Boros.avif"
 mathjax: "true"

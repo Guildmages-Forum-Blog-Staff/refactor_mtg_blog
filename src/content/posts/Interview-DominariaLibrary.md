@@ -2,8 +2,6 @@
 
 title: "人物專訪 — 多明納里亞圖書館"
 date: "2026-03-01 16:32:37"
-tags:
-  - "cephille"
 cover: "https://i.meee.com.tw/GzFyzRh.webp"
 thumbnail: "https://i.meee.com.tw/GzFyzRh.webp"
 excerpt: "在遙遠的多明納里亞時空，有一座館藏無盡知識的亞歷山大圖書館。而在台灣，也有一位博學多識的玩家，傾盡熱情為我們帶來了許多好看又好玩的魔風故事，今天很高興能訪問到《多明納里亞圖書館》的創辦人亞倫。"

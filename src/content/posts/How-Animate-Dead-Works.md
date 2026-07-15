@@ -1,8 +1,6 @@
 ---
 title: "屍變是如何運作的？"
 date: "2023-12-04 13:40:18"
-tags:
-  - "JruMTG"
 categories:
   - "MTG Rules"
 cover: "https://i.imgur.com/oOPExz6.jpg"

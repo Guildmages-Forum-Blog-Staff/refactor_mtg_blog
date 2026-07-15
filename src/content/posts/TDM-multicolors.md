@@ -1,8 +1,6 @@
 ---
 title: "韃契：龍襲風暴（TDM）限制賽介紹 — 多色"
 date: "2025-04-01 13:05:08"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

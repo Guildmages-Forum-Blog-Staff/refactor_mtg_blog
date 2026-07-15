@@ -1,8 +1,6 @@
 ---
 title: "邊疆營地：標準鐵木爾沙漠"
 date: "2024-05-21 17:53:52"
-tags:
-  - "JerobaMTG"
 cover: "https://i.postimg.cc/cLb3f3bT/thumb.png"
 thumbnail: "https://i.postimg.cc/cLb3f3bT/thumb.png"
 excerpt: "大鏢客甌柯與罪惡的沙漠"

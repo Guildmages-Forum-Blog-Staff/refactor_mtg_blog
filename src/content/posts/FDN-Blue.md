@@ -1,8 +1,6 @@
 ---
 title: "基石構築（FDN）限制賽介紹 — 藍色"
 date: "2024-11-05 08:25:28"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

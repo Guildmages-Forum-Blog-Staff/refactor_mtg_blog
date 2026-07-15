@@ -2,8 +2,6 @@
 
 title: "文章翻譯 — FDN輪抽體驗：日本限制賽強豪玩家的看法"
 date: "2024-12-06 09:52:25"
-tags:
-  - "Kappa"
 authors:
   - "Kappa"
 categories:

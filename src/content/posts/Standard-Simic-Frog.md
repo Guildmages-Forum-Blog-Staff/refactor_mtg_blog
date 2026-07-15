@@ -1,8 +1,6 @@
 ---
 title: "呱叫反身：標準藍綠青蛙"
 date: "2024-08-15 19:32:52"
-tags:
-  - "JerobaMTG"
 cover: "https://i.imgur.com/5SnDVW9.jpeg"
 thumbnail: "https://i.imgur.com/5SnDVW9.jpeg"
 excerpt: "好KERO球不打嗎？"

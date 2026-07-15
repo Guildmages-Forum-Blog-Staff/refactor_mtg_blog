@@ -6,8 +6,6 @@ excerpt: "Nadu 一路好走"
 authors:
   - "MiohitoKiri5474"
 date: 2024-08-16 17:51:11
-tags:
-  - "MiohitoKiri5474"
 categories:
   - "Construct"
   - "Modern"

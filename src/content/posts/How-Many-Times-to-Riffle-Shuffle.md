@@ -1,8 +1,6 @@
 ---
 title: "洗牌次數與隨機性的探索：魔法風雲會玩家該洗幾次牌才夠亂？"
 date: "2025-02-10 12:04:55"
-tags:
-  - "mm"
 authors:
   - "mm"
 categories:

@@ -2,8 +2,6 @@
 
 title: "虛空邊域：跟讀者一起玩到宇宙深處"
 date: "2025-08-05 16:02:44"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/wNez70O.jpg"
 thumbnail: "https://i.meee.com.tw/wNez70O.jpg"
 excerpt: "歡迎兩位女性玩家藉此機會入坑了輪抽賽制嗚嗚嗚，她們的一小步是魔法風雲會的一大步(？)"

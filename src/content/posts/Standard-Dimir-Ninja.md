@@ -1,8 +1,6 @@
 ---
 title: "機敏閃避：標準藍黑忍者"
 date: 2023-10-01 16:30:00
-tags:
-  - "JerobaMTG"
 excerpt: "隨著《艾卓荒野》(WOE)的發售，藍黑仙靈一躍進入大眾視野，藍黑中速也以穩健的表現盤據標準meta一隅，本回要討論的藍黑套牌不是上述兩副，而是意外獲得補強的藍黑忍者。"
 cover: "https://i.imgur.com/7FQFNy3.jpg"
 thumbnail: "https://i.imgur.com/7FQFNy3.jpg"

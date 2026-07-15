@@ -1,8 +1,6 @@
 ---
 title: "基石構築（FDN）限制賽介紹 — 綠色"
 date: "2024-11-06 11:38:47"
-tags:
-  - "中二紳士"
 authors:
   - "bruce1235566"
 categories:

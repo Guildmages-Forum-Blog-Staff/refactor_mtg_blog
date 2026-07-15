@@ -2,8 +2,6 @@
 
 title: "鍋子就你問題最多"
 date: "2025-08-19 19:50:31"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "[Fun Deck] 莎莉雅到哪去了呢？ 標準阿布贊坐騎構築"
 date: "2024-04-28 13:50:01"
-tags:
-  - "cephille"
 cover: "https://i.postimg.cc/NGRHQ00R/Thalia-Guardian-of-Thraben-Mt-G-Art.jpg"
 thumbnail: "https://i.postimg.cc/NGRHQ00R/Thalia-Guardian-of-Thraben-Mt-G-Art.jpg"
 excerpt: "在新非瑞克西亞入侵多重宇宙的大戰後，永遠的瑟班守護者莎莉雅到哪去了呢？"

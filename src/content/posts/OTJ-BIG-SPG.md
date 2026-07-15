@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 滿載而歸（BIG）& 特別來賓（SPG）"
 date: "2024-04-12 11:08:30"
-tags:
-  - "cephille"
 cover: "https://media.wizards.com/2024/images/daily/oLB26BDY2dwd.jpg"
 thumbnail: "https://media.wizards.com/2024/images/daily/oLB26BDY2dwd.jpg"
 excerpt: "小妹左手財勢劍、右手蓮花戒，失落的十手在腰間！"

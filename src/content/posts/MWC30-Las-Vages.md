@@ -2,8 +2,6 @@
 
 title: "約力昂大叔的世冠賽 30 賽報"
 date: "2024-11-01 10:18:07"
-tags:
-  - "David Yeh"
 cover: "https://i.imgur.com/GkMbNzU.jpeg"
 thumbnail: "https://i.imgur.com/GkMbNzU.jpeg"
 excerpt: "世冠賽 30 落幕啦！恭喜 David Yeh 在本屆世冠賽取得 23 名的佳績，來看看他為我們帶來的精彩的賽事記錄吧！"

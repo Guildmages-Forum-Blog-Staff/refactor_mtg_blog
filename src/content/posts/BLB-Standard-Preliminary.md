@@ -1,8 +1,6 @@
 ---
 title: "斑隆洛標準初探"
 date: "2024-07-31 11:29:17"
-tags:
-  - "JruMTG"
 cover: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
 thumbnail: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
 excerpt: "睽違兩年系列輪替後的全新標準"

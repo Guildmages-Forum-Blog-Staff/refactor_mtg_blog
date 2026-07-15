@@ -1,8 +1,6 @@
 ---
 title: "韃契：龍襲風暴（TDM）限制賽介紹 — 藍色"
 date: "2025-04-01 21:43:42"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

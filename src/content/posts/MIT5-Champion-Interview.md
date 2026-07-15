@@ -2,9 +2,6 @@
 
 title: "世界賽選手訪談－MIT第五輪冠軍 葉永丞 (David Yeh)"
 date: "2024-10-15 15:14:07"
-tags:
-  - "faintmama"
-  - "cephille"
 authors:
   - "faintmama"
   - "cephille"

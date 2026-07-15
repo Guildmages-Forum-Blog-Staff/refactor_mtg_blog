@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 黑色"
 date: "2024-04-12 11:07:37"
-tags:
-  - "Kappa"
 cover: "https://media.wizards.com/2024/images/daily/fy0v11zyzan8.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/fy0v11zyzan8.png"
 excerpt: "獄屍喚師基沙是我大姐，進場犯個罪就造出10點場攻了，有夠誇張！"

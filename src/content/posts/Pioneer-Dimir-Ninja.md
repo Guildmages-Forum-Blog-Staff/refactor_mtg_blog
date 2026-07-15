@@ -2,8 +2,6 @@
 
 title: "大膽滲透：先驅藍黑忍者"
 date: "2024-09-30 12:25:41"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

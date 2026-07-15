@@ -2,8 +2,6 @@
 
 title: "文章翻譯 — Reid Duke的「等級一」：中速套牌"
 date: "2026-03-25 18:14:54"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "降世神通：最後的氣宗（TLA）限制賽介紹 — 多色"
 date: "2025-11-10 11:39:27"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

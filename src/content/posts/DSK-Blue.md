@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸（DSK）限制賽介紹 — 藍色"
 date: "2024-09-18 15:03:28"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

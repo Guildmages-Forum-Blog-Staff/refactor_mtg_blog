@@ -1,8 +1,6 @@
 ---
 title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 機制介紹"
 date: 2023-08-29 16:40:06
-tags:
-  - cephille
 categories:
   - "Limited"
   - "WOE"

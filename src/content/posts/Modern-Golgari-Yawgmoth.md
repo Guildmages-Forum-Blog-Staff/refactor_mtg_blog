@@ -1,8 +1,6 @@
 ---
 title: "醫生轉行當廚師的指南"
 date: 2023-09-28 10:00:00
-tags:
-  - "T1BloodMoon"
 excerpt: "阿加莎的靈魂鼎鑊為黑綠醫生帶來的娛樂性"
 cover: "https://i.imgur.com/AbD2v4Y.jpg"
 thumbnail: "https://i.imgur.com/AbD2v4Y.jpg"

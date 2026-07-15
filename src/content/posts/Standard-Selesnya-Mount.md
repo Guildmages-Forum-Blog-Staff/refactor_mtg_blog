@@ -1,8 +1,6 @@
 ---
 title: "羈絆合一：標準白綠坐騎"
 date: "2024-06-04 21:17:13"
-tags:
-  - "JerobaMTG"
 cover: "https://i.postimg.cc/44PRcJKD/thumb.png"
 thumbnail: "https://i.postimg.cc/44PRcJKD/thumb.png"
 excerpt: "給熾淨駒一對翅膀～"

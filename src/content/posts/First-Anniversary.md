@@ -1,9 +1,6 @@
 ---
 title: "Guildmage's Forum 魔風集會所一周年運營咨文"
 date: "2024-09-05 01:02:26"
-tags:
-  - "Guildmages' Forum"
-  - "cephille"
 cover: "https://i.postimg.cc/Dfd2NRbg/407625190-122135490788036860-6039281861566976437-n.jpg"
 thumbnail: "https://i.postimg.cc/Dfd2NRbg/407625190-122135490788036860-6039281861566976437-n.jpg"
 excerpt: "歡慶 Guildmages' Forum 網站成立一周年！！！我們有新的中文名稱「魔風集會所」囉！來看看創辦人們這一年的心路歷程吧！"

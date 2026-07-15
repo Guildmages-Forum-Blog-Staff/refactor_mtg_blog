@@ -2,8 +2,6 @@
 title: '虛空邊域（EOE）限制賽介紹 — 無色、地、特別來賓'
 date: 2025-7-24 11:00:00
  
-tags: 
- - "XSBeeble"
 
 authors:
  - "XSBeeble"

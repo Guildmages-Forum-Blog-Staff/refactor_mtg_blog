@@ -2,8 +2,6 @@
 
 title: "無盡資源：標準黑綠自磨"
 date: "2024-10-24 14:37:41"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

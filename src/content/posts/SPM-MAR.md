@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — MAR"
 date: "2025-09-18 11:26:39"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — 黑色"
 date: "2025-06-03 13:50:09"
-tags:
-  - "Chennel"
 authors:
   - "Chennel"
 categories:

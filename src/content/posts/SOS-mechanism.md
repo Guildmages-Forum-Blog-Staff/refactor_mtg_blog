@@ -3,8 +3,6 @@
 title: "斯翠海文的祕密機制解析"
 date: "2026-04-07 11:58:31"
 updated: "2026-04-08 18:20:24"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "菜鳥的MIT#9回顧"
 date: "2025-10-06 11:31:44"
-tags:
-  - "Samuel Chang"
 cover: "https://i.meee.com.tw/PbSTDGn.webp"
 thumbnail: "https://i.meee.com.tw/PbSTDGn.webp"
 excerpt: "PT EOE打完了，讓我們來回顧一下菜鳥的MIT#9歷程吧！"

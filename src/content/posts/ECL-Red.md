@@ -1,8 +1,6 @@
 ---
 title: "洛溫：闇影籠罩（ECL）限制賽介紹 — 紅色"
 date: "2026-01-14 09:42:30"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

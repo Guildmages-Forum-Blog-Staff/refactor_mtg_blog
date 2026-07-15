@@ -1,8 +1,6 @@
 ---
 title: "標準紅快的新思路"
 date: "2024-01-10 12:30:50"
-tags:
-  - "yu-chen"
 cover: "https://i.imgur.com/WHN8nHx.jpg"
 thumbnail: "https://i.imgur.com/WHN8nHx.jpg"
 excerpt: "即使紅快首要目標都一樣，但其實有更靈活的構築！"

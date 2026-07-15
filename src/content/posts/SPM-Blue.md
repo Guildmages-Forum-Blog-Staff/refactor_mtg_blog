@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 藍色"
 date: "2025-09-16 12:43:11"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -2,8 +2,6 @@
 
 title: "激進創想：標準瘋亂2099"
 date: "2025-10-12 18:29:53"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

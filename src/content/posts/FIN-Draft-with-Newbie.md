@@ -1,8 +1,6 @@
 ---
 title: "最終幻想：最初的讀者輪抽同樂會"
 date: "2025-06-18 13:19:28"
-tags:
-  - "faintmama"
 authors:
   - "faintmama"
 categories:

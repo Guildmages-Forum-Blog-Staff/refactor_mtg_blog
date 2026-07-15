@@ -1,8 +1,6 @@
 ---
 title: "斑隆洛限制賽初探"
 date: "2024-07-22 13:10:38"
-tags:
-  - "cephille"
 cover: "https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg"
 thumbnail: "https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg"
 excerpt: "BLB限制賽的十種雙色主題以及其他值得留意的主題在這邊~"

@@ -2,8 +2,6 @@
 
 title: "友誼蒸發術：近代紅白炸地"
 date: "2025-10-14 23:51:38"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

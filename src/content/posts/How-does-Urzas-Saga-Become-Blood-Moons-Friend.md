@@ -2,8 +2,6 @@
 
 title: "血月如何從克撒傳的天敵變隊友"
 date: "2025-06-12 15:13:12"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

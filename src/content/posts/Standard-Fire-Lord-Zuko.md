@@ -2,8 +2,6 @@
 
 title: "命定交手：標準烈火王朱克"
 date: "2025-12-23 13:07:53"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

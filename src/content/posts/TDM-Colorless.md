@@ -1,8 +1,6 @@
 ---
 title: "韃契：龍襲風暴（TDM）限制賽介紹 — 無色、地、特別來賓"
 date: "2025-04-03 15:26:47"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

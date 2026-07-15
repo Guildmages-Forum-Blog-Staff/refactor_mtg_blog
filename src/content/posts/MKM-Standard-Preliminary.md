@@ -1,8 +1,6 @@
 ---
 title: "卡洛夫莊園謀殺案標準初探"
 date: "2024-02-09 01:44:58"
-tags:
-  - "JruMTG"
 cover: "https://media.wizards.com/2024/images/daily/B0wjj9QMXlAt.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/B0wjj9QMXlAt.png"
 excerpt: "來看看卡洛夫莊園謀殺案有甚麼新的標準構築"

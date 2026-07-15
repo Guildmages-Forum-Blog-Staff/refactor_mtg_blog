@@ -1,8 +1,6 @@
 ---
 title: "虛空邊域（EOE）限制賽介紹 — 多色"
 date: "2025-07-21 11:45:49"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

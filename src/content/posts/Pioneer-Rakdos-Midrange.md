@@ -1,8 +1,6 @@
 ---
 title: "Something About Rakdos Midrange"
 date: 2023-08-20 20:21:01
-tags:
-  - "MiohitoKiri5474"
 cover: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
 thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
 excerpt: "看起來好像似曾相識的標題？這就對啦！"

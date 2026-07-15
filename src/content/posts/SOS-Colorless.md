@@ -1,8 +1,6 @@
 ---
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 無色，地，SPG"
 date: "2026-04-16 09:49:55"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

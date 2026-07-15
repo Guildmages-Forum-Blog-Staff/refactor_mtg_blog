@@ -1,8 +1,6 @@
 ---
 title: "斯翠海文的祕密（SOS）限制賽 — 上市後觀察"
 date: "2026-04-24 15:01:36"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

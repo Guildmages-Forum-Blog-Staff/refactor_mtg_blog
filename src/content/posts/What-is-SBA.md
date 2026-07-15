@@ -2,8 +2,6 @@
 
 title: "何謂狀態動作（SBA）"
 date: "2025-07-01 09:48:17"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

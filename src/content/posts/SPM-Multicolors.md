@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 多色"
 date: "2025-09-15 12:00:00"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

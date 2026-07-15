@@ -1,8 +1,6 @@
 ---
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 黑色"
 date: "2024-02-01 11:28:24"
-tags:
-  - "中二紳士"
 cover: "https://media.wizards.com/2024/images/daily/ycSGbmZo9QxQ.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/ycSGbmZo9QxQ.png"
 excerpt: "你出一隻，我殺一隻就是黑色的浪漫！來看看MKM的黑色牌吧！"

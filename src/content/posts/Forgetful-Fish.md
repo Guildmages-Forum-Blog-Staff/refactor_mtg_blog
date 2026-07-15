@@ -7,9 +7,6 @@ authors:
   - "MiohitoKiri5474"
 date: "2026-03-30 13:31:53"
 updated: "2026-03-31 13:38:05"
-tags:
-  - "Casual"
-  - "MiohitoKiri5474"
 ---
 
 好久不見！我是猴王，今天想要跟大家分享一個賽制：巨魚丹丹。

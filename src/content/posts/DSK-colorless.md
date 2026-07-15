@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸（DSK）限制賽介紹 — 無色、地、SPG"
 date: "2024-09-20 10:27:42"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

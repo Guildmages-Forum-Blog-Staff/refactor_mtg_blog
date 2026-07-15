@@ -2,8 +2,6 @@
 
 title: "蘇勒台中速 — 追求卓越，不計代價"
 date: "2025-01-05 11:41:45"
-tags:
-  - "Patrick"
 cover: "https://i.meee.com.tw/7qWaOU0.jpg"
 thumbnail: "https://i.meee.com.tw/7qWaOU0.jpg"
 excerpt: "墳場、牌庫、地牌、手牌能夠利用的，我全部都要使用！這是最能夠代表蘇勒台的核心理念，就如同黑暗親信的風味敘述 – 追求卓越，不計代價 Greatness at any cost"

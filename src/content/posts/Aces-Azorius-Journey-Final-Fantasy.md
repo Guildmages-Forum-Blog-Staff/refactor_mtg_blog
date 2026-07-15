@@ -2,8 +2,6 @@
 
 title: "白藍玩家 Ace 的千葉之旅"
 date: "2025-07-16 12:41:28"
-tags:
-  - "Ace"
 cover: "https://i.meee.com.tw/Ik1wSbh.png"
 thumbnail: "https://i.meee.com.tw/Ik1wSbh.png"
 excerpt: "記載一切的記血紙，述說著第一次的千葉賽事體驗。從賽場中坐最久的對局視角，與大家一同回味久違的亞洲大型賽事。"

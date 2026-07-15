@@ -2,8 +2,6 @@
 
 title: "翼散良言：標準純藍飛兵"
 date: "2025-03-16 17:21:13"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

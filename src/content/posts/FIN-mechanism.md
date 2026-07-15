@@ -2,8 +2,6 @@
 
 title: "FINAL FANTASY 最終幻想機制解析"
 date: "2025-05-15 14:10:44"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

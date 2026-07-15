@@ -1,8 +1,6 @@
 ---
 title: "Standard 四色傳奇"
 date: "2024-01-29 18:57:36"
-tags:
-  - "Enki"
 cover: "https://i.imgur.com/ZDETBXZ.jpg"
 thumbnail: "https://i.imgur.com/ZDETBXZ.jpg"
 excerpt: "標準賽制？多色？生物牌？你以為是domain嗎？NO，是四色傳奇！"

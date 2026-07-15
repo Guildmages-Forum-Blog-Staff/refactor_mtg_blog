@@ -2,8 +2,6 @@
 
 title: "MIT#10八強：紅藍靈技"
 date: "2025-10-26 17:40:51"
-tags:
-  - "ZengZengZeng"
 authors:
   - "ZengZengZeng"
 categories:

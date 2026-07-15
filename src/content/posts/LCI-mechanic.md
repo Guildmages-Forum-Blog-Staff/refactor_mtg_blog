@@ -1,8 +1,6 @@
 ---
 title: "依夏蘭迷窟機制解析"
 date: "2023-10-25 17:19:50"
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/szsk2tj.png"
 thumbnail: "https://i.imgur.com/szsk2tj.png"
 excerpt: "來看看依夏蘭迷窟中出現了哪些新機制吧！"

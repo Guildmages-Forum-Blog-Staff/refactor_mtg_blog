@@ -1,8 +1,6 @@
 ---
 title: "近代的法力魔術師 - 泰坦護身符"
 date: "2024-06-13 16:49:21"
-tags:
-  - "偉特"
 cover: "https://i.postimg.cc/KZ4L3gpL/Primeval-Titan.png"
 thumbnail: "https://i.postimg.cc/KZ4L3gpL/Primeval-Titan.png"
 excerpt: "馬上帶你深入近代最神奇的經典套牌！"

@@ -1,8 +1,6 @@
 ---
 title: "為什麼Joo Dee不是傳奇？"
 date: "2025-11-13 16:17:53"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

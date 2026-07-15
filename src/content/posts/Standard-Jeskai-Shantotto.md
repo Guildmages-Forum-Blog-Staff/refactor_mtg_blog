@@ -2,8 +2,6 @@
 
 title: "激昂奇技：標準潔斯凱香托托"
 date: "2025-07-03 17:05:15"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

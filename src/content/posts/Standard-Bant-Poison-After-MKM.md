@@ -1,8 +1,6 @@
 ---
 title: "MKM後Bant Poison的新構築嘗試"
 date: "2024-02-16 13:48:04"
-tags:
-  - "cephille"
 cover: "https://i.imgur.com/UdndA4z.jpg"
 thumbnail: "https://i.imgur.com/UdndA4z.jpg"
 excerpt: "來看看標準班特毒套牌在MKM發售後的小更動大升級吧！"

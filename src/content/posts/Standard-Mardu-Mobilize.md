@@ -2,8 +2,6 @@
 
 title: "閃電波濤：標準瑪爾都動員"
 date: "2025-04-28 09:40:22"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

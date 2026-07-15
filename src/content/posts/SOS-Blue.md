@@ -2,8 +2,6 @@
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 藍色"
 date: "2026-04-13 23:12:53"
 updated: "2026-04-15 16:08:10"
-tags:
-  - "jeffchen"
 authors:
   - "jeffchen"
 categories:

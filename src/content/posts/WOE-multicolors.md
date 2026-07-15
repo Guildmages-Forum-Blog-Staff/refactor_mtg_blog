@@ -1,8 +1,6 @@
 ---
 title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 多色、神器、地"
 date: 2023-09-05 16:38:58
-tags:
-  - cephille
 categories:
   - "Limited"
   - "WOE"

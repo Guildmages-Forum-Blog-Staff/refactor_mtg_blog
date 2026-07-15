@@ -2,8 +2,6 @@
 
 title: "雙重打擊：標準潔斯凱焰爪"
 date: "2025-05-14 09:37:59"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

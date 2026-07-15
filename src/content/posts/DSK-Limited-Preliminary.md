@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸限制賽初探"
 date: "2024-09-17 14:13:54"
-tags:
-  - "cephille"
 categories:
   - "Limited"
   - "DSK"

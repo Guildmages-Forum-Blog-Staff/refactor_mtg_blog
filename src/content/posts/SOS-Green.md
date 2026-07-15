@@ -1,8 +1,6 @@
 ---
 title: "斯翠海文的祕密（SOS）限制賽介紹 — 綠色"
 date: "2026-04-16 09:28:59"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

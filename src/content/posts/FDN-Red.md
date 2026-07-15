@@ -1,8 +1,6 @@
 ---
 title: "基石構築（FDN）限制賽介紹 — 紅色"
 date: "2024-11-06 10:12:43"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

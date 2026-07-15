@@ -2,8 +2,6 @@
 
 title: "躍離是如何運作的？"
 date: "2025-02-26 10:39:21"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

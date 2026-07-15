@@ -2,8 +2,6 @@
 
 title: "運土的二三事"
 date: "2025-12-11 11:31:33"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "猛烈轟炸：先驅蠍龍解印"
 date: "2024-05-01 16:24:14"
-tags:
-  - "JerobaMTG"
 cover: "https://i.postimg.cc/Jzvds8nx/thumb.jpg"
 thumbnail: "https://i.postimg.cc/Jzvds8nx/thumb.jpg"
 excerpt: "刺針背懼龍在先驅有搞頭？！"

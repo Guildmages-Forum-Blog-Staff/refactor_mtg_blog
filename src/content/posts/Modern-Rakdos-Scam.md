@@ -1,8 +1,6 @@
 ---
 title: "近代紅黑中速 Rakdos Scam：近代環境的霸主"
 date: "2023-11-16 14:24:41"
-tags:
-  - "MiohitoKiri5474"
 cover: "https://images.ctfassets.net/pjhgqryi6myh/hero_4168/d4a7911d3714f18919fd7f09fee62e39/1622274633_grief.jpg?w=760&fm=webp"
 thumbnail: "https://images.ctfassets.net/pjhgqryi6myh/hero_4168/d4a7911d3714f18919fd7f09fee62e39/1622274633_grief.jpg?w=760&fm=webp"
 excerpt: "一回爽掉對手兩張牌，好蒿爽爽！"

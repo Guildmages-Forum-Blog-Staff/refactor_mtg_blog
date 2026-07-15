@@ -1,8 +1,6 @@
 ---
 title: "降世神通：最後的氣宗（TLA）限制賽介紹 — 無色、地"
 date: "2025-11-13 11:03:58"
-tags:
-  - "XSBeeble"
 authors:
   - "XSBeeble"
 categories:

@@ -2,8 +2,6 @@
 
 title: "頂級折磨：標準黑綠搜證控制"
 date: "2025-03-19 07:44:37"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

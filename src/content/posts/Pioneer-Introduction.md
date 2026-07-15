@@ -1,8 +1,6 @@
 ---
 title: "先驅簡易環境指南"
 date: 2023-09-21 14:00:00
-tags:
-  - Enki
 excerpt: "給新加入的玩家、或是想要入坑先驅賽制的玩家的一個建議！"
 cover: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
 thumbnail: "https://guildmagesforum.tw/images/mtg-pioneer.jpg"

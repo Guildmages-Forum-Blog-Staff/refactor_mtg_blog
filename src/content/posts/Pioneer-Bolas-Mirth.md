@@ -2,8 +2,6 @@
 
 title: "惡毒折磨：先驅波拉斯喜悅"
 date: "2024-10-21 18:45:17"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

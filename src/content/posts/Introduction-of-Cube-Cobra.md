@@ -2,8 +2,6 @@
 
 title: 'Cube設計 - Cube Cobra介紹'
 date: 2025-04-08 21:30:00
-tags:
-  - dalance
 
 cover: "https://i.meee.com.tw/z5P3HxZ.jpg"
 thumbnail: "https://i.meee.com.tw/DKFwWNc.jpg"

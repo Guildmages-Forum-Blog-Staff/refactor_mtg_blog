@@ -1,8 +1,6 @@
 ---
 title: "洛溫 暗影籠罩（ECL）限制賽介紹 — 無色、地、特別來賓"
 date: "2026-01-15 15:51:34"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

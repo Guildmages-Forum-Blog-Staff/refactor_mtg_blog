@@ -2,8 +2,6 @@
 
 title: "領土動物園（Domain Zoo）遊玩指南《韃契：龍襲風暴環境》"
 date: "2025-05-12 19:20:59"
-tags:
-  - "CIXS"
 cover: "https://i.meee.com.tw/EqP61om.png"
 thumbnail: "https://i.meee.com.tw/EqP61om.png"
 excerpt: "Domain Zoo最近的戰績似乎變好了！？讓我們跟隨塞克斯的分享來一探究竟吧！"

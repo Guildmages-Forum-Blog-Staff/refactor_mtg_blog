@@ -2,8 +2,6 @@
 
 title: "財寶爆破：標準終速堅鋼龜"
 date: "2025-09-04 21:44:16"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:
