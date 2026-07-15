@@ -1,8 +1,6 @@
 ---
 title: "套牌構築基礎入門"
 date: "2023-10-29 23:06:20"
-tags:
-  - "JerobaMTG"
 cover: "https://i.imgur.com/1xH08bF.png"
 thumbnail: "https://i.imgur.com/1xH08bF.png"
 excerpt: "套牌要怎麼組才會順？其實是有訣竅的。"

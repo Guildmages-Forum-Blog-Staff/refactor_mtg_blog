@@ -2,8 +2,6 @@
 
 title: "虛空邊域標準初探"
 date: "2025-07-28 08:00:00"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

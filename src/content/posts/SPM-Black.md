@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 黑色"
 date: "2025-09-17 11:45:28"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

@@ -2,8 +2,6 @@
 
 title: "地牌配色五四三"
 date: "2025-09-30 19:17:38"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

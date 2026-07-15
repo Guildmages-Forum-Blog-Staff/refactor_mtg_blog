@@ -2,8 +2,6 @@
 
 title: "殘酷雇工：標準影環護寶龍"
 date: "2025-09-20 13:10:13"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

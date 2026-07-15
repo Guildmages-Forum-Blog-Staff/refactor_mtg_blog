@@ -2,8 +2,6 @@
 
 title: "紡絲精兵：標準蛛網戰士團"
 date: "2025-10-21 09:52:38"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

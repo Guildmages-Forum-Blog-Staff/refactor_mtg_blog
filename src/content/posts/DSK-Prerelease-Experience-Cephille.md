@@ -1,8 +1,6 @@
 ---
 title: "豬鼻子的 DSK 售前現開分享"
 date: "2024-09-24 23:07:19"
-tags:
-  - "cephille"
 cover: "https://i.postimg.cc/3rCxTkPX/duskmournart-1160x653.jpg"
 thumbnail: "https://i.postimg.cc/3rCxTkPX/duskmournart-1160x653.jpg"
 excerpt: "來喔來喔！ DSK 限制賽好玩喔！"

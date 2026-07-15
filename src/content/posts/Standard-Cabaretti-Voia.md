@@ -1,8 +1,6 @@
 ---
 title: "妖精狼伴：標準樂舞會沃亞"
 date: "2024-03-02 11:49:39"
-tags:
-  - "JerobaMTG"
 excerpt: "狼與妖精的輪舞。"
 cover: "https://i.imgur.com/smiq7Iq.png"
 thumbnail: "https://i.imgur.com/smiq7Iq.png"

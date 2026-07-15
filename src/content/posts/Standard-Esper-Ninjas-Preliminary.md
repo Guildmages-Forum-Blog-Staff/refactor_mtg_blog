@@ -2,8 +2,6 @@
 
 title: "艾斯波忍者初探"
 date: "2026-03-15 20:14:25"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

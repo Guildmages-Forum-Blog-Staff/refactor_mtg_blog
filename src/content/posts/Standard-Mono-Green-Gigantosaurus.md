@@ -2,8 +2,6 @@
 
 title: "無匹型體：標準純綠巨太龍"
 date: "2024-12-26 00:19:46"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

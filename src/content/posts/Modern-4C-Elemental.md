@@ -1,8 +1,6 @@
 ---
 title: "近代賽場：四色元素"
 date: 2023-09-20 10:19:10
-tags:
-  - "Enki"
 cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/09/omnath-locus-of-creation_icon.jpg?fit=768%2C432&ssl=1"
 thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/09/omnath-locus-of-creation_icon.jpg?fit=768%2C432&ssl=1"
 excerpt: "為應戰第五季的近代賽季，來聊聊這套處於meta頂端之一的多色主題牌組，其潛在威力和應對方法吧！"

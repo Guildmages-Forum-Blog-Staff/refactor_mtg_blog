@@ -2,8 +2,6 @@
 
 title: "鐵膽賽車：標準紅白載具"
 date: "2025-03-02 14:37:56"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

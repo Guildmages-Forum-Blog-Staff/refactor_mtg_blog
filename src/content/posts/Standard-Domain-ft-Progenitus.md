@@ -1,8 +1,6 @@
 ---
 title: "標準 Domain Ramp Feat. 祖神獸"
 date: "2024-11-19 20:35:22"
-tags:
-  - "Enki"
 authors:
   - "Enki"
 categories:

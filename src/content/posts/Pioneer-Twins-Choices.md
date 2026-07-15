@@ -1,8 +1,6 @@
 ---
 title: "二元之聲：先驅粹麗雙子"
 date: "2023-11-01 10:05:07"
-tags:
-  - "JerobaMTG"
 excerpt: "看看斯翠海文的肯理斯雙子如何在先驅大展身手。"
 cover: "https://i.imgur.com/2SSNsKT.png"
 thumbnail: "https://i.imgur.com/2SSNsKT.png"

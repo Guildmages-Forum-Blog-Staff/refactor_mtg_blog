@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 多色、無色、地"
 date: "2024-04-08 10:54:39"
-tags:
-  - "cephille"
 cover: "https://i.postimg.cc/FrZf63HR/OTJ.png"
 thumbnail: "https://i.postimg.cc/FrZf63HR/OTJ.png"
 excerpt: "狂徒群集光雷驛，奪寶鬥法設奇謀。凱瀾千里尋父蹤，真心絕情枉蹉跎！欲知OTJ限制賽如何入門，請看本系列文章章章章章！（echo漸弱）"

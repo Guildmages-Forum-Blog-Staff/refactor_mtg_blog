@@ -1,8 +1,6 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 多色、無色、地"
 date: "2023-11-13 15:41:46"
-tags:
-  - "cephille"
 cover: "https://i.imgur.com/sC7dAsF.png"
 thumbnail: "https://i.imgur.com/sC7dAsF.png"
 excerpt: "說到限制賽就不能不從十張多色的U卡來看起，讓我們從多色進入LCI限制賽的大觀園吧！"

@@ -1,8 +1,6 @@
 ---
 title: "乙太飄移（DFT）限制賽介紹 — 紅色"
 date: "2025-02-05 11:33:16"
-tags:
-  - "ZHAN"
 authors:
   - "ZHAN"
 categories:

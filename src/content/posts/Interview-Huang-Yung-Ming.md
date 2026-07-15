@@ -1,9 +1,6 @@
 ---
 title: "臺灣玩家專訪－黃永銘"
 date: "2025-06-15 17:13:32"
-tags:
-  - "faintmama"
-  - "cephille"
 authors:
   - "faintmama"
   - "cephille"

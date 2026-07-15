@@ -1,8 +1,6 @@
 ---
 title: "降世神通：最後的氣宗（TLA）限制賽介紹 — 藍色"
 date: "2025-11-10 22:15:38"
-tags:
-  - "jeffchen"
 authors:
   - "jeffchen"
 categories:

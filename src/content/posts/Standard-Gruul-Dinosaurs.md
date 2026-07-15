@@ -1,8 +1,6 @@
 ---
 title: "蠻野重跺：標準古魯恐龍"
 date: "2023-11-20 18:45:45"
-tags:
-  - "JerobaMTG"
 excerpt: "依夏蘭要先組什麼套牌？當然是恐龍阿！"
 cover: "https://i.imgur.com/7ApwCck.png"
 thumbnail: "https://i.imgur.com/7ApwCck.png"

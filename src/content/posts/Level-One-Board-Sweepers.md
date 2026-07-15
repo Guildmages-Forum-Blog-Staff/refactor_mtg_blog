@@ -3,8 +3,6 @@
 title: "文章翻譯 — Reid Duke的「等級一」：掃場咒語"
 date: "2026-04-07 12:13:56"
 updated: "2026-04-07 18:36:09"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

@@ -2,8 +2,6 @@
 
 title: "蠻野覺醒：標準紅綠威猛"
 date: "2025-03-09 16:09:32"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

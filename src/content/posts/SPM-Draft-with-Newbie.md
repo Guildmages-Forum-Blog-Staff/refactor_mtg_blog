@@ -2,8 +2,6 @@
 
 title: "漫威蜘蛛人：越陳越香的聯名系列輪抽"
 date: "2025-10-02 16:54:54"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/zdRK5eu.jpg"
 thumbnail: "https://i.meee.com.tw/zdRK5eu.jpg"
 excerpt: "這些牌怎麼越看越有潛力？絲。"

@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸（DSK）限制賽介紹 — 多色"
 date: "2024-09-19 11:14:05"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

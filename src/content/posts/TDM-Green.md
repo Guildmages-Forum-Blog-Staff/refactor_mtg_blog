@@ -1,8 +1,6 @@
 ---
 title: "韃契：龍襲風暴（TDM）限制賽介紹 — 綠色"
 date: "2025-04-03 01:11:16"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

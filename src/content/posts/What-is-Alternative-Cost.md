@@ -1,8 +1,6 @@
 ---
 title: "何謂替代性費用"
 date: 2023-10-18 23:00:00
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/74agayt.png"
 thumbnail: "https://i.imgur.com/74agayt.png"
 excerpt: "為甚麼用迅咒法師返照FOW時無法選擇替費施放呢？"

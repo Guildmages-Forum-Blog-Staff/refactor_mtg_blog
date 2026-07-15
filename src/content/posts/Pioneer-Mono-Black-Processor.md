@@ -1,8 +1,6 @@
 ---
 title: "Pioneer 純黑噬體中速"
 date: "2024-05-13 20:52:06"
-tags:
-  - "JruMTG"
 categories:
   - "Construct"
   - "Pioneer"

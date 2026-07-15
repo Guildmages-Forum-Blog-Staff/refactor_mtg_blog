@@ -1,8 +1,6 @@
 ---
 title: "Modern 環境考察 pre MKM"
 date: "2024-02-12 09:56:02"
-tags:
-  - "MiohitoKiri5474"
 cover: "https://assets.moxfield.net/cards/card-Waw8l-art_crop.webp"
 thumbnail: "https://assets.moxfield.net/cards/card-Waw8l-art_crop.webp"
 excerpt: "犀牛犀牛犀牛，怎麼到處都是犀牛"

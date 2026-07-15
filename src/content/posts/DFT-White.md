@@ -1,8 +1,6 @@
 ---
 title: "乙太飄移（DFT）限制賽介紹 — 白色"
 date: "2025-02-04 11:57:38"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

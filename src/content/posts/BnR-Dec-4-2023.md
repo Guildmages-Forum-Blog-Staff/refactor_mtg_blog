@@ -1,8 +1,6 @@
 ---
 title: "2023 Dec 4 Banned and Restricted Announcement 對環境帶來的影響"
 date: "2023-12-10 16:01:08"
-tags:
-  - "MiohitoKiri5474"
 cover: "https://guildmagesforum.tw/images/Silver-Fury.jpg"
 thumbnail: "https://guildmagesforum.tw/images/Silver-Fury.jpg"
 excerpt: "被禁掉的各位，慢走不送"

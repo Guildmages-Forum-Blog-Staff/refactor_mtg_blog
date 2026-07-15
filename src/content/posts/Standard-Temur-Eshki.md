@@ -2,8 +2,6 @@
 
 title: "鐵木爾意志：標準龍爪艾絲琦"
 date: "2025-04-17 01:00:02"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

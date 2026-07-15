@@ -2,8 +2,6 @@
 
 title: "精細調整：洛溫闇影主題預組修改型"
 date: "2026-01-27 18:09:48"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "降世神通：最後的氣宗（TLA）限制賽介紹 — 綠色"
 date: "2025-11-12 08:30:00"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

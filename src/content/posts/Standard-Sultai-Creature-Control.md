@@ -3,8 +3,6 @@
 title: "絕處逢生：標準蘇勒台生物控制"
 date: "2026-03-23 12:33:19"
 updated: "2026-03-23 13:09:47"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

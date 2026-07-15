@@ -1,8 +1,6 @@
 ---
 date: 2023-10-02 23:54:20
 title: "標準藍白士兵的流變與展望"
-tags:
-  - cephille
 cover: "https://i.imgur.com/oPBzlrf.png"
 thumbnail: "https://i.imgur.com/oPBzlrf.png"
 excerpt: "WOE發售後，藍白士兵雖然沒有獲得太多的補強，但在剛結束的世冠賽還是有一副能取得第三名的好成績，想知道更多關於這副套牌的know-how的話就點進來看看吧！"

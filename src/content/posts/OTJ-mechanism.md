@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客機制解析"
 date: "2024-03-29 15:13:51"
-tags:
-  - "JruMTG"
 categories:
   - "Limited"
   - "OTJ"

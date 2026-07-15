@@ -1,8 +1,6 @@
 ---
 title: "乙太飄移（DFT）限制賽介紹 — 無色、地、特別來賓"
 date: "2025-02-07 10:28:19"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

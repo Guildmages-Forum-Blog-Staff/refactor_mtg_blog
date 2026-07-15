@@ -2,8 +2,6 @@
 title: '虛空邊域（EOE）限制賽介紹 — EOS'
 date: 2025-7-24 11:10:00
 
-tags:
- - "Peter"
 
 authors:
  - "layukipedia"

@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 紅色"
 date: "2025-09-17 11:45:58"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

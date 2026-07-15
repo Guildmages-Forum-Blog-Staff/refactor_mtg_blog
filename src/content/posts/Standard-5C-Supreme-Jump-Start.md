@@ -1,8 +1,6 @@
 ---
 title: "十會碎盟：標準至尊再起"
 date: "2024-02-26 13:05:49"
-tags:
-  - "JerobaMTG"
 excerpt: "既然回到拉尼卡，那就是現世十會盟的回合了！"
 cover: "https://i.imgur.com/EyPlJ9j.png"
 thumbnail: "https://i.imgur.com/EyPlJ9j.png"

@@ -1,8 +1,6 @@
 ---
 title: "如何描述一個物件？"
 date: "2023-11-30 23:48:43"
-tags:
-  - "JruMTG"
 categories:
   - "MTG Rules"
 cover: "https://i.imgur.com/rlgVpG8.jpg"

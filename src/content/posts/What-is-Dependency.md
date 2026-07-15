@@ -1,8 +1,6 @@
 ---
 title: "什麼是從屬關係"
 date: "2024-05-09 09:25:22"
-tags:
-  - "JruMTG"
 categories:
   - "MTG Rules"
 authors:

@@ -1,8 +1,6 @@
 ---
 title: "獺球技藝：標準紅藍水獺"
 date: "2024-09-02 11:50:34"
-tags:
-  - "JerobaMTG"
 cover: "https://i.imgur.com/n1nmOry.png"
 thumbnail: "https://i.imgur.com/n1nmOry.png"
 excerpt: "靈技？召集？還是...？"

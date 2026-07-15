@@ -1,8 +1,6 @@
 ---
 title: "基石構築（FDN）限制賽介紹 — 無色、地、SPG"
 date: "2024-11-06 22:47:12"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -1,8 +1,6 @@
 ---
 title: "乙太飄移（DFT）限制賽介紹 — 藍色"
 date: "2025-02-04 18:34:02"
-tags:
-  - "jeffchen"
 authors:
   - "jeffchen"
 categories:

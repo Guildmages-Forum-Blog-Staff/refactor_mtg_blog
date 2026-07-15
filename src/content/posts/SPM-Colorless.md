@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 無色、地"
 date: "2025-09-18 11:26:07"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

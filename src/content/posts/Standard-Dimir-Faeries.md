@@ -2,8 +2,6 @@
 
 title: "仙華惡戲：標準藍黑仙靈"
 date: "2024-12-03 13:25:01"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

@@ -2,8 +2,6 @@
 
 title: "遠地遨遊：標準跑車浪漫旅"
 date: "2025-07-14 13:14:25"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

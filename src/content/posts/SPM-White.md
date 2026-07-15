@@ -1,8 +1,6 @@
 ---
 title: "漫威蜘蛛人（SPM）限制賽介紹 — 白色"
 date: "2025-09-16 12:42:48"
-tags:
-  - "ZHAN"
 authors:
   - "ZHAN"
 categories:

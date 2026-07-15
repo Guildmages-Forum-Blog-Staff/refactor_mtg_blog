@@ -2,8 +2,6 @@
 
 title: "近代瑪爾督能量：當豹貓群遇上魔戒"
 date: "2024-11-25 11:48:29"
-tags:
-  - "Kappa"
 authors:
   - "Kappa"
 categories:

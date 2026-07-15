@@ -1,8 +1,6 @@
 ---
 title: "什麼是時間印記"
 date: "2024-03-23 13:25:27"
-tags:
-  - "JruMTG"
 categories:
   - "MTG Rules"
 cover: "https://i.postimg.cc/pxbqm3Mb/Diminish.jpg"

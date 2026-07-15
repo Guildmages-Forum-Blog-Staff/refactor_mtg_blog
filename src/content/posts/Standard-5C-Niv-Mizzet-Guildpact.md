@@ -1,8 +1,6 @@
 ---
 title: "召現炎靈：標準十會盟尼米捷"
 date: "2026-02-26 14:27:54"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

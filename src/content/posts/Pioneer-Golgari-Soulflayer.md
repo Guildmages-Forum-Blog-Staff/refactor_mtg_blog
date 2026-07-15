@@ -1,8 +1,6 @@
 ---
 title: "葛加理掠魂魔"
 date: "2024-06-05 19:56:34"
-tags:
-  - "Kappa"
 cover: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
 thumbnail: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
 excerpt: "掠魂魔Bros. Season 2突襲賽場啦！"

@@ -1,10 +1,6 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 綠色"
 date: "2023-11-17 13:28:25"
-tags:
-  - "cephille"
-  - "Kappa"
-  - "JruMTG"
 cover: "https://i.imgur.com/cdtpUhQ.png"
 thumbnail: "https://i.imgur.com/cdtpUhQ.png"
 excerpt: "恐龍這個主題還是出在熟悉的依夏蘭最對味！在這次LCI有多少厲害的大恐龍加入呢？讓我們拭目以待！"

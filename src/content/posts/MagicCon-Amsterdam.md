@@ -1,8 +1,6 @@
 ---
 title: "豬鼻子的MagicCon:Amsterdam記行"
 date: "2024-07-04 19:10:12"
-tags:
-  - "cephille"
 cover: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
 thumbnail: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
 excerpt: "第一次參加MagicCon就上手？來看看吧！"

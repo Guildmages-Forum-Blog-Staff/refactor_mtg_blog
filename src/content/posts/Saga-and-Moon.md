@@ -1,8 +1,6 @@
 ---
 title: "克撒傳怎麼自爆了"
 date: 2023-09-05 17:42:48
-tags:
-  - "JruMTG"
 cover: "https://i.meee.com.tw/qzVEuiz.png"
 thumbnail: "https://i.meee.com.tw/qzVEuiz.png"
 categories:

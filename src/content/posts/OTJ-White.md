@@ -1,8 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 白色"
 date: "2024-04-09 00:09:29"
-tags:
-  - "偉特"
 cover: "https://media.wizards.com/2024/images/daily/qk0tx3i96sjj.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/qk0tx3i96sjj.png"
 excerpt: "我來限制賽只辦三件事！價值！價值！還是XX的價值！"

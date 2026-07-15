@@ -1,8 +1,6 @@
 ---
 title: "Pioneer 環境考察 preMIT #4"
 date: 2023-11-1 20:00:00
-tags:
-  - "MiohitoKiri5474"
 cover: "/images/Thoughtseize.jpg"
 thumbnail: "/images/Thoughtseize.jpg"
 excerpt: "週末就是 MIT #4 的決賽了，大家決定好套牌了嗎？"

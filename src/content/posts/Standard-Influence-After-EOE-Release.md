@@ -2,9 +2,6 @@
 
 title: "關於虛空邊域（EOE）發售後標準輪替的二三事"
 date: "2025-07-17 17:13:03"
-tags:
-  - "cephille"
-  - "JruMTG"
 cover: "https://i.meee.com.tw/4xXTPGS.jpg"
 thumbnail: "https://i.meee.com.tw/4xXTPGS.jpg"
 excerpt: "輪替是什麼？可以吃嗎？"

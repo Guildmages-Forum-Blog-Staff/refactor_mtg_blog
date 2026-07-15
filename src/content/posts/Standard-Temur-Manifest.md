@@ -2,8 +2,6 @@
 
 title: "鎮場驚喜：標準鐵木爾顯化"
 date: "2024-10-09 22:53:26"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

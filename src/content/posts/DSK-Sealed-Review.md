@@ -2,8 +2,6 @@
 
 title: "暮悲邸：鬼屋驚魂（DSK）現開賽Review"
 date: "2024-10-02 13:00:43"
-tags:
-  - "faintmama"
 authors:
   - "faintmama"
 categories:

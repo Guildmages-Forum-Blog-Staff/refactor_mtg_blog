@@ -2,8 +2,6 @@
 
 title: "黑綠中速：不獾贏你"
 date: "2026-03-13 09:45:25"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/cmHR0D5.jpg"
 thumbnail: "https://i.meee.com.tw/cmHR0D5.jpg"
 excerpt: "你的報償邪術比我的爛。"

@@ -2,8 +2,6 @@
 
 title: "世界賽選手訪談－MIT第八輪冠軍 林仕峰"
 date: "2025-12-01 15:47:55"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/LI8zeXO.jpg"
 thumbnail: "https://i.meee.com.tw/LI8zeXO.jpg"
 excerpt: "MIT第八輪冠軍賽是場特別的賽事，冠亞賽兩位玩家皆為南部出身。酣戰過後雖有勝負之分，但經典的對局已成不會被抹滅的記錄。"

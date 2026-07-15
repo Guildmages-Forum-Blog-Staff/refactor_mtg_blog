@@ -1,8 +1,6 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 白色"
 date: "2023-11-14 09:50:35"
-tags:
-  - "Kappa"
 cover: "https://i.imgur.com/rdkjPci.png"
 thumbnail: "https://i.imgur.com/rdkjPci.png"
 excerpt: "萬眾矚目的白長老恐龍始輝澤塔帕要重出江湖了嗎？喔不！這個系列是神器環境..."

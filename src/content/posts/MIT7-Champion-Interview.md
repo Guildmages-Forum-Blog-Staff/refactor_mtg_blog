@@ -2,8 +2,6 @@
 
 title: "世界賽選手訪談－MIT第七輪冠軍 陳思源"
 date: "2025-12-01 08:21:19"
-tags:
-  - "faintmama"
 cover: "https://i.meee.com.tw/Jx2PqGQ.jpg"
 thumbnail: "https://i.meee.com.tw/Jx2PqGQ.jpg"
 excerpt: "思源的魔風之路非常特別、格外勇敢堅定。在筆者還未真正認識他以前，就已經知道臺北有名熱衷於紅黑色組的厲害玩家。"

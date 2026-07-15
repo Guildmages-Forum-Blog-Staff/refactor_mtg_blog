@@ -1,8 +1,6 @@
 ---
 title: "囤物滿溢：標準紅綠浣熊"
 date: "2024-09-15 16:25:40"
-tags:
-  - "JerobaMTG"
 cover: "https://i.imgur.com/B2LGUrF.png"
 thumbnail: "https://i.imgur.com/B2LGUrF.png"
 excerpt: "浣熊滾雪球～"

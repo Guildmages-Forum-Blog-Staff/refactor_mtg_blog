@@ -2,8 +2,6 @@
 
 title: "深入勘查：標準探窟神通"
 date: "2025-12-07 12:03:33"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

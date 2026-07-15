@@ -2,8 +2,6 @@
 
 title: "韃契：龍襲風暴～標準初探"
 date: "2025-04-13 22:00:00"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

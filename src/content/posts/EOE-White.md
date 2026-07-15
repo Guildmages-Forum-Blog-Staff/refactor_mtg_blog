@@ -2,8 +2,6 @@
 title: '虛空邊域（EOE）限制賽介紹 — 白色'
 date: 2025-7-22 08:00:00
  
-tags: 
- - "JruMTG"
 
 authors:
  - "JruMTG"

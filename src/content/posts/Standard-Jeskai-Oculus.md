@@ -1,8 +1,6 @@
 ---
 title: "眼空千古：標準潔斯凱大眼指南"
 date: "2025-06-17 17:10:43"
-tags:
-  - "Chennel"
 cover: "https://i.meee.com.tw/m6ezujl.jpg"
 thumbnail: "https://i.meee.com.tw/m6ezujl.jpg"
 excerpt: "記憶中，清晰的恐懼映照在你眼底"

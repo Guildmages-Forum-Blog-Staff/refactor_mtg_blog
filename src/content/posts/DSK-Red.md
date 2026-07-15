@@ -1,8 +1,6 @@
 ---
 title: "暮悲邸（DSK）限制賽介紹 — 紅色"
 date: "2024-09-19 11:00:00"
-tags:
-  - "GY_Player"
 authors:
   - "GY_Player"
 categories:

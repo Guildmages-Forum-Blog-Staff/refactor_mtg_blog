@@ -1,8 +1,6 @@
 ---
 title: "Pioneer 五色天光尼米捷"
 date: "2024-03-06 12:24:33"
-tags:
-  - "Enki"
 categories:
   - "Construct"
   - "Pioneer"

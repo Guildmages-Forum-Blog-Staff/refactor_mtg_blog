@@ -1,8 +1,6 @@
 ---
 title: "「結束本回合」是甚麼意思？"
 date: "2025-07-07 12:06:58"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

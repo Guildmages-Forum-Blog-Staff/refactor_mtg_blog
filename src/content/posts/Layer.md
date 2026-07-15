@@ -3,8 +3,6 @@
 title: "Layer：持續性效應的互動"
 date: "2024-12-02 10:57:43"
 updated: "2025-07-06 19:55:27"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

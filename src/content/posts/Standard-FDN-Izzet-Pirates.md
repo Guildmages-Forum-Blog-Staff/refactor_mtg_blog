@@ -2,8 +2,6 @@
 
 title: "規劃航路：海盜船長構築檢驗"
 date: "2024-11-26 19:17:44"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

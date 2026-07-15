@@ -1,8 +1,6 @@
 ---
 date: 2023-10-11 19:30:00
 title: "標準套牌推薦 : 格利極戰役"
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/vHmZ67s.png"
 thumbnail: "https://i.imgur.com/vHmZ67s.png"
 excerpt: "寫作戰役讀作賺牌狂魔"

@@ -1,8 +1,6 @@
 ---
 title: "降世神通：最後的氣宗（TLA）限制賽介紹 — TLE"
 date: "2025-11-13 11:04:24"
-tags:
-  - "T1BloodMoon"
 authors:
   - "T1BloodMoon"
 categories:

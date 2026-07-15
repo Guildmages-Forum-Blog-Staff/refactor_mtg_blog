@@ -2,8 +2,6 @@
 
 title: "龍語怒吼：標準純紅龍燒"
 date: "2024-12-20 19:51:33"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

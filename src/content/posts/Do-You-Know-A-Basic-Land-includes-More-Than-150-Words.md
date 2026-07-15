@@ -1,8 +1,6 @@
 ---
 title: "別再怪現代卡牌字多了——那些年，MTG 寫過的小作文"
 date: "2025-12-31 11:49:50"
-tags:
-  - "XSBeeble"
 authors:
   - "XSBeeble"
 categories:

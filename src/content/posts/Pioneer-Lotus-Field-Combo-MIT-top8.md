@@ -1,8 +1,6 @@
 ---
 title: "先驅蓮花田攻略"
 date: "2024-03-02 11:44:34"
-tags:
-  - "zhi-mao"
 cover: "https://www.mtgnexus.com/img/gallery/1689731076/1733-hidden-strings.jpg"
 thumbnail: "https://www.mtgnexus.com/img/gallery/1689731076/1733-hidden-strings.jpg"
 excerpt: "來看看MIT#4獲得亞軍的蓮花田攻略吧！"

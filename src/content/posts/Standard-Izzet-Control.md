@@ -2,8 +2,6 @@
 
 title: "堆疊亂舞：標準紅藍棄牌控制"
 date: "2025-03-13 10:03:59"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

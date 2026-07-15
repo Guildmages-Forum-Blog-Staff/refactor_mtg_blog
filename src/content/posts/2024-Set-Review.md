@@ -2,8 +2,6 @@
 
 title: "回顧2024年的魔法風雲會"
 date: "2024-12-16 14:42:49"
-tags:
-  - "ZHAN"
 authors:
   - "ZHAN"
 categories:

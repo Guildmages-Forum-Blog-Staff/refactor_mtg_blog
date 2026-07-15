@@ -2,8 +2,6 @@
 
 title: "第11季標準MITQ：純白Token控制"
 date: "2025-09-02 13:38:33"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

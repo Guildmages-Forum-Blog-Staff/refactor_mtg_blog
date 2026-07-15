@@ -1,8 +1,6 @@
 ---
 title: "帶領新手認識MTG的一點個人心得"
 date: 2023-10-05 14:15:24
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/Puc6gJz.png"
 thumbnail: "https://i.imgur.com/ISsvq5u.png"
 excerpt: "關於筆者近年來在帶領新人上的經驗總結"

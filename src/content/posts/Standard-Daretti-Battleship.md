@@ -2,8 +2,6 @@
 
 title: '整修充能：標準達雷迪戰艦'
 date: 2025-08-12 12:00:00
-tags: 
- - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

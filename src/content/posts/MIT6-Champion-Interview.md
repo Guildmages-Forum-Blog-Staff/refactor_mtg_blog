@@ -2,9 +2,6 @@
 
 title: "世界賽選手訪談－MIT第六輪冠軍 石惟中 (石頭)"
 date: "2024-10-16 10:45:20"
-tags:
-  - "faintmama"
-  - "cephille"
 authors:
   - "faintmama"
   - "cephille"

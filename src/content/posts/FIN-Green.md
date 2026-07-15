@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — 綠色"
 date: "2025-06-04 12:47:33"
-tags:
-  - "ClarkShih"
 authors:
   - "ClarkShih"
 categories:

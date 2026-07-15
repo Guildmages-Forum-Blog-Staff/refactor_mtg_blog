@@ -1,8 +1,6 @@
 ---
 title: "If you do 與 When you do"
 date: 2023-09-12 19:31:13
-tags:
-  - JruMTG
 cover: "https://i.imgur.com/KqhdXXK.png"
 thumbnail: "https://i.imgur.com/zgTvE56.png"
 excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差異"

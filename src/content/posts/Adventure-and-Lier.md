@@ -3,8 +3,6 @@ title: "列爾如何與歷險牌互動"
 
 date: 2023-09-19 18:00:00
 
-tags:
-  - JruMTG
 
 cover: "https://i.imgur.com/swcUW7m.png"
 thumbnail: "https://i.imgur.com/zd5EUlv.png"

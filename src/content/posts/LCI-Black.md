@@ -1,9 +1,6 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 黑色"
 date: "2023-11-16 14:21:35"
-tags:
-  - "JruMTG"
-  - "Kappa"
 cover: "https://i.imgur.com/xeahZSr.png"
 thumbnail: "https://i.imgur.com/xeahZSr.png"
 excerpt: "黑色除了「一言不合就去除」的優良傳統外，也挑起本系列墳場主題的大樑。"

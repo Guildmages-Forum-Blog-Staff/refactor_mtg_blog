@@ -2,8 +2,6 @@
 
 title: "誤闖競爭級別的大叔年末日記"
 date: "2024-12-28 15:23:41"
-tags:
-  - "faintmama"
 authors:
   - "faintmama"
 categories:

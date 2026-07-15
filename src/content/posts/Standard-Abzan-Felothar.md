@@ -2,8 +2,6 @@
 
 title: "軍備部隊：標準阿布贊芾洛塔"
 date: "2025-05-19 18:07:35"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

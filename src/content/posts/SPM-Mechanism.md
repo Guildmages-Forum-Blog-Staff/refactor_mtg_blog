@@ -2,8 +2,6 @@
 
 title: "漫威蜘蛛人機制解析"
 date: "2025-09-09 21:26:45"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

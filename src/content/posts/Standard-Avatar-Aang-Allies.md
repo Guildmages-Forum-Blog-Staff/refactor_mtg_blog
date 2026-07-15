@@ -2,8 +2,6 @@
 
 title: "召現神力：標準神通王伙伴"
 date: "2025-12-29 08:33:14"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

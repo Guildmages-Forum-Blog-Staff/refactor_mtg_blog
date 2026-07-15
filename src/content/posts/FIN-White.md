@@ -1,8 +1,6 @@
 ---
 title: "最終幻想（FIN）限制賽介紹 — 白色"
 date: "2025-06-03 00:22:06"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

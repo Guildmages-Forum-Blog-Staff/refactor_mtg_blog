@@ -2,8 +2,6 @@
 
 title: "過往奇威：標準古魯恐龍SP2"
 date: "2026-01-17 14:05:23"
-tags:
-  - "JerobaMTG"
 authors:
   - "JerobaMTG"
 categories:

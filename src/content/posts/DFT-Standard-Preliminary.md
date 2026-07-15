@@ -2,8 +2,6 @@
 
 title: "乙太飄移標準初探"
 date: "2025-02-17 08:49:22"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

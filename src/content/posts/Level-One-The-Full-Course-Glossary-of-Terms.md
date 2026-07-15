@@ -2,8 +2,6 @@
 
 title: "文章翻譯 — Reid Duke的 「等級一」 ：全課綱與術語表"
 date: "2026-02-03 18:36:02"
-tags:
-  - "cephille"
 authors:
   - "cephille"
 categories:

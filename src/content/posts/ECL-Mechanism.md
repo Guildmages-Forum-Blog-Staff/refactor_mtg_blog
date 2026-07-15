@@ -2,8 +2,6 @@
 
 title: "洛溫：闇影籠罩機制解析"
 date: "2026-01-09 12:12:17"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

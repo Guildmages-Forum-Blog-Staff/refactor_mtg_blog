@@ -1,8 +1,6 @@
 ---
 title: "基石構築（FDN）限制賽介紹 — 多色"
 date: "2024-11-06 22:45:59"
-tags:
-  - "Peter"
 authors:
   - "layukipedia"
 categories:

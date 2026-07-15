@@ -1,8 +1,6 @@
 ---
 title: "轉化式雙面牌與複製效應"
 date: 2023-09-28 12:00:00
-tags:
-  - "JruMTG"
 cover: "https://i.imgur.com/NwTeh61.png"
 thumbnail: "https://i.imgur.com/NwTeh61.png"
 

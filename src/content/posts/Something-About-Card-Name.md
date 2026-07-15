@@ -2,8 +2,6 @@
 
 title: "有關名稱的二三事"
 date: "2025-06-24 10:15:50"
-tags:
-  - "JruMTG"
 authors:
   - "JruMTG"
 categories:

@@ -2,9 +2,6 @@
 
 title: "世界賽選手訪談－MIT第三輪冠軍 余弘毅"
 date: "2025-01-26 08:47:50"
-tags:
-  - "faintmama"
-  - "cephille"
 authors:
   - "faintmama"
   - "cephille"
