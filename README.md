@@ -29,6 +29,7 @@
 | `npm run check`         | Astro type-check                                                                |
 | `npm run lint`          | ESLint                                                                          |
 | `npm run lint:fix`      | ESLint auto-fix                                                                 |
+| `npm run lint:tags`     | Lint MTG card tags for unterminated/malformed syntax                           |
 | `npm run format`        | Prettier rewrite                                                                |
 | `npm run format:check`  | Prettier check (CI)                                                             |
 | `npm run test`          | Vitest (once)                                                                   |
@@ -49,7 +50,6 @@ MDX files. Required frontmatter:
 ---
 title: 'Post Title'
 date: 2025-01-01
-tags: [tag1, tag2]
 categories: [Modern]
 authors: [username]
 # optional

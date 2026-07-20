@@ -15,6 +15,7 @@
 | `npm run preview`                 | Preview production build locally  |
 | `npm run check`                   | Astro type-check                  |
 | `npm run lint` / `lint:fix`       | ESLint                            |
+| `npm run lint:tags`               | Lint MTG card tags                |
 | `npm run format` / `format:check` | Prettier                          |
 | `npm run test`                    | Run tests once                    |
 | `npm run test:watch`              | Watch mode                        |
@@ -34,7 +35,7 @@ npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts  # single plugin te
 
 ## Content Collections (`src/content/`)
 
-- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `tags`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`
+- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
 - `authors/` — YAML. Schema: `username`, `name`, `avatar`, `url?`, `intro[]`
 
 Author slugs in frontmatter must match YAML filename in `src/content/authors/`. Author loaders in `src/utils/authors.ts` run each `intro[]` line through `pangu.spacingText` at load time so YAML intros get the same CJK↔ASCII spacing as post bodies (which go through `rehype-pangu`).
