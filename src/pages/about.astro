@@ -34,15 +34,33 @@ const hallOfFame = resolveAuthors(team.hallOfFame);
         <p>下面是我們常駐工作人員和文章作者的介紹：</p>
       </div>
 
-      <h2 class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100">現任成員</h2>
-      <div class="mb-12 flex flex-col gap-10">
-        {currentMembers.map(({ id, data }) => <TeamMemberCard id={id} data={data} base={base} />)}
-      </div>
+      <section aria-labelledby="current-members-heading" class="mb-12">
+        <h2
+          id="current-members-heading"
+          class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100"
+        >
+          現任成員
+        </h2>
+        <div class="flex flex-col gap-10">
+          {currentMembers.map(({ id, data }) => <TeamMemberCard id={id} data={data} base={base} />)}
+        </div>
+      </section>
 
-      <h2 class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100">榮譽殿堂</h2>
-      <div class="flex flex-col gap-10">
-        {hallOfFame.map(({ id, data }) => <TeamMemberCard id={id} data={data} base={base} />)}
-      </div>
+      <section aria-labelledby="hall-of-fame-heading">
+        <h2
+          id="hall-of-fame-heading"
+          class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100"
+        >
+          榮譽殿堂
+        </h2>
+        <div class="flex flex-col gap-10">
+          {
+            hallOfFame.map(({ id, data }) => (
+              <TeamMemberCard id={id} data={data} base={base} former />
+            ))
+          }
+        </div>
+      </section>
     </div>
   </main>
 </BaseLayout>
