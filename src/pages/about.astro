@@ -2,57 +2,22 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
+import TeamMemberCard from '../components/TeamMemberCard.astro';
+import team from '../data/team.json';
 
 const allAuthors = await getCollection('authors');
-
-// Ordered list from old blog's authors.yaml — hardcode the order
-const authorOrder = [
-  'MiohitoKiri5474',
-  'cephille',
-  'JruMTG',
-  'JerobaMTG',
-  'Enki',
-  'T1BloodMoon',
-  'Kappa',
-  'ClarkShih',
-  'jeffchen',
-  'classiccool',
-  'yu-chen',
-  'bruce1235566',
-  'GY_Player',
-  'zhi-mao',
-  'david-yeh',
-  'JerryYang',
-  'Egavas',
-  'layukipedia',
-  'faintmama',
-  'ZHAN',
-  'MarkWen',
-  'Patrick',
-  'Weihow',
-  'mm',
-  'dalance',
-  'XSBeeble',
-  'CIXS',
-  'Chiyou',
-  'Chennel',
-  'sertyple',
-  'Requiem_Black',
-  'Ace',
-  'ZengZengZeng',
-  'Suken',
-  'manamagic',
-  'Terryrr',
-];
-
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const authorMap = new Map(allAuthors.map((a) => [a.id.replace(/\.ya?ml$/, ''), a.data]));
-const orderedAuthors = authorOrder
-  .map((id) => ({ id, data: authorMap.get(id) }))
-  .filter((a) => a.data !== undefined) as {
-  id: string;
-  data: NonNullable<ReturnType<typeof authorMap.get>>;
-}[];
+
+function resolveAuthors(ids: string[]) {
+  return ids.map((id) => ({ id, data: authorMap.get(id) })).filter((a) => a.data !== undefined) as {
+    id: string;
+    data: NonNullable<ReturnType<typeof authorMap.get>>;
+  }[];
+}
+
+const currentMembers = resolveAuthors(team.currentMembers);
+const hallOfFame = resolveAuthors(team.hallOfFame);
 ---
 
 <BaseLayout title="About Us">
@@ -69,35 +34,33 @@ const orderedAuthors = authorOrder
         <p>下面是我們常駐工作人員和文章作者的介紹：</p>
       </div>
 
-      <div class="flex flex-col gap-10">
-        {
-          orderedAuthors.map(({ id, data }) => (
-            <div class="flex items-start gap-6">
-              <a href={data.url || `${base}/authors/${id}`} class="shrink-0">
-                <img
-                  src={data.avatar.startsWith('/') ? `${base}${data.avatar}` : data.avatar}
-                  alt={data.name}
-                  class="h-40 w-40 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700"
-                />
-              </a>
-              <div class="flex min-w-0 flex-col gap-1 pt-1">
-                <a
-                  href={data.url || `${base}/authors/${id}`}
-                  class="hover:text-primary text-3xl font-bold text-gray-900 transition-colors dark:text-gray-100"
-                >
-                  {data.name}
-                </a>
-                {data.intro.map((line: string) => (
-                  <p
-                    class="text-sm leading-relaxed text-gray-600 dark:text-gray-400"
-                    set:html={line}
-                  />
-                ))}
-              </div>
-            </div>
-          ))
-        }
-      </div>
+      <section aria-labelledby="current-members-heading" class="mb-12">
+        <h2
+          id="current-members-heading"
+          class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100"
+        >
+          現任成員
+        </h2>
+        <div class="flex flex-col gap-10">
+          {currentMembers.map(({ id, data }) => <TeamMemberCard id={id} data={data} base={base} />)}
+        </div>
+      </section>
+
+      <section aria-labelledby="hall-of-fame-heading">
+        <h2
+          id="hall-of-fame-heading"
+          class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100"
+        >
+          榮譽殿堂
+        </h2>
+        <div class="flex flex-col gap-10">
+          {
+            hallOfFame.map(({ id, data }) => (
+              <TeamMemberCard id={id} data={data} base={base} former />
+            ))
+          }
+        </div>
+      </section>
     </div>
   </main>
 </BaseLayout>
