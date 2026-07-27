@@ -47,7 +47,7 @@ categories:
 零費神器的數量：含 {% mtglink "Engineered Explosives" alt="EE" %} 跟 {% mtglink "Mox Opal" %} ，日本只放18張，Handshake放到22張。
 魔法力源的數量：日本17地（找地地）+ 6神器，Handshake 16地（抽牌地）+ 8神器。
 Payoff的數量：日本多兩張 {% mtglink "Weapons Manufacturing" %} 。
-抽牌咒語的數量：日本多兩張 {% mtglink "Thoughtmonitor" %} 。
+抽牌咒語的數量：日本多兩張 {% mtglink "Thought Monitor" %} 。
 
 簡單來說，日本組的比較貪，用相對少的低費神器支援更多的payoff，神器抽得不夠咒語卡手的機率比較高。Handshake的組成則是相當保守，雖然payoff少但不會卡手，套牌有較高的一致性。
 
