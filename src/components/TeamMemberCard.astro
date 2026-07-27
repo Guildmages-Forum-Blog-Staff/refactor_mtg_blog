@@ -21,10 +21,7 @@ const avatarSrc = data.avatar.startsWith('/') ? `${base}${data.avatar}` : data.a
       width="160"
       height="160"
       loading="lazy"
-      class:list={[
-        'h-40 w-40 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700',
-        { grayscale: former },
-      ]}
+      class="h-40 w-40 rounded-full border-2 border-gray-200 object-cover dark:border-gray-700"
     />
   </a>
   <div class="flex min-w-0 flex-col gap-1 pt-1">
