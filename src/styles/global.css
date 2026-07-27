@@ -5,12 +5,24 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+/* Latin + combining-diacritical-marks subset of Noto Sans (OFL, see src/fonts/OFL.txt).
+   Covers rare marks (e.g. Tâi-lô/POJ tone marks) that Noto Sans TC and most
+   system fonts lack, so romanized names render from a single consistent font
+   instead of mixing base letters and marks across two different typefaces. */
+@font-face {
+  font-family: 'Noto Sans Latin';
+  src: url('../fonts/noto-sans-latin.woff2') format('woff2');
+  font-weight: 100 900;
+  font-display: swap;
+  unicode-range: U+0000-024F, U+0300-036F;
+}
+
 @theme {
-  --color-primary: var(--color-shinsyu);      /* 真朱 */
+  --color-primary: var(--color-shinsyu); /* 真朱 */
   --color-background: var(--color-ginnezumi); /* 銀鼠 */
-  --color-foreground: var(--color-kuro);      /* 黒 */
-  --color-dark-bg: var(--color-sumi);         /* 墨 */
-  --color-dark-fg: var(--color-shironeri);    /* 白練 */
+  --color-foreground: var(--color-kuro); /* 黒 */
+  --color-dark-bg: var(--color-sumi); /* 墨 */
+  --color-dark-fg: var(--color-shironeri); /* 白練 */
 }
 
 /* Typography plugin overrides (migrated from tailwind.config.ts) */
@@ -65,6 +77,7 @@
   body {
     @apply text-foreground;
     font-family:
+      'Noto Sans Latin',
       'Noto Sans TC',
       system-ui,
       -apple-system,
@@ -324,32 +337,32 @@
 
   /* Waline comment widget — Nippon color theme */
   .waline-container {
-    --waline-theme-color: var(--color-shinsyu);     /* 真朱 */
-    --waline-active-color: var(--color-kurenai);    /* 紅 */
-    --waline-color: var(--color-kuro);              /* 黒 */
+    --waline-theme-color: var(--color-shinsyu); /* 真朱 */
+    --waline-active-color: var(--color-kurenai); /* 紅 */
+    --waline-color: var(--color-kuro); /* 黒 */
     --waline-bg-color: #f5f2eb;
     --waline-bg-color-light: #e8e4db;
     --waline-bg-color-hover: #ddd9d0;
-    --waline-border-color: var(--color-ginnezumi);  /* 銀鼠 */
+    --waline-border-color: var(--color-ginnezumi); /* 銀鼠 */
     --waline-disable-bg-color: #c8c8c8;
     --waline-disable-color: #7a7a7a;
     --waline-code-bg-color: var(--color-shironezumi); /* 白鼠 */
     --waline-info-bg-color: color-mix(in srgb, var(--color-nibi) 10%, transparent);
-    --waline-info-color: var(--color-nibi);         /* 鈍 */
+    --waline-info-color: var(--color-nibi); /* 鈍 */
     --waline-border: 1px solid var(--waline-border-color);
     --waline-avatar-size: 3.25rem;
     --waline-m-avatar-size: 2rem;
   }
   .dark .waline-container {
-    --waline-color: var(--color-shironeri);         /* 白練 */
-    --waline-bg-color: var(--color-sumi);           /* 墨 */
+    --waline-color: var(--color-shironeri); /* 白練 */
+    --waline-bg-color: var(--color-sumi); /* 墨 */
     --waline-bg-color-light: #282b2f;
     --waline-bg-color-hover: #333;
     --waline-border-color: #444;
     --waline-disable-bg-color: #333;
     --waline-disable-color: #666;
     --waline-info-bg-color: color-mix(in srgb, var(--color-nibi) 15%, transparent);
-    --waline-info-color: var(--color-ginnezumi);    /* 銀鼠 */
+    --waline-info-color: var(--color-ginnezumi); /* 銀鼠 */
   }
 
   /* Article heading anchor offset for sticky navbar */
