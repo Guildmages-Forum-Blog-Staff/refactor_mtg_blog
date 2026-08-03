@@ -4,10 +4,10 @@ import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Navbar from '../../../components/Navbar.astro';
 import type { PaginatedPostsProps } from '../../../utils/pagination';
-import { postSlug, sortByDateDesc } from '../../../utils/posts';
+import { excludePreviewPosts, postSlug, sortByDateDesc } from '../../../utils/posts';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  const posts = await getCollection('posts');
+  const posts = excludePreviewPosts(await getCollection('posts'));
   const cats = new Set(posts.flatMap((p) => p.data.categories));
 
   return [...cats].flatMap((cat) => {

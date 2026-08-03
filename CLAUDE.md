@@ -35,7 +35,8 @@ npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts  # single plugin te
 
 ## Content Collections (`src/content/`)
 
-- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
+- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`, `preview?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
+- `preview: true` hides a post from the home/category/author listings, RSS feed, related-posts, sitemap, and pagefind search index (via `excludePreviewPosts` in `src/utils/posts.ts` and `getPreviewSlugs` in `src/utils/sitemap-filter.ts`) — the post's own page still builds and is reachable by direct URL
 - `authors/` — YAML. Schema: `username`, `name`, `avatar`, `url?`, `intro[]`
 
 Author slugs in frontmatter must match YAML filename in `src/content/authors/`. Author loaders in `src/utils/authors.ts` run each `intro[]` line through `pangu.spacingText` at load time so YAML intros get the same CJK↔ASCII spacing as post bodies (which go through `rehype-pangu`).

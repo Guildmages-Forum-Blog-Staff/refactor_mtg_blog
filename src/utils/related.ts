@@ -4,7 +4,7 @@ type Post = CollectionEntry<'posts'>;
 
 export function getRelatedPosts(current: Post, all: Post[], limit = 4): Post[] {
   const scored = all
-    .filter((p) => p.id !== current.id)
+    .filter((p) => p.id !== current.id && !p.data.preview)
     .map((p) => {
       const sharedCategories = p.data.categories.filter((c) =>
         current.data.categories.includes(c),

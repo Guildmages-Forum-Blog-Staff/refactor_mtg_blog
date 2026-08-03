@@ -1,3 +1,4 @@
+import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import vue from '@astrojs/vue';
@@ -12,12 +13,24 @@ import { remarkBasePath } from './src/plugins/remark-base-path';
 import { remarkNotel } from './src/plugins/remark-notel';
 import { rehypePangu } from './src/plugins/rehype-pangu';
 import { externalLinksOptions } from './src/plugins/external-links';
+import { getPreviewSlugs } from './src/utils/sitemap-filter';
 import remarkBreaks from 'remark-breaks';
 import rehypeExternalLinks from 'rehype-external-links';
 
+const BASE = '/refactor_mtg_blog/';
+
+// Preview posts are still built (reachable by direct URL) but must not
+// appear in the sitemap — computed synchronously here since astro:content
+// isn't available yet at config-eval time.
+const previewPagePaths = new Set(
+  getPreviewSlugs(fileURLToPath(new URL('./src/content/posts', import.meta.url))).map(
+    (slug) => `${BASE}${slug}/`,
+  ),
+);
+
 export default defineConfig({
   site: 'https://guildmages-forum-blog-staff.github.io',
-  base: '/refactor_mtg_blog/',
+  base: BASE,
   compressHTML: true,
   server: {
     host: true,
@@ -26,7 +39,14 @@ export default defineConfig({
   legacy: {
     collectionsBackwardsCompat: true,
   },
-  integrations: [vue(), mdx(), sitemap(), compress()],
+  integrations: [
+    vue(),
+    mdx(),
+    sitemap({
+      filter: (page) => !previewPagePaths.has(new URL(page).pathname),
+    }),
+    compress(),
+  ],
   vite: {
     plugins: [
       tailwindcss(),
@@ -52,12 +72,12 @@ export const search = async () => ({ results: [] });`;
   },
   markdown: {
     remarkPlugins: [
-      [remarkBasePath, { base: '/refactor_mtg_blog/' }],
+      [remarkBasePath, { base: BASE }],
       remarkBreaks,
       remarkScryfall,
       remarkYoutube,
       remarkMtgTags,
-      [remarkMtgMerge, { base: '/refactor_mtg_blog/' }],
+      [remarkMtgMerge, { base: BASE }],
       remarkNotel,
     ],
     rehypePlugins: [rehypePangu, [rehypeExternalLinks, externalLinksOptions]],

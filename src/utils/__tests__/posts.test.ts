@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { postSlug, sortByDateDesc } from '../posts';
+import { postSlug, sortByDateDesc, excludePreviewPosts } from '../posts';
 
 describe('postSlug', () => {
   it('strips a .md extension', () => {
@@ -53,5 +53,26 @@ describe('sortByDateDesc', () => {
       post('third', '2024-01-01'),
     ]);
     expect(sorted.map((p) => p.id)).toEqual(['first', 'second', 'third']);
+  });
+});
+
+describe('excludePreviewPosts', () => {
+  const post = (id: string, preview: boolean) => ({ id, data: { preview } });
+
+  it('drops posts flagged preview: true', () => {
+    const visible = excludePreviewPosts([post('a', false), post('b', true), post('c', false)]);
+    expect(visible.map((p) => p.id)).toEqual(['a', 'c']);
+  });
+
+  it('keeps all posts when none are marked preview', () => {
+    const posts = [post('a', false), post('b', false)];
+    expect(excludePreviewPosts(posts)).toHaveLength(2);
+  });
+
+  it('does not mutate the input array', () => {
+    const input = [post('a', false), post('b', true)];
+    const snapshot = [...input];
+    excludePreviewPosts(input);
+    expect(input).toEqual(snapshot);
   });
 });
