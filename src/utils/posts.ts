@@ -16,3 +16,12 @@ export function postSlug(id: string): string {
 export function sortByDateDesc<T extends { data: { date: Date } }>(posts: T[]): T[] {
   return [...posts].sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 }
+
+/**
+ * Drop posts flagged `preview: true` from a set of posts. Preview posts stay
+ * reachable at their own URL ([slug].astro keeps them unfiltered) but must
+ * not surface in listings, feeds, or the sitemap.
+ */
+export function excludePreviewPosts<T extends { data: { preview: boolean } }>(posts: T[]): T[] {
+  return posts.filter((post) => !post.data.preview);
+}
