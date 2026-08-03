@@ -1,6 +1,7 @@
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import yaml from 'js-yaml';
+import { postSlug } from './posts';
 
 const FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---/;
 
@@ -26,9 +27,5 @@ export function getPreviewSlugs(postsDir: string): string[] {
       const data = yaml.load(match[1]) as { preview?: boolean } | undefined;
       return data?.preview === true;
     })
-    .map((file) =>
-      relative(postsDir, file)
-        .replace(/\\/g, '/')
-        .replace(/\.mdx?$/, ''),
-    );
+    .map((file) => postSlug(relative(postsDir, file).replace(/\\/g, '/')));
 }
