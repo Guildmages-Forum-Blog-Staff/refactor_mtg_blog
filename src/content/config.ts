@@ -14,6 +14,7 @@ const posts = defineCollection({
     categories: z.array(z.string()).default([]),
     authors: z.array(z.string()).default([]),
     comments: z.boolean().default(true).optional(),
+    preview: z.boolean().default(false),
   }),
 });
 
