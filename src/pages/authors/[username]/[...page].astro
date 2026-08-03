@@ -5,10 +5,11 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Navbar from '../../../components/Navbar.astro';
 import ArticleAuthorFooter from '../../../components/ArticleAuthorFooter.vue';
 import type { AuthorPaginatedPostsProps } from '../../../utils/pagination';
-import { postSlug, sortByDateDesc } from '../../../utils/posts';
+import { excludePreviewPosts, postSlug, sortByDateDesc } from '../../../utils/posts';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  const [authors, posts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
+  const [authors, allPosts] = await Promise.all([getCollection('authors'), getCollection('posts')]);
+  const posts = excludePreviewPosts(allPosts);
 
   const authorId = (id: string) => id.replace(/\.ya?ml$/, '');
 
