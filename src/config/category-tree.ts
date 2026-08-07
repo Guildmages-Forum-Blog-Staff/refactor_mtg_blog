@@ -18,6 +18,7 @@ export const CATEGORY_TREE: CategoryNode[] = [
       'EOE',
       'FDN',
       'FIN',
+      'HOB',
       'LCI',
       'MKM',
       'OTJ',
