@@ -45,7 +45,17 @@ export default defineConfig({
     sitemap({
       filter: (page) => !previewPagePaths.has(new URL(page).pathname),
     }),
-    compress(),
+    compress({
+      HTML: {
+        'html-minifier-terser': {
+          // Leave astro-island markup byte-for-byte: Vue's client bundle
+          // hydrates against this exact SSR output, and collapsing
+          // whitespace inside it desyncs client vnodes from server text
+          // nodes, causing hydration mismatches (see TableOfContents.vue).
+          ignoreCustomFragments: [/<astro-island[\s\S]*?<\/astro-island>/],
+        },
+      },
+    }),
   ],
   vite: {
     plugins: [
