@@ -1,11 +1,18 @@
 ---
+interface NavLink {
+  href: string;
+  label: string;
+  external?: boolean;
+}
+
 const base = import.meta.env.BASE_URL;
-const navLinks = [
+const navLinks: NavLink[] = [
   { href: base, label: 'Home' },
   { href: `${base}categories`, label: 'Categories' },
   { href: `${base}about`, label: 'About Us' },
   { href: `${base}calendar`, label: 'Calendar' },
   { href: `${base}contact`, label: 'Contact Us' },
+  { href: 'https://forms.gle/iykZFfxnFoty1fyJA', label: 'Sponsor Us', external: true },
 ];
 
 const friendLinks = [
@@ -58,6 +65,8 @@ const friendLinks = [
             <li>
               <a
                 href={link.href}
+                target={link.external ? '_blank' : undefined}
+                rel={link.external ? 'noopener noreferrer' : undefined}
                 class="hover:text-primary dark:text-dark-fg/70 dark:hover:text-primary text-gray-600 transition-colors"
               >
                 {link.label}
@@ -273,6 +282,8 @@ const friendLinks = [
             <li>
               <a
                 href={link.href}
+                target={link.external ? '_blank' : undefined}
+                rel={link.external ? 'noopener noreferrer' : undefined}
                 class="hover:text-primary dark:text-dark-fg/80 dark:hover:text-primary flex items-center py-3 text-gray-700 transition-colors"
               >
                 {link.label}
