@@ -52,6 +52,13 @@
     margin: 0 !important;
   }
 
+  /* Standalone {% mtgcard %} image (not the inline tooltip popup) —
+     centered within its paragraph instead of flush-left. */
+  img.mtgcard.w-full {
+    display: block !important;
+    margin: 0 auto !important;
+  }
+
   /* mtgcard rotated frame for split / planar layouts */
   .mtgcard-frame--rotated {
     display: block;
