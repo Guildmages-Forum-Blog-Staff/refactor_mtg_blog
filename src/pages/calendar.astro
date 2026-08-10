@@ -23,6 +23,18 @@ function paramValueToString(v: ParameterValue | undefined): string | undefined {
   return typeof v === 'string' ? v : v.val;
 }
 
+/**
+ * node-ical builds VALUE=DATE (all-day) events as build-machine-local midnight,
+ * with no timezone info of its own — so the same event parses to a different
+ * absolute instant depending on what timezone the build happens to run in.
+ * Re-anchor to UTC midnight of the same calendar day (read via local getters,
+ * which recover the intended Y/M/D on any machine) so every downstream
+ * consumer sees a fixed instant instead of a floating one.
+ */
+function normalizeAllDay(d: Date): Date {
+  return new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+}
+
 let events: CalEvent[] = [];
 
 try {
@@ -35,16 +47,20 @@ try {
 
   events = Object.values(data)
     .filter((e): e is VEvent => !!e && e.type === 'VEVENT' && e.start instanceof Date)
-    .map((e) => ({
-      uid: e.uid,
-      summary: paramValueToString(e.summary) ?? '(無標題)',
-      start: e.start,
-      end: e.end instanceof Date ? e.end : e.start,
-      allDay: e.datetype === 'date',
-      description: paramValueToString(e.description),
-      location: paramValueToString(e.location),
-      url: e.url,
-    }))
+    .map((e) => {
+      const allDay = e.datetype === 'date';
+      const rawEnd = e.end instanceof Date ? e.end : e.start;
+      return {
+        uid: e.uid,
+        summary: paramValueToString(e.summary) ?? '(無標題)',
+        start: allDay ? normalizeAllDay(e.start) : e.start,
+        end: allDay ? normalizeAllDay(rawEnd) : rawEnd,
+        allDay,
+        description: paramValueToString(e.description),
+        location: paramValueToString(e.location),
+        url: e.url,
+      };
+    })
     .sort((a, b) => a.start.valueOf() - b.start.valueOf());
 } catch (err) {
   console.error('Failed to fetch calendar:', err);
