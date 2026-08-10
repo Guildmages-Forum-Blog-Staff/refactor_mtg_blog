@@ -1,7 +1,17 @@
 const WEEKDAY_SHORT = ['週日', '週一', '週二', '週三', '週四', '週五', '週六'];
+const TAIPEI_OFFSET_MS = 8 * 60 * 60 * 1000;
 
 function pad2(n: number): string {
   return n < 10 ? `0${n}` : String(n);
+}
+
+/**
+ * Shift an instant so UTC getters read Taipei wall-clock fields, regardless of
+ * the build machine's own timezone (CI runs in UTC; local dev may not).
+ * Asia/Taipei has no DST, so a fixed +8h offset is exact year-round.
+ */
+function toTaipei(d: Date): Date {
+  return new Date(d.getTime() + TAIPEI_OFFSET_MS);
 }
 
 /**
@@ -12,12 +22,13 @@ function pad2(n: number): string {
 function inclusiveEnd(start: Date, end: Date, allDay: boolean): Date {
   if (!allDay) return end;
   const d = new Date(end.getTime());
-  d.setDate(d.getDate() - 1);
+  d.setUTCDate(d.getUTCDate() - 1);
   return d.getTime() < start.getTime() ? start : d;
 }
 
 function dayStart(d: Date): number {
-  return new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+  const t = toTaipei(d);
+  return Date.UTC(t.getUTCFullYear(), t.getUTCMonth(), t.getUTCDate());
 }
 
 function sameDay(a: Date, b: Date): boolean {
@@ -29,15 +40,17 @@ function ymd(
   d: Date,
   { year = true, month = true }: { year?: boolean; month?: boolean } = {},
 ): string {
+  const t = toTaipei(d);
   let s = '';
-  if (year) s += `${d.getFullYear()}年`;
-  if (month) s += `${d.getMonth() + 1}月`;
-  s += `${d.getDate()}日${WEEKDAY_SHORT[d.getDay()]}`;
+  if (year) s += `${t.getUTCFullYear()}年`;
+  if (month) s += `${t.getUTCMonth() + 1}月`;
+  s += `${t.getUTCDate()}日${WEEKDAY_SHORT[t.getUTCDay()]}`;
   return s;
 }
 
 function time(d: Date): string {
-  return `${pad2(d.getHours())}:${pad2(d.getMinutes())}`;
+  const t = toTaipei(d);
+  return `${pad2(t.getUTCHours())}:${pad2(t.getUTCMinutes())}`;
 }
 
 /**
@@ -52,10 +65,12 @@ export function formatEventDate(start: Date, end: Date, allDay: boolean): string
     return allDay ? startStr : `${startStr} ${time(start)} – ${time(end)}`;
   }
 
-  const crossYear = last.getFullYear() !== start.getFullYear();
+  const startT = toTaipei(start);
+  const lastT = toTaipei(last);
+  const crossYear = lastT.getUTCFullYear() !== startT.getUTCFullYear();
   const endStr = ymd(last, {
     year: crossYear,
-    month: crossYear || last.getMonth() !== start.getMonth(),
+    month: crossYear || lastT.getUTCMonth() !== startT.getUTCMonth(),
   });
 
   if (allDay) return `${startStr} – ${endStr}`;
@@ -80,9 +95,10 @@ export interface EventBadge {
 export function eventBadge(start: Date, end: Date, allDay: boolean): EventBadge {
   const last = inclusiveEnd(start, end, allDay);
   const spanDays = Math.round((dayStart(last) - dayStart(start)) / 86_400_000) + 1;
+  const startT = toTaipei(start);
   return {
-    month: `${start.getMonth() + 1}月`,
-    day: String(start.getDate()),
+    month: `${startT.getUTCMonth() + 1}月`,
+    day: String(startT.getUTCDate()),
     multiDay: spanDays > 1,
     spanDays,
   };
