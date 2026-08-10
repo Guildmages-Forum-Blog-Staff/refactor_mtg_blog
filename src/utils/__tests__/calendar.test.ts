@@ -35,8 +35,13 @@ describe('formatEventDate', () => {
   });
 
   it('renders a timed single-day event with start and end times', () => {
-    const start = new Date(2026, 10, 13, 14, 0);
-    const end = new Date(2026, 10, 13, 16, 30);
+    // Real node-ical TZID-parsed events carry an explicit offset and resolve to
+    // a fixed instant, unlike bare `new Date(y, m, d, h, mi)` (machine-local,
+    // would make this assertion depend on the runner's own timezone). Using an
+    // explicit +08:00 offset here pins the instant and exercises the Taipei
+    // rendering regardless of what timezone the test runs in.
+    const start = new Date('2026-11-13T14:00:00+08:00');
+    const end = new Date('2026-11-13T16:30:00+08:00');
     expect(formatEventDate(start, end, false)).toBe('2026年11月13日週五 14:00 – 16:30');
   });
 });

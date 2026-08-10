@@ -58,6 +58,7 @@ const syncedAt = now.toLocaleString('zh-TW', {
   hour: '2-digit',
   minute: '2-digit',
   hour12: false,
+  timeZone: 'Asia/Taipei',
 });
 const upcoming = events.filter((e) => e.end >= now);
 const past = events.filter((e) => e.end < now).reverse();
