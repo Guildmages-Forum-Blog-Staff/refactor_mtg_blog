@@ -51,6 +51,11 @@ interface PostFrontmatter {
   updated?: string;
 }
 
+/** True if `filename` is a bare slug that cannot escape `src/content/posts/` via `path.join`. */
+export function isValidPostFilename(filename: string): boolean {
+  return /^[A-Za-z0-9._-]+$/.test(filename);
+}
+
 /** Extracts the HackMD note ID from a URL (`/NoteID` or `/@user/NoteID`). */
 export function extractNoteId(url: string): string {
   if (/https:\/\/hackmd\.io\/s\//.test(url)) {
@@ -73,9 +78,9 @@ export function cleanMarkdown(content: string): string {
     .replace(/\s+$/, '\n');
 }
 
-/** Current time in Asia/Taipei as "YYYY-MM-DD HH:mm:ss", matching the rest of the site. */
-function formatTaipeiDate(): string {
-  return new Date().toLocaleString('sv-SE', { timeZone: 'Asia/Taipei' });
+/** Formats a Date as Asia/Taipei "YYYY-MM-DD HH:mm:ss", matching the rest of the site. */
+function formatTaipeiDate(date: Date): string {
+  return date.toLocaleString('sv-SE', { timeZone: 'Asia/Taipei' });
 }
 
 export function splitFrontMatter(content: string): { fmBody: string; body: string } {
@@ -85,7 +90,12 @@ export function splitFrontMatter(content: string): { fmBody: string; body: strin
 }
 
 function knownAuthorSlugs(): Set<string> {
-  return new Set(fs.readdirSync(AUTHORS_DIR).map((f) => f.replace(/\.ya?ml$/, '')));
+  return new Set(
+    fs
+      .readdirSync(AUTHORS_DIR)
+      .filter((f) => /\.ya?ml$/i.test(f))
+      .map((f) => f.replace(/\.ya?ml$/i, '')),
+  );
 }
 
 function asStringArray(value: unknown, field: string): string[] {
@@ -96,8 +106,51 @@ function asStringArray(value: unknown, field: string): string[] {
   return value;
 }
 
+/**
+ * A present-but-wrong-type value is a mistake in the source note (e.g. an
+ * unquoted date/number), not something to silently drop. Only `undefined`
+ * passes through as "not provided".
+ */
+function coerceOptionalString(value: unknown, field: string): string | undefined {
+  if (value === undefined) return undefined;
+  if (typeof value === 'string') return value;
+  if (value instanceof Date) {
+    throw new Error(
+      `Front-matter field "${field}" was parsed as a date — wrap the value in quotes in the HackMD note.`,
+    );
+  }
+  throw new Error(`Front-matter field "${field}" must be a string.`);
+}
+
+/** Accepts real YAML booleans plus the YAML 1.1 spellings (yes/no/on/off) js-yaml v4 now parses as strings. */
+function coerceOptionalBoolean(value: unknown, field: string): boolean | undefined {
+  if (value === undefined) return undefined;
+  if (typeof value === 'boolean') return value;
+  if (typeof value === 'string') {
+    const normalized = value.trim().toLowerCase();
+    if (['yes', 'true', 'on'].includes(normalized)) return true;
+    if (['no', 'false', 'off'].includes(normalized)) return false;
+  }
+  throw new Error(`Front-matter field "${field}" must be a boolean (true/false, yes/no, on/off).`);
+}
+
+/** Accepts an already-formatted date string, or a Date (from an unquoted YAML timestamp) reformatted to Taipei time. */
+function coerceOptionalDateString(value: unknown, field: string): string | undefined {
+  if (value === undefined) return undefined;
+  if (typeof value === 'string') return value;
+  if (value instanceof Date) return formatTaipeiDate(value);
+  throw new Error(
+    `Front-matter field "${field}" must be a date or a "YYYY-MM-DD HH:mm:ss" string.`,
+  );
+}
+
 /** Validates and reshapes HackMD (Hexo-style) front-matter into this site's schema, dropping `tags`. */
 export function toPostFrontmatter(raw: HackmdFrontmatter): PostFrontmatter {
+  if (raw.title instanceof Date) {
+    throw new Error(
+      'Front-matter field "title" was parsed as a date — wrap the value in quotes in the HackMD note.',
+    );
+  }
   if (typeof raw.title !== 'string' || raw.title.trim() === '') {
     throw new Error('Front-matter field "title" is required.');
   }
@@ -119,19 +172,18 @@ export function toPostFrontmatter(raw: HackmdFrontmatter): PostFrontmatter {
     }
   }
 
-  const frontmatter: PostFrontmatter = {
+  return {
     title: raw.title,
-    date: formatTaipeiDate(),
+    date: formatTaipeiDate(new Date()),
     categories: asStringArray(raw.categories, 'categories'),
     authors,
+    cover: coerceOptionalString(raw.cover, 'cover'),
+    thumbnail: coerceOptionalString(raw.thumbnail, 'thumbnail'),
+    excerpt: coerceOptionalString(raw.excerpt, 'excerpt'),
+    comments: coerceOptionalBoolean(raw.comments, 'comments'),
+    preview: coerceOptionalBoolean(raw.preview, 'preview'),
+    updated: coerceOptionalDateString(raw.updated, 'updated'),
   };
-  if (typeof raw.cover === 'string') frontmatter.cover = raw.cover;
-  if (typeof raw.thumbnail === 'string') frontmatter.thumbnail = raw.thumbnail;
-  if (typeof raw.excerpt === 'string') frontmatter.excerpt = raw.excerpt;
-  if (typeof raw.comments === 'boolean') frontmatter.comments = raw.comments;
-  if (typeof raw.preview === 'boolean') frontmatter.preview = raw.preview;
-  if (typeof raw.updated === 'string') frontmatter.updated = raw.updated;
-  return frontmatter;
 }
 
 async function fetchNote(noteId: string, token: string): Promise<string> {
@@ -164,7 +216,7 @@ async function main(): Promise<void> {
     return;
   }
 
-  if (!/^[A-Za-z0-9._-]+$/.test(filename)) {
+  if (!isValidPostFilename(filename)) {
     console.error(
       `[create-post] Error: invalid filename "${filename}". Use only letters, numbers, ".", "_", "-".`,
     );
@@ -191,7 +243,9 @@ async function main(): Promise<void> {
     fs.writeFileSync(outputPath, output, { flag: 'wx' });
   } catch (err) {
     if (err instanceof Error && 'code' in err && err.code === 'EEXIST') {
-      throw new Error(`${outputPath} already exists.`);
+      console.error(`[create-post] Error: ${outputPath} already exists.`);
+      process.exitCode = 1;
+      return;
     }
     throw err;
   }

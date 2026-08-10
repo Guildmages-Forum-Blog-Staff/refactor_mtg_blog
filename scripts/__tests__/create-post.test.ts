@@ -1,5 +1,17 @@
 import { describe, it, expect } from 'vitest';
-import { extractNoteId, cleanMarkdown, splitFrontMatter, toPostFrontmatter } from '../create-post';
+import yaml from 'js-yaml';
+import {
+  extractNoteId,
+  cleanMarkdown,
+  splitFrontMatter,
+  toPostFrontmatter,
+  isValidPostFilename,
+} from '../create-post';
+
+/** Parses raw YAML front-matter the same way create-post's main() does, so tests exercise real js-yaml output shapes (Date objects, YAML-1.1 booleans-as-strings) instead of hand-built JS literals. */
+function parseFrontmatter(yamlBody: string): Parameters<typeof toPostFrontmatter>[0] {
+  return yaml.load(yamlBody) as Parameters<typeof toPostFrontmatter>[0];
+}
 
 describe('extractNoteId', () => {
   it('extracts the ID from a bare note URL', () => {
@@ -89,5 +101,43 @@ describe('toPostFrontmatter', () => {
     expect(() => toPostFrontmatter({ title: 'x', authors: ['NotARealAuthor'] })).toThrow(
       /Unknown author slug/,
     );
+  });
+
+  // These go through real yaml.load() first: js-yaml v4 parses YAML-1.1
+  // boolean spellings (yes/no/on/off) as plain strings under the 1.2 core
+  // schema, and parses unquoted dates as Date objects — shapes a
+  // hand-built `{ preview: true }` literal never exercises.
+  describe('from real YAML (not hand-built JS literals)', () => {
+    it('accepts YAML-1.1 boolean spellings for preview/comments', () => {
+      const raw = parseFrontmatter(
+        'title: x\nauthors:\n  - cephille\npreview: yes\ncomments: no\n',
+      );
+      const result = toPostFrontmatter(raw);
+      expect(result.preview).toBe(true);
+      expect(result.comments).toBe(false);
+    });
+
+    it('reformats an unquoted `updated:` date to the site Taipei format instead of dropping it', () => {
+      const raw = parseFrontmatter(
+        'title: x\nauthors:\n  - cephille\nupdated: 2024-06-01 12:00:00\n',
+      );
+      const result = toPostFrontmatter(raw);
+      expect(result.updated).toMatch(/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/);
+    });
+
+    it('throws a helpful error when title is an unquoted date instead of silently rejecting it', () => {
+      const raw = parseFrontmatter('title: 2025-08-10\nauthors:\n  - cephille\n');
+      expect(() => toPostFrontmatter(raw)).toThrow(/parsed as a date/);
+    });
+  });
+});
+
+describe('isValidPostFilename', () => {
+  it('accepts a bare slug', () => {
+    expect(isValidPostFilename('My-Post_2026.v2')).toBe(true);
+  });
+
+  it.each(['../evil', '../../etc/pwn', 'sub/dir', 'a/b', 'a\\b', ''])('rejects %s', (bad) => {
+    expect(isValidPostFilename(bad)).toBe(false);
   });
 });
