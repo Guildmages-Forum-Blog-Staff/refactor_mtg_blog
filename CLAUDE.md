@@ -8,18 +8,19 @@
 
 <!-- AUTO-GENERATED from package.json scripts -->
 
-| Command                           | Description                       |
-| --------------------------------- | --------------------------------- |
-| `npm run dev`                     | Dev server at localhost:4321      |
-| `npm run build`                   | Production build + pagefind index |
-| `npm run preview`                 | Preview production build locally  |
-| `npm run check`                   | Astro type-check                  |
-| `npm run lint` / `lint:fix`       | ESLint                            |
-| `npm run lint:tags`               | Lint MTG card tags                |
-| `npm run format` / `format:check` | Prettier                          |
-| `npm run test`                    | Run tests once                    |
-| `npm run test:watch`              | Watch mode                        |
-| `npm run test:coverage`           | Coverage report                   |
+| Command                                   | Description                        |
+| ----------------------------------------- | ---------------------------------- |
+| `npm run dev`                             | Dev server at localhost:4321       |
+| `npm run build`                           | Production build + pagefind index  |
+| `npm run preview`                         | Preview production build locally   |
+| `npm run check`                           | Astro type-check                   |
+| `npm run lint` / `lint:fix`               | ESLint                             |
+| `npm run lint:tags`                       | Lint MTG card tags                 |
+| `npm run format` / `format:check`         | Prettier                           |
+| `npm run test`                            | Run tests once                     |
+| `npm run test:watch`                      | Watch mode                         |
+| `npm run test:coverage`                   | Coverage report                    |
+| `npm run post -- <hackmd-url> <filename>` | Import a HackMD note as a new post |
 
 <!-- END AUTO-GENERATED -->
 
@@ -76,6 +77,10 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 - `src/plugins/mtg-tag-shared.ts` — **single source of truth** for parser/tokenizer/cache-key logic. Imported by both `remark-mtg-tags.ts` and the prebuild script so key derivation cannot drift.
 - **Render-time misses** produce `<span class="mtgcard-error">找不到卡片「...」</span>`; the hint differs by error (`not_found` vs `missing`).
 - `.cache/cards.json` is **gitignored**; CI persists it via `actions/cache`.
+
+## Post Import
+
+`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/<filename>.md`. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it and refuses to overwrite an existing post.
 
 ## Dark Mode
 
