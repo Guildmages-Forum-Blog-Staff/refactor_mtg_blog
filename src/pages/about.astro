@@ -10,7 +10,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const authorMap = new Map(allAuthors.map((a) => [a.id.replace(/\.ya?ml$/, ''), a.data]));
 
 function resolveAuthors(ids: string[]) {
-  return ids.map((id) => ({ id, data: authorMap.get(id) })).filter((a) => a.data !== undefined) as {
+  const resolved = ids.map((id) => ({ id, data: authorMap.get(id) }));
+  for (const { id, data } of resolved) {
+    if (data === undefined)
+      console.warn(`[about.astro] team.json references unknown author id: ${id}`);
+  }
+  return resolved.filter((a) => a.data !== undefined) as {
     id: string;
     data: NonNullable<ReturnType<typeof authorMap.get>>;
   }[];
