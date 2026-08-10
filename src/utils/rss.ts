@@ -24,7 +24,7 @@ export interface RssItem {
 /**
  * Map post collection entries to RSS item objects, newest first, capped at the
  * {@link RSS_ITEM_LIMIT} most recent posts. `baseUrl` is expected to carry a
- * trailing slash (e.g. `/refactor_mtg_blog/`); each link also ends with a
+ * trailing slash (e.g. `/` or `/some-subpath/`); each link also ends with a
  * trailing slash so it matches the directory-format page route exactly
  * (`<base><slug>/`) regardless of dots in the slug.
  */
