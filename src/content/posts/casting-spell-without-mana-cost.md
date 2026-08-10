@@ -1,6 +1,8 @@
 ---
 title: "如何施放無費用咒語"
 date: 2023-09-05 17:13:27
+cover: "https://i.meee.com.tw/wXlLcCR.webp"
+thumbnail: "https://i.meee.com.tw/wXlLcCR.webp"
 categories:
   - "MTG Rules"
 authors:

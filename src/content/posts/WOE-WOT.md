@@ -7,6 +7,8 @@ categories:
 excerpt: "艾卓荒野(WOE)限制賽中最令人驚喜也驚嚇的63張惡名昭彰的結界們，你值得擁有！來看看魅附奇譚(WOT)這些結界牌在限制賽中的評分與介紹吧！"
 authors:
   - "cephille"
+Cover: "https://i.meee.com.tw/1T6Nsem.jpg"
+thumbnail: "https://i.meee.com.tw/1T6Nsem.jpg"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。

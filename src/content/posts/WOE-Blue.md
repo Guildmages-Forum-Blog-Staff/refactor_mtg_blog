@@ -5,6 +5,8 @@ categories:
   - "Limited"
   - "WOE"
 excerpt: "仙靈與倒楣鬼、術士與冰霜魔法...艾卓荒野(WOE)限制賽中藍色牌的評分與介紹看這邊！"
+thumbnail: "https://i.meee.com.tw/wExWtnT.png"
+cover: "https://i.meee.com.tw/wExWtnT.png"
 authors:
   - "cephille"
 ---

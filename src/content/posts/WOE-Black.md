@@ -7,6 +7,8 @@ categories:
 excerpt: "夢魘與巫婆、惡人與...滿坑滿谷的老鼠！艾卓荒野(WOE)限制賽中黑色牌的評分與介紹看這邊！"
 authors:
   - "cephille"
+cover: "https://i.meee.com.tw/rExSYiR.png"
+thumbnail: "https://i.meee.com.tw/rExSYiR.png"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。
