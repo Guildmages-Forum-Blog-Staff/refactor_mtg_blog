@@ -17,7 +17,7 @@ import { getPreviewSlugs } from './src/utils/sitemap-filter';
 import remarkBreaks from 'remark-breaks';
 import rehypeExternalLinks from 'rehype-external-links';
 
-const BASE = '/refactor_mtg_blog/';
+const BASE = '/';
 
 // Preview posts are still built (reachable by direct URL) but must not
 // appear in the sitemap — computed synchronously here since astro:content
@@ -29,7 +29,7 @@ const previewPagePaths = new Set(
 );
 
 export default defineConfig({
-  site: 'https://guildmages-forum-blog-staff.github.io',
+  site: 'https://guildmagesforum.tw',
   base: BASE,
   compressHTML: true,
   server: {
