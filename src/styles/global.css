@@ -64,14 +64,14 @@
     position: fixed;
     inset: 0;
     z-index: -1;
-    background-image: url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotus-plains-6040-final-jaa-small.jpg?t=1727796986');
+    background-image: url('/images/bg-lotus-plains.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
 
   html.dark::before {
-    background-image: url('https://cdn11.bigcommerce.com/s-9m38nv20iy/images/stencil/original/image-manager/lotusswamp-60-40-metal-print-smaller.jpg?t=1742030717');
+    background-image: url('/images/bg-lotus-swamp.jpg');
   }
 
   body {
