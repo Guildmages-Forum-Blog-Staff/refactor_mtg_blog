@@ -5,7 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * 1' # every Monday 02:00 UTC (10:00 Taipei)
+    - cron: '0 16 * * 0' # every Monday 00:00 UTC+8 (Sunday 16:00 UTC)
 
 concurrency:
   group: pages
