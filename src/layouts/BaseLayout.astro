@@ -71,7 +71,10 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
           const img = document.createElement('img');
           img.src = src;
           img.style.cssText = CARD_IMG_CSS;
-          img.loading = 'lazy';
+          // eager: img starts inside a display:none tooltip that flips
+          // visible on the same hover event — loading="lazy" defers the
+          // fetch on first hover until browser catches up (fixed after a
+          // reload warms the cache). No off-screen benefit to lazy here.
           return img;
         }
 
