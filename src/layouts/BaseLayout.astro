@@ -56,64 +56,80 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
     </div>
     <Footer />
     <script>
-      // Scryfall card hover — imgUrl sourced from server-side remark plugin attributes only
-      document.addEventListener('DOMContentLoaded', () => {
-        const tooltip = document.createElement('div');
+      // Scryfall card hover — imgUrl sourced from server-side remark plugin attributes only.
+      // ClientRouter swaps <body> wholesale on internal navigation (no transition:persist
+      // on this tooltip) and only runs page scripts once per browser session, so
+      // DOMContentLoaded alone left every page but the very first hard load with no
+      // tooltip element and no listeners. astro:page-load fires after the initial load
+      // AND every subsequent navigation, so rebuild the (possibly-detached) tooltip div
+      // there each time; the mouseover/mousemove/mouseout listeners stay on `document`,
+      // which persists across swaps, so they're attached once, outside this handler.
+      let tooltip: HTMLDivElement | undefined;
+
+      document.addEventListener('astro:page-load', () => {
+        if (tooltip?.isConnected) return;
+        tooltip = document.createElement('div');
         tooltip.id = 'scryfall-tooltip';
         tooltip.style.cssText =
           'position:fixed;z-index:9999;pointer-events:none;display:none;transition:opacity 0.15s;';
         document.body.appendChild(tooltip);
+      });
 
-        const CARD_IMG_CSS =
-          'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
+      const CARD_IMG_CSS = 'width:223px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.5);';
 
-        function makeImg(src: string): HTMLImageElement {
-          const img = document.createElement('img');
-          img.src = src;
-          img.style.cssText = CARD_IMG_CSS;
-          img.loading = 'lazy';
-          return img;
+      function makeImg(src: string): HTMLImageElement {
+        const img = document.createElement('img');
+        img.src = src;
+        img.width = 223;
+        img.height = 311; // Scryfall card art ratio (488x680) at 223px width
+        img.style.cssText = CARD_IMG_CSS;
+        // eager: img starts inside a display:none tooltip that flips
+        // visible on the same hover event — loading="lazy" defers the
+        // fetch on first hover until browser catches up (fixed after a
+        // reload warms the cache). No off-screen benefit to lazy here.
+        return img;
+      }
+
+      document.addEventListener('mouseover', (e) => {
+        if (!tooltip) return;
+        const el = e.target as Element;
+
+        // scryfall-card: image URL in data attribute
+        const scryfallLink = el.closest('a.scryfall-card');
+        if (scryfallLink) {
+          const imgUrl = scryfallLink.getAttribute('data-card-image');
+          if (!imgUrl) return;
+          tooltip.replaceChildren(...imgUrl.split('|').filter(Boolean).map(makeImg));
+          tooltip.style.display = 'flex';
+          tooltip.style.gap = '8px';
+          return;
         }
 
-        document.addEventListener('mouseover', (e) => {
-          const el = e.target as Element;
+        // mtglink tooltip: image URL in data attribute (set by remark-mtg-tags)
+        const tooltipLink = el.closest('a.tooltip');
+        if (tooltipLink) {
+          const imgUrl = tooltipLink.getAttribute('data-card-image');
+          if (!imgUrl) return;
+          tooltip.replaceChildren(makeImg(imgUrl));
+          tooltip.style.display = 'flex';
+          tooltip.style.gap = '8px';
+        }
+      });
 
-          // scryfall-card: image URL in data attribute
-          const scryfallLink = el.closest('a.scryfall-card');
-          if (scryfallLink) {
-            const imgUrl = scryfallLink.getAttribute('data-card-image');
-            if (!imgUrl) return;
-            tooltip.replaceChildren(...imgUrl.split('|').filter(Boolean).map(makeImg));
-            tooltip.style.display = 'flex';
-            tooltip.style.gap = '8px';
-            return;
-          }
+      document.addEventListener('mousemove', (e) => {
+        if (!tooltip || tooltip.style.display === 'none') return;
+        const x = e.clientX + 16;
+        const y = e.clientY - 20;
+        const w = tooltip.offsetWidth || 240;
+        tooltip.style.left = Math.min(x, window.innerWidth - w - 8) + 'px';
+        tooltip.style.top = Math.max(0, Math.min(y, window.innerHeight - 340)) + 'px';
+      });
 
-          // mtglink tooltip: image URL in data attribute (set by remark-mtg-tags)
-          const tooltipLink = el.closest('a.tooltip');
-          if (tooltipLink) {
-            const imgUrl = tooltipLink.getAttribute('data-card-image');
-            if (!imgUrl) return;
-            tooltip.replaceChildren(makeImg(imgUrl));
-            tooltip.style.display = 'flex';
-            tooltip.style.gap = '8px';
-          }
-        });
-
-        document.addEventListener('mousemove', (e) => {
-          if (tooltip.style.display === 'none') return;
-          const x = e.clientX + 16;
-          const y = e.clientY - 20;
-          const w = tooltip.offsetWidth || 240;
-          tooltip.style.left = Math.min(x, window.innerWidth - w - 8) + 'px';
-          tooltip.style.top = Math.max(0, Math.min(y, window.innerHeight - 340)) + 'px';
-        });
-
-        document.addEventListener('mouseout', (e) => {
-          const el = e.target as Element;
-          if (!el.closest('a.scryfall-card') && !el.closest('a.tooltip')) return;
-          tooltip.style.display = 'none';
-        });
+      document.addEventListener('mouseout', (e) => {
+        if (!tooltip) return;
+        const el = e.target as Element;
+        if (!el.closest('a.scryfall-card') && !el.closest('a.tooltip')) return;
+        tooltip.style.display = 'none';
       });
     </script>
     <button
