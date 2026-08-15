@@ -64,7 +64,7 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
       // AND every subsequent navigation, so rebuild the (possibly-detached) tooltip div
       // there each time; the mouseover/mousemove/mouseout listeners stay on `document`,
       // which persists across swaps, so they're attached once, outside this handler.
-      let tooltip: HTMLDivElement;
+      let tooltip: HTMLDivElement | undefined;
 
       document.addEventListener('astro:page-load', () => {
         if (tooltip?.isConnected) return;
@@ -80,6 +80,8 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
       function makeImg(src: string): HTMLImageElement {
         const img = document.createElement('img');
         img.src = src;
+        img.width = 223;
+        img.height = 311; // Scryfall card art ratio (488x680) at 223px width
         img.style.cssText = CARD_IMG_CSS;
         // eager: img starts inside a display:none tooltip that flips
         // visible on the same hover event — loading="lazy" defers the
@@ -89,6 +91,7 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
       }
 
       document.addEventListener('mouseover', (e) => {
+        if (!tooltip) return;
         const el = e.target as Element;
 
         // scryfall-card: image URL in data attribute
@@ -114,7 +117,7 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
       });
 
       document.addEventListener('mousemove', (e) => {
-        if (tooltip.style.display === 'none') return;
+        if (!tooltip || tooltip.style.display === 'none') return;
         const x = e.clientX + 16;
         const y = e.clientY - 20;
         const w = tooltip.offsetWidth || 240;
@@ -123,6 +126,7 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
       });
 
       document.addEventListener('mouseout', (e) => {
+        if (!tooltip) return;
         const el = e.target as Element;
         if (!el.closest('a.scryfall-card') && !el.closest('a.tooltip')) return;
         tooltip.style.display = 'none';
