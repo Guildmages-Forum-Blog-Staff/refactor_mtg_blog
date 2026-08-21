@@ -1,6 +1,6 @@
 ---
 title: "HOB輪抽分享"
-date: "2026-08-21 15:33:06"
+date: "2026-08-21 15:57:04"
 categories:
   - "Limited"
   - "HOB"
@@ -26,6 +26,7 @@ excerpt: "節奏明快的環境"
 {% mtgcard "Misty Mountains Raider" %}
 頂尖U卡，是全系列最強的5費CU卡，打出去也等於多一個防守者。
 
+
 {% mtgcard "Gundabad Opportunist" %}
 
 頂尖C卡，不能首選，這張的強度讓紅色能有源源不絕資源 + 戰力，也是我認為全環境最強四費，甚至能在紅黑裡面打出四攻主題，紅白沒吃主題但也能用。
@@ -36,10 +37,9 @@ excerpt: "節奏明快的環境"
 
 {% mtgcard "Goblin-town Flunkies" %}
 
-很普通的C卡，用撿的就好，可以讓軍隊變大，且能防
-{% mtglink "Crude Bent Blade" %} ，如果有多張犧牲殺時這張的效益很高，僅能玩紅黑。
+很普通的C卡，用撿的就好，可以讓軍隊變大，且能防 {% mtglink "Crude Bent Blade" %} ，如果有多張犧牲殺時這張的效益很高，僅能玩紅黑。
 
-**小結：** 第一包進紅色你可以走的是紅黑+紅綠，這兩個主題共用的紅色牌基本一樣，而且都是優質泛用牌，如果第一包選紅色矮人，要玩紅白的路會比較窄。我認為紅色最有價值的地方是能開放兩費做瞬間時機的 {% "Pinecone Strike" alt="放逐燒" %} 。
+**小結：** 第一包進紅色你可以走的是紅黑+紅綠，這兩個主題共用的紅色牌基本一樣，而且都是優質泛用牌，如果第一包選紅色矮人，要玩紅白的路會比較窄。我認為紅色最有價值的地方是能開放兩費做瞬間時機的 {% mtglink "Pinecone Strike" alt="放逐燒" %} 。
 
 ### 黑色
 
@@ -53,11 +53,11 @@ excerpt: "節奏明快的環境"
 
 {% mtgcard "Gollum, Silent Slinker" %}
 
-使用率跟勝率越來越好的C卡，補2並給一次進攻的機會，本身威懾在強攻牌組裡很強大，我認為是僅次 {% Gundabad Opportunist" %} 好用的4費牌。
+使用率跟勝率越來越好的C卡，補2並給一次進攻的機會，本身威懾在強攻牌組裡很強大，我認為是僅次 {% mtglink "Gundabad Opportunist" %} 好用的4費牌。
 
 {% mtgcard "Crude Bent Blade" %}
 
-全系列最強C卡武具，可以配合 {% Stir Up Trouble" %} 高效去除，還能用來達成黑綠四攻條件，在打藍白募兵主題的表現較差，因為會有很多 1/1 能讓對手犧牲。
+全系列最強C卡武具，可以配合 {% mtglink "Stir Up Trouble" %} 高效去除，還能用來達成黑綠四攻條件，在打藍白募兵主題的表現較差，因為會有很多 1/1 能讓對手犧牲。
 
 {% mtgcard "Reverent Howl" %}
 
@@ -86,12 +86,13 @@ excerpt: "節奏明快的環境"
 
 頂尖C卡去除，有意識地選有死觸的生物能成為開路神卡。
 
-{% mtgcard "Woodland Weavemaster" %}
+{% mtgcard "Woodland Weavemaster" %} 
 
 要搭配 {% mtglink "Elven Raft-Steerer" %} ，地落重置妖精，能在前期做出爆炸性場面，是藍綠妖精套牌唯一出路。
 
-{% mtgcard "Warg Tactics" %}
+{% mtgcard "Warg Tactics" %} 
 限制賽中一個顏色的強度跟 C 卡生物 trick 有關係，這張牌只有防殺+解飛兵的功能，戰鬥中很難做到向上交換，是我認為這次綠色表現較差的原因之一。
+
 
 **小結：** 綠色在現開賽很強，雖有好體質但輪抽裡淪為普通，沒有紅黑的進攻能力，也沒有白藍的去除 ＋ 賺資源。第一包選綠幾乎只能打黑綠，藍綠妖精勝率低迷除非有信心盡量不要觸碰，不過綠色的R跟M卡很強，是個單靠CU較難發揮的顏色。
 
@@ -115,16 +116,14 @@ excerpt: "節奏明快的環境"
 
 **小結：** 我紅白矮人玩得比較少，所以僅做參考，我認為沒有R跟M卡輔助的矮人缺乏穿透力，表現較差。白色有優質去除能阻止黑綠 + 紅黑的強攻，是藍白慢速牌組需要的。除非選了R跟M卡，先進白色沒什麼優勢，通常能撿到別人傳來的炸彈。
 
+
 ### 藍色
 
-{% mtgcard "Lakeshore Apothecary" %}
-{% mtgcard "Master's Councillors" %}
+![](https://i.meee.com.tw/BmD8RlD.jpg)
 
 這兩張牌是2費的核心，2回合一定要出一張生物，或是手上捏一張殺，不然在這環境幾乎等於輸。
 
-{% mtgcard "Bilbo Baggins, Burglar" %}
-{% mtgcard "Bilbo, Luckwearer" %}
-{% mtgcard "Plunder the Trollshaws" %}
+![](https://i.meee.com.tw/alGgBxp.jpg)
 
 抽牌三件套，要有生物以及這些抽牌套件，套牌才算完整，也是白藍最難組的地方，有兩家一起玩就會湊不好。
 
@@ -144,7 +143,7 @@ excerpt: "節奏明快的環境"
 {% mtgcard "Duskwatch Hunter" %}
 
 黑綠跟紅黑都能用的C卡，給豆很靈活，算是最強的3費C卡了，能完成黑綠主題，也能當紅黑的強攻牌。
-
+ 
 {% mtgcard "Patient Instructor" %}
 
 只有白藍會用的牌，可透過這張的數量來觀察場上玩這個色組的狀況。
@@ -153,14 +152,15 @@ excerpt: "節奏明快的環境"
 
 能力是很強，問題是費用太高，常常活不到這時候。
 
-{% mtgcard "Fearsome Goblin Pair" %}
+{% mtgcard "Fearsome Goblin Pair" %} 
 一開始不被看好，但隨著環境更迭，越來越多人玩犧牲的套路，這張的使用量和勝率也逐漸增加。
 
 {% mtgcard "Mirkwood Nurturer" %}
 
 目前看過這張卡最強的搭配是跟 {% mtglink "Crude Bent Blade" %} ，反覆橫跳。
 
-## 結論
+
+## 結論 
 
 這個環境比的是2-3費的小生物與trick博弈，四費以上的生物要盡量選擇進場有效果的，或是自帶威懾或飛行，不然體質再好都會死，站一隻大生物防守是最差的選擇。
 
