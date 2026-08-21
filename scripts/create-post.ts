@@ -237,19 +237,9 @@ async function main(): Promise<void> {
   const stringifiedFm = yaml.dump(frontmatter, { quotingType: '"', forceQuotes: true });
   const output = `---\n${stringifiedFm}---\n${body}`;
 
-  try {
-    // 'wx' fails atomically if the file already exists, closing the
-    // check-then-write race left open by a separate existsSync check.
-    fs.writeFileSync(outputPath, output, { flag: 'wx' });
-  } catch (err) {
-    if (err instanceof Error && 'code' in err && err.code === 'EEXIST') {
-      console.error(`[create-post] Error: ${outputPath} already exists.`);
-      process.exitCode = 1;
-      return;
-    }
-    throw err;
-  }
-  console.log(`[create-post] Post created: ${outputPath}`);
+  const existed = fs.existsSync(outputPath);
+  fs.writeFileSync(outputPath, output);
+  console.log(`[create-post] Post ${existed ? 'overwritten' : 'created'}: ${outputPath}`);
 }
 
 const isMain = import.meta.url === pathToFileURL(process.argv[1]).href;

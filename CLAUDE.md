@@ -80,7 +80,7 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 
 ## Post Import
 
-`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/<filename>.md`. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it and refuses to overwrite an existing post.
+`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/<filename>.md`, overwriting the file if it already exists. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it.
 
 ## Dark Mode
 
