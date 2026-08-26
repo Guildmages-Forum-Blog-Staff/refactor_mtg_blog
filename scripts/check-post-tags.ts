@@ -53,7 +53,12 @@ if (isMain) {
     console.error('Usage: npm run check:tags -- <file...>');
     process.exit(1);
   }
-  const findings = files.filter(existsSync).flatMap(checkFile);
+  const missingFiles = files.filter((f) => !existsSync(f));
+  if (missingFiles.length) {
+    for (const f of missingFiles) console.error(`${f}: file not found`);
+    process.exit(1);
+  }
+  const findings = files.flatMap(checkFile);
   if (findings.length) {
     for (const f of findings) {
       const hint =
