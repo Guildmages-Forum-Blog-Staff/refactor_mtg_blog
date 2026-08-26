@@ -18,7 +18,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // ---------- interfaces ----------
 
-type PostRef =
+export type PostRef =
   | { kind: 'search'; args: SearchArgs; sources: string[] }
   | { kind: 'pick'; args: PickArgs; sources: string[] };
 

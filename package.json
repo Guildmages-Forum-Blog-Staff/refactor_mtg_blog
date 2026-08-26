@@ -20,6 +20,7 @@
     "test:coverage": "vitest run --coverage",
     "cache:update": "tsx scripts/build-card-cache.ts",
     "cache:refresh": "tsx scripts/build-card-cache.ts --refresh",
+    "check:tags": "tsx scripts/check-post-tags.ts",
     "post": "tsx --env-file-if-exists=.env scripts/create-post.ts"
   },
   "dependencies": {
