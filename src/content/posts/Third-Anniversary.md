@@ -1,12 +1,13 @@
 ---
 title: "Guildmage's Forum 魔風集會所三周年運營咨文"
 date: "8/31/2026, 8:43:22 AM"
+updated: "2026-08-31 09:10:47"
 preview: false
 categories:
   - "GMF Staff"
 authors:
   - "gmf-staff"
-cover: "!https://i.meee.com.tw/6zpl0fG.jpg"
+cover: "https://i.meee.com.tw/6zpl0fG.jpg"
 thumbnail: "https://i.meee.com.tw/6zpl0fG.jpg"
 excerpt: "喜迎 Guildmages' Forum 魔風集會所三周年！"
 ---
