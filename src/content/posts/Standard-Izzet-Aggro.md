@@ -1,6 +1,7 @@
 ---
 title: "從Prowess到Aggro：2026年8月10日禁牌後的紅藍快攻"
 date: "9/4/2026, 12:48:17 PM"
+updated: "2026-09-04 13:41:08"
 preview: false
 categories:
   - "Construct"
@@ -49,6 +50,7 @@ excerpt: "8月禁限牌後，表準環境重新洗牌，本文帶你解析Izzet 
 ## 為什麼要打紅藍而不是純紅？
 
 因為補強。
+
 自《[心火勇士/Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero)》、《[怪物狂怒/Monstrous Rage](https://scryfall.com/card/woe/142/monstrous-rage)》、《[尖鳴宿敵/Screaming Nemesis](https://scryfall.com/card/dsk/157/screaming-nemesis)》被禁用後，純紅幾乎沒有出現什麼很強的牌，反而是《[斯翠海文的祕密/Secrets of Strixhaven](https://scryfall.com/sets/sos)》出了足以取代《[閃電煉擊/Lightning Strike](https://scryfall.com/card/msh/142/lightning-strike)》的《[炫麗爆發/Vibrant Outburst](https://scryfall.com/card/sos/240/vibrant-outburst)》跟彌補三費生物空缺的《[彩暴雄駒/Colorstorm Stallion](https://scryfall.com/card/sos/180/colorstorm-stallion)》。而且混藍備牌還能使用《[點破咒語/Spell Pierce](https://scryfall.com/card/dft/64/spell-pierce)》這種便宜又好用的反擊，真的是找不到不混藍的理由。
 
 ## 卡位分配
@@ -73,7 +75,7 @@ excerpt: "8月禁限牌後，表準環境重新洗牌，本文帶你解析Izzet 
 ![非生物咒語](https://i.meee.com.tw/uifr0xO.png)
 
 這裡固定要帶《[閃電迸發/Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning)》跟《[炫麗爆發/Vibrant Outburst](https://scryfall.com/card/sos/240/vibrant-outburst)》，尤其《[炫麗爆發](https://scryfall.com/card/sos/240/vibrant-outburst)》，不然打紅藍就沒有意義了。
-通常都是帶滿四個，最多踢掉一個《[閃電迸發/Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning)》拿來帶別的，剩下的卡位通常會帶1~2個《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/channeled-dragonfire)》，根據帶的數量你還會有1~2個空位帶其他咒語，這個位置《[舷側齊射/Broadside Barrage](https://scryfall.com/card/dft/192/broadside-barrage)》或《[炙燒/Sear](https://scryfall.com/card/ecl/154/sear)》都可以。
+通常都是帶滿四個，最多踢掉一個《[閃電迸發/Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning)》拿來帶別的，剩下的卡位通常會帶1～2個《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/channeled-dragonfire)》，根據帶的數量你還會有1～2個空位帶其他咒語，這個位置《[舷側齊射/Broadside Barrage](https://scryfall.com/card/dft/192/broadside-barrage)》或《[炙燒/Sear](https://scryfall.com/card/ecl/154/sear)》都可以。
 
 ![非生物咒語2](https://i.meee.com.tw/lve74v6.png)
 
@@ -209,12 +211,13 @@ excerpt: "8月禁限牌後，表準環境重新洗牌，本文帶你解析Izzet 
 ![回合布置1](https://i.meee.com.tw/r8SDNHz.png)
 先攻起手，同時有《[受雇利爪](https://scryfall.com/card/blb/140/hired-claw)》跟《[滑鉗鬼怪](https://scryfall.com/card/dft/132/greasewrench-goblin)》時，應該先下哪個？
 答案是[蜥蜴](https://scryfall.com/card/blb/140/hired-claw)。不單是因為蜥蜴很強，還因為鬼怪有後續價值，他是套牌少數且珍貴的可以讓你調度手牌資源的生物，所以除非起手就只有這一個一費生物，不然一定是蜥蜴優先於鬼怪。
+
 二費也一樣，有《[灼燙毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)》、《[邪法鎮咒鬼](https://scryfall.com/card/ecl/145/hexing-squelcher)》、《[尖頭銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)》，應該優先下哪個？
 
 ![回合布置2](https://i.meee.com.tw/fkNb1de.png)
 
-首先[毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)一定放最後，它是你主牌組中少數可以處理非地永久物的手段。中期開始甚至會需要他的回手去為你爭取更多時間，如果不是沒有其他生物或者有特殊狀況，絕對不會優先考慮下毒蛇。
-然後一定是[鎮咒鬼](https://scryfall.com/card/ecl/145/hexing-squelcher)的優先級大於[銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)，理由在於如果不處理鎮咒鬼，之後所有的生物都會更難處理；而處理鎮咒鬼至少會失去兩滴血。銳器人除了有對手抽牌會扣血的效果外，還有自己回合能先攻的效果，使得對手很難以生物阻擋的手段處理掉它。
+首先[毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)一定放最後。它是你主牌組中少數可以處理非地永久物的手段，中期開始甚至會需要他的回手去為你爭取更多時間。如果不是沒有其他生物或者有特殊狀況，絕對不會優先考慮下毒蛇。
+然後一定是[鎮咒鬼](https://scryfall.com/card/ecl/145/hexing-squelcher)的優先級大於[銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)。理由在於如果不處理鎮咒鬼，之後所有的生物都會更難處理；而處理鎮咒鬼至少會失去兩滴血。銳器人除了有對手抽牌會扣血的效果外，還有自己回合能先攻的效果，使得對手很難以生物阻擋的手段處理掉它。
 當然也存在銳器人優先於鎮咒鬼的情形，這種狀況通常發生在你希望之後能讓其他咒語順利通過時，那就可以先保留著鎮咒鬼，等到法力充足時再一起施放。
 
 #### 2. 是否需要考慮對手的互動
@@ -230,6 +233,7 @@ excerpt: "8月禁限牌後，表準環境重新洗牌，本文帶你解析Izzet 
 
 ### Turn 3–4：天王山<sup>[註2](#quote2)</sup>
 決定勝負走向的回合。
+
 這時通常會有一個一體兩面的問題：全力進攻 or 保留資源。
 當然了，如果這回合全推下回合可以燒牌收尾，沒有任何不全推的理由。問題在於其他狀況。
 
@@ -269,7 +273,7 @@ A：投～降～！
 跟對手的血量差距在這個時候會成為爭取資源的時間，畢竟標準大部分還是以戰鬥傷害作為決勝手段的賽制。不要覺得這是雙方純拼運氣的場合。
 
 **燒牌作為終結手段**
-當你在三、四回合後，開始意識到生物戰不太能突破時，就可以開始保留燒牌而不是勉強去開路，生物就盡可能去搶血，被換掉也沒關係，反正這時候已經決定要用燒的了。
+當你在三、四回合後，開始意識到生物戰不太能突破時，就可以開始保留燒牌而不是勉強去開路。生物就盡可能去搶血，被換掉也沒關係，反正這時候已經決定要用燒的了。
 《[炫麗爆發](https://scryfall.com/card/sos/240/vibrant-outburst)》在這種場合特別有價值，可以一邊燒臉一邊開路。
 
 **避免完全失去資源**
@@ -278,9 +282,9 @@ A：投～降～！
 
 ## 常見錯誤：為什麼會輸掉本來可以贏的比賽？
 ### 1. 直傷都拿去打人了
-這個話題其實滿深奧的，以前我嘗試要寫一篇「當對手有20點生命值時跟對手只有3點生命值時閃電擊有著不同價值」的文章。結果發現要討論的內容太超脫我的知識範圍，只寫了幾行就放棄，現在可以全部引用過來：
+這個話題其實滿深奧的，以前我嘗試要寫一篇「當對手有20點生命值時跟對手只有3點生命值時，[閃電擊](https://scryfall.com/card/m10/146/lightning-bolt)有著不同價值」的文章。結果發現要討論的內容太超脫我的知識範圍，只寫了幾行就放棄，現在可以全部引用過來：
 
-「牌張的效果是固定的，但牌張的價值卻會隨著局面不斷改變。閃電擊永遠只是一張會造成三點傷害的牌，但在對手有20點生命時跟對手只有3點生命時，價值就完全不同。」
+「*牌張的效果是固定的，但牌張的價值卻會隨著局面不斷改變。閃電擊永遠只是一張會造成三點傷害的牌，但在對手有20點生命時跟對手只有3點生命時，價值就完全不同。*」
 
 何時應該直擊、何時應該清除阻礙，這是決定快攻玩家優秀與否的最大重點。
 這邊給一個通俗簡單的判斷方式：會繫命的、Mana頭、在T1～T3間影響進攻的一定處理掉。剩下的都可以暫時不管。
@@ -302,7 +306,7 @@ A：投～降～！
 所以當對手的行動看起來很詭異的時候，最好考慮一下對面是不是在準備什麼。
 
 ### 6. 抄牌表
-同一副牌，在不同Metagame的最優構築可能完全不同。比如純綠比較多，[銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)就可以不用帶了、Spellementals比較多，就要考慮正編備牌多帶點墳場克制。
+同一副牌，在不同Metagame的最優構築可能完全不同。比如純綠比較多，[銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)就可以不用帶了。Spellementals比較多，就要考慮正編備牌多帶點墳場克制。
 ~~有大量Momo的時候最好不要打快攻~~
 構築是活的，不要覺得因為MO上的5-0牌表長那樣就跟著帶。
 
@@ -322,7 +326,7 @@ A：投～降～！
 不過問題向來不是上什麼，而是下什麼，這邊有兩個原則：
 
 **1. 哪些牌在特定對局價值下降**
-打純綠的時候的銳器人、打元素的時候的一點燒、打控制的時候的毒蛇，下牌的原則就是這樣，幫助不大的人雖然好像還有點用，但應該讓更有用的人上來。
+打純綠的時候的銳器人、打元素的時候的一點燒、打控制的時候的[毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)。下牌的原則就是這樣，幫助不大的人雖然好像還有點用，但應該讓更有用的人上來。
 
 **2. 不要為了反制對手過度換備**
 我有一陣子遇到紅藍Spellementals的時候都會上[山貓](https://scryfall.com/card/blb/155/sunspine-lynx)，因為覺得貓是元素不會被回手實在太強了，後來才發現要應付的根本不是[回手鳥](https://scryfall.com/card/ecl/74/sunderflock)而是會橫置你的[螃蟹](https://scryfall.com/card/blb/48/eddymurk-crab)。
@@ -338,7 +342,7 @@ IN：《[舷側齊射/Broadside Barrage](https://scryfall.com/card/dft/192/broad
 OUT：《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/channeled-dragonfire)》、《[尖頭銳器人/Razorkin Needlehead](https://scryfall.com/card/dsk/153/razorkin-needlehead)》
 
 ### 2. 白綠地落 / Selesnya Landfall
-稍微劣勢的對局，問題出在備牌可能會出現的《[鬼魂庇護](https://scryfall.com/card/soc/171/sheltered-by-ghosts)/Sheltered by Ghosts》，又實在不可能為了這個情況上[山貓](https://scryfall.com/card/blb/155/sunspine-lynx)。
+稍微劣勢的對局，問題出在備牌可能會出現的《[鬼魂庇護/Sheltered by Ghosts](https://scryfall.com/card/soc/171/sheltered-by-ghosts)》，又實在不可能為了這個情況上[山貓](https://scryfall.com/card/blb/155/sunspine-lynx)。
 多留點瞬間燒處理生物。
 
 IN：《[舷側齊射/Broadside Barrage](https://scryfall.com/card/dft/192/broadside-barrage)》或《[炙燒/Sear](https://scryfall.com/card/ecl/154/sear)》
@@ -346,6 +350,7 @@ OUT：《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/c
 
 ### 3. 藍黑中速 / Dimir Midrange
 優勢對局。
+
 因為對手的生物都比我方小，所以很難打輸生物戰。對方看起來要變[Kaito](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)的時候，如果你有兩個或以上的生物可以隨便他忍術，反正也不可能拿來做[-2]以外的事情，最怕的情況就是被下一解一，然後大生物被Kaito控住。
 唯一要防的是《[洪坑沉溺客/Floodpits Drowner](https://scryfall.com/card/dsk/59/floodpits-drowner)》忍術出Kaito的情況，會被暈眩很久。
 
@@ -364,14 +369,16 @@ OUT：《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/c
 
 ### 5. 藍白Momo / Azorius Momo
 超級劣勢對局。
+
 《[蒼穹智者/Sage of the Skies](https://scryfall.com/card/tdm/22/sage-of-the-skies)》、《[輝光從心哈莉婭/Haliya, Guided by Light](https://scryfall.com/card/eoe/19/haliya-guided-by-light)》讓對面補血補得比你打得更多，加上有機會二回就一直站在場上的《[量子設謎者/Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler)》。然後根據個人不同又有機會出現《[鬼魂庇護](https://scryfall.com/card/soc/171/sheltered-by-ghosts)》。
 沒有什麼特別好的方法，備牌記得帶掃場，然後祈禱對面不會二回[史芬斯](https://scryfall.com/card/eoe/72/quantum-riddler)。
 
 IN：《[旭日脊山貓/Sunspine Lynx](https://scryfall.com/card/blb/155/sunspine-lynx)》、《[熔滓風暴/Slagstorm](https://scryfall.com/card/fdn/207/slagstorm)》
 OUT：《[尖頭銳器人/Razorkin Needlehead](https://scryfall.com/card/dsk/153/razorkin-needlehead)》
 
-### 6. 黑白生命 / Orzhov Lifegain
+### 6. 黑白加血 / Orzhov Lifegain
 超級劣勢對局。
+
 對面會一直補血，只能祈禱對面很卡，備牌局祈禱《[熔滓風暴/Slagstorm](https://scryfall.com/card/fdn/207/slagstorm)》準時來。
 
 IN：《[旭日脊山貓/Sunspine Lynx](https://scryfall.com/card/blb/155/sunspine-lynx)》、《[熔滓風暴/Slagstorm](https://scryfall.com/card/fdn/207/slagstorm)》
@@ -379,6 +386,7 @@ OUT：《[尖頭銳器人/Razorkin Needlehead](https://scryfall.com/card/dsk/153
 
 ### 7. 瑪爾都棄牌 / Mardu Discard
 劣勢對局。
+
 要盡快處理掉兩個一費生物，不然增長速度很快就會超過你能解掉的範圍。同時要跟對方競速跟打防守戰，會需要非常剛好的手牌才可以應付。
 這也是個可能有《[鬼魂庇護](https://scryfall.com/card/soc/171/sheltered-by-ghosts)》的對局。
 
@@ -387,6 +395,7 @@ OUT：《[尖頭銳器人/Razorkin Needlehead](https://scryfall.com/card/dsk/153
 
 ### 8. 紅藍Spellementals / Izzet Spellementals
 劣勢對局。
+
 對方前期有單解，中後期開始有《[黯渦蟹/Eddymurk Crab](https://scryfall.com/card/blb/48/eddymurk-crab)》壓制生物進攻跟《[驅群妖/Sunderflock](https://scryfall.com/card/ecl/74/sunderflock)》全場回手，正編只有拼速度。備牌局以後有墳場克制會稍微舒服一點，但還是很可能會讓對手增長到足以直接施放元素生物。
 為了應對這個對局，建議調整備牌帶個[倨傲擊](https://scryfall.com/card/woe/47/disdainful-stroke)，但我帶的那天沒遇到。
 
@@ -412,6 +421,7 @@ OUT：《[尖頭銳器人/Razorkin Needlehead](https://scryfall.com/card/dsk/153
 
 ### 11. 4C控制 / 4c Control
 稍微劣勢。
+
 這是一個四回合以後才會開始發威的Deck，麻煩點在於它會用《[成果石板/Tablet of Discovery](https://scryfall.com/card/sos/132/tablet-of-discovery)》加速，比想像中快速的來到七費，然後《[潔斯凱啟示/Jeskai Revelation](https://scryfall.com/card/tdm/196/jeskai-revelation)》慢慢拉開雙方差距。備牌會比較有操作空間，[點破咒語/Spell Pierce](https://scryfall.com/card/dft/64/spell-pierce)可以康對手石板減緩對手加速的速度，山貓又可以給予多色套牌制裁。
 
 IN：《[旭日脊山貓/Sunspine Lynx](https://scryfall.com/card/blb/155/sunspine-lynx)》、《[點破咒語/Spell Pierce](https://scryfall.com/card/dft/64/spell-pierce)》、《[剋法蜥蜴/Magebane Lizard](https://scryfall.com/card/otj/134/magebane-lizard)》
@@ -419,6 +429,7 @@ OUT：《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/c
 
 ### 12. 蘇勒台控制 / Sultai Control
 正編劣勢對局。
+
 新路線的控制，黑色又會單殺又會掃場，加上《[德連費爾教授/Professor Dellian Fel](https://scryfall.com/card/sos/214/professor-dellian-fel)》會補血，沒有康的正編局很難打。
 備牌局就是看有沒有抽到康。
 
