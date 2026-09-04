@@ -1,7 +1,7 @@
 ---
 title: "從Prowess到Aggro：2026年8月10日禁牌後的紅藍快攻"
 date: "9/4/2026, 12:48:17 PM"
-updated: "2026-09-04 13:41:08"
+updated: "2026-09-04 14:09:08"
 preview: false
 categories:
   - "Construct"
@@ -10,7 +10,7 @@ authors:
   - "CIXS"
 cover: "https://i.meee.com.tw/AERTL9a.jpg"
 thumbnail: "https://i.meee.com.tw/AERTL9a.jpg"
-excerpt: "8月禁限牌後，表準環境重新洗牌，本文帶你解析Izzet Aggro如何憑藉速度、節奏與靈活互動嶄露頭角。"
+excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet Aggro如何憑藉速度、節奏與靈活互動嶄露頭角。"
 ---
 
 ## 前言
@@ -19,7 +19,7 @@ excerpt: "8月禁限牌後，表準環境重新洗牌，本文帶你解析Izzet 
 
 事情起於8月15號那天。
 
-在ALG的MITQ先輸給了Momo然後連殺三個藍黑底的中速，結果關鍵局遇到紅藍Spellementals打錯死去之後，跟[豬鼻子的mtg世界](https://guildmagesforum.tw/authors/cephille/)談起了彩虹小馬卡套裝著[彩虹小馬](https://scryfall.com/card/sos/180/colorstorm-stallion)把對面衝死以及如果MITQ用紅藍快攻拿到資格的話有沒有興趣寫一篇快攻文章的話題。
+在ALG的MITQ先輸給了Momo然後連殺三個藍黑底的中速，結果關鍵局遇到紅藍Spellementals打錯死去之後，跟[豬鼻子的mtg世界](https://guildmagesforum.tw/authors/cephille/)談起了彩虹小馬卡套裝著[彩虹小馬](https://scryfall.com/card/sos/180/colorstorm-stallion)把對面衝死，以及如果MITQ用紅藍快攻拿到資格的話有沒有興趣寫一篇快攻文章的話題。
 當時欣然答應，然後下個禮拜就換打潔斯凱燒了，反正除了[波洛斯護符](https://scryfall.com/card/fdn/721/boros-charm)其他部分都是紅藍嘛……結果關鍵局打輸艾斯波忍者，覺得可能是換套牌浪費了答應寫文章帶來的Bless，趕快再把牌換回來，也就是這樣這篇文章才得以誕生。
 
 ## 現在這個環境玩快攻有什麼原因嗎？
