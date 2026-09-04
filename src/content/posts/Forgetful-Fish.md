@@ -1,12 +1,16 @@
 ---
 title: "魚好大的魚：巨魚丹丹"
+date: "9/4/2026, 3:35:38 PM"
+updated: "2026-09-04 16:00:17"
+preview: true
+categories:
+  - "Others"
+  - "Casual"
+authors:
+  - "MiohitoKiri5474"
 cover: "https://cloudflare.edhrec.com/articles/wp-content/uploads/2026/03/Featured-Image-Dandan-Deck-Out-Today.jpg"
 thumbnail: "https://cloudflare.edhrec.com/articles/wp-content/uploads/2026/03/Featured-Image-Dandan-Deck-Out-Today.jpg"
 excerpt: "我要把你的丹丹康回牌庫頂，下回合再抽起來"
-authors:
-  - "MiohitoKiri5474"
-date: "2026-03-30 13:31:53"
-updated: "2026-03-31 13:38:05"
 ---
 
 好久不見！我是猴王，今天想要跟大家分享一個賽制：巨魚丹丹。
@@ -30,12 +34,13 @@ updated: "2026-03-31 13:38:05"
 
 最近終於組完了，也找朋友稍微玩了一下覺得挺有趣，因此想要分享給大家。
 
+
 ## 巨魚丹丹基本介紹
 
 首先先介紹一下 `巨魚丹丹 Forgetful Fish`，這是是一個休閒賽制，核心生物是 {% mtglink "Dandân" %}，與其他賽制不同，雙方玩家共用同一個純藍套牌以及墳場。
 這個賽制是由 Nick Floyd 於 1997 年創造的，不過直到 2023 年被 Rhystic Studies 介紹後才廣為人知。加上還有最近鬧得沸沸揚揚的 SLD，讓這個賽制得到更進一步的推廣。
 
-<iframe style="margin-top:2rem;margin-bottom:2rem;margin-left:auto;margin-right:auto;height:450px;width:900px;aspect-ratio:auto;" src="https://www.youtube.com/embed/Otdgj8fBQxc?si=x29_faesj8l1VKme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Otdgj8fBQxc?si=x29_faesj8l1VKme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 `巨魚丹丹` 的套牌組成基本上由 10 張 {% mtglink "Dandân" %} 和 8 張 {% mtglink "Memory Lapse" %} 組成，也是名字 `Forgetful Fist` 的由來，加上許多藍色瞬間咒語，旨在利用牌庫頂、堆疊和 {% mtglink "Dandân" %} 擊敗對手。
 
@@ -88,6 +93,7 @@ updated: "2026-03-31 13:38:05"
 
 也因此最初我找到一個玩家自己調整的牌表，以為那是原始版本，便按照那個版本開始去收牌了。等到下單完才發現有幾張牌跟我印象中的不一樣，後來又加點了另一單，最終收到 7X 張牌。
 
+
 ## 牌庫頂的戰爭
 
 在 `巨魚丹丹` 這個賽制中，我覺得最重要的就是操控好牌庫頂的那張牌。
@@ -99,6 +105,7 @@ updated: "2026-03-31 13:38:05"
 {% mtgcard "Predict" "C18" %}
 
 像是我與朋友的對局中，就發生我用 {% mtglink "Memory Lapse" %} 將他的 {% mtglink "Dandân" %} 康回牌庫頂後想用 {% mtglink "Predict" %} 賺兩張牌，但被搶先循環掉 {% mtglink "Lonely Sandbar" %} 破壞牌庫頂，讓我少抽一張牌的情況。
+
 
 ## 『你現在沒操控山脈？那你的丹丹死掉了』
 
@@ -120,6 +127,7 @@ updated: "2026-03-31 13:38:05"
 
 原本以為可以用 {% mtglink "Vision Charm" %} 將基本地都改為對應的類別來避免 {% mtglink "Dandân" %} 被犧牲，但後來想了下無論是回應 {% mtglink "Mind Bend" %} 丟 {% mtglink "Vision Charm" %} 或是在 {% mtglink "Mind Bend" %} 結算後丟 {% mtglink "Vision Charm" %}，中間都會有一個時間點，在這個時候 {% mtglink "Dandân" %} 會不符合生存條件而被犧牲。
 但換句話說，也可以用 {% mtglink "Vision Charm" %} 當作一費掃場，將場上的 {% mtglink "Dandân" %} 通通一掃而盡。
+
 
 ## 結語
 
