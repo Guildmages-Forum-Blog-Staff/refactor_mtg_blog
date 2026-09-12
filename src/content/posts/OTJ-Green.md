@@ -1,5 +1,5 @@
 ---
-title: "光雷驛鏢客（MKM）限制賽介紹 — 綠色"
+title: "光雷驛鏢客（OTJ）限制賽介紹 — 綠色"
 date: "2024-04-12 11:07:09"
 cover: "https://media.wizards.com/2024/images/daily/360a981abf.jpg"
 thumbnail: "https://media.wizards.com/2024/images/daily/360a981abf.jpg"
