@@ -1,6 +1,7 @@
 ---
-title: "現實碎片機制解析"
+title: "現實裂界機制解析"
 date: "9/14/2026, 1:38:52 PM"
+updated: "2026-09-20 20:45:40"
 preview: false
 categories:
   - "Limited"
@@ -9,14 +10,14 @@ authors:
   - "JruMTG"
 cover: "https://i.meee.com.tw/zSrSbdF.png"
 thumbnail: "https://i.meee.com.tw/zSrSbdF.png"
-excerpt: "來看看現實碎片中出現了哪些機制吧！"
+excerpt: "來看看現實裂界中出現了哪些機制吧！"
 ---
 
 ## 聚能傑斯（Empower Jace）
 
 ![Jace](https://i.meee.com.tw/Xl6etoK.png)
 
-聚能傑斯後便皆有一個數字N。聚能傑斯N的執行規則如下：
+聚能傑斯N的執行規則如下：
 
 **首先檢查你是否有操縱傑斯鵬洛客衍生物，若你未操控，則先派出一個忠誠為0的藍色傑斯鵬洛客衍生物，他具有兩個忠誠異能：「−1：刺探1」、「−3：抽一張牌」。之後在一個由你操控的傑斯鵬洛客衍生物上，放置N個忠誠指示物。**
 
