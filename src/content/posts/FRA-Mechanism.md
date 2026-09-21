@@ -1,7 +1,7 @@
 ---
-title: "現實裂界機制解析"
+title: "現實碎片機制解析"
 date: "9/14/2026, 1:38:52 PM"
-updated: "2026-09-20 20:45:40"
+updated: "2026-09-21 08:41:20"
 preview: false
 categories:
   - "Limited"
@@ -10,7 +10,7 @@ authors:
   - "JruMTG"
 cover: "https://i.meee.com.tw/zSrSbdF.png"
 thumbnail: "https://i.meee.com.tw/zSrSbdF.png"
-excerpt: "來看看現實裂界中出現了哪些機制吧！"
+excerpt: "來看看現實碎片中出現了哪些機制吧！"
 ---
 
 ## 聚能傑斯（Empower Jace）
