@@ -2,10 +2,11 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Navbar from '../../components/Navbar.astro';
-import { CATEGORY_TREE } from '../../config/category-tree';
+import { buildCategoryTree } from '../../utils/categories';
 import { excludePreviewPosts } from '../../utils/posts';
 
 const posts = excludePreviewPosts(await getCollection('posts'));
+const categoryTree = buildCategoryTree(posts.map((p) => p.data.categories));
 
 const countMap = new Map<string, number>();
 for (const post of posts) {
@@ -31,7 +32,7 @@ function count(name: string) {
 
       <ul class="flex flex-col gap-1">
         {
-          CATEGORY_TREE.map((node) => (
+          categoryTree.map((node) => (
             <li>
               {node.children && node.children.length > 0 ? (
                 <details class="group" open>
