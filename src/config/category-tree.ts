@@ -3,35 +3,14 @@ export interface CategoryNode {
   children?: string[];
 }
 
+// Top-level categories in display order. Sub-categories are derived from post
+// frontmatter (see buildCategoryTree); list children here only to pin their order.
 export const CATEGORY_TREE: CategoryNode[] = [
-  { name: 'Beginner', children: ['Level One'] },
+  { name: 'Beginner' },
   { name: 'Construct', children: ['Standard', 'Modern', 'Pioneer', 'Legacy'] },
   { name: 'Deep Dive' },
-  {
-    name: 'Limited',
-    children: [
-      'BLB',
-      'Cube',
-      'DFT',
-      'DSK',
-      'ECL',
-      'EOE',
-      'FDN',
-      'FIN',
-      'FRA',
-      'HOB',
-      'LCI',
-      'MKM',
-      'MSH',
-      'OTJ',
-      'SOS',
-      'SPM',
-      'TDM',
-      'TLA',
-      'WOE',
-    ],
-  },
+  { name: 'Limited' },
   { name: 'MTG Rules' },
-  { name: 'Others', children: ['Card Lore', 'Interview', 'MTG Anecdote', 'Playing Skills'] },
-  { name: 'Tournaments', children: ['MIT', 'Overseas'] },
+  { name: 'Others' },
+  { name: 'Tournaments' },
 ];

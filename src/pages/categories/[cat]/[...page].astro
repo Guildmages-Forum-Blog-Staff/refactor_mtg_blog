@@ -60,48 +60,50 @@ const catBase = `${import.meta.env.BASE_URL}categories/${cat}`;
 >
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">
-    <div class="mb-10">
-      <a
-        href={`${import.meta.env.BASE_URL}categories`}
-        class="hover:text-primary text-sm text-gray-500 transition-colors"
-      >
-        ← All Categories
-      </a>
-      <h1 class="dark:text-dark-fg mt-2 text-2xl font-bold text-gray-900">{cat}</h1>
-      <p class="dark:text-dark-fg/50 mt-1 text-sm text-gray-400">{page.total} 篇文章</p>
-    </div>
+    <div class="dark:bg-dark-bg/80 rounded-2xl bg-white/80 p-6 backdrop-blur-sm">
+      <div class="mb-10">
+        <a
+          href={`${import.meta.env.BASE_URL}categories`}
+          class="hover:text-primary text-sm text-gray-500 transition-colors"
+        >
+          ← All Categories
+        </a>
+        <h1 class="dark:text-dark-fg mt-2 text-2xl font-bold text-gray-900">{cat}</h1>
+        <p class="dark:text-dark-fg/50 mt-1 text-sm text-gray-400">{page.total} 篇文章</p>
+      </div>
 
-    <div class="flex flex-col gap-10">
-      {
-        years.map((year) => (
-          <section>
-            <h2 class="dark:text-dark-fg/60 mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700">
-              {year}
-            </h2>
-            <ul class="flex flex-col gap-4">
-              {byYear[year].map((post) => {
-                const slug = postSlug(post.id);
-                return (
-                  <li class="flex items-baseline justify-between gap-4">
-                    <a
-                      href={`${import.meta.env.BASE_URL}${slug}`}
-                      class="hover:text-primary dark:text-dark-fg flex-1 text-base font-medium text-gray-900 transition-colors"
-                    >
-                      {post.data.title}
-                    </a>
-                    <time class="dark:text-dark-fg/50 shrink-0 text-sm text-gray-400">
-                      {post.data.date.toLocaleDateString('zh-TW', {
-                        month: '2-digit',
-                        day: '2-digit',
-                      })}
-                    </time>
-                  </li>
-                );
-              })}
-            </ul>
-          </section>
-        ))
-      }
+      <div class="flex flex-col gap-10">
+        {
+          years.map((year) => (
+            <section>
+              <h2 class="dark:text-dark-fg/60 mb-4 border-b border-gray-200 pb-2 text-lg font-bold text-gray-500 dark:border-gray-700">
+                {year}
+              </h2>
+              <ul class="flex flex-col gap-4">
+                {byYear[year].map((post) => {
+                  const slug = postSlug(post.id);
+                  return (
+                    <li class="flex items-baseline justify-between gap-4">
+                      <a
+                        href={`${import.meta.env.BASE_URL}${slug}`}
+                        class="hover:text-primary dark:text-dark-fg flex-1 text-base font-medium text-gray-900 transition-colors"
+                      >
+                        {post.data.title}
+                      </a>
+                      <time class="dark:text-dark-fg/50 shrink-0 text-sm text-gray-400">
+                        {post.data.date.toLocaleDateString('zh-TW', {
+                          month: '2-digit',
+                          day: '2-digit',
+                        })}
+                      </time>
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
+          ))
+        }
+      </div>
     </div>
 
     {

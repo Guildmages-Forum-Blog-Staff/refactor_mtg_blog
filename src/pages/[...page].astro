@@ -4,7 +4,7 @@ import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navbar from '../components/Navbar.astro';
 import { getPostAuthors, type AuthorData } from '../utils/authors';
-import { buildCategoryBreadcrumbs } from '../utils/categories';
+import { buildCategoryBreadcrumbs, buildCategoryTree } from '../utils/categories';
 import type { PaginatedPostsProps } from '../utils/pagination';
 import { excludePreviewPosts, postSlug, sortByDateDesc } from '../utils/posts';
 
@@ -17,6 +17,9 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 }
 
 const { page } = Astro.props as PaginatedPostsProps;
+const categoryTree = buildCategoryTree(
+  (await getCollection('posts')).map((p) => p.data.categories),
+);
 
 const postsWithAuthors = await Promise.all(
   page.data.map(async (post: CollectionEntry<'posts'>) => ({
@@ -102,14 +105,16 @@ const isFirstPage = page.currentPage === 1;
               <div class="p-5">
                 <div class="mb-2 flex flex-wrap items-center justify-between gap-2">
                   <div class="flex flex-wrap gap-2">
-                    {buildCategoryBreadcrumbs(post.data.categories).map(({ label, cat }) => (
-                      <a
-                        href={`${import.meta.env.BASE_URL}categories/${encodeURIComponent(cat)}/`}
-                        class="bg-primary/10 text-primary hover:bg-primary/20 rounded-full px-3 py-1 text-xs font-medium transition-colors"
-                      >
-                        {label}
-                      </a>
-                    ))}
+                    {buildCategoryBreadcrumbs(post.data.categories, categoryTree).map(
+                      ({ label, cat }) => (
+                        <a
+                          href={`${import.meta.env.BASE_URL}categories/${encodeURIComponent(cat)}/`}
+                          class="bg-primary/10 text-primary hover:bg-primary/20 rounded-full px-3 py-1 text-xs font-medium transition-colors"
+                        >
+                          {label}
+                        </a>
+                      ),
+                    )}
                   </div>
                   <time class="shrink-0 text-xs text-gray-400 dark:text-gray-500">
                     {post.data.date.toLocaleDateString('zh-TW')}
