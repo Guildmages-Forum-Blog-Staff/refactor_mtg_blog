@@ -1,57 +1,67 @@
-import { CATEGORY_TREE, type CategoryNode } from '../config/category-tree';
+export interface CategoryNode {
+  name: string;
+  children?: string[];
+}
 
 export interface CategoryCrumb {
   label: string;
   cat: string;
 }
 
-/**
- * Merges CATEGORY_TREE with categories found in posts. A non-top-level category
- * becomes a child of the top-level category it is listed with most often
- * (cross-listed posts like `Tournaments, Standard` don't move `Standard`).
- * Categories never listed with a top-level one are appended as top-level nodes.
- */
-export function buildCategoryTree(
-  categoryLists: string[][],
-  config: CategoryNode[] = CATEGORY_TREE,
-): CategoryNode[] {
-  const topLevel = new Set(config.map((n) => n.name));
-  const parentCounts = new Map<string, Map<string, number>>();
-  const seen = new Set<string>();
+const bump = <K>(map: Map<K, number>, key: K) => map.set(key, (map.get(key) ?? 0) + 1);
 
+/**
+ * Builds the category tree from post frontmatter (Hexo convention: the first
+ * category is the parent, the rest are its children). A category is top-level
+ * when it is listed first at least as often as it is listed after another one,
+ * so strays like `categories: [Standard]` don't promote `Standard`. Each child
+ * goes under the top-level category it is listed with most often, so cross-listed
+ * posts like `Tournaments, Standard` don't move it. Top-level nodes are sorted by
+ * name, children by post count then name.
+ */
+export function buildCategoryTree(categoryLists: string[][]): CategoryNode[] {
+  const firstCounts = new Map<string, number>();
+  const restCounts = new Map<string, number>();
+  for (const [first, ...rest] of categoryLists) {
+    if (first) bump(firstCounts, first);
+    for (const cat of rest) bump(restCounts, cat);
+  }
+
+  const topLevel = [...firstCounts.keys()]
+    .filter((cat) => firstCounts.get(cat)! >= (restCounts.get(cat) ?? 0))
+    .sort();
+  const isTop = new Set(topLevel);
+
+  const postCounts = new Map<string, number>();
+  const parentCounts = new Map<string, Map<string, number>>();
   for (const cats of categoryLists) {
-    const parents = cats.filter((c) => topLevel.has(c));
+    const parents = cats.filter((c) => isTop.has(c));
     for (const cat of cats) {
-      if (topLevel.has(cat)) continue;
-      seen.add(cat);
+      if (isTop.has(cat)) continue;
+      bump(postCounts, cat);
       const counts = parentCounts.get(cat) ?? new Map<string, number>();
-      for (const p of parents) counts.set(p, (counts.get(p) ?? 0) + 1);
+      parents.forEach((p) => bump(counts, p));
       parentCounts.set(cat, counts);
     }
   }
 
-  const pinned = new Set(config.flatMap((n) => n.children ?? []));
-  const derived = new Map<string, string[]>();
+  const byCount = (a: string, b: string) =>
+    postCounts.get(b)! - postCounts.get(a)! || a.localeCompare(b);
+  const children = new Map<string, string[]>();
   const orphans: string[] = [];
-  for (const cat of [...seen].sort()) {
-    if (pinned.has(cat)) continue;
+  for (const cat of [...postCounts.keys()].sort(byCount)) {
     let parent: string | undefined;
     let best = 0;
-    for (const node of config) {
-      const n = parentCounts.get(cat)?.get(node.name) ?? 0;
-      if (n > best) [parent, best] = [node.name, n];
+    for (const [p, n] of parentCounts.get(cat)!) {
+      if (n > best || (n === best && parent !== undefined && p < parent)) [parent, best] = [p, n];
     }
-    if (parent) derived.set(parent, [...(derived.get(parent) ?? []), cat]);
+    if (parent) children.set(parent, [...(children.get(parent) ?? []), cat]);
     else orphans.push(cat);
   }
 
-  return [
-    ...config.map((node) => {
-      const children = [...(node.children ?? []), ...(derived.get(node.name) ?? [])];
-      return children.length > 0 ? { name: node.name, children } : { name: node.name };
-    }),
-    ...orphans.map((name) => ({ name })),
-  ];
+  return [...topLevel, ...orphans].map((name) =>
+    children.has(name) ? { name, children: children.get(name) } : { name },
+  );
 }
 
 export function buildCategoryBreadcrumbs(

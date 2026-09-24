@@ -1,51 +1,50 @@
 import { describe, it, expect } from 'vitest';
 import { buildCategoryTree, buildCategoryBreadcrumbs } from '../categories';
 
-const config = [
-  { name: 'Construct', children: ['Standard'] },
-  { name: 'Limited' },
-  { name: 'Tournaments' },
-];
-
 describe('buildCategoryTree', () => {
-  it('derives children from posts, sorted, after pinned ones', () => {
-    const tree = buildCategoryTree(
-      [
-        ['Limited', 'MSH'],
-        ['Limited', 'FRA'],
-        ['Construct', 'Modern'],
-      ],
-      config,
-    );
-    expect(tree).toEqual([
-      { name: 'Construct', children: ['Standard', 'Modern'] },
-      { name: 'Limited', children: ['FRA', 'MSH'] },
-      { name: 'Tournaments' },
+  it('uses first-listed categories as top level, sorted by name', () => {
+    const tree = buildCategoryTree([['Tournaments'], ['Limited', 'FRA'], ['Beginner']]);
+    expect(tree.map((n) => n.name)).toEqual(['Beginner', 'Limited', 'Tournaments']);
+  });
+
+  it('sorts children by post count, then name', () => {
+    const tree = buildCategoryTree([
+      ['Construct', 'Modern'],
+      ['Construct', 'Standard'],
+      ['Construct', 'Standard'],
+      ['Construct', 'Legacy'],
     ]);
+    expect(tree).toEqual([{ name: 'Construct', children: ['Standard', 'Legacy', 'Modern'] }]);
   });
 
   it('assigns a cross-listed child to its most frequent parent', () => {
-    const tree = buildCategoryTree(
-      [
-        ['Limited', 'Cube'],
-        ['Limited', 'Cube'],
-        ['Tournaments', 'Cube'],
-      ],
-      config,
-    );
-    expect(tree.find((n) => n.name === 'Limited')?.children).toEqual(['Cube']);
-    expect(tree.find((n) => n.name === 'Tournaments')?.children).toBeUndefined();
+    const tree = buildCategoryTree([
+      ['Limited', 'Cube'],
+      ['Limited', 'Cube'],
+      ['Tournaments', 'Cube'],
+    ]);
+    expect(tree).toEqual([{ name: 'Limited', children: ['Cube'] }, { name: 'Tournaments' }]);
   });
 
-  it('appends categories with no top-level parent as top-level nodes', () => {
-    const tree = buildCategoryTree([['GMF Staff']], config);
-    expect(tree.at(-1)).toEqual({ name: 'GMF Staff' });
+  it('keeps a category nested when it is mostly listed as a child', () => {
+    const tree = buildCategoryTree([
+      ['Construct', 'Standard'],
+      ['Construct', 'Standard'],
+      ['Standard'],
+      ['Beginner'],
+      ['Construct', 'Beginner'],
+    ]);
+    expect(tree).toEqual([{ name: 'Beginner' }, { name: 'Construct', children: ['Standard'] }]);
+  });
+
+  it('treats categories only ever listed alone as top level', () => {
+    expect(buildCategoryTree([['GMF Staff']])).toEqual([{ name: 'GMF Staff' }]);
   });
 });
 
 describe('buildCategoryBreadcrumbs', () => {
   it('collapses parent + child into one crumb', () => {
-    const tree = buildCategoryTree([['Limited', 'MSH']], config);
+    const tree = buildCategoryTree([['Limited', 'MSH']]);
     expect(buildCategoryBreadcrumbs(['Limited', 'MSH'], tree)).toEqual([
       { label: 'Limited > MSH', cat: 'MSH' },
     ]);
