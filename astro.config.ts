@@ -11,6 +11,7 @@ import { remarkMtgTags } from './src/plugins/remark-mtg-tags';
 import { remarkMtgMerge } from './src/plugins/remark-mtg-merge';
 import { remarkBasePath } from './src/plugins/remark-base-path';
 import { remarkNotel } from './src/plugins/remark-notel';
+import { remarkFolding } from './src/plugins/remark-folding';
 import { rehypePangu } from './src/plugins/rehype-pangu';
 import { externalLinksOptions } from './src/plugins/external-links';
 import { getPreviewSlugs } from './src/utils/sitemap-filter';
@@ -89,6 +90,7 @@ export const search = async () => ({ results: [] });`;
       remarkMtgTags,
       [remarkMtgMerge, { base: BASE }],
       remarkNotel,
+      remarkFolding,
     ],
     rehypePlugins: [rehypePangu, [rehypeExternalLinks, externalLinksOptions]],
     shikiConfig: {
