@@ -89,7 +89,11 @@ function parseDocument(doc: string, ctx: Ctx, reportScan: boolean): Root {
   let replaced = '';
   let last = 0;
   scan.blocks.forEach((block, index) => {
-    replaced += doc.slice(last, block.open.start) + marker.open + index + marker.close;
+    // Keep the tag's own `{` and `}` around the placeholder: the parser decides
+    // whether `*`, `_` and `~` next to a block open or close by looking at
+    // these neighbours, and private-use characters count as neither
+    // punctuation nor whitespace.
+    replaced += `${doc.slice(last, block.open.start)}{${marker.open}${index}${marker.close}}`;
     last = block.closeEnd;
   });
   replaced += doc.slice(last);
@@ -316,7 +320,7 @@ function hasMarker(node: Node, marker: Marker): boolean {
 }
 
 function splitString(value: string, marker: Marker): (string | number)[] {
-  const re = new RegExp(`${marker.open}(\\d+)${marker.close}`, 'g');
+  const re = new RegExp(`\\{${marker.open}(\\d+)${marker.close}\\}`, 'g');
   const parts: (string | number)[] = [];
   let last = 0;
   for (const match of value.matchAll(re)) {

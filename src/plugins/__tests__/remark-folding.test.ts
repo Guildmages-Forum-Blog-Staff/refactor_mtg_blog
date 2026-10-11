@@ -84,6 +84,18 @@ describe('remarkFolding — placement', () => {
     );
   });
 
+  it('keeps emphasis that ends in punctuation right before a block', async () => {
+    expect(await html('**注意：**{% folding blue :: T %}x{% endfolding %}')).toBe(
+      `<p><strong>注意：</strong></p>\n${OPEN}<p>x</p>${CLOSE}`,
+    );
+  });
+
+  it('keeps emphasis that starts with punctuation right after a block', async () => {
+    expect(await html('{% folding blue :: T %}x{% endfolding %}*（註）*')).toBe(
+      `${OPEN}<p>x</p>${CLOSE}\n<p><em>（註）</em></p>`,
+    );
+  });
+
   it('places a block inside a list item', async () => {
     const out = await html('- item\n  {% folding blue :: T %}\n  - inner\n  {% endfolding %}');
     expect(out).toBe(`<ul>\n<li>item\n${OPEN}<ul>\n<li>inner</li>\n</ul>${CLOSE}\n</li>\n</ul>`);
