@@ -43,7 +43,12 @@ export interface ScanResult {
 const SPACE = '[ \\t\\n\\r\\u00a0]';
 const tagRe = () => new RegExp(`\\{%(-?)${SPACE}*(folding|endfolding)(?=${SPACE}|-?%\\})`, 'y');
 const closeTailRe = () => new RegExp(`${SPACE}*-?%\\}`, 'y');
+const anyTagRe = () => new RegExp(`\\{%-?${SPACE}*(?:folding|endfolding)(?=${SPACE}|-?%\\})`, 'g');
 const FENCE_RE = /^(?:[ \t]*(?:>[ \t]?|[-*+][ \t]+|\d{1,9}[.)][ \t]+))*[ \t]*(`{3,}|~{3,})/;
+const UNCLOSED_FENCE =
+  'unclosed fenced code block runs to the end of the file; folding tags in it are ignored';
+const UNCLOSED_COMMENT =
+  'unclosed HTML comment runs to the end of the file; folding tags in it are ignored';
 
 export function scanFolding(src: string): ScanResult {
   const lineOf = lineLocator(src);
@@ -53,7 +58,7 @@ export function scanFolding(src: string): ScanResult {
   const stack: { open: OpenTag; children: FoldingBlock[] }[] = [];
   const siblings = () => (stack.length > 0 ? stack[stack.length - 1].children : top);
 
-  let fence: { char: string; length: number } | null = null;
+  let fence: { char: string; length: number; start: number; bodyStart: number } | null = null;
   let atLineStart = true;
   let i = 0;
   while (i < src.length) {
@@ -75,7 +80,12 @@ export function scanFolding(src: string): ScanResult {
         continue;
       }
       if (fenceMatch && !(fenceMatch[1][0] === '`' && rest.includes('`'))) {
-        fence = { char: fenceMatch[1][0], length: fenceMatch[1].length };
+        fence = {
+          char: fenceMatch[1][0],
+          length: fenceMatch[1].length,
+          start: i,
+          bodyStart: lineEnd + 1,
+        };
         i = lineEnd + 1;
         continue;
       }
@@ -89,8 +99,14 @@ export function scanFolding(src: string): ScanResult {
       continue;
     }
     if (src.startsWith('<!--', i)) {
-      const end = src.indexOf('-->', i + 4);
-      i = end === -1 ? src.length : end + 3;
+      // Search from `--` itself: `<!-->` and `<!--->` are complete comments.
+      const end = src.indexOf('-->', i + 2);
+      if (end === -1) {
+        if (holdsFoldingTag(src, i + 4)) report(i, UNCLOSED_COMMENT);
+        i = src.length;
+      } else {
+        i = end + 3;
+      }
       continue;
     }
     if (ch === '`') {
@@ -155,6 +171,9 @@ export function scanFolding(src: string): ScanResult {
     i++;
   }
 
+  // The scanner tracks fences more loosely than Markdown (e.g. it does not end
+  // them with their blockquote), so say so when that hides folding tags.
+  if (fence && holdsFoldingTag(src, fence.bodyStart)) report(fence.start, UNCLOSED_FENCE);
   while (stack.length > 0) {
     const frame = stack.pop()!;
     report(frame.open.start, 'unclosed {% folding %}');
@@ -164,6 +183,12 @@ export function scanFolding(src: string): ScanResult {
     .sort((a, b) => a.pos - b.pos)
     .map(({ pos, reason }) => ({ line: lineOf(pos), reason }));
   return { blocks: top, diagnostics };
+}
+
+function holdsFoldingTag(src: string, from: number): boolean {
+  const re = anyTagRe();
+  re.lastIndex = from;
+  return re.test(src);
 }
 
 /** Content text of a block: the trimmed range with common indentation removed. */

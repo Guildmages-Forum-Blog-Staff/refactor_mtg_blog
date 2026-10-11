@@ -239,6 +239,14 @@ describe('remarkFolding — ignored regions and errors', () => {
     }
   });
 
+  it('warns when an unclosed fence hides later folding tags', async () => {
+    const out = await html('> ```\n> code\n\n{% folding blue :: T %}\nx\n{% endfolding %}');
+    expect(out).not.toContain('<details');
+    expect(warnings()).toEqual([
+      '[folding] <input>:1 unclosed fenced code block runs to the end of the file; folding tags in it are ignored',
+    ]);
+  });
+
   it('skips .mdx files', async () => {
     const out = await renderLikeAstro('{% folding :: t %}\nx\n{% endfolding %}', { path: 'a.mdx' });
     expect(out.html).not.toContain('<details');

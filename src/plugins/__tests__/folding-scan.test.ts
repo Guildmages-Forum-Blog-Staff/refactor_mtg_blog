@@ -3,6 +3,10 @@ import { extractContent, scanFolding, type FoldingBlock } from '../folding-scan'
 
 const contents = (src: string) => scanFolding(src).blocks.map((b) => extractContent(src, b));
 const reasons = (src: string) => scanFolding(src).diagnostics;
+const UNCLOSED_FENCE =
+  'unclosed fenced code block runs to the end of the file; folding tags in it are ignored';
+const UNCLOSED_COMMENT =
+  'unclosed HTML comment runs to the end of the file; folding tags in it are ignored';
 
 describe('scanFolding — recognition', () => {
   it('finds a block on its own lines and strips one newline at each end', () => {
@@ -97,8 +101,14 @@ describe('scanFolding — ignored regions', () => {
   it('ignores tags inside HTML comments, to the end of the file when unclosed', () => {
     expect(scanFolding('<!-- {% folding :: t %} -->\n<!-- {% endfolding %}')).toEqual({
       blocks: [],
-      diagnostics: [],
+      diagnostics: [{ line: 2, reason: UNCLOSED_COMMENT }],
     });
+  });
+
+  it('treats <!--> and <!---> as complete comments', () => {
+    expect(contents('a <!--> b\n{% folding :: t %}x{% endfolding %}')).toEqual(['x']);
+    expect(contents('a <!---> b\n{% folding :: t %}x{% endfolding %}')).toEqual(['x']);
+    expect(contents('<!-->\n\n{% folding :: t %}x{% endfolding %}')).toEqual(['x']);
   });
 
   it('still recognises tags inside indented code blocks', () => {
@@ -147,5 +157,24 @@ describe('scanFolding — errors', () => {
     expect(reasons('{% folding :: t\nbody')).toEqual([
       { line: 1, reason: 'unparseable folding tag: missing "%}"' },
     ]);
+  });
+
+  it('reports an unclosed fence that swallows folding tags', () => {
+    const src = 'x\n> ```\n> code\n\n段落\n\n{% folding :: t %}\nbody\n{% endfolding %}';
+    expect(scanFolding(src)).toEqual({
+      blocks: [],
+      diagnostics: [{ line: 2, reason: UNCLOSED_FENCE }],
+    });
+  });
+
+  it('reports an unclosed HTML comment that swallows folding tags', () => {
+    expect(reasons('a <!-- b\n\n{% folding :: t %}x{% endfolding %}')).toEqual([
+      { line: 1, reason: UNCLOSED_COMMENT },
+    ]);
+  });
+
+  it('stays quiet about an unclosed fence or comment without folding tags', () => {
+    expect(reasons('```\ncode {% notel %}')).toEqual([]);
+    expect(reasons('<!-- note {% youtube x %}')).toEqual([]);
   });
 });
