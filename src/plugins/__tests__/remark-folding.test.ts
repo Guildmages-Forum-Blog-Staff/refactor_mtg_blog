@@ -197,6 +197,18 @@ describe('remarkFolding — ignored regions and errors', () => {
     }
   });
 
+  it('finds the body after front matter that repeats it', async () => {
+    const dir = mkdtempSync(join(tmpdir(), 'folding-'));
+    try {
+      const path = join(dir, 'post.md');
+      writeFileSync(path, '---\ntitle: "{% endfolding %}"\n---\n\n{% endfolding %}\n');
+      await renderLikeAstro('{% endfolding %}', { path });
+      expect(warnings()).toEqual([`[folding] ${path}:5 orphan {% endfolding %}`]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
   it('skips .mdx files', async () => {
     const out = await renderLikeAstro('{% folding :: t %}\nx\n{% endfolding %}', { path: 'a.mdx' });
     expect(out.html).not.toContain('<details');

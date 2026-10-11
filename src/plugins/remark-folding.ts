@@ -358,13 +358,14 @@ function warn(ctx: Ctx, line: number, reason: string): void {
 /**
  * Astro strips front matter and trims the body before rendering, so body line
  * 1 is not file line 1. Re-read the source to recover the offset; fall back
- * to body-relative lines when the file is unavailable.
+ * to body-relative lines when the file is unavailable. The body is the tail
+ * of the file, so search from the end: front matter may repeat its text.
  */
 function bodyLineOffset(file: VFile, doc: string): number {
   if (!file.path || !doc) return 0;
   try {
     const source = readFileSync(file.path, 'utf-8');
-    const index = source.indexOf(doc);
+    const index = source.lastIndexOf(doc);
     return index <= 0 ? 0 : source.slice(0, index).split('\n').length - 1;
   } catch {
     return 0;
