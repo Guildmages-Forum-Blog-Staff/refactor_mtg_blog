@@ -126,6 +126,23 @@ describe('remarkFolding — placement', () => {
     expect(out).toMatch(/<\/table>\n?<details class="folding folding-blue">/);
   });
 
+  it.each([
+    ['a --- underline', '前文\n\n{% folding blue :: T %}\nx\n{% endfolding %}\n---\n\n後文'],
+    ['an === underline', '{% folding blue :: T %}\nx\n{% endfolding %}\n==='],
+    ['an ATX heading', '# {% folding blue :: T %}x{% endfolding %}'],
+  ])('drops a heading that held nothing but a block (%s)', async (_, md) => {
+    const out = await renderLikeAstro(md);
+    expect(out.html).not.toMatch(/<h[1-6]>/);
+    expect(out.html).toContain(`${OPEN}<p>x</p>${CLOSE}`);
+    expect(out.headings).toEqual([]);
+  });
+
+  it('drops a table row that held nothing but a block', async () => {
+    const out = await html('| a |\n| - |\n| b |\n{% folding blue :: T %}\nx\n{% endfolding %}');
+    expect(out).toContain('<tbody><tr><td>b</td></tr></tbody></table>');
+    expect(out).toMatch(/<\/table>\n?<details class="folding folding-blue">/);
+  });
+
   it('restores the original text where no block can go, and warns', async () => {
     const out = await html('![說明 {% folding blue :: T %}x{% endfolding %}](https://e.x/a.png)');
     expect(out).toContain('alt="說明 {% folding blue :: T %}x{% endfolding %}"');

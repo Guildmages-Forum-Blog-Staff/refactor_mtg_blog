@@ -17,7 +17,7 @@
 
 import { readFileSync } from 'node:fs';
 import { relative } from 'node:path';
-import type { Heading, Paragraph, PhrasingContent, Root, RootContent } from 'mdast';
+import type { Heading, Paragraph, PhrasingContent, Root, RootContent, Table } from 'mdast';
 import type { Processor } from 'unified';
 import type { Node, Parent } from 'unist';
 import { visit } from 'unist-util-visit';
@@ -176,8 +176,22 @@ function placeInFlow(parent: Parent, env: Placement): void {
       out.push(...splitParagraph(child as Paragraph, env));
     } else if (child.type === 'html') {
       out.push(...splitHtml(child as RootContent & { value: string }, env));
-    } else if (child.type === 'heading' || child.type === 'table') {
-      out.push(child, ...pullBlocksOut(child, env));
+    } else if (child.type === 'heading') {
+      const blocks = pullBlocksOut(child, env);
+      // A heading that held nothing but blocks (e.g. a block line read as
+      // setext text) would leave an empty <hN> and an empty TOC entry.
+      if (!isEmptied((child as Heading).children)) out.push(child);
+      out.push(...blocks);
+    } else if (child.type === 'table') {
+      const table = child as Table;
+      const held = new Set(table.children.filter((row) => hasMarker(row, env.marker)));
+      const blocks = pullBlocksOut(table, env);
+      // Same for body rows that held nothing but blocks; the header row stays.
+      table.children = table.children.filter(
+        (row, i) =>
+          i === 0 || !held.has(row) || !row.children.every((cell) => isEmptied(cell.children)),
+      );
+      out.push(table, ...blocks);
     } else if (FLOW_CONTAINERS.has(child.type)) {
       placeInFlow(child as Parent, env);
       out.push(child);
@@ -320,6 +334,11 @@ function trimEdge(nodes: PhrasingContent[], side: 'start' | 'end'): void {
     }
     return;
   }
+}
+
+/** True when only empty literals are left, e.g. after pulling blocks out. */
+function isEmptied(nodes: PhrasingContent[]): boolean {
+  return nodes.every((node) => (node.type === 'text' || node.type === 'html') && node.value === '');
 }
 
 function hasMarker(node: Node, marker: Marker): boolean {
