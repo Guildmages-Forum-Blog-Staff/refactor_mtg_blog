@@ -135,6 +135,19 @@ describe('remarkFolding — placement', () => {
       '[folding] <input>:1 folding block in unsupported position; kept as text',
     ]);
   });
+
+  it.each([
+    '<https://e.x/{% folding blue :: T %}x{% endfolding %}>',
+    'https://e.x/{% folding blue :: T %}x{% endfolding %}',
+  ])('keeps an autolink that swallowed a block as text, warning once: %s', async (md) => {
+    const out = await html(md);
+    expect(out).toContain('>https://e.x/{% folding blue :: T %}x{% endfolding %}</a>');
+    expect(out).not.toContain('<details');
+    expect(out).not.toMatch(PRIVATE_USE);
+    expect(warnings()).toEqual([
+      '[folding] <input>:1 folding block in unsupported position; kept as text',
+    ]);
+  });
 });
 
 describe('remarkFolding — ignored regions and errors', () => {

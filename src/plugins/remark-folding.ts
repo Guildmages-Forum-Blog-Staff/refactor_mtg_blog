@@ -99,16 +99,21 @@ function parseDocument(doc: string, ctx: Ctx, reportScan: boolean): Root {
   replaced += doc.slice(last);
 
   const tree = ctx.parse(replaced, ctx.file);
+  const unsupported = new Set<number>();
   placeInFlow(tree, {
     marker,
     blocks: scan.blocks.map((block) => buildFolding(doc, block, ctx)),
     raws: scan.blocks.map((block) => doc.slice(block.open.start, block.closeEnd)),
-    onUnsupported: (index) =>
+    onUnsupported: (index) => {
+      // One placeholder can sit in several fields (an autolink's url and text).
+      if (unsupported.has(index)) return;
+      unsupported.add(index);
       warn(
         ctx,
         scan.blocks[index].open.line,
         'folding block in unsupported position; kept as text',
-      ),
+      );
+    },
   });
   return tree;
 }
@@ -215,6 +220,14 @@ function splitPhrasing(children: PhrasingContent[], env: Placement): Piece[] {
         else if (part) pushNode({ ...child, value: part });
       }
     } else if (INLINE_CONTAINERS.has(child.type) && hasMarker(child, env.marker)) {
+      const url = (child as { url?: unknown }).url;
+      if (typeof url === 'string' && url.includes(env.marker.open)) {
+        // An autolink that swallowed a placeholder: its text is the same
+        // placeholder, so the whole link goes back to the original text.
+        restoreRaw(child, env);
+        pushNode(child);
+        continue;
+      }
       restoreFields(child, env);
       const container = child as PhrasingContent & { children: PhrasingContent[] };
       for (const sub of splitPhrasing(container.children, env)) {
