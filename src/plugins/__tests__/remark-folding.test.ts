@@ -84,6 +84,30 @@ describe('remarkFolding — placement', () => {
     );
   });
 
+  it('splits a link that surrounds a block', async () => {
+    const link = (text: string) =>
+      `<a href="https://e.x/" rel="nofollow noopener noreferrer" target="_blank">${text}</a>`;
+    expect(await html('[a {% folding blue :: T %}x{% endfolding %} b](https://e.x/)')).toBe(
+      `<p>${link('a')}</p>\n${OPEN}<p>x</p>${CLOSE}\n<p>${link('b')}</p>`,
+    );
+  });
+
+  it('splits strikethrough that surrounds a block', async () => {
+    expect(await html('~~a {% folding blue :: T %}x{% endfolding %} b~~')).toBe(
+      `<p><del>a</del></p>\n${OPEN}<p>x</p>${CLOSE}\n<p><del>b</del></p>`,
+    );
+  });
+
+  it('handles CRLF line endings, including warning lines', async () => {
+    expect(
+      await html(
+        '前文\r\n\r\n{% folding blue :: T %}\r\n\r\nx\r\n\r\n{% endfolding %}\r\n\r\n後文',
+      ),
+    ).toBe(`<p>前文</p>\n${OPEN}<p>x</p>${CLOSE}\n<p>後文</p>`);
+    await html('x\r\n\r\n{% endfolding %}');
+    expect(warnings()).toEqual(['[folding] <input>:3 orphan {% endfolding %}']);
+  });
+
   it('keeps emphasis that ends in punctuation right before a block', async () => {
     expect(await html('**注意：**{% folding blue :: T %}x{% endfolding %}')).toBe(
       `<p><strong>注意：</strong></p>\n${OPEN}<p>x</p>${CLOSE}`,
