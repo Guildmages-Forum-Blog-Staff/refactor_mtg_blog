@@ -45,8 +45,8 @@ export interface FoldingArgs {
   warnings: string[];
 }
 
-const SEPARATORS = new Set([' ', '\t', '\n', '\r', ' ']);
-const EDGE_SPACE = new Set([...SEPARATORS, '　']);
+const SEPARATORS = new Set([' ', '\t', '\n', '\r', '\u00a0']);
+const EDGE_SPACE = new Set([...SEPARATORS, '\u3000']);
 const QUOTE_OPENERS = new Set([...'()[]{}%*-+~/#,:|.<>=!']);
 const QUOTED_ESCAPES: Record<string, string> = { n: '\n', t: '\t', r: '\r' };
 const NAMED_KEYS = new Set(['title', 'class', 'classes', 'style', 'open']);
@@ -239,7 +239,7 @@ function joinFragments(fragments: Fragment[]): string {
 }
 
 function splitWords(value: string): string[] {
-  return value.split(/[ \t\n\r ]+/).filter(Boolean);
+  return value.split(/[ \t\n\r\u00a0]+/).filter(Boolean);
 }
 
 function trimSeparators(value: string): string {

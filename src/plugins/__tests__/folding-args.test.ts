@@ -22,11 +22,11 @@ describe('lexFoldingArgs', () => {
   });
 
   it('collapses runs of ASCII space, tab, newline, CR and NBSP into one separator', () => {
-    expect(texts(' a \t\r\n  b ')).toEqual(['a', 'b']);
+    expect(texts(' a \t\r\n\u00a0 b ')).toEqual(['a', 'b']);
   });
 
   it('keeps U+3000 inside parameters but trims it at both ends', () => {
-    expect(texts(' 　a　b　 ')).toEqual(['a　b']);
+    expect(texts(' \u3000a\u3000b\u3000 ')).toEqual(['a\u3000b']);
   });
 
   it('opens a quote only at the start of a parameter or after an opener character', () => {
@@ -138,13 +138,13 @@ describe('parseFoldingArgs — legacy syntax', () => {
   });
 
   it('treats U+3000 as content at segment ends and between color words', () => {
-    expect(parse(' blue　:: t ')).toEqual({
+    expect(parse(' blue\u3000:: t ')).toEqual({
       color: 'default',
       title: 't',
       open: false,
-      warnings: ['unknown color: blue　'],
+      warnings: ['unknown color: blue\u3000'],
     });
-    expect(parse(' :: 　標題 ')).toMatchObject({ title: '　標題', warnings: [] });
+    expect(parse(' :: \u3000標題 ')).toMatchObject({ title: '\u3000標題', warnings: [] });
   });
 
   it('does not support open: it is just an unknown color word', () => {

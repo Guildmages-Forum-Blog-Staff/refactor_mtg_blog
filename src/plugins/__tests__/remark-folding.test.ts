@@ -21,7 +21,7 @@ const warnings = () => warn.mock.calls.map((call) => String(call[0]));
 // remark-rehype puts a newline between root-level blocks but not between the
 // children of a custom node; the two are equivalent HTML.
 // Placeholders are private-use characters and must never reach the output.
-const PRIVATE_USE = /[-]/;
+const PRIVATE_USE = /[\uE000-\uF8FF]/;
 const squash = (s: string) => s.replace(/>\n</g, '><');
 
 describe('remarkFolding — output structure', () => {

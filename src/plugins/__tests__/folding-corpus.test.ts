@@ -25,7 +25,7 @@ function loadPost(name: string): Post {
 }
 
 // Placeholders are private-use characters and must never reach the output.
-const PRIVATE_USE = /[-]/;
+const PRIVATE_USE = /[\uE000-\uF8FF]/;
 
 const squash = (html: string) => html.replace(/>\n</g, '><');
 
