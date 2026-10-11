@@ -148,6 +148,34 @@ This is a blue callout.
 {% endnotel %}
 ```
 
+### `{% folding [args] %}...{% endfolding %}`
+
+Collapsible block rendered as a native `<details>`. Supported in `.md` posts (not MDX).
+
+```
+{% folding blue :: Title shown while collapsed %}
+
+Any Markdown, including the other tags on this page.
+
+{% endfolding %}
+```
+
+**Legacy syntax** — `color :: title` (standard) or `color, title` (compatibility form). When `::` is present, commas stay in the title; in the comma form an unquoted title cannot contain an ASCII comma (quote it or use `::`). Segments after the second are dropped with a warning. `:: title` means no color. Legacy blocks always start collapsed.
+
+**Named syntax** — `{% folding title="Title" class="blue" open=true %}`. Keys: `title`; `class` / `classes` / `style` (color words); `open` (`1` / `true` / `yes` / `on`, any case, starts the block expanded). Using any of these keys switches to named mode. If `title` is empty, the remaining positional words become the title.
+
+Valid colors: `yellow`, `blue`, `green`, `red`, `orange`, `pink`, `cyan`, `white`, `black`, `gray`, `purple`. Without a color the block uses the default look (same as `gray`). Unknown words are ignored with a warning; with several colors the later one in this list wins.
+
+**Quotes and backslashes** — only ASCII `"` is a quote, and only at the start of a parameter (`他說"好"` keeps its quotes). Inside quotes, `::`, `,`, `=`, spaces and `%}` are literal; `\n` / `\t` / `\r` become newline / tab / CR and any other `\x` becomes `x`. Outside quotes, backslashes are literal. `'` and curly quotes are plain text. A full-width space (U+3000) is part of a word.
+
+**Title** — output as raw HTML: no Markdown, no escaping. CJK↔ASCII spacing still applies.
+
+**Where tags work** — anywhere in the post text, including mid-line, inside lists and blockquotes, and nested. Tags inside fenced code, inline code and HTML comments are ignored. The content is rendered as its own Markdown document, so every other tag works inside it.
+
+**Table of contents** — headings inside a block keep their heading look but are left out of the TOC.
+
+**Errors** — unclosed or orphan tags, a quote that never closes, and `{%-` tags stay in the page as text and are reported via `console.warn` as `[folding] <file>:<line> <reason>`; the build still succeeds.
+
 ---
 
 ## Routing
