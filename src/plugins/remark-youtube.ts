@@ -34,11 +34,18 @@ const rewriteIframes = (node: Html): Html[] | undefined => {
   return value === node.value ? undefined : [{ type: 'html', value }];
 };
 
-// Wrap leftover inline nodes in a paragraph, or drop them if only whitespace remains.
-const paragraphOf = (children: PhrasingContent[]): Paragraph[] =>
-  children.some((c) => c.type !== 'text' || c.value.trim())
-    ? [{ type: 'paragraph', children }]
-    : [];
+// remark-breaks turns the newline next to a tag into a `break` node; such nodes and
+// whitespace-only text at the split edges would otherwise leave `<p><br></p>` behind.
+const isBlank = (c: PhrasingContent): boolean =>
+  c.type === 'break' || (c.type === 'text' && !c.value.trim());
+
+// Wrap leftover inline nodes in a paragraph, dropping blank nodes at either edge.
+const paragraphOf = (children: PhrasingContent[]): Paragraph[] => {
+  const start = children.findIndex((c) => !isBlank(c));
+  if (start === -1) return [];
+  const end = children.findLastIndex((c) => !isBlank(c));
+  return [{ type: 'paragraph', children: children.slice(start, end + 1) }];
+};
 
 // Split the paragraph around the first tag so surrounding content survives; the
 // embed is block-level HTML and cannot live inside a <p>. The tag may share a

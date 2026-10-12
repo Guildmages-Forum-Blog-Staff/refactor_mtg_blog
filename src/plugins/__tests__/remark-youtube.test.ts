@@ -1,5 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { remark } from 'remark';
+import remarkBreaks from 'remark-breaks';
 import { remarkYoutube } from '../remark-youtube';
 
 const process = (markdown: string) => remark().use(remarkYoutube).process(markdown);
@@ -162,5 +163,15 @@ describe('remarkYoutube', () => {
   it('handles two tags in one paragraph', async () => {
     const html = String(await process('{%youtube first %}\n{%youtube second %}'));
     expect(html.match(/youtube-embed/g)).toHaveLength(2);
+  });
+
+  it('leaves no empty paragraph between back-to-back tags under remark-breaks', async () => {
+    const file = await remark()
+      .use(remarkBreaks)
+      .use(remarkYoutube)
+      .process('{%youtube first %}\n{%youtube second %}');
+    const html = String(file);
+    expect(html.match(/youtube-embed/g)).toHaveLength(2);
+    expect(html.replace(/<div[^]*?<\/div>/g, '').trim()).toBe('');
   });
 });
