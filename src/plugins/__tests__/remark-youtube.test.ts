@@ -181,4 +181,18 @@ describe('remarkYoutube', () => {
     const html = String(await process(input));
     expect(html).toContain('src="https://www.youtube.com/embed/abc123?start=1#t=5"');
   });
+
+  it('keeps an author-written iframe title', async () => {
+    const input =
+      '<iframe src="https://www.youtube.com/embed/abc123" title="Match 1 vs Azula"></iframe>';
+    const html = String(await process(input));
+    expect(html).toContain('title="Match 1 vs Azula"');
+    expect(html).not.toContain('title="YouTube video player"');
+  });
+
+  it('escapes double quotes in a single-quoted title', async () => {
+    const input = `<iframe src='https://www.youtube.com/embed/abc123' title='say "hi"'></iframe>`;
+    const html = String(await process(input));
+    expect(html).toContain('title="say &quot;hi&quot;"');
+  });
 });

@@ -21,16 +21,30 @@ const embedQuery = (rawQuery = ''): string => {
   return query ? `?${query}` : '';
 };
 
-const embed = (videoId: string, host = 'youtube.com', query = '', fragment = ''): string =>
-  `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.${host}/embed/${videoId}${query}${fragment}" title="YouTube video player" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
+const DEFAULT_TITLE = 'YouTube video player';
+
+// Reuse an author-written title for accessibility; it is re-emitted in double quotes.
+const titleOf = (iframe: string): string => {
+  const match = iframe.match(/\stitle=(["'])(.*?)\1/);
+  return match ? match[2].replaceAll('"', '&quot;') : DEFAULT_TITLE;
+};
+
+const embed = (
+  videoId: string,
+  host = 'youtube.com',
+  query = '',
+  fragment = '',
+  title = DEFAULT_TITLE,
+): string =>
+  `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.${host}/embed/${videoId}${query}${fragment}" title="${title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
 
 // An HTML block runs to the next blank line and may hold several iframes plus
 // other content, so rewrite each YouTube iframe in place and keep the rest.
 const rewriteIframes = (node: Html): Html[] | undefined => {
   const value = node.value.replace(
     iframeRe(),
-    (_iframe, _quote, host: string, videoId: string, query?: string, fragment?: string) =>
-      embed(videoId, host, embedQuery(query), fragment),
+    (iframe: string, _quote, host: string, videoId: string, query?: string, fragment?: string) =>
+      embed(videoId, host, embedQuery(query), fragment, titleOf(iframe)),
   );
   return value === node.value ? undefined : [{ type: 'html', value }];
 };
