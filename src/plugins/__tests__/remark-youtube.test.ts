@@ -103,4 +103,11 @@ describe('remarkYoutube', () => {
     const html = String(await process("<iframe src='https://youtube.com/embed/abc123'></iframe>"));
     expect(html).toContain('src="https://www.youtube.com/embed/abc123"');
   });
+
+  it('rewrites the iframe even when text follows it without a blank line', async () => {
+    const input = '<iframe src="https://www.youtube.com/embed/abc123"></iframe>\ncaption text';
+    const html = String(await process(input));
+    expect(html).toContain('youtube-embed');
+    expect(html).toContain('caption text');
+  });
 });

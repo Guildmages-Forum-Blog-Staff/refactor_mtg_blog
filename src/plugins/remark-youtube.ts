@@ -3,7 +3,7 @@ import type { Root, Paragraph, Parent, Html } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 const IFRAME_RE =
-  /^<iframe\b[^>]*\bsrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>$/;
+  /^<iframe\b[^>]*\bsrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/;
 
 // remark-smartypants turns `--` inside video IDs into an em dash before plugins run.
 const EM_DASH = String.fromCharCode(0x2014);
@@ -25,8 +25,12 @@ export function remarkYoutube() {
   return (tree: Root) => {
     visit(tree, 'html', (node: Html, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
-      const match = node.value.trim().match(IFRAME_RE);
-      if (match) parent.children[index] = embed(match[3], match[2], embedQuery(match[4]));
+      // An HTML block runs to the next blank line, so keep anything after the iframe.
+      const value = node.value.trimStart();
+      const match = value.match(IFRAME_RE);
+      if (!match) return;
+      const { value: player } = embed(match[3], match[2], embedQuery(match[4]));
+      parent.children[index] = { type: 'html', value: player + value.slice(match[0].length) };
     });
 
     visit(
