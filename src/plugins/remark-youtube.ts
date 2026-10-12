@@ -4,7 +4,13 @@ import type { Root, Paragraph, Html, PhrasingContent, Text } from 'mdast';
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 // Factory, per repo convention, so a /g regex never carries a stale lastIndex.
 const iframeRe = (): RegExp =>
-  /<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"'#]*))?(#[^"']*)?\1[^>]*>\s*<\/iframe>/g;
+  /<iframe\b[^>]*\ssrc=(?<q>["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"'#]*))?(#[^"']*)?\k<q>[^>]*>\s*<\/iframe>/g;
+
+// The quote is a named group so the backreference survives being embedded below.
+// A <p> around the iframe would end up wrapping the block-level embed <div>, which
+// browsers split into stray empty paragraphs, so unwrap it first.
+const pWrappedIframeRe = (): RegExp =>
+  new RegExp(`<p\\b[^>]*>\\s*(${iframeRe().source})\\s*<\\/p>`, 'g');
 
 // remark-smartypants turns `--` inside video IDs into an em dash (default) or
 // en dash (`dashes: 'oldschool'`) before plugins run.
@@ -41,11 +47,13 @@ const embed = (
 // An HTML block runs to the next blank line and may hold several iframes plus
 // other content, so rewrite each YouTube iframe in place and keep the rest.
 const rewriteIframes = (node: Html): Html[] | undefined => {
-  const value = node.value.replace(
-    iframeRe(),
-    (iframe: string, _quote, host: string, videoId: string, query?: string, fragment?: string) =>
-      embed(videoId, host, embedQuery(query), fragment, titleOf(iframe)),
-  );
+  const value = node.value
+    .replace(pWrappedIframeRe(), '$1')
+    .replace(
+      iframeRe(),
+      (iframe: string, _quote, host: string, videoId: string, query?: string, fragment?: string) =>
+        embed(videoId, host, embedQuery(query), fragment, titleOf(iframe)),
+    );
   return value === node.value ? undefined : [{ type: 'html', value }];
 };
 

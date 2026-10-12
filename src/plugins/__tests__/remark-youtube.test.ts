@@ -195,4 +195,12 @@ describe('remarkYoutube', () => {
     const html = String(await process(input));
     expect(html).toContain('title="say &quot;hi&quot;"');
   });
+
+  it('drops a <p> wrapped around a pasted iframe so the embed is not nested in <p>', async () => {
+    const input = '<p><iframe src="https://www.youtube.com/embed/abc123"></iframe></p>';
+    const html = String(await process(input));
+    expect(html).toContain('youtube-embed');
+    expect(html).not.toContain('<p>');
+    expect(html).not.toContain('</p>');
+  });
 });
