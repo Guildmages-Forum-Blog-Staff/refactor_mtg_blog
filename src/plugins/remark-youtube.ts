@@ -2,8 +2,9 @@ import { visit } from 'unist-util-visit';
 import type { Root, Paragraph, Parent, Html } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
+// Only used with String.replace, which resets lastIndex, so a module-level /g is safe.
 const IFRAME_RE =
-  /^<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/;
+  /<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/g;
 
 // remark-smartypants turns `--` inside video IDs into an em dash (default) or
 // en dash (`dashes: 'oldschool'`) before plugins run.
@@ -29,12 +30,14 @@ export function remarkYoutube() {
   return (tree: Root) => {
     visit(tree, 'html', (node: Html, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
-      // An HTML block runs to the next blank line, so keep anything after the iframe.
-      const value = node.value.trimStart();
-      const match = value.match(IFRAME_RE);
-      if (!match) return;
-      const { value: player } = embed(match[3], match[2], embedQuery(match[4]));
-      parent.children[index] = { type: 'html', value: player + value.slice(match[0].length) };
+      // An HTML block runs to the next blank line and may hold several iframes plus
+      // other content, so rewrite each YouTube iframe in place and keep the rest.
+      const value = node.value.replace(
+        IFRAME_RE,
+        (_iframe, _quote, host: string, videoId: string, query?: string) =>
+          embed(videoId, host, embedQuery(query)).value,
+      );
+      if (value !== node.value) parent.children[index] = { type: 'html', value };
     });
 
     visit(

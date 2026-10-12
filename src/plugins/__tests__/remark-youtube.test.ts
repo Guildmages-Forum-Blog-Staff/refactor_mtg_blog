@@ -129,4 +129,12 @@ describe('remarkYoutube', () => {
     expect(html).not.toContain('youtube-embed');
     expect(html).toContain(input);
   });
+
+  it('rewrites every YouTube iframe in one HTML block', async () => {
+    const input =
+      '<iframe src="https://www.youtube.com/embed/first"></iframe>\n<iframe src="https://www.youtube.com/embed/second"></iframe>';
+    const html = String(await process(input));
+    expect(html.match(/youtube-embed/g)).toHaveLength(2);
+    expect(html).toContain('embed/second"');
+  });
 });
