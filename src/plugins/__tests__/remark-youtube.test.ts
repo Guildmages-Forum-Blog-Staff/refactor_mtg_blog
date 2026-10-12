@@ -98,4 +98,9 @@ describe('remarkYoutube', () => {
     const html = String(await process(input));
     expect(html).toContain('src="https://www.youtube.com/embed/abc123?start=134"');
   });
+
+  it('accepts single-quoted src and hosts without www.', async () => {
+    const html = String(await process("<iframe src='https://youtube.com/embed/abc123'></iframe>"));
+    expect(html).toContain('src="https://www.youtube.com/embed/abc123"');
+  });
 });

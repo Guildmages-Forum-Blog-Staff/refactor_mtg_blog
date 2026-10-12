@@ -3,7 +3,7 @@ import type { Root, Paragraph, Parent, Html } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 const IFRAME_RE =
-  /^<iframe\b[^>]*\bsrc="https:\/\/www\.(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"]*))?"[^>]*>\s*<\/iframe>$/;
+  /^<iframe\b[^>]*\bsrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>$/;
 
 // remark-smartypants turns `--` inside video IDs into an em dash before plugins run.
 const EM_DASH = String.fromCharCode(0x2014);
@@ -26,7 +26,7 @@ export function remarkYoutube() {
     visit(tree, 'html', (node: Html, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
       const match = node.value.trim().match(IFRAME_RE);
-      if (match) parent.children[index] = embed(match[2], match[1], embedQuery(match[3]));
+      if (match) parent.children[index] = embed(match[3], match[2], embedQuery(match[4]));
     });
 
     visit(
