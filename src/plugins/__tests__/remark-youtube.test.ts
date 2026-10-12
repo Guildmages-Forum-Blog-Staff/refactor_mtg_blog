@@ -174,4 +174,11 @@ describe('remarkYoutube', () => {
     expect(html.match(/youtube-embed/g)).toHaveLength(2);
     expect(html.replace(/<div[^]*?<\/div>/g, '').trim()).toBe('');
   });
+
+  it('keeps a #fragment out of the query string', async () => {
+    const input =
+      '<iframe src="https://www.youtube.com/embed/abc123?si=x&amp;start=1#t=5"></iframe>';
+    const html = String(await process(input));
+    expect(html).toContain('src="https://www.youtube.com/embed/abc123?start=1#t=5"');
+  });
 });

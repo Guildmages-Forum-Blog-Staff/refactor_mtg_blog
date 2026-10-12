@@ -4,7 +4,7 @@ import type { Root, Paragraph, Html, PhrasingContent, Text } from 'mdast';
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 // Factory, per repo convention, so a /g regex never carries a stale lastIndex.
 const iframeRe = (): RegExp =>
-  /<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/g;
+  /<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"'#]*))?(#[^"']*)?\1[^>]*>\s*<\/iframe>/g;
 
 // remark-smartypants turns `--` inside video IDs into an em dash (default) or
 // en dash (`dashes: 'oldschool'`) before plugins run.
@@ -21,16 +21,16 @@ const embedQuery = (rawQuery = ''): string => {
   return query ? `?${query}` : '';
 };
 
-const embed = (videoId: string, host = 'youtube.com', query = ''): string =>
-  `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.${host}/embed/${videoId}${query}" title="YouTube video player" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
+const embed = (videoId: string, host = 'youtube.com', query = '', fragment = ''): string =>
+  `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.${host}/embed/${videoId}${query}${fragment}" title="YouTube video player" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
 
 // An HTML block runs to the next blank line and may hold several iframes plus
 // other content, so rewrite each YouTube iframe in place and keep the rest.
 const rewriteIframes = (node: Html): Html[] | undefined => {
   const value = node.value.replace(
     iframeRe(),
-    (_iframe, _quote, host: string, videoId: string, query?: string) =>
-      embed(videoId, host, embedQuery(query)),
+    (_iframe, _quote, host: string, videoId: string, query?: string, fragment?: string) =>
+      embed(videoId, host, embedQuery(query), fragment),
   );
   return value === node.value ? undefined : [{ type: 'html', value }];
 };
