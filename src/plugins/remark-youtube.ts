@@ -1,8 +1,23 @@
 import { visit } from 'unist-util-visit';
-import type { Root, Paragraph, Parent } from 'mdast';
+import type { Root, Paragraph, Parent, Html } from 'mdast';
+
+// Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
+const IFRAME_RE =
+  /^<iframe\b[^>]*\bsrc="https:\/\/www\.youtube(?:-nocookie)?\.com\/embed\/([A-Za-z0-9_-]+)[^"]*"[^>]*>\s*<\/iframe>$/;
+
+const embed = (videoId: string): Html => ({
+  type: 'html',
+  value: `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`,
+});
 
 export function remarkYoutube() {
   return (tree: Root) => {
+    visit(tree, 'html', (node: Html, index: number | undefined, parent: Parent | undefined) => {
+      if (index === undefined || !parent) return;
+      const match = node.value.trim().match(IFRAME_RE);
+      if (match) parent.children[index] = embed(match[1]);
+    });
+
     visit(
       tree,
       'paragraph',
@@ -17,11 +32,7 @@ export function remarkYoutube() {
         const match = text.match(/\{%\s*youtube\s+([A-Za-z0-9_-]+)\s*%\}/);
         if (!match) return;
 
-        const videoId = match[1];
-        parent.children[index] = {
-          type: 'html',
-          value: `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`,
-        };
+        parent.children[index] = embed(match[1]);
       },
     );
   };

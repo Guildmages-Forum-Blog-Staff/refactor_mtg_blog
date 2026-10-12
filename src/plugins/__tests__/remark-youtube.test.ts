@@ -52,4 +52,20 @@ describe('remarkYoutube', () => {
     expect(html).toContain('aspect-video');
     expect(html).toContain('<div');
   });
+
+  it('rewrites pasted YouTube share-embed iframe into responsive embed', async () => {
+    const input =
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/Otdgj8fBQxc?si=x29_faesj8l1VKme" title="YouTube video player" frameborder="0" allowfullscreen></iframe>';
+    const file = await process(input);
+    const html = String(file);
+    expect(html).toContain('youtube-embed');
+    expect(html).toContain('https://www.youtube.com/embed/Otdgj8fBQxc"');
+    expect(html).not.toContain('width="560"');
+  });
+
+  it('leaves non-YouTube iframes unchanged', async () => {
+    const input = '<iframe src="https://example.com/embed/abc"></iframe>';
+    const file = await process(input);
+    expect(String(file)).not.toContain('youtube-embed');
+  });
 });
