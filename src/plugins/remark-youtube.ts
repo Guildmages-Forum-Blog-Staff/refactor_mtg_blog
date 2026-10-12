@@ -1,4 +1,4 @@
-import { visit } from 'unist-util-visit';
+import { SKIP, visit } from 'unist-util-visit';
 import type { Root, Paragraph, Html, PhrasingContent, Text } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
@@ -80,8 +80,9 @@ export function remarkYoutube() {
         node.type === 'html' ? rewriteIframes(node as Html) : splitTag(node as Paragraph);
       if (!replacement) return;
       parent.children.splice(index, 1, ...replacement);
-      // Resume right after the embed so a later tag in the trailing paragraph is found.
-      return index + replacement.findIndex((n) => n.type === 'html') + 1;
+      // Skip the detached node's children and resume right after the embed, so a
+      // later tag in the trailing paragraph is still found.
+      return [SKIP, index + replacement.findIndex((n) => n.type === 'html') + 1];
     });
   };
 }
