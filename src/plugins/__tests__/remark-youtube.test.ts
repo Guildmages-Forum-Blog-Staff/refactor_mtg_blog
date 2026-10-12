@@ -77,4 +77,11 @@ describe('remarkYoutube', () => {
     const file = await process(input);
     expect(String(file)).toContain('https://www.youtube.com/embed/01yY--aNLao"');
   });
+
+  it('gives the embed an accessible title and lazy loading', async () => {
+    const html = String(await process('{%youtube someVideoId %}'));
+    expect(html).toContain('title="YouTube video player"');
+    expect(html).toContain('loading="lazy"');
+    expect(html).toContain('referrerpolicy="strict-origin-when-cross-origin"');
+  });
 });

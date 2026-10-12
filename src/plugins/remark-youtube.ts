@@ -10,7 +10,7 @@ const EM_DASH = String.fromCharCode(0x2014);
 
 const embed = (videoId: string): Html => ({
   type: 'html',
-  value: `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`,
+  value: `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.youtube.com/embed/${videoId}" title="YouTube video player" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`,
 });
 
 export function remarkYoutube() {
