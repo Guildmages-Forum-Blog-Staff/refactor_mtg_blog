@@ -5,8 +5,12 @@ import type { Root, Paragraph, Parent, Html } from 'mdast';
 const IFRAME_RE =
   /^<iframe\b[^>]*\bsrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/;
 
-// remark-smartypants turns `--` inside video IDs into an em dash before plugins run.
-const EM_DASH = String.fromCharCode(0x2014);
+// remark-smartypants turns `--` inside video IDs into an em dash (default) or
+// en dash (`dashes: 'oldschool'`) before plugins run.
+const SMART_DASH_RE = new RegExp(
+  `[${String.fromCharCode(0x2013)}${String.fromCharCode(0x2014)}]`,
+  'g',
+);
 
 // Keep embed options (start, list, ...) but drop YouTube's `si` share-tracking param.
 const embedQuery = (rawQuery = ''): string => {
@@ -43,7 +47,7 @@ export function remarkYoutube() {
         const firstChild = node.children[0];
         if (firstChild.type !== 'text') return;
 
-        const text = firstChild.value.trim().replaceAll(EM_DASH, '--');
+        const text = firstChild.value.trim().replace(SMART_DASH_RE, '--');
         const match = text.match(/\{%\s*youtube\s+([A-Za-z0-9_-]+)\s*%\}/);
         if (!match) return;
 

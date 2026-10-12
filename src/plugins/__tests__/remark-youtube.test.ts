@@ -110,4 +110,10 @@ describe('remarkYoutube', () => {
     expect(html).toContain('youtube-embed');
     expect(html).toContain('caption text');
   });
+
+  it('restores "--" in video ID when smartypants used an en dash (oldschool mode)', async () => {
+    const EN_DASH = String.fromCharCode(0x2013);
+    const html = String(await process(`{%youtube 01yY${EN_DASH}aNLao %}`));
+    expect(html).toContain('https://www.youtube.com/embed/01yY--aNLao"');
+  });
 });
