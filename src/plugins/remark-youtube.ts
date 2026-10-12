@@ -3,14 +3,22 @@ import type { Root, Paragraph, Parent, Html } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 const IFRAME_RE =
-  /^<iframe\b[^>]*\bsrc="https:\/\/www\.(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)[^"]*"[^>]*>\s*<\/iframe>$/;
+  /^<iframe\b[^>]*\bsrc="https:\/\/www\.(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"]*))?"[^>]*>\s*<\/iframe>$/;
 
 // remark-smartypants turns `--` inside video IDs into an em dash before plugins run.
 const EM_DASH = String.fromCharCode(0x2014);
 
-const embed = (videoId: string, host = 'youtube.com'): Html => ({
+// Keep embed options (start, list, ...) but drop YouTube's `si` share-tracking param.
+const embedQuery = (rawQuery = ''): string => {
+  const params = new URLSearchParams(rawQuery.replaceAll('&amp;', '&'));
+  params.delete('si');
+  const query = params.toString().replaceAll('&', '&amp;');
+  return query ? `?${query}` : '';
+};
+
+const embed = (videoId: string, host = 'youtube.com', query = ''): Html => ({
   type: 'html',
-  value: `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.${host}/embed/${videoId}" title="YouTube video player" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`,
+  value: `<div class="youtube-embed aspect-video my-6"><iframe class="w-full h-full" src="https://www.${host}/embed/${videoId}${query}" title="YouTube video player" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`,
 });
 
 export function remarkYoutube() {
@@ -18,7 +26,7 @@ export function remarkYoutube() {
     visit(tree, 'html', (node: Html, index: number | undefined, parent: Parent | undefined) => {
       if (index === undefined || !parent) return;
       const match = node.value.trim().match(IFRAME_RE);
-      if (match) parent.children[index] = embed(match[2], match[1]);
+      if (match) parent.children[index] = embed(match[2], match[1], embedQuery(match[3]));
     });
 
     visit(

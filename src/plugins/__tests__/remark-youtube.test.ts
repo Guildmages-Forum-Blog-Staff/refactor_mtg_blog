@@ -91,4 +91,11 @@ describe('remarkYoutube', () => {
     expect(html).toContain('youtube-embed');
     expect(html).toContain('src="https://www.youtube-nocookie.com/embed/abc123"');
   });
+
+  it('keeps embed options like start time but drops the si tracking param', async () => {
+    const input =
+      '<iframe src="https://www.youtube.com/embed/abc123?si=xyz&amp;start=134"></iframe>';
+    const html = String(await process(input));
+    expect(html).toContain('src="https://www.youtube.com/embed/abc123?start=134"');
+  });
 });
