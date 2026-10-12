@@ -137,4 +137,17 @@ describe('remarkYoutube', () => {
     expect(html.match(/youtube-embed/g)).toHaveLength(2);
     expect(html).toContain('embed/second"');
   });
+
+  it('keeps text around a {% youtube %} tag', async () => {
+    const html = String(await process('看這裡 {% youtube abc123 %}\n影片說明'));
+    expect(html).toContain('youtube-embed');
+    expect(html).toContain('看這裡');
+    expect(html).toContain('影片說明');
+  });
+
+  it('only restores dashes inside the tag, not in surrounding text', async () => {
+    const EM_DASH = String.fromCharCode(0x2014);
+    const html = String(await process(`A${EM_DASH}B {% youtube abc123 %}`));
+    expect(html).toContain(`A${EM_DASH}B`);
+  });
 });

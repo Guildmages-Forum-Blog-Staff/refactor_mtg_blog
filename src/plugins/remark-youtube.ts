@@ -8,10 +8,9 @@ const IFRAME_RE =
 
 // remark-smartypants turns `--` inside video IDs into an em dash (default) or
 // en dash (`dashes: 'oldschool'`) before plugins run.
-const SMART_DASH_RE = new RegExp(
-  `[${String.fromCharCode(0x2013)}${String.fromCharCode(0x2014)}]`,
-  'g',
-);
+const SMART_DASHES = `${String.fromCharCode(0x2013)}${String.fromCharCode(0x2014)}`;
+const SMART_DASH_RE = new RegExp(`[${SMART_DASHES}]`, 'g');
+const TAG_RE = new RegExp(`\\{%\\s*youtube\\s+([A-Za-z0-9_${SMART_DASHES}-]+)\\s*%\\}`);
 
 // Keep embed options (start, list, ...) but drop YouTube's `si` share-tracking param.
 const embedQuery = (rawQuery = ''): string => {
@@ -50,11 +49,23 @@ export function remarkYoutube() {
         const firstChild = node.children[0];
         if (firstChild.type !== 'text') return;
 
-        const text = firstChild.value.trim().replace(SMART_DASH_RE, '--');
-        const match = text.match(/\{%\s*youtube\s+([A-Za-z0-9_-]+)\s*%\}/);
-        if (!match) return;
+        const text = firstChild.value;
+        const match = text.match(TAG_RE);
+        if (!match || match.index === undefined) return;
 
-        parent.children[index] = embed(match[1]);
+        // Split the paragraph around the tag so surrounding text survives; the
+        // embed is block-level HTML and cannot live inside a <p>.
+        const textParagraph = (value: string): Paragraph[] =>
+          value.trim()
+            ? [{ type: 'paragraph', children: [{ type: 'text', value: value.trim() }] }]
+            : [];
+        const replacement = [
+          ...textParagraph(text.slice(0, match.index)),
+          embed(match[1].replace(SMART_DASH_RE, '--')),
+          ...textParagraph(text.slice(match.index + match[0].length)),
+        ];
+        parent.children.splice(index, 1, ...replacement);
+        return index + replacement.length;
       },
     );
   };
