@@ -3,7 +3,7 @@ import type { Root, Paragraph, Parent, Html } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 const IFRAME_RE =
-  /^<iframe\b[^>]*\bsrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/;
+  /^<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/;
 
 // remark-smartypants turns `--` inside video IDs into an em dash (default) or
 // en dash (`dashes: 'oldschool'`) before plugins run.

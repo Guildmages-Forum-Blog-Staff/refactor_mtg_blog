@@ -121,4 +121,12 @@ describe('remarkYoutube', () => {
     const html = String(await process('{%youtube someVideoId %}'));
     expect(html).toContain('picture-in-picture; web-share"');
   });
+
+  it('ignores data-src so lazy-load snippets are left alone', async () => {
+    const input =
+      '<iframe data-src="https://www.youtube.com/embed/abc123" src="about:blank"></iframe>';
+    const html = String(await process(input));
+    expect(html).not.toContain('youtube-embed');
+    expect(html).toContain(input);
+  });
 });
