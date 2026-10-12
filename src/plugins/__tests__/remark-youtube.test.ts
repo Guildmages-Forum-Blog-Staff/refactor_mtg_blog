@@ -66,7 +66,9 @@ describe('remarkYoutube', () => {
   it('leaves non-YouTube iframes unchanged', async () => {
     const input = '<iframe src="https://example.com/embed/abc"></iframe>';
     const file = await process(input);
-    expect(String(file)).not.toContain('youtube-embed');
+    const html = String(file);
+    expect(html).not.toContain('youtube-embed');
+    expect(html).toContain(input);
   });
 
   it('restores "--" in video ID after smartypants turned it into an em dash', async () => {
