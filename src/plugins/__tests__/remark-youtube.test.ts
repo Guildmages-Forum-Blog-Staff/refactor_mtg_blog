@@ -84,4 +84,11 @@ describe('remarkYoutube', () => {
     expect(html).toContain('loading="lazy"');
     expect(html).toContain('referrerpolicy="strict-origin-when-cross-origin"');
   });
+
+  it('keeps the privacy-enhanced youtube-nocookie.com host', async () => {
+    const input = '<iframe src="https://www.youtube-nocookie.com/embed/abc123"></iframe>';
+    const html = String(await process(input));
+    expect(html).toContain('youtube-embed');
+    expect(html).toContain('src="https://www.youtube-nocookie.com/embed/abc123"');
+  });
 });
