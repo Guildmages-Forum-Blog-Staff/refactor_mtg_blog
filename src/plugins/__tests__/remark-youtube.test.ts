@@ -68,4 +68,11 @@ describe('remarkYoutube', () => {
     const file = await process(input);
     expect(String(file)).not.toContain('youtube-embed');
   });
+
+  it('restores "--" in video ID after smartypants turned it into an em dash', async () => {
+    const EM_DASH = String.fromCharCode(0x2014);
+    const input = `{%youtube 01yY${EM_DASH}aNLao %}`;
+    const file = await process(input);
+    expect(String(file)).toContain('https://www.youtube.com/embed/01yY--aNLao"');
+  });
 });
