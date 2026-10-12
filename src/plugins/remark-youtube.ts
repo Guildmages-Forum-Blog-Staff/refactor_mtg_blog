@@ -1,5 +1,5 @@
 import { visit } from 'unist-util-visit';
-import type { Root, Paragraph, Html } from 'mdast';
+import type { Root, Paragraph, Html, PhrasingContent, Text } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
 // Only used with String.replace, which resets lastIndex, so a module-level /g is safe.
@@ -34,22 +34,33 @@ const rewriteIframes = (node: Html): Html[] | undefined => {
   return value === node.value ? undefined : [{ type: 'html', value }];
 };
 
-const textParagraph = (value: string): Paragraph[] =>
-  value.trim() ? [{ type: 'paragraph', children: [{ type: 'text', value: value.trim() }] }] : [];
+// Wrap leftover inline nodes in a paragraph, or drop them if only whitespace remains.
+const paragraphOf = (children: PhrasingContent[]): Paragraph[] =>
+  children.some((c) => c.type !== 'text' || c.value.trim())
+    ? [{ type: 'paragraph', children }]
+    : [];
 
-// Split the paragraph around the tag so surrounding text survives; the embed is
-// block-level HTML and cannot live inside a <p>.
+// Split the paragraph around the first tag so surrounding content survives; the
+// embed is block-level HTML and cannot live inside a <p>. The tag may share a
+// paragraph with a link or another tag on an adjacent line.
 const splitTag = (node: Paragraph): (Paragraph | Html)[] | undefined => {
-  const [child] = node.children;
-  if (node.children.length !== 1 || child.type !== 'text') return undefined;
+  const at = node.children.findIndex((c) => c.type === 'text' && TAG_RE.test(c.value));
+  if (at === -1) return undefined;
 
-  const match = child.value.match(TAG_RE);
+  const { value } = node.children[at] as Text;
+  const match = value.match(TAG_RE);
   if (!match || match.index === undefined) return undefined;
 
   return [
-    ...textParagraph(child.value.slice(0, match.index)),
+    ...paragraphOf([
+      ...node.children.slice(0, at),
+      { type: 'text', value: value.slice(0, match.index).trimEnd() },
+    ]),
     { type: 'html', value: embed(match[1].replace(SMART_DASH_RE, '--')) },
-    ...textParagraph(child.value.slice(match.index + match[0].length)),
+    ...paragraphOf([
+      { type: 'text', value: value.slice(match.index + match[0].length).trimStart() },
+      ...node.children.slice(at + 1),
+    ]),
   ];
 };
 
@@ -61,7 +72,8 @@ export function remarkYoutube() {
         node.type === 'html' ? rewriteIframes(node as Html) : splitTag(node as Paragraph);
       if (!replacement) return;
       parent.children.splice(index, 1, ...replacement);
-      return index + replacement.length;
+      // Resume right after the embed so a later tag in the trailing paragraph is found.
+      return index + replacement.findIndex((n) => n.type === 'html') + 1;
     });
   };
 }

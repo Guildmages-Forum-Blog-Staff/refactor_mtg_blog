@@ -29,13 +29,12 @@ describe('remarkYoutube', () => {
     expect(html).toContain('Just a normal paragraph');
   });
 
-  it('leaves paragraphs with multiple children unchanged', async () => {
-    // Inline emphasis forces remark to split the paragraph into 3 children
-    // (text + emphasis + text), so node.children.length !== 1 and the plugin skips it
+  it('embeds a tag in a paragraph with other inline nodes and keeps them', async () => {
+    // Inline emphasis splits the paragraph into text + emphasis + text children
     const input = '{%youtube abc123 %} and *some* extra text';
-    const file = await process(input);
-    const html = String(file);
-    expect(html).not.toContain('youtube-embed');
+    const html = String(await process(input));
+    expect(html).toContain('youtube-embed');
+    expect(html).toContain('and *some* extra text');
   });
 
   it('output includes allowfullscreen attribute', async () => {
@@ -149,5 +148,19 @@ describe('remarkYoutube', () => {
     const EM_DASH = String.fromCharCode(0x2014);
     const html = String(await process(`A${EM_DASH}B {% youtube abc123 %}`));
     expect(html).toContain(`A${EM_DASH}B`);
+  });
+
+  it('finds the tag after a link in the same paragraph', async () => {
+    const html = String(
+      await process('[card](https://cards.scryfall.io/large/x.jpg)\n{%youtube pgx9-6fzMu8 %}'),
+    );
+    expect(html).toContain('embed/pgx9-6fzMu8"');
+    expect(html).toContain('[card](https://cards.scryfall.io/large/x.jpg)');
+    expect(html).not.toContain('{%youtube');
+  });
+
+  it('handles two tags in one paragraph', async () => {
+    const html = String(await process('{%youtube first %}\n{%youtube second %}'));
+    expect(html.match(/youtube-embed/g)).toHaveLength(2);
   });
 });
