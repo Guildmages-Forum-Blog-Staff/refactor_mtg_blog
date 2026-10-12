@@ -2,15 +2,16 @@ import { visit } from 'unist-util-visit';
 import type { Root, Paragraph, Html, PhrasingContent, Text } from 'mdast';
 
 // Raw iframe pasted from YouTube's "Share > Embed" dialog (fixed 560x315).
-// Only used with String.replace, which resets lastIndex, so a module-level /g is safe.
-const IFRAME_RE =
+// Factory, per repo convention, so a /g regex never carries a stale lastIndex.
+const iframeRe = (): RegExp =>
   /<iframe\b[^>]*\ssrc=(["'])https:\/\/(?:www\.)?(youtube(?:-nocookie)?\.com)\/embed\/([A-Za-z0-9_-]+)(?:\?([^"']*))?\1[^>]*>\s*<\/iframe>/g;
 
 // remark-smartypants turns `--` inside video IDs into an em dash (default) or
 // en dash (`dashes: 'oldschool'`) before plugins run.
 const SMART_DASHES = `${String.fromCharCode(0x2013)}${String.fromCharCode(0x2014)}`;
 const SMART_DASH_RE = new RegExp(`[${SMART_DASHES}]`, 'g');
-const TAG_RE = new RegExp(`\\{%\\s*youtube\\s+([A-Za-z0-9_${SMART_DASHES}-]+)\\s*%\\}`);
+const tagRe = (): RegExp =>
+  new RegExp(`\\{%\\s*youtube\\s+([A-Za-z0-9_${SMART_DASHES}-]+)\\s*%\\}`);
 
 // Keep embed options (start, list, ...) but drop YouTube's `si` share-tracking param.
 const embedQuery = (rawQuery = ''): string => {
@@ -27,7 +28,7 @@ const embed = (videoId: string, host = 'youtube.com', query = ''): string =>
 // other content, so rewrite each YouTube iframe in place and keep the rest.
 const rewriteIframes = (node: Html): Html[] | undefined => {
   const value = node.value.replace(
-    IFRAME_RE,
+    iframeRe(),
     (_iframe, _quote, host: string, videoId: string, query?: string) =>
       embed(videoId, host, embedQuery(query)),
   );
@@ -51,11 +52,11 @@ const paragraphOf = (children: PhrasingContent[]): Paragraph[] => {
 // embed is block-level HTML and cannot live inside a <p>. The tag may share a
 // paragraph with a link or another tag on an adjacent line.
 const splitTag = (node: Paragraph): (Paragraph | Html)[] | undefined => {
-  const at = node.children.findIndex((c) => c.type === 'text' && TAG_RE.test(c.value));
+  const at = node.children.findIndex((c) => c.type === 'text' && tagRe().test(c.value));
   if (at === -1) return undefined;
 
   const { value } = node.children[at] as Text;
-  const match = value.match(TAG_RE);
+  const match = value.match(tagRe());
   if (!match || match.index === undefined) return undefined;
 
   return [
