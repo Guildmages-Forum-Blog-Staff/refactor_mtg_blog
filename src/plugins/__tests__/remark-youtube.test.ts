@@ -116,4 +116,9 @@ describe('remarkYoutube', () => {
     const html = String(await process(`{%youtube 01yY${EN_DASH}aNLao %}`));
     expect(html).toContain('https://www.youtube.com/embed/01yY--aNLao"');
   });
+
+  it('allows web-share like the YouTube embed code does', async () => {
+    const html = String(await process('{%youtube someVideoId %}'));
+    expect(html).toContain('picture-in-picture; web-share"');
+  });
 });
