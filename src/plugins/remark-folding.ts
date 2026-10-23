@@ -37,6 +37,8 @@ interface Ctx {
   defs: string;
   /** Shared by every block of one post, so renamed identifiers stay unique. */
   scopes: { count: number };
+  /** Scan diagnostics already printed; block content is scanned again. */
+  reported: Set<string>;
 }
 
 interface Marker {
@@ -77,8 +79,9 @@ export function remarkFolding(this: Processor) {
       lineOffset: bodyLineOffset(file, doc),
       defs: '',
       scopes: { count: 0 },
+      reported: new Set(),
     };
-    return parseDocument(doc, ctx, true);
+    return parseDocument(doc, ctx);
   };
 
   const notel = remarkNotel();
@@ -93,9 +96,16 @@ export function remarkFolding(this: Processor) {
   };
 }
 
-function parseDocument(doc: string, ctx: Ctx, reportScan: boolean): Root {
+function parseDocument(doc: string, ctx: Ctx): Root {
   const scan = scanFolding(doc);
-  if (reportScan) for (const d of scan.diagnostics) warn(ctx, d.line, d.reason);
+  // Block content is rescanned after dedent, which can find problems the
+  // outer scan did not; the ones it did find are printed only once.
+  for (const d of scan.diagnostics) {
+    const key = `${ctx.lineOffset + d.line} ${d.reason}`;
+    if (ctx.reported.has(key)) continue;
+    ctx.reported.add(key);
+    warn(ctx, d.line, d.reason);
+  }
   if (scan.blocks.length === 0) return parseWithDefs(doc, ctx);
 
   const marker = pickMarker(doc + ctx.defs);
@@ -166,11 +176,10 @@ function buildFolding(doc: string, block: FoldingBlock, ctx: Ctx): RootContent {
   const args = parseFoldingArgs(block.open.params);
   for (const warning of args.warnings) warn(ctx, block.open.line, warning);
 
-  const inner = parseDocument(
-    extractContent(doc, block),
-    { ...ctx, lineOffset: ctx.lineOffset + block.contentLine - 1 },
-    false,
-  );
+  const inner = parseDocument(extractContent(doc, block), {
+    ...ctx,
+    lineOffset: ctx.lineOffset + block.contentLine - 1,
+  });
   isolateDefinitions(inner, ctx);
   demoteHeadings(inner);
 

@@ -297,6 +297,13 @@ describe('remarkFolding — placement', () => {
 });
 
 describe('remarkFolding — ignored regions and errors', () => {
+  it('reports a scan problem inside a block once', async () => {
+    await html('{% folding :: T %}\nx\n{%- folding :: U %}\n{% endfolding %}');
+    expect(warnings()).toEqual([
+      '[folding] <input>:3 unparseable folding tag: "{%-" is not supported',
+    ]);
+  });
+
   it('leaves tags in fenced code, inline code and HTML comments alone', async () => {
     const out = await html(
       '```\n{% folding :: t %}\n{% endfolding %}\n```\n\n`{% folding :: t %}`\n\n<!-- {% folding :: t %} -->',
