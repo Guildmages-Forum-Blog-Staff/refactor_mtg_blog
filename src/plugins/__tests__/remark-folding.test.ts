@@ -211,6 +211,20 @@ describe('remarkFolding — placement', () => {
       '[folding] <input>:1 folding block in unsupported position; kept as text',
     ]);
   });
+
+  it.each([
+    ['block', '<img alt="{% folding blue :: T %}x{% endfolding %}" src="x.png">'],
+    ['inline', 'Hi <span title="{% folding blue :: T %}x{% endfolding %}">y</span>'],
+    ['heading', '## A <img alt="{% folding blue :: T %}x{% endfolding %}" src="x.png">'],
+  ])('keeps a block inside an HTML tag (%s) as text, warning once', async (_, md) => {
+    const out = await html(md);
+    expect(out).toContain('"{% folding blue :: T %}x{% endfolding %}"');
+    expect(out).not.toContain('<details');
+    expect(out).not.toMatch(PRIVATE_USE);
+    expect(warnings()).toEqual([
+      '[folding] <input>:1 folding block in unsupported position; kept as text',
+    ]);
+  });
 });
 
 describe('remarkFolding — ignored regions and errors', () => {

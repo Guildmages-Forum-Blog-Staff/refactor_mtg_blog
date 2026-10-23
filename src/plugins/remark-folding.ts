@@ -271,7 +271,11 @@ function splitPhrasing(children: PhrasingContent[], env: Placement): Piece[] {
   };
   for (const child of children) {
     if ((child.type === 'text' || child.type === 'html') && hasMarker(child, env.marker)) {
-      for (const part of splitString(child.value, env.marker)) {
+      const parts =
+        child.type === 'html'
+          ? splitHtmlValue(child.value, env)
+          : splitString(child.value, env.marker);
+      for (const part of parts) {
         if (typeof part === 'number') pieces.push({ kind: 'block', index: part });
         else if (part) pushNode({ ...child, value: part });
       }
@@ -299,7 +303,7 @@ function splitPhrasing(children: PhrasingContent[], env: Placement): Piece[] {
 }
 
 function splitHtml(node: RootContent & { value: string }, env: Placement): Node[] {
-  return splitString(node.value, env.marker).flatMap((part): Node[] => {
+  return splitHtmlValue(node.value, env).flatMap((part): Node[] => {
     if (typeof part === 'number') return [env.blocks[part]];
     return part ? [{ ...node, value: part } as unknown as Node] : [];
   });
@@ -314,8 +318,12 @@ function pullBlocksOut(node: Node, env: Placement): Node[] {
       return;
     }
     const literal = child as Node & { value: string };
+    const parts =
+      child.type === 'html'
+        ? splitHtmlValue(literal.value, env)
+        : splitString(literal.value, env.marker);
     let value = '';
-    for (const part of splitString(literal.value, env.marker)) {
+    for (const part of parts) {
       if (typeof part === 'number') {
         found.push(env.blocks[part]);
         continue;
@@ -399,11 +407,38 @@ function hasMarker(node: Node, marker: Marker): boolean {
   return Array.isArray(children) && children.some((child: Node) => hasMarker(child, marker));
 }
 
+/**
+ * Like splitString, but a placeholder inside an HTML tag (an attribute value)
+ * cannot hold a block: it goes back to its original text, with a warning.
+ */
+function splitHtmlValue(value: string, env: Placement): (string | number)[] {
+  const parts: (string | number)[] = [''];
+  let last = 0;
+  for (const match of value.matchAll(placeholderRe(env.marker))) {
+    const index = Number(match[1]);
+    const before = value.slice(last, match.index);
+    last = match.index + match[0].length;
+    // ponytail: ignores `<` and `>` inside quoted attribute values.
+    if (value.lastIndexOf('<', match.index) > value.lastIndexOf('>', match.index)) {
+      env.onUnsupported(index);
+      parts[parts.length - 1] += before + env.raws[index];
+    } else {
+      parts[parts.length - 1] += before;
+      parts.push(index, '');
+    }
+  }
+  parts[parts.length - 1] += value.slice(last);
+  return parts;
+}
+
+function placeholderRe(marker: Marker): RegExp {
+  return new RegExp(`\\{${marker.open}(\\d+)${marker.close}\\}`, 'g');
+}
+
 function splitString(value: string, marker: Marker): (string | number)[] {
-  const re = new RegExp(`\\{${marker.open}(\\d+)${marker.close}\\}`, 'g');
   const parts: (string | number)[] = [];
   let last = 0;
-  for (const match of value.matchAll(re)) {
+  for (const match of value.matchAll(placeholderRe(marker))) {
     parts.push(value.slice(last, match.index));
     parts.push(Number(match[1]));
     last = match.index + match[0].length;
