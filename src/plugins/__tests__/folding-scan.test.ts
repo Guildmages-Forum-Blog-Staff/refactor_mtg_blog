@@ -25,6 +25,13 @@ describe('scanFolding — recognition', () => {
     expect(contents(src)).toEqual(['- inner\n  deeper\n']);
   });
 
+  it('removes no more indentation than the open tag line has', () => {
+    expect(contents('{% folding :: t %}\n    code\n{% endfolding %}')).toEqual(['    code']);
+    expect(contents('- {% folding :: t %}\n    text\n    {% endfolding %}')).toEqual(['  text\n']);
+    expect(contents('1. {% folding :: t %}\n   text\n   {% endfolding %}')).toEqual(['text\n']);
+    expect(contents('\t{% folding :: t %}\n\t\ttext\n\t{% endfolding %}')).toEqual(['\ttext\n']);
+  });
+
   it('keeps blockquote markers as part of the content', () => {
     const src = '> {% folding :: t %}\n> 文字\n> {% endfolding %}';
     expect(contents(src)).toEqual(['> 文字\n> ']);

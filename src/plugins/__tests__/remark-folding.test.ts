@@ -195,11 +195,15 @@ describe('remarkFolding — placement', () => {
     expect(out).not.toContain('[^1]');
   });
 
-  it('keeps outside definitions out of an unclosed fence in a block', async () => {
-    const out = await html(
-      '{% folding :: T %}\n    ```\n    code\n{% endfolding %}\n\n[r]: https://e.x\n',
-    );
+  it('keeps outside definitions out of an unclosed HTML block in a block', async () => {
+    const out = await html('{% folding :: T %}\n<pre>\nx\n{% endfolding %}\n\n[r]: https://e.x\n');
     expect(out).not.toContain('[r]:');
+  });
+
+  it('keeps an indented code block inside a block', async () => {
+    expect(await html('{% folding blue :: T %}\n    code\n{% endfolding %}')).toBe(
+      `${OPEN}<pre><code>code\n</code></pre>${CLOSE}`,
+    );
   });
 
   it('keeps a --- right under a block as a thematic break', async () => {

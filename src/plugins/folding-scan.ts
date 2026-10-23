@@ -44,6 +44,8 @@ const SPACE = '[ \\t\\n\\r\\u00a0]';
 const tagRe = () => new RegExp(`\\{%(-?)${SPACE}*(folding|endfolding)(?=${SPACE}|-?%\\})`, 'y');
 const closeTailRe = () => new RegExp(`${SPACE}*-?%\\}`, 'y');
 const anyTagRe = () => new RegExp(`\\{%-?${SPACE}*(?:folding|endfolding)(?=${SPACE}|-?%\\})`, 'g');
+// Leading whitespace and an optional list marker, as in FENCE_RE.
+const LINE_PREFIX_RE = /^[ \t]*(?:(?:[-*+]|\d{1,9}[.)])[ \t]+)?/;
 const FENCE_RE = /^(?:[ \t]*(?:>[ \t]?|[-*+][ \t]+|\d{1,9}[.)][ \t]+))*[ \t]*(`{3,}|~{3,})/;
 const UNCLOSED_FENCE =
   'unclosed fenced code block runs to the end of the file; folding tags in it are ignored';
@@ -197,9 +199,16 @@ function holdsFoldingTag(src: string, from: number): boolean {
   return re.test(src);
 }
 
-/** Content text of a block: the trimmed range with common indentation removed. */
+/**
+ * Content text of a block: the trimmed range with common indentation
+ * removed, but never more than the open tag line's own content column. That
+ * strips list-item indentation while keeping indentation that means
+ * something, such as an indented code block.
+ */
 export function extractContent(src: string, block: FoldingBlock): string {
-  return dedent(src.slice(block.contentStart, block.contentEnd));
+  const lineStart = src.lastIndexOf('\n', block.open.start - 1) + 1;
+  const prefix = LINE_PREFIX_RE.exec(src.slice(lineStart, block.open.start))![0];
+  return dedent(src.slice(block.contentStart, block.contentEnd), columns(prefix));
 }
 
 function makeBlock(
@@ -248,7 +257,7 @@ function findClosingBackticks(src: string, from: number, run: number): number {
   return -1;
 }
 
-function dedent(text: string): string {
+function dedent(text: string, maxColumns: number): string {
   const lines = text.split('\n');
   let common: string | null = null;
   for (const line of lines) {
@@ -262,8 +271,16 @@ function dedent(text: string): string {
     while (k < common.length && k < indent.length && common[k] === indent[k]) k++;
     common = common.slice(0, k);
   }
-  const prefix = common ?? '';
+  let prefix = common ?? '';
+  while (columns(prefix) > maxColumns) prefix = prefix.slice(0, -1);
   return lines.map((line) => (line.trim() === '' ? '' : line.slice(prefix.length))).join('\n');
+}
+
+/** Width in columns, with tabs stopping at multiples of 4. */
+function columns(text: string): number {
+  let width = 0;
+  for (const ch of text) width = ch === '\t' ? width + 4 - (width % 4) : width + 1;
+  return width;
 }
 
 function lineLocator(src: string): (pos: number) => number {
