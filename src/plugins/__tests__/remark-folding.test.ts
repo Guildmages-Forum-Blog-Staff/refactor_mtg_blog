@@ -206,6 +206,18 @@ describe('remarkFolding — placement', () => {
     );
   });
 
+  it('keeps a folding example in indented code as text, warning once', async () => {
+    const out = await html(
+      '{% folding blue :: T %}\n    {% folding :: U %}x{% endfolding %}\n{% endfolding %}',
+    );
+    expect(out.match(/<details/g)).toHaveLength(1);
+    expect(out).toContain('<pre><code>{% folding :: U %}x{% endfolding %}\n</code></pre>');
+    expect(out).not.toMatch(PRIVATE_USE);
+    expect(warnings()).toEqual([
+      '[folding] <input>:2 folding block in unsupported position; kept as text',
+    ]);
+  });
+
   it('keeps a --- right under a block as a thematic break', async () => {
     const out = await html('A\n\n{% folding :: T %}\nx\n{% endfolding %}\n---\n\nB');
     expect(out).toMatch(/<\/details>\n?<hr>/);

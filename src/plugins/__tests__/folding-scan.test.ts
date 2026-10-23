@@ -130,6 +130,11 @@ describe('scanFolding — ignored regions', () => {
     expect(scanFolding(`\`\`\`\n${fold}\n    \`\`\`\n${fold}`).blocks).toHaveLength(0);
   });
 
+  it('treats backticks after a list marker and a quote marker as a fence', () => {
+    const src = '- > ```\n  > {% folding :: t %}\n  > {% endfolding %}\n  > ```';
+    expect(scanFolding(src)).toEqual({ blocks: [], diagnostics: [] });
+  });
+
   it('still treats indented backticks inside a list item as a fence', () => {
     const src = '- item\n\n    ```\n  {% folding :: t %}\n  {% endfolding %}\n    ```';
     expect(scanFolding(src)).toEqual({ blocks: [], diagnostics: [] });
