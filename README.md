@@ -162,7 +162,7 @@ Any Markdown, including the other tags on this page.
 
 **Legacy syntax** — `color :: title` (standard) or `color, title` (compatibility form). When `::` is present, commas stay in the title; in the comma form an unquoted title cannot contain an ASCII comma (quote it or use `::`). Segments after the second are dropped with a warning. `:: title` means no color. Legacy blocks always start collapsed.
 
-**Named syntax** — `{% folding title="Title" class="blue" open=true %}`. Keys: `title`; `class` / `classes` / `style` (color words); `open` (`1` / `true` / `yes` / `on`, any case, starts the block expanded). Using any of these keys switches to named mode. If `title` is empty, the remaining positional words become the title.
+**Named syntax** — `{% folding title="Title" class="blue" open=true %}`. Keys: `title`; `class` / `classes` / `style` (color words); `open` (`1` / `true` / `yes` / `on`, any case, starts the block expanded). Using any of these keys switches to named mode, unless the tag also has an unquoted `::`, or a `,` before the first key: then it stays legacy and `key=value` is title text. If `title` is empty, the remaining positional words become the title.
 
 Valid colors: `yellow`, `blue`, `green`, `red`, `orange`, `pink`, `cyan`, `white`, `black`, `gray`, `purple`. Without a color the block uses the default look (same as `gray`). Unknown words are ignored with a warning; with several colors the later one in this list wins.
 

@@ -128,7 +128,7 @@ export function parseFoldingArgs(params: Param[]): FoldingArgs {
   let open = false;
   let emptyTitleReported = false;
 
-  if (named.some((n) => n !== null && NAMED_KEYS.has(n.key))) {
+  if (isNamedMode(params, named)) {
     const values = new Map<string, string>();
     const positional: string[] = [];
     params.forEach((param, i) => {
@@ -166,6 +166,21 @@ export function parseFoldingArgs(params: Param[]): FoldingArgs {
 
   if (title === '' && !emptyTitleReported) warnings.push('empty title');
   return { color: resolveColor(colorWords, warnings), title, open, warnings };
+}
+
+/**
+ * Named mode needs a known key, and no legacy separator around it: an
+ * unquoted `::` anywhere outside key values, or a `,` before the first key.
+ * Otherwise `blue :: set style=foo` would lose its color and title.
+ */
+function isNamedMode(params: Param[], named: ({ key: string } | null)[]): boolean {
+  const first = named.findIndex((n) => n !== null && NAMED_KEYS.has(n.key));
+  if (first === -1) return false;
+  return !params.some((param, i) => {
+    if (named[i]) return false;
+    const unquoted = param.filter((f) => !f.quoted).map((f) => f.text);
+    return unquoted.some((text) => text.includes('::') || (i < first && text.includes(',')));
+  });
 }
 
 function parseLegacy(

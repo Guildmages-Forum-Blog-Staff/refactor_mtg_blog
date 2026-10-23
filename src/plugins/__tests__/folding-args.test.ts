@@ -211,6 +211,20 @@ describe('parseFoldingArgs — named syntax', () => {
     });
   });
 
+  it('stays in legacy mode when a key=value word sits in a legacy title', () => {
+    expect(parse(' blue :: set style=foo ')).toEqual({
+      color: 'blue',
+      title: 'set style=foo',
+      open: false,
+      warnings: [],
+    });
+    expect(parse(' blue, set open=1 ')).toMatchObject({ color: 'blue', title: 'set open=1' });
+  });
+
+  it('keeps named mode when a comma follows the first key', () => {
+    expect(parse(' class=blue 位置, 參數 ')).toMatchObject({ color: 'blue', title: '位置, 參數' });
+  });
+
   it('protects = inside quotes', () => {
     expect(parse(' "title=x" :: y ')).toMatchObject({ color: 'default', title: 'y' });
   });
