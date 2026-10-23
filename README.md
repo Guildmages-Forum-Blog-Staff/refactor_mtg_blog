@@ -170,7 +170,7 @@ Valid colors: `yellow`, `blue`, `green`, `red`, `orange`, `pink`, `cyan`, `white
 
 **Title** — output as raw HTML: no Markdown, no escaping. CJK↔ASCII spacing still applies.
 
-**Where tags work** — anywhere in the post text, including mid-line, inside lists and blockquotes, and nested. A block inside a heading or a table is moved to just after it; a block where no block can go (a link URL, image alt text, an indented code block) stays as text with a warning. Tags inside fenced code, inline code and HTML comments are ignored. The content is rendered as its own Markdown document, so every other tag works inside it. Reference-style links and footnotes do not cross the block boundary: define them inside the block that uses them.
+**Where tags work** — anywhere in the post text, including mid-line, inside lists and blockquotes, and nested. A block inside a heading or a table is moved to just after it; a block where no block can go (a link URL, image alt text, an HTML attribute, an indented code block) stays as text with a warning. Tags inside fenced code, inline code and HTML comments are ignored. The content is rendered as its own Markdown document, so every other tag works inside it; indentation beyond the opening tag's line (e.g. an indented code block) is kept. Reference-style links and footnotes defined outside a block also work inside it; ones defined inside a block stay local to that block.
 
 **Table of contents** — headings inside a block keep their heading look but are left out of the TOC.
 
