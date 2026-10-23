@@ -93,6 +93,11 @@ describe('scanFolding — ignored regions', () => {
     });
   });
 
+  it('does not open a code span at an escaped backtick', () => {
+    expect(contents('a \\` b {% folding :: t %}x{% endfolding %} c ` d')).toEqual(['x']);
+    expect(contents('a \\\\`{% folding :: t %}x{% endfolding %}` d')).toEqual([]);
+  });
+
   it('keeps code spans from crossing a blank line', () => {
     const src = '`open\n\n{% folding :: t %}x{% endfolding %} `';
     expect(contents(src)).toEqual(['x']);

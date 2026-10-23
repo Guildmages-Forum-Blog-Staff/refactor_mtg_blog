@@ -109,6 +109,12 @@ export function scanFolding(src: string): ScanResult {
       }
       continue;
     }
+    // An escaped backtick cannot open a code span. Only `\` and `` ` `` are
+    // skipped here, so `\{%` still starts a tag as before.
+    if (ch === '\\' && (src[i + 1] === '`' || src[i + 1] === '\\')) {
+      i += 2;
+      continue;
+    }
     if (ch === '`') {
       let run = 1;
       while (src[i + run] === '`') run++;
