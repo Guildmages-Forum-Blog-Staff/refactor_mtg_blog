@@ -35,6 +35,8 @@ interface Ctx {
   lineOffset: number;
   /** Raw link and footnote definitions from enclosing documents. */
   defs: string;
+  /** Shared by every block of one post, so renamed identifiers stay unique. */
+  scopes: { count: number };
 }
 
 interface Marker {
@@ -54,6 +56,13 @@ type Piece = { kind: 'nodes'; nodes: PhrasingContent[] } | { kind: 'block'; inde
 const FLOW_CONTAINERS = new Set(['blockquote', 'list', 'listItem', 'footnoteDefinition']);
 const INLINE_CONTAINERS = new Set(['emphasis', 'strong', 'delete', 'link', 'linkReference']);
 const STRING_FIELDS = ['value', 'url', 'alt', 'title'] as const;
+const REFERENCE_SCOPES: Record<string, 'definition' | 'footnoteDefinition' | undefined> = {
+  definition: 'definition',
+  linkReference: 'definition',
+  imageReference: 'definition',
+  footnoteDefinition: 'footnoteDefinition',
+  footnoteReference: 'footnoteDefinition',
+};
 
 export function remarkFolding(this: Processor) {
   const original = this.parser as ParseFn | undefined;
@@ -67,6 +76,7 @@ export function remarkFolding(this: Processor) {
       where: displayPath(file),
       lineOffset: bodyLineOffset(file, doc),
       defs: '',
+      scopes: { count: 0 },
     };
     return parseDocument(doc, ctx, true);
   };
@@ -161,6 +171,7 @@ function buildFolding(doc: string, block: FoldingBlock, ctx: Ctx): RootContent {
     { ...ctx, lineOffset: ctx.lineOffset + block.contentLine - 1 },
     false,
   );
+  isolateDefinitions(inner, ctx);
   demoteHeadings(inner);
 
   const folding = {
@@ -181,6 +192,31 @@ function buildFolding(doc: string, block: FoldingBlock, ctx: Ctx): RootContent {
     ],
   };
   return folding as unknown as RootContent;
+}
+
+/**
+ * Blocks are merged into one tree, where the first definition of an
+ * identifier wins. Give definitions made inside a block a block-unique
+ * identifier, and rename references to them, including those in nested
+ * blocks, which were resolved against copies of these definitions.
+ */
+function isolateDefinitions(tree: Root, ctx: Ctx): void {
+  const local = { definition: new Set<string>(), footnoteDefinition: new Set<string>() };
+  visit(tree as Node, (node) => {
+    if (node.type === 'folding') return SKIP;
+    if (node.type === 'definition' || node.type === 'footnoteDefinition') {
+      local[node.type].add((node as Node & { identifier: string }).identifier);
+    }
+  });
+  if (local.definition.size + local.footnoteDefinition.size === 0) return;
+
+  const suffix = `-folding-${++ctx.scopes.count}`;
+  visit(tree as Node, (node) => {
+    const scope = REFERENCE_SCOPES[node.type];
+    if (!scope) return;
+    const ref = node as Node & { identifier: string };
+    if (local[scope].has(ref.identifier)) ref.identifier += suffix;
+  });
 }
 
 function demoteHeadings(tree: Root): void {

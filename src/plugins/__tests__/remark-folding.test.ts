@@ -145,6 +145,46 @@ describe('remarkFolding — placement', () => {
     expect(await html('## A {% folding blue :: T %}x{% endfolding %} B')).toContain('<h2>A B</h2>');
   });
 
+  it('keeps reference definitions of separate blocks apart', async () => {
+    const out = await html(
+      [
+        '{% folding :: A %}\n[x][ref]\n\n[ref]: https://a.x\n{% endfolding %}',
+        '{% folding :: B %}\n[y][ref]\n\n[ref]: https://b.x\n{% endfolding %}',
+      ].join('\n\n'),
+    );
+    expect(out).toMatch(/<a href="https:\/\/a\.x"[^>]*>x<\/a>/);
+    expect(out).toMatch(/<a href="https:\/\/b\.x"[^>]*>y<\/a>/);
+  });
+
+  it('keeps footnote definitions of separate blocks apart', async () => {
+    const out = await html(
+      [
+        '{% folding :: A %}\na[^1]\n\n[^1]: note A\n{% endfolding %}',
+        '{% folding :: B %}\nb[^1]\n\n[^1]: note B\n{% endfolding %}',
+      ].join('\n\n'),
+    );
+    expect(out).toContain('note A');
+    expect(out).toContain('note B');
+  });
+
+  it('lets a nested block use its parent block definition over the top level', async () => {
+    const out = await html(
+      [
+        '{% folding :: A %}',
+        '{% folding :: B %}\n[x][ref]\n{% endfolding %}',
+        '',
+        '[ref]: https://inner.x',
+        '{% endfolding %}',
+        '',
+        '[z][ref]',
+        '',
+        '[ref]: https://outer.x',
+      ].join('\n'),
+    );
+    expect(out).toMatch(/<a href="https:\/\/inner\.x"[^>]*>x<\/a>/);
+    expect(out).toMatch(/<a href="https:\/\/outer\.x"[^>]*>z<\/a>/);
+  });
+
   it('resolves footnotes and reference links defined outside the block', async () => {
     const out = await html(
       '{% folding :: T %}\nsee[^1] and [x][r]\n{% endfolding %}\n\n[^1]: note\n\n[r]: https://e.x\n',
