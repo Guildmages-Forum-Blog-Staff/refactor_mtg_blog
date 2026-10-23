@@ -145,6 +145,11 @@ describe('remarkFolding — placement', () => {
     expect(await html('## A {% folding blue :: T %}x{% endfolding %} B')).toContain('<h2>A B</h2>');
   });
 
+  it('keeps a --- right under a block as a thematic break', async () => {
+    const out = await html('A\n\n{% folding :: T %}\nx\n{% endfolding %}\n---\n\nB');
+    expect(out).toMatch(/<\/details>\n?<hr>/);
+  });
+
   it('moves a block out of a table to just after it', async () => {
     const out = await html('| a |\n| - |\n| b {% folding blue :: T %}x{% endfolding %} |');
     expect(out).toMatch(/<\/table>\n?<details class="folding folding-blue">/);

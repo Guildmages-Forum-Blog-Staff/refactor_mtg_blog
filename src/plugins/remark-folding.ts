@@ -180,8 +180,16 @@ function placeInFlow(parent: Parent, env: Placement): void {
       const blocks = pullBlocksOut(child, env);
       // A heading that held nothing but blocks (e.g. a block line read as
       // setext text) would leave an empty <hN> and an empty TOC entry.
-      if (!isEmptied((child as Heading).children)) out.push(child);
-      out.push(...blocks);
+      const heading = child as Heading;
+      if (!isEmptied(heading.children)) {
+        out.push(child, ...blocks);
+      } else if (heading.depth === 2 && isSetext(heading)) {
+        // A `---` written under a block line was read as its setext underline;
+        // it was meant as a thematic break.
+        out.push(...blocks, { type: 'thematicBreak' } as Node);
+      } else {
+        out.push(...blocks);
+      }
     } else if (child.type === 'table') {
       const table = child as Table;
       const held = new Set(table.children.filter((row) => hasMarker(row, env.marker)));
@@ -339,6 +347,12 @@ function trimEdge(nodes: PhrasingContent[], side: 'start' | 'end'): void {
 /** True when only empty literals are left, e.g. after pulling blocks out. */
 function isEmptied(nodes: PhrasingContent[]): boolean {
   return nodes.every((node) => (node.type === 'text' || node.type === 'html') && node.value === '');
+}
+
+/** ATX headings are one line; setext headings span text plus underline. */
+function isSetext(heading: Heading): boolean {
+  const { start, end } = heading.position ?? {};
+  return start !== undefined && end !== undefined && end.line > start.line;
 }
 
 function hasMarker(node: Node, marker: Marker): boolean {
