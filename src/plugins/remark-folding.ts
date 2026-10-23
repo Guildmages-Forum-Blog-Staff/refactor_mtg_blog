@@ -30,7 +30,10 @@ interface Ctx {
   parse: ParseFn;
   file: VFile;
   where: string;
+  /** Post-body line of this document's first line, minus one. */
   lineOffset: number;
+  /** File line of the post body's first line, minus one; read only to warn. */
+  bodyOffset: () => number;
   /** Raw link and footnote definitions from enclosing documents. */
   defs: string;
   /** Shared by every block of one post, so renamed identifiers stay unique. */
@@ -70,11 +73,13 @@ export function remarkFolding(this: Processor) {
 
   this.parser = (doc: string, file: VFile) => {
     if (file.path?.endsWith('.mdx')) return original(doc, file);
+    let bodyOffset: number | undefined;
     const ctx: Ctx = {
       parse: original,
       file,
       where: displayPath(file),
-      lineOffset: bodyLineOffset(file, doc),
+      lineOffset: 0,
+      bodyOffset: () => (bodyOffset ??= bodyLineOffset(file, doc)),
       defs: '',
       scopes: { count: 0 },
       reported: new Set(),
@@ -505,7 +510,8 @@ function displayPath(file: VFile): string {
 }
 
 function warn(ctx: Ctx, line: number, reason: string): void {
-  console.warn(`[folding] ${ctx.where}:${ctx.lineOffset + line} ${reason}`);
+  const fileLine = ctx.bodyOffset() + ctx.lineOffset + line;
+  console.warn(`[folding] ${ctx.where}:${fileLine} ${reason}`);
 }
 
 /**
