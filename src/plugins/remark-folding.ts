@@ -20,7 +20,7 @@ import { relative } from 'node:path';
 import type { Heading, Paragraph, PhrasingContent, Root, RootContent, Table } from 'mdast';
 import type { Processor } from 'unified';
 import type { Node, Parent } from 'unist';
-import { visit } from 'unist-util-visit';
+import { SKIP, visit } from 'unist-util-visit';
 import type { VFile } from 'vfile';
 import { parseFoldingArgs } from './folding-args';
 import { extractContent, scanFolding, type FoldingBlock } from './folding-scan';
@@ -313,6 +313,12 @@ function splitHtml(node: RootContent & { value: string }, env: Placement): Node[
 function pullBlocksOut(node: Node, env: Placement): Node[] {
   const found: Node[] = [];
   visit(node, (child) => {
+    const url = (child as { url?: unknown }).url;
+    if (typeof url === 'string' && url.includes(env.marker.open)) {
+      // An autolink that swallowed a placeholder, as in splitPhrasing.
+      restoreRaw(child, env);
+      return SKIP;
+    }
     if (child.type !== 'text' && child.type !== 'html') {
       restoreFields(child, env);
       return;
