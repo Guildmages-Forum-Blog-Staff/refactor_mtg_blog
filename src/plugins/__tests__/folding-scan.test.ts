@@ -123,6 +123,20 @@ describe('scanFolding — ignored regions', () => {
     expect(contents('<!-->\n\n{% folding :: t %}x{% endfolding %}')).toEqual(['x']);
   });
 
+  it('does not treat backticks in indented code as a fence', () => {
+    const fold = '{% folding :: t %}x{% endfolding %}';
+    expect(scanFolding(`    \`\`\`\n\n${fold}`)).toMatchObject({ blocks: [{}], diagnostics: [] });
+    expect(scanFolding(`    \`\`\`\n\n${fold}\n\n    \`\`\``).blocks).toHaveLength(1);
+    expect(scanFolding(`\`\`\`\n${fold}\n    \`\`\`\n${fold}`).blocks).toHaveLength(0);
+  });
+
+  it('still treats indented backticks inside a list item as a fence', () => {
+    const src = '- item\n\n    ```\n  {% folding :: t %}\n  {% endfolding %}\n    ```';
+    expect(scanFolding(src)).toEqual({ blocks: [], diagnostics: [] });
+    const nested = '1. a\n   - b\n\n       ```\n     {% folding :: t %}x{% endfolding %}\n     ```';
+    expect(scanFolding(nested)).toEqual({ blocks: [], diagnostics: [] });
+  });
+
   it('still recognises tags inside indented code blocks', () => {
     expect(contents('    {% folding :: t %}x{% endfolding %}')).toEqual(['x']);
   });

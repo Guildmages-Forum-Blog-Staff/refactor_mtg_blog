@@ -44,9 +44,11 @@ const SPACE = '[ \\t\\n\\r\\u00a0]';
 const tagRe = () => new RegExp(`\\{%(-?)${SPACE}*(folding|endfolding)(?=${SPACE}|-?%\\})`, 'y');
 const closeTailRe = () => new RegExp(`${SPACE}*-?%\\}`, 'y');
 const anyTagRe = () => new RegExp(`\\{%-?${SPACE}*(?:folding|endfolding)(?=${SPACE}|-?%\\})`, 'g');
-// Leading whitespace and an optional list marker, as in FENCE_RE.
+// Leading whitespace and an optional list marker.
 const LINE_PREFIX_RE = /^[ \t]*(?:(?:[-*+]|\d{1,9}[.)])[ \t]+)?/;
-const FENCE_RE = /^(?:[ \t]*(?:>[ \t]?|[-*+][ \t]+|\d{1,9}[.)][ \t]+))*[ \t]*(`{3,}|~{3,})/;
+const QUOTE_RE = /^(?:[ \t]*>[ \t]?)*/;
+const MARKER_RE = /^[ \t]*(?:[-*+]|\d{1,9}[.)])(?:[ \t]+|$)/;
+const FENCE_RE = /^[ \t]*(`{3,}|~{3,})/;
 const UNCLOSED_FENCE =
   'unclosed fenced code block runs to the end of the file; folding tags in it are ignored';
 const UNCLOSED_COMMENT =
@@ -60,18 +62,46 @@ export function scanFolding(src: string): ScanResult {
   const stack: { open: OpenTag; children: FoldingBlock[] }[] = [];
   const siblings = () => (stack.length > 0 ? stack[stack.length - 1].children : top);
 
-  let fence: { char: string; length: number; start: number; bodyStart: number } | null = null;
+  let fence: {
+    char: string;
+    length: number;
+    base: number;
+    start: number;
+    bodyStart: number;
+  } | null = null;
+  // Content columns of the open list items, so a fence is only a fence when
+  // indented at most three columns past its list item (more is indented code).
+  // ponytail: one stack for lists and blockquotes together; a real block
+  // parser if mixed nesting ever matters.
+  const lists: number[] = [];
+  let prevBlank = true;
   let atLineStart = true;
   let i = 0;
   while (i < src.length) {
     if (atLineStart) {
       const lineEnd = src.indexOf('\n', i) === -1 ? src.length : src.indexOf('\n', i);
-      const line = src.slice(i, lineEnd);
-      const fenceMatch = FENCE_RE.exec(line);
-      const rest = fenceMatch ? line.slice(fenceMatch[0].length) : '';
+      const body = src.slice(i, lineEnd).replace(QUOTE_RE, '');
+      const blank = body.trim() === '';
+      const firstColumn = columns(/^[ \t]*/.exec(body)![0]);
+      // List markers on this line, each opening an item at its content column.
+      const items: number[] = [];
+      let at = 0;
+      for (let m = MARKER_RE.exec(body); m; m = MARKER_RE.exec(body.slice(at))) {
+        at += m[0].length;
+        items.push(columns(body.slice(0, at)));
+      }
+      const fenceMatch = FENCE_RE.exec(body.slice(at));
+      const fenceColumn = fenceMatch
+        ? columns(body.slice(0, at + fenceMatch[0].length)) - fenceMatch[1].length
+        : 0;
+      const rest = fenceMatch ? body.slice(at + fenceMatch[0].length) : '';
+      const wasBlank = prevBlank;
+      prevBlank = blank;
+
       if (fence) {
         if (
           fenceMatch &&
+          fenceColumn - fence.base <= 3 &&
           fenceMatch[1][0] === fence.char &&
           fenceMatch[1].length >= fence.length &&
           rest.trim() === ''
@@ -81,10 +111,22 @@ export function scanFolding(src: string): ScanResult {
         i = lineEnd + 1;
         continue;
       }
-      if (fenceMatch && !(fenceMatch[1][0] === '`' && rest.includes('`'))) {
+      // A marker, a fence or a line after a blank line ends the items it is
+      // not indented into; other lines may be lazy paragraph continuations.
+      if (!blank && (items.length > 0 || fenceMatch || wasBlank)) {
+        while (lists.length > 0 && firstColumn < lists[lists.length - 1]) lists.pop();
+      }
+      lists.push(...items);
+      const base = lists.length > 0 ? lists[lists.length - 1] : 0;
+      if (
+        fenceMatch &&
+        fenceColumn - base <= 3 &&
+        !(fenceMatch[1][0] === '`' && rest.includes('`'))
+      ) {
         fence = {
           char: fenceMatch[1][0],
           length: fenceMatch[1].length,
+          base,
           start: i,
           bodyStart: lineEnd + 1,
         };
