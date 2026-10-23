@@ -81,4 +81,13 @@ describe('remarkNotel', () => {
     expect(html).toContain('opening line content');
     expect(html).toContain('middle');
   });
+
+  it.each([
+    ['a blockquote', '> {% notel red Title %}\n> body\n> {% endnotel %}'],
+    ['a list item', '- item\n\n  {% notel red Title %}\n  body\n  {% endnotel %}'],
+  ])('renders inside %s', async (_, input) => {
+    const html = String(await process(input));
+    expect(html).toContain('<div class="notel notel-red">');
+    expect(html).not.toContain('endnotel');
+  });
 });

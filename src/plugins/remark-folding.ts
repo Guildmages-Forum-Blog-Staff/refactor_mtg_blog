@@ -8,8 +8,7 @@
  * placeholders, the rest is parsed by the original parser, and each
  * placeholder is then swapped for a block node. Block content is parsed
  * recursively as an independent document, so every later remark/rehype
- * plugin sees it. The transformer only re-applies notel to block bodies,
- * because notel scans root children only.
+ * plugin sees it.
  *
  * Diagnostics go to console.warn as `[folding] <file>:<line> <reason>`;
  * Astro's Markdown processor drops vfile messages.
@@ -24,7 +23,6 @@ import { SKIP, visit } from 'unist-util-visit';
 import type { VFile } from 'vfile';
 import { parseFoldingArgs } from './folding-args';
 import { extractContent, scanFolding, type FoldingBlock } from './folding-scan';
-import { remarkNotel } from './remark-notel';
 
 type ParseFn = (doc: string, file: VFile) => Root;
 
@@ -82,17 +80,6 @@ export function remarkFolding(this: Processor) {
       reported: new Set(),
     };
     return parseDocument(doc, ctx);
-  };
-
-  const notel = remarkNotel();
-  return (tree: Root) => {
-    visit(tree as Node, (node) => {
-      if (node.type !== 'foldingBody') return;
-      const body = node as Parent;
-      const root = { type: 'root', children: body.children } as Root;
-      notel(root);
-      body.children = root.children;
-    });
   };
 }
 
