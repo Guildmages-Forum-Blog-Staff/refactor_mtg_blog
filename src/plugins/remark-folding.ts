@@ -33,6 +33,8 @@ interface Ctx {
   file: VFile;
   where: string;
   lineOffset: number;
+  /** Raw link and footnote definitions from enclosing documents. */
+  defs: string;
 }
 
 interface Marker {
@@ -64,6 +66,7 @@ export function remarkFolding(this: Processor) {
       file,
       where: displayPath(file),
       lineOffset: bodyLineOffset(file, doc),
+      defs: '',
     };
     return parseDocument(doc, ctx, true);
   };
@@ -83,9 +86,9 @@ export function remarkFolding(this: Processor) {
 function parseDocument(doc: string, ctx: Ctx, reportScan: boolean): Root {
   const scan = scanFolding(doc);
   if (reportScan) for (const d of scan.diagnostics) warn(ctx, d.line, d.reason);
-  if (scan.blocks.length === 0) return ctx.parse(doc, ctx.file);
+  if (scan.blocks.length === 0) return parseWithDefs(doc, ctx);
 
-  const marker = pickMarker(doc);
+  const marker = pickMarker(doc + ctx.defs);
   let replaced = '';
   let last = 0;
   scan.blocks.forEach((block, index) => {
@@ -98,11 +101,13 @@ function parseDocument(doc: string, ctx: Ctx, reportScan: boolean): Root {
   });
   replaced += doc.slice(last);
 
-  const tree = ctx.parse(replaced, ctx.file);
+  const tree = parseWithDefs(replaced, ctx);
+  const inner = { ...ctx, defs: [ctx.defs, ...collectDefs(tree, replaced, marker)].join('\n\n') };
+  const blocks = scan.blocks.map((block) => buildFolding(doc, block, inner));
   const unsupported = new Set<number>();
   placeInFlow(tree, {
     marker,
-    blocks: scan.blocks.map((block) => buildFolding(doc, block, ctx)),
+    blocks,
     raws: scan.blocks.map((block) => doc.slice(block.open.start, block.closeEnd)),
     onUnsupported: (index) => {
       // One placeholder can sit in several fields (an autolink's url and text).
@@ -116,6 +121,35 @@ function parseDocument(doc: string, ctx: Ctx, reportScan: boolean): Root {
     },
   });
   return tree;
+}
+
+/**
+ * Block content is parsed as its own document, so references inside it only
+ * resolve when the enclosing definitions are parsed along with it. The copies
+ * are dropped again; the enclosing tree keeps the real definitions.
+ */
+function parseWithDefs(doc: string, ctx: Ctx): Root {
+  if (!ctx.defs) return ctx.parse(doc, ctx.file);
+  const tree = ctx.parse(`${doc}\n\n${ctx.defs}`, ctx.file);
+  const start = (node: Node) => node.position?.start.offset ?? 0;
+  const end = (node: Node) => node.position?.end.offset ?? 0;
+  // An unclosed fence or HTML block at the end would swallow the definitions.
+  if (tree.children.some((node) => start(node) < doc.length && end(node) > doc.length)) {
+    return ctx.parse(doc, ctx.file);
+  }
+  tree.children = tree.children.filter((node) => start(node) < doc.length);
+  return tree;
+}
+
+function collectDefs(tree: Root, source: string, marker: Marker): string[] {
+  const defs: string[] = [];
+  visit(tree, (node) => {
+    if (node.type !== 'definition' && node.type !== 'footnoteDefinition') return;
+    const raw = source.slice(node.position?.start.offset, node.position?.end.offset);
+    // A definition that holds a block placeholder would leak it into the copy.
+    if (raw && !raw.includes(marker.open)) defs.push(raw);
+  });
+  return defs;
 }
 
 function buildFolding(doc: string, block: FoldingBlock, ctx: Ctx): RootContent {

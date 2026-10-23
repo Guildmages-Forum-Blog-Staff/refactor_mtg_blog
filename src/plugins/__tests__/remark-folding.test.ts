@@ -145,6 +145,23 @@ describe('remarkFolding — placement', () => {
     expect(await html('## A {% folding blue :: T %}x{% endfolding %} B')).toContain('<h2>A B</h2>');
   });
 
+  it('resolves footnotes and reference links defined outside the block', async () => {
+    const out = await html(
+      '{% folding :: T %}\nsee[^1] and [x][r]\n{% endfolding %}\n\n[^1]: note\n\n[r]: https://e.x\n',
+    );
+    expect(out).toMatch(/<a href="https:\/\/e\.x"[^>]*>x<\/a>/);
+    expect(out).toMatch(/<sup><a href="#user-content-fn-1"/);
+    expect(out).toContain('note');
+    expect(out).not.toContain('[^1]');
+  });
+
+  it('keeps outside definitions out of an unclosed fence in a block', async () => {
+    const out = await html(
+      '{% folding :: T %}\n    ```\n    code\n{% endfolding %}\n\n[r]: https://e.x\n',
+    );
+    expect(out).not.toContain('[r]:');
+  });
+
   it('keeps a --- right under a block as a thematic break', async () => {
     const out = await html('A\n\n{% folding :: T %}\nx\n{% endfolding %}\n---\n\nB');
     expect(out).toMatch(/<\/details>\n?<hr>/);
