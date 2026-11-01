@@ -23,6 +23,7 @@ import type { Parent } from 'unist';
 import { SKIP, visit } from 'unist-util-visit';
 import type { VFile } from 'vfile';
 import { parseFoldingArgs, type FoldingArgs } from './folding-args';
+import { FOLDING_BODY_TYPE } from './folding-node';
 import {
   findTagLines,
   hasFoldingTag,
@@ -152,7 +153,7 @@ function pickMarkerId(doc: string): string {
 
 function buildFolding(args: FoldingArgs, children: RootContent[]): RootContent {
   const body = {
-    type: 'foldingBody',
+    type: FOLDING_BODY_TYPE,
     data: hData('div', { className: ['folding-body'] }),
     children,
   };

@@ -1,6 +1,7 @@
 import type { Root, Paragraph, RootContent, Text } from 'mdast';
 import type { Node, Parent } from 'unist';
 import { visit } from 'unist-util-visit';
+import { FOLDING_BODY_TYPE } from './folding-node';
 
 const CURLY_L = String.fromCharCode(0x201c);
 const CURLY_R = String.fromCharCode(0x201d);
@@ -10,13 +11,14 @@ const CURLY_SR = String.fromCharCode(0x2019);
 const OPEN_RE =
   /^\{%\s*notel(?:\s+(default|red|blue|green|yellow|purple|orange|cyan))?\s+(.+?)\s*%\}/;
 const CLOSE_RE = /\{%\s*endnotel\s*%\}/;
-// Nodes whose children are blocks. `foldingBody` is remark-folding's content.
+// Nodes whose children are blocks. The last one is a folding block's content
+// node (see folding-node.ts).
 const FLOW_PARENTS = new Set([
   'root',
   'blockquote',
   'listItem',
   'footnoteDefinition',
-  'foldingBody',
+  FOLDING_BODY_TYPE,
 ]);
 
 function escapeHtml(s: string): string {
