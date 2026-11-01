@@ -24,6 +24,12 @@ describe('hasFoldingTag', () => {
     expect(hasFoldingTag('{%endfolding%}')).toBe(true);
     expect(hasFoldingTag('folding {% Folding :: T %} {% notel x %}')).toBe(false);
   });
+
+  it('detects a tag name followed by a line ending or the end of the document', () => {
+    expect(hasFoldingTag('{% folding\n:: T %}')).toBe(true);
+    expect(hasFoldingTag('{% endfolding\r\n%}')).toBe(true);
+    expect(hasFoldingTag('x {% folding')).toBe(true);
+  });
 });
 
 describe('findTagLines', () => {
@@ -132,6 +138,16 @@ describe('findTagLines', () => {
         { line: 3, reason: END_ARGS },
         { line: 5, reason: UNTERMINATED_QUOTE },
         { line: 8, reason: MISSING_CLOSE },
+      ],
+    });
+  });
+
+  it('reports tags whose arguments wrap onto the next line', () => {
+    expect(scan('{% folding\n:: T %}\n\n{% endfolding\n%}')).toEqual({
+      tags: [],
+      diagnostics: [
+        { line: 1, reason: MISSING_CLOSE },
+        { line: 4, reason: END_ARGS },
       ],
     });
   });

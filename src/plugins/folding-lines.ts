@@ -54,8 +54,10 @@ const ORPHAN = 'orphan {% endfolding %}';
 const UNCLOSED_COMMENT = 'unclosed HTML comment hides folding tags';
 
 const SPACE = '[ \\t\\u00a0]';
-// Factories, so no caller shares a stateful `lastIndex`.
-const tagRe = () => new RegExp(`\\{%(-?)${SPACE}*(folding|endfolding)(?=${SPACE}|-?%\\})`, 'g');
+// Factories, so no caller shares a stateful `lastIndex`. A name that ends its
+// line still starts a tag, so arguments wrapped onto the next line get a warning.
+const tagRe = () =>
+  new RegExp(`\\{%(-?)${SPACE}*(folding|endfolding)(?=${SPACE}|-?%\\}|\\r?\\n|$)`, 'g');
 const closeTailRe = () => new RegExp(`${SPACE}*-?%\\}`, 'y');
 const PREFIX_RE = /^[ \t>]*$/;
 const SUFFIX_RE = /^[ \t]*\r?$/;
