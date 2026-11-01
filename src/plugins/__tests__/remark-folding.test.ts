@@ -1,14 +1,23 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import remarkParse from 'remark-parse';
+import { unified, type Processor } from 'unified';
 import { afterEach, beforeEach, describe, expect, it, vi, type MockInstance } from 'vitest';
 import { __setCardDataForTests } from '../mtg-card-cache';
+import { remarkFolding } from '../remark-folding';
 import { renderLikeAstro } from './astro-pipeline';
 
 const html = async (md: string) => (await renderLikeAstro(md)).html;
 const OPEN =
   '<details class="folding folding-blue"><summary class="folding-title">T</summary><div class="folding-body">';
 const CLOSE = '</div></details>';
+
+const RAW_HTML = 'folding tag inside raw HTML; kept as text';
+const OWN_LINE = 'folding tag must be on its own line; kept as text';
+const UNCLOSED_COMMENT = 'unclosed HTML comment hides folding tags';
+const CROSSES = 'folding block must open and close in the same container; kept as text';
+const NOT_A_BLOCK = 'folding tag not read as its own block; kept as text';
 
 let warn: MockInstance<typeof console.warn>;
 beforeEach(() => {
@@ -20,9 +29,8 @@ afterEach(() => warn.mockRestore());
 const warnings = () => warn.mock.calls.map((call) => String(call[0]));
 // remark-rehype puts a newline between root-level blocks but not between the
 // children of a custom node; the two are equivalent HTML.
-// Placeholders are private-use characters and must never reach the output.
-const PRIVATE_USE = /[\uE000-\uF8FF]/;
 const squash = (s: string) => s.replace(/>\n</g, '><');
+const escapeRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 describe('remarkFolding — output structure', () => {
   it('renders the corpus shape as <details>', async () => {
@@ -71,33 +79,7 @@ describe('remarkFolding — output structure', () => {
   });
 });
 
-describe('remarkFolding — placement', () => {
-  it('splits a paragraph around a block in the middle of a line', async () => {
-    expect(await html('前文 {% folding blue :: T %}x{% endfolding %} 後文')).toBe(
-      `<p>前文</p>\n${OPEN}<p>x</p>${CLOSE}\n<p>後文</p>`,
-    );
-  });
-
-  it('splits emphasis that surrounds a block', async () => {
-    expect(await html('*a {% folding blue :: T %}x{% endfolding %} b*')).toBe(
-      `<p><em>a</em></p>\n${OPEN}<p>x</p>${CLOSE}\n<p><em>b</em></p>`,
-    );
-  });
-
-  it('splits a link that surrounds a block', async () => {
-    const link = (text: string) =>
-      `<a href="https://e.x/" rel="nofollow noopener noreferrer" target="_blank">${text}</a>`;
-    expect(await html('[a {% folding blue :: T %}x{% endfolding %} b](https://e.x/)')).toBe(
-      `<p>${link('a')}</p>\n${OPEN}<p>x</p>${CLOSE}\n<p>${link('b')}</p>`,
-    );
-  });
-
-  it('splits strikethrough that surrounds a block', async () => {
-    expect(await html('~~a {% folding blue :: T %}x{% endfolding %} b~~')).toBe(
-      `<p><del>a</del></p>\n${OPEN}<p>x</p>${CLOSE}\n<p><del>b</del></p>`,
-    );
-  });
-
+describe('remarkFolding — tag lines and containers', () => {
   it('handles CRLF line endings, including warning lines', async () => {
     expect(
       await html(
@@ -108,81 +90,14 @@ describe('remarkFolding — placement', () => {
     expect(warnings()).toEqual(['[folding] <input>:3 orphan {% endfolding %}']);
   });
 
-  it('keeps emphasis that ends in punctuation right before a block', async () => {
-    expect(await html('**注意：**{% folding blue :: T %}x{% endfolding %}')).toBe(
-      `<p><strong>注意：</strong></p>\n${OPEN}<p>x</p>${CLOSE}`,
-    );
-  });
-
-  it('keeps emphasis that starts with punctuation right after a block', async () => {
-    expect(await html('{% folding blue :: T %}x{% endfolding %}*（註）*')).toBe(
-      `${OPEN}<p>x</p>${CLOSE}\n<p><em>（註）</em></p>`,
-    );
-  });
-
   it('places a block inside a list item', async () => {
     const out = await html('- item\n  {% folding blue :: T %}\n  - inner\n  {% endfolding %}');
     expect(out).toBe(`<ul>\n<li>item\n${OPEN}<ul>\n<li>inner</li>\n</ul>${CLOSE}\n</li>\n</ul>`);
   });
 
-  it('places a block inside a blockquote and keeps > lines as content', async () => {
+  it('places a block inside a blockquote without adding another blockquote', async () => {
     const out = await html('> {% folding blue :: T %}\n> 文字\n> {% endfolding %}');
-    expect(out).toBe(
-      `<blockquote>\n${OPEN}<blockquote>\n<p>文字</p>\n</blockquote>${CLOSE}\n</blockquote>`,
-    );
-  });
-
-  it('splits raw HTML around a block', async () => {
-    expect(await html('<div class="w">{% folding blue :: T %}x{% endfolding %}</div>')).toBe(
-      `<div class="w">\n${OPEN}<p>x</p>${CLOSE}\n</div>`,
-    );
-  });
-
-  it('moves a block out of a heading to just after it', async () => {
-    expect(await html('## 標 {% folding blue :: T %}x{% endfolding %}')).toBe(
-      `<h2>標</h2>\n${OPEN}<p>x</p>${CLOSE}`,
-    );
-    expect(await html('## A {% folding blue :: T %}x{% endfolding %} B')).toContain('<h2>A B</h2>');
-  });
-
-  it('keeps reference definitions of separate blocks apart', async () => {
-    const out = await html(
-      [
-        '{% folding :: A %}\n[x][ref]\n\n[ref]: https://a.x\n{% endfolding %}',
-        '{% folding :: B %}\n[y][ref]\n\n[ref]: https://b.x\n{% endfolding %}',
-      ].join('\n\n'),
-    );
-    expect(out).toMatch(/<a href="https:\/\/a\.x"[^>]*>x<\/a>/);
-    expect(out).toMatch(/<a href="https:\/\/b\.x"[^>]*>y<\/a>/);
-  });
-
-  it('keeps footnote definitions of separate blocks apart', async () => {
-    const out = await html(
-      [
-        '{% folding :: A %}\na[^1]\n\n[^1]: note A\n{% endfolding %}',
-        '{% folding :: B %}\nb[^1]\n\n[^1]: note B\n{% endfolding %}',
-      ].join('\n\n'),
-    );
-    expect(out).toContain('note A');
-    expect(out).toContain('note B');
-  });
-
-  it('lets a nested block use its parent block definition over the top level', async () => {
-    const out = await html(
-      [
-        '{% folding :: A %}',
-        '{% folding :: B %}\n[x][ref]\n{% endfolding %}',
-        '',
-        '[ref]: https://inner.x',
-        '{% endfolding %}',
-        '',
-        '[z][ref]',
-        '',
-        '[ref]: https://outer.x',
-      ].join('\n'),
-    );
-    expect(out).toMatch(/<a href="https:\/\/inner\.x"[^>]*>x<\/a>/);
-    expect(out).toMatch(/<a href="https:\/\/outer\.x"[^>]*>z<\/a>/);
+    expect(squash(out)).toBe(`<blockquote>${OPEN}<p>文字</p>${CLOSE}</blockquote>`);
   });
 
   it('resolves footnotes and reference links defined outside the block', async () => {
@@ -195,26 +110,21 @@ describe('remarkFolding — placement', () => {
     expect(out).not.toContain('[^1]');
   });
 
-  it('keeps outside definitions out of an unclosed HTML block in a block', async () => {
-    const out = await html('{% folding :: T %}\n<pre>\nx\n{% endfolding %}\n\n[r]: https://e.x\n');
-    expect(out).not.toContain('[r]:');
-  });
-
   it('keeps an indented code block inside a block', async () => {
     expect(await html('{% folding blue :: T %}\n    code\n{% endfolding %}')).toBe(
       `${OPEN}<pre><code>code\n</code></pre>${CLOSE}`,
     );
   });
 
-  it('keeps a folding example in indented code as text, warning once', async () => {
+  it('warns about a mid-line example that ends up in indented code', async () => {
     const out = await html(
       '{% folding blue :: T %}\n    {% folding :: U %}x{% endfolding %}\n{% endfolding %}',
     );
     expect(out.match(/<details/g)).toHaveLength(1);
     expect(out).toContain('<pre><code>{% folding :: U %}x{% endfolding %}\n</code></pre>');
-    expect(out).not.toMatch(PRIVATE_USE);
     expect(warnings()).toEqual([
-      '[folding] <input>:2 folding block in unsupported position; kept as text',
+      `[folding] <input>:2 ${OWN_LINE}`,
+      `[folding] <input>:2 ${OWN_LINE}`,
     ]);
   });
 
@@ -223,76 +133,68 @@ describe('remarkFolding — placement', () => {
     expect(out).toMatch(/<\/details>\n?<hr>/);
   });
 
-  it('moves a block out of a table to just after it', async () => {
-    const out = await html('| a |\n| - |\n| b {% folding blue :: T %}x{% endfolding %} |');
-    expect(out).toMatch(/<\/table>\n?<details class="folding folding-blue">/);
-  });
-
-  it.each([
-    ['a --- underline', '前文\n\n{% folding blue :: T %}\nx\n{% endfolding %}\n---\n\n後文'],
-    ['an === underline', '{% folding blue :: T %}\nx\n{% endfolding %}\n==='],
-    ['an ATX heading', '# {% folding blue :: T %}x{% endfolding %}'],
-  ])('drops a heading that held nothing but a block (%s)', async (_, md) => {
-    const out = await renderLikeAstro(md);
-    expect(out.html).not.toMatch(/<h[1-6]>/);
-    expect(out.html).toContain(`${OPEN}<p>x</p>${CLOSE}`);
-    expect(out.headings).toEqual([]);
-  });
-
-  it('drops a table row that held nothing but a block', async () => {
+  it('ends a table at a tag line', async () => {
     const out = await html('| a |\n| - |\n| b |\n{% folding blue :: T %}\nx\n{% endfolding %}');
     expect(out).toContain('<tbody><tr><td>b</td></tr></tbody></table>');
     expect(out).toMatch(/<\/table>\n?<details class="folding folding-blue">/);
-  });
-
-  it('restores the original text where no block can go, and warns', async () => {
-    const out = await html('![說明 {% folding blue :: T %}x{% endfolding %}](https://e.x/a.png)');
-    expect(out).toContain('alt="說明 {% folding blue :: T %}x{% endfolding %}"');
-    expect(out).not.toContain('<details');
-    expect(out).not.toMatch(PRIVATE_USE);
-    expect(warnings()).toEqual([
-      '[folding] <input>:1 folding block in unsupported position; kept as text',
-    ]);
-  });
-
-  it.each([
-    '<https://e.x/{% folding blue :: T %}x{% endfolding %}>',
-    'https://e.x/{% folding blue :: T %}x{% endfolding %}',
-  ])('keeps an autolink that swallowed a block as text, warning once: %s', async (md) => {
-    const out = await html(md);
-    expect(out).toContain('>https://e.x/{% folding blue :: T %}x{% endfolding %}</a>');
-    expect(out).not.toContain('<details');
-    expect(out).not.toMatch(PRIVATE_USE);
-    expect(warnings()).toEqual([
-      '[folding] <input>:1 folding block in unsupported position; kept as text',
-    ]);
   });
 
   it.each([
     ['block', '<img alt="{% folding blue :: T %}x{% endfolding %}" src="x.png">'],
     ['inline', 'Hi <span title="{% folding blue :: T %}x{% endfolding %}">y</span>'],
     ['heading', '## A <img alt="{% folding blue :: T %}x{% endfolding %}" src="x.png">'],
-  ])('keeps a block inside an HTML tag (%s) as text, warning once', async (_, md) => {
+  ])('keeps tags inside raw HTML (%s) as text and warns', async (_, md) => {
     const out = await html(md);
     expect(out).toContain('"{% folding blue :: T %}x{% endfolding %}"');
     expect(out).not.toContain('<details');
-    expect(out).not.toMatch(PRIVATE_USE);
     expect(warnings()).toEqual([
-      '[folding] <input>:1 folding block in unsupported position; kept as text',
+      `[folding] <input>:1 ${RAW_HTML}`,
+      `[folding] <input>:1 ${RAW_HTML}`,
     ]);
   });
 
-  it.each([
-    ['## <https://e.x/{% folding blue :: T %}x{% endfolding %}>', 1],
-    ['| a |\n| - |\n| <https://e.x/{% folding blue :: T %}x{% endfolding %}> |', 3],
-  ])('keeps an autolink in a heading or table as text: %s', async (md, line) => {
-    const out = await html(md);
-    expect(out).toContain('>https://e.x/{% folding blue :: T %}x{% endfolding %}</a>');
+  it('keeps a tag in the middle of a line as text and warns', async () => {
+    const out = await html('前文 {% folding blue :: T %}x{% endfolding %} 後文');
+    expect(out).toContain('{% folding blue :: T %} x {% endfolding %}');
     expect(out).not.toContain('<details');
-    expect(out).not.toMatch(PRIVATE_USE);
     expect(warnings()).toEqual([
-      `[folding] <input>:${line} folding block in unsupported position; kept as text`,
+      `[folding] <input>:1 ${OWN_LINE}`,
+      `[folding] <input>:1 ${OWN_LINE}`,
     ]);
+  });
+
+  it('silently skips a tag in an HTML comment inside a raw HTML block', async () => {
+    expect(await html('<div>\n<!-- {% folding :: T %} -->\n</div>')).not.toContain('<details');
+    expect(warnings()).toEqual([]);
+  });
+
+  it('makes definitions inside a block visible to the whole post', async () => {
+    const out = await html(
+      '{% folding :: A %}\n[x][ref]\n\n[ref]: https://a.x\n{% endfolding %}\n\n[y][ref]',
+    );
+    expect(out).toMatch(/<a href="https:\/\/a\.x"[^>]*>x<\/a>/);
+    expect(out).toMatch(/<a href="https:\/\/a\.x"[^>]*>y<\/a>/);
+  });
+
+  it('keeps a list or table that starts right after the open tag inside the block', async () => {
+    const list = await html('{% folding blue :: T %}\n- a\n- b\n{% endfolding %}\n\nafter');
+    expect(squash(list)).toContain(`${OPEN}<ul><li>a</li><li>b</li></ul>${CLOSE}`);
+    expect(list).not.toContain('{% endfolding %}');
+    const table = await html('{% folding blue :: T %}\n| a |\n| - |\n| b |\n{% endfolding %}');
+    expect(squash(table)).toMatch(
+      new RegExp(`^${escapeRe(OPEN)}\\n*<table>[\\s\\S]*</table>${escapeRe(CLOSE)}$`),
+    );
+  });
+
+  it('keeps <p> for paragraphs of a block inside a tight list item', async () => {
+    const out = await html('- item\n  {% folding blue :: T %}\n  x\n  {% endfolding %}\n- next');
+    expect(squash(out)).toContain(`${OPEN}<p>x</p>${CLOSE}`);
+    expect(warnings()).toEqual([]);
+  });
+
+  it('renders an empty block', async () => {
+    expect(await html('{% folding blue :: T %}\n{% endfolding %}')).toBe(`${OPEN}${CLOSE}`);
+    expect(warnings()).toEqual([]);
   });
 });
 
@@ -375,12 +277,16 @@ describe('remarkFolding — ignored regions and errors', () => {
     }
   });
 
-  it('warns when an unclosed fence hides later folding tags', async () => {
+  it('folds a block after a fence that ended with its blockquote', async () => {
     const out = await html('> ```\n> code\n\n{% folding blue :: T %}\nx\n{% endfolding %}');
+    expect(out).toContain(`${OPEN}<p>x</p>${CLOSE}`);
+    expect(warnings()).toEqual([]);
+  });
+
+  it('warns when an unclosed HTML comment hides folding tags', async () => {
+    const out = await html('x\n\n<!--\n{% folding blue :: T %}\ny\n{% endfolding %}');
     expect(out).not.toContain('<details');
-    expect(warnings()).toEqual([
-      '[folding] <input>:1 unclosed fenced code block runs to the end of the file; folding tags in it are ignored',
-    ]);
+    expect(warnings()).toEqual([`[folding] <input>:3 ${UNCLOSED_COMMENT}`]);
   });
 
   it('skips .mdx files', async () => {
@@ -448,6 +354,84 @@ describe('remarkFolding — content', () => {
     expect(await html('{% folding blue, "r/a, b" %}\nx\n{% endfolding %}')).toContain(
       '<summary class="folding-title">r/a, b</summary>',
     );
+  });
+});
+
+describe('remarkFolding — block boundaries', () => {
+  it('keeps a block whose tags land in different containers as text', async () => {
+    const out = await html(
+      '- item\n  {% folding blue :: T %}\n  x\n{% endfolding %}\n\n{% folding red :: R %}\ny\n{% endfolding %}',
+    );
+    expect(out.match(/<details/g)).toHaveLength(1);
+    expect(out).toContain('<details class="folding folding-red">');
+    expect(out).toContain('{% folding blue :: T %}');
+    expect(warnings()).toEqual([
+      `[folding] <input>:2 ${CROSSES}`,
+      `[folding] <input>:4 ${CROSSES}`,
+    ]);
+  });
+
+  it('refolds the remaining tags after dropping a failed pair', async () => {
+    const out = await html(
+      '{% folding :: A %}\n- item\n  {% folding :: B %}\n  x\n{% endfolding %}\n{% endfolding %}',
+    );
+    expect(out.match(/<details/g)).toHaveLength(1);
+    expect(out).toContain('<summary class="folding-title">A</summary>');
+    expect(warnings()).toEqual([
+      `[folding] <input>:3 ${CROSSES}`,
+      `[folding] <input>:5 ${CROSSES}`,
+    ]);
+  });
+
+  it('keeps a tag line that is not read as its own block as text', async () => {
+    const out = await html('text\n    {% folding blue :: T %}\nx\n{% endfolding %}');
+    expect(out).not.toContain('<details');
+    expect(out).toContain('{% folding blue :: T %}');
+    expect(warnings()).toEqual([
+      `[folding] <input>:2 ${NOT_A_BLOCK}`,
+      `[folding] <input>:4 ${NOT_A_BLOCK}`,
+    ]);
+  });
+
+  it('picks a marker that does not clash with the post', async () => {
+    const out = await html(
+      '<!--folding-marker:0-->\n\n{% folding blue :: T %}\nx\n{% endfolding %}',
+    );
+    expect(out).toContain('<!--folding-marker:0-->');
+    expect(out).toContain(`${OPEN}<p>x</p>${CLOSE}`);
+  });
+
+  it('never leaks marker comments', async () => {
+    for (const md of [
+      '{% folding blue :: T %}\nx\n{% endfolding %}',
+      '- item\n  {% folding blue :: T %}\n  x\n{% endfolding %}',
+      'text\n    {% folding blue :: T %}\nx\n{% endfolding %}',
+    ]) {
+      expect(await html(md)).not.toContain('folding-marker');
+    }
+  });
+
+  it('parses a post once without tags, twice with tags, and once more per retry', () => {
+    let parses = 0;
+    function countParses(this: Processor) {
+      const parser = this.parser!;
+      this.parser = (doc, file) => {
+        parses++;
+        return parser(doc, file);
+      };
+    }
+    const run = (md: string) => {
+      parses = 0;
+      unified().use(remarkParse).use(countParses).use(remarkFolding).parse(md);
+      return parses;
+    };
+    expect(run('plain text')).toBe(1);
+    expect(run('{% folding :: T %}\nx\n{% endfolding %}')).toBe(2);
+    expect(
+      run(
+        '- item\n  {% folding :: T %}\n  x\n{% endfolding %}\n\n{% folding :: R %}\ny\n{% endfolding %}',
+      ),
+    ).toBe(3);
   });
 });
 

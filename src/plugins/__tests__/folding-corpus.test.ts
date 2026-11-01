@@ -24,9 +24,6 @@ function loadPost(name: string): Post {
   return { name, path, body };
 }
 
-// Placeholders are private-use characters and must never reach the output.
-const PRIVATE_USE = /[\uE000-\uF8FF]/;
-
 const squash = (html: string) => html.replace(/>\n</g, '><');
 
 // Undo the folding wrapper so the content can be compared with a plain render.
@@ -82,7 +79,7 @@ describe('folding corpus', () => {
       );
       expect(folded.html).not.toContain('{% folding');
       expect(folded.html).not.toContain('{% endfolding');
-      expect(folded.html).not.toMatch(PRIVATE_USE);
+      expect(folded.html).not.toContain('folding-marker');
     }
   });
 
