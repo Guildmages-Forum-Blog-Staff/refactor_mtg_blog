@@ -175,7 +175,12 @@ function buildFolding(args: FoldingArgs, children: RootContent[]): RootContent {
   return folding as unknown as RootContent;
 }
 
-/** Turn every heading in a block's content, at any depth, into a paragraph. */
+/**
+ * Turn every heading in a block's content, at any depth, into a paragraph.
+ * A heading right inside a list item also gets a <div> around it: in a tight
+ * list, mdast-util-to-hast unwraps every <p> that is a direct child of an
+ * item, which would drop the paragraph's class and role.
+ */
 function demoteHeadings(body: Parent): void {
   visit(body as Root, 'heading', (node: Heading, index, parent) => {
     if (!parent || index === undefined) return;
@@ -188,7 +193,15 @@ function demoteHeadings(body: Parent): void {
         ariaLevel: node.depth,
       }),
     };
-    (parent.children as RootContent[])[index] = paragraph;
+    const replacement =
+      parent.type === 'listItem'
+        ? ({
+            type: 'foldingHeadingWrapper',
+            data: hData('div', {}),
+            children: [paragraph],
+          } as unknown as RootContent)
+        : paragraph;
+    (parent.children as RootContent[])[index] = replacement;
   });
 }
 

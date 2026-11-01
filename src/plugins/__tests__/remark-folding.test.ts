@@ -312,6 +312,14 @@ describe('remarkFolding — content', () => {
     expect(out.headings).toEqual([{ depth: 1, text: '外' }]);
   });
 
+  it('keeps the heading paragraph of a heading in a tight list item', async () => {
+    const out = await html('{% folding blue :: T %}\n- ## Heading in list\n- b\n{% endfolding %}');
+    const firstItem = out.match(/<li>([\s\S]*?)<\/li>/);
+    expect(firstItem?.[1]).toContain(
+      '<p class="folding-heading folding-heading-2" role="heading" aria-level="2">Heading in list</p>',
+    );
+  });
+
   it('runs notel at the top level of the content', async () => {
     const out = await html(
       '{% folding blue :: T %}\n{% notel red 注意 %}\n內容\n{% endnotel %}\n{% endfolding %}',
