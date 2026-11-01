@@ -18,6 +18,8 @@ const OWN_LINE = 'folding tag must be on its own line; kept as text';
 const UNCLOSED_COMMENT = 'unclosed HTML comment hides folding tags';
 const CROSSES = 'folding block must open and close in the same container; kept as text';
 const NOT_A_BLOCK = 'folding tag not read as its own block; kept as text';
+const ORPHAN = 'orphan {% endfolding %}';
+const UNTERMINATED_QUOTE = 'unterminated quote in {% folding %}';
 
 let warn: MockInstance<typeof console.warn>;
 beforeEach(() => {
@@ -432,6 +434,162 @@ describe('remarkFolding — block boundaries', () => {
         '- item\n  {% folding :: T %}\n  x\n{% endfolding %}\n\n{% folding :: R %}\ny\n{% endfolding %}',
       ),
     ).toBe(3);
+  });
+});
+
+describe('remarkFolding — regressions', () => {
+  it('folds a block after a heading that ends with a stray backtick', async () => {
+    const out = await renderLikeAstro(
+      '## 標題 `\n{% folding blue :: T %}\n用 `code`\n{% endfolding %}',
+    );
+    expect(out.html).toContain(`${OPEN}<p>用 <code>code</code></p>${CLOSE}`);
+    expect(out.headings).toEqual([{ depth: 2, text: '標題 `' }]);
+    expect(warnings()).toEqual([]);
+  });
+
+  it('keeps folding examples in a fence after a stray backtick', async () => {
+    const out = await html(
+      '按 ` 鍵\n```\n{% folding :: ex %}\n`x`\n{% endfolding %}\n```\n\n{% folding blue :: Real %}\nreal\n{% endfolding %}',
+    );
+    expect(out).toContain('<pre><code>{% folding :: ex %}\n`x`\n{% endfolding %}\n</code></pre>');
+    expect(out).toContain(
+      '<summary class="folding-title">Real</summary><div class="folding-body"><p>real</p>',
+    );
+    expect(warnings()).toEqual([]);
+  });
+
+  it('warns about a tag after a list marker and keeps tab-indented item content', async () => {
+    expect(await html('- {% folding blue :: T %}\n\tcontent\n\t{% endfolding %}')).not.toContain(
+      '<details',
+    );
+    expect(warnings()).toEqual([
+      `[folding] <input>:1 ${OWN_LINE}`,
+      `[folding] <input>:3 ${ORPHAN}`,
+    ]);
+  });
+
+  it('folds tab-indented tag lines inside a list item', async () => {
+    const out = await html('- item\n\n\t{% folding blue :: T %}\n\tcontent\n\t{% endfolding %}');
+    expect(squash(out)).toContain(`<li><p>item</p>${OPEN}<p>content</p>${CLOSE}</li>`);
+    expect(out).not.toContain('<pre>');
+    expect(warnings()).toEqual([]);
+  });
+
+  it('treats tab-indented lines at the top of a block like any indented code', async () => {
+    expect(await html('{% folding blue :: T %}\n\t- x\n\t- y\n{% endfolding %}')).toContain(
+      `${OPEN}<pre><code>- x\n- y\n</code></pre>${CLOSE}`,
+    );
+  });
+
+  it('warns about content on the open tag line in a nested list', async () => {
+    await html('- a\n    - {% folding blue :: T %}intro\n\n      para two\n      {% endfolding %}');
+    expect(warnings()).toEqual([
+      `[folding] <input>:2 ${OWN_LINE}`,
+      `[folding] <input>:5 ${ORPHAN}`,
+    ]);
+  });
+
+  it('folds standalone tag lines inside a nested list item', async () => {
+    const out = await html(
+      '- a\n    - b\n\n      {% folding blue :: T %}\n      intro\n\n      para two\n      {% endfolding %}',
+    );
+    expect(squash(out)).toContain(`${OPEN}<p>intro</p><p>para two</p>${CLOSE}`);
+    expect(out).not.toContain('<pre>');
+    expect(warnings()).toEqual([]);
+  });
+
+  it.each([
+    ['---', /<\/details>\n?<hr>/],
+    ['===', /<\/details>\n?<p>===<\/p>/],
+    ['--', /<\/details>\n?<p>[–—]<\/p>/],
+  ])(
+    'keeps the text above a block a paragraph when %s follows the block',
+    async (underline, after) => {
+      const out = await renderLikeAstro(
+        `前文\n{% folding blue :: T %}\nx\n{% endfolding %}\n${underline}`,
+      );
+      expect(out.html).toMatch(
+        new RegExp(`^<p>前文</p>\\n?${escapeRe(OPEN)}<p>x</p>${escapeRe(CLOSE)}`),
+      );
+      expect(out.html).toMatch(after);
+      expect(out.headings).toEqual([]);
+    },
+  );
+
+  it('bounds an unclosed quote by its line', async () => {
+    const out = await html(
+      '{% folding "blue :: T %}\nx\n{% endfolding %}\n\n{% folding :: "Q" %}\ny\n{% endfolding %}',
+    );
+    expect(out.match(/<details/g)).toHaveLength(1);
+    expect(out).toContain(
+      '<summary class="folding-title">Q</summary><div class="folding-body"><p>y</p>',
+    );
+    expect(out).toContain('<br>\nx<br>');
+    expect(warnings()).toEqual([
+      `[folding] <input>:1 ${UNTERMINATED_QUOTE}`,
+      `[folding] <input>:3 ${ORPHAN}`,
+    ]);
+  });
+
+  it('leaves a multi-line example in indented code untouched', async () => {
+    const out = await html('text\n\n    {% folding :: U %}\n    line two\n    {% endfolding %}');
+    expect(out).toContain(
+      '<pre><code>{% folding :: U %}\nline two\n{% endfolding %}\n</code></pre>',
+    );
+    expect(warnings()).toEqual([]);
+  });
+
+  it('resolves a footnote defined next to mid-line tags, inside and outside a block', async () => {
+    const out = await html(
+      '{% folding :: A %}\nsee[^1]\n{% endfolding %}\n\nb[^1]\n\n[^1]: note {% folding :: N %}x{% endfolding %}',
+    );
+    expect(out.match(/href="#user-content-fn-1"/g)).toHaveLength(2);
+    expect(out).not.toContain('see[^1]');
+    expect(warnings()).toEqual([
+      `[folding] <input>:7 ${OWN_LINE}`,
+      `[folding] <input>:7 ${OWN_LINE}`,
+    ]);
+  });
+
+  it('resolves a multi-line definition in a blockquote inside a block', async () => {
+    const out = await html('{% folding :: B %}\n[a][r]\n{% endfolding %}\n\n> [r]:\n> https://e.x');
+    expect(squash(out)).toMatch(
+      /<div class="folding-body"><p><a href="https:\/\/e\.x"[^>]*>a<\/a>/,
+    );
+    expect(warnings()).toEqual([]);
+  });
+
+  it('does not read a spaced thematic break as nested list markers', async () => {
+    const out = await html('- - -\n    ```\n\n{% folding blue :: T %}\nx\n{% endfolding %}');
+    expect(squash(out)).toContain('<hr><pre><code>```\n</code></pre>');
+    expect(out).toContain(`${OPEN}<p>x</p>${CLOSE}`);
+    expect(warnings()).toEqual([]);
+  });
+
+  it('does not read an escaped <!-- as a comment', async () => {
+    const out = await html('a \\<!-- b\n\n{% folding blue :: T %}\nx\n{% endfolding %}');
+    expect(out).toMatch(/<p>a (&#x3C;|&lt;)!/);
+    expect(out).toContain(`${OPEN}<p>x</p>${CLOSE}`);
+    expect(warnings()).toEqual([]);
+  });
+
+  it('keeps tags inside <pre> as text and warns', async () => {
+    const out = await html('<pre>\n{% folding :: T %}\nx\n{% endfolding %}\n</pre>');
+    expect(out).toContain('{% folding :: T %}\nx\n{% endfolding %}\n</pre>');
+    expect(out).not.toContain('<details');
+    expect(warnings()).toEqual([
+      `[folding] <input>:2 ${RAW_HTML}`,
+      `[folding] <input>:4 ${RAW_HTML}`,
+    ]);
+  });
+
+  it('does not report arguments of tags kept in image alt text', async () => {
+    const out = await html('![alt {% folding teal :: T %}x{% endfolding %}](a.png)');
+    expect(out).toContain('alt="alt {% folding teal :: T %}x{% endfolding %}"');
+    expect(warnings()).toEqual([
+      `[folding] <input>:1 ${OWN_LINE}`,
+      `[folding] <input>:1 ${OWN_LINE}`,
+    ]);
   });
 });
 
