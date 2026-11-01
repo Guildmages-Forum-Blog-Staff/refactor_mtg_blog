@@ -121,6 +121,11 @@ export function findTagLines(doc: string, tree: Root): TagLineScan {
       }
       continue;
     }
+    const kind = match[2] === 'folding' ? 'open' : 'close';
+    const tag = scanTag(doc, kind, start + match[0].length, lineStart, lineEnd);
+    // Skip the whole tag before any check: a quoted parameter may hold tag
+    // text, which is not a tag of its own.
+    re.lastIndex = tag.end;
     if (!PREFIX_RE.test(doc.slice(lineStart, start))) {
       report(OWN_LINE);
       continue;
@@ -129,38 +134,47 @@ export function findTagLines(doc: string, tree: Root): TagLineScan {
       report(DASH);
       continue;
     }
-
-    const afterName = start + match[0].length;
-    const kind = match[2] === 'folding' ? 'open' : 'close';
-    let end: number;
-    let params: Param[] = [];
-    if (kind === 'close') {
-      const tail = closeTailRe();
-      tail.lastIndex = afterName;
-      if (!tail.exec(doc)) {
-        report(END_ARGS);
-        continue;
-      }
-      end = tail.lastIndex;
-    } else {
-      // Only this line goes to the lexer, so quotes and `%}` end with it.
-      const lexed = lexFoldingArgs(doc.slice(lineStart, lineEnd), afterName - lineStart);
-      if (lexed.type === 'Err') {
-        report(lexed.error === 'unterminated-quote' ? UNTERMINATED_QUOTE : MISSING_CLOSE);
-        continue;
-      }
-      end = lineStart + lexed.end;
-      params = lexed.params;
+    if (tag.reason) {
+      report(tag.reason);
+      continue;
     }
-    // A quoted parameter may hold tag text; it is not a tag of its own.
-    re.lastIndex = end;
-    if (!SUFFIX_RE.test(doc.slice(end, lineEnd))) {
+    if (!SUFFIX_RE.test(doc.slice(tag.end, lineEnd))) {
       report(OWN_LINE);
       continue;
     }
-    tags.push({ kind, line, start, end, params });
+    tags.push({ kind, line, start, end: tag.end, params: tag.params });
   }
   return { tags, diagnostics };
+}
+
+/**
+ * Find where a tag ends, from just after its name. An unparseable tag carries
+ * the reason; it ends at its first `%}`, or at the end of its line when the
+ * line has none or a quote runs to it.
+ */
+function scanTag(
+  doc: string,
+  kind: 'open' | 'close',
+  afterName: number,
+  lineStart: number,
+  lineEnd: number,
+): { end: number; params: Param[]; reason?: string } {
+  if (kind === 'close') {
+    const tail = closeTailRe();
+    tail.lastIndex = afterName;
+    if (tail.exec(doc)) return { end: tail.lastIndex, params: [] };
+    const close = doc.indexOf('%}', afterName);
+    return close !== -1 && close < lineEnd
+      ? { end: close + 2, params: [], reason: END_ARGS }
+      : { end: lineEnd, params: [], reason: MISSING_CLOSE };
+  }
+  // Only this line goes to the lexer, so quotes and `%}` end with it.
+  const lexed = lexFoldingArgs(doc.slice(lineStart, lineEnd), afterName - lineStart);
+  if (lexed.type === 'Err') {
+    const reason = lexed.error === 'unterminated-quote' ? UNTERMINATED_QUOTE : MISSING_CLOSE;
+    return { end: lineEnd, params: [], reason };
+  }
+  return { end: lineStart + lexed.end, params: lexed.params };
 }
 
 /**

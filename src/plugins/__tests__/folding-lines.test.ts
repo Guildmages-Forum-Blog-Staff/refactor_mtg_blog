@@ -161,9 +161,21 @@ describe('findTagLines', () => {
       tags: [],
       diagnostics: [
         { line: 1, reason: MISSING_CLOSE },
-        { line: 4, reason: END_ARGS },
+        { line: 4, reason: MISSING_CLOSE },
       ],
     });
+  });
+
+  it.each([
+    ['a mid-line tag', 'x {% folding :: "{% endfolding %}" %}', OWN_LINE],
+    ['a {%- tag', '{%- folding :: "{% endfolding %}" %}', DASH],
+    [
+      'a tag with an unterminated quote',
+      '{% folding "x {% endfolding %}\nbody',
+      UNTERMINATED_QUOTE,
+    ],
+  ])('reports %s once, not the tag text in its quoted arguments', (_, doc, reason) => {
+    expect(scan(doc)).toEqual({ tags: [], diagnostics: [{ line: 1, reason }] });
   });
 });
 
