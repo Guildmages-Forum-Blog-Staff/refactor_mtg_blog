@@ -170,11 +170,11 @@ Valid colors: `yellow`, `blue`, `green`, `red`, `orange`, `pink`, `cyan`, `white
 
 **Title** — output as raw HTML: no Markdown, no escaping. CJK↔ASCII spacing still applies.
 
-**Where tags work** — anywhere in the post text, including mid-line, inside lists and blockquotes, and nested. A block inside a heading or a table is moved to just after it; a block where no block can go (a link URL, image alt text, an HTML attribute, an indented code block) stays as text with a warning. Tags inside fenced code, inline code and HTML comments are ignored. The content is rendered as its own Markdown document, so every other tag works inside it; indentation beyond the opening tag's line (e.g. an indented code block) is kept. Reference-style links and footnotes defined outside a block also work inside it; ones defined inside a block stay local to that block.
+**Where tags work** — a tag must be the only thing on its line: spaces, tabs and blockquote `>` markers may come before it, and its arguments stay on that line. Tag lines work at the top level, inside blockquotes and list items (indented like the item's content), and nested. A tag with other text on its line, a list marker on its line (`- {% folding %}`), or arguments that continue onto the next line stays as text with a warning. Tags inside fenced code, indented code, inline code and HTML comments are ignored; tags inside other raw HTML stay as text with a warning. The opening and closing lines must end up in the same container (for example the same list item); otherwise both stay as text with a warning. The content is ordinary Markdown in the post, so every other tag works inside it, and reference-style links and footnotes resolve across the whole post, inside and outside blocks.
 
 **Table of contents** — headings inside a block keep their heading look but are left out of the TOC.
 
-**Errors** — unclosed or orphan tags, a quote that never closes, `{%-` tags, `{% endfolding %}` with arguments, and an opening tag without `%}` stay in the page as text and are reported via `console.warn` as `[folding] <file>:<line> <reason>`; the build still succeeds. Blocks in unsupported positions are reported the same way, and so is a fenced code block or HTML comment that never closes and hides folding tags.
+**Errors** — unclosed or orphan tags, a quote that does not close on its line, `{%-` tags, `{% endfolding %}` with arguments, an opening tag without `%}` on its line, and the placement problems above stay in the page as text and are reported via `console.warn` as `[folding] <file>:<line> <reason>`; the build still succeeds. An HTML comment that never closes and hides folding tags is reported the same way.
 
 ---
 
