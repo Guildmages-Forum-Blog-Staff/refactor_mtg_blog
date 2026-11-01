@@ -19,6 +19,7 @@ const UNCLOSED_COMMENT = 'unclosed HTML comment hides folding tags';
 const CROSSES = 'folding block must open and close in the same container; kept as text';
 const NOT_A_BLOCK = 'folding tag not read as its own block; kept as text';
 const ORPHAN = 'orphan {% endfolding %}';
+const UNCLOSED = 'unclosed {% folding %}';
 const UNTERMINATED_QUOTE = 'unterminated quote in {% folding %}';
 
 let warn: MockInstance<typeof console.warn>;
@@ -592,6 +593,17 @@ describe('remarkFolding — regressions', () => {
     expect(warnings()).toEqual([
       `[folding] <input>:1 ${OWN_LINE}`,
       `[folding] <input>:1 ${OWN_LINE}`,
+    ]);
+  });
+
+  it('does not report arguments of unclosed tags or of pairs kept as text', async () => {
+    await html('{% folding teal :: T %}\nx');
+    expect(warnings()).toEqual([`[folding] <input>:1 ${UNCLOSED}`]);
+    warn.mockClear();
+    await html('- item\n  {% folding teal :: T %}\n  x\n{% endfolding %}');
+    expect(warnings()).toEqual([
+      `[folding] <input>:2 ${CROSSES}`,
+      `[folding] <input>:4 ${CROSSES}`,
     ]);
   });
 });
