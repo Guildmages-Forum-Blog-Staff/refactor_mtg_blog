@@ -395,7 +395,7 @@ describe('remarkFolding — block boundaries', () => {
 
   it('picks a marker that does not clash with the post', async () => {
     const out = await html(
-      '<!--folding-marker:0-->\n\n{% folding blue :: T %}\nx\n{% endfolding %}',
+      '{% folding blue :: T %}\nx\n{% endfolding %}\n\n<!--folding-marker:0-->',
     );
     expect(out).toContain('<!--folding-marker:0-->');
     expect(out).toContain(`${OPEN}<p>x</p>${CLOSE}`);
