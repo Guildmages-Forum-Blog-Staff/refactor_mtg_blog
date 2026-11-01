@@ -3,8 +3,8 @@
  * a single tag line taken from the raw post text, so quotes and `%}` are
  * bounded by that line: a quote or tag still open at the line end is an error.
  *
- * Runs before Markdown parsing, so Markdown escapes and smartypants never
- * reach it. Only ASCII `"` is a quote, and it only opens at the start of a
+ * Works on raw post text, so Markdown escapes and smartypants never reach it.
+ * Only ASCII `"` is a quote, and it only opens at the start of a
  * parameter (see QUOTE_OPENERS); everything inside a quote is literal,
  * including `::`, `,`, `=`, whitespace and `%}`. A
  * full-width space (U+3000) is content: it is trimmed only at the two ends of
