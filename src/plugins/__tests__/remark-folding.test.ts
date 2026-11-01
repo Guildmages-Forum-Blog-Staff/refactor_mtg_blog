@@ -482,7 +482,10 @@ describe('remarkFolding — regressions', () => {
   });
 
   it('warns about content on the open tag line in a nested list', async () => {
-    await html('- a\n    - {% folding blue :: T %}intro\n\n      para two\n      {% endfolding %}');
+    const out = await html(
+      '- a\n    - {% folding blue :: T %}intro\n\n      para two\n      {% endfolding %}',
+    );
+    expect(out).not.toContain('<details');
     expect(warnings()).toEqual([
       `[folding] <input>:2 ${OWN_LINE}`,
       `[folding] <input>:5 ${ORPHAN}`,
@@ -493,7 +496,7 @@ describe('remarkFolding — regressions', () => {
     const out = await html(
       '- a\n    - b\n\n      {% folding blue :: T %}\n      intro\n\n      para two\n      {% endfolding %}',
     );
-    expect(squash(out)).toContain(`${OPEN}<p>intro</p><p>para two</p>${CLOSE}`);
+    expect(squash(out)).toContain(`<li><p>b</p>${OPEN}<p>intro</p><p>para two</p>${CLOSE}</li>`);
     expect(out).not.toContain('<pre>');
     expect(warnings()).toEqual([]);
   });
