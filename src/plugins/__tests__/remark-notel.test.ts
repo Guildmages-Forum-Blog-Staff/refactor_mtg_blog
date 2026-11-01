@@ -1,8 +1,17 @@
-import { describe, it, expect } from 'vitest';
+import { beforeEach, describe, it, expect } from 'vitest';
 import { remark } from 'remark';
+import { __setCardDataForTests } from '../mtg-card-cache';
 import { remarkNotel } from '../remark-notel';
+import { renderLikeAstro } from './astro-pipeline';
 
 const process = (markdown: string) => remark().use(remarkNotel).process(markdown);
+
+// Splits rendered HTML into the notel body and whatever follows the box.
+function notelParts(html: string): { body: string; after: string } {
+  const match = html.match(/<div class="notel-body">([\s\S]*?)<\/div><\/div>([\s\S]*)$/);
+  if (!match) throw new Error(`no notel box in: ${html}`);
+  return { body: match[1], after: match[2] };
+}
 
 describe('remarkNotel', () => {
   it('renders default color variant', async () => {
@@ -88,6 +97,38 @@ describe('remarkNotel', () => {
   ])('renders inside %s', async (_, input) => {
     const html = String(await process(input));
     expect(html).toContain('<div class="notel notel-red">');
+    expect(html).not.toContain('endnotel');
+  });
+});
+
+describe('remarkNotel — text around the close tag', () => {
+  beforeEach(() => __setCardDataForTests({}));
+
+  it.each([
+    [
+      'root, close line under the last paragraph',
+      '{% notel red T %}\nbody\n\nmore\n{% endnotel %}',
+      ['body', 'more'],
+    ],
+    ['a blockquote', '> {% notel red T %}\n>\n> body\n> {% endnotel %}', ['body']],
+    ['a list item', '- item\n\n  {% notel red T %}\n\n  body\n  {% endnotel %}', ['body']],
+  ])('keeps the text before the close tag in %s', async (_, input, inBody) => {
+    const { html } = await renderLikeAstro(input, { folding: false });
+    const { body } = notelParts(html);
+    for (const text of inBody) expect(body).toContain(text);
+    expect(html).not.toContain('endnotel');
+  });
+
+  it.each([
+    ['root, one paragraph', '{% notel red T %}\nbody\n{% endnotel %}\nafter', 'after'],
+    ['root, several paragraphs', '{% notel red T %}\nbody\n\nmore\n{% endnotel %}\nafter', 'after'],
+    ['a blockquote', '> {% notel red T %}\n> body\n> {% endnotel %}\n> after', 'after'],
+    ['a list item', '- {% notel blue T %}\n  body\n  {% endnotel %} and more', 'and more'],
+  ])('moves the text after the close tag out of the box in %s', async (_, input, afterText) => {
+    const { html } = await renderLikeAstro(input, { folding: false });
+    const { body, after } = notelParts(html);
+    expect(body).not.toContain(afterText);
+    expect(after).toContain(afterText);
     expect(html).not.toContain('endnotel');
   });
 });
