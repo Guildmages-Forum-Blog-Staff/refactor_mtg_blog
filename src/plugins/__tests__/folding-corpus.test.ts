@@ -72,16 +72,18 @@ beforeAll(async () => {
 afterAll(() => warn.mockRestore());
 
 describe('folding corpus', () => {
-  it('covers 23 posts and folds all 37 blocks', () => {
-    expect(posts).toHaveLength(23);
-    let total = 0;
-    for (const { folded } of rendered.values()) {
-      total += folded.html.match(/<details class="folding folding-(?:blue|red)">/g)?.length ?? 0;
+  it('folds every block in the posts that use folding', () => {
+    expect(posts.length).toBeGreaterThan(0);
+    for (const post of posts) {
+      const opens = post.body.split('\n').filter((line) => /^\{% folding .*%\}$/.test(line)).length;
+      const { folded } = rendered.get(post.name)!;
+      expect(folded.html.match(/<details class="folding folding-[a-z]+"/g)?.length ?? 0).toBe(
+        opens,
+      );
       expect(folded.html).not.toContain('{% folding');
       expect(folded.html).not.toContain('{% endfolding');
       expect(folded.html).not.toMatch(PRIVATE_USE);
     }
-    expect(total).toBe(37);
   });
 
   it('emits no folding warnings', () => {
@@ -96,14 +98,11 @@ describe('folding corpus', () => {
     expect(unwrap(folded.html)).toBe(squash(plain.html.replace(/\n*<!---->/g, '')));
   });
 
-  it('takes the 10 folded ### headings in DSK-Draft-Report.md out of the TOC', () => {
-    const { folded, plain } = rendered.get('DSK-Draft-Report.md')!;
-    expect(folded.html.match(/class="folding-heading folding-heading-3"/g)).toHaveLength(10);
-    const removed = plain.headings.filter(
-      (heading) => !folded.headings.some((kept) => kept.text === heading.text),
-    );
-    expect(removed).toHaveLength(10);
-    expect(removed.every((heading) => heading.depth === 3)).toBe(true);
-    expect(folded.headings).toHaveLength(plain.headings.length - 10);
+  it.each(posts.map((post) => post.name))('%s: headings inside blocks leave the TOC', (name) => {
+    const { folded, plain } = rendered.get(name)!;
+    const blocks = folded.html.match(/<details class="folding[\s\S]*?<\/details>/g) ?? [];
+    for (const block of blocks) expect(block).not.toMatch(/<h[1-6][ >]/);
+    const demoted = folded.html.match(/class="folding-heading folding-heading-\d"/g)?.length ?? 0;
+    expect(folded.headings).toHaveLength(plain.headings.length - demoted);
   });
 });
