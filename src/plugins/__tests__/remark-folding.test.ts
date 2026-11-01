@@ -93,6 +93,12 @@ describe('remarkFolding — tag lines and containers', () => {
     expect(warnings()).toEqual(['[folding] <input>:3 orphan {% endfolding %}']);
   });
 
+  it('folds a block whose tag lines end with a no-break space', async () => {
+    const out = await html('{% folding blue :: T %}\u00a0\n\nx\n\n{% endfolding %}\u00a0');
+    expect(out).toBe(`${OPEN}<p>x</p>${CLOSE}`);
+    expect(warnings()).toEqual([]);
+  });
+
   it('places a block inside a list item', async () => {
     const out = await html('- item\n  {% folding blue :: T %}\n  - inner\n  {% endfolding %}');
     expect(out).toBe(`<ul>\n<li>item\n${OPEN}<ul>\n<li>inner</li>\n</ul>${CLOSE}\n</li>\n</ul>`);

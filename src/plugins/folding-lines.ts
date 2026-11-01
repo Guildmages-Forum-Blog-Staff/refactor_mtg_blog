@@ -60,7 +60,10 @@ const tagRe = () =>
   new RegExp(`\\{%(-?)${SPACE}*(folding|endfolding)(?=${SPACE}|-?%\\}|\\r?\\n|$)`, 'g');
 const closeTailRe = () => new RegExp(`${SPACE}*-?%\\}`, 'y');
 const PREFIX_RE = /^[ \t>]*$/;
-const SUFFIX_RE = /^[ \t]*\r?$/;
+// A trailing no-break space (common in pasted text) still ends the line, as
+// inside the tag. A leading one is not indentation in CommonMark, so the
+// prefix stays without it.
+const SUFFIX_RE = /^[ \t\u00a0]*\r?$/;
 
 interface Span {
   start: number;
