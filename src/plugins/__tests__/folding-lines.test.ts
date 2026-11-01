@@ -98,6 +98,20 @@ describe('findTagLines', () => {
     });
   });
 
+  it.each([
+    ['after a comment', '<div>\n<!-- x -->\n{% folding :: T %}\n</div>'],
+    ['after a <!--> comment', '<div>\n<!-->\n{% folding :: T %}\n</div>'],
+  ])('warns about a tag in raw HTML outside its comments (%s)', (_, doc) => {
+    expect(scan(doc)).toEqual({ tags: [], diagnostics: [{ line: 3, reason: RAW_HTML }] });
+  });
+
+  it('skips a tag in a later comment of the same raw HTML node', () => {
+    expect(scan('<div>\n<!-- a -->\n<!-- {% folding :: T %} -->\n</div>')).toEqual({
+      tags: [],
+      diagnostics: [],
+    });
+  });
+
   it('warns once about an unclosed HTML comment that hides tags', () => {
     expect(scan('x\n\n<!--\n{% folding :: T %}\n{% endfolding %}')).toEqual({
       tags: [],
