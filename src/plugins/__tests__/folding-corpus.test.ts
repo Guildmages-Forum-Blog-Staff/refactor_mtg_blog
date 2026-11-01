@@ -40,6 +40,21 @@ function unwrap(html: string): string {
     );
 }
 
+// Counts the ATX headings between tag lines, skipping fenced code, straight
+// from the post text. The corpus has no other heading forms inside blocks.
+function headingsInBlocks(body: string): number {
+  let depth = 0;
+  let fenced = false;
+  let count = 0;
+  for (const line of body.split('\n')) {
+    if (/^\{% folding .*%\}$/.test(line)) depth++;
+    else if (line === '{% endfolding %}') depth--;
+    else if (/^\s*(```|~~~)/.test(line)) fenced = !fenced;
+    else if (depth > 0 && !fenced && /^#{1,6}[ \t]/.test(line)) count++;
+  }
+  return count;
+}
+
 const posts = readdirSync(POSTS_DIR)
   .filter((name) => name.endsWith('.md'))
   .sort()
@@ -95,11 +110,17 @@ describe('folding corpus', () => {
     expect(unwrap(folded.html)).toBe(squash(plain.html.replace(/\n*<!---->/g, '')));
   });
 
-  it.each(posts.map((post) => post.name))('%s: headings inside blocks leave the TOC', (name) => {
-    const { folded, plain } = rendered.get(name)!;
-    const blocks = folded.html.match(/<details class="folding[\s\S]*?<\/details>/g) ?? [];
-    for (const block of blocks) expect(block).not.toMatch(/<h[1-6][ >]/);
-    const demoted = folded.html.match(/class="folding-heading folding-heading-\d"/g)?.length ?? 0;
-    expect(folded.headings).toHaveLength(plain.headings.length - demoted);
-  });
+  it.each(posts.map((post) => [post.name, post] as const))(
+    '%s: headings inside blocks leave the TOC',
+    (_, post) => {
+      const { folded, plain } = rendered.get(post.name)!;
+      const blocks = folded.html.match(/<details class="folding[\s\S]*?<\/details>/g) ?? [];
+      for (const block of blocks) expect(block).not.toMatch(/<h[1-6][ >]/);
+      // Counted from the source, so a block that ends early fails here.
+      const inBlocks = headingsInBlocks(post.body);
+      const demoted = folded.html.match(/class="folding-heading folding-heading-\d"/g)?.length ?? 0;
+      expect(demoted).toBe(inBlocks);
+      expect(folded.headings).toHaveLength(plain.headings.length - inBlocks);
+    },
+  );
 });
