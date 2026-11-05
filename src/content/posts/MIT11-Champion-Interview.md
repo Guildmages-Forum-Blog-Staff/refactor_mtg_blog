@@ -1,6 +1,7 @@
 ---
 title: "世界賽選手訪談－MIT第十一輪冠軍 李詩天"
 date: "11/5/2026, 2:28:05 PM"
+updated: "2026-11-05 16:05:55"
 preview: false
 categories:
   - "Others"
@@ -35,23 +36,23 @@ excerpt: "MIT第十一輪跟歷屆相比較為特別，第一次是由台灣以�
 
 李詩天：對，而且因為是 open decklist（公開牌表），game 1 我就知道要怎樣 mulligan。有些 matchup 我必須要很快速地 combo，有些 matchup 只要掃場、丟殺牌就能贏，所以感覺蠻不錯的。
 
-採訪者：那你拿到 Demon 的原型時，它應該也不是長成你帶去打MIT第十一輪的樣子？備牌是你調整過並特化後，才選擇帶這些生物的嗎？
+採訪者：當初你拿到 Demon 的原型套牌時，應該也跟你帶去打MIT的版本相差很多吧。備牌是你調整過並特化後，才選擇帶這些生物的嗎？
 
 李詩天：對，我之前就試過 [Gearhulk](https://scryfall.com/card/dft/215/oildeep-gearhulk)，我知道它是張好牌。打快攻下來直接就贏了，因為對手沒有那麼多 removal，它帶繫命打幾下血量就拉開了。從 Turn 4 登場後，Turn 5、Turn 6 一直拍東西就能贏。更早以前有人放過 Gearhulk，後面慢慢沒人放，但我用過知道它很好，剛好也在當時的環境特別適合，就選擇帶它。
 
 > 李詩天所寫的Guide連結：[From "Poor Choice" to Regional Champion - Dimir Demon Deck Guide in Standard](https://metafy.gg/guides/view/from-poor-choice-to-regional-champion-dimi-PSWClKlLO38)
 
-#### Q5：讓我們把時間拉回到更早之前。想了解您剛接觸MTG時，是什麼讓您想開始投入這款遊戲，甚至走上職業選手之路呢？是否有什麼重要事件讓您覺得這件事是可行的？想了解您在剛接觸MTG時，覺得會想要開始投入這款遊戲、甚至往職業選手之路上邁進。是否有什麼重要事件讓你覺得這件事是可行的呢？
+#### Q5：讓我們把時間拉回到更早之前。想了解您剛接觸MTG時，是什麼讓您想開始投入這款遊戲，甚至走上職業選手之路呢？
 
 李詩天：一開始我是玩不同的桌遊跟不同的 TCG。但那時候很多 TCG 壽命都不長，很快就沒了。後來接觸到 Magic，它最好玩的地方就是有 Draft（輪抽）。那時候我讀中三，十幾歲，沒有那麼多錢。輪抽幾十塊港幣就可以打，打贏了拿到的卡可以賣掉，賣了錢又可以繼續玩，不用一次花大錢買整副 Constructed（構組）套牌。要不然買了一副套牌打一打發現不厲害，又要買另一副。以前資訊沒那麼發達，沒有現在像 [MTGGoldfish](https://www.mtggoldfish.com/) 這種網站隨時可以抄牌。輪抽對我來說最好玩，每次開新系列都是完全不同的體驗，一直有新鮮感。
 
 後來到我念大學時，剛好去英國當交換學生。那時候發現歐洲有 [Grand Prix（GP）](https://mtg.fandom.com/wiki/Grand_Prix)可以打，而且搭廉航像 Ryanair 飛去歐洲各國非常便宜，可能二十幾英鎊就能飛過去打一場比賽。在我回香港之前，去打了英國 Birmingham（伯明罕）的 GP，那場是 [Block Constructed](https://mtg.fandom.com/wiki/Block_Constructed)，我用 Mono-White運氣很好贏下了冠軍。贏了 GP 之後就覺得蠻不錯的，從那一年開始，我就開始飛去打不同的 GP 跟 Pro Tour。
 
-那時候有 [Pro Players Club](https://mtg.fandom.com/wiki/Pro_Players_Club) 機制，但一開始我的成績也是載浮載沉。直到後來我第一次打進 [Pro Tour Return to Ravnica](https://mtg.fandom.com/wiki/Pro_Tour_Return_to_Ravnica) Top 8，那次是玩 [Temur Scapeshift（鐵木爾變境）](https://moxfield.com/decks/EoP1Iy9hcUWnhnv0aqHwug)。當時發現，自己是真的有機會拚進 Top 8 的，之後就開始找亞洲選手一起練習。那時候還沒有戰隊，是我自己一個人練。後來就找[郭子敬](https://mtg.fandom.com/wiki/Tzu_Ching_Kuo)、[黃皓善](https://mtg.fandom.com/wiki/Hao-Shan_Huang)，還有新加坡的 [Chapman Sim](https://mtg.fandom.com/wiki/Chapman_Sim) 他們，大家開始一起練習，後面也跟歐美的戰隊合作 playtest。
+那時候有 [Pro Players Club](https://mtg.fandom.com/wiki/Pro_Players_Club) 機制，但一開始我的成績也是載浮載沉。直到後來我第一次打進 [Pro Tour Return to Ravnica](https://mtg.fandom.com/wiki/Pro_Tour_Return_to_Ravnica) Top 8，那次是玩 [Scapeshift（變境）](https://moxfield.com/decks/EoP1Iy9hcUWnhnv0aqHwug)。當時發現，自己是真的有機會拚進 Top 8 的，之後就開始找亞洲選手一起練習。那時候還沒有戰隊，是我自己一個人練。後來就找[郭子敬](https://mtg.fandom.com/wiki/Tzu_Ching_Kuo)、[黃皓善](https://mtg.fandom.com/wiki/Hao-Shan_Huang)，還有新加坡的 [Chapman Sim](https://mtg.fandom.com/wiki/Chapman_Sim) 他們，大家開始一起練習，後面也跟歐美的戰隊合作 playtest。
 
 當我們開始認真追每一場 Pro Tour 時，戰隊就慢慢變大，從四個人擴充到十幾個人。團隊變大之後，整體的成績就穩定很多，每一年都有辦法拿到 Pro Players Club 最高等級。那個等級有提供 appearance fee（出場費）跟機票補助，這才真正讓打牌有了穩定的收入，能支撐我當職業選手。
 
-#### Q6：像 Pro Players Club 這樣的機制是到什麼時候結束的呢？而對於頂尖選手的影響是什麼呢？
+#### Q6：像 Pro Players Club 這樣的機制是到什麼時候結束呢？這對於頂尖選手的影響是什麼呢？
 
 李詩天：大概是到 2019 年推行 [Magic Pro League（MPL）](https://mtg.fandom.com/wiki/Magic_Pro_League)的時候，COVID疫情前夕時結束。隔年疫情爆發，MPL 也轉往線上發展，後續到2022年也沒了。以前的體系，確實能讓厲害的玩家每一年都有固定的經費去各大賽事參賽，跟現在差蠻多的。現在只要幾場 Pro Tour 沒打好，再厲害的人也會 fall off。連 [Reid Duke](https://mtg.fandom.com/wiki/Reid_Duke) 都要回去打 PTQ，[Simon Nielsen](https://mtg.fandom.com/wiki/Simon_Nielsen) 也有沒 qualify 到下一場的時候。[Nathan Steuer](https://mtg.fandom.com/wiki/Nathan_Steuer) 也是最近好不容易才爬回來。
 
@@ -98,7 +99,7 @@ excerpt: "MIT第十一輪跟歷屆相比較為特別，第一次是由台灣以�
 
 李詩天：我的感覺是，台灣玩家往專業競技方向走的比例不高。這跟社群結構也有很大的關係。像是日本，他們有很多厲害的玩家會發起交流，自然會變得越來越厲害。如果沒有團隊或組織的支援、在練習時間可能也不夠的情況下，建議是要多看歐美頂尖 Pro 們的實況、影片或文章，學習他們的思考邏輯與應對，這比關起門來自己苦練進步得更快。當然，能有很強的團隊出來帶也是很好，但要做到像日本那樣的水平並不容易。
 
-另外，台灣玩家打 Draft 的風氣比較淡，這蠻可惜的。其實 Draft 是練 Magic 基本功最好的賽制。你必須學會怎麼看著牌池組出一副具備合理曲線的套牌、學習生物攻防、以及攻守節奏的切換。在 Constructed 裡，快攻打控制的對局往往劇本是固定的，學到的東西很有限。但在 Limited 裡，雙方隨時都在判斷現在該進攻還是該防守。即便不上牌店，在 MTGA 或 MTGO 上打，也是磨練基本功很好的管道。
+另外，聽說台灣玩家打 Draft 的風氣比較淡，這蠻可惜的。其實 Draft 是練 Magic 基本功最好的賽制。你必須學會怎麼看著牌池組出一副具備合理曲線的套牌、學習生物攻防、以及攻守節奏的切換。在 Constructed 裡，快攻打控制的對局往往劇本是固定的，學到的東西很有限。但在 Limited 裡，雙方隨時都在判斷現在該進攻還是該防守。即便不上牌店，在 MTGA 或 MTGO 上打，也是磨練基本功很好的管道。
 
 
 #### Q14：最後的最後，請形容一下，魔法風雲會對你而言是什麼樣的存在呢？
@@ -114,7 +115,7 @@ excerpt: "MIT第十一輪跟歷屆相比較為特別，第一次是由台灣以�
 
 李詩天：我覺得 [FRA](https://scryfall.com/sets/fra) 這個系列非常強，很多牌甚至到了 broken 的程度。像新的機制 Empower Jace、還有各種優質的抽牌、removal 與生物，整體強度非常高。當然， Draft 一定也是很好玩的。
 
-歷史上通常秋季（9 月左右）的系列強度都會特別高，因為以往這個時間點正好面臨環境輪替，官方需要出強力的單卡來定義全新的 Standard 環境，作為新meta的基準。再加上年底也有衝刺業績的需求，牌總是要出得厲害一點來刺激買氣。這些系列發售後，通常對賽場衝擊都非常巨大。像是之前的 [DSK](https://scryfall.com/sets/dsk)，都是這樣的。雖然現在因為一些其他考量，把輪替延到了明年第一個系列，但至少從設計上來看，FRA很明顯有重塑環境的企圖心。
+歷史上通常秋季（九月左右）的系列強度都會特別高，因為以往這個時間點正好面臨環境輪替，官方需要出強力的單卡來定義全新的 Standard 環境，作為新meta的基準。再加上年底也有衝刺業績的需求，牌總是要出得厲害一點來刺激買氣。這些系列發售後，通常對賽場衝擊都非常巨大。像是之前的 [DSK](https://scryfall.com/sets/dsk)，都是這樣的。雖然現在因為一些其他考量，把輪替延到了明年第一個系列，但至少從設計上來看，FRA很明顯有重塑環境的企圖心。
 
-<sup><span id="quote1">**註1：**</span>Broken deck通常是指破壞平衡的套牌。但在訪談中，李詩天的意思應該較接近 — 因為鮮為人知而較難被針對、強迫對手把學習曲線延後到比賽當時的獨特套牌。這也與他組牌選牌的哲學相符。</sup>
+<sup><span id="quote1">**註1：**</span>Broken deck通常是指破壞平衡的套牌。但在訪談中，李詩天的意思應該較接近：因為鮮為人知而較難被針對、強迫對手把學習曲線延後到比賽當時的獨特套牌。這也與他組牌選牌的哲學相符。</sup>
 <sup><span id="quote2">**註2：**</span>訪談時間為2026年9月16日。</sup>
