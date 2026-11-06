@@ -148,6 +148,34 @@ This is a blue callout.
 {% endnotel %}
 ```
 
+### `{% folding [args] %}...{% endfolding %}`
+
+Collapsible block rendered as a native `<details>`. Supported in `.md` posts (not MDX).
+
+```
+{% folding blue :: Title shown while collapsed %}
+
+Any Markdown, including the other tags on this page.
+
+{% endfolding %}
+```
+
+**Legacy syntax** — `color :: title` (standard) or `color, title` (compatibility form). When `::` is present, commas stay in the title; in the comma form an unquoted title cannot contain an ASCII comma (quote it or use `::`). Segments after the second are dropped with a warning. `:: title` means no color. Legacy blocks always start collapsed.
+
+**Named syntax** — `{% folding title="Title" class="blue" open=true %}`. Keys: `title`; `class` / `classes` / `style` (color words); `open` (`1` / `true` / `yes` / `on`, any case, starts the block expanded). Using any of these keys switches to named mode, unless the tag also has an unquoted `::`, or a `,` before the first key: then it stays legacy and `key=value` is title text. If `title` is empty, the remaining positional words become the title.
+
+Valid colors: `yellow`, `blue`, `green`, `red`, `orange`, `pink`, `cyan`, `white`, `black`, `gray`, `purple`. Without a color the block uses the default look (same as `gray`). Unknown words are ignored with a warning; with several colors the later one in this list wins.
+
+**Quotes and backslashes** — only ASCII `"` is a quote, and only at the start of a parameter (`他說"好"` keeps its quotes). Inside quotes, `::`, `,`, `=`, spaces and `%}` are literal; `\n` / `\t` / `\r` become newline / tab / CR and any other `\x` becomes `x`. Outside quotes, backslashes are literal. `'` and curly quotes are plain text. A full-width space (U+3000) is part of a word.
+
+**Title** — output as raw HTML: no Markdown, no escaping. CJK↔ASCII spacing still applies.
+
+**Where tags work** — a tag must be the only thing on its line: spaces, tabs and blockquote `>` markers may come before it, and its arguments stay on that line. Tag lines work at the top level, inside blockquotes and list items (indented like the item's content), and nested. A tag with other text on its line, a list marker on its line (`- {% folding %}`), or arguments that continue onto the next line stays as text with a warning. Tags inside fenced code, indented code, inline code and HTML comments are ignored; tags inside other raw HTML stay as text with a warning. The opening and closing lines must end up in the same container (for example the same list item); otherwise both stay as text with a warning. A tag line that the parser does not read as a block of its own — for example one indented four or more spaces right under a paragraph line, or one that directly follows a line of raw HTML such as `<img …>` — also stays as text with a warning; a blank line before and after each tag line avoids this. The content is ordinary Markdown in the post, so every other tag works inside it, and reference-style links and footnotes resolve across the whole post, inside and outside blocks.
+
+**Table of contents** — headings inside a block keep their heading look but are left out of the TOC.
+
+**Errors** — unclosed or orphan tags, a quote that does not close on its line, `{%-` tags, `{% endfolding %}` with arguments, an opening tag without `%}` on its line, and the placement problems above stay in the page as text and are reported via `console.warn` as `[folding] <file>:<line> <reason>`; the build still succeeds. An HTML comment that never closes and hides folding tags is reported the same way.
+
 ---
 
 ## Routing
