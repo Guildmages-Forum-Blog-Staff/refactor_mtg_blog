@@ -67,7 +67,11 @@ const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
 const isFirstPage = page.currentPage === 1;
 ---
 
-<BaseLayout title={page.currentPage === 1 ? 'Home' : `Home — Page ${page.currentPage}`}>
+<BaseLayout
+  title={page.currentPage === 1
+    ? '魔法風雲會 MTG 中文攻略與賽事部落格'
+    : `Home — Page ${page.currentPage}`}
+>
   {page.currentPage === 1 && <JsonLd slot="head" data={organization} />}
   <Navbar />
 
