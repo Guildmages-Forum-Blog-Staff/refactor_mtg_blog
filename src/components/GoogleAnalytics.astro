@@ -1,0 +1,22 @@
+---
+interface Props {
+  id: string;
+}
+const { id } = Astro.props;
+// ponytail: SPA navigations (ClientRouter pushState) are counted by GA4 enhanced
+// measurement "page changes based on browser history events", on by default,
+// so no manual page_view on astro:page-load. Add one if that setting is turned off.
+---
+
+<script async src={`https://www.googletagmanager.com/gtag/js?id=${id}`}></script>
+<script is:inline define:vars={{ id }}>
+  window.dataLayer = window.dataLayer || [];
+  // define:vars wraps this in an IIFE; expose gtag globally for later event calls.
+  // gtag.js requires the Arguments object itself, not a rest-param array.
+  window.gtag = function () {
+    // eslint-disable-next-line prefer-rest-params
+    window.dataLayer.push(arguments);
+  };
+  window.gtag('js', new Date());
+  window.gtag('config', id);
+</script>

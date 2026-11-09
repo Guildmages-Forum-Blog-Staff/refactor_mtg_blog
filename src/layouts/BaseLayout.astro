@@ -1,5 +1,6 @@
 ---
 import Footer from '../components/Footer.astro';
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import { ClientRouter } from 'astro:transitions';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../config/site';
 import '../styles/global.css';
@@ -11,6 +12,9 @@ interface Props {
 }
 const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+// Both optional: set at build time (CI repo variables); unset = tag omitted.
+const gaId = import.meta.env.PUBLIC_GA_ID;
+const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
 ---
 
 <!doctype html>
@@ -22,6 +26,8 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
     <slot name="head" />
+    {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
+    {gaId && <GoogleAnalytics id={gaId} />}
     {ogImage && <meta property="og:image" content={ogImage} />}
     <title>{title} | {SITE_TITLE}</title>
     <link

@@ -16,6 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+    env:
+      # Repo variables (Settings → Secrets and variables → Actions → Variables).
+      # Public IDs baked into HTML; empty = tag omitted.
+      PUBLIC_GA_ID: ${{ vars.PUBLIC_GA_ID }}
+      PUBLIC_GSC_VERIFICATION: ${{ vars.PUBLIC_GSC_VERIFICATION }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
