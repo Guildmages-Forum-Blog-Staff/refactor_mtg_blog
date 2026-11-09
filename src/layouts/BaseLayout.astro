@@ -10,6 +10,7 @@ interface Props {
   ogImage?: string;
 }
 const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -19,6 +20,8 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/webp" href={`${import.meta.env.BASE_URL}images/logo.webp`} />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <slot name="head" />
     {ogImage && <meta property="og:image" content={ogImage} />}
     <title>{title} | {SITE_TITLE}</title>
     <link
