@@ -56,7 +56,8 @@ async function download(url: string, fetchImpl: FetchLike): Promise<Buffer> {
 }
 
 async function convert(buf: Buffer, kind: Kind): Promise<{ data: Buffer; ext: string }> {
-  const img = sharp(buf, { limitInputPixels: 100_000_000 });
+  // ~40MP decodes to ~160MB RGBA; the post-bot pod shares a 512Mi limit with the bot itself.
+  const img = sharp(buf, { limitInputPixels: 40_000_000 });
   const { format } = await img.metadata();
   if (format === 'gif') return { data: buf, ext: 'gif' };
   const resized = img.rotate().resize({ width: MAX_WIDTH, withoutEnlargement: true });

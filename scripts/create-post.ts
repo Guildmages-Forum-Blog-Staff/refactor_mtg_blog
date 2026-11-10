@@ -3,7 +3,6 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import yaml from 'js-yaml';
-import { localizeImages } from './localize-images';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = path.join(__dirname, '..', 'src', 'content', 'posts');
@@ -239,6 +238,8 @@ async function main(): Promise<void> {
   // Set by post-bot to its clone of the images repo; unset means "leave image URLs alone".
   const imagesDir = process.env.IMAGES_DIR;
   if (imagesDir) {
+    // Lazy import: sharp is a native module; don't load it when the feature is off.
+    const { localizeImages } = await import('./localize-images');
     const result = await localizeImages(frontmatter, body, {
       imagesDir,
       baseUrl: process.env.IMAGES_BASE_URL ?? 'https://images.guildmagesforum.tw',
