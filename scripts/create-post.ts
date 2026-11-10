@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import yaml from 'js-yaml';
+import { localizeImages } from './localize-images';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = path.join(__dirname, '..', 'src', 'content', 'posts');
@@ -232,10 +233,24 @@ async function main(): Promise<void> {
   if (typeof parsedFm !== 'object' || parsedFm === null) {
     throw new Error('Front-matter block is empty or not a YAML mapping.');
   }
-  const frontmatter = toPostFrontmatter(parsedFm as HackmdFrontmatter);
+  let frontmatter = toPostFrontmatter(parsedFm as HackmdFrontmatter);
+  let finalBody = body;
+
+  // Set by post-bot to its clone of the images repo; unset means "leave image URLs alone".
+  const imagesDir = process.env.IMAGES_DIR;
+  if (imagesDir) {
+    const result = await localizeImages(frontmatter, body, {
+      imagesDir,
+      baseUrl: process.env.IMAGES_BASE_URL ?? 'https://images.guildmagesforum.tw',
+      subdir: `posts/${filename}`,
+    });
+    frontmatter = result.frontmatter;
+    finalBody = result.body;
+    for (const w of result.warnings) console.log(w);
+  }
 
   const stringifiedFm = yaml.dump(frontmatter, { quotingType: '"', forceQuotes: true });
-  const output = `---\n${stringifiedFm}---\n${body}`;
+  const output = `---\n${stringifiedFm}---\n${finalBody}`;
 
   const existed = fs.existsSync(outputPath);
   fs.writeFileSync(outputPath, output);
