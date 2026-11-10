@@ -1,0 +1,28 @@
+# Guildmages' Forum 魔風集會所
+
+> 台灣的魔法風雲會（Magic: The Gathering, MTG）繁體中文部落格，由台灣玩家與選手撰寫。內容涵蓋標準、先驅、近代等構組賽制的套牌攻略，現開與輪抽（Limited）分析，規則解說，新手入門，以及賽事報導與選手專訪。
+
+全站文章皆為靜態 HTML，可直接讀取全文。文章以 CC BY-NC-SA 4.0 授權。
+
+## 入口
+
+- [首頁（最新文章）](https://guildmagesforum.tw/): 依日期排序的全部文章
+- [所有分類](https://guildmagesforum.tw/categories/): 分類總覽
+- [關於我們](https://guildmagesforum.tw/about/): 作者群與團隊介紹
+- [RSS](https://guildmagesforum.tw/rss.xml): 全站文章訂閱
+
+## 主要分類
+
+- [新手入門 Beginner](https://guildmagesforum.tw/categories/Beginner/): 給剛接觸 MTG 的玩家
+- [規則解說 MTG Rules](https://guildmagesforum.tw/categories/MTG%20Rules/): 規則與互動判定
+- [構組 Construct](https://guildmagesforum.tw/categories/Construct/): 構組賽制總分類
+- [標準 Standard](https://guildmagesforum.tw/categories/Standard/): 標準賽制套牌與環境分析
+- [先驅 Pioneer](https://guildmagesforum.tw/categories/Pioneer/): 先驅賽制
+- [近代 Modern](https://guildmagesforum.tw/categories/Modern/): 近代賽制
+- [現開與輪抽 Limited](https://guildmagesforum.tw/categories/Limited/): 各系列輪抽與現開攻略
+- [賽事 Tournaments](https://guildmagesforum.tw/categories/Tournaments/): 賽事報導
+- [專訪 Interview](https://guildmagesforum.tw/categories/Interview/): 選手專訪
+
+## Optional
+
+- [網站地圖](https://guildmagesforum.tw/sitemap-index.xml)

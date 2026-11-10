@@ -1,5 +1,6 @@
 ---
 import Footer from '../components/Footer.astro';
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import { ClientRouter } from 'astro:transitions';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../config/site';
 import '../styles/global.css';
@@ -8,8 +9,22 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  /** false for pages with no real URL of their own (e.g. 404). */
+  canonical?: boolean;
+  /** true keeps the page out of search indexes (e.g. preview posts). */
+  noindex?: boolean;
 }
-const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
+const {
+  title,
+  description = SITE_DESCRIPTION,
+  ogImage,
+  canonical = true,
+  noindex = false,
+} = Astro.props;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+// Both optional: set at build time (CI repo variables); unset = tag omitted.
+const gaId = import.meta.env.PUBLIC_GA_ID;
+const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
 ---
 
 <!doctype html>
@@ -19,6 +34,11 @@ const { title, description = SITE_DESCRIPTION, ogImage } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/webp" href={`${import.meta.env.BASE_URL}images/logo.webp`} />
     <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={canonicalUrl} />}
+    {noindex && <meta name="robots" content="noindex" />}
+    <slot name="head" />
+    {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
+    {gaId && <GoogleAnalytics id={gaId} />}
     {ogImage && <meta property="og:image" content={ogImage} />}
     <title>{title} | {SITE_TITLE}</title>
     <link

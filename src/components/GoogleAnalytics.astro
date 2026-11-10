@@ -1,0 +1,33 @@
+---
+interface Props {
+  id: string;
+}
+const { id } = Astro.props;
+// Page views are sent manually on astro:page-load (initial load + every
+// ClientRouter navigation). GA4's own history-change tracking would log the
+// PREVIOUS page's title: Astro's router restores the old document.title around
+// history.pushState (astro/dist/transitions/router.js, moveToLocation).
+// REQUIRED in GA4: Admin → Data streams → Enhanced measurement → Page views →
+// turn OFF "Page changes based on browser history events", or views double-count.
+---
+
+<script async src={`https://www.googletagmanager.com/gtag/js?id=${id}`}></script>
+<script is:inline define:vars={{ id }}>
+  window.dataLayer = window.dataLayer || [];
+  // define:vars wraps this in an IIFE; expose gtag globally for later event calls.
+  // gtag.js requires the Arguments object itself, not a rest-param array.
+  window.gtag = function () {
+    // eslint-disable-next-line prefer-rest-params
+    window.dataLayer.push(arguments);
+  };
+  window.gtag('js', new Date());
+  window.gtag('config', id, { send_page_view: false });
+  // This head script persists across ClientRouter swaps and runs once,
+  // so the listener is registered once.
+  document.addEventListener('astro:page-load', function () {
+    window.gtag('event', 'page_view', {
+      page_title: document.title,
+      page_location: location.href,
+    });
+  });
+</script>
