@@ -14,7 +14,7 @@ authors:
 ## Before We Start
 
 這禮拜的環境考察，是 RC 資料整合。
-除了[上一篇](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007)寫到的歐洲和加拿大 RC，這次我們加入了澳洲/紐西蘭 RC 的結果，在看完澳洲/紐西蘭的結果後再來整合資料。
+除了[上一篇](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/)寫到的歐洲和加拿大 RC，這次我們加入了澳洲/紐西蘭 RC 的結果，在看完澳洲/紐西蘭的結果後再來整合資料。
 
 ## Open List 的好處
 
