@@ -54,7 +54,12 @@ const blogPosting = {
 };
 ---
 
-<BaseLayout title={post.data.title} description={post.data.excerpt} ogImage={coverImage}>
+<BaseLayout
+  title={post.data.title}
+  description={post.data.excerpt}
+  ogImage={coverImage}
+  noindex={post.data.preview === true}
+>
   <JsonLd slot="head" data={blogPosting} />
   <Navbar />
 
