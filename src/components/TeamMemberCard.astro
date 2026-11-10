@@ -9,7 +9,7 @@ interface Props {
 }
 
 const { id, data, base, former = false } = Astro.props;
-const href = data.url || `${base}/authors/${id}`;
+const href = data.url || `${base}/authors/${id}/`;
 const avatarSrc = data.avatar.startsWith('/') ? `${base}${data.avatar}` : data.avatar;
 ---
 

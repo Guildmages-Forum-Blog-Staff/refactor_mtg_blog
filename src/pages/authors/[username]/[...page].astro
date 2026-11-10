@@ -107,7 +107,7 @@ const authorCard = [
                   return (
                     <li class="flex items-baseline justify-between gap-4">
                       <a
-                        href={`${import.meta.env.BASE_URL}${slug}`}
+                        href={`${import.meta.env.BASE_URL}${slug}/`}
                         class="hover:text-primary dark:text-dark-fg flex-1 text-base font-medium text-gray-900 transition-colors"
                       >
                         {post.data.title}
@@ -151,7 +151,7 @@ const authorCard = [
                   <span class="dark:text-dark-fg/30 px-1 text-sm text-gray-400">…</span>
                 ) : (
                   <a
-                    href={item === 1 ? `${authorBase}/` : `${authorBase}/${item}`}
+                    href={item === 1 ? `${authorBase}/` : `${authorBase}/${item}/`}
                     class={`min-w-[2rem] rounded-md px-2 py-1 text-center text-sm font-medium transition-colors ${
                       item === page.currentPage
                         ? 'bg-primary text-white'

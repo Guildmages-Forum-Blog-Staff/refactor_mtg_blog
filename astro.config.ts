@@ -32,6 +32,9 @@ const previewPagePaths = new Set(
 export default defineConfig({
   site: 'https://guildmagesforum.tw',
   base: BASE,
+  // Pages build as <slug>/index.html; GitHub Pages 301s /slug -> /slug/.
+  // 'always' makes dev match prod and Astro's paginate URLs end in '/'.
+  trailingSlash: 'always',
   compressHTML: true,
   server: {
     host: true,
