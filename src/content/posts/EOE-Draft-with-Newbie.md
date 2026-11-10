@@ -46,19 +46,19 @@ categories:
 累歸累，輪抽那麼好玩一定要玩，戰鬥開始！
 
 ![](https://i.meee.com.tw/O7gAnGD.jpg)
->先來張合照準沒錯。歡迎小耶、小熊、亦麒、語桐加入輪抽的行列！也謝謝[Jru](https://guildmagesforum.tw/tags/jrumtg/)幫我加入合照&辛苦主持活動。
+>先來張合照準沒錯。歡迎小耶、小熊、亦麒、語桐加入輪抽的行列！也謝謝[Jru](/authors/JruMTG/)幫我加入合照&辛苦主持活動。
 
 ![](https://i.meee.com.tw/yc0ByYX.jpg)
 >挑牌的男人最帥氣 ~~但通常會有點雙下巴~~ ~~這沒辦法大家都一樣~~ 。
 
 ![](https://i.meee.com.tw/PH855Da.jpg)
->一面查價 ~~看盤~~ 一面抓牌的[象山嗶寶精](https://guildmagesforum.tw/tags/xsbeeble/)，主張已經忘記自己寫過什麼分析，筆者大膽猜測他是在欺敵。
+>一面查價 ~~看盤~~ 一面抓牌的[象山嗶寶精](/authors/XSBeeble/)，主張已經忘記自己寫過什麼分析，筆者大膽猜測他是在欺敵。
 
 ![](https://i.meee.com.tw/HWeNJvw.jpg)
 >選擇障礙令人感到既快樂又痛苦……等等，骷髏妖又出現了！？筆者忽地湧現出戀愛的感覺。
 
 ![](https://i.meee.com.tw/gWWq2yQ.jpg)
->魔風集會所流傳著一句名言：「遇事不決問[Jru](https://guildmagesforum.tw/tags/jrumtg/)。」遇到困惑能立刻請教就是最棒的練習了 ~~筆者平時也常問他問題XD~~ 。
+>魔風集會所流傳著一句名言：「遇事不決問[Jru](/authors/JruMTG/)。」遇到困惑能立刻請教就是最棒的練習了 ~~筆者平時也常問他問題XD~~ 。
 
 ![](https://i.meee.com.tw/vur2PHB.jpg)
 >有人的手手不乖，仗著自己挑得快就在那邊偷摸下一包 ~~猜猜誰最皮~~ ~~答案不難~~ 。
@@ -67,10 +67,10 @@ categories:
 >抓完也組完哩，準備正式戰鬥！不過在此之前，行頭要先布置好才行 ~~吉伊卡哇卡哇伊捏~~ 。
 
 ![](https://i.meee.com.tw/thhaLXu.jpg)
->[象山嗶寶精](https://guildmagesforum.tw/tags/xsbeeble/)調度搓牌時東張西望，我看是不想被[cephille](https://guildmagesforum.tw/tags/cephille/)讀出任何想法，心理戰已在意識之中激烈碰撞。
+>[象山嗶寶精](/authors/XSBeeble/)調度搓牌時東張西望，我看是不想被[cephille](/authors/cephille/)讀出任何想法，心理戰已在意識之中激烈碰撞。
 
 ![](https://i.meee.com.tw/wNez70O.jpg)
->The End Stone好強，強到[象山嗶寶精](https://guildmagesforum.tw/tags/xsbeeble/)把自己的套牌抽到剩一張了 ~~真的很調皮~~ 。
+>The End Stone好強，強到[象山嗶寶精](/authors/XSBeeble/)把自己的套牌抽到剩一張了 ~~真的很調皮~~ 。
 
 ![](https://i.meee.com.tw/1MLqUNJ.jpg)
 >OK正式抽爆自己，史詩級的歡樂自爆！
@@ -79,7 +79,7 @@ categories:
 
 ## 小結
 
-當天的三勝贏家，是握有兩張掃場還開到[泰茲瑞](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain)大招的[終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)（筆者頭破血流）！不過除此之外，場外贏家的部分更是亮眼XD，小耶首包首抽就開出[古墓](https://scryfall.com/card/eos/1/ancient-tomb)真是太神啦！辛苦的主持人[Jru](https://guildmagesforum.tw/tags/jrumtg/)也成功開出當藍炸子雞[Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler)，平心而論真是非常有料的常規補充包盒，搞得筆者心癢癢的又想拆了。
+當天的三勝贏家，是握有兩張掃場還開到[泰茲瑞](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain)大招的[終曲](/authors/T1BloodMoon/)（筆者頭破血流）！不過除此之外，場外贏家的部分更是亮眼XD，小耶首包首抽就開出[古墓](https://scryfall.com/card/eos/1/ancient-tomb)真是太神啦！辛苦的主持人[Jru](/authors/JruMTG/)也成功開出當藍炸子雞[Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler)，平心而論真是非常有料的常規補充包盒，搞得筆者心癢癢的又想拆了。
 
 魔風集會所非常高興又有機會能與讀者相處、實際陪伴未接觸過限制賽的玩家快樂地體驗一回。每次看見讀者朋友們笑著道別時，我們的成就感都尤其巨大：魔法風雲會真的好好玩，何其有幸能扮演引領新手的角色。
 
@@ -91,13 +91,13 @@ categories:
 
 ## 玩家心得
 
-### [cephille](https://guildmagesforum.tw/tags/cephille/)的分享：
+### [cephille](/authors/cephille/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 第一包第一挑的掃場[Beyond the Quiet](https://scryfall.com/card/eoe/7/beyond-the-quiet)。第一包拿下掃場，讓我可以往白底的價值中速/控制去走，對局中也能因為掃場吃到很多對手因此顧忌的紅利，讓我即使在手上沒有掃場時能多活幾回合，也許就真的能靠top deck掃場翻盤。
 
 #### 今天的關鍵回合狀況如何？
-關鍵回合應該是跟[象山嗶寶精](https://guildmagesforum.tw/tags/xsbeeble/)打的第三盤，掃完場後他定下[The End Stone](https://scryfall.com/card/eoe/240/the-endstone)開始狂抽鎖血在10點，後來又用[Consult the Star Charts](https://scryfall.com/card/eoe/51/consult-the-star-charts)看9拿2 （直接把牌庫拿起來，剩9）時我就知道我贏了，因為他會把自己抽爆XD
+關鍵回合應該是跟[象山嗶寶精](/authors/XSBeeble/)打的第三盤，掃完場後他定下[The End Stone](https://scryfall.com/card/eoe/240/the-endstone)開始狂抽鎖血在10點，後來又用[Consult the Star Charts](https://scryfall.com/card/eoe/51/consult-the-star-charts)看9拿2 （直接把牌庫拿起來，剩9）時我就知道我贏了，因為他會把自己抽爆XD
 
 #### 你喜歡輪抽嗎？有沒有值得懷念的輪抽回憶？
 我非常喜歡輪抽，值得懷念的輪抽回憶有很多，就講最近一次我跟朋友都拿紅白，兩邊都有貼著[Pain for All](https://scryfall.com/card/eoe/151/pain-for-all)的生物，我的是6/7，對手是3/3；我血剩3，對手剩11。我進攻對手不擋，戰階後用[Orbital Plunge](https://scryfall.com/card/eoe/149/orbital-plunge)打6/7 6點傷害，[Pain for All](https://scryfall.com/card/eoe/151/pain-for-all)反彈傷害打死對手。輪抽時有時候可以用一些非直覺的方式獲勝，能做出來就覺得非常充實。
@@ -111,7 +111,7 @@ categories:
 ![](https://i.meee.com.tw/YT9IcpB.jpg)
 >cephille的當日構築。
 
-### [象山嗶寶精](https://guildmagesforum.tw/tags/xsbeeble/)的分享：
+### [象山嗶寶精](/authors/XSBeeble/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 第一包的第5 pick: [Mm'menon, Uthros Exile](https://scryfall.com/card/eoe/221/mmmenon-uthros-exile)。
@@ -119,7 +119,7 @@ categories:
 [Nanoform Sentinel](https://scryfall.com/card/eoe/71/nanoform-sentinel)搭配任意Warp的大生物，都能快速讓太空船變成生物，今天搭配到的是[Mechanozoa](https://scryfall.com/card/eoe/66/mechanozoa)，可以橫置並放Stun counter，剛好為[Nanoform Sentinel](https://scryfall.com/card/eoe/71/nanoform-sentinel)開路。
 
 #### 今天的關鍵回合狀況如何？
-第一局對決[cephille](https://guildmagesforum.tw/tags/cephille/)，靠著[The End Stone](https://scryfall.com/card/eoe/240/the-endstone)順利補齊資源，然後把自己抽到死了。
+第一局對決[cephille](/authors/cephille/)，靠著[The End Stone](https://scryfall.com/card/eoe/240/the-endstone)順利補齊資源，然後把自己抽到死了。
 ~~對彼此那麼有印象你們要不要乾脆在一起？~~
 
 #### 你會如何推薦輪抽呢？
@@ -131,13 +131,13 @@ categories:
 ![](https://i.meee.com.tw/8uPl5wl.jpg)
 >象山嗶寶精的當日構築。
 
-### [王靖](https://guildmagesforum.tw/tags/faintmama/)的分享：
+### [王靖](/authors/faintmama/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 第三包的第一挑選C卡[Drill Too Deep](https://scryfall.com/card/eoe/133/drill-too-deep)，證明了我是個面對錢卡雙膝不軟的硬頸玩家，後續[Drill Too Deep](https://scryfall.com/card/eoe/133/drill-too-deep)也屢次出現發揮關鍵作用。
 
 #### 今天的關鍵回合狀況如何？
-今天的關鍵是我吃了[終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)的[Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad)（X還等於6，有夠過分）。儘管我已經很努力繞著掃場發展，但該吃還是得吃，限制賽裡的掃場真的很強，希望大家且抓且珍惜，像我沒抓到半張又打得不夠快就只能骷骷哩～
+今天的關鍵是我吃了[終曲](/authors/T1BloodMoon/)的[Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad)（X還等於6，有夠過分）。儘管我已經很努力繞著掃場發展，但該吃還是得吃，限制賽裡的掃場真的很強，希望大家且抓且珍惜，像我沒抓到半張又打得不夠快就只能骷骷哩～
 
 #### 你喜歡輪抽嗎？有沒有值得懷念的輪抽回憶？
 生活不允許我高度投入時效較短的賽制，但我仍然很喜歡和三五好友打輪抽、邊挑選邊說垃圾話。我絕對不是最擅長打限制賽的玩家，但還是享受著了解單卡上限的過程，一面想像自己即將拆到錢卡精神提早勝利。
@@ -154,14 +154,14 @@ categories:
 ![](https://i.meee.com.tw/cSesNo7.jpg)
 >王靖的當日構築。
 
-### [終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)的分享：
+### [終曲](/authors/T1BloodMoon/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 錢的部分是第三包第一pick的[泰茲瑞](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain)，當下都沒看後面的卡是什麼就直接拿了。
 套牌走向則是第二包當中的關鍵綠色料，像是4/4踐踏的[Icecave Crasher](https://scryfall.com/card/eoe/191/icecave-crasher)，以及整地太空船[Larval Scoutlander](https://scryfall.com/card/eoe/194/larval-scoutlander)。個人覺得這系列的綠色生物相當優質，發現綠色部分沒有人拿之後，就慢慢往綠色靠近。
 
 #### 今天的關鍵回合狀況如何？
-關鍵turn就是打[王靖](https://guildmagesforum.tw/tags/faintmama/)的第三盤，跟打[cephille](https://guildmagesforum.tw/tags/cephille/)的第一盤，開[Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad)直接逆轉戰局後奪下勝利。
+關鍵turn就是打[王靖](/authors/faintmama/)的第三盤，跟打[cephille](/authors/cephille/)的第一盤，開[Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad)直接逆轉戰局後奪下勝利。
 靖哥鋪滿場面、準備要在下個回合收頭的時候，幫我喊了一聲「掃場嗎？」，然後我就抽到[Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad)，X=6掃下去逆轉XD。
 
 #### 你喜歡輪抽嗎？有沒有值得懷念的輪抽回憶？

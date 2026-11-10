@@ -15,7 +15,7 @@ categories:
 
 ## 構築更新
 
-各位讀者好久不見，我是近期沒什麼機會打牌的可憐大叔[王靖](https://guildmagesforum.tw/tags/faintmama/)。先前[TMT](https://scryfall.com/sets/tmt)系列剛發售時，已經和大家分享過[黑綠中速：不獾贏你](https://guildmagesforum.tw/Standard-Golgari-Midrange-without-Cub/)了，如今來到[SOS](https://scryfall.com/sets/sos)賽季末，將近兩個半月的時間過去，如今這套構築又被魔改成了什麼樣子呢？
+各位讀者好久不見，我是近期沒什麼機會打牌的可憐大叔[王靖](/authors/faintmama/)。先前[TMT](https://scryfall.com/sets/tmt)系列剛發售時，已經和大家分享過[黑綠中速：不獾贏你](https://guildmagesforum.tw/Standard-Golgari-Midrange-without-Cub/)了，如今來到[SOS](https://scryfall.com/sets/sos)賽季末，將近兩個半月的時間過去，如今這套構築又被魔改成了什麼樣子呢？
 
 當然，冷飯熱炒總有一些理由，這邊先和讀者介紹一下本構築最近的際遇：
 
@@ -74,7 +74,7 @@ categories:
 
 [蔓生墓園](https://scryfall.com/card/ecl/266/overgrown-tomb)4張：總之就是超棒的地 ~~除非你在打血量變動就會輸的驟死賽~~ 。
 
-[多重宇宙通道](https://scryfall.com/card/spm/180/multiversal-passage)4張：經[cephille](https://guildmagesforum.tw/tags/cephille/)提醒後選擇擺滿，在節奏緊湊的[SOS](https://scryfall.com/sets/sos)賽季可以支撐我們在正確的時機交鋒。後期法力充足的情況下可以喊白色、甚至藍或紅色（白色優先，因為構築內有張[亂中有序的米奇與李奧](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order)。當然亂喊藍色嚇嚇對面也挺愉快的），令[野生古旅人](https://scryfall.com/card/sos/297/wildgrowth-archaic)的作用再擴大。
+[多重宇宙通道](https://scryfall.com/card/spm/180/multiversal-passage)4張：經[cephille](/authors/cephille/)提醒後選擇擺滿，在節奏緊湊的[SOS](https://scryfall.com/sets/sos)賽季可以支撐我們在正確的時機交鋒。後期法力充足的情況下可以喊白色、甚至藍或紅色（白色優先，因為構築內有張[亂中有序的米奇與李奧](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order)。當然亂喊藍色嚇嚇對面也挺愉快的），令[野生古旅人](https://scryfall.com/card/sos/297/wildgrowth-archaic)的作用再擴大。
 
 [污林邊陲](https://scryfall.com/card/dft/268/wastewood-verge)4張：下限只能產綠，但在以綠色生物先給予初期壓力的構築中完全可以接受。
 

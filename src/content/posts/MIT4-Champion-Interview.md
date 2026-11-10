@@ -26,8 +26,8 @@ excerpt: "在和蹦蹦正式碰面以前，其實筆者就已是他的潛水粉�
 A：印象中，第四輪的選手人數比前三輪都還要多。當時預賽的成績為五勝兩和，是我第一次打進 MIT 八強，每一局都打得很緊繃。
 八強對上紅黑犧牲時，甚至是在冠亞賽上面對蓮花田套牌，我都先輸掉第一盤，壓力真的很大……不過賽前對這兩種牌型都有準備，心裡大概清楚該怎麼應對後兩盤。
 四強的對手也是 [CardMaster](https://www.facebook.com/cardmaster.tw) 玩家，冰諦當天的套牌為白藍控。我能做的便是盡快掉他手牌及展開威脅，算中速型套牌對上控制的基本打法，畢竟時間拖久了將不利於我。
-冠亞賽的最終第三盤，對手[志懋](https://guildmagesforum.tw/tags/zhi-mao/)調度兩次，而我調度一次，手牌上有三塊地、一張 [Go Blank](https://scryfall.com/card/stx/72/go-blank) 、一張 [Archfiend of the Dross](https://scryfall.com/card/one/304/archfiend-of-the-dross) ，還有一張什麼……有點忘記了 XD 。不過[志懋](https://guildmagesforum.tw/tags/zhi-mao/)後來還是抽到 [Lotus Field ](https://scryfall.com/card/m20/249/lotus-field)、然後 [Thespian's Stage](https://scryfall.com/card/gtc/248/thespians-stage) 也接續出現，以及 [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun) 。我靠著牌庫頂抽起的殺牌處理掉 [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun) ，當下情緒真的還滿激動的。
-最後一回合，對手[志懋](https://guildmagesforum.tw/tags/zhi-mao/)在心裡計算了非常久，只要能再多打我一滴血，當天的冠軍就會是他，勝負差距非常渺小。[志懋](https://guildmagesforum.tw/tags/zhi-mao/)伸出手、忍痛投降的那一刻，我才終於放下心中的大石頭。
+冠亞賽的最終第三盤，對手[志懋](/authors/zhi-mao/)調度兩次，而我調度一次，手牌上有三塊地、一張 [Go Blank](https://scryfall.com/card/stx/72/go-blank) 、一張 [Archfiend of the Dross](https://scryfall.com/card/one/304/archfiend-of-the-dross) ，還有一張什麼……有點忘記了 XD 。不過[志懋](/authors/zhi-mao/)後來還是抽到 [Lotus Field ](https://scryfall.com/card/m20/249/lotus-field)、然後 [Thespian's Stage](https://scryfall.com/card/gtc/248/thespians-stage) 也接續出現，以及 [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun) 。我靠著牌庫頂抽起的殺牌處理掉 [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun) ，當下情緒真的還滿激動的。
+最後一回合，對手[志懋](/authors/zhi-mao/)在心裡計算了非常久，只要能再多打我一滴血，當天的冠軍就會是他，勝負差距非常渺小。[志懋](/authors/zhi-mao/)伸出手、忍痛投降的那一刻，我才終於放下心中的大石頭。
 是一個非常好、非常可貴的經驗，打到微風廣場都要關門了，趕緊離開盡快回家洗碗去。
 
 #### Q2：當時選用的牌組是什麼呢？為什麼會選擇這副套牌呢？

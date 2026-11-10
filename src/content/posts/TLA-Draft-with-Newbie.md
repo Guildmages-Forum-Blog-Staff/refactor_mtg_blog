@@ -16,7 +16,7 @@ categories:
 
 筆者知道這件事已經不讓人感到意外了XD，畢竟2025年我們和[睿卡潮玩](https://www.facebook.com/963Ruika)有多次合作，嘗試讓更多玩家感受到輪抽賽制的醍醐味。不過請容許我再宣布一次：讀文章兼打實體輪抽的時候又到囉～
 
-《降世神通：最後的氣宗》（後稱[TLA](https://scryfall.com/sets/tla)）是2025年的最後一個系列，預覽時就因為機制設計受到了不少關注，故事中的水、土、火和氣四大古典元素，更是貼近魔法風雲會的精神。部分牌張的圖像、摘錄字句更是讓魔風社群感到觸動，紛紛開始去觀看降世神通的動畫，筆者也覺得真是非常好看。如同網站夥伴[cephille](https://guildmagesforum.tw/tags/cephille/)所說，無疆宇宙（Universe Beyond, UB）在這回帶來了非常良好的互動，無論你是魔法風雲會的粉絲、抑或是降世神通的粉絲，都能通過這次合作感受到另一個作品的出色之處。
+《降世神通：最後的氣宗》（後稱[TLA](https://scryfall.com/sets/tla)）是2025年的最後一個系列，預覽時就因為機制設計受到了不少關注，故事中的水、土、火和氣四大古典元素，更是貼近魔法風雲會的精神。部分牌張的圖像、摘錄字句更是讓魔風社群感到觸動，紛紛開始去觀看降世神通的動畫，筆者也覺得真是非常好看。如同網站夥伴[cephille](/authors/cephille/)所說，無疆宇宙（Universe Beyond, UB）在這回帶來了非常良好的互動，無論你是魔法風雲會的粉絲、抑或是降世神通的粉絲，都能通過這次合作感受到另一個作品的出色之處。
 
 話題回到TLA本身，關於魔法風雲會的輪抽，大家當然都期待能從卡包裡頭拆出什麼，那份驚喜感永遠是玩家無法迴避的樂趣XD。如果你喜歡拆卡包，那就一定會想要拆TLA的卡包！筆者甚至不想多作解釋了，因為[Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub)超強！[Wan Shi Tong, Librarian](https://scryfall.com/card/tla/78/wan-shi-tong-librarian)顯然也好厲害！各賽制的玩家應該都樂見他們的加入，那麼就讓我們熱血開抽吧。
 
@@ -53,25 +53,25 @@ categories:
 >除了補充包以外，更重要的當然是與我們合作了半年的[睿卡潮玩](https://www.facebook.com/963Ruika)。互相支持，板板一定要放好放滿。
 
 ![](https://i.meee.com.tw/H8MDpXq.jpg)
->認真挑選單卡的[cephille](https://guildmagesforum.tw/tags/cephille/)。
+>認真挑選單卡的[cephille](/authors/cephille/)。
 
 ![](https://i.meee.com.tw/EmqGvPN.jpg)
 >受邀玩家Szgu也正在挑選單卡，這時候還沒人知道他即將幹出大事……真心覺得超帥，建議各位可以閱讀到最後。
 
 ![](https://i.meee.com.tw/wFZOBGR.jpg)
->抓牌的過程，意外發現[GY_Player](https://guildmagesforum.tw/tags/gy-player/)的手機殼充滿魔風愛，立刻逼他入鏡。 ~~還要感謝[cephille](https://guildmagesforum.tw/tags/cephille/)請大家喝的飲料。~~
+>抓牌的過程，意外發現GY_Player的手機殼充滿魔風愛，立刻逼他入鏡。 ~~還要感謝[cephille](/authors/cephille/)請大家喝的飲料。~~
 
 ![](https://i.meee.com.tw/fO1cHrp.jpg)
 >嗯？怎麼坐在對面的凱克開始滑手機了？頁面也令人感到如此熟悉？想必是某個還不錯的網站吧 ~~評分4.0的強力單卡你快拿啦~~ 。
 
 ![](https://i.meee.com.tw/voELHmx.jpg)
->抓完就要開打！這樣才算是完整的輪抽……欸再等一下，[Jru](https://guildmagesforum.tw/tags/jrumtg/)的場上怎麼只有地？那個熱愛炸地的男人竟成了地牌的夥伴？
+>抓完就要開打！這樣才算是完整的輪抽……欸再等一下，[Jru](/authors/JruMTG/)的場上怎麼只有地？那個熱愛炸地的男人竟成了地牌的夥伴？
 
 ![](https://i.meee.com.tw/hGvuXUQ.jpg)
->原來是因為本系列的運土神通機制，可以讓地牌變成能夠參與攻防的生物啦。[Jru](https://guildmagesforum.tw/tags/jrumtg/)正在認真思考對局內容。
+>原來是因為本系列的運土神通機制，可以讓地牌變成能夠參與攻防的生物啦。[Jru](/authors/JruMTG/)正在認真思考對局內容。
 
 ![](https://i.meee.com.tw/6kZ3SLY.jpg)
->坐在對面的[cephille](https://guildmagesforum.tw/tags/cephille/)也謹慎應戰。
+>坐在對面的[cephille](/authors/cephille/)也謹慎應戰。
 
 ![](https://i.meee.com.tw/rGrvKNU.jpg)
 >Szgu炫技大爆走倒數計時中。
@@ -92,7 +92,7 @@ categories:
 
 ## 玩家心得
 
-### [GY_Player](https://guildmagesforum.tw/tags/gy-player/)的分享：
+### GY_Player的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 
@@ -104,7 +104,7 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 #### 今天的關鍵回合狀況如何？
 
-被[cephille](https://guildmagesforum.tw/tags/cephille/)的[Hama, the Bloodbender](https://scryfall.com/card/tla/224/hama-the-bloodbender)偷走[Firebending Lesson](https://scryfall.com/card/tla/138/firebending-lesson)的回合印象太深刻了，從來沒想到會在限制賽遇到State Base Action(SBA)的互動，非常推薦有興趣的玩家們閱讀一下Jru撰寫的[何謂狀態動作（SBA）](https://guildmagesforum.tw/What-is-SBA/)文章喔！
+被[cephille](/authors/cephille/)的[Hama, the Bloodbender](https://scryfall.com/card/tla/224/hama-the-bloodbender)偷走[Firebending Lesson](https://scryfall.com/card/tla/138/firebending-lesson)的回合印象太深刻了，從來沒想到會在限制賽遇到State Base Action(SBA)的互動，非常推薦有興趣的玩家們閱讀一下Jru撰寫的[何謂狀態動作（SBA）](https://guildmagesforum.tw/What-is-SBA/)文章喔！
 
 #### 你會如何推薦輪抽呢？
 
@@ -119,7 +119,7 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 ![](https://i.meee.com.tw/BXHB3hK.jpg)
 >GY_Player的當日構築。
 
-### [cephille](https://guildmagesforum.tw/tags/cephille/)的分享：
+### [cephille](/authors/cephille/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 
@@ -127,7 +127,7 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 #### 今天的關鍵回合狀況如何？
 
-第二局對上[GY_Player](https://guildmagesforum.tw/tags/gy-player/)時，我用[Hama, the Bloodbender](https://scryfall.com/card/tla/224/hama-the-bloodbender)放逐了他墳場唯一一張課程牌[Firebending Lesson](https://scryfall.com/card/tla/138/firebending-lesson)，然後Waterbend直接殺了他的[First-Time Flyer](https://scryfall.com/card/tla/49/first-time-flyer)，但後來發現是我口胡了他，堆疊上雖然Flyer是1/2，但結算時Lesson又進到他的墳場，所以Flyer變成2/3打2燒不死。應該是太久沒面對[Tarmogoyf](https://scryfall.com/card/tsr/235/tarmogoyf)這類的生物才會犯這種錯誤，但也因為這樣拿下對局，跟他說聲拍謝啦XD
+第二局對上GY_Player時，我用[Hama, the Bloodbender](https://scryfall.com/card/tla/224/hama-the-bloodbender)放逐了他墳場唯一一張課程牌[Firebending Lesson](https://scryfall.com/card/tla/138/firebending-lesson)，然後Waterbend直接殺了他的[First-Time Flyer](https://scryfall.com/card/tla/49/first-time-flyer)，但後來發現是我口胡了他，堆疊上雖然Flyer是1/2，但結算時Lesson又進到他的墳場，所以Flyer變成2/3打2燒不死。應該是太久沒面對[Tarmogoyf](https://scryfall.com/card/tsr/235/tarmogoyf)這類的生物才會犯這種錯誤，但也因為這樣拿下對局，跟他說聲拍謝啦XD
 
 #### 你喜歡輪抽嗎？有沒有值得懷念的輪抽回憶？
 
@@ -141,7 +141,7 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 ![](https://i.meee.com.tw/6yhrBMS.jpg)
 >cephille的當日構築。
 
-### [王靖](https://guildmagesforum.tw/tags/faintmama/)的分享：
+### [王靖](/authors/faintmama/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 
@@ -166,7 +166,7 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 ![](https://i.meee.com.tw/q8wzsVs.jpg)
 >王靖的當日構築。
 
-### [Jru](https://guildmagesforum.tw/tags/jrumtg/)的分享：
+### [Jru](/authors/JruMTG/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 

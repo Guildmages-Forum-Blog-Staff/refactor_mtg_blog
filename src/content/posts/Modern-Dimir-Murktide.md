@@ -15,7 +15,7 @@ authors:
 
 ## Before We Start
 
-大家好，最近我以藍黑龍侯參賽近代的 MITQ，成績如海波浪般起起伏伏，某一天 [jeffchen](https://guildmagesforum.tw/tags/jeffchen/) 推薦我一個超酷的黑科技 — [Echo of Eons（亙古回聲）](https://scryfall.com/card/mh1/46/echo-of-eons)，頓時我如獲至寶，對了！就是這個！！！我那時心裡激動之情難以言喻，輸掉比賽的不愉快頓時煙消雲散；取而代之的是想著我一定要玩這個好玩的 combo。附帶一提，當我的心態從 Spike 加入一點 Timmy 的時候，我的心態突然變得格外的健全與輕鬆。
+大家好，最近我以藍黑龍侯參賽近代的 MITQ，成績如海波浪般起起伏伏，某一天 [jeffchen](/authors/jeffchen/) 推薦我一個超酷的黑科技 — [Echo of Eons（亙古回聲）](https://scryfall.com/card/mh1/46/echo-of-eons)，頓時我如獲至寶，對了！就是這個！！！我那時心裡激動之情難以言喻，輸掉比賽的不愉快頓時煙消雲散；取而代之的是想著我一定要玩這個好玩的 combo。附帶一提，當我的心態從 Spike 加入一點 Timmy 的時候，我的心態突然變得格外的健全與輕鬆。
 
 > 關於Spike、Johnny、Timmy這經典的玩家分類，大家有興趣可以去看看這篇翻譯文章 〈[Timmy, Johnny and Spike —談MTG card designer眼中的玩家分類](https://icebolt.pixnet.net/blog/post/27873725)〉 。我自己就是有點 Spike + Timmy 型的人，難怪這個 combo 讓我如此興奮XD
 

@@ -21,7 +21,7 @@ authors:
 
 [Melee連結](https://melee.gg/Tournament/View/54549)
 
-首先我們先來看一下美國 RC 吧，首先恭喜 [荒野騎士 ClarkShih](/tags/ClarkShih) 以 Temur Rhinos 拿到 28 名的成績晉級 PT Seattle！
+首先我們先來看一下美國 RC 吧，首先恭喜 [荒野騎士 ClarkShih](/authors/ClarkShih/) 以 Temur Rhinos 拿到 28 名的成績晉級 PT Seattle！
 
 共有 1,331 人參賽，賽程一樣分兩天，day 1 九輪瑞士輪、day 2 四輪瑞士輪 + 八強單淘汰，其中只有 day 1 6-3 （18 分）以上的玩家才能晉級 day 2。
 這場比賽在 Twitch 上一樣有直播，不過時間太晚了所以只有加減看一點點。

@@ -20,7 +20,7 @@ categories:
 ![](https://i.imgur.com/MUgA66b.jpeg)
 
 > 1. 以下 [17lands](https://www.17lands.com) 的數據採集日期均為 2024 年 10 月 2 日。
-> 2. 雖然這篇文章使用了大量 17lands 上的數據，但我在打天梯的這段期間，我完全沒有去確認過 17lands 上的任何資訊。就是靠著 [GF 團隊先前 DSK 的限制賽分析](https://guildmagesforum.tw/categories/limited/dsk/)、個人理解、以及團隊內的討論來完成這個過程， 17lands 的數據僅是文章撰寫時參考佐證用~~但也許有人會不相信吧XD~~
+> 2. 雖然這篇文章使用了大量 17lands 上的數據，但我在打天梯的這段期間，我完全沒有去確認過 17lands 上的任何資訊。就是靠著 [GF 團隊先前 DSK 的限制賽分析](/categories/DSK/)、個人理解、以及團隊內的討論來完成這個過程， 17lands 的數據僅是文章撰寫時參考佐證用~~但也許有人會不相信吧XD~~
 
 ## DSK 的速度是快還是慢？
 
@@ -106,7 +106,7 @@ categories:
 
 在戰鬥詭計的使用上，這個對局也讓我感受到白色與紅色的顯著差異，白色的 [Jump Scare](https://scryfall.com/card/dsk/17/jump-scare) 要比紅色的 [Turn Inside Out](https://scryfall.com/card/dsk/160/turn-inside-out) 來得更好。在沒有 [Most Valuable Slayer](https://scryfall.com/card/dsk/144/most-valuable-slayer) 給先攻的輔助下，不加防禦力的 [Turn Inside Out](https://scryfall.com/card/dsk/160/turn-inside-out) 會讓你虧掉原本的生物，而顯化懼象雖然會補上進攻的打點，但相較之下不穩定，落到防守時要用它則更差了；而 [Jump Scare](https://scryfall.com/card/dsk/17/jump-scare) 在進攻端能主動飛行穿透、或體格變大做優勢交換、防守時也可以出其不意的讓地面生物跳起來吃掉對手的飛兵，做出來後甚至可以讓對手持續防你的一點白，進而賺到更多的節奏優勢。我們紅白套牌在節奏上基本上已經不會輸了，對手消耗在進攻遲疑中而拱手讓出的節奏，將大幅提升我們的勝率！
 
-> 註：這場中間有對上 [Channelfireball](https://www.channelfireball.com/) 的 [LSV](https://www.channelfireball.com/author/Luis-Scott-Vargas/5cea2d4f-05bb-4cd7-8a4f-63f86de062de)，他打藍綠混黑，我這邊則是連拍兩隻 [Lionheart Glimmer](https://scryfall.com/card/dsk/19/lionheart-glimmer) 硬是打爆他，也算是我小小的高光時刻XD （感謝[終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)截圖支援，我當時邊直播邊笑，有夠歡樂XD）
+> 註：這場中間有對上 [Channelfireball](https://www.channelfireball.com/) 的 [LSV](https://www.channelfireball.com/author/Luis-Scott-Vargas/5cea2d4f-05bb-4cd7-8a4f-63f86de062de)，他打藍綠混黑，我這邊則是連拍兩隻 [Lionheart Glimmer](https://scryfall.com/card/dsk/19/lionheart-glimmer) 硬是打爆他，也算是我小小的高光時刻XD （感謝[終曲](/authors/T1BloodMoon/)截圖支援，我當時邊直播邊笑，有夠歡樂XD）
 > ![](https://i.meee.com.tw/nMnKOGV.webp)
 
 ![](https://i.meee.com.tw/4qGE7YZ.webp)
@@ -272,7 +272,7 @@ categories:
 
 ### **<font color="#FD0214">紅</font><font color="#023FFD">藍</font>** （未使用， 0 勝 0 敗）
 
-> 下面這段是 [Jeffchen](https://guildmagesforum.tw/tags/jeffchen/) 的經驗分享。
+> 下面這段是 [Jeffchen](/authors/jeffchen/) 的經驗分享。
 
 這系列紅藍名為開房間主題，但實際使用起來更像是紅藍節奏。利用紅色去除抵擋住前期攻勢，並趁機開房間賺取資源，最後以飛兵獲勝。玩這個色組首先會需要選到好的紅燒 [Scorching Dragonfire](https://scryfall.com/card/dsk/156/scorching-dragonfire) ，生物方面希望前期有 [Creeping Peeper](https://scryfall.com/card/dsk/46/creeping-peeper) 或 [Stalked Researcher](https://scryfall.com/card/dsk/73/stalked-researcher) 來過渡； [Rampaging Soulrager](https://scryfall.com/card/dsk/151/rampaging-soulrager) 是攻防一體的好牌，但是三費才能出還要配合開兩間房才會變成 4/4，會有發動太慢的問題。 U 卡房間推薦 [Bottomless Pool//Locker Room](https://scryfall.com/card/dsk/43/bottomless-pool-locker-room) ，C卡房間則推薦 [Underwater Tunnel//Slimy Aquarium](https://scryfall.com/card/dsk/79/underwater-tunnel-slimy-aquarium)和 [Meat Locker//Drowned Diner](https://scryfall.com/card/dsk/65/meat-locker-drowned-diner)  。 [Ghostly Keybearer](https://scryfall.com/card/dsk/61/ghostly-keybearer) ，這張牌是看到可以安心打紅藍的信號；如果有看到 R 卡 [Roaring Furnace//Steaming Sauna](https://scryfall.com/card/dsk/230/roaring-furnace-steaming-sauna) 那可就太棒了！
 
@@ -315,7 +315,7 @@ categories:
 
 {% mtgcard "Friendly Teddy" %}
 
-如果有眼尖的讀者會看到，我至少有 10 個以上的 pool 主牌都放入了泰迪熊 [Friendly Teddy](https://scryfall.com/card/dsk/247/friendly-teddy) 。我原本對這張牌的評價是偏低的，放了也不會覺得很開心；但有一天 [Jeffchen](https://guildmagesforum.tw/tags/jeffchen/) 跟我說：「欸！泰迪熊很強耶！」我半信半疑地在紅綠中嘗試了一次，就此成為泰迪熊教的信徒。如果我某一包有中上等級的去除（[Murder](https://scryfall.com/card/dsk/110/murder) 、 [Trapped in the Screen](https://scryfall.com/card/dsk/36/trapped-in-the-screen) 等）、但沒有色組適合的曲線生物時，那這一包裡如果有泰迪熊我一定會拿下來，並高概率會放進我的正編。
+如果有眼尖的讀者會看到，我至少有 10 個以上的 pool 主牌都放入了泰迪熊 [Friendly Teddy](https://scryfall.com/card/dsk/247/friendly-teddy) 。我原本對這張牌的評價是偏低的，放了也不會覺得很開心；但有一天 [Jeffchen](/authors/jeffchen/) 跟我說：「欸！泰迪熊很強耶！」我半信半疑地在紅綠中嘗試了一次，就此成為泰迪熊教的信徒。如果我某一包有中上等級的去除（[Murder](https://scryfall.com/card/dsk/110/murder) 、 [Trapped in the Screen](https://scryfall.com/card/dsk/36/trapped-in-the-screen) 等）、但沒有色組適合的曲線生物時，那這一包裡如果有泰迪熊我一定會拿下來，並高概率會放進我的正編。
 
 除了兩個類別適合湊躁狂，它也是一隻死了不心疼的二費生物；而當你是在紅綠、紅白中使用它時，進攻的抽一張、與防守的抽一張是天差地遠！你的對手雖然也抽了一張，但他不一定有足夠的時間去用這額外的資源，但我們作為進攻方則可以從中獲得顯著的收益！
 
@@ -330,13 +330,13 @@ categories:
 
 ## 結語：與朋友一起爬天梯，是我今年做過最熱血的事！
 
-感謝 [Guildmages' Forum 魔風集會所](https://guildmagesforum.tw/) 團隊夥伴對我這次限制賽的支持與建議，特別感謝 [Jeffchen](https://guildmagesforum.tw/tags/jeffchen/) 與[王靖](https://guildmagesforum.tw/tags/faintmama/)和我討論每一場輪抽，並給我寶貴的建議。透過這一次的實踐練習，體感上也讓我在限制賽的視野變得更加開闊，面對爆地輸掉的對局也能平心以待。我也深刻地感受到這三者的重要性：
+感謝 [Guildmages' Forum 魔風集會所](https://guildmagesforum.tw/) 團隊夥伴對我這次限制賽的支持與建議，特別感謝 [Jeffchen](/authors/jeffchen/) 與[王靖](/authors/faintmama/)和我討論每一場輪抽，並給我寶貴的建議。透過這一次的實踐練習，體感上也讓我在限制賽的視野變得更加開闊，面對爆地輸掉的對局也能平心以待。我也深刻地感受到這三者的重要性：
 
 滑順曲線並有多組兩卡搭配的強勢進攻策略（尤其在紅白、紅綠色組）、單靠 CU 卡的主題滾雪球計畫（紅黑、藍白色組）、以及貫穿其間最重要的，戰鬥詭計的活用。**曲線、主題、戰鬥詭計，這三者在輪抽中缺一不可。而這又似乎回歸到早期 MTG 的限制賽理論，只不過我們如今使用的單卡更強罷了。** 
 
 ![](https://i.meee.com.tw/2pwtX7D.jpg)
 
-像 BLB 那樣與主題搭配的極限快攻限制賽環境，我個人認為應該還是算少數，我們在面對未來的限制賽環境，尤其是輪抽時，都應該格外留意以上三項的搭配。基本上我的輪抽紀錄中，打得最好的都是靠上面三項贏到六至七勝，基本上炸彈們僅只是錦上添花、或幫助我在逆風時翻盤；當你拿了一堆看起來很厲害的炸彈只打了個四勝不到，很可能你的這三項要素是有缺漏的。單靠一兩張炸彈，並無法為有問題的輪抽構築扳回局面，更何況你不一定抽得到！套句 [Jeffchen](https://guildmagesforum.tw/tags/jeffchen/) 告訴我的一個很重要的觀念：
+像 BLB 那樣與主題搭配的極限快攻限制賽環境，我個人認為應該還是算少數，我們在面對未來的限制賽環境，尤其是輪抽時，都應該格外留意以上三項的搭配。基本上我的輪抽紀錄中，打得最好的都是靠上面三項贏到六至七勝，基本上炸彈們僅只是錦上添花、或幫助我在逆風時翻盤；當你拿了一堆看起來很厲害的炸彈只打了個四勝不到，很可能你的這三項要素是有缺漏的。單靠一兩張炸彈，並無法為有問題的輪抽構築扳回局面，更何況你不一定抽得到！套句 [Jeffchen](/authors/jeffchen/) 告訴我的一個很重要的觀念：
 
 「**你組好牌後把 R/MR 卡踢掉看一下，如果還是很強，代表你的輪抽策略是對的；千萬不要為了某張強牌，卻選了很多拉低平均的 UC 、或是毫無連動的牌。炸彈是你的上限可遇不可求，但 UC 決定了你牌組的下限，是可以在選牌過程由自己控制的。**」
 

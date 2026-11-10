@@ -17,7 +17,7 @@ categories:
 
 上次[MIT#11就已經有使用過這一副套牌](https://guildmagesforum.tw/Standard-Esper-Ninjas-Preliminary/)了，但當時剛好是meta+走位都不佳的狀況下，只收穫了慘澹的成績。在MIT#12準備過程中，我從主流套牌中選出以[Izzet Spellementals](https://melee.gg/Decklist/View/e4a7b90d-fb39-45fa-be8a-b44d00d00dfe)出戰，但當天仍是鎩羽而歸。緊接著下一周就是早早就報好名的[Magic Spotlight: Secrets](https://ssl.bigmagic.net/spotlight_series/)，有種不知道該打什麼的感覺。
 
-剛好當週週二有[菜鳥](https://guildmagesforum.tw/tags/samuel-chang/)在CardMaster舉辦的蘇勒台惡魔分享會，想說去聽完也許就當個抄牌仔去打Spotlight。非常感謝菜鳥的心得分享，當天我深刻的體認到他為這次大賽做的準備，以及Q到世界賽資格的決心。
+剛好當週週二有菜鳥在CardMaster舉辦的蘇勒台惡魔分享會，想說去聽完也許就當個抄牌仔去打Spotlight。非常感謝菜鳥的心得分享，當天我深刻的體認到他為這次大賽做的準備，以及Q到世界賽資格的決心。
 
 > 菜鳥的經驗分享請看他粉專 — [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689)的[貼文](https://www.facebook.com/share/p/1ExqVbNL4a/)。
 
@@ -49,7 +49,7 @@ categories:
 
 然而，放入黑白快地，代表一回產白會過剩，而二回有機會卡藍出不了 {% mtglink "Floodpits Drowner" %} 、甚至有可能卡住第二點藍四回跳不了 {% mtglink "Enduring Curiosity" alt="藍貓" %} 。這該怎麼辦呢？
 
-感謝[跳鼠](https://guildmagesforum.tw/tags/jerobamtg/)先前的分享，以黑白為基底的忍者，先天上就有manabase的優勢，那我們何不大膽一點使用更多白色生物，來讓整體套牌運行更為順暢呢？根據地牌配置，我們只要讓第三回合忍術（Ninjutsu） {% mtglink "Kaito, Bane of Nightmares" %} 與Aang能準時登場，那我們將取得極大的節奏優勢！
+感謝[跳鼠](/authors/JerobaMTG/)先前的分享，以黑白為基底的忍者，先天上就有manabase的優勢，那我們何不大膽一點使用更多白色生物，來讓整體套牌運行更為順暢呢？根據地牌配置，我們只要讓第三回合忍術（Ninjutsu） {% mtglink "Kaito, Bane of Nightmares" %} 與Aang能準時登場，那我們將取得極大的節奏優勢！
 
 > 參考套牌：[邪敵陰影：標準隱密奇襲](https://guildmagesforum.tw/Standard-Orzhov-Sneak/)
 

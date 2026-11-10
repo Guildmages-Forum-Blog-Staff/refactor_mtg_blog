@@ -15,7 +15,7 @@ categories:
 
 ## 前言
 
-大家好，我是老曹，很榮幸能受到[豬鼻子的MTG世界](https://guildmagesforum.tw/tags/cephille/)的邀請，得以在這裡與各位分享我參加MIT#9的備賽與比賽歷程，接下來我會以「預測賽場形勢→套牌選擇→練習經過→比賽趣事→結語」這樣的順序跟大家分享整個過程。
+大家好，我是老曹，很榮幸能受到[豬鼻子的MTG世界](/authors/cephille/)的邀請，得以在這裡與各位分享我參加MIT#9的備賽與比賽歷程，接下來我會以「預測賽場形勢→套牌選擇→練習經過→比賽趣事→結語」這樣的順序跟大家分享整個過程。
 
 ## 預測賽場形勢
 
@@ -60,7 +60,7 @@ categories:
 
 ## 練習經過
 
-這是我第二次準備MIT，相較於MIT#7幾乎沒有額外做甚麼學習，這次跟著[荒野騎士](https://guildmagesforum.tw/tags/clarkshih/)提供的練習計畫週表走，真的有慢慢練習進步的安心感，每週都有指定的目標，也會指定對應到該週目標的練習對局內容，這讓我很快提升對各個套牌的熟悉度，遇上不同的對手時思考的也更為全面。這次比賽的過程中我覺得可以養成的習慣是在備賽時設定可量化目標，把「練牌」拆成日程表格，並用局數或是手牌數檢核整體的練習進度。
+這是我第二次準備MIT，相較於MIT#7幾乎沒有額外做甚麼學習，這次跟著[荒野騎士](/authors/ClarkShih/)提供的練習計畫週表走，真的有慢慢練習進步的安心感，每週都有指定的目標，也會指定對應到該週目標的練習對局內容，這讓我很快提升對各個套牌的熟悉度，遇上不同的對手時思考的也更為全面。這次比賽的過程中我覺得可以養成的習慣是在備賽時設定可量化目標，把「練牌」拆成日程表格，並用局數或是手牌數檢核整體的練習進度。
 
  
 這次花了很多時間在嘗試金魚網上的meta deck，實際用對局感受每個套牌的運作方式真的很有效果，用可視的表格紀錄自己針對不同套牌類型的理解程度，可以很有效地檢視自己學習的缺口，只是因為我沒有在養mtga帳號的關係，我只能在兩個螢幕上開不同[moxfield](https://moxfield.com/)練習，即便在每一動思考實際的對局中會有甚麼不同，這樣的練習還是稍嫌花時間且不夠可靠。每週在跟NMT的討論過程中，可以知道大家對各個套牌的想法，互相討論的過程中可以對這些我沒有實際對過真人的套牌類型有更深刻的瞭解，這些知識讓我得以少練習一些套牌類型，但還是對環境的那個套牌有一定的基礎，有人一起討論真的很重要，很感謝每一個NMT裡有跟我討論的人。
@@ -73,7 +73,7 @@ categories:
  
 ![比賽趣事](https://i.meee.com.tw/xmnp7o8.png)
 
-第二輪時遇到[台灣黑熊](https://guildmagesforum.tw/tags/chiyou/)大大，賽後復盤發現因為時間壓力導致我在一個關鍵回合過度激進，把刺探地看到的一張{% mtglink "Zur, Eternal Schemer" %}直接刺探進墳場，並用{% mtglink "Analyze the Pollen" %}蒐證掉墳場中的牌後，直接再找一張Zur，最後吃了一發{% mtglink "Day of Judgment" %}從此再起不能，結果從有機會和局或第三把變成0-2輸掉，而實際上如果那把最後以和局作結的話，我有可能會因為和局的關係遇上後面同為3-0-1的Omniscience玩家，只能說幸好沒事。
+第二輪時遇到[台灣黑熊](/authors/Chiyou/)大大，賽後復盤發現因為時間壓力導致我在一個關鍵回合過度激進，把刺探地看到的一張{% mtglink "Zur, Eternal Schemer" %}直接刺探進墳場，並用{% mtglink "Analyze the Pollen" %}蒐證掉墳場中的牌後，直接再找一張Zur，最後吃了一發{% mtglink "Day of Judgment" %}從此再起不能，結果從有機會和局或第三把變成0-2輸掉，而實際上如果那把最後以和局作結的話，我有可能會因為和局的關係遇上後面同為3-0-1的Omniscience玩家，只能說幸好沒事。
 
 八強時遇到[蹦蹦](https://www.facebook.com/UncleJund)大大，第一局時我們兩邊都差一張殺完全鎖定勝局，那時我在心裡算完蹦蹦大大在他的抽牌階段抽到殺牌的機率大約是22%，而我下白霸主觸發豆莖抽到解牌的機會是剛好25%，最後我決定去拚這個很薄的EV，最後結果是兩邊都沒抽到。
 
@@ -83,4 +83,4 @@ categories:
 
 雖然從賽前準備的預測meta、熟悉套牌的方式，再到比賽當天的每一個操作，我還有很多可以再努力做得更好的地方，相信每個認真看待這項比賽且有所付出的人最後都可以收穫自己希望的結果！
 
-最後感謝借我牌讓我可以比賽的法克、陪我討論很多的啟恩、[chennel](https://guildmagesforum.tw/tags/Chennel/)、NMT一起討論準備的[終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)、[猴王](https://guildmagesforum.tw/tags/miohitokiri5474/)、[張任](https://guildmagesforum.tw/tags/xsbeeble/)、[Jru](https://guildmagesforum.tw/tags/jrumtg/)、[豬鼻子](https://guildmagesforum.tw/tags/cephille/)，特別感謝[荒野騎士](https://guildmagesforum.tw/tags/clarkshih/)花時間雕我的SBG，也跟我討論了不少賽場預測的想法，謝謝這段時間有認真花時間準備的自己跟手上的套牌，希望接下來日本的Spotlight Event跟未來的PT也能表現不錯！
+最後感謝借我牌讓我可以比賽的法克、陪我討論很多的啟恩、[chennel](/authors/Chennel/)、NMT一起討論準備的[終曲](/authors/T1BloodMoon/)、[猴王](/authors/MiohitoKiri5474/)、[張任](/authors/XSBeeble/)、[Jru](/authors/JruMTG/)、[豬鼻子](/authors/cephille/)，特別感謝[荒野騎士](/authors/ClarkShih/)花時間雕我的SBG，也跟我討論了不少賽場預測的想法，謝謝這段時間有認真花時間準備的自己跟手上的套牌，希望接下來日本的Spotlight Event跟未來的PT也能表現不錯！

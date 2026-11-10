@@ -29,21 +29,21 @@ excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享�
 比起現開賽前所提供的限制賽分析文章，本篇將以較輕鬆的口吻敘事，不會花太多篇幅道盡每個步驟的理由、細節，著重於回憶深刻的單卡及瞬間。
 除此之外也前情提要一下，筆者過去一個月首次接觸近代賽制，直接勇敢~~魯莽~~站上了 MITQ 賽場，緊繃地學習了不少細節，但也剛好處於身心俱疲需要喘息的階段，這場**現開派對**對我而言來得正好。
 
-我和網站成員 [cephille](https://guildmagesforum.tw/tags/cephille/) 一起來到遊戲平方，從下午的四人局展開探索暮悲邸的旅程。第一場，包含售現贈卡共開到兩輛 [The Rollercrusher Ride](https://scryfall.com/card/dsk/155/the-rollercrusher-ride) ，再加上出現了 [Hedge Shredder](https://scryfall.com/card/dsk/183/hedge-shredder) 、 [Peer Past the Veil](https://scryfall.com/card/dsk/226/peer-past-the-veil) 、 [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) 等強力單卡，以及兩根棒棒的 [Baseball Bat](https://scryfall.com/card/dsk/209/baseball-bat) 棒棒，讓我毫不猶豫地進入了納雅（紅綠白）路線，搭配綠色穩健的五張調色牌及兩張雙色地，我真的認為那是一副很有競爭力的套牌，兩輛[The Rollercrusher Ride](https://scryfall.com/card/dsk/155/the-rollercrusher-ride)連發可以終結比賽，就算對手命硬我也趁機達成躁狂了，看見完美組合的我露出了一抹竊笑嘿嘿。
+我和網站成員 [cephille](/authors/cephille/) 一起來到遊戲平方，從下午的四人局展開探索暮悲邸的旅程。第一場，包含售現贈卡共開到兩輛 [The Rollercrusher Ride](https://scryfall.com/card/dsk/155/the-rollercrusher-ride) ，再加上出現了 [Hedge Shredder](https://scryfall.com/card/dsk/183/hedge-shredder) 、 [Peer Past the Veil](https://scryfall.com/card/dsk/226/peer-past-the-veil) 、 [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) 等強力單卡，以及兩根棒棒的 [Baseball Bat](https://scryfall.com/card/dsk/209/baseball-bat) 棒棒，讓我毫不猶豫地進入了納雅（紅綠白）路線，搭配綠色穩健的五張調色牌及兩張雙色地，我真的認為那是一副很有競爭力的套牌，兩輛[The Rollercrusher Ride](https://scryfall.com/card/dsk/155/the-rollercrusher-ride)連發可以終結比賽，就算對手命硬我也趁機達成躁狂了，看見完美組合的我露出了一抹竊笑嘿嘿。
 ![](https://i.meee.com.tw/Zr6hjn0.jpg)
-第一場就對上了 [cephille](https://guildmagesforum.tw/tags/cephille/) ，我提醒自己這是個享受遊戲的時刻，要以輕鬆的心態享受~~說不定反而會打得更好對吧~~，結果輸了，心裡還是有股小小的鬱悶啊唉……
+第一場就對上了 [cephille](/authors/cephille/) ，我提醒自己這是個享受遊戲的時刻，要以輕鬆的心態享受~~說不定反而會打得更好對吧~~，結果輸了，心裡還是有股小小的鬱悶啊唉……
 > 筆者認為 cephille 在這系列的表現真的非常優秀，理由極其簡單：因為他認真且樂在其中。關於他的更專業視角請見[豬鼻子的 DSK 售前現開分享](https://guildmagesforum.tw/DSK-Prerelease-Experience-Cephille/)。
 
 第二場穩健地以 2:0 拿下；第三場我因為過度鬆散的心態，導致自己在某次該檢查 [Acrobatic Cheerleader](https://scryfall.com/card/dsk/1/acrobatic-cheerleader) 的時機 miss trigger 了，從那之後才開始嚴謹緊繃地打牌，最後決勝的第三局則嚴重爆地直接下課，成績以一勝兩敗作收。坦白說我覺得非常可惜，因為那是一套值得三勝的套牌，也意識到**先鬆後緊**的打牌方式是非常糟糕的**心理曲線**：既然自己的心中存在著好勝的成分，就不要刻意忽視它的存在。
 
 我在那天學到了寶貴的一課。
 
-和 [cephille](https://guildmagesforum.tw/tags/cephille/) 簡單填了一下肚子，又回去遊戲平方參加晚上的場次。再次打開六包補充包，這次的牌池比下午場淒慘太多……
+和 [cephille](/authors/cephille/) 簡單填了一下肚子，又回去遊戲平方參加晚上的場次。再次打開六包補充包，這次的牌池比下午場淒慘太多……
 
 ![](https://i.meee.com.tw/0Ax0C91.jpg)
 >嗯我真的盡力了，當時很想回家。
 
-最終組成了以 [Rip, Spawn Hunter](https://scryfall.com/card/dsk/228/rip-spawn-hunter) 、 [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) 、 [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum) （！？）三張R卡為炸彈的白綠弱雞套牌，腦袋裡纏繞著「下午那兩根 [Baseball Bat](https://scryfall.com/card/dsk/209/baseball-bat) 現在來該有多好……」、「下午那場好好把握的話該有多好……」等念頭，又打了個不進反退的一勝一敗一和，其中一敗依然是被 [cephille](https://guildmagesforum.tw/tags/cephille/) 澈底血洗的結果，那場離譜到大家都笑了XD反而非常歡樂~~畢竟有小丑嘛派對感就濃了~~。
+最終組成了以 [Rip, Spawn Hunter](https://scryfall.com/card/dsk/228/rip-spawn-hunter) 、 [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) 、 [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum) （！？）三張R卡為炸彈的白綠弱雞套牌，腦袋裡纏繞著「下午那兩根 [Baseball Bat](https://scryfall.com/card/dsk/209/baseball-bat) 現在來該有多好……」、「下午那場好好把握的話該有多好……」等念頭，又打了個不進反退的一勝一敗一和，其中一敗依然是被 [cephille](/authors/cephille/) 澈底血洗的結果，那場離譜到大家都笑了XD反而非常歡樂~~畢竟有小丑嘛派對感就濃了~~。
 
 > 筆者認為 cephille 在這系列的表現真的非常強勢XD就是想要再講一次。
 
@@ -92,7 +92,7 @@ excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享�
 
 ## 結語：從 0-3 到 3-0 之路
 
-筆者會想要開啟限制賽Review專欄的初心，是因為自己正好從一年前的依夏蘭迷窟（LCI）接觸限制賽，透過 [Guildmages’ Forum 所產出的文章](https://guildmagesforum.tw/categories/limited/)，一路從 **0-3** 的成績走到了今天的 **3-0** 。我的年紀稍長、學習與競技狀態已不在高峰，但既然我能透過努力獲得進步，相信其他玩家也有機會能感受到這份快樂，這是個人撰寫這篇文章的最大理由。
+筆者會想要開啟限制賽Review專欄的初心，是因為自己正好從一年前的依夏蘭迷窟（LCI）接觸限制賽，透過 [Guildmages’ Forum 所產出的文章](/categories/Limited/)，一路從 **0-3** 的成績走到了今天的 **3-0** 。我的年紀稍長、學習與競技狀態已不在高峰，但既然我能透過努力獲得進步，相信其他玩家也有機會能感受到這份快樂，這是個人撰寫這篇文章的最大理由。
 
 魔法風雲會真的是一款好有趣的遊戲，或許我們能拿出[烏班圖（Ubuntu）](https://zh.wikipedia.org/zh-tw/%E4%B9%8C%E7%8F%AD%E5%9B%BE)的精神，多花點精力珍惜及激勵彼此，讓華文圈的風氣和實力逆風向上，找出屬於我們的風采，這是我有點中二的遠大願景。
 

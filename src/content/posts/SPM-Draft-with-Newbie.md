@@ -67,16 +67,16 @@ categories:
 >感謝[睿卡潮玩](https://www.facebook.com/963Ruika)和我們一起推廣限制賽，當然要把握機會幫忙promote一下。
 
 ![](https://i.meee.com.tw/9K9fQC4.jpg)
->扛起SPM限制賽分析所有文案的真男人[阿詹](https://guildmagesforum.tw/tags/zhan/)，這次選牌似乎格外認真？
+>扛起SPM限制賽分析所有文案的真男人[阿詹](/authors/ZHAN/)，這次選牌似乎格外認真？
 
 ![](https://i.meee.com.tw/1ohxNtO.jpg)
 >好喔，另一邊倒是很輕鬆愉悅，一張長桌兩樣情。
 
 ![](https://i.meee.com.tw/HKphlfE.jpg)
->[終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)捏著token突然低喃一句：「好餓喔沒吃午餐……」
+>[終曲](/authors/T1BloodMoon/)捏著token突然低喃一句：「好餓喔沒吃午餐……」
 
 ![](https://i.meee.com.tw/Ma1NF22.jpg)
->[跳鼠](https://guildmagesforum.tw/tags/jerobamtg/)、博升、[Jru](https://guildmagesforum.tw/tags/jrumtg/)展開討論，博升後來也順利做出帥氣的蛛絲甩蕩（Web-slinging）。
+>[跳鼠](/authors/JerobaMTG/)、博升、[Jru](/authors/JruMTG/)展開討論，博升後來也順利做出帥氣的蛛絲甩蕩（Web-slinging）。
 
 ![](https://i.meee.com.tw/zdRK5eu.jpg)
 >抽選完畢熱血開戰！洗牌過程中看一下隔壁打什麼是很正常的事情。
@@ -89,7 +89,7 @@ categories:
 
 ## 小結
 
-當天的全勝玩家，有憑藉著[Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath)把把硬掃的[王靖](https://guildmagesforum.tw/tags/faintmama/)，以及第一包抽選過程中並未定色、盡可能挑選各主題運作keycard的[Jru](https://guildmagesforum.tw/tags/jrumtg/)。[王靖](https://guildmagesforum.tw/tags/faintmama/)更因為抓下八張R卡而榮登當天的場外贏家（甚至已經放掉了另三張R卡……）。根據我們當天的體驗，稀有卡的數量真是讓大家心滿意足。
+當天的全勝玩家，有憑藉著[Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath)把把硬掃的[王靖](/authors/faintmama/)，以及第一包抽選過程中並未定色、盡可能挑選各主題運作keycard的[Jru](/authors/JruMTG/)。[王靖](/authors/faintmama/)更因為抓下八張R卡而榮登當天的場外贏家（甚至已經放掉了另三張R卡……）。根據我們當天的體驗，稀有卡的數量真是讓大家心滿意足。
 
 然而勝負和卡牌不盡然是最重要的部分。賽後聽見讀者朋友說：「輪抽比想像更好玩有synergy」、「是目前玩得最開心的一次輪抽」，這些回饋讓我們清楚感受到活動的意義。筆者必須再誇獎一次SPM的蛛絲甩蕩（Web-slinging）異能，它讓新手也能感受到自己做出了優秀的決策，也表現出了漫威蜘蛛人最經典的特色。
 
@@ -99,7 +99,7 @@ categories:
 
 ## 玩家心得
 
-### [跳鼠](https://guildmagesforum.tw/tags/jerobamtg/)的分享：
+### [跳鼠](/authors/JerobaMTG/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 [可怖醫師反猛毒](https://scryfall.com/card/spm/1/anti-venom-horrifying-healer)。本日首抽，施放費用很硬的超級炸彈，今天的對手看到他出場都直接投降。
@@ -119,7 +119,7 @@ categories:
 ![](https://i.meee.com.tw/JksGOAA.jpg)
 >跳鼠的當日構築。
 
-### [Jru](https://guildmagesforum.tw/tags/jrumtg/)的分享：
+### [Jru](/authors/JruMTG/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 
@@ -143,7 +143,7 @@ categories:
 ![](https://i.meee.com.tw/eY9cEDR.jpg)
 >Jru的當日構築。
 
-### [阿詹](https://guildmagesforum.tw/tags/zhan/)的分享：
+### [阿詹](/authors/ZHAN/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 我認為是二張[Spider-Man India](https://scryfall.com/card/spm/151/spider-man-india)，原本覺得一張夠用，但考慮到我沒有其他更好的優秀生物穩定戰場，還是扣了下來。對戰過程中都有穩定上手，但因為對局相性的關係，不是每場都能順利進場發揮優勢。
@@ -164,7 +164,7 @@ categories:
 ![](https://i.meee.com.tw/RPZpe1A.jpg)
 >阿詹的當日構築。
 
-### [終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)的分享：
+### [終曲](/authors/T1BloodMoon/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 第一包第一pick的[Silk, Web Weaver](https://scryfall.com/card/spm/145/silk-web-weaver)跟第一包第二pick的[Supportive Parents](https://scryfall.com/card/spm/119/supportive-parents)，今天看到她就一直想要往無限組合技去找，也就是[Silk, Web Weaver](https://scryfall.com/card/spm/145/silk-web-weaver)+[Supportive Parents](https://scryfall.com/card/spm/119/supportive-parents)+[Arachne, Psionic Weaver](https://scryfall.com/card/spm/2/arachne-psionic-weaver) / [Spider-Man, Web-Slinger](https://scryfall.com/card/spm/16/spider-man-web-slinger)兩張，這樣就可以達成無限隻1/1人類市民，可惜後者只抓到一張(笑。
@@ -178,7 +178,7 @@ categories:
 ![](https://i.meee.com.tw/KergQjR.jpg)
 >終曲的當日構築。
 
-### [王靖](https://guildmagesforum.tw/tags/faintmama/)的分享：
+### [王靖](/authors/faintmama/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 絕對是第二包第二選的[Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath)，幫我贏下了所有對局。第二包第三選的[Shriek, Treblemaker](https://scryfall.com/card/spm/144/shriek-treblemaker)其實也至關重要，但當下的我還不知道她有多厲害XD。
@@ -207,7 +207,7 @@ categories:
 關鍵的回合應該是當對手成功結算[Parker Luck](https://scryfall.com/card/spm/60/parker-luck)時，由於那時候對手的手牌已經有點乾，而我這邊總算是成功靠去除控制住場面，但血線有點低。那時候的兩個選擇主要是要用[Superior Spider-Man](https://scryfall.com/card/spm/155/superior-spider-man)複製[Morbius the Living Vampire](https://scryfall.com/card/spm/137/morbius-the-living-vampire)或者去除掉對方場上兩隻4/3，一個是極度保守、另一個則是極度賭博，後來從結果回推，可能解掉一隻加上複製的中間路線會比較好。
 
 #### 請分享參與輪抽的感受吧
-我覺得整體的氣氛相當不錯，除了能體驗到剛上市不久的新系列(原本興趣不大，但這次玩完有點意猶未盡)，也從跟老手的交流討論上釐清了不少自己在選牌跟組牌的盲點，感覺限制賽功力又上升了一點，也感謝[王靖](https://guildmagesforum.tw/tags/faintmama/)大大的邀請、以及贊助此活動的[睿卡潮玩](https://www.facebook.com/963Ruika)跟[遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)。
+我覺得整體的氣氛相當不錯，除了能體驗到剛上市不久的新系列(原本興趣不大，但這次玩完有點意猶未盡)，也從跟老手的交流討論上釐清了不少自己在選牌跟組牌的盲點，感覺限制賽功力又上升了一點，也感謝[王靖](/authors/faintmama/)大大的邀請、以及贊助此活動的[睿卡潮玩](https://www.facebook.com/963Ruika)跟[遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)。
 
 ![](https://i.meee.com.tw/S62dPcD.jpg)
 >毓謙的抽選過程，從左至右由上而下。
@@ -221,7 +221,7 @@ categories:
 應該是我挑了兩張的[Rhino, Barreling Brute](https://scryfall.com/card/spm/140/rhino-barreling-brute)。雖然要7費，但是同時有Vigilance、Trample跟Haste，一旦放到場上就能給對手非常大的壓力，同時也能補充手牌。
 
 #### 今天的關鍵回合狀況如何？
-跟[王靖](https://guildmagesforum.tw/tags/faintmama/)的最後一回合，前期鋪場很順利，用幾張低費的生物削減了對手的血量，也靠著Web-slinging異能讓[Spider-Girl, Legacy Hero](https://scryfall.com/card/spm/149/spider-girl-legacy-hero)離場來增加場上生物。不過很可惜被對手一張[Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath)直接掃場，後續手牌不足的情況下被反轉了局勢。
+跟[王靖](/authors/faintmama/)的最後一回合，前期鋪場很順利，用幾張低費的生物削減了對手的血量，也靠著Web-slinging異能讓[Spider-Girl, Legacy Hero](https://scryfall.com/card/spm/149/spider-girl-legacy-hero)離場來增加場上生物。不過很可惜被對手一張[Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath)直接掃場，後續手牌不足的情況下被反轉了局勢。
 
 #### 請分享參與輪抽的感受吧
 這是我第三次參加輪抽，對於該怎麼挑卡還不是很懂，在pick中途改變想打的顏色，所以在最後組牌的時候有點困擾。幸好其他老手很願意給我建議，幫我調整顏色、生物與地的比例。對局中，對手也很熱情地幫我解惑，讓我能做出不錯的combo，這點滿令人開心的！

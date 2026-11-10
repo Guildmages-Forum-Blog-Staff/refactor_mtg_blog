@@ -16,7 +16,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 傍晚，約莫是將近六點鐘的時候吧？實在是記不太清楚了。我畢竟已經三十七歲，不得不開始服老，專注力確實是下降了不少。
 
-我和子安一起走出[CardMaster](https://www.facebook.com/cardmaster.tw)，打算走向街對面的摩斯漢堡，找柏宇會合。[cephille](https://guildmagesforum.tw/tags/cephille/)和[Jeff](https://guildmagesforum.tw/tags/jeffchen/)要走往南門市場的方向，和我們道別。腦袋裡突然掠過一個畫面、沒有任何意義的想像：[Jru](https://guildmagesforum.tw/tags/jrumtg/)因為感冒而沒來，如果他在，這場的結果會不會不太一樣？
+我和子安一起走出[CardMaster](https://www.facebook.com/cardmaster.tw)，打算走向街對面的摩斯漢堡，找柏宇會合。[cephille](/authors/cephille/)和[Jeff](/authors/jeffchen/)要走往南門市場的方向，和我們道別。腦袋裡突然掠過一個畫面、沒有任何意義的想像：[Jru](/authors/JruMTG/)因為感冒而沒來，如果他在，這場的結果會不會不太一樣？
 
 子安跟柏宇兩人，是我在Conquest賽制中認識的朋友，不時一起消磨時間，什麼形式都曾加減玩一下。應該是從八月份開始吧？推著子安及柏宇一起闖入近代的MITQ賽場。柏宇的[Boros Energy](https://www.mtggoldfish.com/archetype/modern-boros-energy#paper)很快便打出風采；子安經歷了不少情緒起伏，過程也以[Izzet Murktide](https://www.mtggoldfish.com/archetype/modern-izzet-murktide#paper)進入過四強；我則拿著兩套自創的Budget Deck（窮巴子套牌）慢慢打磨，賽季末終於和當時最主流的[Boros Energy](https://www.mtggoldfish.com/archetype/modern-boros-energy#paper)戰成五五開，但最好的成績也就2-2-2（兩勝兩敗兩和）而已，這遊戲真的好難。
 
@@ -122,7 +122,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 「喂！張子安！」
 我們叫子安坐捷運過去東門站，因為安全帽就只有兩頂而已，沒他的份，他終究得自己走去捷運站。
 
-半小時後，三人在[貓腳印東門店](https://www.facebook.com/@CatFootPrintDongMen.tw)集合完畢。店長雖然不在（後來得知，當時子睿正在南部出差，碰巧被我們家[MiohitoKiri5474](https://guildmagesforum.tw/tags/miohitokiri5474/)遇到，只能說世界真小），超級實惠有夠開心讚讚讚的方案依然順利開成。
+半小時後，三人在[貓腳印東門店](https://www.facebook.com/@CatFootPrintDongMen.tw)集合完畢。店長雖然不在（後來得知，當時子睿正在南部出差，碰巧被我們家[MiohitoKiri5474](/authors/MiohitoKiri5474/)遇到，只能說世界真小），超級實惠有夠開心讚讚讚的方案依然順利開成。
 
 三人說好打開卡包以後，只看主題而不看卡牌內容。第一場由我對決柏宇。我開出黑色噁心蟲蟲加上紅色哥布林的組合，柏宇則是綠色地落加上白色補血的搭配。三塊地時我準時拍下[Krenko, Tin Street Kingpin](https://scryfall.com/card/j25/572/krenko-tin-street-kingpin)，下回合再拍一張[Scavenged Blade](https://scryfall.com/card/j25/596/scavenged-blade)，快速打4並生出四隻1/1哥布林。再過一回合，柏宇應該認為手牌無力對抗我的海量雜魚軍團了，選擇投降，表情有點凝重。
 
@@ -136,9 +136,9 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 第二場由柏宇對決子安。過程怎麼樣我並沒有關心，真的是累了。與其說是想要打牌，其實只是在延長和朋友的相處時光。
 
-趁機打開團隊的Discord頻道。看到[cephille](https://guildmagesforum.tw/tags/cephille/)正在跟大家分享今日戰績，他第九，我第十一，可說是紮紮實實的苦情戰隊。鳥事經過時間的淬鍊就會成為趣談了，我開始覺得好笑，這樣也不錯，近滿而不滿。[Jru](https://guildmagesforum.tw/tags/jrumtg/)加入聊天，他的感冒應該是更好了一些，太棒了。
+趁機打開團隊的Discord頻道。看到[cephille](/authors/cephille/)正在跟大家分享今日戰績，他第九，我第十一，可說是紮紮實實的苦情戰隊。鳥事經過時間的淬鍊就會成為趣談了，我開始覺得好笑，這樣也不錯，近滿而不滿。[Jru](/authors/JruMTG/)加入聊天，他的感冒應該是更好了一些，太棒了。
 
-我很喜歡[MiohitoKiri5474](https://guildmagesforum.tw/tags/miohitokiri5474/)創立的這個網站、這個團隊。2023年11月份，依夏蘭迷窟發售以前，我因為發覺售現盒裡居然有張贈卡而對現開賽產生興趣（對，就是貪小便宜，害我越陷越深）。比賽前做了些研究，是我與魔風集會所的初次連結。沒有[MiohitoKiri5474](https://guildmagesforum.tw/tags/miohitokiri5474/)的一時興起，就沒有我和大家的緣分跟故事。
+我很喜歡[MiohitoKiri5474](/authors/MiohitoKiri5474/)創立的這個網站、這個團隊。2023年11月份，依夏蘭迷窟發售以前，我因為發覺售現盒裡居然有張贈卡而對現開賽產生興趣（對，就是貪小便宜，害我越陷越深）。比賽前做了些研究，是我與魔風集會所的初次連結。沒有[MiohitoKiri5474](/authors/MiohitoKiri5474/)的一時興起，就沒有我和大家的緣分跟故事。
 
 我其實也很喜歡今天和子安在MITQ上的那一戰，理由當然是因為我贏了，成功雪恥。
 

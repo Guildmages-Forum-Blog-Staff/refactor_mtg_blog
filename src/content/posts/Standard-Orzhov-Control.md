@@ -36,7 +36,7 @@ categories:
 第二場對手接了能鋪場與[Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler)補資源的起手，艱辛的放逐Quantum Riddler後我也沒有資源了，只能被打死。
 第三場對手在還有許多手牌時做了一發Warp進場的Quantum Riddler，判斷對手手牌不順，且我方手上的資源剛好支持給Deadly Cover-Up做掃場與放逐Quantum Riddler，便多花了一張殺牌給QR，將QR解決後我方場上還有[Ketramose, the New Dawn](https://scryfall.com/card/dft/209/ketramose-the-new-dawn)定場，對手完全無法解決便獲得勝利。
 
-確定Q到資格的當下還是蠻開心的，除了套牌很挺我沒有太嚴重的卡地爆地外，更重要的是當天沒有奇怪的失誤，可以很享受的打完每一把對局。比起勝負，我更傾向能將套牌的內容打好、能將我的遊戲計畫完整展現出來，也許，真的是也許，我的表現慾望稍微膨脹，所以向好友[faintmama](https://guildmagesforum.tw/tags/faintmama/)借了他的[不獾贏你](https://guildmagesforum.tw/Standard-Golgari-Midrange-without-Cub/)套牌來挑戰MIT正賽，因為我知道比起我的中規中矩控制套牌，這套不獾贏你有更多構築細節可以琢磨，更能展現構築者對魔法風雲會的熱愛。
+確定Q到資格的當下還是蠻開心的，除了套牌很挺我沒有太嚴重的卡地爆地外，更重要的是當天沒有奇怪的失誤，可以很享受的打完每一把對局。比起勝負，我更傾向能將套牌的內容打好、能將我的遊戲計畫完整展現出來，也許，真的是也許，我的表現慾望稍微膨脹，所以向好友[faintmama](/authors/faintmama/)借了他的[不獾贏你](https://guildmagesforum.tw/Standard-Golgari-Midrange-without-Cub/)套牌來挑戰MIT正賽，因為我知道比起我的中規中矩控制套牌，這套不獾贏你有更多構築細節可以琢磨，更能展現構築者對魔法風雲會的熱愛。
 
 後面再打一場LCQ維持牌感。
 
@@ -93,4 +93,4 @@ Swamp3張、Plains2張，因為我們有Fabled Passage與Demolition Field，所�
 ## 心得
 這是我第一次通過LCQ，之前許多次在MITQ與LCQ都無法順利取得資格，經過這次經驗後我認為有一起打牌的朋友很重要。
 人人都會看牌表、人人都會雲套牌互動，但有人實際分享對局經驗、提出對局關鍵單卡，甚至是借你實際操作都比自己來還要更好，雖然現在網路要蒐集套牌資料、找對局影片都很方便，但有人討論互動的回饋比自己雲還要有用。我自己對很多互動都不了解，也是到處問才漸漸更了解這個遊戲。
-這次能夠順利獲得資格，甚至在MIT打到20/75的成績，我並不認為是自己多厲害，更多的是朋友的支持與鼓勵，我是一個個性蠻麻煩的人，很多小事在我心裡都會被放大，各位的友善在我心裡都很感謝，尤其是謝謝[faintmama](https://guildmagesforum.tw/tags/faintmama/)的鼓勵。
+這次能夠順利獲得資格，甚至在MIT打到20/75的成績，我並不認為是自己多厲害，更多的是朋友的支持與鼓勵，我是一個個性蠻麻煩的人，很多小事在我心裡都會被放大，各位的友善在我心裡都很感謝，尤其是謝謝[faintmama](/authors/faintmama/)的鼓勵。

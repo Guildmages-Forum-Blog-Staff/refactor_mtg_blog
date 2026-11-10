@@ -198,7 +198,7 @@ excerpt: "最能體現綠色玩法的系列：跳費加速叫大怪！不就是�
 分數：4.0
 評語：333踐踏就有3.0分，他不只多了一攻，還可以讓你的生物被殺/被康/被指定時可以賺牌，打綠很難不首挑。
 
-> [cephille](https://guildmagesforum.tw/tags/cephille/)小註：從異能設計來看，新舊可汗隱隱有以下的隱喻：老可汗蘇拉克威猛依然，但在鐵木爾鋒疆的分工上更偏守土衛民；而新可汗[Eshki Dragonclaw](https://scryfall.com/card/tdm/182/eshki-dragonclaw)的異能就更適合開疆拓土。作為從KTK一路玩到現在的玩家，看著蘇拉克從年輕時的少年毆熊（[Savage Punch](https://scryfall.com/card/ktk/147/savage-punch)）、進化到DTK時的中年搏鱷（[Epic Confrontation](https://scryfall.com/card/dtk/185/epic-confrontation)）；再來與[血爪](https://scryfall.com/card/m19/186/goreclaw-terror-of-qal-sisma)盡釋前嫌，齊力對抗新非入侵（[Surrak and Goreclaw](https://scryfall.com/card/mom/337/surrak-and-goreclaw)）。如今於TDM步入暮年，交接可汗一職給新世代後，仍堅定守護著鐵木爾鋒疆，不禁令我有點感動。
+> [cephille](/authors/cephille/)小註：從異能設計來看，新舊可汗隱隱有以下的隱喻：老可汗蘇拉克威猛依然，但在鐵木爾鋒疆的分工上更偏守土衛民；而新可汗[Eshki Dragonclaw](https://scryfall.com/card/tdm/182/eshki-dragonclaw)的異能就更適合開疆拓土。作為從KTK一路玩到現在的玩家，看著蘇拉克從年輕時的少年毆熊（[Savage Punch](https://scryfall.com/card/ktk/147/savage-punch)）、進化到DTK時的中年搏鱷（[Epic Confrontation](https://scryfall.com/card/dtk/185/epic-confrontation)）；再來與[血爪](https://scryfall.com/card/m19/186/goreclaw-terror-of-qal-sisma)盡釋前嫌，齊力對抗新非入侵（[Surrak and Goreclaw](https://scryfall.com/card/mom/337/surrak-and-goreclaw)）。如今於TDM步入暮年，交接可汗一職給新世代後，仍堅定守護著鐵木爾鋒疆，不禁令我有點感動。
 
 
 <!---162--->

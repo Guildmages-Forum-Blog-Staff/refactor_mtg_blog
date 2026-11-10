@@ -88,5 +88,5 @@ authors:
 ## 比賽心得
 
 這是我從開始玩MTG後，參加了5次的MIT中取得最好的成績，可惜這次差一點就可以去PT了，只能下一場再加油了，順便等我的特休重新充值，希望下一場可以拿到更好的成績，讓我們一起努力變強吧。
-在這邊要感謝吉殺隊的各位練牌好夥伴，[阿懋](https://guildmagesforum.tw/tags/zhi-mao/)、阿勳、[阿德](https://guildmagesforum.tw/tags/enki/)、阿蘇、阿軍、蹦蹦、[KULA](https://guildmagesforum.tw/tags/david-yeh/)以及其他比賽有碰到的各位大大，大家都玩不同套牌讓我能對幾乎整體環境都有充分的理解。
+在這邊要感謝吉殺隊的各位練牌好夥伴，[阿懋](/authors/zhi-mao/)、阿勳、[阿德](/authors/Enki/)、阿蘇、阿軍、蹦蹦、[KULA](/authors/david-yeh/)以及其他比賽有碰到的各位大大，大家都玩不同套牌讓我能對幾乎整體環境都有充分的理解。
 如果想要討論紅白召集的都可以直接跟我說，讓我們來一起成為頂級召（陽）集（壽）人。
