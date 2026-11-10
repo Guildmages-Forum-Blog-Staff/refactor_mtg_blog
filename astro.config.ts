@@ -47,8 +47,8 @@ const legacyRedirects = {
 export default defineConfig({
   site: 'https://guildmagesforum.tw',
   base: BASE,
-  redirects: legacyRedirects,
   compressHTML: true,
+  redirects: legacyRedirects,
   server: {
     host: true,
     allowedHosts: ['gf-preview.miohitokiri5474.tw', 'guildmagesforum.tw'],
