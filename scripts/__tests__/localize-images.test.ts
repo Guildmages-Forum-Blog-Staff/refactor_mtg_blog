@@ -75,6 +75,15 @@ describe('localizeImages', () => {
     expect(meta).toMatchObject({ format: 'webp', width: 1200 });
   });
 
+  it('accepts a cover URL with stray whitespace', async () => {
+    const r = await localizeImages(
+      { cover: 'https://i.meee.com.tw/c.png ' },
+      '',
+      opts(async () => respond(png, 'image/png')),
+    );
+    expect(r.frontmatter.cover).toMatch(/-cover\.jpg$/);
+  });
+
   it('skips the download when the file already exists (re-import)', async () => {
     const fetchImpl = vi.fn(async () => respond(png, 'image/png'));
     const first = await localizeImages({}, '![](https://i.imgur.com/a.png)', opts(fetchImpl));
