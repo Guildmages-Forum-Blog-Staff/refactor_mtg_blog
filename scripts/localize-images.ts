@@ -71,7 +71,10 @@ async function download(url: string, fetchImpl: FetchLike): Promise<Buffer> {
     throw new Error('image was removed by the host');
   }
   const type = res.headers.get('content-type') ?? '';
-  if (!type.startsWith('image/')) throw new Error(`not an image (content-type: ${type || 'none'})`);
+  // Some CDNs (melee.gg, mtggoldfish) label images as octet-stream; sharp rejects non-images later.
+  if (!/^(image\/|(application|binary)\/octet-stream)/.test(type)) {
+    throw new Error(`not an image (content-type: ${type || 'none'})`);
+  }
   if (Number(res.headers.get('content-length') ?? 0) > MAX_BYTES) throw new Error('too large');
   const buf = Buffer.from(await res.arrayBuffer());
   if (buf.length > MAX_BYTES) throw new Error('too large');

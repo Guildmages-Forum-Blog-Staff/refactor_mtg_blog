@@ -107,6 +107,22 @@ describe('localizeImages', () => {
     expect(new Set(r.body.match(/\w{12}\.webp/g))).toHaveProperty('size', 2);
   });
 
+  it('accepts an image served as octet-stream but rejects non-image bytes', async () => {
+    const ok = await localizeImages(
+      {},
+      '![](https://cdn.melee.gg/a.png)',
+      opts(async () => respond(png, 'application/octet-stream')),
+    );
+    expect(ok.warnings).toEqual([]);
+    const bad = await localizeImages(
+      {},
+      '![](https://cdn.melee.gg/b.png)',
+      opts(async () => respond('<html>', 'binary/octet-stream')),
+    );
+    expect(bad.warnings).toHaveLength(1);
+    expect(bad.body).toBe('![](https://cdn.melee.gg/b.png)');
+  });
+
   it('accepts a cover URL with stray whitespace', async () => {
     const r = await localizeImages(
       { cover: 'https://i.meee.com.tw/c.png ' },
