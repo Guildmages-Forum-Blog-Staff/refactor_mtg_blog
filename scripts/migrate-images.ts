@@ -1,8 +1,7 @@
 #!/usr/bin/env node
-// One-off backfill: move existing posts' cover/thumbnail images into the images
-// repo, same rules as `npm run post` (see localize-images.ts).
+// One-off backfill: move existing posts' cover/thumbnail and in-article images
+// into the images repo, same rules as `npm run post` (see localize-images.ts).
 // Usage: npx tsx scripts/migrate-images.ts <images-repo-clone> [post-slug...]
-// ponytail: covers only for now; add a body mode when we migrate in-article images.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
@@ -39,10 +38,11 @@ async function main(): Promise<void> {
   for (const file of files) {
     const slug = file.replace(/\.mdx?$/, '');
     const src = fs.readFileSync(path.join(POSTS_DIR, file), 'utf8');
-    const fm = yaml.load(src.slice(3, src.indexOf('\n---', 3))) as CoverFields;
+    const end = src.indexOf('\n---', 3);
+    const fm = yaml.load(src.slice(3, end)) as CoverFields;
     const before = { cover: fm.cover, thumbnail: fm.thumbnail };
 
-    const { frontmatter, warnings } = await localizeImages(before, '', {
+    const { frontmatter, body, warnings } = await localizeImages(before, src.slice(end), {
       imagesDir,
       baseUrl,
       subdir: `posts/${slug}`,
@@ -54,10 +54,11 @@ async function main(): Promise<void> {
     for (const k of ['cover', 'thumbnail'] as const) {
       if (before[k] && frontmatter[k] !== before[k]) map.set(before[k]!, frontmatter[k]!);
     }
-    if (map.size === 0) continue;
-    fs.writeFileSync(path.join(POSTS_DIR, file), replaceInFrontmatter(src, map));
+    const out = replaceInFrontmatter(src.slice(0, end) + body, map);
+    if (out === src) continue;
+    fs.writeFileSync(path.join(POSTS_DIR, file), out);
     changed++;
-    console.log(`${slug}: ${[...map.values()].join(' ')}`);
+    console.log(`${slug}: rewritten`);
   }
   console.log(`[migrate-images] ${changed} posts rewritten, ${failed} images failed`);
 }
