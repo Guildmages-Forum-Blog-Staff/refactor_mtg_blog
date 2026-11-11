@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { GetStaticPathsOptions } from 'astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { categoryDescription, categoryLabel } from '../../../config/categories';
 import Navbar from '../../../components/Navbar.astro';
 import type { PaginatedPostsProps } from '../../../utils/pagination';
 import { excludePreviewPosts, postSlug, sortByDateDesc } from '../../../utils/posts';
@@ -51,12 +52,15 @@ function getPaginationItems(current: number, last: number): (number | '...')[] {
 
 const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
 const catBase = `${import.meta.env.BASE_URL}categories/${cat}`;
+const label = categoryLabel(cat);
+const description = categoryDescription(cat);
 ---
 
 <BaseLayout
   title={page.currentPage === 1
-    ? `${cat} | Categories`
-    : `${cat} — Page ${page.currentPage} | Categories`}
+    ? `${label} | Categories`
+    : `${label} — Page ${page.currentPage} | Categories`}
+  description={description}
 >
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">
@@ -68,7 +72,8 @@ const catBase = `${import.meta.env.BASE_URL}categories/${cat}`;
         >
           ← All Categories
         </a>
-        <h1 class="dark:text-dark-fg mt-2 text-2xl font-bold text-gray-900">{cat}</h1>
+        <h1 class="dark:text-dark-fg mt-2 text-2xl font-bold text-gray-900">{label}</h1>
+        <p class="dark:text-dark-fg/70 mt-2 text-sm leading-relaxed text-gray-600">{description}</p>
         <p class="dark:text-dark-fg/50 mt-1 text-sm text-gray-400">{page.total} 篇文章</p>
       </div>
 
