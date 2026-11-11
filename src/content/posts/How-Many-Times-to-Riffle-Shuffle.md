@@ -96,7 +96,7 @@ excerpt: "你不洗亂牌，遊戲就不好玩"
 > **註一**、 Riffle Shuffle 的概念：
 > 1. 分牌：想像你手中有一副牌，將它分成兩疊。這個動作就像是用大拇指和其他手指將牌分成兩部分。
 > 2. 交錯插入：接著，從這兩疊牌中交替地隨機抽出一~三張牌，將它們重新組合成一副牌。這個過程就像是將兩疊牌的邊緣對齊，然後用手指輕輕地讓牌交錯地掉落。
-    > ![](https://upload.wikimedia.org/wikipedia/commons/1/1e/Riffle_shuffle_1.jpg)
+    > ![](https://images.guildmagesforum.tw/posts/How-Many-Times-to-Riffle-Shuffle/1eedece3eefe.webp)
 
 
 ### 二、模擬分析結果

@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 綠色"
 date: "2024-07-26 00:09:23"
-cover: "https://media.wizards.com/2024/images/daily/cardart_bakersbane_duo_raluca_marinescu_t1noarrb0ki8.webp"
-thumbnail: "https://media.wizards.com/2024/images/daily/cardart_bakersbane_duo_raluca_marinescu_t1noarrb0ki8.webp"
+cover: "https://images.guildmagesforum.tw/posts/BLB-Green/333ceeafc1b8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-Green/333ceeafc1b8-cover.jpg"
 excerpt: "看似五色動物主題中最和藹可親的綠色可愛小動物們，卻有著穩定成長的異能，要是輕忽就會直接被大怪踏死"
 categories:
   - "Limited"

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/4AcOPybnPT.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/4AcOPybnPT.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-Green/b4a713d21a4b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-Green/b4a713d21a4b-cover.jpg"
 excerpt: "最能體現綠色玩法的系列：跳費加速叫大怪！不就是幾條龍王嗎？看我用拳頭打回去！"
 ---
 

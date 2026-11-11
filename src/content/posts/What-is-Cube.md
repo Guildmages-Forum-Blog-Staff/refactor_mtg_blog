@@ -275,16 +275,16 @@ MAGIC是一個結合象棋遊戲特性的卡牌遊戲，生物就是你的棋子
 
 3. **風格**：我的第一個CUBE是希望小朋友看了也會喜歡的，所以從BLB的小動物為基底開始構築，也加了再WOE很受歡迎的歷險牌，其他思路請參考卡表
    - 白色：
-![cube_white_part](https://imgur.com/zvBSac3.png)
+![cube_white_part](https://images.guildmagesforum.tw/posts/What-is-Cube/3f48a0264a65.webp)
 走向是小生物以及衍生物系列，也加上了MKM的 {% mtglink "Marketwatch Phantom" %} 、與小馬 {% mtglink "Neighborhood Guardian" %} ；也加入了 {% mtglink "Stockpiling Celebrant" %} 來重複使用結界或ETB生物。
    - 黑色：
-![cube_black_part](https://imgur.com/NLGI2XY.png)
+![cube_black_part](https://images.guildmagesforum.tw/posts/What-is-Cube/1939742ec3a7.webp)
 加入 {% mtglink "Phyrexian Warhorse" %} 來讓黑白有威嚇力； {% mtglink "High Fae Negotiator" %} 、 {% mtglink "Wick's Patrol" %} 則是作為藍黑的終結者。
    - 紅色：
-![cube_red_part](https://imgur.com/FRy5ihU.png)
+![cube_red_part](https://images.guildmagesforum.tw/posts/What-is-Cube/f908cad4088a.webp)
 加了不少2 body： {% mtglink "Chimney Rabble" %} 、 {% mtglink "Edgewall Pack" %} 、 {% mtglink "Prickly Pair" %} 。
    - 綠色：
-![cube_green_part](https://imgur.com/bXL8eSp.png)
+![cube_green_part](https://images.guildmagesforum.tw/posts/What-is-Cube/b08906bae0a7.webp)
 加入了SNC的瑰寶 {% mtglink "Jewel Thief" %} ，以及限制賽內我很喜歡的小遊戲 {% mtglink "A Killer Among Us" %} 。綠色這邊我往滿滿場面優勢這個方向去構築。
 
 完成了！！可以開始測試了！！祝測試愉快。

@@ -41,7 +41,7 @@ categories:
 
 到了接近比賽時，考慮到前面的賽場情勢分析，我認為我選擇的套牌必須要能打贏Izzet Prowess以及各式黑底中速，因此我淘汰了Jeskai Control；Izzet Prowess是因為我從沒接觸過快攻這個類別，賽前的練習時間不足以累積足夠多的經驗；Golgari Midrange雖出現了一版讓我很心動的配置，實際測試起來也表現不錯，但對全知的勝率大約五成，對其他的勝率未知，在思慮再三後放棄。
  
-![Golgari Midrange by Linden Koot](https://meee.com.tw/zEt15gR.jpg)
+![Golgari Midrange by Linden Koot](https://images.guildmagesforum.tw/posts/MIT-9-Review-sertyple/8650b2d21716.webp)
 <p class="text-center"><a class="small">Golgari Midrange by Linden Koot</a></p>
 
 
@@ -56,7 +56,7 @@ categories:
 
 這邊是我這次比賽使用的SBG，在整理SBG時可以很好的弄清楚每張備牌的用途，在準備過程中可以發現自己對那些可能遇上的套牌還不夠了解，發現問題後找出自己以及對方的優勢及弱勢，對於建立對上每種套牌的方針有很大的作用。
  
-![Domain SBG](https://meee.com.tw/P4ndiu5.jpg)
+![Domain SBG](https://images.guildmagesforum.tw/posts/MIT-9-Review-sertyple/a7270245a5f6.webp)
 
 ## 練習經過
 

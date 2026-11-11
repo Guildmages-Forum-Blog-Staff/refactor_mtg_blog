@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/gM0HSWtU7N.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/gM0HSWtU7N.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-White/adc45dfe2f93-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-White/adc45dfe2f93-cover.jpg"
 excerpt: "Token，到處都是token"
 ---
 

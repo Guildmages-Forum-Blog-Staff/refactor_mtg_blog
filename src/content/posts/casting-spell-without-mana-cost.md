@@ -15,7 +15,7 @@ MTG的咒語中存在著一種特殊異類，它們沒有正常的施放費用�
 
 但是問起背後是怎樣底層規則在運作? 或許就不是那麼明白了，如果對於這些規則有著刨根問底的興趣，就來看看這次的文章吧。
 
-![Suspend Spell](https://imgur.com/efApFCT.jpg)
+![Suspend Spell](https://images.guildmagesforum.tw/posts/casting-spell-without-mana-cost/8d2fd0de24ae.webp)
 
 [壞滅足跡](https://scryfall.com/card/mh1/160/zht/%E5%A3%9E%E6%BB%85%E8%B6%B3%E8%B7%A1)&[走骨行屍](https://scryfall.com/card/tsr/121/zht/%E8%B5%B0%E9%AA%A8%E8%A1%8C%E5%B1%8D)，Modern最常見的無費用咒語代表
 

@@ -20,7 +20,7 @@ excerpt: "歡迎來到漫威超級英雄的世界！你心中最具代表性的�
 - 機制介紹請看這篇：[漫威超級英雄機制解析](https://guildmagesforum.tw/MSH-mechanism/)
 
 ## 色組主題
-![](https://media.wizards.com/2026/images/daily/b7uhlyEnwc/en_JQpeGc0z0U.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/16ab97db8634.webp)
 
 ### <span style="color:#006DB3">藍</span><span style="color:#C3B270">白</span> 聯合協作（Teamwork）
 

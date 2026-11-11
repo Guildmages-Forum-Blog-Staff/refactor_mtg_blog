@@ -1,8 +1,8 @@
 ---
 title: "卡洛夫莊園謀殺案標準初探"
 date: "2024-02-09 01:44:58"
-cover: "https://media.wizards.com/2024/images/daily/B0wjj9QMXlAt.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/B0wjj9QMXlAt.png"
+cover: "https://images.guildmagesforum.tw/posts/MKM-Standard-Preliminary/0535d1d9737e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MKM-Standard-Preliminary/0535d1d9737e-cover.jpg"
 excerpt: "來看看卡洛夫莊園謀殺案有甚麼新的標準構築"
 categories:
   - "Construct"

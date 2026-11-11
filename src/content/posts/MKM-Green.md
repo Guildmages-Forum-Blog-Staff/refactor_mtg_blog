@@ -1,8 +1,8 @@
 ---
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 綠色"
 date: "2024-02-02 11:04:49"
-cover: "https://media.wizards.com/2023/images/daily/KtnNh2uB95HD.png"
-thumbnail: "https://media.wizards.com/2023/images/daily/KtnNh2uB95HD.png"
+cover: "https://images.guildmagesforum.tw/posts/MKM-Green/8361af9f5479-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MKM-Green/8361af9f5479-cover.jpg"
 excerpt: "在多色環境裡，綠色就是KING!"
 categories:
   - "Limited"

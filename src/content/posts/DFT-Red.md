@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/tkVRW04nhp.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/tkVRW04nhp.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-Red/9e82db9acd91-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Red/9e82db9acd91-cover.jpg"
 excerpt: "紅色有許多乍看之下虧節奏，但戰局拉長後能獲得優勢的單卡，如果不介意打多色套牌的話，建議可以拿一些紅色單卡輔助。"
 ---
 

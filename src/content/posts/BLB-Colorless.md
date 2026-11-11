@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 —  無色 & 地 & 特別來賓（SPG）"
 date: "2024-07-26 00:09:45"
-cover: "https://media.wizards.com/2024/images/daily/17schzxxd1tc.webp"
-thumbnail: "https://media.wizards.com/2024/images/daily/17schzxxd1tc.webp"
+cover: "https://images.guildmagesforum.tw/posts/BLB-Colorless/3cc83ec647c0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-Colorless/3cc83ec647c0-cover.jpg"
 excerpt: "托斯奇佩帶紅藍劍攻擊，請問要投降嗎？"
 categories:
   - "Limited"

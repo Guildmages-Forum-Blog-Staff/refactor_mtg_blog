@@ -113,26 +113,26 @@ authors:
 
 ### Boros Heroic
 
-![](https://cdn.melee.gg/decklists/4f52169f-9a2b-4ace-be7e-c637e5dcafa6.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/5a52299002f0.webp)
 
 勇行現在環境挺不錯的，基本上二回準時出連擊籌謀人都要給尊重殺掉，不然一不小心就有可能被三回殺。
 
 ### Abzan Greasefang
 
-![](https://cdn.melee.gg/decklists/8b1db925-8833-4893-8843-5cea8554cb9f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/9d186d5fb40a.webp)
 
 老鼠車整體構築也沒有太多變動，這個構築正編有 [Collective Brutality](https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285)、[Duress](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)、[Sheoldred, the Apocalypse](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568)、[Liliana of the Veil](https://cards.scryfall.io/large/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1673307126) 各一張，應該是想保留打成 Abzan Midrange 的可能性。
 
 ### Lotus Field Combo
 
-![](https://cdn.melee.gg/decklists/3fa01e82-8eae-4f81-96e3-08f950f0b76f.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/1fac92d7fcb4.webp)
 
 這一套蓮花田跟歐洲冠軍的牌表大同小異，不過選擇少帶一張 [Discontinuity](https://cards.scryfall.io/large/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451) 換成放 [Dig Through Time](https://cards.scryfall.io/large/front/2/b/2b0c111a-236f-449a-95b1-274a1dfa546d.jpg?1673483878)，應該是想要在中後期做更多的找資源。
 
 ### Rakdos Midrange
 
-![](https://cdn.melee.gg/decklists/05b4c898-b9a2-4464-a930-b21c32895b41.jpg?v=1)
-![](https://cdn.melee.gg/decklists/ce268ce3-f4ae-4b77-8132-b476b94317e9.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/29809bd89cfc.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/f7e704f015fb.webp)
 
 我猜澳洲/紐西蘭人比較不喜歡綠獻、打的人比較少，因此看到蠻多紅黑都選擇不帶 [Misery's Shadow](https://cards.scryfall.io/large/front/5/1/514c5e77-9ecc-41c9-b104-76343601fafb.jpg?1674420938)，放更多的內戰優勢牌。
 
@@ -140,18 +140,18 @@ authors:
 
 ### Boros Convoke
 
-![](https://cdn.melee.gg/decklists/d4f79146-c2fb-47de-b034-931895d5944f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/33efc1e49125.webp)
 
 Convoke 也是跟之前沒有太多的變動，不過這個構築應該是想要衝一下上限，看有沒有機會一回生三隻二回丟 [Ornithopter](https://cards.scryfall.io/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362) 和 [Reckless Bushwhacker](https://cards.scryfall.io/large/front/0/4/0405b1b9-976a-4aaf-bec6-fa006decea74.jpg?1562895780) 打九點，所以還是有一張 Reckless Bushwhacker，另外選擇放 [Thalia, Guardian of Thraben](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106) 而不是 [Clarion Spirit](https://cards.scryfall.io/large/front/8/6/86a4c348-1012-4339-960a-c7bc7fd84fbb.jpg?1631045559)，應該是為了卡對手的掃場，多一回合的 cycle 幾乎確定可以斬掉控制。
 另外帶兩張 [Giant Killer](https://cards.scryfall.io/large/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1572489685) 應該是為了針對那些生物體質比較大的套牌，這個構築可以說是很針對賽場環境調整的版本。
 
-![](https://cdn.melee.gg/decklists/d2e9dd5e-8228-454b-a0b3-0cdcd61747fe.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/cf63391704ca.webp)
 
 而另一個八強構築則是比較常見，針對牌幾乎都在備編。
 
 ### Gruul Vehicles
 
-![](https://cdn.melee.gg/decklists/ace5439e-ed88-44ff-a573-50d282e77d4b.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/9c8c6d7fc929.webp)
 
 之前好像沒有提到古魯載具在 WOE 後的變化。
 
@@ -221,19 +221,19 @@ Convoke 也是跟之前沒有太多的變動，不過這個構築應該是想要
 
 ### Rakdos Sacrifice
 
-![](https://cdn.melee.gg/decklists/66f98972-05b9-48e6-9abd-7b6ca14b1f0f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/920758cec2a2.webp)
 
 犧牲還是一如往常的樣子，不過備牌的判刑選擇帶 [The Akroan War](https://cards.scryfall.io/large/front/7/8/78161e60-878a-45a2-aced-40b739bd0a07.jpg?1674141847) 應該是想要避免抓過來沒事情做，至少還能多打/擋一拳之後再看看要怎麼做。
 
 ### Rakdos Midrange
 
-![](https://cdn.melee.gg/decklists/b39ec077-cb4c-451f-8b22-7dedfaff12ea.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/d1b6f8681f99.webp)
 
 這一套中速構築選擇帶第四張 Sheoldred，並且備牌有三張 [Damping Sphere](https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759) 和三張 [Leyline of the Void](https://cards.scryfall.io/large/front/0/4/04d5d429-e0c6-42cc-a477-da7dabb1c295.jpg?1592516724) 應該是很討厭鳳凰（雖然看他的 pairing 一場都沒遇到）。
 
 ### Waste Not
 
-![](https://cdn.melee.gg/decklists/e5501b1b-9d77-4927-b50a-fc017030d206.jpg?v=4)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/d23c58d17e53.webp)
 
 這個 Waste Not 居然是 6-0 開局我超意外。
 
@@ -247,27 +247,27 @@ Convoke 也是跟之前沒有太多的變動，不過這個構築應該是想要
 
 ### Boros Convoke
 
-![](https://cdn.melee.gg/decklists/a664bc0b-d0de-477c-8aac-fb7f1d75938d.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/196073694861.webp)
 
 很標準的 Convoke 構築。
 
 ### Izzet Phoenix
 
-![](https://cdn.melee.gg/decklists/bca27125-8591-49ad-bb72-1c41f6a08cb3.jpg?v=1)
-![](https://cdn.melee.gg/decklists/cb401461-50c3-49b7-b4a7-3e2e24a83bbd.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/9324812bc688.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/162ba6b9afc0.webp)
 
 兩套的 list 看起來差不多有 87% 像，比較需要注意的是現在會多帶 [Picklock Prankster](https://cards.scryfall.io/large/front/5/e/5ebac73a-1ecf-4e6d-87b1-ea560bfeb064.jpg?1692937214)，而 [Chart a Course](https://cards.scryfall.io/large/front/9/8/98291778-2ec2-47e2-ac99-5f8cfbb3cf24.jpg?1562560509) 已經幾乎沒有人在帶了。
 
 ### Rona Lukka Combo
 
-![](https://cdn.melee.gg/decklists/50b9cc63-e817-41d9-816e-26652486d034.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/cfe86a08d155.webp)
 
 跟之前歐洲 RC 的牌表大同小異，詳細的內容可以看[那一篇文章](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/#Fire-Color-Combo)。
 不過這套牌選擇帶更多的去除來抗快攻，掃場和掉手都沒帶了。
 
 ### Abzan Greasefang
 
-![](https://cdn.melee.gg/decklists/05a877e4-8af9-4e55-bf23-5fd7fb3a087d.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/83b97f84703a.webp)
 
 老鼠車標準構築，不過備牌帶了兩張新的歷險牌 [Mosswood Dreadknight](https://cards.scryfall.io/large/front/9/8/9869ac70-5907-45fa-952c-31aef70c5066.jpg?1692939707)，應該是用來打備牌局的資源戰；還有兩張 [Deafening Silence](https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660) 應該是用來打鳳凰用的。
 

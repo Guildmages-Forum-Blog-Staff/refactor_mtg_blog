@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/5UnzzVTnVL.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/5UnzzVTnVL.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-Red/5fcdfcbab391-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-Red/5fcdfcbab391-cover.jpg"
 excerpt: "紅色就是速度，卡恰！想打快攻一定要混一點紅色的吧！"
 ---
 

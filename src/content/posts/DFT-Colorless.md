@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/dBVKGQPkXQ.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/dBVKGQPkXQ.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-Colorless/c5f94c4704b4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Colorless/c5f94c4704b4-cover.jpg"
 excerpt: "在追求極速的大賽中，你需要各種補給、干擾對手的道具、以及定點維修的服務！如果路上能撿到一台雲威號那就更棒了！"
 ---
 

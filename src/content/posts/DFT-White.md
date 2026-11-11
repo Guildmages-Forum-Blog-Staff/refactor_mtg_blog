@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/3VA5YVXzco.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/3VA5YVXzco.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-White/efad2a5224f3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-White/efad2a5224f3-cover.jpg"
 excerpt: "白色有好多高又大的車車，熱情開飆"
 ---
 

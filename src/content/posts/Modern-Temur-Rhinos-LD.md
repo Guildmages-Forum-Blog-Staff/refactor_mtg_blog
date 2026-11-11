@@ -66,7 +66,7 @@ Domain Zoo與Domain Rhinos變多，也讓許多套牌開始放MKM最強C卡 — 
 
 在構築時的感覺是套牌塞得滿滿，可動位置實在太少，以下圖[美國RC第7名的Domain Rhinos](https://melee.gg/Decklist/View/363672)為例，應該還是[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)被禁前最常見的正備構成，是一個大家都一樣的制服套牌。
 
-![](https://cdn.melee.gg/decklists/30b0ae85-2ed3-4d93-942a-ae922432e88b.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/af1a351e0cb9.webp)
 
 要說Domain Rhinos最明顯的差異應該是：
 
@@ -95,7 +95,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 我最後的套牌如下：[MIT#5 Temur Rhinos_David Yeh](https://melee.gg/Decklist/View/376466)
 
-![](https://cdn.melee.gg/decklists/776097e1-c21a-4c11-a072-f19e4348b046.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/89f218a4e188.webp)
 
 ### 正編介紹
 
@@ -157,7 +157,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 #### 選用的備牌
 
-![](https://cdn.melee.gg/decklists/34d883b5-f3ca-4e13-83db-8b09f8989b27.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/13646bafce87.webp)
 
 選用的備牌主要參考[美國RC 冠軍Minh Nguyen的套牌](https://melee.gg/Decklist/View/366769)，我希望我的備牌至少有四個反擊咒語、四個拆、以及四張[堅忍](https://scryfall.com/card/mh2/157/endurance)。
 

@@ -5,8 +5,8 @@ categories:
   - "MTG Rules"
 authors:
   - "JruMTG"
-cover: "https://media.wizards.com/2018/images/daily/c4rd4r7_9CleBJNchb.jpg"
-thumbnail: "https://media.wizards.com/2018/images/daily/c4rd4r7_9CleBJNchb.jpg"
+cover: "https://images.guildmagesforum.tw/posts/What-is-Dependency/67bc12163786-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-Dependency/67bc12163786-cover.jpg"
 excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 ---
 

@@ -2,7 +2,7 @@
 title: "先驅簡易環境指南"
 date: 2023-09-21 14:00:00
 excerpt: "給新加入的玩家、或是想要入坑先驅賽制的玩家的一個建議！"
-cover: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Introduction/024fc03dfea8-cover.jpg"
 thumbnail: "https://guildmagesforum.tw/images/mtg-pioneer.jpg"
 categories:
   - "Construct"

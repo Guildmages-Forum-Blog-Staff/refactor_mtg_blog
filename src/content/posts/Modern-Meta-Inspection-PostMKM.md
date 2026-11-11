@@ -1,8 +1,8 @@
 ---
 title: "Modern 環境考察 post MKM"
 date: "2024-02-25 22:42:26"
-cover: "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2024/01/23/MTG-Leyline-header.jpg"
-thumbnail: "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2024/01/23/MTG-Leyline-header.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/ddb4267b9ddc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/ddb4267b9ddc-cover.jpg"
 excerpt: "我的犀牛現在有警戒辟邪先攻繫命踐踏，你要鏟牌了嗎？"
 categories:
   - "Construct"
@@ -74,29 +74,29 @@ authors:
 
 ### Temur Rhinos
 
-![](https://cdn.melee.gg/decklists/34d883b5-f3ca-4e13-83db-8b09f8989b27.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/13646bafce87.webp)
 
 如同在上一篇環境考察的有提到，Rhinos 應該是一部分會將刺探地加入構築的套牌，畢竟在前兩回合犀牛通常都沒有太多事情做，比較有彈性下刺探地濾牌庫頂。
 
 ### Living End
 
-![](https://cdn.melee.gg/decklists/12643059-f0ed-4593-b576-82f63ebc57f6.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/445dc6659cff.webp)
 
 雖然都是 cascade 系統，不過因為 Living End 前期需要費用 cycle 生物，因此不會投入刺探地。
 這套牌比較特殊，加入了四張 [Living End](https://scryfall.com/card/tsr/121/living-end) 通常現在環境中的 Living End 會避免抽太多上手只會帶三張（畢竟這東西抽上手不像 [Crashing Footfalls](https://scryfall.com/card/mh1/160/crashing-footfalls) 有很低的 suspend 費用）。
 
 ### Golgari Yawgmoth
 
-![](https://cdn.melee.gg/decklists/ab06251c-aae3-429e-b069-028818ca99ee.jpg?v=1)
-![](https://cdn.melee.gg/decklists/80747f3a-0b49-4d52-98cc-f7cbdef33fde.jpg?v=1)
-![](https://cdn.melee.gg/decklists/fb98570c-2aab-48f3-9599-39fb872c105c.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/fdc9a9f4b702.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/57534372b658.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/121dee437e62.webp)
 
 最近 Yawgmoth 的表現挺不錯的，不少八強套牌都有看到他的蹤跡。
 構築基本上跟之前差不多，不過有些玩家試著投入一張刺探地，畢竟將生物堆進墳場給鍋子當肥料還是很不錯的。
 
 ### 5C Creativity
 
-![](https://cdn.melee.gg/decklists/19065eff-c556-4efa-ad3c-d67cfbe7f9b8.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/1d7fa2508993.webp)
 
 幾乎不帶藍的創新，甚至都把 [Spell Pierce](https://scryfall.com/card/2x2/63/spell-pierce) 換成 [Mana Tithe](https://scryfall.com/card/tsr/26/mana-tithe) 了，應該是想要在一回找 [Sacred Foundry](https://scryfall.com/card/rvr/285/sacred-foundry) 做 [Prismatic Ending](https://scryfall.com/card/mh2/25/prismatic-ending) 時保證有康能用（畢竟起手可能不會有複數張的找地地）。
 藍色的部分只剩下正編的四張 [Teferi, Time Raveler](https://scryfall.com/card/rvr/232/teferi-time-raveler)、一張 [Prismari Command](https://scryfall.com/card/lcc/279/prismari-command) 以及備牌的 [Flusterstorm](https://scryfall.com/card/ima/55/flusterstorm)。
@@ -104,7 +104,7 @@ authors:
 
 ### Domain Rhinos
 
-![](https://cdn.melee.gg/decklists/30b0ae85-2ed3-4d93-942a-ae922432e88b.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/af1a351e0cb9.webp)
 
 算是本次 RC 的超級新星（？），印象中 Luis Scott-Vargas 也是打這套牌。
 最主要的單卡是五色地脈 [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)，而且應該算是少數會想要正拍下來的地脈（當然前提是場上或手上要有 [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco)），除了讓所有地都有所有基本地類別以外、所有非地永久物也都是五色的，[Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco) 也可以穩定二回拍。
@@ -114,7 +114,7 @@ authors:
 
 ### 4C Omnath
 
-![](https://cdn.melee.gg/decklists/7f2a8150-8c98-4aba-9110-388624cf25e4.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/bea5d423d593.webp)
 
 沒記錯的話這一套 4C Omnath 是 day 1 全勝的套牌，正編就投入兩張 [Chalice of the Void](https://scryfall.com/card/a25/222/chalice-of-the-void) 鎖 0 來應對 cascade 對局、或是鎖 1 來對應 Murktiude、Burn 的對局都相當不錯。
 同時作為對策，套牌中並沒有投入任何 [Lightning Bolt](https://scryfall.com/card/clu/141/lightning-bolt) 或是 [Delighted Halfling](https://scryfall.com/card/ltr/158/delighted-halfling)，也能加入 [Kaheera, the Orphanguard](https://scryfall.com/card/iko/224/kaheera-the-orphanguard) 作為行侶，作為 [Solitude](https://scryfall.com/card/mh2/32/solitude) 的肥料或是增加場面打點。
@@ -180,8 +180,8 @@ authors:
 
 ### Living End
 
-![](https://cdn.melee.gg/decklists/195651d4-33a1-4434-b0c9-7e0be98d0f3f.jpg?v=1)
-![](https://cdn.melee.gg/decklists/3576a8c8-1772-471f-87e2-3c7c156cb2b4.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/5079b0c01b07.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/a5b8a69f8bad.webp)
 
 先來看看冠軍的套牌好了，正編多帶了一張 [Incubation // Incongruity](https://scryfall.com/card/clu/197/incubation-incongruity) 挺有趣的，作為過牌的同時還能是一張解牌。
 另外備牌沒有帶很多的解，反而是帶了很多 haters（例如 [Bonecrusher Giant](https://scryfall.com/card/clb/781/bonecrusher-giant-stomp)、[Leyline of the Void](https://scryfall.com/card/m20/107/leyline-of-the-void)、[Brotherhood's End](https://scryfall.com/card/bro/128/brotherhoods-end)）。
@@ -193,22 +193,22 @@ authors:
 
 ### Temur Rhinos
 
-![](https://cdn.melee.gg/decklists/885bcdec-b6f4-4a85-b2a1-46049f7231b4.jpg?v=1)
-![](https://cdn.melee.gg/decklists/28cb47e7-c564-4b3c-a40e-940492712ee6.jpg?v=2)
-![](https://cdn.melee.gg/decklists/fe08db2c-892c-4681-b5f6-aa3222a416d3.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/dcbab50d0396.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/a52e82c43de6.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/567b8d3d4a63.webp)
 
 Rhinos 就⋯⋯就長那樣，沒什麼好說的(我都快說到爛了)
 不過比較特別的是，其中一位的備牌帶了一張 [Kellan, Inquisitive Prodigy](https://scryfall.com/card/mkm/212/kellan-inquisitive-prodigy-tail-the-suspect) 作為神器的解牌，前期可以用來 ramp 中後期可以是一張穿透生物 + 解神器的手段。挺有趣的。
 
 ### Rakdos Scam
 
-![](https://cdn.melee.gg/decklists/6934b5cb-59cc-4ae5-b34d-667b4ae9d179.jpg?v=3)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/b19002fa0c12.webp)
 
 看來是一位十分討厭 Rhinos 的玩家，正一備二 [Legion's End](https://scryfall.com/card/m20/106/legions-end)，同時打生物對局應該也有一些用處，用來切 Yawgmoth 的生物也不錯。
 
 ### Goryo Reanimate
 
-![](https://cdn.melee.gg/decklists/218a092d-44bd-4fe3-865a-c257dd8a0328.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/ef3b52294ec7.webp)
 
 好久沒有看到 [Goryo's Vengeance](https://scryfall.com/card/uma/99/goryos-vengeance) 這張牌出現在 meta 上了。
 基本是這是一套挖墳套牌，將 [Atraxa, Grand Unifier](https://scryfall.com/card/one/196/atraxa-grand-unifier)、[Griselbrand](https://scryfall.com/card/mm3/72/griselbrand) 等強力傳奇生物丟進墳場後，再用 [Goryo's Vengeance](https://scryfall.com/card/uma/99/goryos-vengeance) 挖回場上，雖然會獲得敏捷可以先打一拳、但回合結束會被放逐，不過兩隻生物都有強大的抽牌能力，只要挖到一張 blink 牌（[Ephemerate](https://scryfall.com/card/mh1/7/ephemerate) 或 [Touch the Spirit Realm](https://scryfall.com/card/neo/40/touch-the-spirit-realm)）將生物放逐後再丟進場便能躲掉這條負面異能。
@@ -216,7 +216,7 @@ Rhinos 就⋯⋯就長那樣，沒什麼好說的(我都快說到爛了)
 
 ### Amulat Titan
 
-![](https://cdn.melee.gg/decklists/f6ef7064-150f-4f99-a96e-9b1f7d8d3632.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/aad60c5e4f92.webp)
 
 這一套泰坦的構築也是常見的版本，不像是上次巴西那一套有許多神奇的地牌。
 另外這一套牌帶了兩張 [Storm's Wrath](https://scryfall.com/card/thb/157/storms-wrath) 和兩張 [Firespout](https://scryfall.com/card/clu/190/firespout) 作為掃場，比較少見一些。
@@ -280,14 +280,14 @@ Rhinos 就⋯⋯就長那樣，沒什麼好說的(我都快說到爛了)
 
 ### Living End
 
-![](https://cdn.melee.gg/decklists/fbac429c-b850-4b8b-8215-dffb9f8cf21f.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/9cfed28d77a2.webp)
 
 正編就是很標準的 Living End 構築，備牌帶了一張 [Mine Collapse](https://scryfall.com/card/mh2/135/mine-collapse) 作為低費去除，同時帶了四張 [Leyline of the Void](https://scryfall.com/card/m20/107/leyline-of-the-void) 作為墳場針對，畢竟內戰沒有黑地脈是真的麻煩。
 
 ### Azorius Control (Kaheera)
 
-![](https://cdn.melee.gg/decklists/442d4e71-198b-42fd-86a5-82de4c9dfe80.jpg?v=2)
-![](https://cdn.melee.gg/decklists/c77a1c1e-c0d5-4032-a588-38b2a1fd11d6.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/301bb92b91a0.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/bff86df28d04.webp)
 
 兩人構築略有不同，但大致可以看到差不多的系統：[Narset, Parter of Veils](https://scryfall.com/card/cmm/853/narset-parter-of-veils) + [Day's Undoing](https://scryfall.com/card/cmm/85/days-undoing) 將對手的墳場和手牌洗回牌庫、同時自己抽七張而對手只能抽一張（第二張以後的會被 [Narset, Parter of Veils](https://scryfall.com/card/cmm/853/narset-parter-of-veils) 阻止）。
 如果有開過 [Teferi, Time Raveler](https://scryfall.com/card/rvr/232/teferi-time-raveler) 的 [+1] 異能的話，還可以在對手的抽牌階段施放 [Day's Undoing](https://scryfall.com/card/cmm/85/days-undoing)、此時對手這回合已經抽過一張牌了（抽牌階段的牌）所以一張牌都抽不到，同時現在還在抽牌階段對手會因為 [Teferi, Time Raveler](https://scryfall.com/card/rvr/232/teferi-time-raveler) 的關係沒辦法回應丟任何咒語，等到主階時手上便沒有牌能用。
@@ -300,16 +300,16 @@ Rhinos 就⋯⋯就長那樣，沒什麼好說的(我都快說到爛了)
 
 ### Temur Rhinos
 
-![](https://cdn.melee.gg/decklists/99dbeb19-95c2-4465-a642-46e38cefec91.jpg?v=1)
-![](https://cdn.melee.gg/decklists/96074686-9243-4f33-ab26-7e8185e11b9f.jpg?v=1)
-![](https://cdn.melee.gg/decklists/6eb555eb-0152-4830-bc52-5165aefbc5d7.jpg?v=3)
-![](https://cdn.melee.gg/decklists/4f21848a-d75a-47bf-994f-9fe93bbe8656.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/d1e68c3c863a.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/46c544a30abc.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/7f099d1f69ad.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/33adae170468.webp)
 
 構築就⋯⋯就長那樣，基本上就是備牌的比例大同小異。
 
 ### Domain Rhinos
 
-![](https://cdn.melee.gg/decklists/0c50bddb-038d-44e9-ac6d-98ff650e1aa6.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/33f534cc9f65.webp)
 
 跟前面美國 RC 八強那一套差不多，不過帶了不同顏色的刺探地、備牌選擇打內戰的牌也不同（改成選用 [Teferi, Time Raveler](https://scryfall.com/card/rvr/232/teferi-time-raveler)）。
 
@@ -319,7 +319,7 @@ Rhinos 就⋯⋯就長那樣，沒什麼好說的(我都快說到爛了)
 
 ### Rakdos Scam w/ Money Toolbox
 
-![](https://cdn.melee.gg/decklists/9d4cc51f-e1af-47e4-9ad2-a9f4ae0e310b.jpg?v=3)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/b5157965515e.webp)
 [Decklist](https://melee.gg/Decklist/View/363249)
 
 先來講另一套我全都要的構築方式。

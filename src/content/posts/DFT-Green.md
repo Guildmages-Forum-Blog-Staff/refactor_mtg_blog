@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/tzNW3PKv8s.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/tzNW3PKv8s.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-Green/bc7a04a35bdd-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Green/bc7a04a35bdd-cover.jpg"
 excerpt: "在速度至上的系列，不擅長穿透和戰鬥詭計的顏色該怎麼辦？只好用資源量跟體質輾壓啦！"
 ---
 

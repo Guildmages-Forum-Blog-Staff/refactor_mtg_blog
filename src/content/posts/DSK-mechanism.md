@@ -6,8 +6,8 @@ categories:
   - "DSK"
 authors:
   - "JruMTG"
-cover: "https://media.wizards.com/2024/images/daily/iyd1Uc4vTJ.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/iyd1Uc4vTJ.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-mechanism/af6535f5932f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-mechanism/af6535f5932f-cover.jpg"
 excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 ---
 

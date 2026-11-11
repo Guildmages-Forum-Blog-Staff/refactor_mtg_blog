@@ -1,8 +1,8 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 藍色"
 date: "2024-04-08 18:25:57"
-cover: "https://media.wizards.com/2024/images/daily/ghq4lmol25be.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/ghq4lmol25be.png"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-Blue/d1e3adaad2b9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Blue/d1e3adaad2b9-cover.jpg"
 excerpt: "設謀咒語，然後想辦法活下去"
 categories:
   - "Limited"

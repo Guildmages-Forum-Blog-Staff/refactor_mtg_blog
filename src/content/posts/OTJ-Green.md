@@ -1,8 +1,8 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 綠色"
 date: "2024-04-12 11:07:09"
-cover: "https://media.wizards.com/2024/images/daily/360a981abf.jpg"
-thumbnail: "https://media.wizards.com/2024/images/daily/360a981abf.jpg"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-Green/d5996a34ab28-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Green/d5996a34ab28-cover.jpg"
 excerpt: "綠色生物大又強！什麼！隨隨便便力量都能翻倍！"
 categories:
   - "Limited"

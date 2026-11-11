@@ -35,25 +35,25 @@ authors:
 
 ## 白色 (White)
 
-![Archon of the Wild ROse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0001_MTGWOE_Main.png)
+![Archon of the Wild ROse](https://images.guildmagesforum.tw/posts/WOE-White/dc0ed85a1925.webp)
 
 **限制賽評分：4.5**
 
 四費4/4飛行另外還可以讓你結附靈氣的生物基礎攻防也變成4/4的飛兵，超級炸彈。不過當你很開心地帶著全家起飛攻擊時要留意對手可以殺掉它讓你全家老小打回原形。
 
-![Archon's Glory](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0002_MTGWOE_Main.png)
+![Archon's Glory](https://images.guildmagesforum.tw/posts/WOE-White/4157dff26670.webp)
 
 **限制賽評分：1.5**
 
 普通的+2/+2 trick，一般在非靈技的套路應該不太會用到；加碼後雖然多給了飛行跟繫命但應該還是小虧，而且trick容易被一換二的問題，還是得在決定是否加碼的同時被考慮進去。
 
-![Armory Mice](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0003_MTGWOE_Main.png)
+![Armory Mice](https://images.guildmagesforum.tw/posts/WOE-White/3aca578f3cdb.webp)
 
 **限制賽評分：2.0**
 
 大部分就是隻普通的白色二費3/1人，觸發歡慶時變成3/3也還好。要注意家鼠(Mouse)不會吃到老鼠(Rat)的加成。
 
-![Besotted Knight](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0004_MTGWOE_Main.png)
+![Besotted Knight](https://images.guildmagesforum.tw/posts/WOE-White/dc772d41006b.webp)
 
 **限制賽評分：2.5**
 
@@ -61,7 +61,7 @@ authors:
 
 四費3/3在限制賽中只是可用而已，但歷險那邊給皇族角色還不錯。要記得這類給角色衍生物的歷險牌都不能放在自己身上。
 
-![Break the Spell](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0005_MTGWOE_Main.png)
+![Break the Spell](https://images.guildmagesforum.tw/posts/WOE-White/3a7f17731f29.webp)
 
 **限制賽評分：3.0**
 
@@ -69,26 +69,26 @@ authors:
 
 這個系列結界很多再加上魅附奇譚的影響，是值得進主的好牌，有時候能拆掉對手的結界對戰局非常關鍵。而拆自己的結界抽牌只有要觸發結界進墳的效果、或是要避免釣友副作用的傳記最終章時才有可能會用，有需要也可以用。
 
-![Charmed Clothier](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0006_MTGWOE_Main.png)
+![Charmed Clothier](https://images.guildmagesforum.tw/posts/WOE-White/9dca0a73269f.webp)
 
 **限制賽評分：3.0**
 
 五費3/3的飛兵進場還可以給一個其它你操控的生物貼皇族角色，有沾白都可以用，像這樣一帶二的牌都能觸發歡慶，組牌時可以留意一下。
 
-![Cheeky House-Mouse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0007_MTGWOE_Main.png)
+![Cheeky House-Mouse](https://images.guildmagesforum.tw/posts/WOE-White/ec145365e78e.webp)
 
 **限制賽評分：1.5 (現開)**
 **限制賽評分：3.0 (輪抽)**
 
 現開我會覺得除非缺低費曲線不然可以不用放；而輪抽快攻思路打越尖的這隻老鼠就越強。歷險那邊不見得能做到穿透，但有的時候可能就差這1兩滴血。
 
-![Cooped Up](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0008_MTGWOE_Main.png)
+![Cooped Up](https://images.guildmagesforum.tw/posts/WOE-White/4cff3fefeded.webp)
 
 **限制賽評分：3.5**
 
 結界互動環境的[和平主義](https://cards.scryfall.io/large/front/4/4/44476444-0684-4df4-86c8-b4a48025fcaa.jpg?1562828538)類的白痴皮都很強，不過可以拆它的牌應該也變多了，所以可能沒辦法像其他系列鎖得那麼穩。有需要的話可以五費分期付款做一個放逐也還行。在黑白關注結界進墳的思路中會有更多搭配。
 
-![Cursed Courtier](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0009_MTGWOE_Main.png)
+![Cursed Courtier](https://images.guildmagesforum.tw/posts/WOE-White/a84943f1c38c.webp)
 
 **限制賽評分：1.5**
 
@@ -96,7 +96,7 @@ authors:
 
 > 青蛙王子，但臉畫得太像青蛙了讓人有點不舒服。
 
-![Discerning Financier](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0010_MTGWOE_Main.png)
+![Discerning Financier](https://images.guildmagesforum.tw/posts/WOE-White/6d78f53e2a62.webp)
 
 **限制賽評分：2.0**
 
@@ -104,37 +104,37 @@ authors:
 
 總之，當你生得出珍寶時代表你展開不順，所以生出來的珍寶基本上留不到送人抽牌。三費有更好的選擇時不要放他，我覺得這是一張限制賽的陷阱單卡。
 
-![Dutiful Griffin](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0011_MTGWOE_Main.png)
+![Dutiful Griffin](https://images.guildmagesforum.tw/posts/WOE-White/9449f9063963.webp)
 
 **限制賽評分：3.5**
 
 五費4/4應該是這系列U卡以下最好的飛兵體格了，後期偶爾有機會犧牲兩個結界把他撿回來。值得進主的五費曲線生物。
 
-![Eerie Interference](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0012_MTGWOE_Main.png)
+![Eerie Interference](https://images.guildmagesforum.tw/posts/WOE-White/16e0081354a7.webp)
 
 **限制賽評分：0.0**
 
 [濃霧](https://cards.scryfall.io/large/front/f/3/f38620c8-4b76-49ea-8976-c7437ccbdbcc.jpg?1562837190)類似的效果不會讓你在限制賽獲勝，這張的上限頂多是讓你在阻擋時可以無傷換掉對手的生物們，但你同樣可以靠適當的阻擋來做到這件事而不用額外花一張牌。結論是不要放。
 
-![Expel the Interlopers](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0013_MTGWOE_Main.png)
+![Expel the Interlopers](https://images.guildmagesforum.tw/posts/WOE-White/ed8b9dc763ff.webp)
 
 **限制賽評分：5.0**
 
 下限選0是一張五費掃場，而你可以依場面來決定最有利的狀況。雖然沒有像[Sunfall](https://www.mtgct.com/card/5877)這麼無腦又變態，但選得好的話也差不多要贏了。
 
-![Frostbridge Guard](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0014_MTGWOE_Main.png)
+![Frostbridge Guard](https://images.guildmagesforum.tw/posts/WOE-White/d15b3a43408b.webp)
 
 **限制賽評分：2.5**
 
 二費的熊，中後期可以變成躺躺兵還可以，在白藍tap思路中能回收更高的價值。
 
-![Gallant Pie-Wielder](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0015_MTGWOE_Main.png)
+![Gallant Pie-Wielder](https://images.guildmagesforum.tw/posts/WOE-White/9c1f1ca325f6.webp)
 
 **限制賽評分：3.0**
 
 三費2/3先攻攻防上都很不錯，如果觸發歡慶還可以有連擊。一個派不夠吃？那就請你吃兩個！開不開心！
 
-![Glass Casket](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0016_MTGWOE_Main.png)
+![Glass Casket](https://images.guildmagesforum.tw/posts/WOE-White/b03ea69429fe.webp)
 
 **限制賽評分：3.0**
 
@@ -142,13 +142,13 @@ authors:
 
 > 白雪公主在玻璃棺的這個睡姿是在練核心嗎？
 
-![Hopeful Vigil](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0017_MTGWOE_Main.png)
+![Hopeful Vigil](https://images.guildmagesforum.tw/posts/WOE-White/a8d515c50510.webp)
 
 **限制賽評分：2.5**
 
 一帶二是歡慶與加碼異能的好朋友，而自主犧牲也可以觸發結界進墳的效果，基本上把沾白對應的新機制都cover了。但這個系列2/3的生物偏多，我目前是覺得還是不要放太多，多帶一些3攻以上的生物可能對進攻比較有利。當然你有讓2/2騎士們灌大的方法就另當別論了。
 
-![Kellan's Lightblades](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGWOE_Main.png)
+![Kellan's Lightblades](https://images.guildmagesforum.tw/posts/WOE-White/4e5e73d8c72d.webp)
 
 **限制賽評分：3.5**
 
@@ -156,31 +156,31 @@ authors:
 
 注意如果對手的生物沒有攻擊或阻擋而你加碼犧牲了一個token使用了這張，因為是[非法行動](https://mtg.fandom.com/wiki/Illegal_action)，遊戲會回溯到你嘗試宣告施放這個咒語之前的狀態，而token不會因此被犧牲掉回不來。
 
-![Knight of Doves](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0019_MTGWOE_Main.png)
+![Knight of Doves](https://images.guildmagesforum.tw/posts/WOE-White/102529a45b84.webp)
 
 **限制賽評分：2.5**
 
 結界要夠多還要有辦法讓結界進墳才能生1/1鳥，如果搭配不多可以略過；但如果可以穩定觸發個2-3次才夠賺。1/1鳥在這個系列沒有特別的搭配，而這個系列飛兵也不少，我是覺得要求偏高但回報價值沒有到很炸；本身三費1/3誰也打不贏是扣分的關鍵因素。
 
-![Moment of Valor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0020_MTGWOE_Main.png)
+![Moment of Valor](https://images.guildmagesforum.tw/posts/WOE-White/b88ff4de92c9.webp)
 
 **限制賽評分：2.5**
 
 改殺力量大於4的[英勇以對](https://cards.scryfall.io/large/front/c/1/c129206d-54e6-481c-98e9-04a0255f9313.jpg?1646185529)，可能對上綠底的套牌目標會比較多。雖然大部分都是用來殺大怪，但兩個選項使用上更彈性，給一個實用的2.5分
 
-![Moonshaker Cavalry](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0021_MTGWOE_Main.png)
+![Moonshaker Cavalry](https://images.guildmagesforum.tw/posts/WOE-White/c1b252e357d2.webp)
 
 **限制賽評分：4.5**
 
 號稱是白色[隕蹄貝西摩斯](https://cards.scryfall.io/large/front/e/b/eb515c2e-ee92-41e0-85a5-f42e95c98bac.jpg?1561891336)進場給飛行全家除了他以外再怒打一波，你的場面不要太弱應該就會贏；但八費在白色不考慮加速的狀況下基本上很難正叫出來；可能混黑用挖的或混綠帶點加速比較容易讓他登場。
 
-![Plunge into Winter](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0022_MTGWOE_Main.png)
+![Plunge into Winter](https://images.guildmagesforum.tw/posts/WOE-White/3fa29b54f360.webp)
 
 **限制賽評分：2.0**
 
 瞬間時機的tap + 抽1張牌，基本上如果不是白藍tap思路應該不會需要放他。
 
-![The Princess Takes Flight](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0023_MTGWOE_Main.png)
+![The Princess Takes Flight](https://images.guildmagesforum.tw/posts/WOE-White/34ea811f0263.webp)
 
 **限制賽評分：3.5**
 
@@ -190,7 +190,7 @@ authors:
 
 > 當然，如果你的解牌都是這類的而且你沒有辦法在章節III前移除它，那也許你幾回後還是會面臨大麻煩！
 
-![Protective Parents](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0024_MTGWOE_Main.png)
+![Protective Parents](https://images.guildmagesforum.tw/posts/WOE-White/14a287a915fc.webp)
 
 **限制賽評分：2.5**
 
@@ -198,38 +198,38 @@ authors:
 
 > 但卡牌的意境上有點令人鼻酸，孩子啊，你的父母已逝去，你只能靠你自己了...。
 
-![Regal Bunnicorn](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0025_MTGWOE_Main.png)
+![Regal Bunnicorn](https://images.guildmagesforum.tw/posts/WOE-White/8615ecea658e.webp)
 
 **限制賽評分：4.0**
 
 基本上在WOE環境中，角色、食品衍生物滿地走的情況，這隻獨角兔應該會變得很大隻。基本上兔子養肥一點再去揍人吧！值得注意的是如果它被結附了非倒楣鬼或青年英雄其他四種角色會讓它的攻防各+2/+2(角色的+1/+1以及兔子被動效果算到角色)。當然，被貼一個倒楣鬼就真的是1/1的地獄倒楣鬼了。
 
-![Return Triumphant](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0026_MTGWOE_Main.png)
+![Return Triumphant](https://images.guildmagesforum.tw/posts/WOE-White/d8a422dee611.webp)
 
 **限制賽評分：2.5**
 
 最近白色很常出這種二費挖三費以下生物回場的牌，例如BRO的[Recommission](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0022_MTGBRO_Main.png)，而對比之下這張巫術的強度讓你回場的生物上還結附一個青年英雄角色，可能還更強一點。
 
-![Rimefur Reindeer](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0027_MTGWOE_Main.png)
+![Rimefur Reindeer](https://images.guildmagesforum.tw/posts/WOE-White/2168fc9b5944.webp)
 
 **限制賽評分：3.0**
 
 要躺人要等結界進場，而這個系列的結界應該絕大多數還是在巫術時機進場，而讓這個橫置的異能較偏進攻向。而沒辦法穩定觸發tap的話還是回歸到體格，四費3/4是一個還可以的體格，而在結界較多的黑白、白綠思路、或貼皮多的白藍中的分數可以再更高一點。
 
-![Savior of the Sleeping](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0028_MTGWOE_Main.png)
+![Savior of the Sleeping](https://images.guildmagesforum.tw/posts/WOE-White/7150be5d2423.webp)
 
 **限制賽評分：2.5**
 
 三費2/3警戒，結界進墳則在他身上放一個+1/+1指示物。雖然結界進墳不見得很常發生，但基本上只要觸發一次就蠻厲害的了，警戒異能攻守合一也有加分的效果。
 
-![Slumbering Keepguard](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0029_MTGWOE_Main.png)
+![Slumbering Keepguard](https://images.guildmagesforum.tw/posts/WOE-White/0ef3869546a9.webp)
 
 **限制賽評分：1.5 (現開)**
 **限制賽評分：3.0 (輪抽)**
 
 現開中結界要拿得多不太容易，但輪抽只要不被卡應該能抽出一個非常進攻曲線的白底結界套牌；如果場上有3-4個結界，中期開始每回合付三費變4/4以上體格揍人是很痛的。
 
-![Solitary Sanctuary](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0030_MTGWOE_Main.png)
+![Solitary Sanctuary](https://images.guildmagesforum.tw/posts/WOE-White/0656085814db.webp)
 
 **限制賽評分：3.5**
 
@@ -237,7 +237,7 @@ authors:
 
 三費進場tap一隻暈眩指示物，而當你橫置對手操控的生物時可以放+1/+1指示物，可以開路加灌大自己的生物，而在白藍tap思路中甚至值4.0分正好是補足白藍生物偏小的弱勢，而如果可以拿到或複製它的話就會變得非常的炸！
 
-![Spellbook Vendor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0031_MTGWOE_Main.png)
+![Spellbook Vendor](https://images.guildmagesforum.tw/posts/WOE-White/8ae24ec9059b.webp)
 
 **限制賽評分：4.0**
 
@@ -245,7 +245,7 @@ authors:
 
 非常厲害的二費警戒人，每個你回合中的戰鬥階段都能支付ㄧ來在你的生物上放一個術士角色，灌大以外還可以進攻時做出占卜ㄧ，可以讓你場面增強之餘還可以讓你的下一抽變得更好。是我限制賽打白非常希望能拿到的牌。
 
-![Stockpiling Celebrant](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0032_MTGWOE_Main.png)
+![Stockpiling Celebrant](https://images.guildmagesforum.tw/posts/WOE-White/691690f24c2f.webp)
 
 **限制賽評分：3.0**
 
@@ -253,7 +253,7 @@ authors:
 
 三費3/2進場時可以回收一個你操控的永久物，若你這樣做則可以占卜二。這張要取決於你場上有沒有其他能賺進離場異能的永久物，有的話就是很不錯的潤滑曲線。也可以回收上面有結付靈氣的生物來觸發結界進墳的效果。或用來拯救被貼了倒楣鬼角色的生物。
 
-![Stroke of Midnight](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0033_MTGWOE_Main.png)
+![Stroke of Midnight](https://images.guildmagesforum.tw/posts/WOE-White/e70e289c21bc.webp)
 
 **限制賽評分：3.5**
 
@@ -261,37 +261,37 @@ authors:
 
 三費的瞬間非地萬解，但有一個副作用是會讓對手派出一個1/1人類衍生物。不過人類在WOE中應該沒有什麼搭配，以解掉一個巨大威脅來看，這個投報率還算值得。
 
-![A Tale for the Ages](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0034_MTGWOE_Main.png)
+![A Tale for the Ages](https://images.guildmagesforum.tw/posts/WOE-White/5cd6e5852537.webp)
 
 **限制賽評分：3.0**
 
 二費結界可以讓你操控且被結付的生物得到+2/+2，在充滿各種角色衍生物的WOE環境中應該是值得使用的；但對我而言因為群體膨脹的效果還是有點不穩定，所以還是沒有辦法給到很高分。
 
-![Three Blind Mice](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0035_MTGWOE_Main.png)
+![Three Blind Mice](https://images.guildmagesforum.tw/posts/WOE-White/35b0d5d97f70.webp)
 
 **限制賽評分：4.0**
 
 最差就是生3隻1/1家鼠第四回合後變大全家打過去；而當你能複製的token越多樣這張牌能發揮的效果就越強，非常的賺。
 
-![Tuinvale Guide](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0036_MTGWOE_Main.png)
+![Tuinvale Guide](https://images.guildmagesforum.tw/posts/WOE-White/499b087962a1.webp)
 
 **限制賽評分：3.5**
 
 普通的四費2/3飛兵跟觸發歡慶後的3/3繫命飛兵對場面的影響天差地遠，值得讓我為了歡慶效果先多給0.5分。
 
-![Unassuming Sage](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0037_MTGWOE_Main.png)
+![Unassuming Sage](https://images.guildmagesforum.tw/posts/WOE-White/7a70c2c6ec92.webp)
 
 **限制賽評分：2.5**
 
 二費無異能的[灰棕熊](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736)，或四費攻擊可以占卜ㄧ的[山丘巨人](https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130)，兩個單獨在限制賽都不夠強，但合在同一張牌就可以讓你的構築套牌變得滑順，低調智者是你填補曲線的好朋友。
 
-![Virtue of Loyalty](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0038_MTGWOE_Main.png)
+![Virtue of Loyalty](https://images.guildmagesforum.tw/posts/WOE-White/8996674a00ee.webp)
 
 **限制賽評分：5.0**
 
 歷險先二費閃現一個2/2警戒騎士，五費正拍後在每個你的結束階段時會在所有你操控的生物上放+1/+1指示物還全家站起來，妥妥的大炸彈！對手有開到這張的話記得有拆結界的牌要從備牌上來。
 
-![Werefox Bodyguard](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0039_MTGWOE_Main.png)
+![Werefox Bodyguard](https://images.guildmagesforum.tw/posts/WOE-White/1359f746eab6.webp)
 
 **限制賽評分：4.5**
 

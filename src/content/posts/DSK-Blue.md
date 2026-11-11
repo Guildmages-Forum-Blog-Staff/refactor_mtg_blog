@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/gXWNZmueM9v5.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/gXWNZmueM9v5.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Blue/69384f3b744d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Blue/69384f3b744d-cover.jpg"
 excerpt: "你喜歡抽牌嗎……我很喜歡，這次是我的真心話。"
 ---
 

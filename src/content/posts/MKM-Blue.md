@@ -1,8 +1,8 @@
 ---
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 藍色"
 date: "2024-02-01 09:18:21"
-cover: "https://media.wizards.com/2024/images/daily/c1KnRSVtWnYp.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/c1KnRSVtWnYp.png"
+cover: "https://images.guildmagesforum.tw/posts/MKM-Blue/a795895baf8f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MKM-Blue/a795895baf8f-cover.jpg"
 excerpt: "你要做事？我想一下⋯⋯我先抽個牌好了"
 categories:
   - "Limited"

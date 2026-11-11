@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟標準初探"
 date: "2023-11-23 12:17:46"
-cover: "https://media.wizards.com/2023/images/daily/4slfxf8289r9.png"
-thumbnail: "https://media.wizards.com/2023/images/daily/4slfxf8289r9.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Standard-Preliminary/5eb0f9a2c35f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Standard-Preliminary/5eb0f9a2c35f-cover.jpg"
 excerpt: "來看看依夏蘭迷窟有甚麼新的標準構築"
 categories:
   - "Construct"
@@ -17,7 +17,7 @@ authors:
 
 新系列上市最振奮人心的莫過開發新套牌了，這次依夏蘭迷窟又能給標準注入怎麼樣的新血呢？ 讓我們來點腦力激盪，看看新系列的標準構築吧！
 
-![封面](https://media.wizards.com/2023/images/daily/4slfxf8289r9.png)
+![封面](https://images.guildmagesforum.tw/posts/LCI-Standard-Preliminary/5eb0f9a2c35f.webp)
 
 ---
 

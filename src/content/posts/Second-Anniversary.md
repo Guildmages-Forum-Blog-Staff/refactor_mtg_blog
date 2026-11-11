@@ -49,7 +49,7 @@ categories:
 
 希望各位讀者，能以實際的參與支持當地店家舉辦的聯盟賽，並珍惜與參賽的新手們互動的機會。畢竟，回想起我們當年入坑時，應該也是有遇到這樣的玩家接住過我們，才讓我們持續到今天。
 
-![](https://thumbsnap.com/i/JdQkVzbC.jpg?0821)
+![](https://images.guildmagesforum.tw/posts/Second-Anniversary/d8fce7b73f3d.webp)
 
 ### 更多以「人」為導向的文章
 

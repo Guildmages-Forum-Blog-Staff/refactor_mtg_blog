@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛標準初探"
 date: "2024-07-31 11:29:17"
-cover: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
-thumbnail: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
+cover: "https://images.guildmagesforum.tw/posts/BLB-Standard-Preliminary/7bad02fd4bd8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-Standard-Preliminary/7bad02fd4bd8-cover.jpg"
 excerpt: "睽違兩年系列輪替後的全新標準"
 categories:
   - "Construct"

@@ -1,8 +1,8 @@
 ---
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 紅色"
 date: "2024-02-01 22:50:31"
-cover: "https://media.wizards.com/2024/images/daily/tAJbP82rU4PP.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/tAJbP82rU4PP.png"
+cover: "https://images.guildmagesforum.tw/posts/MKM-Red/a8af8b47cfb9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MKM-Red/a8af8b47cfb9-cover.jpg"
 excerpt: "前進吧！波洛斯戰團！狂歡吧！拉鐸司宗派！伊捷與古魯的朋友們，把你們的雙手借給我！讓第一次造訪拉尼卡的新朋友感受到你們的熱情！！！"
 categories:
   - "Limited"

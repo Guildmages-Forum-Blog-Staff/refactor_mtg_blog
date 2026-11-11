@@ -1,8 +1,8 @@
 ---
 title: "近代紅黑中速 Rakdos Scam：近代環境的霸主"
 date: "2023-11-16 14:24:41"
-cover: "https://images.ctfassets.net/pjhgqryi6myh/hero_4168/d4a7911d3714f18919fd7f09fee62e39/1622274633_grief.jpg?w=760&fm=webp"
-thumbnail: "https://images.ctfassets.net/pjhgqryi6myh/hero_4168/d4a7911d3714f18919fd7f09fee62e39/1622274633_grief.jpg?w=760&fm=webp"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Rakdos-Scam/0c01e28bec8f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Rakdos-Scam/0c01e28bec8f-cover.jpg"
 excerpt: "一回爽掉對手兩張牌，好蒿爽爽！"
 categories:
   - "Construct"

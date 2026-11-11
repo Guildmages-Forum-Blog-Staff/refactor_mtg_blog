@@ -57,7 +57,7 @@ authors:
 
 ### 刺探地
 
-![](https://assetsio.gnwcdn.com/mtg-murders-at-karlov-manor-cards-surveil-lands.png?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp)
+![](https://images.guildmagesforum.tw/posts/Tiny-Thing-ep-1/899f5f46d6f2.webp)
 
 這邊額外提一個刺探地，於 MKM 發售的刺探地循環，刺探地帶有類別因此也能被找地地找出來。
 因為刺探地可以濾牌庫頂，可以把他視為 `減少一張地牌` + `過濾牌庫頂`，技術上來說他是壓縮了兩張牌。
