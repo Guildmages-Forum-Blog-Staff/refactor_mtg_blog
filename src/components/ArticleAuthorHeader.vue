@@ -5,7 +5,7 @@
       <a
         v-for="author in authors"
         :key="author.id"
-        :href="`${base}/authors/${author.id}`"
+        :href="`${base}/authors/${author.id}/`"
         class="shrink-0"
       >
         <img
@@ -24,7 +24,7 @@
         <a
           v-for="(author, i) in authors"
           :key="author.id"
-          :href="`${base}/authors/${author.id}`"
+          :href="`${base}/authors/${author.id}/`"
           class="hover:text-primary text-sm font-semibold text-gray-900 transition-colors dark:text-gray-100"
           >{{ author.name }}<span v-if="i < authors.length - 1">,</span></a
         >

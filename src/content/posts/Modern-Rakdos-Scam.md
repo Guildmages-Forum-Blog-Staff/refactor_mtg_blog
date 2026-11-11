@@ -13,7 +13,7 @@ authors:
 
 ## Before We Start
 
-之前有提到我在 LTR 發售之後，龍侯被弓箭手點成智障（[醬汁在這](/Modern-Mono-Black-Coffers)），秉持著打不贏就加入他的精神，我也搞了一套 Scam 來。
+之前有提到我在 LTR 發售之後，龍侯被弓箭手點成智障（[醬汁在這](/Modern-Mono-Black-Coffers/)），秉持著打不贏就加入他的精神，我也搞了一套 Scam 來。
 最初本來是要想要打 Death's Shadow，但稍微摸了一下這不是我預期中的感覺，可能我 Legacy 比賽看多了，沒有 [Daze](https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1562632115) 跟 [Force of Will](https://cards.scryfall.io/large/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1562769672) 的我是廢物。
 
 因為已經把弓箭手收下去了，手邊還缺戒指沒辦法組 Dimir Control 或是 Coffers，所以選擇最 low budget 的方式：加入 Scam。

@@ -20,7 +20,7 @@ const base = import.meta.env.BASE_URL;
         const cover = post.data.thumbnail || post.data.cover;
         return (
           <a
-            href={`${base}${slug}`}
+            href={`${base}${slug}/`}
             class="group dark:bg-dark-bg flex flex-col overflow-hidden rounded-xl border border-gray-200 bg-white transition-shadow hover:shadow-md dark:border-gray-700"
           >
             {cover ? (
