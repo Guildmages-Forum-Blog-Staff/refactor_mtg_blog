@@ -84,6 +84,8 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 
 `scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/<filename>.md`, overwriting the file if it already exists. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it.
 
+When `IMAGES_DIR` points at a clone of the `images` repo (post-bot sets it), `scripts/localize-images.ts` copies images from imgur / meee / postimg / `hackmd.io/_uploads` into `<IMAGES_DIR>/posts/<filename>/` (body → 1200px WebP, cover/thumbnail → 1200px JPEG, GIF untouched) and rewrites the URLs to `images.guildmagesforum.tw`. A failed image keeps its original URL and prints an `[images] WARN` line; it never fails the import.
+
 ## Dark Mode
 
 `darkMode: 'class'`. Persisted in `localStorage('theme')`. Inline script in `BaseLayout.astro` `<head>` applies class before paint; re-applied on `astro:after-swap`.
