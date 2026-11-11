@@ -21,19 +21,19 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 最直觀的選項就是組一套[物盡其用](https://scryfall.com/card/c16/117/waste-not)，這副牌也早已在現在環境證明自己了，雖然我對物盡其用的強度沒有任何懷疑，但在遊戲模式上這副牌卻不是那麼合我的意，首先是我喜歡操作彈性比較強的被動套牌，但物盡其用的遊戲模式相對主動又直線了點，另外就是根據你能不能抽到物盡其用，套牌上下限會極大，如果前期沒有辦法透過物盡其用賺到資源，就是單純的在棄牌的話，很有可能被對手一個Top Deck就打回來了，我還是希望玩一個運作穩定性好一點的套牌，因此最後選擇了比較重視干擾&賺取牌差的中速向構築。
 
-![封面](https://i.postimg.cc/k70Wtqhk/Win.png)
+![封面](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/cb4f2ab9d757.webp)
 
 ## 套牌介紹
 
 **[牌表連結](https://www.mtggoldfish.com/deck/6376958#paper)**
 
-![deck](https://i.postimg.cc/8DPf5wbB/deck.png)
+![deck](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/dd4912c081cb.webp)
 
 ### 構築起點
 
 在一開始嘗試一些歪路後，我想到了[深窟蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)+[荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)的小配合。<font color="#AAAAAA">（這個搭配對於打過MH環境之前的近代玩家相信不陌生，蝙蝠的位置在當時是用[潮窟渡船伕](https://scryfall.com/card/mma/184/tidehollow-sculler)）</font>
 
-![蝙蝠絞殺體](https://i.imgur.com/V4iUNxh.jpeg)
+![蝙蝠絞殺體](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/d3ddd0b1eb09.webp)
 
 > [荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)：當荒原絞殺體進戰場時，你可以將一張由對手擁有的牌從放逐區置入該玩家的墳墓場。若你如此作，則目標生物得-3/-3直到回合結束。
 
@@ -45,7 +45,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 放逐區肥料提供者（生物）
 
-![生物](https://i.postimg.cc/514TB9WW/2.png)
+![生物](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/bc19ad7af56d.webp)
 
 在選擇生物時我就給出了一個要求，除了[荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)外的其他生物，都要是放逐區肥料的提供者，並且除了[深窟蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)外最好還能夠一卡搭載[幫派劫庫械](https://scryfall.com/card/neo/255/reckoner-bankbuster)。
 
@@ -57,7 +57,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 放逐區肥料提供者（招）
 
-![招](https://i.postimg.cc/4ZFKZdJJ/3.png)
+![招](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/d7c6b722705b.webp)
 
 [執持化塵](https://scryfall.com/card/thb/87/cling-to-dust)（2）：要我列出入坑MTG後對我影響最大的十張標準系列單卡的話，這張毫無疑問榜上有名。執持化塵一直是我認為非常優秀的單卡，集瞬間剋墳與濾牌於一身，因為逸脫的關係它甚至是個賺牌咒語<font color="#AAAAAA">（只論瞬間剋墳+濾牌+奶血的話MKM的[停止](https://scryfall.com/card/mkm/246/cease-desist)也做得到，但想反覆賺牌就沒辦法了）</font>，拔到[弧光鳳凰](https://scryfall.com/card/rvr/100/arclight-phoenix)時雖然不能賺牌，但考量對方失去鳳凰的傷害嚴重度，實際上也跟賺牌一樣賺了。在非藍色的構築中我常常投入三張執持化塵，不過這套因為墳場剋制比常規套牌多了太多，賺牌點也用了些平常我少用的牌，所以衡量後兩張應該就算個平衡點了。
 
@@ -69,7 +69,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 放逐區肥料提供者（地）
 
-![地](https://i.postimg.cc/Gch8dssm/4.png)
+![地](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/c03302b49a66.webp)
 
 [魔眼暴君棲巢](https://scryfall.com/card/afr/258/hive-of-the-eye-tyrant)（4）：本來純黑套牌就會用它，只是它還正好有放逐墳場的能力，但考量變身所需費用與場面限制，正常來說不會期望[荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)的肥料要靠它提供。
 
@@ -77,21 +77,21 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 其他非生物牌
 
-![招1](https://i.postimg.cc/nnkd32L2/5.png)
+![招1](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/92f083f45769.webp)
 
 [攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)（3）&[送終一擊](https://scryfall.com/card/2xm/93/fatal-push)（4）：都是定義先驅黑色套牌的明星單卡，相信不用過多介紹，不過配率細節還是可以提一提，攫取思緒之所以只放三而沒滿編，有以下幾個原因：1.原因是我的手牌破壞已經夠多了，再放過頭容易變成死卡。2.痛兩血實在是有點太痛了，我的本質還是防守向套牌，過多血量消耗我會承受不起。3.我的威脅數量不算多，進攻節奏也不強，一換一的棄牌完我不見得能把握對方缺一張牌後的節奏。
 
-![招2](https://i.postimg.cc/2kfV3QQp/6.png)
+![招2](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/03e8a309b8a9.webp)
 
 [直刺咽喉](https://scryfall.com/card/moc/250/go-for-the-throat)（1）&[無情手段](https://scryfall.com/card/cmm/166/heartless-act)（1）：都是對去除死角的額外補充，基本上就是各種條件殺各放一錯開死角就好。也有想過要不要放OTJ的新牌[擊殺警長](https://scryfall.com/card/otj/106/shoot-the-sheriff)，但想到最容易被干擾手牌的對局[物盡其用](https://scryfall.com/card/c16/117/waste-not)中，對方的重點生物之一[懲罰者凱雷威克](https://scryfall.com/card/otj/92/kaervek-the-punisher)正好就是狂徒，我就放棄這張牌了。
 
-![招3](https://i.postimg.cc/V1kbtRy1/7.png)
+![招3](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/b075fa5c9a64.webp)
 
 [幫派劫庫械](https://scryfall.com/card/neo/255/reckoner-bankbuster)（3）&[召現絕望](https://scryfall.com/card/neo/101/invoke-despair)（3）：雖然我上面花了很多筆墨在讚美放逐體系的表現，但幫派劫庫械&召現絕望才是讓我想組黑色套牌的原始動力，原因也很單純，我就這兩張牌鐵粉，他們帶來的海量資源是我運作的本錢。以我平常的構築習慣會是毫不猶豫的滿編他們，但因為混入了[深窟蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)+[荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)以及連帶的放逐體系用牌，擠壓了原有的配率空間，經調整後我認為各3是比較平衡的配法。
 
 ### 其他地牌
 
-![地](https://i.postimg.cc/t9L9qFPh/8.png)
+![地](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/aa2256ddcc19.webp)
 
 [戰場遺跡](https://scryfall.com/card/thb/242/field-of-ruin)（3）：正常的單色套牌我會想滿編，甚至配上[頹垣廢址](https://scryfall.com/card/thb/242/field-of-ruin)等效突破滿編，但考量這套召現絕望對指定色的需求，只敢放到三張。雖然它可以炸地把自己變成一塊沼澤，理論上沒有卡色問題沒錯，但還是要花費用，有時只為了調色去花費用炸一塊完全不重要的地又顯得很智障，又或者是為了調色讓召現絕望晚一回才能開，有時也會成為硬傷。
 
@@ -129,7 +129,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 紅黑吸血鬼
 
-![紅黑吸血鬼](https://i.postimg.cc/nnF879CD/8.png)
+![紅黑吸血鬼](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/df10d555726a.webp)
 
 > 換備策略
 > Out：深窟蝙蝠-4、冷酷血湧法師-1
@@ -141,7 +141,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 紅藍鳳凰
 
-![紅藍鳳凰](https://i.postimg.cc/Fv8FtNRJ/9.png)
+![紅藍鳳凰](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/99f38beaa62b.webp)
 
 > 換備策略
 > Out：深窟蝙蝠-4、荒原絞殺體-3、無情手段-1
@@ -151,7 +151,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 天光尼米捷
 
-![天光尼米捷](https://i.postimg.cc/LSbtrYLB/10.png)
+![天光尼米捷](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/4f9a10d90262.webp)
 
 > 換備策略
 > Out：送終一擊-4、深窟蝙蝠-2、荒原絞殺體-3，劫特叛徒卡力塔-1
@@ -163,7 +163,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 物盡其用
 
-![物盡其用](https://i.postimg.cc/3rQCVVV0/11.png)
+![物盡其用](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/defed97b5b25.webp)
 
 > 換備策略
 > Out：深窟蝙蝠-4、荒原絞殺體-3
@@ -173,7 +173,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 阿瑪利亞Combo
 
-![阿瑪利亞Combo](https://i.postimg.cc/YM3ZNzLz/12.png)
+![阿瑪利亞Combo](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/7a16e3991664.webp)
 
 > 換備策略
 > Out：執持化塵-1、無情手段-1、清除乾淨-2、召現絕望-3
@@ -183,7 +183,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 蓮花田Combo
 
-![蓮花田Combo](https://i.postimg.cc/38YbDyrc/13.png)
+![蓮花田Combo](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/c16447880dd2.webp)
 
 > 換備策略
 > Out：深窟蝙蝠-4（有[嚴格的督學](https://scryfall.com/card/stx/33/strict-proctor)）or送終一擊-4（無[嚴格的督學](https://scryfall.com/card/stx/33/strict-proctor)）、折磨賜聖-1、無情手段-1、荒原絞殺體-3、劫特叛徒卡力塔-1
@@ -193,7 +193,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 白藍控制
 
-![白藍控制](https://i.postimg.cc/5bKBBXgR/15.png)
+![白藍控制](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/caad9d8e3799.webp)
 
 > 換備策略
 > Out：送終一擊-4、直刺咽喉-1、無情手段-1、深窟蝙蝠-2、荒原絞殺體-3
@@ -203,7 +203,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 紅藍剪刀
 
-![紅藍剪刀](https://i.postimg.cc/WjMgH9ng/14.png)
+![紅藍剪刀](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/fca19a849cec.webp)
 
 > 換備策略
 > Out：深窟蝙蝠-1、冷酷血湧法師-1、攫取思緒-3、直刺咽喉-1
@@ -217,7 +217,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 純紅快攻
 
-![純紅快攻](https://i.postimg.cc/5JpZCMTk/16.png)
+![純紅快攻](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/fae7b903c199.webp)
 
 > 換備策略
 > Out：攫取思緒-3、頭腦空白-1、清除乾淨-2
@@ -227,8 +227,8 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 紅綠靈技&紅白勇行
 
-![紅綠靈技](https://i.postimg.cc/J7MnvC3F/17.png)
-![紅白勇行](https://i.postimg.cc/XVWYp0mY/18.png)
+![紅綠靈技](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/616db5813468.webp)
+![紅白勇行](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/ed4bb5f90fbd.webp)
 
 > 換備策略
 > Out：冷酷血湧法師-1、攫取思緒-3、頭腦空白-2、無情手段-1
@@ -238,7 +238,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 昆托力Combo
 
-![昆托力Combo](https://i.postimg.cc/GdR777Ws/19.png)
+![昆托力Combo](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/cc96f25d502f.webp)
 
 > 換備策略
 > Out：送終一擊-4、荒原絞殺體-3
@@ -248,7 +248,7 @@ excerpt: "2024/5/11 卡士多先驅MITQ#1"
 
 ### 綠獻力
 
-![綠獻力](https://i.postimg.cc/ZZwB20gF/20.png)
+![綠獻力](https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/462a612ccac6.webp)
 
 > 換備策略
 > Out：荒原絞殺體-3、冷酷血湧法師-1

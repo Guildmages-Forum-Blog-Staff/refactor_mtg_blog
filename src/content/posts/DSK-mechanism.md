@@ -17,7 +17,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 ## 隔間（Room）
 
-![Room](https://i.imgur.com/kdVPLO6.png)
+![Room](https://images.guildmagesforum.tw/posts/DSK-mechanism/4e23bd8c493d.webp)
 
 隔間是一種新的結界類別，也是首次將永久物設計為連體牌。
 
@@ -33,7 +33,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 ## 異景（Eerie）
 
-![Eerie](https://i.imgur.com/R62Xmtp.png)
+![Eerie](https://images.guildmagesforum.tw/posts/DSK-mechanism/06197d7f2a1f.webp)
 
 異景的觸發條件為「每當一個結界在你的操控下進戰場時」或是「每當你完全解鎖時」，完全解鎖（Fully unlocked）的意思為隔間的左右兩側偏門皆解鎖。
 
@@ -41,7 +41,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 ## 隱現（Impending）
 
-![Impending](https://i.imgur.com/H9412mX.png)
+![Impending](https://images.guildmagesforum.tw/posts/DSK-mechanism/15dcaf143bcf.webp)
 
 隱現後面皆會有一個數字 N ，並提供一個替代性費用，若你使用隱現的替代性費用施放，則此卡進場時將帶著 N 個計時指示物（Time counter），並且於其上有計時指示物的期間，它將失去生物類別，在你的結束步驟開始時，會從此卡身上移除一個計時指示物。
 
@@ -49,7 +49,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 ## 顯化懼象（Manifest Dread）
 
-![Manifest Dread](https://i.imgur.com/iGzllZD.png)
+![Manifest Dread](https://images.guildmagesforum.tw/posts/DSK-mechanism/10bfaeecce9a.webp)
 
 顯化懼象是顯化（Manifest）的一種變體，當玩家執行顯化懼象時，先檢視牌庫頂兩張牌，將其中一張牌面朝下的放進戰場，它是個2/2生物，沒有名稱、魔法力費用、顏色、生物副類別、魔法力值視為0，另一張牌則放進墳場。
 
@@ -59,7 +59,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 ## 生還（Survival）
 
-![Survival](https://i.imgur.com/787gjsG.jpeg)
+![Survival](https://images.guildmagesforum.tw/posts/DSK-mechanism/a27e523c379e.webp)
 
 生還皆為觸發式異能，在你的第二行動階段（Second Main Phase）開始時，若此卡已橫置，則會觸發後續異能。
 
@@ -69,7 +69,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 ## 躁狂（Delirium）
 
-![Delirium](https://i.imgur.com/AwYZsoL.png)
+![Delirium](https://images.guildmagesforum.tw/posts/DSK-mechanism/395f06dabbdd.webp)
 
 躁狂是個復出機制，只要你的墳場中的牌張類別大於等於4種，便滿足躁狂條件。
 
@@ -81,7 +81,7 @@ excerpt: "來看看暮悲邸中出現了哪些機制吧！"
 
 暮悲邸的售前現開賽將於2024年9月20日開始，前往附近的店家體驗新系列吧！
 
-![Final](https://i.imgur.com/j0pHHwh.png)
+![Final](https://images.guildmagesforum.tw/posts/DSK-mechanism/8f879176a07e.webp)
 
 9 月 20 日 ～ 9 月 27 日：售前現開賽
 9 月 27 日：暮悲邸發售日

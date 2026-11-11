@@ -13,7 +13,7 @@ categories:
 
 大家好，我是菜鳥，這次有幸獲得MIT9的冠軍，來跟大家分享一下這次的準備過程及賽後檢討。
 
-![](https://i.meee.com.tw/5500Mhf.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/896bf1677214.webp)
 
 [菜鳥的伊捷靈技牌表連結](https://melee.gg/Decklist/View/2a4e66c8-9c85-4b56-8bb5-b2df012f6d36)
 
@@ -30,29 +30,29 @@ categories:
 
 隨著時間來到了本季第一場舉辦的歐洲賽區RC（Regional Championship），我想這時候大家都知道了不可以忽略的一套牌：
 
-![伊捷靈技](https://i.meee.com.tw/zmPYBrE.jpg)
+![伊捷靈技](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/884cfc725ebc.webp)
 
 [伊捷靈技](https://melee.gg/Decklist/View/60ee60d2-b853-44e0-8a5a-b2c800f763d8)（[歐洲RC](https://melee.gg/Tournament/View/239255)冠軍），用幾乎每一張都是modern強度的牌來降維打擊標準賽制，[迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)、[水獺天賦](https://scryfall.com/card/blb/75/stormchasers-talent)跟[戒刀](https://scryfall.com/card/tdm/103/cori-steel-cutter)的前期壓制再加上[Stock Up](https://scryfall.com/card/dft/67/stock-up)的續航使得這套牌看起來幾乎無法擊敗。
 
 而接下來的日本RC、東南亞RC、巴西RC、美國RC我分別注意的是以下幾套牌：
 
-![黑白跳跳](https://i.meee.com.tw/Sjq4A8z.jpg)
+![黑白跳跳](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/9d47f0df0d63.webp)
 
 [黑白跳跳](https://melee.gg/Decklist/View/6f5edfcf-333f-446f-996f-b2cf00f5d6ef)（[日本RC](https://melee.gg/Tournament/View/248561)冠軍），一致性的遊戲計畫，新加入的[Sunpearl Kirin](https://scryfall.com/card/tdm/29/sunpearl-kirin)使得完全不需要加入藍色也具有一戰之力。
 
-![純黑惡魔](https://i.meee.com.tw/bwHzmiy.jpg)
+![純黑惡魔](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/96685fc406a2.webp)
 
 [純黑惡魔](https://melee.gg/Decklist/View/0bac154b-3900-4058-b2e2-b2ce009628ad)（[日本RC](https://melee.gg/Tournament/View/248561)四強），新系列[Qarsi Revenant](https://scryfall.com/card/tdm/86/qarsi-revenant)的加入在對付沒有在主牌投入1點打3的伊捷靈技可以說是致勝的關鍵，正編4張[Duress](https://scryfall.com/card/fdn/606/duress)的降速有很大機會讓對面陷入1換1的單卡質量比拼
 
-![藍黑惡魔](https://i.meee.com.tw/XnMV5IJ.jpg)
+![藍黑惡魔](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/1d0e7928a52f.webp)
 
 [藍黑惡魔組合技](https://melee.gg/Decklist/View/df144452-ebf1-427c-b5b9-b2d000d85a18)（[南美RC](https://melee.gg/Tournament/View/294545)四強），去年世界冠軍賽的科技，某大師直接幫我總結說這套牌壓根不能玩。
 
-![潔斯凱大眼](https://i.meee.com.tw/f8c1AnP.jpg)
+![潔斯凱大眼](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/83d8f3432be8.webp)
 
 [潔斯凱大眼](https://melee.gg/Decklist/View/7d1634e2-f9ee-4c60-be52-b2d0017ce669)（[美國RC](https://melee.gg/Tournament/View/192556)亞軍），號稱手順的時候最強的套牌，眾多3血生物讓伊捷靈技只要節奏落後就完全追不回來。
 
-![祖爾霸主](https://i.meee.com.tw/Lr8qRiA.jpg)
+![祖爾霸主](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/f5b50925cc2f.webp)
 
 [祖爾霸主](https://melee.gg/Decklist/View/b45cded2-389c-444a-bb90-b2d0011e3d45)（[美國RC](https://melee.gg/Tournament/View/192556) 16強），上個標準的霸主，完全沒加強的套牌
 
@@ -66,11 +66,11 @@ categories:
 
 先來講一下[紐澳RC](https://melee.gg/Tournament/View/179718)
 
-![](https://i.meee.com.tw/KacnI7z.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/e3ac926099c6.webp)
 
 奪冠的[藍黑中速](https://melee.gg/Decklist/View/b6bcbca2-c654-4b0e-8ff9-b2d800345857)在賽前一週開始進入大眾視野，雖然看起來也是幾乎用不到新牌，但除了對陣到紅藍靈技會有些微劣勢以外，對於其他主流套牌幾乎都是有50%以上的勝率。
 
-![](https://i.meee.com.tw/qco7euf.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/646ec14ae786.webp)
 
 亞軍的[紅黑中速](https://melee.gg/Decklist/View/240be8ff-ee74-4bd2-91d5-b2d800804bcd)，在這次比賽前完全沒有人看過的套牌，也是唯一一套我有看直播對局的套牌，看完的感想是，亞軍的運氣很好，組牌很有想法，但我完全不會列入考慮。
 
@@ -79,19 +79,19 @@ categories:
 這場可以說這場RC是我眼裡MIT之前最重要的一場RC，除了因為時間相近以外，我認為北京RC相對全世界來講是最硬的一場RC，你必須取得7-1-1以上的成績才能取得PT資格，縱然PT人數比可能會相較某幾個賽區來得高一些，但是在有波動的前提下，只能輸一場的要求可以說是十分的高。
 這場RC的8強有不少相對紐澳RC來說比較有趣的list：
 
-![](https://i.meee.com.tw/FQtTiCz.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/2b85676ded59.webp)
 
 [Zhi, Yimin的Abzan Pixie](https://melee.gg/Decklist/View/fe417623-40f1-4a78-ba1a-b2d700e6ec1d)，初看list會覺得幾乎對到所有主流套牌都有優勢，但是也如他本人所說，對到領土霸主及黑底的中速套牌是十分的難打，亮點也在於3drop選擇了[Sentinel of the Nameless City](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city)而不是之前大家投入的[小攻城犀牛](https://scryfall.com/card/tdm/224/skirmish-rhino)。
 
-![](https://i.meee.com.tw/o8Dm3At.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/23e7af15a443.webp)
 
 [Ji, Zihao的伊捷靈技](https://melee.gg/Decklist/View/dbe3edcd-a152-4ff8-87c5-b2d700dd7878)，這個正編的版本跟我在比賽前最常玩的實體伊捷靈技可以說是幾乎沒什麼差，賽後我也請教了一下對方關於備牌的想法。
 
-![](https://i.meee.com.tw/bzEbZsg.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/8a761ab2ac70.webp)
 
 [鄒雨桐的黑白中程](https://melee.gg/Decklist/View/2f895dfe-5c21-4d73-8bf7-b2d8009df3a3)，解決了純黑對神器的應對問題，Anointed Peacekeeper某種程度上也能在主牌局對全知全能有些抗性。
 
-![](https://i.meee.com.tw/1o20FMa.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/769cb8d9ec07.webp)
 
 [Jiao, hongchen的伊捷靈技](https://melee.gg/Decklist/View/d3ad0ea1-8724-41cc-8a34-b2d8006ac289)，看上去十分有趣的備牌，完全放棄了[Slickshot Show-Off](https://scryfall.com/card/otj/146/slickshot-show-off)，正編專注於鏡像的對局，備牌則是跟其他我所看到的伊捷靈技相比有更為一致的遊戲計畫。
 
@@ -136,7 +136,7 @@ categories:
 
 綜合優缺點來看，我實在覺得繼續花時間在這套牌上的投資效益太低，因此在體驗了2、3個感受不好的BO1之後這套牌又被我丟到了旁邊（附上一張我當初怕最後要打大眼可是沒牌，所以郵寄購買結果到寫文章的當天都還沒拆開的包裹）
   
-![](https://i.meee.com.tw/7HIlOpq.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/1f8cda2e193b.webp)
 
 下一套練習的是藍白全知全能，優缺點不贅述了，簡單講一下我個人的感受：
 1.	可以說是環境內幾乎最全面的套牌，但在此前提下可能意識到這點的人也不少，選擇這套牌的話勢必要面對很多無法透過套牌構築改變的鏡像對局，而在我看來這套牌幾乎無論怎麼改，在鏡像對局中就是5050，就算操作上有優勢，在硬體的限制下勝率的提升就是有限。
@@ -172,7 +172,7 @@ categories:
 「這就是拿modern打standard的餘裕嗎？」
 「為什麼當初沒有買100張Stock Up（X」
 
-![](https://i.meee.com.tw/7br5EKY.webp)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/dd025b3e067a.webp)
 
 認識我比較久的朋友應該都知道，我本人是一個很不喜歡玩主流套牌的人，我不信什麼八十岡翔太說的鏡像對局裡面也要有55%的勝率這種話。在牌張強度如此高的現在，鏡像對局除非構築上有足夠多的小巧思，不然鏡像對局在我看來就是一個運氣成分偏高，無法掌握的對局。除非是自己本身沒時間準備，不然我基本上不會拿主流套牌出戰。
 但看來現在是不得已的時候了，正好我運氣很好的在北京RC後有跟4強的Ji, Zihao交流了一下，也有了Jiao, hongchen備牌小心法，然後也跟沒怎麼玩標準的小徐聊了兩三句，讓我能在很短的時間內很快的了解伊捷靈技在各個對局的遊戲計畫及一些該注意的事情：
@@ -204,7 +204,7 @@ categories:
 ## 備牌計畫
 [鳥不喇基也有](https://www.facebook.com/share/p/15xLnBXUxC/)，不過還是放一下。
 
-![](https://i.meee.com.tw/uNcYa4V.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/a4ee33c7ecaa.webp)
 
 ## 賽後檢討
 可能有人看到這邊覺得，都拿冠軍了還要檢討什麼？但對我個人而言，我最害怕的不是輸，而是在對局過後沒有進步的自己。
@@ -222,6 +222,6 @@ categories:
 3.	可以去看自由鋼彈
 4.	最重要的，可以跟小蘇一起去吃羊肉串！
  
-![](https://i.meee.com.tw/VhfM4Lv.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/bb0238f75d07.webp)
 
 感謝收看。

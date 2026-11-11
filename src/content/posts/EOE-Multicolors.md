@@ -21,20 +21,20 @@ excerpt: "太空系列來臨，大家準備好翱翔於宇宙間，駕駛太空�
 
 ### <span style="color:#C3B270">白</span><span style="color:#006DB3">藍</span> — 第二個咒語
 
-![](https://i.meee.com.tw/kx5COwc.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/29e5182fda41.webp)
 
 在一個回合中施放你的第二個咒語(跟TDM的[連咒](https://guildmagesforum.tw/TDM-mechanism/#%E9%80%A3%E5%92%92%EF%BC%88Flurry%EF%BC%89)機制是一樣的)，並獲得額外資源，像是 {% mtglink "Cosmogrand Zenith" %} 、 {% mtglink "Station Monitor" %} 都可以生大量的衍生物，或者後期用+1/+1使生物變大壓制對手。要注意的是在對手的回合施放第二個咒語也是可以觸發的。
 
 
 ### <span style="color:#006DB3">藍</span><span style="color:#808080">黑</span> — 神器控制
 
-![](https://i.meee.com.tw/FzANrzq.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/16ef6fac15ff.webp)
 
 組建一個基於神器的牌組，透過消耗對手的資源來慢慢取勝。 {% mtglink "Alpharael, Dreaming Acolyte" %} 可以讓你補充手牌，且透過丟棄神器牌而不虧資源； {% mtglink "Dubious Delicacy" %} 進場解決對手生物之後，看是要用來捕血抑或是斬殺都相當不錯。
 
 ### <span style="color:#808080">黑</span><span style="color:#AF2321">紅</span> — 空洞(Void)
 
-![](https://i.meee.com.tw/obC3hu3.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/e3f8fd85e2f0.webp)
 
 使用空洞機制，以生物和神器為代價，觸發毀滅性的事件。 {% mtglink "Interceptor Mechan" %} 持續觸發空洞異能的話，作為空中打點是很恐怖的存在； {% mtglink "Alpharael, Stonechosen" %} 喊打時觸發空洞就扣一半血量，那傷害也是相當可觀。
 
@@ -42,43 +42,43 @@ excerpt: "太空系列來臨，大家準備好翱翔於宇宙間，駕駛太空�
 
 ### <span style="color:#AF2321">紅</span><span style="color:#4A8A3D">綠</span> — 探地器與地落
 
-![](https://i.meee.com.tw/0DCHoU7.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/ce6c0bc6e31a.webp)
 
 使用探地器衍生物和地落來創造法力優勢。探地器可以幫助你更容易地觸發地落效果，他在所有顏色都有，但主要分布在紅綠色組，像是 {% mtglink "Biotech Specialist" %} ，此外 {% mtglink "Tannuk, Memorial Ensign" %} 的地落異能會慢慢扣死對手且帶來手牌優勢。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#C3B270">白</span> — +1/+1 指示物
 
-![](https://i.meee.com.tw/gEDR7VK.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/2900c518b171.webp)
 
 用 +1/+1 指示物強化你的整個軍隊，疊加它們並看著敵人倒下。 {% mtglink "Haliya, Ascendant Cadet" %} 可以確保你的生物全副武裝，且你的手牌資源充足； {% mtglink "Drix Fatemaker" %} 可以保證你有著指示物的大生物順利踐踏死對手。
 
 ### <span style="color:#C3B270">白</span><span style="color:#808080">黑</span> — 橫向鋪場
 
-![](https://i.meee.com.tw/Fx98qhQ.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/5b5eb87579b9.webp)
 
 在戰場中組建最大的軍隊，以絕對的數量征服你的對手。 {% mtglink "Syr Vondam, the Lucent" %} 可以強化你的眾多衍生物或是小生物，更進一步可以使用 {% mtglink "Dual-Sun Adepts" %} 這類連擊生物將對手擊敗。
 
 ### <span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span> — 神器快攻
 
-![](https://i.meee.com.tw/AesFdNT.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/f4f37998f443.webp)
 
 本系列中不少紅藍色單卡會關注神器進場、抑或是被橫置時觸發， {% mtglink "Syr Vondam, the Lucent" %} 透過低費神器進場來擴大進攻威脅； 無論是用於進行攻擊或是支付太空船的蓄勢，都可以為你帶來額外濾牌效益。
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span> — 墳場挖掘
 
-![](https://i.meee.com.tw/CSzKEvL.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/2412b7b299ce.webp)
 
 前期透過磨牌或刺探來疊加墳場，然後透過復活太空船和生物來獲得勝利。 {% mtglink "Seedship Broodtender" %} 是黑綠色組前期不錯的生物，接著透過他自身或是{% mtglink "Xu-Ifit, Osteoharmonist" %} 來讓更強大的生物返場一口氣領先對手。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span> — 太空船蓄勢
 
-![](https://i.meee.com.tw/HkHJWxR.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/e75e7f2a8043.webp)
 
 透過橫置生物來蓄勢你的太空船，然後收穫你專屬船員的獎勵。 {% mtglink "Sami, Ship's Engineer" %} 關注你的生物是否被橫置，如果達成就可以生更多生物， {% mtglink "Sami, Ship's Engineer" %} 就是個用來蓄勢用，不錯的太空船。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span> — 跳費
 
-![](https://i.meee.com.tw/omLHrjn.png)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/986d1897f30b.webp)
 
 藍綠色組透過探地器可以來進行跳費快速進到後期大費資源來壓制對手， {% mtglink "Biomechan Engineer" %} 就是此色組的優質生物，後期也可以帶來手牌跟生物資源；此外藍綠也有單卡會關注你操控的地有不同名稱，像是 {% mtglink "Fungal Colossus" %} 就有機會達到兩費甚至更低來施放，透過探地器可以讓你更容易地達成。
 

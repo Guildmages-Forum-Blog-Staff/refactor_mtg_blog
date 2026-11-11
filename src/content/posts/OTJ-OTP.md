@@ -257,7 +257,7 @@ PTE在限制賽中越前期越不好用，幫對手加速的後果太難以預�
 
 本來想說史上最速重印但也不是第一次了。四費的[驅逐明光](https://scryfall.com/card/khc/19/banishing-light) + 加速，顏色對就用吧！
 
-![039](https://i.postimg.cc/CMR0V9Ld/1.jpg)
+![039](https://images.guildmagesforum.tw/posts/OTJ-OTP/c0ec0b220b08.webp)
 
 **cephille:** 2.5
 

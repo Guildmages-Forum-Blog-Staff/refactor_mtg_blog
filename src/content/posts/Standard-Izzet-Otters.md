@@ -13,7 +13,7 @@ authors:
 
 ## Before We Start
 
-![](https://i.imgur.com/n1nmOry.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/a0c3595a12ec.webp)
 
 《班隆洛》有著充滿魅力的十大種族，要說哪個構築起來最有挑戰性，除了[上一篇文章](https://guildmagesforum.tw/Standard-Simic-Frog/)提到的青蛙以外，就非水獺莫屬了。乍看之下是連燒帶打的傳統靈技路線，卻又包含著搭配召集超展開的可能性，究竟哪個路線比較穩當呢？
 
@@ -21,7 +21,7 @@ authors:
 
 一般來說種族套路怎麼打看傳奇最準，但是傳奇水獺[發散風暴艾嵐妮](https://scryfall.com/card/blb/204/alania-divergent-storm)的設計顯然不是標準構築取向，所以同時符合上述兩套路的核心單卡為[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)：
 
-![](https://i.imgur.com/mvmkXjS.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/3fe1d3482214.webp)
 
 > 蒼茂谷喚洪師
 > 生物 | 水獺／魔法師
@@ -31,7 +31,7 @@ authors:
 
 身為會走路又會閃現的[潔斯凱霸權](https://scryfall.com/card/ktk/180/jeskai-ascendancy)，[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)既提供靈技套路額外加成與非生物咒語全閃現，附帶的全家重置讓你可以免費支付非生物召集咒語的費用，看起來好像走哪邊都可以？實際上卻不是這麼回事。
 
-![](https://i.imgur.com/lBgF6Kx.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/b326f69bff26.webp)
 
 和同樣走靈技路線的紅快相比，以[捕風導師](https://scryfall.com/card/blb/234/stormcatch-mentor)為首的進攻型水獺顯得有些溫和，無論是速度還是續戰力都拼不過紅快。走召集的話鋪場能力又有些不足，拿來召集[鼓風煽焰](https://scryfall.com/card/mom/166/stoke-the-flames)、[思緒聚合](https://scryfall.com/card/mom/66/meeting-of-minds)這類不上不下的咒語都顯得笨重，想要做到場面超展開還得仰賴[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)與[劈風師](https://scryfall.com/card/blb/154/stormsplitter)，倚重特定單卡才能運作也意味著在你無法滿足前置條件時遊戲體驗就會跟團漿糊一樣。
 
@@ -39,21 +39,21 @@ authors:
 
 [套牌列表](https://www.mtggoldfish.com/deck/6594091#paper)
 
-![](https://i.imgur.com/dfvfe4x.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/d412e0bd1328.webp)
 
 如各位所見，這是一套連控帶打的水獺召集套牌。[點燃塔樓](https://scryfall.com/card/woe/153/torch-the-tower)、[閃電煉擊](https://scryfall.com/card/dmu/137/lightning-strike)、[娜希麗興戰](https://scryfall.com/card/mom/155/nahiris-warcrafting)、[厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)交織成的強力火網對對手進行前中期壓制，待對手弱化後再由[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)領著[水獺](https://scryfall.com/card/tblb/25/otter)衍生物給對手一頓暴打。
 
-![](https://i.imgur.com/iaBRbdj.png)
-![](https://i.imgur.com/YVIl5Q2.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/45f288f7f8b9.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/3514d5276925.webp)
 
 召集目標是套牌頂點的[全城起火](https://scryfall.com/card/mom/135/city-on-fire)。在和[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)的搭配下最快可以四回拍出來，用三倍傷害一拳把對手帶走。就算沒有[喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)，靠著[水獺](https://scryfall.com/card/tblb/25/otter)衍生物與正常下地拍出來也不是難事，還能當成[厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)的肥料做8點掃場。至於[水獺](https://scryfall.com/card/tblb/25/otter)的來源，這邊選用[震天急智拉爾](https://scryfall.com/card/blb/230/ral-crackling-wit)、[逐風客才能](https://scryfall.com/card/blb/75/stormchasers-talent)與[獺球技藝](https://scryfall.com/card/blb/63/otterball-antics)做鋪場，再搭配水獺專屬咒語[智慧珍言](https://scryfall.com/card/blb/64/pearl-of-wisdom)做手牌補充。
 
-![](https://i.imgur.com/7Bvf7hS.png)
-![](https://i.imgur.com/RNWpuIo.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/534b37e52481.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/75172b48d390.webp)
 
 地牌的部分比照青蛙套牌塞了三組稀有雙色地[尖塔崖天渠](https://scryfall.com/card/otj/270/spirebluff-canal)、[西瓦暗礁](https://scryfall.com/card/otc/320/shivan-reef)、[不息尖塔](https://scryfall.com/card/woe/260/restless-spire)，不同的是種族地只使用了[睡蓮村](https://scryfall.com/card/blb/255/lilypad-village)。這是因為生物牌僅有四張[喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)，放太多種族地會卡到套牌運作，評估後選擇對長期戰較有幫助的刺探2。
 
-![](https://i.imgur.com/XzUAjur.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/faa4ab689f66.webp)
 
 ## 實戰演示
 
@@ -67,6 +67,6 @@ authors:
 
 ## 結語
 
-![](https://i.imgur.com/dvxDB07.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/412692d05b9c.webp)
 
 如果要說這副水獺種族套什麼美中不足的地方，大概就是水獺生物太少（？），只能說是種族特性使然。不過換個角度講，這個偏控制的牌型要做變化也比較不會綁手綁腳，有興趣的讀者可以自行調整看看。

@@ -32,7 +32,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 ## 蛛絲甩蕩（Web-slinging）
 
-![Web-slinging](https://i.meee.com.tw/SCue8dA.png)
+![Web-slinging](https://images.guildmagesforum.tw/posts/SPM-Mechanism/21fd69937dd6.webp)
 
 蛛絲甩蕩是一種施放咒語的替代性費用，你可以選擇以蛛絲甩蕩來施放這個咒語，想如此做需支付蛛絲甩蕩指定的魔法力，並將一個由你操控且已橫置的生物移回其擁有者手上，以作為施放費用。
 
@@ -43,7 +43,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 ## 瘋亂（Mayhem）
 
-![Mayhem](https://i.meee.com.tw/05Ya3S4.png)
+![Mayhem](https://images.guildmagesforum.tw/posts/SPM-Mechanism/28628df41d00.webp)
 
 瘋亂是一個讓你可以從墳場使用牌張的機制。
 
@@ -53,7 +53,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 {% folding blue :: 筆者碎碎念 %}
 
-![](https://i.meee.com.tw/syCtktx.png)
+![](https://images.guildmagesforum.tw/posts/SPM-Mechanism/aad580b7e94a.webp)
 
 [Vivi](https://scryfall.com/card/fin/248/vivi-ornitier)[鍋](https://scryfall.com/card/woe/242/agathas-soul-cauldron)還在強化，賺還能更賺。
 
@@ -64,7 +64,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 ## 籌謀（Connive）
 
-![Connive](https://i.meee.com.tw/0X6qWb1.png)
+![Connive](https://images.guildmagesforum.tw/posts/SPM-Mechanism/5cad2c79dd20.webp)
 
 令一個由你操控的生物籌謀時，流程如下：抽一張牌，然後棄一張牌。如果你以此法棄了非地牌，則在此生物上放置一個+1/+1指示物。
 
@@ -76,7 +76,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 ## 飾裝（Modified）
 
-![Modified](https://i.meee.com.tw/aWmXqBp.png)
+![Modified](https://images.guildmagesforum.tw/posts/SPM-Mechanism/e36fa341edaf.webp)
 
 有些牌會對 「 由你操控且有飾裝的生物 」 產生效果，當某個你的生物符合以下至少一項條件時，它就是個有飾裝的生物：
 
@@ -91,7 +91,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 ## 模式雙面牌（Modal Double Faced Cards）
 
-![Modal Double Faced Card](https://i.meee.com.tw/adpbPjP.png)
+![Modal Double Faced Card](https://images.guildmagesforum.tw/posts/SPM-Mechanism/6173e02149c2.webp)
 
 模式雙面牌（MDFC）是有別於[轉化式雙面牌（TDFC）](https://guildmagesforum.tw/FIN-mechanism/#%E8%BD%89%E5%8C%96%E5%BC%8F%E9%9B%99%E9%9D%A2%E7%89%8C%EF%BC%88Transform-Double-Faced-Cards%EF%BC%89)的另一類雙面牌機制，最早登場於[贊迪卡再起（ZNR）](https://scryfall.com/sets/znr)系列，並且在此系列出現重大規則變更。
 
@@ -108,7 +108,7 @@ excerpt: "模式雙面牌出現重大規則變更"
 
 ## 實體卡與電子版的版本割裂
 
-![Through the Omenpaths](https://i.meee.com.tw/a9MFyGi.png)
+![Through the Omenpaths](https://images.guildmagesforum.tw/posts/SPM-Mechanism/220f76676f3c.webp)
 
 MTG與外部IP的合作系列，正式名稱叫無疆宇宙（Universes Beyond），製作合作系列時，可能會遭遇一種非常獨特的挑戰： **授權問題** 
 
@@ -129,4 +129,4 @@ MTG與外部IP的合作系列，正式名稱叫無疆宇宙（Universes Beyond�
 
 漫威蜘蛛人的售前現開賽將於 2025 年 9 月 19 日開始，前往附近的店家體驗新系列吧！
 
-![Final](https://i.meee.com.tw/DDfGGao.png)
+![Final](https://images.guildmagesforum.tw/posts/SPM-Mechanism/f742a5a343d5.webp)

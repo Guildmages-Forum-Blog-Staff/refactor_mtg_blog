@@ -28,7 +28,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 **[牌表連結](https://www.mtggoldfish.com/deck/5581311#paper)**
 
-![deck](https://i.postimg.cc/ZTJb4LRN/RCQ.png)
+![deck](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/13e8a4e46eb1.webp)
 
 去年，我為了紅黑中速寫了一個非常詳細的套牌介紹，其中包含各種的單卡分析、卡牌取捨、對局細節以及換備策略（[文章連結在此](https://docs.google.com/document/d/1Z6_peW9wcBHogi7mmz6jpwhH3q1Q3TDnCYmWsfWbOvY/edit#heading=h.wvykk299fbt3)）。不過這次為了縮短篇幅，我會更專注在「這次為甚麼我這麼選」，那我們開始吧!!!
 
@@ -68,7 +68,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 ### 紅黑吸血鬼
 
-![紅黑吸血鬼](https://i.postimg.cc/nnF879CD/8.png)
+![紅黑吸血鬼](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/df10d555726a.webp)
 | Side In | Side Out |
 | :-: | :-: |
 |+1 幫派劫庫械|-1 囤寶大師瑪格妲|
@@ -81,7 +81,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 ### 紅藍鳳凰
 
-![紅藍鳳凰](https://i.postimg.cc/Fv8FtNRJ/9.png)
+![紅藍鳳凰](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/99f38beaa62b.webp)
 | Side In | Side Out |
 | :-: | :-: |
 |+1 逼從|-1 囤寶大師瑪格妲|
@@ -104,7 +104,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 ### 天光尼米捷
 
-![天光尼米捷](https://i.postimg.cc/LSbtrYLB/10.png)
+![天光尼米捷](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/4f9a10d90262.webp)
 | Side In | Side Out |
 | :-: | :-: |
 |+1 逼從|-1 囤寶大師瑪格妲|
@@ -120,7 +120,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 ### 物盡其用
 
-![物盡其用](https://i.postimg.cc/3rQCVVV0/11.png)
+![物盡其用](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/defed97b5b25.webp)
 | Side In | Side Out |
 | :-: | :-: |
 |+1 幫派劫庫械|-1 囤寶大師瑪格妲|
@@ -133,7 +133,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 ### 花槍幫炫耀師套牌
 
-![RDW](https://i.postimg.cc/gG0X90GB/RDW.png)
+![RDW](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/c1e2c4828cf9.webp)
 | Side In | Side Out |
 | :-: | :-: |
 |+1 逼從|-1 囤寶大師瑪格妲|
@@ -147,7 +147,7 @@ excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 
 ### 阿瑪利亞Combo
 
-![阿瑪利亞Combo](https://i.postimg.cc/YM3ZNzLz/12.png)
+![阿瑪利亞Combo](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/7a16e3991664.webp)
 | Side In | Side Out |
 | :-: | :-: |
 |+1 點燃塔樓|-2 面紗的莉蓮娜|

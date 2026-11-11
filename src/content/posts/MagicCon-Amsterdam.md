@@ -21,7 +21,7 @@ authors:
 
 > 有興趣的人也可以看看2024年計畫申請的[內容](https://forms.office.com/Pages/ResponsePage.aspx?id=Pt0ecKjHiUexzookNiDWjyM9dwf3-hpEsCTCctrXY_xUMFpSM1ROMkdDV0VaRVcwOUJQTVkyNFBBNy4u)。
 
-![](https://i.postimg.cc/tJdgQRP6/image.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/b34ac307f019.webp)
 
 收到感謝函的當下突然心中有一個聲音，覺得自己還是應該去這一趟，在接下來一周訂好去阿姆斯特丹的機票、住宿、以及MagicCon的入場badge，再來就是拚看看MIT#5跟#6有沒有機會作為PT選手去了，但很可惜的都沒有拚到。
 
@@ -31,13 +31,13 @@ authors:
 
 台灣的6月26日凌晨11:55pm起飛，坐了13小時的飛機幾乎睡不著，抵達阿姆斯特丹時是早上8pm左右，接著搭火車到Amsterdam Centraal Station後，選擇直奔晚上要住的Hotel，先找個寄物櫃把大件行李放了後開始市區觀光。因為沒來過又不想花€19租腳踏車，我就先用走的走到會場RAI Amsterdam領badge。
 
-![](https://i.postimg.cc/x8xgh0Bf/IMG-9142-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/814ef47c72d7.webp)
 
 Weekend badge get!
 
 阿姆斯特丹有非常多的運河，路上腳踏車都騎得蠻快的。一邊走一邊接近中午氣溫變得越來越熱，隨便在超市買了點東西在路旁野餐起來。然後因為走了超多路又很熱就被路旁的[海尼根博物館](https://www.heinekenexperience.com/nl/)吸進去，喝了兩杯海尼根生啤後微醺的從博物館走出，路上把要買的伴手禮買一買終於又走到了Amsterdam Centraal Station，搭車回到飯店洗洗睡也8pm多了，天都還沒暗感覺超奇怪XD
 
-![](https://i.postimg.cc/pdSqNRYq/IMG-9144-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/8aa17c4ff24d.webp)
 
 阿姆斯特丹的運河一景，上面有許多遊船、還有許多人在上面划船，除了水質可能乾淨一點外，其實這個風景跟高雄愛河還蠻像的。
 
@@ -53,55 +53,55 @@ Weekend badge get!
 
 今天的目標除了親身體驗MagicCon的氛圍外，還有買完待買清單、跟幫朋友們排畫家的簽名，9am不到就到了會場。
 
-![](https://i.postimg.cc/vmd1g9m9/IMG-9148-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/0bb7452424d6.webp)
 
 RAI Amsterdam會場外，大廣場上四面八方來的人都是要去今天的MagicCon。
 
-![](https://i.postimg.cc/QNpWDfxD/IMG-9150-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/53a636c89e70.webp)
 
 現場已經有很多人在排領badge或準備10am準時進場，每個人都非常熱絡地跟朋友聊天、討論今天要做什麼、剛開到的卡包內哪張卡可能有用、指揮官套牌又加了哪張黑科技...etc., 在排隊的過程中我也隨意地跟附近的玩家閒聊，每個人都對接下來的活動充滿期待、或準備在接下來會外賽、freeplay大展身手。
 
-![](https://i.postimg.cc/qq57w6xk/IMG-9151-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/88f468c67b2f.webp)
 
 9:50am開場後我就直奔Official Show Store買會場限定的商品，排了大概一個小時左右買完，回頭一看發現人龍牌超長，而櫃檯的員工看似不少，但他們是兩人同時服務一名客人，再加上切了一半去服務preorder的客人，所以如果現場排隊會排非常非常久，不禁慶幸自己有先來這一站。
 
-![](https://i.postimg.cc/90R2W8yh/IMG-9152-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/05de52340beb.webp)
 
 MagicCon會場內向外拍的照片，天氣非常好，從穹頂玻璃透射下的陽光也讓人心情舒暢！
 
-![](https://i.postimg.cc/BQfH1Xnx/IMG-9156.jpg)
-![](https://i.postimg.cc/4xM0SdZW/IMG-9190-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/79869f2687aa.webp)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/f2f5948ec937.webp)
 
 Commander Zone佔據了會場中央位置次大的面積，僅次於PT的賽場與舞台區，上面的照片是晚上9:30pm多拍的，而下面那張照片則是白天拍的，人數更是多到滿出來，而這還僅是中央區域的熱度，還沒有計算坐在各處freeplay區域的玩家數量，真的是非常非常可觀啊！也難怪老威對指揮官玩家如此重視。
 
-![](https://i.postimg.cc/QtWKF3L4/IMG-9157.jpg)
-![](https://i.postimg.cc/Y064xzCQ/IMG-9159.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/069630e01cf4.webp)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/53bee1ce5cba.webp)
 
 PT轉播台，焦點對局桌在另一側。另一張照片是PT主賽場，另一側是選手休息區，看到一堆耳熟能詳的Pro如Reid Duke、JED、八十岡翔太等在你面前走來走去，但敝人生性害羞就沒有過去要求合照；考慮的點除了不好意思外，感覺如果是我在裡面休息、也許正在覆盤或想著接下來的對策，這時總有路人走過來要跟我拍照，我可能也會覺得有點困擾。
 
 ### Trading
 
-![](https://i.postimg.cc/V6SZ5dLx/63afc72e-dd06-4ce6-9a98-e2b8d73cae62.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/a56bb1e7790c.webp)
 
 會場中有非常多家的卡店到場擺攤，交易的氣氛相當熱絡，而每家都會把自己的收牌清單展示出來，也可以直接詢問店員請他們估價。我後來是把帶來的牌交給義大利的卡店[CardGame Corner](https://www.cardgamecorner.com/en/)估價並賣給他們，替我估價的店員人非常友善，是一次非常愉快的交易經驗。估完價後店員會給你一張像照片上這樣的報價單或支票的紙，你同意後雙方就在上面簽名，然後你拿著它跟另一組店員領錢。
 
 ### 畫家簽名
 
-![](https://i.postimg.cc/xT7rRDBy/IMG-9162.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/2063603bc77b.webp)
 
 會場有超過40位的畫家到場，每位畫家簽名的價格約 €3 ~ €5 不等，Double跟Shadow的意思是差不多的，基本上就是加上陰影或簽兩次的概念，當然價格也會更貴。照片上是這次Magali Villeneuve本次的會場報價，經過幾次人都超多，而接下來兩天我也繞過去看好幾次，但每次都因為人太多而放棄，最後一天攤位旁更直接放了一個至少需等待3小時的立牌讓玩家知難而退。不愧是知名畫家啊...。
 
-![](https://i.postimg.cc/T2tvKW9s/IMG-9161.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/fb9f8d31c791.webp)
 
 上面這張是另一位知名畫家John Avon的簽名報價，很特別的是John他的簽名限定每次每人只有10個簽名的額度，而你如果要簽成Shadow的話一次就是用掉2個額度，他本人也是有點困擾說他都寫這麼多了但還是很多人不懂他的意思。
 
-![](https://i.postimg.cc/Vv6TqDRV/IMG-9164.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/298e051a3d70.webp)
 
 然後John他本人非常nice，也同意我在他簽名時拍下這張照片，其他人也有錄影的，總之就是非常隨和。不過可以感覺到這樣的簽名活動對他本人的負擔還是蠻大的，除了固定時間要休息外，簽的過程可以看到他常常在活動筋骨來放鬆。
 
 > 如果你是他的粉絲的話，我只能說且簽且珍惜。
 
-![](https://i.postimg.cc/wBk6xxjc/IMG-9165.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/1bfc12b39759.webp)
 
 簽完以後他會幫你放在牛皮紙袋上，然後你就像領餐的顧客捧著紙袋上的牌到旁邊等他們乾，John應該是看過不少他簽完後顧客沒等他乾的慘劇，他除了書面說明外，他本人對每一位顧客都說請至少等五分鐘讓簽名乾掉XD
 
@@ -109,11 +109,11 @@ PT轉播台，焦點對局桌在另一側。另一張照片是PT主賽場，另�
 
 因為回旅館也不知道要做什麼，不如待在會場打場輪抽吧！入場費是€35，要先到報名櫃台買面額€5的兌換券，然後就找一張桌子，等滿八人後裁判就會過來收兌換券然後開打。
 
-![](https://i.postimg.cc/65s5hmgZ/IMG-9174.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/91ef98d97dee.webp)
 
 輪抽過程由上至下、由左而右分別是第 1 ~ 3 包、第 1 ~ 14 pick的順序，抽成了一個沒有很好的黑白，最重要的去除都沒拿到。
 
-![](https://i.postimg.cc/gkvctKbT/IMG-9175.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/d939d2b4557b.webp)
 
 最終構築的deck如上。
 
@@ -127,7 +127,7 @@ R3對手是那位13歲的小朋友，是美裔現居德國，他爸爸也在旁�
 
 打完後會去簽一張黃色的戰績表、拿各自的prize tix，三勝的話你會把名字簽在"Undefeated"的欄位，那個小朋友拿著戰績表像拿著獎狀般的讓他爸爸拍了照，還很天真地問工作人員說三勝有沒有額外的獎品，工作人員一開始說沒有，看他很失望就離開一陣子，回來時給了他一顆糖果XDD
 
-![](https://i.postimg.cc/y8s1MSVY/IMG-9176.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/b7779d055f7b.webp)
 
 每贏一場會拿到1,200點的prize tix，輸了則是400點，打完後2-1拿到2,800點，我把200點送給第一局的瑞典玩家讓他換了3包MH3，我用剩下來的2,600點換了2包MH3跟1包魔戒輪抽包。
 
@@ -140,15 +140,15 @@ R3對手是那位13歲的小朋友，是美裔現居德國，他爸爸也在旁�
 
 11:30am開賽後，這場PTQ有570人參賽，裁判會過來發補充包，用一個黃色的夾鏈袋包著六包MH3補充包。對面坐了一個捷克來的女生好像是第一次打競爭級別的現開賽，就稍微跟她說一下要怎麼做。但她開得非常好，有[瀆界穢體鎢拉莫](https://scryfall.com/card/mh3/15/ulamog-the-defiler)跟[六樹妖](https://scryfall.com/card/mh3/169/six)...。
 
-![](https://i.postimg.cc/Lszkfks8/IMG-9191.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/cdbc9de9eaf4.webp)
 
 開完後覺得這個pool好爛，黑白殺很大但生物超爛，但不得已還是要main board黑白，至少殺有跟上還可以跟一眾奧札奇稍微周旋一下。
 
-![](https://i.postimg.cc/g2h3Fy8H/IMG-9192.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/06017c0506f4.webp)
 
 換備後考慮節奏或先手有幾場會換成紅綠奧札奇，但老是卡在三塊地，R5再卡一次後就不再採用。
 
-![](https://i.postimg.cc/Vv92V04f/IMG-9193.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/055028905624.webp)
 
 剩下是沒有用上的牌，有兩張牌沒拍到，分別是[未來塑師玄古](https://scryfall.com/card/mh3/186/genku-future-shaper)、以及[納迪爾的夜刃手](https://scryfall.com/card/mh3/275/nadiers-nightblade)。
 
@@ -206,7 +206,7 @@ p.s. 我用黑白放逐殺[深奧挪用](https://scryfall.com/card/mh3/177/abstr
 
 > 回到飯店發現睡下鋪的香港人也有參加這次的MagicCon，能在國外用中文聊天還是讓人很放鬆的，不知不覺就聊了兩個小時，過程中知道他現在是在香港工作，後來他還送我一張德文的[深湖潛妖艾莉](https://scryfall.com/card/mul/9/de/emry-w%C3%A4chterin-des-sees)，相當感謝。
 
-![](https://i.postimg.cc/Dyz6J13N/IMG-9316-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/41f8ceee1ef5.webp)
 
 ## 20240630（日）Day 3
 
@@ -214,8 +214,8 @@ p.s. 我用黑白放逐殺[深奧挪用](https://scryfall.com/card/mh3/177/abstr
 
 現場的氣氛相當歡歡樂，除了主持人在上面分析外，台下的每個座位上還放了一張賓果，只要轉播中的玩家做出行動就可以把對應的格子圈起來，連成一線就可以大喊"Bingo!"，過程中也非常熱烈，偶爾會有主持人下來發補充包的環節，Mengucci也一邊喊著：“Who plays Murktide?”邊發著補充包邊尋找著他的龍侯戰友們，相當有趣。
 
-![](https://i.postimg.cc/LXCnd31L/1.jpg)
-![](https://i.postimg.cc/cJQXxrxF/IMG-9210-1.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/ef48fc462492.webp)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/053f9760dcf4.webp)
 
 雖然四強開始都是Nadu Combo的對局，比賽內容的趣味性少了很多，但看著現場的氛圍還是相當得不錯，有幾個plays聽Mengucci說才理解到那一手做得目的以及接下來可能的影響，還是相當有收穫。6月30日也是Simon Nielson的生日，轉播的過程中大家偶爾也會幫Simon唱生日快樂歌，但主持人會帶頭把最後一句改成“Happy birthday to Nadu~”超級歡樂XD
 
@@ -227,7 +227,7 @@ p.s. 我用黑白放逐殺[深奧挪用](https://scryfall.com/card/mh3/177/abstr
 
 回到現場轉播，冠亞戰時全場一面倒地幫Simon加油，但Nadu對決真的沒什麼好看的，先後手跟起手基本上就決定了你能不能贏下這盤對局。之後Simon Nielson也順利以3-1擊敗Sam Pardee，奪下這次PT MH3的冠軍，再加上今天他生日，可謂雙喜臨門！賽後專訪後，我也在主舞台前找到Simon請他為我簽下這張牌，這對我意義非凡！
 
-![](https://i.postimg.cc/LsjKctJ5/2.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/073f91f97b7e.webp)
 
 > 走出會場時，每個玩家都在瘋狂地討論要ban[翼展智慧拿杜](https://scryfall.com/card/mh3/193/nadu-winged-wisdom)還是[手甲](https://scryfall.com/card/bok/159/shuko)，笑死XD。但總之，這是屬於Ban~~t~~ Nadu的大勝利！
 
@@ -254,7 +254,7 @@ p.s. 我用黑白放逐殺[深奧挪用](https://scryfall.com/card/mh3/177/abstr
 
 **網路**的部分我是申請台灣大哥大的漫遊，**7天台幣699元**。
 
-![](https://i.postimg.cc/vZxhnRJ5/image.jpg)
+![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/14857e6601b4.webp)
 附上四人房的示意圖，Wifi免費而且夠快！
 
 ### 飲食

@@ -94,5 +94,5 @@ A：後來覺得「看世界」這點要修正一下，因為每次 PT 辦來辦
 
 好遊戲啊！
 
-![](https://i.meee.com.tw/RlQ2F3B.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT12-Champion-Interview/0898b7d18ac0.webp)
 <p style="text-align: center;"><a class="small">從兩度 MIT 冠軍到持續挑戰PT與世界賽，菜鳥展現的不只是牌技，更是持續投入、不斷檢討與調整的態度。</a></p>

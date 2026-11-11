@@ -16,13 +16,13 @@ authors:
 
 ## 選出你的九張牌
 
-![](https://i.imgur.com/1xH08bF.png)
+![](https://images.guildmagesforum.tw/posts/Deck-Building-Basic/c2327e6a3d35.webp)
 
 在指揮官以外的構築賽制中，一副合格的套牌需要至少60張正編牌與至多15張備牌，也就是最少需要湊到60張牌才能跟人在牌桌上較量。其中約有40%（24張）地牌，剩下36張牌的位置假設我們把非地牌都放滿4張，計算下來我們總共會放到9種非地牌，也就是說，你在開始構築時可以先從牌池中挑出9張你想放的牌來打造套牌原型，這是強者我朋友的九張牌理論。
 
 首先我們要問問自己最想玩的是哪一張牌，接著思考其他牌該怎麼跟它配合。比如說，我們今天決定玩[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)這個大恐龍吸血鬼（？），我們就需要從這張牌的特性去考量。
 
-![](https://i.imgur.com/ywpnEJi.jpg)
+![](https://images.guildmagesforum.tw/posts/Deck-Building-Basic/faa7fee79bf4.webp)
 **[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)**
 
 > 踐踏
@@ -38,7 +38,7 @@ authors:
 
 ## 計算魔法力曲線
 
-![](https://i.imgur.com/jLVJtOp.png)
+![](https://images.guildmagesforum.tw/posts/Deck-Building-Basic/5445d2794429.webp)
 
 找完初始的九張牌以後，這邊就先恭喜你完成套牌構築的第一步了。但別高興的太早——他們不會是最終名單，接下來我們要舉辦擂臺賽決定誰去誰留。首先我們要在腦內模擬一下手順，思考我們每一回合想要做到什麼事？比如說我希望四回可以拍出[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)，那麼我需要二回加速一費，三回加速兩費，這樣才能在四回讓[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)準時落地。我們二費可以選擇使用魔法力生物（如[羅堰黑土語者](https://cards.scryfall.io/large/front/b/d/bd5611db-82dd-464d-8b03-70d7619dcefe.jpg)、[裝甲噬渣獸](https://cards.scryfall.io/large/front/6/1/61e220d0-38c9-4584-940b-8a9e983ecfe7.jpg)、[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)）、加速下地（[梓莎八方之旅](https://cards.scryfall.io/large/front/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg)、[豆莖亞龍](https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg)）或神器加速（[伊雷岩](https://cards.scryfall.io/large/front/8/0/8051c5ec-54a6-45a8-8945-fb93c5feaa39.jpg)），依照主題契合度與個人喜好或預算去做篩選，也可直接參考現行賽場牌表去選擇，但這邊又產生一個問題—這個費用我們應該放幾張？
 
@@ -58,7 +58,7 @@ authors:
 
 以下是筆者利用上述計算方法堆砌出的[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)的原型牌表：
 **[套牌列表](https://www.mtggoldfish.com/deck/5934053#paper)**
-![](https://i.imgur.com/zqANFFl.png)
+![](https://images.guildmagesforum.tw/posts/Deck-Building-Basic/9fd7ac5a38b3.webp)
 
 這副套牌參考現行領土套牌的架構，九張牌選用[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)、[鋼鐵熾天使](https://cards.scryfall.io/large/front/1/b/1b6ef5f5-4058-4f89-a573-9e2da87a9f2e.jpg)、[豆莖亞龍](https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg)、[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)、[綠雕跺地獸](https://cards.scryfall.io/large/front/4/c/4cc2d984-d7e1-47c8-bc88-a9a6977dea48.jpg)、[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)、[爬上豆莖](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg)、[消滅邪物](https://cards.scryfall.io/large/front/4/f/4f7862ef-2c8d-4d28-9e50-7cc41861f245.jpg)、[艾紫培的重擊](https://cards.scryfall.io/large/front/f/0/f03a480f-de67-4611-9db7-c0c3d020f597.jpg)，地牌則先用一組C卡雙色地[植物廣場](https://cards.scryfall.io/large/front/9/7/9745ec4d-0bcd-4b4c-9bf8-0344882f8d85.jpg)去填補。一費牌4張，二費（含歷險）牌有16張，運用上列方式計算，我們起手可以抽到2.33張二費以下咒語，二費加速牌則會在第二回合抽到1.06張。中間曲線的加速牌[綠雕跺地獸](https://cards.scryfall.io/large/front/4/c/4cc2d984-d7e1-47c8-bc88-a9a6977dea48.jpg)與[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)有八張，在第三回合可抽到1.125張，也就是說這副套牌初期是可以順利運作的，最快四回合上到七費。雖然[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)只有4張，四回僅能抽到0.67張，但別忘了我們還有[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)的歷險可用，多濾七張下去就會變成1.13張，幾乎是篤定能拍出來。演示影片如下：
 
@@ -66,6 +66,6 @@ authors:
 
 ## 這樣就夠了嗎？
 
-![](https://i.imgur.com/dceueEY.png)
+![](https://images.guildmagesforum.tw/posts/Deck-Building-Basic/c4e40e556c2d.webp)
 
 完成了原型牌表後，你的套牌就可以拿出來跟別人測試遊玩了，勝率或許不怎麼高，只要好好洗牌，運作起來大致會是順暢的。**但是**，如果有認真依照本文內容計算的讀者，應該可以發現範例套牌**地牌數量是有問題的**。如果我們二回使用[豆莖亞龍](https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg)的歷險加速下地、三回[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)、四回拍出[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)，那我們需要在第四回合抽到五張地，24地顯然是達不到這個需求。除此之外還有一個情況，當我們先手時三回會抽到3.6張地，如果二回使用[豆莖亞龍](https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg)加速下地，那麼三回就很可能發生沒第四張地可下的窘境，在構築上勢必得做出相應的調整。而在我們增加地牌的同時，也意味著得削減非地牌的數量，很多數字得從頭算起。覺得很麻煩不想再繼續細算也沒關係，我們已經有原型牌表了，憑藉試打的感覺來做牌表調整與備牌設計完全是可行的，說不定你的獨特創意會成為賽場新星，拿著原創套牌打出成績，絕對是無與倫比的爽快！

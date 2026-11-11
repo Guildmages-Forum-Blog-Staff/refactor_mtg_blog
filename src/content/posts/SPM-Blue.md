@@ -180,7 +180,7 @@ excerpt: "藍色各種謎因卡圖邊看邊笑"
 評語：能彈任何非地永久物，應對靈活性高，增幅後不虧牌，但問題也解不乾淨。想要用的好很吃應用時機。
 
 >[沒入狂攪](https://scryfall.com/card/fdn/509/into-the-roil)＆[眨眼即逝](https://scryfall.com/card/j25/289/blink-of-an-eye)：這人是不是有點眼熟？
->![](https://i.meee.com.tw/UtIhFlM.png)
+>![](https://images.guildmagesforum.tw/posts/SPM-Blue/4add62ebc02f.webp)
 
 
 ## 結語

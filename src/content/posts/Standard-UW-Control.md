@@ -18,7 +18,7 @@ authors:
 
 [牌表連結](https://www.mtggoldfish.com/deck/5863025#paper)
 
-![牌表圖片](https://i.imgur.com/F96nRxW.jpg)
+![牌表圖片](https://images.guildmagesforum.tw/posts/Standard-UW-Control/9af73a8f95ab.webp)
 
 ---
 
@@ -47,7 +47,7 @@ authors:
 
 ### 單體去除
 
-![單體去除](https://i.imgur.com/pP3EjeM.jpg)
+![單體去除](https://images.guildmagesforum.tw/posts/Standard-UW-Control/31fb7e414fe0.webp)
 
 [艾紫培的重擊](https://scryfall.com/card/mom/13/elspeths-smite)在防守端約等於白色的對生物[閃電擊](https://scryfall.com/card/2x2/117/lightning-bolt)了，目前標準內打3射程可以處理的生物，多半需要攻擊才能對白藍控制產生壓力，因此這個條件限制其實不大，同時3防也是一個標準打手的分界線，標準內常規打手防禦小於等於3的生物占了絕大多數，死亡改為放逐的特性也可以很好的應對[頑強敗犬](https://scryfall.com/card/snc/97/tenacious-underdog)、[蘚木林恐懼騎士](https://scryfall.com/card/woe/231/mosswood-dreadknight-dread-whispers)、[銳鞭變械人](https://scryfall.com/card/bro/122/razorlash-transmogrant)、[虔敬新兵丹尼克](https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition)，不過遇到如[寺院迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)這類靈技生物，或是其他擁有身材膨脹能力的打手時，可能有白虧一張牌的風險，使用上須留意對面防禦增加的可能性。
 
@@ -57,7 +57,7 @@ authors:
 
 ### 終結者兼任單體去除
 
-![終結者](https://i.imgur.com/PDsmi7A.jpg)
+![終結者](https://images.guildmagesforum.tw/posts/Standard-UW-Control/666223e0f5f0.webp)
 
 [刺角湖鯨](https://scryfall.com/card/woe/53/horned-loch-whale-lagoon-breach)是艾卓荒野的MVP單卡，可以說是這一張卡拉起了整副套牌，歷險端的湖水潰決補上了非黑色系控制的一大痛點：低費去除死角過多，以往非黑色系的低費去除在射程或對象限制上存在較大死角，又或者像命定空棺一樣有著比較強的副作用，在這點上湖水潰決已經稱得上十分優秀了！
 
@@ -73,7 +73,7 @@ authors:
 
 ### 掃場
 
-![掃場](https://i.imgur.com/JQqwBL6.jpg)
+![掃場](https://images.guildmagesforum.tw/posts/Standard-UW-Control/453b83367a3e.webp)
 
 只靠單體去除是沒辦法拉開牌差的，也容易有漏網之魚無法真正穩住場面，掃場是常規控制中扭轉對局節奏的一大武器。
 
@@ -81,7 +81,7 @@ authors:
 
 ### 友誼的魔法：康
 
-![康](https://i.imgur.com/YCAagFf.jpg)
+![康](https://images.guildmagesforum.tw/posts/Standard-UW-Control/d5e6024ab222.webp)
 
 二費的康有[菁華離散](https://scryfall.com/card/dmu/49/essence-scatter)、[失效](https://scryfall.com/card/dmu/58/negate)、[人間消失](https://scryfall.com/card/snc/49/make-disappear)、[倨傲擊](https://scryfall.com/card/snc/39/disdainful-stroke)，由於各有死角，同一種放過多容易產生卡手風險，因此非常零星的投入合併使用，其中倨傲擊並未投入正編，原因是康的卡位有限，使用過量會讓套牌應對彈性降低，而倨傲擊的針對對象通常在正編局就是我的優勢對局，比較不需要過於針對，因此挪至備牌。
 
@@ -95,7 +95,7 @@ authors:
 
 ### 手牌補充
 
-![抽牌](https://i.imgur.com/a3cv8cg.jpg)
+![抽牌](https://images.guildmagesforum.tw/posts/Standard-UW-Control/e85fc60e09c1.webp)
 
 [記憶奔騰](https://scryfall.com/card/mid/62/memory-deluge)同樣是早早在各大賽制證明自己的強者，4費補2張手牌是標準的賺牌咒語標竿，記憶奔騰看4拿2的深度在標準屬一流，而返照更是超大幅拉高此卡上限，論濾牌深度與牌差量可稱為超一流，我甚至懷疑5年內標準都不可能再出現比記憶奔騰能賺的4費補牌咒語了。此外由於這個動作並非抽牌，因此在啟示天災希歐蕊面前可以爭取更多生存空間。
 
@@ -109,7 +109,7 @@ authors:
 
 ### 其他
 
-![其他](https://i.imgur.com/PfRQ0v0.jpg)
+![其他](https://images.guildmagesforum.tw/posts/Standard-UW-Control/f2b49a11c805.webp)
 
 [穹天儀](https://scryfall.com/card/mid/252/the-celestus)作為一個輔助十分優秀，Draw Go控制很容易主動控制晝夜切換，而晝夜切換帶來的補血與可控濾牌能力，在長期戰中都能體現不小的價值，提早一回的烈日墮威也有機會讓對手的進攻節奏全面崩牌，傳奇類別的性質注定了不會帶多，帶一張剛剛好。
 
@@ -121,7 +121,7 @@ authors:
 
 ### Plan B 終結者
 
-![終結者](https://i.imgur.com/HSoKLEZ.jpg)
+![終結者](https://images.guildmagesforum.tw/posts/Standard-UW-Control/0b11ac878b87.webp)
 
 控制的特色往往是正編極度缺少生物，因此大多對手在面對控制時，備牌局會將去除下掉不少，而換上的針對牌則是如[逼從](https://scryfall.com/card/one/92/duress)、[失效](https://scryfall.com/card/dmu/58/negate)等，因此與控制遊戲計畫相符合的生物牌在備牌局往往有奇效。
 
@@ -133,13 +133,13 @@ authors:
 
 ### 更多的康
 
-![康](https://i.imgur.com/KswMR0u.jpg)
+![康](https://images.guildmagesforum.tw/posts/Standard-UW-Control/4b58a7da1653.webp)
 
 如前文所述，[倨傲擊](https://scryfall.com/card/snc/39/disdainful-stroke)在正編局沒格子必要性也沒那麼高，但不可否認在慢速對局中是個相當好用的康，因此投入備牌，[失效](https://scryfall.com/card/dmu/58/negate)也是作為正編的補充，備牌局可能遇到的非生物咒語實在太多了，其中不乏[面紗的莉蓮娜](https://scryfall.com/card/dmu/97/liliana-of-the-veil)這類控制殺手。
 
 ### 低費去除
 
-![殺](https://i.imgur.com/b6zbWHZ.jpg)
+![殺](https://images.guildmagesforum.tw/posts/Standard-UW-Control/06f19b9e1e09.webp)
 
 慢速對局本來就是白藍控的優勢對局，因此對於去除的補充會更注重遊戲前期的快攻。
 
@@ -151,7 +151,7 @@ authors:
 
 ### 其他
 
-![其他](https://i.imgur.com/y5z75yR.jpg)
+![其他](https://images.guildmagesforum.tw/posts/Standard-UW-Control/e39cfae67c1a.webp)
 
 [消滅邪物](https://scryfall.com/card/dmu/17/destroy-evil)在遇到正確的針對對象時十分完美，只是這個針對對象說窄不窄，說寬死角又很多，對上結界牌組與大生物牌組必上，剩餘情況就挺吃對方的構築細節了。
 
@@ -161,11 +161,11 @@ authors:
 
 ## 其他未選用單卡
 
-![泰菲力](https://i.imgur.com/HxpuQdW.jpg)
+![泰菲力](https://images.guildmagesforum.tw/posts/Standard-UW-Control/f035be39e043.webp)
 
 [歷時旅人泰菲力](https://scryfall.com/card/bro/66/teferi-temporal-pilgrim)是個十分傳統的控制終結者，與白藍控的相性自然是沒話說，不過目前選用刺角湖鯨後終結者的位置很難再擠出空間，因此沒投入使用。假若選用了歷時旅人泰菲力，高費賺牌咒語可以從記憶奔騰改為[銀鏡洞察](https://scryfall.com/card/dmu/65/silver-scrutiny)，更為契合泰菲力的能力，不過這也代表面對啟示天災希歐蕊時抗性會下降。
 
-![尷尬牌](https://i.imgur.com/qtTsAz2.jpg)
+![尷尬牌](https://images.guildmagesforum.tw/posts/Standard-UW-Control/01084070af89.webp)
 
 [掃除人口](https://scryfall.com/card/snc/10/depopulate)與[靈魂分離](https://scryfall.com/card/bro/26/soul-partition)沒使用是因為定位上的尷尬性。
 
@@ -173,7 +173,7 @@ authors:
 
 靈魂分離雖然乍看是萬解，也有救自己刺角湖鯨或飄萍皇後反覆利用的應用，但它其實比較偏節奏牌，面對我這種絕對被動套牌時，對手總有機會多花2費再施放一次的，所以拿它來當去除只能拖一下時間並不能真正解決問題，從牌差角度來看也是真正的虧牌，命定空棺雖然也虧牌，但起碼問題解的很乾淨。
 
-![未使用備牌](https://i.imgur.com/7ZmHnsu.jpg)
+![未使用備牌](https://images.guildmagesforum.tw/posts/Standard-UW-Control/47fa434a17ea.webp)
 
 [成婚佳訊](https://scryfall.com/card/vow/45/wedding-announcement-wedding-festivity)、[寺院明師](https://scryfall.com/card/mom/28/monastery-mentor)、[鉻亮兵團運種鯊](https://scryfall.com/card/mom/51/chrome-host-seedshark)都是合理的備牌Plan B終結者，最終選用誰僅是依個人喜好選擇的結果，讀者也可根據自己的對局理解自行抽換。
 
@@ -183,13 +183,13 @@ authors:
 
 鉻亮兵團運種鯊則是與這套相性良好，三費2/4飛行的身材在阻擋端算合格了，生撫育Token時是看咒語費用這點也與套牌特性相符合，無論是應對攻勢的防守或是對致勝的補充都十分出色，總的來說沒什麼可以挑剔的點，真要說就是他本體守的住3/3但擋不死3/3，對方有複數的[墓地擅闖客](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)、[鑑屍客](https://scryfall.com/card/snc/178/corpse-appraiser)等打點時可能會被無傷白嫖。鉻亮兵團運種鯊整體定位與忠信判官類似，最後選擇何者更偏向筆者個人喜好。
 
-![去除生物](https://i.imgur.com/T5LGjFW.jpg)
+![去除生物](https://images.guildmagesforum.tw/posts/Standard-UW-Control/8b094381ab11.webp)
 
 [護教蠻兵](https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute)與[半狐保鏢](https://scryfall.com/card/woe/39/werefox-bodyguard)作為生物類別的去除，在備牌局同樣有著不可忽視的定位，在面對以[瑟班守護者莎利雅](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben)作為對控制主要對策的牌型時表現優異，護教蠻兵可以藉由晝夜轉換來搏到一卡多次去除的上限。半狐保鏢的閃現提供更靈活的彈性，犧牲自己補血的能力則是與掃場達成配合，避免自己開完掃場後留下一隻原本被半狐保鏢放逐的生物，掃場完還有立即續戰力這點是控制非常害怕的。
 
 護教蠻兵、半狐保鏢這類生物類別去除與忠信判官雖然都能起到針對快攻的作用，但原理是完全不同的，忠信判官只在乎對方戰鬥上的能力，是單純的身材壓制，護教蠻兵、半狐保鏢更關注對方非戰鬥上的能力，例如瑟班守護者莎利雅的法力稅效應，根據您對當前環境的理解可以選用不同取向的對策牌來適應環境。
 
-![剋色牌](https://i.imgur.com/xew50Zs.jpg)
+![剋色牌](https://images.guildmagesforum.tw/posts/Standard-UW-Control/4ed13d57a9b9.webp)
 
 [日落狂歡](https://scryfall.com/card/mid/38/sunset-revelry)對上快攻時同樣表現優異，是可選用單卡，目前我更多還是交給致昏重擊和短時封鎖來處理這項工作。
 

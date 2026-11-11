@@ -33,7 +33,7 @@ excerpt: "心流！我要進入心流！！！"
 
 ### 更新五學院的核心遊戲計畫
 
-![](https://i.meee.com.tw/WdNDmWc.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-Post-release/46db6bd12abe.webp)
 
 先說結論：當這五張U卡傳奇在場時，若你能感覺到優勢不斷擴大的話，那恭喜你，你的套牌組/抽對了！
 
@@ -98,11 +98,11 @@ excerpt: "心流！我要進入心流！！！"
 
 ### 需留意掃場咒語
 
-![](https://i.meee.com.tw/Dycwsza.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-Post-release/af677f181715.webp)
 
 秘典牌中的白藍兩張超載（Overload）咒語都視同單向掃場，而紅色的 {% mtglink "Subterranean Tremors" %} 基本上也能發揮一桿清檯的能力。 {% mtglink "Brotherhood's End" %} 的全場打3雖範圍較小，但仍是有效的中期掃場、至於 {% mtglink "Culling Ritual" %} 只能掃2費以下就比較尷尬，只有在面對極限的白黑快攻、或以 X/X Fractal tokens為主力的綠藍中才可能有好表現，但備牌局中如果你是上述這兩類、或會被掃2費懲罰的牌型，還是要意識到有這張牌的存在。
 
-![](https://i.meee.com.tw/FwyS1mk.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-Post-release/7b113b801d2c.webp)
 
 而主系列中這兩張牌也接近掃場咒語的強度，尤其是黑白的 {% mtglink "Moment of Reckoning" %} 幾乎是單向掃場 + 場面優勢大幅擴大，一結算通常就能顛覆戰局。即使對手地牌缺少施放它的其中一個顏色，只要場上有珍寶、或有機會轉出其他顏色的牌，都需要稍加注意。而沒有提 {% mtglink "Artistic Process" %} 的原因是：如果你的套牌會被五費時的全場掃二懲罰，那很可能是你組錯了。
 
@@ -112,4 +112,4 @@ excerpt: "心流！我要進入心流！！！"
 
 讓我們一起進入[心流](https://scryfall.com/card/sos/49/flow-state)，掌握[秘典](https://scryfall.com/search?as=grid&order=name&q=%28game%3Apaper%29+set%3Asoa+lang%3Aja+prefer%3Abest)的最佳使用方式吧！
 
-![](https://i.meee.com.tw/kexf5K1.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-Post-release/da6e59f74f9f.webp)

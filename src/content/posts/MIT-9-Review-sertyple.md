@@ -71,7 +71,7 @@ categories:
 
 下方這張圖根本就是比賽前的我，從最開始準備時覺得台灣一定很多快攻，感覺Domain會被各種紅色小動物或是Monk打破頭；到中間很長的一段時間慢慢發現：實際上Domain對到快攻的壓力並沒有過去Mono Red得大，各地的賽場上也有不少Orzhov Midrange、Jeskai Oculus、Jeskai Control出現，一切都在往好的方向前進時，我發現地獄對局Azorius Omniscience如雨後春筍般出現，四處打聽之下，總覺得Izzet Prowess的數量越問越少XD，好多台北的比賽冠亞都有Omniscience的身影，於是最後懷揣著忐忑的心就這麼上場了。
  
-![比賽趣事](https://i.meee.com.tw/xmnp7o8.png)
+![比賽趣事](https://images.guildmagesforum.tw/posts/MIT-9-Review-sertyple/0137030f0c43.webp)
 
 第二輪時遇到[台灣黑熊](/authors/Chiyou/)大大，賽後復盤發現因為時間壓力導致我在一個關鍵回合過度激進，把刺探地看到的一張{% mtglink "Zur, Eternal Schemer" %}直接刺探進墳場，並用{% mtglink "Analyze the Pollen" %}蒐證掉墳場中的牌後，直接再找一張Zur，最後吃了一發{% mtglink "Day of Judgment" %}從此再起不能，結果從有機會和局或第三把變成0-2輸掉，而實際上如果那把最後以和局作結的話，我有可能會因為和局的關係遇上後面同為3-0-1的Omniscience玩家，只能說幸好沒事。
 

@@ -119,11 +119,11 @@ excerpt: "節奏明快的環境"
 
 ### 藍色
 
-![](https://i.meee.com.tw/BmD8RlD.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Draft-Review/3dd5a5d65af1.webp)
 
 這兩張牌是2費的核心，2回合一定要出一張生物，或是手上捏一張殺，不然在這環境幾乎等於輸。
 
-![](https://i.meee.com.tw/alGgBxp.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Draft-Review/3b1c98f66324.webp)
 
 抽牌三件套，要有生物以及這些抽牌套件，套牌才算完整，也是白藍最難組的地方，有兩家一起玩就會湊不好。
 

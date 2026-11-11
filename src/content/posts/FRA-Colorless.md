@@ -82,11 +82,11 @@ excerpt: "地牌奠定基石，神器武裝戰局！再加上強力 SPG 的重�
 
 ### 地牌
 
-![PW lands](https://i.meee.com.tw/wrrZlgm.png)
+![PW lands](https://images.guildmagesforum.tw/posts/FRA-Colorless/57b3a8e827b2.webp)
 分數：2.5
 評語：這系列因為有機會站進，所以比以往的雙色地厲害一點。
 
-![鄰色慢地](https://i.meee.com.tw/4a01LaF.png)
+![鄰色慢地](https://images.guildmagesforum.tw/posts/FRA-Colorless/2e19f543ab30.webp)
 分數：2.7
 評語：幾乎都能站著進還不錯，但也就調色比C卡地厲害一點。
 

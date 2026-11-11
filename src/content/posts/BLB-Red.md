@@ -176,7 +176,7 @@ authors:
 
 |                                                  161                                                  |                                                  162                                                  |                    ###                    |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------: |
-| ![161](https://cards.scryfall.io/large/front/d/a/da653996-9bd4-40bd-afb4-48c7e070a269.jpg?1721431429) | ![162](https://cards.scryfall.io/large/front/7/3/7392d397-9836-4df2-944d-c930c9566811.jpg?1721426754) | ![blank](https://i.imgur.com/3V1FLMc.png) |
+| ![161](https://cards.scryfall.io/large/front/d/a/da653996-9bd4-40bd-afb4-48c7e070a269.jpg?1721431429) | ![162](https://cards.scryfall.io/large/front/7/3/7392d397-9836-4df2-944d-c930c9566811.jpg?1721426754) | ![blank](https://images.guildmagesforum.tw/posts/BLB-Red/b4d9d9a7443b.webp) |
 |                                                  2.0                                                  |                                                  2.5                                                  |                    無                     |
 
 評價：

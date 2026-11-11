@@ -23,7 +23,7 @@ A：八強時對上了白綠神砲，事前沒有寫到對局上下該怎麼換�
 四強對上 MIT#2 冠軍林承翰，他打很熟練的黑綠醫生，醫生套牌運作看過幾次 guide ，大致知道會怎麼上下備牌，第一盤也是先手又抽得不錯，準時下犀牛加干擾就過了。第三盤他抽了許多 mana 頭和地牌，因此卡住不太順，我選擇用飛兵繞過慢慢打。對局感覺怪怪的，好在結果是好的。
 冠亞對大黑金庫，大概知道怎麼應對，但還好不用開打～
 
-![](https://i.meee.com.tw/bnrt1C9.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT5-Champion-Interview/88c706dda511.webp)
 
 > 奪冠當天的經典照片在此～
 
@@ -76,7 +76,7 @@ A：一定要感謝老婆大人的支持。求學時間應該所有魔風玩家�
 
 A：學生時期李俊廷、蘇昱禎與黃永銘都是厲害的南部玩家，從他們身上學到不少構築與限制賽的觀點。吳俊賢 aka 瓜瓜（ [CardMaster](https://www.facebook.com/cardmaster.tw) 老闆）是在北部求學時認識的，他非常用心推廣這遊戲，無論是辦比賽、架網站、甚至讓我們寫中文推廣文章。最後一位是[陳柏宏 aka 蹦蹦 aka 勇德大叔的日常](https://www.facebook.com/UncleJund)，是他讓我相信爸爸型玩家還能贏得大賽，勇者蹦蹦可是把我認為不可能的事情，全都變成了可能！他就是我的辛梅爾！
 
-![](https://i.imgur.com/AfmE1w5.jpeg)
+![](https://images.guildmagesforum.tw/posts/MIT5-Champion-Interview/4bd3ef07d459.webp)
 
 #### Q12：身為一個競技型玩家、全職工作者、以及三個孩子的父親，你是如何兼顧家庭、工作、以及練習和比賽的時間呢？三者之間您如何調配？
 

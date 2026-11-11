@@ -30,7 +30,7 @@ excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享�
 除此之外也前情提要一下，筆者過去一個月首次接觸近代賽制，直接勇敢~~魯莽~~站上了 MITQ 賽場，緊繃地學習了不少細節，但也剛好處於身心俱疲需要喘息的階段，這場**現開派對**對我而言來得正好。
 
 我和網站成員 [cephille](/authors/cephille/) 一起來到遊戲平方，從下午的四人局展開探索暮悲邸的旅程。第一場，包含售現贈卡共開到兩輛 [The Rollercrusher Ride](https://scryfall.com/card/dsk/155/the-rollercrusher-ride) ，再加上出現了 [Hedge Shredder](https://scryfall.com/card/dsk/183/hedge-shredder) 、 [Peer Past the Veil](https://scryfall.com/card/dsk/226/peer-past-the-veil) 、 [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) 等強力單卡，以及兩根棒棒的 [Baseball Bat](https://scryfall.com/card/dsk/209/baseball-bat) 棒棒，讓我毫不猶豫地進入了納雅（紅綠白）路線，搭配綠色穩健的五張調色牌及兩張雙色地，我真的認為那是一副很有競爭力的套牌，兩輛[The Rollercrusher Ride](https://scryfall.com/card/dsk/155/the-rollercrusher-ride)連發可以終結比賽，就算對手命硬我也趁機達成躁狂了，看見完美組合的我露出了一抹竊笑嘿嘿。
-![](https://i.meee.com.tw/Zr6hjn0.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Sealed-Review/3aaddf6f2b46.webp)
 第一場就對上了 [cephille](/authors/cephille/) ，我提醒自己這是個享受遊戲的時刻，要以輕鬆的心態享受~~說不定反而會打得更好對吧~~，結果輸了，心裡還是有股小小的鬱悶啊唉……
 > 筆者認為 cephille 在這系列的表現真的非常優秀，理由極其簡單：因為他認真且樂在其中。關於他的更專業視角請見[豬鼻子的 DSK 售前現開分享](https://guildmagesforum.tw/DSK-Prerelease-Experience-Cephille/)。
 
@@ -40,7 +40,7 @@ excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享�
 
 和 [cephille](/authors/cephille/) 簡單填了一下肚子，又回去遊戲平方參加晚上的場次。再次打開六包補充包，這次的牌池比下午場淒慘太多……
 
-![](https://i.meee.com.tw/0Ax0C91.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Sealed-Review/62c2f0dba694.webp)
 >嗯我真的盡力了，當時很想回家。
 
 最終組成了以 [Rip, Spawn Hunter](https://scryfall.com/card/dsk/228/rip-spawn-hunter) 、 [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) 、 [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum) （！？）三張R卡為炸彈的白綠弱雞套牌，腦袋裡纏繞著「下午那兩根 [Baseball Bat](https://scryfall.com/card/dsk/209/baseball-bat) 現在來該有多好……」、「下午那場好好把握的話該有多好……」等念頭，又打了個不進反退的一勝一敗一和，其中一敗依然是被 [cephille](/authors/cephille/) 澈底血洗的結果，那場離譜到大家都笑了XD反而非常歡樂~~畢竟有小丑嘛派對感就濃了~~。
@@ -55,7 +55,7 @@ excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享�
 前一天處理完大部分的網站事務後，週六我想給自己一個安靜打牌的機會，別想著要在夥伴面前證明自己的進步，靜靜打牌休息一下就好，享受拆卡包打牌的純粹快樂吧。
 當天我選擇了[貓腳印東門店](https://www.facebook.com/@CatFootPrintDongMen.tw)的下午場，沒想到現場人數居然高達十六人（！？），而且還是出現了不少熟面孔XD。原訂計畫雖然失敗，但腦中的雜緒恰好不多。拆完六包補充包後，默默發覺眼前的牌料能組成我最看好的三色色組。那就來吧，好像還滿有意思的。
 
-![](https://i.meee.com.tw/KuS7RHj.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Sealed-Review/cf3523c6ae84.webp)
 > 坦白說也是有運氣好的成分，遇到快攻就得換上很多備牌了。
 
 最終我完成了阿布贊（白黑綠）三色套牌，一眾炸彈包含了 [Enduring Innocence](https://scryfall.com/card/dsk/6/enduring-innocence) 、 [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) 、 [Enduring Tenacity](https://scryfall.com/card/dsk/95/enduring-tenacity) （剛好有三張值得放的補血牌所以最終選擇投入）、以及超炸超秀的 [Valgavoth's Onslaught](https://scryfall.com/card/dsk/204/valgavoths-onslaught) ，但這一切並非最關鍵的要素。在這經常由牌庫頂決勝負的系列中，帶領玩家走向鬼屋深處的 CU 卡才是 BO3 的決勝關鍵，我的 MVP 單卡完全不是上面提及的任何一張炸彈。請容我先賣個關子吧。
@@ -71,7 +71,7 @@ excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享�
 本場比賽的關鍵時刻應該是：對手閃現 [Enduring Curiosity](https://scryfall.com/card/dsk/51/enduring-curiosity) 做完阻擋後，我場上剩下一隻站著的小費生物，站兩塊地，手上捏著 [Break Down the Door](https://scryfall.com/card/dsk/170/break-down-the-door) 但無可奈何。靈機一動借牌來瞧瞧，小聲驚嘆了一聲「喔～屁股 3 那GO吧。」對方應該是擔心有詭計而不敢硬推，進入我的回合便直接用 [Break Down the Door](https://scryfall.com/card/dsk/170/break-down-the-door) 將可愛又可怕的貓咪解得乾乾淨淨。
 最終我以 2:0 收下比賽，也和徐姓玩家約好未來再戰。目前我們之間的糾葛是一勝一敗，在我心中他是可敬且值得跨越的對手。
 
-![](https://i.meee.com.tw/7TPV88t.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Sealed-Review/011f2906ffbd.webp)
 > 可愛貓咪這回慘遭破門放逐啦。
 
 沒有過度思考的情況下，屬於我的三勝時刻終於到來啦！很高興在 EDH 的領域外也有在第一桌贏下比賽的經驗。

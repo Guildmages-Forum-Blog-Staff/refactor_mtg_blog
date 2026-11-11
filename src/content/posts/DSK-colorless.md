@@ -116,13 +116,13 @@ excerpt: "十三個充滿穢氣的神器、窺伺你我健康的十三恐懼地�
 
 <!---256/259/260/261/270，這 5 張合成一張寫，給一樣的分數即可--->
 
-![邊陲地](https://i.imgur.com/9tyawQY.jpeg)
+![邊陲地](https://images.guildmagesforum.tw/posts/DSK-colorless/1477ab9ba869.webp)
 分數：3.0
 評語：雙色套牌中產出兩色的保障之一。只要你有其中一種基本地，必定能產出第二色。
 
 <!---255/257/258/262/263/264/264/266/267/268，這  10 張功能類似，合成一張寫，給一樣的分數即可--->
 
-![十三恐懼地](https://i.imgur.com/DQnt2Zf.jpeg)
+![十三恐懼地](https://images.guildmagesforum.tw/posts/DSK-colorless/657ee4c93629.webp)
 分數：3.0
 評語：遊戲中後期能夠站進，意味著遊戲節奏將逐漸加快，也會使僵局容易突破。
 

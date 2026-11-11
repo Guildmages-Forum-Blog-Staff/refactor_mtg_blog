@@ -19,7 +19,7 @@ categories:
 ## 套牌選擇
 
 *[Azorius Control](https://www.mtggoldfish.com/deck/visual/7198414)*
-![](https://i.meee.com.tw/Y1QGQQ1.jpg)
+![](https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/9284925fd8d2.webp)
 
 作為一位白藍玩家，在 MIT#9 打了7把全知全能，做出的 Combo 卻小於5次之後，完全不知道要打什麼 deck。結果看到[台灣黑熊](https://www.facebook.com/profile.php?id=100092580668030)大大操作藍白控以0敗之姿進入8強，就開始回去研究標準藍白控的構築。許多觀念我也是從集會所的[文章](https://guildmagesforum.tw/First-MIT-UW-Control/)學習的，會選擇藍白控主要屬於個人的偏執：我想在大賽選擇喜歡的 deck 去挑戰主流（~~即便 Day1 倒地我還可以去先驅 Challenge 玩[大泰](https://scryfall.com/card/dom/207/teferi-hero-of-dominaria)~~），所以可以看到很多針對 ban 牌前環境的 pre-sideboard 構築，這裡簡單分享我對一些單卡選擇的理解。
 
@@ -31,12 +31,12 @@ categories:
 在千葉GP開打前的 [Pro Tour Final Fantasy](https://www.mtggoldfish.com/tournament/pro-tour-final-fantasy#paper) 已經告訴我們 *Izzet Prowess* 是現在環境顯學，在FF發行後，更加入了頂級三費強卡 [Vivi Ornitier](https://scryfall.com/card/fin/248/vivi-ornitier)（以下簡稱 Vivi ），不拍刀子也能只用 Vivi 單回合爆發15點以上的傷害。Temporary Lockdown (以下簡稱 Lockdown) 不再能確實壓著靈技全家，而且我實在不喜歡 Lockdown 被回手後的無力感。
 High Noon 不僅能鎖住紅刀和 Vivi ，也會迫使 PT 第二多的 *Azorius Omniscience* 在正編局需要先解決 High Noon 才能做出 Combo，這是能針對 60% 對局的單卡，最終決定正3，，並且正備編完全放棄會把 High Noon 壓掉的 Lockdown。
 
-![](https://i.meee.com.tw/oZOyXHB.jpg)
+![](https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/4d1cbedf6622.webp)
 
 ### [Authority of the Consuls](https://scryfall.com/card/fdn/137/authority-of-the-consuls) + [Split Up](https://scryfall.com/card/dsk/32/split-up)
 確定放棄 Lockdown 後，在家鼠（ *Mono-red aggro* ）奪冠後的大型賽事，勢必還是需要好的低費掃場。因此在正編投入2張 Split Up 取代三費掃場的位置，並且搭配正2備1的 Authority of the Consuls。在千葉的許多對局中，威權實實在在地發揮權威般的影響力。
 
-![](https://i.meee.com.tw/epYWK5z.jpg)
+![](https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/683a54bd41fe.webp)
 
 ### [Ultima](https://scryfall.com/card/fin/38/ultima)
 雖然五費的掃場在當時環境偏慢，但是能夠確實讓紅藍刀無法翻盤，因此投入一張。尤其在3張 High Noon 的構築護航下，我們更有本錢往五回邁進。在實戰中我有多次用到 Ultima 掃掉兩張甚至以上的[刀子](https://scryfall.com/card/tdm/103/cori-steel-cutter)，令對手再起不能。
@@ -59,7 +59,7 @@ High Noon 不僅能鎖住紅刀和 Vivi ，也會迫使 PT 第二多的 *Azorius
 我和金魚網上白藍控的地牌最不一樣的配置：一張防康地。能夠有效針對帶藍的對手：遇到全知和內戰可以確保威脅或解牌結算、遇到紅藍刀可以確定掃場一定能帶走東西（[TTABE](https://scryfall.com/card/otj/74/this-town-aint-big-enough) ~~禁卡~~就給你吧）。
 另外提一下我在與藍白控內戰時發現的配合：我們可以在主階一利用 [Sunken Citadel](https://scryfall.com/card/lci/285/sunken-citadel) 產兩點藍，一點藍去站走路地，另一點開防康地，攻擊完在主階二做第一發威脅依然不會被康，因為他的寫法是 ”The ==*next spell you cast this turn*== can’t be countered.“ 正賽中我這樣處理後，成功賺到對面一張[早想三步](https://scryfall.com/card/otj/75/three-steps-ahead)（不好意思你想錯了），讓 [Elspeth, Storm Slayer](https://scryfall.com/card/tdm/11/elspeth-storm-slayer) 安全落地。（然後就被[速速退離](https://scryfall.com/card/lci/14/get-lost)請退了😭）
 
-![](https://i.meee.com.tw/O64n2kv.jpg)
+![](https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/238cf6f95220.webp)
 
 ## 備牌配置
 

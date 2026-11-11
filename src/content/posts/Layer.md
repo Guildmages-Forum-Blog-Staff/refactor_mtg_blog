@@ -29,7 +29,7 @@ Layer的規則十分嚴謹，應用場合也極廣，甚至可以說是MTG規則
 
 {% endfolding %}
 
-![封面](https://i.meee.com.tw/moJBtFz.png)
+![封面](https://images.guildmagesforum.tw/posts/Layer/c0218147bc81.webp)
 
 ---
 
@@ -66,42 +66,42 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
     - 層7d：交換生物的力量和防禦力的效應生效。
 
 ### 層1a：可複製效應
-![Layer_1a](https://i.meee.com.tw/jgzudFc.png)
+![Layer_1a](https://images.guildmagesforum.tw/posts/Layer/f8bd7e25c128.webp)
 > 成為XX複製品的效應作用於此層。
 
 ### 層1b：面朝下相關效應
-![Layer_1b](https://i.meee.com.tw/9t7cIoz.png)
+![Layer_1b](https://images.guildmagesforum.tw/posts/Layer/9b7923477499.webp)
 > 面朝下的永久物自帶的特徵被獨立了一層出來，並且高於一般的複製效應，可複製特徵最高檢查到1b層為止。
 
 ### 層2：改變操控權的效應
-![Layer_2](https://i.meee.com.tw/vbIGZgg.png)
+![Layer_2](https://images.guildmagesforum.tw/posts/Layer/39c0a047d5d7.webp)
 
 ### 層3：改變敘述的效應
-![Layer_3](https://i.meee.com.tw/SZuXd5P.png)
+![Layer_3](https://images.guildmagesforum.tw/posts/Layer/ac38c9b86071.webp)
 
 ### 層4：改變類別的效應
-![Layer_4](https://i.meee.com.tw/eeIMHeZ.png)
+![Layer_4](https://images.guildmagesforum.tw/posts/Layer/7f40af28a9d0.webp)
 
 ### 層5：改變顏色的效應
-![Layer_5](https://i.meee.com.tw/Ac3oBVW.png)
+![Layer_5](https://images.guildmagesforum.tw/posts/Layer/ef8444685737.webp)
 
 ### 層6：添加、移除異能的效應
-![Layer_6](https://i.meee.com.tw/aZ9SE7Q.png)
+![Layer_6](https://images.guildmagesforum.tw/posts/Layer/cbb8df43b62a.webp)
 > 關鍵字指示物也作用於這層。
 
 ### 層7a：定義力量、防禦力的特徵定義異能
-![Layer_7a](https://i.meee.com.tw/4al7xTv.png)
+![Layer_7a](https://images.guildmagesforum.tw/posts/Layer/b02298104149.webp)
 > 右下角力量或防禦力數值用★表示。
 
 ### 層7b：設定力量、防禦力為指定數值
-![Layer_7b](https://i.meee.com.tw/9RHY4xM.png)
+![Layer_7b](https://images.guildmagesforum.tw/posts/Layer/7aa5e325dfbe.webp)
 > 此層會確定這個物件的基礎力量、防禦力，如[豹族模範庫琪](https://scryfall.com/card/lci/232/kutzil-malamet-exemplar)這類檢查基礎力量、防禦力的牌，看的就是7b層決定的數值。
 
 ### 層7c：增減力量、防禦力
-![Layer_7c](https://i.meee.com.tw/kRLeowV.png)
+![Layer_7c](https://images.guildmagesforum.tw/posts/Layer/4fb7629ff549.webp)
 
 ### 層7d：交換力量、防禦力
-![Layer_7d](https://i.meee.com.tw/w1UXr4s.png)
+![Layer_7d](https://images.guildmagesforum.tw/posts/Layer/80c921c1704c.webp)
 
 {% endnotel %}
 
@@ -136,7 +136,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 一個物件的原始特徵我們姑且稱為第0層，後續有效應對它做任何特徵更改，都是發生在1~7層，在原始特徵之上做更動，每一層的定義參考上列章節。
 
 現在有個效應要修改一個物件的特徵了，我們首先要釐清這個效應作用於哪一層，一個效應也可能同時修改多層資訊，讓我們以[肯理斯化身](https://scryfall.com/card/woc/128/kenriths-transformation)為例：
-![](https://i.meee.com.tw/NmTWxBM.png)
+![](https://images.guildmagesforum.tw/posts/Layer/ee6cbbd02eff.webp)
 先按照上述的各層定義，將肯理斯化身的效應填入表格內：
 | Layer | 肯理斯化身 | 
 | :-: | :-: | 
@@ -148,7 +148,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 搞清楚一個效應作用在哪幾層之後，我們就可以開始套用這些效用了，Layer的原理從第1a層開始→第7d層結束，一層一層的讓這層發生的效應生效。以肯理斯化身的範例來講，生效順序就是 4→5→6→7b。
 
 按照順序生效是Layer最為重要的觀念，因為某些效應可能只對滿足特定條件的對象生效，而前面層的修改就可能改變這個條件的適用範圍，讓我們繼續沿用上面範例，假設肯理斯化身是貼在我的西瓦巨龍上，並且我場上還有枯葉王侯，這時作用於西瓦巨龍上的效應如下：
-![範例](https://i.meee.com.tw/gDw22Tn.png)
+![範例](https://images.guildmagesforum.tw/posts/Layer/73141a4109d6.webp)
 > ● **[西瓦巨龍](https://scryfall.com/card/fdn/206/shivan-dragon)** ：
 > 被靈氣結附的生物。
 > ● **[肯理斯化身](https://scryfall.com/card/woc/128/kenriths-transformation)** ：
@@ -180,7 +180,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 有時同一層會有多個效應一起生效，這時就要比這些效應的[時間印記](https://guildmagesforum.tw/What-is-Time-Stamp/)了。時間印記說白了就是這個效應生效的時間點，越早生效的效應越先適用，但也代表它會被比較晚生效的效應覆蓋。
 
-![時間印記](https://i.meee.com.tw/CMwXB4K.png)
+![時間印記](https://images.guildmagesforum.tw/posts/Layer/6761eb04af2d.webp)
 > ● **[縮小](https://scryfall.com/card/ima/50/diminish)** ：
 > 目標生物的基礎力量與防禦力為1/1直到回合結束。
 > ● **[四方陣勢](https://scryfall.com/card/stx/238/square-up)** ：
@@ -197,7 +197,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 有時候同一層的多個效應並不是獨立運作，一個效應適用後，另一個效應的「生效對象、生效內容、敘述、存在」會因此發生改變，這種時候這兩個效應之間就有了[從屬關係](https://guildmagesforum.tw/What-is-Dependency/)，簡單來說就是假設A先適用後B會因此受影響，那就是先適用A再適用B。
 
-![從屬關係](https://i.meee.com.tw/c7dRp7I.png)
+![從屬關係](https://images.guildmagesforum.tw/posts/Layer/153ddf57899b.webp)
 > ● **[構生菌格柵](https://scryfall.com/card/bbd/241/mycosynth-lattice)** ：
 > 所有永久物均額外具有神器此類別的。
 > ● **[器械進擊](https://scryfall.com/card/arc/6/march-of-the-machines)** ：
@@ -214,7 +214,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### 小試身手
 
-![範例1](https://i.meee.com.tw/wm7yhFB.png)
+![範例1](https://images.guildmagesforum.tw/posts/Layer/6342bbea9ec1.webp)
 > ● **[莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)** ：
 > 莊嚴獨角兔的力量和防禦力各等同於由你操控的非地永久物數量。
 > ● **[倒楣鬼角色（靈氣）衍生物](https://scryfall.com/card/twoe/17/wicked-cursed)** ：
@@ -230,7 +230,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 可以看到兩者定義攻防的效應處在不同層，莊嚴獨角兔的是7a層的[特徵定義異能（CDA）](https://guildmagesforum.tw/Characteristic-Defining-Ability/)，倒楣鬼角色則是在7b層，按層依序處理下來，最後生效的會是倒楣鬼角色，因此無論當下★為多少，最後莊嚴獨角兔都是個1/1生物。
 
 
-![範例2](https://i.meee.com.tw/jgSYPUQ.png)
+![範例2](https://images.guildmagesforum.tw/posts/Layer/9ab866aa5ee7.webp)
 > ● **[攻城乳齒象](https://scryfall.com/card/m20/312/siege-mastodon)** ：
 > 3/5生物。
 > ● **[扭曲影像](https://scryfall.com/card/a25/75/twisted-image)** ：
@@ -263,7 +263,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">鏡身影 + 載具</font>
 
-![載具](https://i.meee.com.tw/Po0EH21.png)
+![載具](https://images.guildmagesforum.tw/posts/Layer/b4ceeabb3ace.webp)
 > ● **[鏡身影](https://scryfall.com/card/j22/62/mirror-image)** ：
 > 你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 > ● **[地底縱帆船](https://scryfall.com/card/lci/80/subterranean-schooner)** ：
@@ -290,7 +290,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">鏡身影 + 竊冠甌柯</font>
 
-![魔戒OKO](https://i.meee.com.tw/vD5Dew4.png)
+![魔戒OKO](https://images.guildmagesforum.tw/posts/Layer/fb56a7ba9a51.webp)
 > ● **[竊冠甌柯](https://scryfall.com/card/eld/197/oko-thief-of-crowns)** ：
 > [+1]：目標神器或生物失去所有異能，且成為基礎力量與防禦力為3/3的綠色麋鹿生物。
 > ● **[至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring)** ：
@@ -317,7 +317,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">鏡身影 + 永續無瑕體</font>
 
-![永續體](https://i.meee.com.tw/3dDzve0.png)
+![永續體](https://images.guildmagesforum.tw/posts/Layer/4e661e6aa9a9.webp)
 > ● **[鏡身影](https://scryfall.com/card/j22/62/mirror-image)** ：
 > 你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 > ● **[永續無瑕體](https://scryfall.com/card/dsk/6/enduring-innocence)** ：
@@ -342,7 +342,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">進軍阿芒凱 + 永續無瑕體</font>
 
-![阿芒凱永續體](https://i.meee.com.tw/OqoVvcm.png)
+![阿芒凱永續體](https://images.guildmagesforum.tw/posts/Layer/a493ef28f985.webp)
 > ● **[進軍阿芒凱](https://scryfall.com/card/mom/231/invasion-of-amonkhet-lazotep-convert)** ：
 > 一個戰役，背面為拉佐特變節者。
 > ● **[拉佐特變節者](https://scryfall.com/card/mom/231/invasion-of-amonkhet-lazotep-convert)** ：
@@ -367,7 +367,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">拉佐特變節者 + 鏡身影</font>
 
-![1a修改](https://i.meee.com.tw/1WmLZnn.png)
+![1a修改](https://images.guildmagesforum.tw/posts/Layer/b1d651ddd6af.webp)
 > ● **[拉佐特變節者](https://scryfall.com/card/mom/231/invasion-of-amonkhet-lazotep-convert)** ：
 > 你可以讓拉佐特變節者當成墳場中任一生物牌的複製品來進入戰場，但它是4/4黑色殭屍，且仍具有原本類別。
 > ● **[勵志監管使](https://scryfall.com/card/fdn/496/inspiring-overseer)** ：
@@ -392,7 +392,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">複製 + 面朝下</font>
 
-![面朝下](https://i.meee.com.tw/i1DRAaB.png)
+![面朝下](https://images.guildmagesforum.tw/posts/Layer/5ff8107a4ed5.webp)
 > ● **[煙火表演者](https://scryfall.com/card/mkm/140/pyrotechnic-performer)** ：
 > [偽裝](https://guildmagesforum.tw/MKM-mechanism/#%E5%81%BD%E8%A3%9D%EF%BC%88Disguise%EF%BC%89) <font color="#FF0000">{R}</font> （你可以牌面朝下地施放此牌並支付{3}，將其當成2/2、具守護{2}的生物。可隨時支付其偽裝費用使其翻回正面。）
 > ● **[擬形變幻](https://scryfall.com/card/m19/60/metamorphic-alteration)** ：
@@ -418,7 +418,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">操控權轉移</font>
 
-![NTR](https://i.meee.com.tw/svrRGfg.png)
+![NTR](https://images.guildmagesforum.tw/posts/Layer/afb142e56c3d.webp)
 > ● **[全面操弄](https://scryfall.com/card/rna/42/mass-manipulation)** ：
 > 獲得X個目標生物和／或鵬洛客的操控權。
 > ● **[叛行](https://scryfall.com/card/rvr/99/act-of-treason)** ：
@@ -441,7 +441,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">敘述文字改變</font>
 
-![曲解心意](https://i.meee.com.tw/kZhnPG7.png)
+![曲解心意](https://images.guildmagesforum.tw/posts/Layer/511af7c2a83b.webp)
 > ● **[曲解心意](https://scryfall.com/card/10e/93/mind-bend)** ：
 > 更改目標永久物的規則敘述文字；將其中一種顏色文字全部更改為另一種，或是將一種基本地類別文字全部更改為另一種。
 > ● **[堅毅女王琳登](https://scryfall.com/card/lci/80/subterranean-schooner)** ：
@@ -464,7 +464,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">十會盟地脈 + 虛色</font>
 
-![虛色](https://i.meee.com.tw/nBwWiFk.png)
+![虛色](https://images.guildmagesforum.tw/posts/Layer/ac71053d5101.webp)
 > ● **[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)** ：
 > 每個由你操控的非地永久物均是五色。
 > ● **[竊生惡體](https://scryfall.com/card/mh3/174/thief-of-existence)** ：
@@ -487,7 +487,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">關鍵字指示物 + 失去異能</font>
 
-![Layer6](https://i.meee.com.tw/xaPpz1N.png)
+![Layer6](https://images.guildmagesforum.tw/posts/Layer/e479cb7fed2a.webp)
 > ● **[曲枝飛鼠](https://scryfall.com/card/iko/15/helica-glider)** ：
 > 曲枝飛鼠進戰場時上面依你的選擇有一個飛行指示物或一個先攻指示物。
 > ● **[神秘破壞](https://scryfall.com/card/iko/57/mystic-subdual)** ：
@@ -511,7 +511,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">腥紅之月 + 約格莫夫之墓烏爾博格</font>
 
-![血月](https://i.meee.com.tw/9Qy4REK.png)
+![血月](https://images.guildmagesforum.tw/posts/Layer/efc898226420.webp)
 > ● **[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)** ：
 > 非基本地都是山脈。
 > ● **[約格莫夫之墓烏爾博格](https://scryfall.com/card/tsr/287/urborg-tomb-of-yawgmoth)** ：
@@ -535,7 +535,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">薑餅怪人 + 化蛙術</font>
 
-![薑餅](https://i.meee.com.tw/AM3ACHe.png)
+![薑餅](https://images.guildmagesforum.tw/posts/Layer/2c57334091a2.webp)
 > ● **[薑餅怪人](https://scryfall.com/card/woe/246/gingerbrute)** ：
 > {1}：薑餅怪人本回合只能被具敏捷異能的生物阻擋。
 > ● **[化蛙術](https://scryfall.com/card/clu/103/turn-to-frog)** ：
@@ -566,7 +566,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">鋼樑鎮毆擊棍 + 化蛙術</font>
 
-![武具](https://i.meee.com.tw/vUOmsGX.png)
+![武具](https://images.guildmagesforum.tw/posts/Layer/701abb35b9c3.webp)
 > ● **[幼熊](https://scryfall.com/card/fdn/552/bear-cub)** ：
 > 無異能2/2生物。
 > ● **[鋼樑鎮毆擊棍](https://scryfall.com/card/mom/131/beamtown-beatstick)** ：
@@ -608,7 +608,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">永世陰謀家祖爾 + 提莎娜的縛潮師</font>
 
-![祖爾](https://i.meee.com.tw/I8jzeAQ.png)
+![祖爾](https://images.guildmagesforum.tw/posts/Layer/79e93cf5bf7d.webp)
 > ● **[永世陰謀家祖爾](https://scryfall.com/card/dmu/228/zur-eternal-schemer)** ：
 >由你操控的結界生物具有死觸、繫命與辟邪異能。
 {1} <font color="#FFC000">{W}</font> ：目標由你操控的非靈氣結界成為基礎力量與基礎防禦力各等同於其魔法力值的生物，且仍具有原本類別。
@@ -641,7 +641,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 祖爾的能力會賦予凶林霸主死觸、繫命、辟邪，縛潮師則是令凶林霸主失去異能，這兩者都作用於第6層，所以這時要比時間印記，而祖爾這效應的來源是他的靜止式異能，其時間印記等同祖爾的進場時間，因此結論是縛潮師擁有較新的時間印記，凶林霸主將失去所有異能，變成5/5的無異能生物。
 
-> ![霸主](https://i.meee.com.tw/jPDz3pv.png)
+> ![霸主](https://images.guildmagesforum.tw/posts/Layer/4e64e207bcde.webp)
 
 
 
@@ -650,7 +650,7 @@ Layer總共有七層（以1~7表示），其中某些層還可以細分成子層
 
 ### <font color="#FF0000">莊嚴獨角兔 + 褪除武裝</font>
 
-![CDA](https://i.meee.com.tw/ctoYXWd.png)
+![CDA](https://images.guildmagesforum.tw/posts/Layer/941b986c2ec5.webp)
 > ● **[莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)** ：
 > 莊嚴獨角兔的力量和防禦力各等同於由你操控的非地永久物數量。
 > ● **[褪除武裝](https://scryfall.com/card/mh2/39/dress-down)** ：
@@ -671,7 +671,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">飲咒蛇 + 褪除武裝</font>
 
-![飲咒蛇](https://i.meee.com.tw/MDdEQBj.png)
+![飲咒蛇](https://images.guildmagesforum.tw/posts/Layer/db72233fc543.webp)
 > ● **[飲咒蛇](https://scryfall.com/card/mh1/168/hexdrinker)** ：
 > 等級8+：6/6、反一切保護。
 > ● **[褪除武裝](https://scryfall.com/card/mh2/39/dress-down)** ：
@@ -695,7 +695,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">巧手竊猴勒格文 + 褪除武裝</font>
 
-![Dash](https://i.meee.com.tw/JQgm7aA.png)
+![Dash](https://images.guildmagesforum.tw/posts/Layer/d522b6403f01.webp)
 > ● **[巧手竊猴勒格文](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)** ：
 > 掩襲{1} <font color="#FF0000">{R}</font> （你可以支付此咒語的掩襲費用來施放它。如果你如此作，則它獲得敏捷異能，且在下個結束步驟開始時便需從戰場移回其擁有者手上。）
 > ● **[褪除武裝](https://scryfall.com/card/mh2/39/dress-down)** ：
@@ -729,7 +729,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">紅月賢者 + 竊冠甌柯</font>
 
-![紅月OKO](https://i.meee.com.tw/hzmHZLD.png)
+![紅月OKO](https://images.guildmagesforum.tw/posts/Layer/f3d78bc6063a.webp)
 > ● **[紅月賢者](https://scryfall.com/card/tsr/175/magus-of-the-moon)** ：
 > 非基本地都是山脈。
 > ● **[竊冠甌柯](https://scryfall.com/card/eld/197/oko-thief-of-crowns)** ：
@@ -755,7 +755,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">腥紅之月 + 荒野之魂艾莎婭</font>
 
-![艾莎婭](https://i.meee.com.tw/31ip8gF.png)
+![艾莎婭](https://images.guildmagesforum.tw/posts/Layer/5d74e4fbbd99.webp)
 > ● **[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)** ：
 > 非基本地都是山脈。
 > ● **[荒野之魂艾莎婭](https://scryfall.com/card/znr/179/ashaya-soul-of-the-wild)** ：
@@ -796,7 +796,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">腥紅之月 + 艾莎婭 + 根徑滌淨師</font>
 
-![根徑滌淨師](https://i.meee.com.tw/qYb0IJ9.png)
+![根徑滌淨師](https://images.guildmagesforum.tw/posts/Layer/3eb72ca72533.webp)
 > ● **[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)** ：
 > 非基本地都是山脈。
 > ● **[荒野之魂艾莎婭](https://scryfall.com/card/znr/179/ashaya-soul-of-the-wild)** ：
@@ -828,7 +828,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">百勝戰車格拉茲 + 背叛毒刺瓦絲卡</font>
 
-![戰車](https://i.meee.com.tw/ky2hiPD.png)
+![戰車](https://images.guildmagesforum.tw/posts/Layer/d5b84b829724.webp)
 > ● **[百勝戰車格拉茲](https://scryfall.com/card/one/229/graaz-unstoppable-juggernaut)** ：
 由你操控的攻城巨車每次戰鬥若能攻擊，則必須攻擊。
 由你操控的攻城巨車不能被牆阻擋。
@@ -861,7 +861,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">合變 + 失去異能</font>
 
-![合變1](https://i.meee.com.tw/QIqbojg.png)
+![合變1](https://images.guildmagesforum.tw/posts/Layer/cbee395b2924.webp)
 > ● **[夢翎蒼鷺](https://scryfall.com/card/iko/47/dreamtail-heron)** ：
 > 合變{3}{U}。每當此生物合變時，抽一張牌。
 > ● **[神秘破壞](https://scryfall.com/card/iko/57/mystic-subdual)** ：
@@ -891,7 +891,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">撼世妮莎 + 碎晶狂獸</font>
 
-![合變2](https://i.meee.com.tw/Ci3bLel.png)
+![合變2](https://images.guildmagesforum.tw/posts/Layer/f252b55387cf.webp)
 > ● **[撼世妮莎](https://scryfall.com/card/war/169/nissa-who-shakes-the-world)** ：
 > [+1]：在至多一個目標由你操控且非生物的地上放置三個+1/+1指示物。將之重置。它成為0/0，具警戒與敏捷異能的元素生物，且仍然是地。
 > ● **[樹林](https://scryfall.com/card/fdn/291/forest)** ：
@@ -949,7 +949,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">同謀 + 氣蘊四體１</font>
 
-![氣蘊四體1](https://i.meee.com.tw/2QnhONt.png)
+![氣蘊四體1](https://images.guildmagesforum.tw/posts/Layer/f20111d8f1a3.webp)
 > ● **[同謀](https://scryfall.com/card/acr/88/conspiracy)** ：
 > 於同謀進場時，選擇一種生物類別。
 由你擁有且不在場的生物，由你操控的生物咒語，以及由你操控的生物都是這個類別。
@@ -978,7 +978,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">同謀 + 氣蘊四體２</font>
 
-![氣蘊四體2](https://i.meee.com.tw/vFx0Ois.png)
+![氣蘊四體2](https://images.guildmagesforum.tw/posts/Layer/ef1476e7d362.webp)
 > ● **[同謀](https://scryfall.com/card/acr/88/conspiracy)** ：
 > 於同謀進場時，選擇一種生物類別。
 由你擁有且不在場的生物，由你操控的生物咒語，以及由你操控的生物都是這個類別。
@@ -1040,7 +1040,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">獻力神 + 蛋白石光輝</font>
 
-![結界神](https://i.meee.com.tw/pv7osx5.png)
+![結界神](https://images.guildmagesforum.tw/posts/Layer/5c712516d59b.webp)
 > ● **[日冠赫利歐德](https://scryfall.com/card/cmm/29/heliod-sun-crowned)** ：
 > 只要你的白色獻力小於五，赫利歐德便不是生物。（以下簡稱白神）
 > ● **[蛋白石光輝](https://scryfall.com/card/uds/13/opalescence)** ：
@@ -1068,7 +1068,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">獻力神 + 謙卑</font>
 
-![結界神2](https://i.meee.com.tw/qEg2xTr.png)
+![結界神2](https://images.guildmagesforum.tw/posts/Layer/6cf6765014e9.webp)
 > ● **[日冠赫利歐德](https://scryfall.com/card/cmm/29/heliod-sun-crowned)** ：
 > 只要你的白色獻力小於五，赫利歐德便不是生物。
 > ● **[謙卑](https://scryfall.com/card/tpr/16/humility)** ：
@@ -1102,7 +1102,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">謙卑 + 祀煉基定</font>
 
-![基定](https://i.meee.com.tw/xmkkV40.png)
+![基定](https://images.guildmagesforum.tw/posts/Layer/5f1a52fc9bd0.webp)
 > ● **[謙卑](https://scryfall.com/card/tpr/16/humility)** ：
 > 所有生物均失去所有異能，且基礎力量與防禦力為1/1。
 > ● **[祀煉基定](https://scryfall.com/card/akh/14/gideon-of-the-trials)** ：
@@ -1130,7 +1130,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">謙卑 + 蛋白石光輝</font>
 
-![謙卑](https://i.meee.com.tw/OSsOzUO.png)
+![謙卑](https://images.guildmagesforum.tw/posts/Layer/82c26e4059a9.webp)
 > ● **[謙卑](https://scryfall.com/card/tpr/16/humility)** ：
 > 所有生物均失去所有異能，且基礎力量與防禦力為1/1。
 > ● **[蛋白石光輝](https://scryfall.com/card/uds/13/opalescence)** ：
@@ -1163,7 +1163,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">謙卑 + 蛋白石光輝X2</font>
 
-![謙卑2](https://i.meee.com.tw/gu1l5fw.png)
+![謙卑2](https://images.guildmagesforum.tw/posts/Layer/50eee2cc0fbb.webp)
 > ● **[謙卑](https://scryfall.com/card/tpr/16/humility)** ：
 > 所有生物均失去所有異能，且基礎力量與防禦力為1/1。
 > ● **[蛋白石光輝](https://scryfall.com/card/uds/13/opalescence)×2** ：
@@ -1192,7 +1192,7 @@ CDA是一種異能，會受失去異能的效應影響，無論莊嚴獨角兔�
 
 ### <font color="#FF0000">謙卑 + 蛋白石光輝 + 迷醉傍晚</font>
 
-![迷醉傍晚](https://i.meee.com.tw/I3Iw99D.png)
+![迷醉傍晚](https://images.guildmagesforum.tw/posts/Layer/4b86ee7cd95c.webp)
 > ● **[謙卑](https://scryfall.com/card/tpr/16/humility)** ：
 > 所有生物均失去所有異能，且基礎力量與防禦力為1/1。
 > ● **[蛋白石光輝](https://scryfall.com/card/uds/13/opalescence)** ：

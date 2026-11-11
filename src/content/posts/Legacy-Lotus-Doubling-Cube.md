@@ -24,13 +24,13 @@ excerpt: "珠光蓮花最後的波紋"
 ## 套牌主題
 
 [牌表連結](https://www.mtggoldfish.com/deck/6653524#paper)
-![DeckList](https://i.meee.com.tw/cxbySdL.png)
+![DeckList](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/6c27dda6f885.webp)
 
 ### 該如何使用珠光蓮花
 
 相信比起套牌本身強度，各位讀者更在意的是：在沒指揮官的情況下，[珠光蓮花](https://scryfall.com/card/cmr/319/jeweled-lotus)的異能究竟該如何應用？這就要談談此套牌的核心卡：[加倍方體](https://scryfall.com/card/10e/321/doubling-cube)
 
-![](https://i.meee.com.tw/h9T82mj.png)
+![](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/411e83dfc7eb.webp)
 >[珠光蓮花](https://scryfall.com/card/cmr/319/jeweled-lotus)：{T}，犧牲珠光蓮花：加三點任意顏色的單色魔法力。此魔法力只能用來施放你的指揮官。
 >[加倍方體](https://scryfall.com/card/10e/321/doubling-cube)：{3}，{T}：將你魔法力池中每個類別的魔法力加倍。
 
@@ -42,7 +42,7 @@ excerpt: "珠光蓮花最後的波紋"
 
 從上面使用加倍方體產出魔法力的主題就能看出，這是一套專注於快速爆出大量魔法力的套牌，具體來說會是類似於風暴的說書型套牌，在不斷的演牌中滾出越來越多的魔法力，並將這些法力轉換成對應的致勝出口，這個出口可能是一擊斃命的殺招，也可能是實質終結遊戲的死鎖。
 
-![14](https://i.meee.com.tw/g6i1ztA.png)
+![14](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/87c0b9617397.webp)
 > 此場景出自 MTG 漫畫「消滅所有人類，他們不能重生」第 14 話
 
 ---
@@ -51,13 +51,13 @@ excerpt: "珠光蓮花最後的波紋"
 
 ### 魔法力基礎 
 
-![地](https://i.meee.com.tw/Iy8zJ4j.png)
+![地](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/3a6c1d337b9f.webp)
 
 地牌配置：[古墓](https://scryfall.com/card/uma/236/ancient-tomb) × 4 、[叛徒之都](https://scryfall.com/card/tpr/237/city-of-traitors) × 4 、[水晶礦脈](https://scryfall.com/card/cma/246/crystal-vein) × 1
 
 這副牌有非常大量的產費神器，即使起手沒有地都有機會正常運作，身為一個演牌 deck ，補牌能力肯定也不會差，有 9 塊高效產費的地就足夠運作了。
 
-![Mana神器](https://i.meee.com.tw/pDdobxd.png)
+![Mana神器](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/7f9c7e2ad2fe.webp)
 
 主題套件：[加倍方體](https://scryfall.com/card/10e/321/doubling-cube) × 3 、[珠光蓮花](https://scryfall.com/card/cmr/319/jeweled-lotus) × 4
 
@@ -69,21 +69,21 @@ excerpt: "珠光蓮花最後的波紋"
 
 ### 補牌與續航
 
-![回聲](https://i.meee.com.tw/IJHtmcN.png)
+![回聲](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/5a782a615303.webp)
 
 [獅眼鑽](https://scryfall.com/card/vma/271/lions-eye-diamond) + [亙古回聲](https://scryfall.com/card/mh1/46/echo-of-eons)可謂是薪傳說書套牌的第一把交椅，先把手牌拍一拍，接著獅眼鑽把手牌全棄掉產 3 費，這 3 費正好能讓亙古回聲返照，重新把手牌補滿 7 張再繼續演牌，這組合也讓你有了激進調度的本錢，那怕是調度 5 ，只要起手有它們，也能像個沒事人一樣把手牌變回 7 張重新開始遊戲（當然如果吃了 [FOW](https://scryfall.com/card/dmr/50/force-of-will) 就是謝謝指教）。
 
-![賺牌](https://i.meee.com.tw/3jGS2Kq.png)
+![賺牌](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/71899c24fbc7.webp)
 
 除了[亙古回聲](https://scryfall.com/card/mh1/46/echo-of-eons)外，[神秘熔爐](https://scryfall.com/card/cmm/964/mystic-forge)＆[萬創卡恩](https://scryfall.com/card/rvr/1/karn-the-great-creator)也是這套的核心賺牌元件。[神秘熔爐](https://scryfall.com/card/cmm/964/mystic-forge)一旦成功落地，幾乎可以滾出等同於致勝的資源量，因為這副牌可以在演牌的過程中把 mana 越滾越大，只要場面超過某個臨界值後，基本上就無法制止了。[萬創卡恩](https://scryfall.com/card/rvr/1/karn-the-great-creator)就老樣子，身兼萬能備牌工具箱，缺啥拿啥，還能在說書途中找出說書元件把牌繼續演下去、 mana 滾得夠多了就找個終結者出來結束遊戲，場面有需要處理的問題時就找對策牌出來。
 
-![五彩](https://i.meee.com.tw/kz6x4RW.png)
+![五彩](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/27142190f896.webp)
 
 [五彩星](https://scryfall.com/card/2xm/239/chromatic-star)＆[五彩球](https://scryfall.com/card/jmp/462/chromatic-sphere)嚴格來說只是濾牌，不是賺牌，但哪怕是濾牌的功能也不能小看，例如當你有[神秘熔爐](https://scryfall.com/card/cmm/964/mystic-forge)且看到牌庫頂是你不想要時，就可以起動五彩星/球的能力抽一張，確保自己的說書不會中斷。另外在一些無法依靠獅眼鑽的極端情況，它們的調色能力也會成為施放亙古回聲的關鍵。
 
 ### 終結者
 
-![終結者](https://i.meee.com.tw/WlqqqWh.png)
+![終結者](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/0ff46e75fa0e.webp)
 
 終結者共有以下三種，分別適合在不同情境下取勝，備牌各有一張作為[萬創卡恩](https://scryfall.com/card/rvr/1/karn-the-great-creator)工具箱的選項，此外[自行弩炮](https://scryfall.com/card/2xm/306/walking-ballista)在正編也有一張，即使[萬創卡恩](https://scryfall.com/card/rvr/1/karn-the-great-creator)遭遇不測也還有致勝機會。
 
@@ -93,7 +93,7 @@ excerpt: "珠光蓮花最後的波紋"
 
 ### 其他牌張
 
-![其他](https://i.meee.com.tw/3JjEBtR.png)
+![其他](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/2913a61e1c6e.webp)
 
 [多相鑰匙](https://scryfall.com/card/m20/230/manifold-key)＆[電壓鑰匙](https://scryfall.com/card/m11/219/voltaic-key)的功能在這套大同小異，大致可視為同一張牌，正編共有 7 張，剩下的 1 張在備牌給[卡恩](https://scryfall.com/card/rvr/1/karn-the-great-creator)工具箱用，鑰匙在這套妙用多多，應用如下：
 
@@ -125,7 +125,7 @@ excerpt: "珠光蓮花最後的波紋"
 
 最後來分享個規則小知識。有些牌張可以讓你把未用完而將失去的魔法力，改為某種形式繼續留在魔法力池裡面，珠光蓮花產出的 mana 如果透過這種效應保留下來，雖然 mana 的顏色可能會被改變，但上面所記錄的限制資訊依然存在，因此這些 mana 還是只能用於施放指揮官。
 
-![](https://i.meee.com.tw/qBZHGqj.png)
+![](https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/e1376143bf8b.webp)
 >[萬物核歐那斯](https://scryfall.com/card/mom/249/omnath-locus-of-all)：如果你將失去未用盡的魔法力，則改為該份魔法力都成為黑色。
 
 

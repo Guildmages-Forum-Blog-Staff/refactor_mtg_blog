@@ -16,7 +16,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 [帕克式的幸運](https://scryfall.com/card/spm/60/parker-luck)效果非常有趣，簡單的說，就是雙方互相用對方的生命做[黑暗親信](https://scryfall.com/card/2xm/81/dark-confidant)，想要提升對方痛血的期望值，那勢必就要盡可能提升套牌的 **牌張** 魔法力值，正好現在標準內有連體牌、歷險、預兆等一大票機制，都是雖然作為牌張的費用很高，但實際上的施放費用是個正常曲線的咒語。既然如此，那就來組個消耗陽壽的，讓雙方都感受到緊張刺激的套牌吧！
 
-![前言](https://i.meee.com.tw/IsJmBpi.png)
+![前言](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/eb6b525765ca.webp)
 
 > 話說其實在[帕克式的幸運](https://scryfall.com/card/spm/60/parker-luck)之前，還有個效果非常接近的生物版前輩：[敏銳鬥客](https://scryfall.com/card/c21/42/keen-duelist)。
 
@@ -25,14 +25,14 @@ excerpt: "打牌靠賽，輕鬆自在"
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/7425754#paper)
-![GrixisParkerLuck](https://i.meee.com.tw/G5qwjSt.png)
+![GrixisParkerLuck](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/602cea74a42b.webp)
 
 
 
 
 ### 套牌核心
 
-![套牌核心](https://i.meee.com.tw/WygiR2m.png)
+![套牌核心](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/bc68b4105921.webp)
 
 - **[帕克式的幸運](https://scryfall.com/card/spm/60/parker-luck)（4）：**
 
@@ -51,7 +51,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 ### 去除
 
-![二費去除](https://i.meee.com.tw/j67Cd95.png)
+![二費去除](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/ff9dc16018d1.webp)
 
 這三張雖然本體費用都不小，但實際上都是2費去除的卡位。因為我們的遊戲計畫是三回定下[帕克式的幸運](https://scryfall.com/card/spm/60/parker-luck)開始比誰先爆頭，如果前面被對手定下打點的話，反而容易給對手順風的搶血節奏，所以2費去除放到一個遠比控制還多的程度，也幸虧這些都是擁有複合功能的牌，抽多時能壓低一些死牌率。
 
@@ -72,7 +72,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 
 
-![高費去除](https://i.meee.com.tw/WMq5JgO.png)
+![高費去除](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/45b8d63a36d4.webp)
 
 - **[故事結局](https://scryfall.com/card/woe/87/the-end)（2）：**
 
@@ -92,7 +92,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 ### 抽牌
 
-![抽牌](https://i.meee.com.tw/25wl5Ov.png)
+![抽牌](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/593ffd87c99a.webp)
 
 - **[停止//終止](https://scryfall.com/card/mkm/246/cease-desist)（4）：**
 
@@ -113,7 +113,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 ### 地
 
-![地](https://i.meee.com.tw/j0M0ZHl.png)
+![地](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/2a7007db10eb.webp)
 
 玩[帕克式的幸運](https://scryfall.com/card/spm/60/parker-luck)最怕自己翻到地牌，為了降低這種事發生的機率，地就不能帶太多，這就衍生了一個看似很矛盾的畫面，就是牌張費用高得亂七八糟，但地卻只允許帶到24地，不過好在這副牌的實際曲線其實也就一般中速的等級，加上抽牌源還算充足，實際上只要最初的引擎有開始運作，後面是不太會卡地的，甚至爆地頻率還比較高。筆者最初也是怕高費牌太多，所以是用傳統控制配地概念的26地下去配的，結果只能說是慘死，26地對這套實在是太過量了。
 
@@ -160,7 +160,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 
 
-![康](https://i.meee.com.tw/VfjCsde.png)
+![康](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/154a2ba485a3.webp)
 
 - **[抹除](https://scryfall.com/card/eoe/46/annul)（1） ＆ [倨傲擊](https://scryfall.com/card/woe/47/disdainful-stroke)（1）：**
 
@@ -169,7 +169,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 
 
-![殺](https://i.meee.com.tw/MYeKVb1.png)
+![殺](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/ffddd4ebf3a0.webp)
 
 - **[烈火斷層](https://scryfall.com/card/dsk/149/pyroclasm)（1）：**
 
@@ -211,7 +211,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 
 
-![](https://i.meee.com.tw/3cpGPtL.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/e33176776c14.webp)
 
 - **[苦痛納索靈](https://scryfall.com/card/big/9/harvester-of-misery) ＆ [長吼食肉龍](https://scryfall.com/card/lci/171/trumpeting-carnosaur)：**
 
@@ -236,7 +236,7 @@ excerpt: "打牌靠賽，輕鬆自在"
 其實我最開始組的不是格利極，而是瑪爾都色組，畢竟這個色組看起來也有很多直觀的符合主題的牌，正編有[征程終結](https://scryfall.com/card/dft/25/rides-end)算相對穩定的二費正殺，有白備牌的應對功能性也是強非常多，初版基本上是沒測幾場就能發現一個新問題點，反覆調來調去後瑪爾都最終的測試紀錄是長這樣：
 
 [牌表連結](https://www.mtggoldfish.com/deck/7428769#paper)
-![MarduParkerLuck](https://i.meee.com.tw/bDhrStq.png)
+![MarduParkerLuck](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/a3b748ea586d.webp)
 
 那這個版本的問題在哪呢？ 首先是不依靠[帕克式的幸運](https://scryfall.com/card/spm/60/parker-luck)的情境下，致勝Plan B實在太稀缺也弱了，[長吼食肉龍](https://scryfall.com/card/lci/171/trumpeting-carnosaur)看似很強但其實有不低的機率翻到[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)後一臉尷尬、[昆托力康德](https://scryfall.com/card/lci/238/quintorius-kand)表現挺好的，但在缺乏前期生物防線的狀態下，還是很容易被打穿。
 
@@ -252,4 +252,4 @@ excerpt: "打牌靠賽，輕鬆自在"
 
 目前我對標準的心態其實也是在等禁牌表，如果要打認真的比賽，我還是會乖乖拿起白藍控，這副牌算是休閒局打發時間用的，不過在沒壓力的歡樂場中，這套確實是有節目效果的同時，表現也挺不錯，甚至我感覺這副牌是我這整年玩過的套牌中，最多人敲碗寫文章的套牌了。若你身處非賽場環境，只想玩個輕鬆沒壓力又刺激的對局，歡迎體驗看看本套牌。
 
-![END](https://i.meee.com.tw/AyzYr79.png)
+![END](https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/44ea5c2fe930.webp)

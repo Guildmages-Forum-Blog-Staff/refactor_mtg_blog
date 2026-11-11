@@ -35,7 +35,7 @@ categories:
 ## 套牌列表
 [牌表](https://www.mtggoldfish.com/deck/visual/7072643)
 
-![](https://i.meee.com.tw/VAae46Y.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Jeskai-Oculus/63e28dbdaa5a.webp)
 
 ## 正編的固定卡位
 ### 4 Proft's Eidetic Memory
@@ -111,7 +111,7 @@ categories:
 1 Island
 1 Mountain
 
-![](https://i.meee.com.tw/k8heFsh.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Jeskai-Oculus/c562d80c4c6d.webp)
 
 套牌正編的指定色需求為藍色18 紅色15 白色6，佔比為藍色46.15% 紅色38.46% 白色15.38%。若將備牌一併納入考量，則變為藍色21 紅色17 白色15，佔比為藍色39.62% 紅色32.08% 白色28.3%。從這些數據可以看出，本套牌主要的顏色是藍色及紅色，但白色的重要性也不容忽視，尤其在備牌局中白色需求會大幅上升。
 

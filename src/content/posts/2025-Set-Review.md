@@ -16,7 +16,7 @@ categories:
 
 大家好，我是達爾，一位新竹的小小玩家，平常主要玩的是標準/先驅/近代等構築賽制。原本這些文章是在我自己的粉專 [**未央P也想玩mtg**](https://www.facebook.com/profile.php?id=61578588956001) 寫給自己的一些心得, 感謝豬鼻子的mtg世界邀稿，稍作整理後合為一篇，希望讓大家在閒暇之餘可以看看笑一笑。
 
-![](https://i.meee.com.tw/pTtIjK6.jpg)
+![](https://images.guildmagesforum.tw/posts/2025-Set-Review/1e38dc0ba29d.webp)
 
 > 在2025年12月的現在，我們已經知道UUB是指[降世神通](#%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-%E6%9C%80%E5%BE%8C%E7%9A%84%E6%B0%A3%E5%AE%97-Avatar-The-Last-Airbender)了。
 
@@ -37,7 +37,7 @@ categories:
 
 **邊陲地 Verge Lands**
 
-![邊陲地](https://i.meee.com.tw/boxb1dh.png)
+![邊陲地](https://images.guildmagesforum.tw/posts/2025-Set-Review/b3bc0da14e20.webp)
  
 繼鬼屋系列之後把對色邊陲地出完了，不得不說這是最近幾年來設計的最好的雙色地，可以站著進真是太棒了！完美搭配電震地/刺探地這種有基本地類別的地牌。
 
@@ -247,7 +247,7 @@ FF牌其實強度也不夠，為什麼罵聲就很小？看看那個日繪，香
  
 蘇卡跟凱塔拉的奶奶。墳場有3張Lessons就可以減費實在太簡單，讓伊捷課程整副爆發力更高，阿嬤功不可沒！
 
-![安的進化論](https://i.meee.com.tw/Xkm7xcg.jpg)
+![安的進化論](https://images.guildmagesforum.tw/posts/2025-Set-Review/6ccb96b22f7b.webp)
  
 最後放一下主角安，這四張就是配合故事，安去學習四種神通：
     
@@ -255,7 +255,7 @@ Airbend → Waterbend → Earthbend → Firebending
 
 每學會一種就多了一種顏色 你是歐納斯嗎？ ~~他們還真的沒有同時出現過XD~~
 
-![](https://i.meee.com.tw/oE5UnLq.jpg)
+![](https://images.guildmagesforum.tw/posts/2025-Set-Review/842f3d1b6e3e.webp)
     
 ## 結語
     

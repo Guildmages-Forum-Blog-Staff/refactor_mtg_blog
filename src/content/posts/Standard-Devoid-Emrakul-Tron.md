@@ -14,7 +14,7 @@ excerpt: "這個世界的扭曲——就由伊莫庫來矯正！"
 
 ## 前言
 
-![](https://i.meee.com.tw/FR5iAzZ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/df8a9ef47fa2.webp)
 
 在魔法風雲會的故事中，奧札奇泰坦的出場往往意味著終結——《[**現實碎片**](https://scryfall.com/sets/fra?as=grid&order=set)》的終局亦不例外。
 身為奧札奇種族的頂點伊莫庫在本系列推出第四個版本[**迫臨末日伊莫庫**](https://scryfall.com/card/fra/1/emrakul-the-exigent-doom)，而奧札奇之友[**風暴之眼烏金**](https://scryfall.com/card/tdm/1/ugin-eye-of-the-storms)也在牌池內，當這兩個上古神獸湊在一起，可以在標準內擦出什麼火花嗎？
@@ -22,13 +22,13 @@ excerpt: "這個世界的扭曲——就由伊莫庫來矯正！"
 ## 套牌解析
 
 [**套牌列表**](https://www.mtggoldfish.com/deck/7983227#paper)
-![](https://i.meee.com.tw/2c3Wrln.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/57f6b2385c2a.webp)
 
 如牌表所示，這副套牌的遊戲目的就是加速拍出[**風暴之眼烏金**](https://scryfall.com/card/tdm/1/ugin-eye-of-the-storms)，控制住場面後靠著[**伊莫庫**](https://scryfall.com/card/fra/1/emrakul-the-exigent-doom)等強力威脅擊倒對手。雖然基本地牌的配置有[荒野](https://scryfall.com/card/fin/309/wastes)，但這副套牌沒有特地使用[荒野](https://scryfall.com/card/fin/309/wastes)的理由，請各位讀者依照喜好配置基本地即可。
 
 * **套牌核心：迫臨末日伊莫庫、風暴之眼烏金、逆聲宇宙支點**
 
-![](https://i.meee.com.tw/aDoHVpW.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/c46b6a510f48.webp)
 
 [**迫臨末日伊莫庫**](https://scryfall.com/card/fra/1/emrakul-the-exigent-doom)：長時間斷食的伊莫庫4.0版，本體強度雖然不及前幾個版本，但仍具備兩拳收頭的終結者體格，同時亦可以做為前期加速使用，為套牌增加不少運作彈性。
 
@@ -38,7 +38,7 @@ excerpt: "這個世界的扭曲——就由伊莫庫來矯正！"
 
 * **加速策略：伊雷岩、身軀修長的灰狗、控天儀**
 
-![](https://i.meee.com.tw/wPjIxRA.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/9b3ac620cff7.webp)
 
 [**伊雷岩**](https://scryfall.com/card/woe/248/the-irencrag)：二費加速石頭，後期伊莫庫進場時可以變成武具提升單兵戰鬥力。順帶一提，變武具後牌名也會變更成「永焰劍」，可以跟沒變成武具的[伊雷岩](https://scryfall.com/card/woe/248/the-irencrag)並存。
 
@@ -48,13 +48,13 @@ excerpt: "這個世界的扭曲——就由伊莫庫來矯正！"
 
 * **去除＆輔助：爆破箱、滅絕戰艦、導靈明燈、晦澀巨著**
 
-![](https://i.meee.com.tw/kvtj8Ce.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/7f8f31944c34.webp)
 
 [**爆破箱**](https://scryfall.com/card/otj/241/boom-box)：一換三的去除神器，雖然起動費用笨重，但只要做到一次就能有效壓制對手的盤面展開，所以配置四張。
 
 [**滅絕戰艦**](https://scryfall.com/card/eoe/242/extinguisher-battleship)：掃場兼單點去除的太空船，可利用[伊莫庫](https://scryfall.com/card/fra/1/emrakul-the-exigent-doom)緒勢（station）啟動成為10/10飛行終結者。
 
-![](https://i.meee.com.tw/HGkn5Ip.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/a6852cf76142.webp)
 
 [**導靈明燈**](https://scryfall.com/card/eoc/143/soul-guide-lantern)：過牌用填充神器，可以直接犧牲放逐對手墳場，正編就能壓制煩人的墳場互動套牌。
 
@@ -69,6 +69,6 @@ excerpt: "這個世界的扭曲——就由伊莫庫來矯正！"
 
 ## 結語
 
-![](https://i.meee.com.tw/ksgeyOo.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/d2d129b3021c.webp)
 
 如同前面提到的，這副套牌並沒有把地牌全部弄成無色的理由，而且塞滿無色招也意味著單卡效率不太好，加上標準牌池內的無色對於對手的手牌和咒語缺乏互動手段，打控制型套牌容易落於下風，一個不小心就守不住。如果有讀者想組來玩玩看，建議依照自身需求去混色，例如混白或紅加強場面控制力、混綠提高加速效率、混藍或黑反制對手的咒語威脅等等，應該都會比這個無色版本來得穩定與優秀。期待各位讀者開發屬於自己的標準有色Tron套牌！

@@ -22,7 +22,7 @@ categories:
 
 > 1. 有興趣的讀者也非常歡迎直接去收看[影片](https://www.youtube.com/watch?v=rlzvCiNIWWI) 。
 > 2. [Rebell Spike](https://www.youtube.com/@RebelllSpike) 他所使用的藍黑中速套牌構築，可以看[22秒](https://youtu.be/rlzvCiNIWWI?si=ArHuG7tqD3hEx7pu&t=22)時的展示，或參考下圖。
-> ![](https://i.meee.com.tw/QUqxcDV.png)
+> ![](https://images.guildmagesforum.tw/posts/Deep-Dive-Reid-Duke-Dimir-Midrange/9a0df332a998.webp)
 
 ## Game 1
 
@@ -30,7 +30,7 @@ categories:
 
 Rebell 後手，起手如下：
 
-![](https://i.imgur.com/d63goMn.jpeg)
+![](https://images.guildmagesforum.tw/posts/Deep-Dive-Reid-Duke-Dimir-Midrange/830326621db9.webp)
 
 對手是打藍黑帶[惡魔房間](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber)的類型，跟 Rebell Spike 所使用偏節奏的藍黑中速相比，兩者的打法是相差很大的。
 
@@ -63,7 +63,7 @@ Rebell 認為他不會這個時間走 Option 2 出蝙蝠，因為這個時候他
 **討論結果**：Option 1。
 **實際行動**：Option 2。看到對手的手牌如下（另有一張 {% mtglink "Anoint with Affliction" %} 去除掉了蝙蝠）：
 
-![](https://i.imgur.com/OPXNLwN.jpeg)
+![](https://images.guildmagesforum.tw/posts/Deep-Dive-Reid-Duke-Dimir-Midrange/076705fe7d90.webp)
 
 看完手牌後， Rebell 與 RD 都意識到了這將會是一場長期對局（對手有很多去除、但沒有顯著的威脅），而他們手中的 {% mtglink "Anoint with Affliction" %} ，則有可能得交在自己被 {% mtglink "Virtue of Persistence // Locthwain Scorn" alt="Locthwain Scorn" %} 指定的生物上了。
 
@@ -189,7 +189,7 @@ Rebell 認為他不會這個時間走 Option 2 出蝙蝠，因為這個時候他
 
 由於上一盤 Rebell Spike 獲勝，這一盤他仍是後手。下圖是他這一盤的起手：
 
-![](https://i.imgur.com/z3kasDA.jpeg)
+![](https://images.guildmagesforum.tw/posts/Deep-Dive-Reid-Duke-Dimir-Midrange/bc6849b7212a.webp)
 
 這是一個極具侵略性的起手，兩張高橋優太可以讓對手的 Unholy Annex 持續扣血卻無法拉開牌差；而備牌換入的 {% mtglink "Disdainful Stroke" %} 也可以很好的防住對面強力的四費曲線。
 
@@ -230,7 +230,7 @@ Rebell 認為他不會這個時間走 Option 2 出蝙蝠，因為這個時候他
 
 ## 結語：Replay，並持續進步。
 
-![](https://i.meee.com.tw/LdL94P2.webp)
+![](https://images.guildmagesforum.tw/posts/Deep-Dive-Reid-Duke-Dimir-Midrange/b7ac1b0001d2.webp)
 
 經過一整個影片的討論、分析，我相信這個對局中的細節大部分都已被討論到，但許多操作與微調、當前的反應、與遊戲計畫的設想，都不會有 100% 相同的狀況、或公式可以套用。但這也是 MTG 有趣的地方，尤其在這種中速型套牌，有時候只是更換一兩張牌，甚至幾張地的配置，都可以讓對局的體驗有顯著的改變。
 

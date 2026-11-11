@@ -21,9 +21,9 @@ authors:
 
 今天就來分析一下兩者差異，以及究竟這些效應在堆疊上是長怎樣的。鑑於觸發式異能的案例最為常見，也最容易產生實戰上的規則疑問，因此下文皆以觸發式異能做說明。
 
-![馴良明師](https://i.imgur.com/vQ3Ty7B.jpg)
+![馴良明師](https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/bdb66f6f581a.webp)
 
-![墓地瀆聖屍](https://i.imgur.com/KMxU6uD.jpg)
+![墓地瀆聖屍](https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/78b2bafa64f0.webp)
 
 ---
 
@@ -38,7 +38,7 @@ authors:
   [寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8) : 你可以將寇基雷再臨從你的墳墓場放逐。**若**你如此作，則寇基雷再臨對每個生物各造成5點傷害。
   [饗懼惡魔](https://scryfall.com/card/m19/27/zht/%E9%A6%B4%E8%89%AF%E6%98%8E%E5%B8%AB) : 在你的結束步驟開始時，犧牲一個非惡魔生物。**若**你如此作，則派出一個衍生物，此衍生物為饗懼惡魔的複製品。
 
-![If you do](https://i.imgur.com/tYt2AzC.jpg)
+![If you do](https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/f52520543ede.webp)
 
 對於If you do的寫法，再讓我們看看一個具體的情境題。
 
@@ -46,7 +46,7 @@ authors:
 
 現在上堆疊的異能為 **「你可以將寇基雷再臨從你的墳墓場放逐」**，對手只需等此異能結算時再選擇是否要放逐此卡，但你若希望使用[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)的異能來給己方所有生物獲得不滅異能，需要回應對方 **「是否放逐此卡」** 的異能先啟動[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)的異能，如果這時沒讓你的生物獲得不滅，等[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)異能結算時，對手若選擇從墳場放逐，5點傷害就會立刻燒在所有生物身上，這時你是沒有機會可以啟動[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)異能的。反之如果你回應了對方先啟動了[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)全體不滅的能力，對手在[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)異能結算時可以選擇不放逐墳場中的此卡，這麼一來對手等於白嫖了你的一隻[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)且依舊扣有[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)掃場5點傷害的選擇，只須等到下次滿足觸發條件即可。
 
-![寇基雷再臨範例](https://i.imgur.com/88sqUmz.jpg)
+![寇基雷再臨範例](https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/c4f232a25233.webp)
 
 ---
 
@@ -61,7 +61,7 @@ authors:
   [永岩城重砌考（章節II）](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration) : 你可以棄一張牌。**當**你如此作時，將目標魔法力值等於或小於2的永久物牌從你的墳墓場橫置移回戰場。
   [墓地瀆聖屍](https://scryfall.com/card/vow/100/cemetery-desecrator) : 當此卡進戰場或死去時，從任一墳墓場放逐另一張牌。**當**你如此作時，選擇一項～（下略）。
 
-![When you do](https://i.imgur.com/bfhzhFe.jpg)
+![When you do](https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/77ea19f940d9.webp)
 
 When you do與If you do最主要的區別，便是後續的B效應是否會產生新的可回應堆疊，若是覺得這像是個文字遊戲容易記錯的話，可以想想平時在MTG看到When時，經常就是伴隨著一個會上堆疊的觸發式異能。
 
@@ -77,7 +77,7 @@ When you do與If you do最主要的區別，便是後續的B效應是否會產�
 
 此外這種兩段式異能的寫法，也是[永岩城重砌考](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration)可以回收被自己棄掉的牌的原因，因為在第一段異能尚未選擇目標時牌便被棄了下去，而第二段異能要求選擇目標時，該牌已經在墳場中了。反之[生體活祭](https://scryfall.com/card/cmr/157/victimize)就無法做到這樣操作，因為在你犧牲生物之前，挖墳的目標就已經決定好了，此時被你犧牲的生物不是墳場中的可選擇目標。
 
-![永岩城重砌考範例](https://i.imgur.com/fc9FtNs.jpg)
+![永岩城重砌考範例](https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/515e45eb8acc.webp)
 
 ---
 

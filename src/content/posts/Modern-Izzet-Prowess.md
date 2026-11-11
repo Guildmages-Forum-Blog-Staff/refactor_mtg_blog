@@ -37,7 +37,7 @@ MIT前最受矚目的比賽是EOE PT，當時是藍火炮稱霸，不過看戰�
 
 ### **牌表連結：[Modern Izzet Aggro deck by TsengZhengZeng • MTG DECKS](https://mtgdecks.net/Modern/izzet-aggro-decklist-by-tsengzhengzeng-2663854/visual)**
 
-![DeckListPicture](https://i.meee.com.tw/hdcC36q.png)
+![DeckListPicture](https://images.guildmagesforum.tw/posts/Modern-Izzet-Prowess/9ad6530353d4.webp)
 
 
 
@@ -114,6 +114,6 @@ MIT前最受矚目的比賽是EOE PT，當時是藍火炮稱霸，不過看戰�
 
 這次人數創最高紀錄，讓微風廣場的冠軍賽顯得特別熱鬧，希望老威能聽到玩家們的心聲努力改善，另外很多平常一起練習的夥伴進八強，代表團隊的練習真的很充實且有效，期望持續跟這群夥伴們一起進步。
 
-![](https://i.meee.com.tw/weUbu2q.jpg) 
+![](https://images.guildmagesforum.tw/posts/Modern-Izzet-Prowess/4a1a02478dec.webp) 
 
-![](https://i.meee.com.tw/4uLNXIw.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Izzet-Prowess/e0617b9716a8.webp)

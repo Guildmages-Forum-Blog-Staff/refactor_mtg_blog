@@ -124,7 +124,7 @@ authors:
 
 [艾倫緹](https://scryfall.com/card/woe/202/eriette-of-the-charmed-apple)繼續在光雷驛運用著她致命的吸引力！三指定色四費4/4繫命很不錯；然而，雖然她的異能乍看之下非常強力，但可惜的是 OTJ + OTP 僅有下圖這 4 張靈氣牌，而以色組以及靈氣本身來看，並不適合搭配艾倫緹來使用。想要把一堆貼皮變成[心靈操控](https://scryfall.com/card/m12/67/mind-control)這件事，可能得到其他賽制去實現了。也因此，她就只是一張四費4/4繫命的生物，應該不需要為了她而混到三色。
 
-![](https://i.postimg.cc/TPcKmZkk/1.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-multicolors/d55f81476a72.webp)
 
 ![203](https://cards.scryfall.io/large/front/a/4/a4e81be6-6447-4f1e-be00-6fcdb2ab35af.jpg?1712356089)
 
@@ -196,7 +196,7 @@ authors:
 
 呃...我真的覺得這個被動在限制賽沒有到很賺，第一你要先設謀，然後手上還要有對應的牌，以賺資源來說並不容易達成；而即使達成了如果只是放一張地進場那也沒有到很好。因此這張牌的分數就是體格+異能分，不錯但沒有到需要首挑，而別忘了他是三指定色的牌所以也不一定能準時三回登場。
 
-> [凱瀾](https://i.postimg.cc/SKtSFdKh/Kellan.jpg)千里尋父成功但也心願落空，但沒關係我們早就知道你老豆不是個好東西；最後沒有沾黑黑化實在令人欣慰，真是個好孩子（kid）。
+> [凱瀾](https://images.guildmagesforum.tw/posts/OTJ-multicolors/61991ea81e57.webp)千里尋父成功但也心願落空，但沒關係我們早就知道你老豆不是個好東西；最後沒有沾黑黑化實在令人欣慰，真是個好孩子（kid）。
 
 ![214](https://cards.scryfall.io/large/front/9/5/958a3e6b-7e20-40ea-8b2c-7c728934b5e5.jpg?1711498450)
 

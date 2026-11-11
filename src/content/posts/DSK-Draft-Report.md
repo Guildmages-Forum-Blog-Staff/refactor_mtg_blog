@@ -17,7 +17,7 @@ categories:
 
 自 2024 年 9 月 24 日暮悲邸：鬼屋驚魂（Duskmourn: Horror of House, 以下簡稱 DSK）在 MTGA 上線後，我就開始我的 DSK Premier Draft 天梯之路，這段過程中嘗試了各種色組（除了紅藍以外）的輪抽方式，很幸運地在 2024 年 9 月 30 日壓線打上秘稀，就來這邊簡單分享我爬梯的心得。
 
-![](https://i.imgur.com/MUgA66b.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/38217867b42a.webp)
 
 > 1. 以下 [17lands](https://www.17lands.com) 的數據採集日期均為 2024 年 10 月 2 日。
 > 2. 雖然這篇文章使用了大量 17lands 上的數據，但我在打天梯的這段期間，我完全沒有去確認過 17lands 上的任何資訊。就是靠著 [GF 團隊先前 DSK 的限制賽分析](/categories/DSK/)、個人理解、以及團隊內的討論來完成這個過程， 17lands 的數據僅是文章撰寫時參考佐證用~~但也許有人會不相信吧XD~~
@@ -26,7 +26,7 @@ categories:
 
 在我先前寫的 [暮悲邸限制賽初探](https://guildmagesforum.tw/DSK-Limited-Preliminary/) 中，基於這系列預設的結界環境、關注躁狂與墳場等的特性，預判是一個偏慢的環境，但是……
 
-![](https://i.imgur.com/GVDex5U.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/d2d7dee9187f.webp)
 
 ……馬上就被打臉了XD 
 
@@ -36,13 +36,13 @@ categories:
 
 ## DSK 色組強度
 
-![](https://i.imgur.com/qUIIqym.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/7d6b8ba4a22c.webp)
 
 從雙色色組的勝率來看，最高的是紅白的 58.4% 、 其次是藍白的 58.2% 、第三名是紅綠的 57.3% ，而藍綠色組在顯化懼象主題以及綠色優秀體格的協助下，則位居第四的 57.0%。這四個色組的勝率都遠高於雙色色組的平均勝率 56.2%。
 
 而倒數第一的則是藍黑色組的 52.0% 、以及黑白的 52.2%、而預期中較不看好的紅藍色組，在紅色與藍色的支持下有 52.8% 的勝率。
 
-![](https://i.imgur.com/pqom4EY.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/b178871b8a8e.webp)
 
 而看到單色的勝率，我們更可以發現到一件事，那就是**黑色的勝率顯著的低**。這部份我們將在後續的文章中提到。
 
@@ -50,7 +50,7 @@ categories:
 
 我要先說一下，我打完才意識到我的 17lands 應用程式沒有打開；但我重新開啟 17lands 應用程式後，還是有抓到最後一場，剛好是鑽一上到秘稀那場的紅綠。下圖讓大家看一下，如果有開應用程式的話，記錄到的內容會是什麼樣子。
 
-![](https://i.imgur.com/uOCfOdH.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/200b26d99306.webp)
 
 使用上非常方便，包括你輪抽的牌池（Pool）、每次對局中的套牌更改都會記錄在 "Deck" 中，而本圖呈現的即是點開 "Details" 會展開的內容。這還包括哪一個對局（Match）中遇到的對手套牌類型（Opponent）、先後手（P/D）、對局結果（Result）。甚至你還可以點開 "Replay" 去再現對局紀錄，超級好用！推薦給想採集素材、或記錄輪抽對局來進步的你。
 
@@ -88,7 +88,7 @@ categories:
 
 ### **<font color="#FD0214">紅</font><font color="#FED761">白</font>** （28 勝 12 敗）
 
-![](https://i.meee.com.tw/uR0Iw6D.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/cae7603bde4a.webp)
 
 7-2 （銀牌段位）
 
@@ -96,7 +96,7 @@ categories:
 
 打下來覺得 [Painter's Studio//Defaced Gallery](https://scryfall.com/card/dsk/147/painters-studio-defaced-gallery) 這張隔間很糟，進攻時 +1/+0 佔不太到好處；而三費巫術開看兩張……你逆風時是沒有餘裕做這件事的。
 
-![](https://i.meee.com.tw/zH0Ssq7.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/d448ed8de3e1.webp)
 
 7-1 （白金段位）
 
@@ -107,9 +107,9 @@ categories:
 在戰鬥詭計的使用上，這個對局也讓我感受到白色與紅色的顯著差異，白色的 [Jump Scare](https://scryfall.com/card/dsk/17/jump-scare) 要比紅色的 [Turn Inside Out](https://scryfall.com/card/dsk/160/turn-inside-out) 來得更好。在沒有 [Most Valuable Slayer](https://scryfall.com/card/dsk/144/most-valuable-slayer) 給先攻的輔助下，不加防禦力的 [Turn Inside Out](https://scryfall.com/card/dsk/160/turn-inside-out) 會讓你虧掉原本的生物，而顯化懼象雖然會補上進攻的打點，但相較之下不穩定，落到防守時要用它則更差了；而 [Jump Scare](https://scryfall.com/card/dsk/17/jump-scare) 在進攻端能主動飛行穿透、或體格變大做優勢交換、防守時也可以出其不意的讓地面生物跳起來吃掉對手的飛兵，做出來後甚至可以讓對手持續防你的一點白，進而賺到更多的節奏優勢。我們紅白套牌在節奏上基本上已經不會輸了，對手消耗在進攻遲疑中而拱手讓出的節奏，將大幅提升我們的勝率！
 
 > 註：這場中間有對上 [Channelfireball](https://www.channelfireball.com/) 的 [LSV](https://www.channelfireball.com/author/Luis-Scott-Vargas/5cea2d4f-05bb-4cd7-8a4f-63f86de062de)，他打藍綠混黑，我這邊則是連拍兩隻 [Lionheart Glimmer](https://scryfall.com/card/dsk/19/lionheart-glimmer) 硬是打爆他，也算是我小小的高光時刻XD （感謝[終曲](/authors/T1BloodMoon/)截圖支援，我當時邊直播邊笑，有夠歡樂XD）
-> ![](https://i.meee.com.tw/nMnKOGV.webp)
+> ![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/dfd79e2282c8.webp)
 
-![](https://i.meee.com.tw/4qGE7YZ.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/fb6b34488b7a.webp)
 
 6-3 （白金段位）
 
@@ -120,13 +120,13 @@ categories:
 
 > 諾林：「[一時進，一時退，保持安全範圍～](https://youtu.be/hOBvHg8B-ts?si=HgFakPIJ1UlblUwc)」
 
-![](https://i.meee.com.tw/Pbo6T77.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/fe83edf25851.webp)
 
 2-3 （白金段位）
 
 雖然首挑小丑 [Vicious Clown](https://scryfall.com/card/dsk/163/vicious-clown) 想試試傳統的紅白，但四費曲線缺 keycard [Most Valuable Slayer](https://scryfall.com/card/dsk/144/most-valuable-slayer) ，穩定度就差多了。就算其他曲線抓得很齊，稍一落入逆風就很難扳回了。在高段位輪抽中，曲線的缺口將會被格外地放大。
 
-![](https://i.meee.com.tw/Im0TvPQ.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/bfb101c9d354.webp)
 
 6-3 （白金段位）
 
@@ -134,7 +134,7 @@ categories:
 
 ### **<font color="#FD0214">紅</font><font color="#0A883B">綠</font>** （21 勝 12 敗）
 
-![](https://i.meee.com.tw/XVWVbfM.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/17a25e81fd20.webp)
 
 7-2 （金牌段位）
 
@@ -142,7 +142,7 @@ categories:
 
 別忘了 [Monstrous Emergence](https://scryfall.com/card/dsk/191/monstrous-emergence) 是自己對目標生物造成傷害，而不是指定/展示的生物；因此你用這張巫術選了死觸生物，並不會是死觸傷害。
 
-![](https://i.meee.com.tw/F1RRn7B.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/8e650b57ed46.webp)
 
 7-2 （鑽石段位）
 
@@ -150,19 +150,19 @@ categories:
 
 最後提一下，紅綠 U 卡巫術 [Beastie Beatdown](https://scryfall.com/card/dsk/210/beastie-beatdown) 完全不如綠色同性質的 [Monstrous Emergence](https://scryfall.com/card/dsk/191/monstrous-emergence) ，被解一換二的老問題仍在，為了等躁狂後多放那兩個豆，還會讓你錯過用解的最佳時機，也是一張偏陷阱的 win-more 單卡。這個系列還有不少 U 卡被 C 卡下位取代，比如說綠色好狗狗 [Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) 完勝黑色 U 卡 [Cynical Loner](https://scryfall.com/card/dsk/89/cynical-loner) 這類的，相當有趣。
 
-![](https://i.meee.com.tw/Awa5UnT.webp) 
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/8f57fe741f72.webp) 
 
 7-2 （鑽石 → 秘稀段位）
 
 這個紅綠就抓得很不錯，該有的都有，躁狂與顯化懼象都抓到強的那邊！基本上是斬瓜切菜打到六勝後上秘稀，後面簡單打打收工啦！
 
-![](https://i.meee.com.tw/HqHhXhA.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/70b4927e0548.webp)
 
 0-3 （白金段位）
 
 這個大概率是 MTGA 的系統局，爆了兩場地然後另一場反著摸，謝囉 MTGA 。
 
-![](https://i.meee.com.tw/HOWW2de.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/bd5fa67a96b8.webp)
 
 0-3 （鑽石段位）
 
@@ -170,7 +170,7 @@ categories:
 
 ### **<font color="#FED761">白</font><font color="#0A883B">綠</font>** （18 勝 8 敗）
 
-![](https://i.meee.com.tw/z0UjkZR.webp) 
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/0be115d40377.webp) 
 
 7-2 （金牌段位）
 
@@ -182,7 +182,7 @@ categories:
 
 **絕大多數的去除，遠不及曲線生物加上戰鬥詭計帶來的綜效要好；去除解完後你離獲勝還很遙遠，但生物進攻/防守加上戰鬥詭計，你的勝利就不遠了。**
 
-![](https://i.meee.com.tw/y5LnbbT.webp) 
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/c157f409a522.webp) 
 
 白綠混黑 6-3 （鑽石段位）
 
@@ -192,19 +192,19 @@ categories:
 
 ### **<font color="#023FFD">藍</font><font color="#0A883B">綠</font>** （8 勝 9 敗）
 
-![](https://i.meee.com.tw/D72davJ.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/26a3d4a52504.webp)
 
 藍綠混黑 5-3 （白金段位）
 
 第三包開了黑霸主 [Overlord of the Balemurk](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk) ，受不住誘惑還是拿了，但其實應該不用拿，拿了也不見得要放，專心打藍綠就好。放了以後的懲罰是多放了 2 張 [Moldering Gym//Weight Room](https://scryfall.com/card/dsk/190/moldering-gym-weight-room) 來卡自己的節奏。 
 
-![](https://i.meee.com.tw/zqDZKuU.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/58d89e2748a0.webp)
 
 藍綠混黑 2-3 （鑽石段位）
 
 這個黑混入 [The Swarmweaver](https://scryfall.com/card/dsk/236/the-swarmweaver) 是值得的，但就只要放它就夠了。當我把它拿掉時，就會發現其他的生物都不太給力，一旦逆風就沒救了。 
 
-![](https://i.meee.com.tw/zYqmdwa.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/b65a0b2d953d.webp)
 
 1-3 （鑽石段位）
 
@@ -212,13 +212,13 @@ categories:
 
 ### **<font color="#FD0214">紅</font>黑** （11 勝 5 敗）
 
-![](https://i.meee.com.tw/VN4Qbmr.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/e0b6e07168cd.webp)
 
 7-2 （白金段位）
 
 這是一個值得 7-0 或 7-1 的 pool ，7-2 單純是我沒打好。**這一版的紅黑是我覺得我爬天梯過程中，主題性抓得最齊的一場**。四張 [Sawblade Skinripper](https://scryfall.com/card/dsk/231/sawblade-skinripper) 被傳到 4 張很明顯就是沒人打，抓人的 [Vengeful Possession](https://scryfall.com/card/dsk/162/vengeful-possession) 也是相當重要的訊號。 [Most Valuable Slayer](https://scryfall.com/card/dsk/144/most-valuable-slayer) 雖然只有一張，但套牌中有許多威懾生物已經夠難擋了，再給個先攻就直接飛天！另外在輪抽過程中找機會抓下了黑色的 [Derelict Attic//Widow's Walk](https://scryfall.com/card/dsk/93/derelict-attic-widows-walk) ，這副套牌除了 [Sawblade Skinripper](https://scryfall.com/card/dsk/231/sawblade-skinripper) 外，還有 [Fear of Lost Teeth](https://scryfall.com/card/dsk/97/fear-of-lost-teeth) 可以先單獨攻擊觸發後上 +1/+0 死觸，基本上對手要嘛擋不到、要嘛不想擋，戰階後再用 [Sawblade Skinripper](https://scryfall.com/card/dsk/231/sawblade-skinripper) 犧牲掉後，就可以噴出死觸傷害爽殺對手的大怪！也因為這樣的搭配，我根本用不上放了保平安的謀殺，去除進攻一條龍，抓齊的紅黑犧牲就是這麼強！
 
-![](https://i.meee.com.tw/yhy3avL.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/c6fa0079a727.webp)
 
 4-3 （鑽石段位）
 
@@ -226,13 +226,13 @@ categories:
 
 ### **黑<font color="#0A883B">綠</font>** （13 勝 5 敗）
 
-![](https://i.meee.com.tw/6smIVHN.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/c99e0bf9bd7d.webp)
 
 黑綠混白 7-2 （鑽石段位）
 
 這邊首挑小鹿斑比 [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality) 後又被傳了一隻有點意外，但高段位輪抽基本上大家都專心抽自己的，所以也見怪不怪。有小鹿斑比打起來就非常的靈活，二三回接著出生物，四回就可以跳六費惡魔，相當有爆發力！本來有放 [Toby, Beastie Befriender](https://scryfall.com/card/dsk/35/toby-beastie-befriender) 但發現沒什麼搭配，不如拔掉專心用小鹿斑比跳費或挖墳就好。
  
-![](https://i.meee.com.tw/zgNzcCv.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/c6ee9abe5722.webp)
 
 6-3 （白金 → 鑽石段位）
 
@@ -240,7 +240,7 @@ categories:
 
 ### **<font color="#023FFD">藍</font><font color="#FED761">白</font>** （4 勝 3 敗）
 
-![](https://i.meee.com.tw/t6kgkOm.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/3e17460714b6.webp)
 
 4-3 （鑽石段位）
 
@@ -264,7 +264,7 @@ categories:
 
 ### **黑<font color="#FED761">白</font>** （2 勝 3 敗）
 
-![](https://i.meee.com.tw/bXUCgVj.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/5c4c3ecec238.webp)
 
 2-3 （金牌段位）
 
@@ -334,7 +334,7 @@ categories:
 
 滑順曲線並有多組兩卡搭配的強勢進攻策略（尤其在紅白、紅綠色組）、單靠 CU 卡的主題滾雪球計畫（紅黑、藍白色組）、以及貫穿其間最重要的，戰鬥詭計的活用。**曲線、主題、戰鬥詭計，這三者在輪抽中缺一不可。而這又似乎回歸到早期 MTG 的限制賽理論，只不過我們如今使用的單卡更強罷了。** 
 
-![](https://i.meee.com.tw/2pwtX7D.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/1593cc78843e.webp)
 
 像 BLB 那樣與主題搭配的極限快攻限制賽環境，我個人認為應該還是算少數，我們在面對未來的限制賽環境，尤其是輪抽時，都應該格外留意以上三項的搭配。基本上我的輪抽紀錄中，打得最好的都是靠上面三項贏到六至七勝，基本上炸彈們僅只是錦上添花、或幫助我在逆風時翻盤；當你拿了一堆看起來很厲害的炸彈只打了個四勝不到，很可能你的這三項要素是有缺漏的。單靠一兩張炸彈，並無法為有問題的輪抽構築扳回局面，更何況你不一定抽得到！套句 [Jeffchen](/authors/jeffchen/) 告訴我的一個很重要的觀念：
 

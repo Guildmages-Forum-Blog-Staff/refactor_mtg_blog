@@ -42,49 +42,49 @@ categories:
 
 透過本次機會，筆者想跟各位讀者分享一下自己常用的購卡管道：各位知道除了露天拍賣以外，臺灣還有一個非常強力即時的魔風購卡平臺嗎？那就是[遊戲平方的網路商城](https://gamesquare.tw/index.php)。
 
-![](https://i.meee.com.tw/p9NiV15.png)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/bc4fd3de0205.webp)
 >非業配，純粹是我們自己愛用，推薦給更多新手。
 
 筆者平時不太有時間進卡店走跳，幸好有遊戲平方，除了購買商品滿2000元免運的優點外，每一點紅利點數可再抵新台幣1元（詳細計算公式請見商城網站，基本上是3%回饋）。
 
-![](https://i.meee.com.tw/k7COs42.png)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/57b002e1e6dd.webp)
 >這是筆者的紅利點數的計算截圖。是紅利而非總金額喔，嗯看來是買多了……
 
 每回提到[遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)都想跟讀者朋友分享這件事情，忍耐了太多次這回終於按捺不住啦～
 
 推薦環節就簡單告一段落，接下來讓我們正式進入 **漫威蜘蛛人：越陳越香的聯名系列輪抽** 的活動花絮囉。
 
-![](https://i.meee.com.tw/f7bzvdD.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/ccbeece998f9.webp)
 >即將拆開SPM的常規補充包啦！由於我恫嚇大家不笑就不能拆卡包，大家的笑容反而變得更僵硬了？
 
-![](https://i.meee.com.tw/VbM9rhA.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/5aa60c9e76fa.webp)
 >好啦還是讓大家熱血開抽了，笑容果然就自然多哩……
 
-![](https://i.meee.com.tw/MG78YHc.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/66304381a3ed.webp)
 >聊卡牌兼交朋友就是輪抽的真諦呀。
 
-![](https://i.meee.com.tw/ZhaZYz1.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/539377440044.webp)
 >感謝[睿卡潮玩](https://www.facebook.com/963Ruika)和我們一起推廣限制賽，當然要把握機會幫忙promote一下。
 
-![](https://i.meee.com.tw/9K9fQC4.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/3332bb879f4a.webp)
 >扛起SPM限制賽分析所有文案的真男人[阿詹](/authors/ZHAN/)，這次選牌似乎格外認真？
 
-![](https://i.meee.com.tw/1ohxNtO.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/f2db9ec6e8e3.webp)
 >好喔，另一邊倒是很輕鬆愉悅，一張長桌兩樣情。
 
-![](https://i.meee.com.tw/HKphlfE.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/64285dd9a954.webp)
 >[終曲](/authors/T1BloodMoon/)捏著token突然低喃一句：「好餓喔沒吃午餐……」
 
-![](https://i.meee.com.tw/Ma1NF22.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/080884bc8261.webp)
 >[跳鼠](/authors/JerobaMTG/)、博升、[Jru](/authors/JruMTG/)展開討論，博升後來也順利做出帥氣的蛛絲甩蕩（Web-slinging）。
 
-![](https://i.meee.com.tw/zdRK5eu.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/5d77ce00b2b2.webp)
 >抽選完畢熱血開戰！洗牌過程中看一下隔壁打什麼是很正常的事情。
 
-![](https://i.meee.com.tw/J8lpYw3.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/98dada3b9231.webp)
 >[Spider-Slayer, Hatred Honed](https://scryfall.com/card/spm/175/spider-slayer-hatred-honed)帥得不像一張U卡耶。
 
-![](https://i.meee.com.tw/0KSMHI8.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/2a1934bfe5eb.webp)
 >蛛絲甩蕩（Web-slinging）真的好有風味啊。
 
 ## 小結
@@ -113,10 +113,10 @@ categories:
 #### 你會如何推薦輪抽呢？
 輪抽是個增加開包樂趣的好賽制，不會一個人包開一開就完事，而是能享受其過程。覺得自己很非洲的玩家，打輪抽有機會撿到上家傳來的好料，吸吸同桌牌友的歐氣。如果是對魔風已經有些許概念的玩家，輪抽可以磨練自己對單卡強度、曲線掌握與環境特性的認識，還有機會發掘一些不為人知的組合，找到遊玩魔風的新方向。
 
-![](https://i.meee.com.tw/w3udH2G.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/b4f67e5afb8d.webp)
 >跳鼠的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/JksGOAA.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/5eda8c7ec8cc.webp)
 >跳鼠的當日構築。
 
 ### [Jru](/authors/JruMTG/)的分享：
@@ -137,10 +137,10 @@ categories:
 
 雖然新手剛開始接觸的前幾把，肯定會有「我是誰、我在哪、我在抓什麼？」的感覺，但只要有意識的去復盤，重新檢視自己挑牌時的邏輯，5把以內應該就可以有很大的突破了。
 
-![](https://i.meee.com.tw/aMF4rBe.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/7726d6294e86.webp)
 >Jru的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/eY9cEDR.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/0148b7eed8ba.webp)
 >Jru的當日構築。
 
 ### [阿詹](/authors/ZHAN/)的分享：
@@ -158,10 +158,10 @@ categories:
 #### 你會如何推薦輪抽呢？
 輪抽可以輕鬆的與三五好友享受，也能認真爭取店家提供的獎品，是簡單享受魔法風雲會魅力的好賽制。
 
-![](https://i.meee.com.tw/9QZ5iUJ.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/9bed8c766e27.webp)
 >阿詹的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/RPZpe1A.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/961d53b211d2.webp)
 >阿詹的當日構築。
 
 ### [終曲](/authors/T1BloodMoon/)的分享：
@@ -172,10 +172,10 @@ categories:
 #### 今天的關鍵回合狀況如何？
 今天有一個回合，靠著[Supportive Parents](https://scryfall.com/card/spm/119/supportive-parents)跟兩張[Spider-Man, Brooklyn Visionary](https://scryfall.com/card/spm/115/spider-man-brooklyn-visionary)，一回合重複來回進場刷了超多張地，每有一隻生物跟兩費就可以做一次循環，刷個兩個回合牌庫就沒有基本地了，雖然看起來很秀，但那一場還是被對面飛兵打死了。
 
-![](https://i.meee.com.tw/OBZLaLI.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/24c4f207c2cc.webp)
 >終曲的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/KergQjR.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/990a4c59d554.webp)
 >終曲的當日構築。
 
 ### [王靖](/authors/faintmama/)的分享：
@@ -192,10 +192,10 @@ categories:
 #### 你會如何推薦輪抽呢？
 能拆卡包能選秀能組牌能打牌……不如這麼說好了：我其實找不太到輪抽賽制的缺點XD。開卡運其實不完全會左右勝負，畢竟堅實曲線、合理地使用向上交換解牌才是重點。可以玩得輕鬆、也可以玩得認真。
 
-![](https://i.meee.com.tw/BPzlllE.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/6ccdda961887.webp)
 >王靖的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/uOBQEz5.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/00f65bcf4dda.webp)
 >王靖的當日構築。
 
 ### 毓謙的分享：
@@ -209,10 +209,10 @@ categories:
 #### 請分享參與輪抽的感受吧
 我覺得整體的氣氛相當不錯，除了能體驗到剛上市不久的新系列(原本興趣不大，但這次玩完有點意猶未盡)，也從跟老手的交流討論上釐清了不少自己在選牌跟組牌的盲點，感覺限制賽功力又上升了一點，也感謝[王靖](/authors/faintmama/)大大的邀請、以及贊助此活動的[睿卡潮玩](https://www.facebook.com/963Ruika)跟[遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)。
 
-![](https://i.meee.com.tw/S62dPcD.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/18eadbca735f.webp)
 >毓謙的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/p5bpNIb.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/3f98297075db.webp)
 >毓謙的當日構築。
 
 ### 博升的分享：
@@ -226,10 +226,10 @@ categories:
 #### 請分享參與輪抽的感受吧
 這是我第三次參加輪抽，對於該怎麼挑卡還不是很懂，在pick中途改變想打的顏色，所以在最後組牌的時候有點困擾。幸好其他老手很願意給我建議，幫我調整顏色、生物與地的比例。對局中，對手也很熱情地幫我解惑，讓我能做出不錯的combo，這點滿令人開心的！
 
-![](https://i.meee.com.tw/tGbPEve.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/38c494c1a391.webp)
 >博升的抽選過程，從右至左由上而下。
 
-![](https://i.meee.com.tw/b87CyoA.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/81e1971979a8.webp)
 >博升的當日構築。
 
 ### Nelson的分享：
@@ -243,8 +243,8 @@ categories:
 #### 請分享參與輪抽的感受吧
 比想像中的好玩，是有synergy的。體驗以前還以為輪抽跟其他賽制相比會比較單調、沒有戰術，實際上並非如此。
 
-![](https://i.meee.com.tw/R52ZOtL.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/a879a6911112.webp)
 >Nelson的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/os2mI2j.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/c928bf69ba1e.webp)
 >Nelson的當日構築。

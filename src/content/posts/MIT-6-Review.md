@@ -56,7 +56,7 @@ authors:
 
 [MIT#6蘇勒台中速牌表](https://melee.gg/Decklist/View/397871)
 
-![](https://i.postimg.cc/cLqVnKGq/75142119-eea3-4592-b3cf-3cdb3d52ae07.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-6-Review/389bfdf9e8b2.webp)
 
 備牌無法正常顯示的是2張[敵對調查員](https://scryfall.com/card/big/10/hostile-investigator)。
 
@@ -70,7 +70,7 @@ authors:
 - [倨傲擊](https://scryfall.com/card/woe/47/disdainful-stroke)：鐵木爾火球、控制。
 - [漆月魁渡](https://scryfall.com/card/neo/350/kaito-shizuki)：中速對局。
 
-![](https://i.postimg.cc/kXYv0WGK/1.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-6-Review/9b4017111b37.webp)
 
 不過這個版本其實再決定要打蘇勒台三色時在短短的一周內也經過了數次的迭代，再這邊要非常感謝[Guildmage's Forum](https://guildmagesforum.tw/)的夥伴們一同陪我討論給我更好的想法。簡述如下：
 

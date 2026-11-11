@@ -16,7 +16,7 @@ authors:
 
 但受到傷害與失去生命並不是完全等價的，失去生命的原因未必是傷害，而受到傷害後也未必會讓你失去生命。那麼傷害規則究竟是如何運作？又是如何變成最終我們看到的結果的呢？讓我們來一探究竟吧！
 
-![封面](https://i.imgur.com/RkbKufy.jpg)
+![封面](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/89854cab275a.webp)
 
 ---
 
@@ -67,7 +67,7 @@ authors:
 
 ### 受到傷害 v.s. 失去生命
 
-![傷害vs生命](https://i.imgur.com/fDvrobM.jpg)
+![傷害vs生命](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/ab47d7a63573.webp)
 
 > [飄萍](https://scryfall.com/card/war/37/the-wanderer)：防止將對你和由你操控之其他永久物造成的所有非戰鬥傷害。
 > [閃電擊](https://scryfall.com/card/2x2/117/lightning-bolt)：對任意一個目標造成3點傷害。
@@ -76,7 +76,7 @@ authors:
 正常來講，對玩家造成的傷害會讓該玩家失去等量的生命。
 飄萍可以防止你受到的所有非戰鬥傷害，所以如果你操控飄萍，閃電擊對你的傷害會被防止，傷害被防止了自然也不會失去生命。而君王嚙咬是直接讓你失去生命，這無關傷害，即使你有飄萍也防不住。
 
-![魔頭](https://i.imgur.com/5iaL7B2.jpg)
+![魔頭](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/fdb4b7c4da9f.webp)
 
 > [受困魔頭歐尼希茲](https://scryfall.com/card/mat/41/ob-nixilis-captive-kingpin)：每當一個或數個對手正好失去1點生命時觸發異能。
 > [熾場幫襲劫誌](https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain)（I & II章）：每位對手失去1點生命，你獲得1點生命。
@@ -86,7 +86,7 @@ authors:
 
 ### 防止傷害 v.s. 不能失去生命
 
-![魔戒](https://i.imgur.com/slkqfQF.jpg)
+![魔戒](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/516e125552eb.webp)
 
 > [尋水獸](https://scryfall.com/card/eld/171/questing-beast)：由你操控之生物所造成的戰鬥傷害不能被防止。
 > [至尊戒](https://scryfall.com/card/ltr/246/the-one-ring)：當此卡進場時，若你施放之，你獲得反一切保護直到你的下一回合。
@@ -108,7 +108,7 @@ authors:
 ⭐不能將生命設定為比當下生命**高**的數值。
 ⭐不能**獲得**大於0點的生命。
 
-![封面](https://i.imgur.com/RkbKufy.jpg)
+![封面](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/89854cab275a.webp)
 
 > [尋水獸](https://scryfall.com/card/eld/171/questing-beast)：由你操控之生物所造成的戰鬥傷害不能被防止。
 > [泰菲力的庇護](https://scryfall.com/card/2x2/32/teferis-protection)：直到你的下一個回合，你的生命不會改變，你獲得反一切保護。
@@ -119,19 +119,19 @@ authors:
 
 假設尋水獸是我的指揮官，並且已經給某對手累積20點指揮官傷害了，我用指揮官尋水獸向他攻擊，這對對手選擇傷害結算前施放泰菲力的庇護。基於上例所述「反一切保護」在「戰鬥傷害不能被防止」這能力面前是沒有意義的，可以直接忽略；而「生命不會改變」確實會令我的傷害無法使他失去生命，但這僅是傷害的 **結果** 被改變了，傷害確實有造成，也就是說這位對手會尷尬的發現：他的總生命沒有變化，卻因為指揮官傷害累積超過了21點而輸了。
 
-![生命不變](https://i.imgur.com/ViO8mYl.jpg)
+![生命不變](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/f07310028cb7.webp)
 
 所以今後看到不會失去生命的效應時，也別以為這是無敵的救命丹，即使傷害無法使你失去生命，也可能對你造成其他不利結果。
 
 ### 繫命所造成的傷害
 
-![繫命](https://i.imgur.com/4TZHn7K.jpg)
+![繫命](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/093df4ee2c52.webp)
 
 - 具有繫命（Lifelink）的來源所造成之傷害，除了該傷害的其他效果以外，該來源的操控者得到等量的生命。
 
 有些能力可以改變傷害所造成的 **結果** ，繫命便是最常見的代表，在傷害處理四步驟中，步驟2傷害造成，步驟3會將傷害轉變為結果，繫命正是於此時發揮作用，在傷害結果上追加了一項「獲得等量的生命」。只要理解了這點其他與改變傷害結果有關的能力也就很好理解了。
 
-![血塊雨](https://i.imgur.com/q908cul.jpg)
+![血塊雨](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/e42d702962bd.webp)
 
 > [再現活力](https://scryfall.com/card/m21/31/revitalize)：你獲得3點生命。抽一張牌。
 > [破邪天使](https://scryfall.com/card/m21/6/baneslayer-angel)：繫命（Lifelink）。
@@ -154,7 +154,7 @@ authors:
 
 前面繫命的原理是在原有的傷害結果上額外追加一條結果，而侵染跟乾枯則不同，有沒有侵染或乾枯異能，傷害產生的結果打從一開始就是分道揚鑣的。以侵染為例，雖然具有侵染異能的來源對玩家與生物造成的傷害都會以指示物的形式呈現結果，但它依舊是造成了傷害，只是這個傷害的結果不是我們平常習慣的結果而已，而對鵬洛客&戰役而言，有沒有侵染並不重要，它們受到傷害時不會根據有無侵染導出不同的結果。
 
-![極茲銳](https://i.imgur.com/6DmvmKt.jpg)
+![極茲銳](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/f254e9827c7a.webp)
 
 > [枯萎巨龍極茲銳](https://scryfall.com/card/2xm/107/skithiryx-the-blight-dragon)：侵染（Infect）。
 > [Everybody Lives!](https://scryfall.com/card/who/18/everybody-lives!)：直到回合結束，玩家不能失去生命，玩家不能輸或贏下此盤遊戲。
@@ -166,7 +166,7 @@ authors:
 
 有關回合流程的詳細介紹可以參考這篇：[回合流程詳解](https://guildmagesforum.tw/Round-Process/#%E6%B8%85%E7%A9%BA%E6%AD%A5%E9%A9%9F%EF%BC%88Cleanup-Step%EF%BC%89)。
 
-![侵染繫命](https://i.imgur.com/IAKs4ct.jpg)
+![侵染繫命](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/3b87ab0b2341.webp)
 
 > [剖脂怪](https://scryfall.com/card/mbs/41/flensermite)：侵染、繫命。
 > [斷甲顎迅猛龍](https://scryfall.com/card/xln/203/ripjaw-raptor)：（激怒）每當此卡受到傷害時，抽一張牌。
@@ -187,7 +187,7 @@ authors:
 
 ### 下毒所造成的戰鬥傷害
 
-![下毒](https://i.imgur.com/u5cSNnd.jpg)
+![下毒](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/1d203bafe938.webp)
 
 - 具有下毒（Toxic）的來源對玩家造成的戰鬥傷害，除了該傷害的其他效果以外，還會導致該玩家獲得異能規定數量的中毒指示物。
 
@@ -197,7 +197,7 @@ authors:
 
 ### 傷害的替代性效應
 
-![替代性效應](https://i.imgur.com/a9oa43T.jpg)
+![替代性效應](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/e271b2ba1e45.webp)
 
 > [灼靈法師](https://scryfall.com/card/akh/148/soul-scar-mage)：如果由你操控的某來源將對任一由對手操控的生物造成非戰鬥傷害，則改為在該生物上放置等量的-1/-1指示物。
 > [猛烈飛斬](https://scryfall.com/card/q06/8/wild-slash)：（威猛）如果你操控力量等於或大於4的生物，則本回合傷害不能被防止。對任一目標造成2點傷害。
@@ -232,7 +232,7 @@ authors:
 
 - 與觸發式異能不同，狀態動作不會注意到在咒語或異能結算過程中發生的事情。
 
-![致命傷害](https://i.imgur.com/GJImfDC.jpg)
+![致命傷害](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/d6cfed5ea95e.webp)
 
 > [閃電擊](https://scryfall.com/card/2x2/117/lightning-bolt)：對任意一個目標造成3點傷害。
 > [送終一擊](https://scryfall.com/card/2xm/93/fatal-push)：如果目標生物的總魔法力值等於或小於2，則消滅之。
@@ -258,7 +258,7 @@ authors:
 
 讓我們來看看重生具體是如何工作的，以及他的限制在哪。
 
-![重生](https://i.imgur.com/tovWNf9.jpg)
+![重生](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/9063d97fc1bd.webp)
 
 > [枯萎巨龍極茲銳](https://scryfall.com/card/2xm/107/skithiryx-the-blight-dragon)：BB:重生此生物
 > [火焰飛斬](https://scryfall.com/card/cn2/157/flame-slash)：對目標生物造成4點傷害。
@@ -276,7 +276,7 @@ authors:
 
 從這個案例就可以看到，重生能保護的範圍較有限，同時重生這個關鍵字內又包含了不少的動作，十分容易造成規則理解錯亂。另外Regenerate這個能力雖然被翻譯成重生，但實際運作起來概念上反而比較像再生，不過這並不能說是中文翻譯不精確，因為MTG誕生初期的傷害處理步驟與現在並不相同，Regenerate在早期規則下的運作概念確實比較像重生，只是在第六版的時候MTG經歷大規模規則變革，重生無法再以原有的規則執行，套用新的規則框架後重生就變得名稱與能力不協調了。
 
-![漫畫](https://i.imgur.com/uAN13J3.jpg)
+![漫畫](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/7f1c11922ef8.webp)
 
 > 附帶一提，連載中的MTG漫畫 **「 消滅所有人類，他們不能重生 （すべての人類を破壊する。それらは再生できない。） 」** 書名正是捏他了著名掃場[神之憤怒](https://scryfall.com/card/dmr/37/wrath-of-god)的效果（消滅所有生物，他們不能重生）。
 

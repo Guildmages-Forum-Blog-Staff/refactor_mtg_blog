@@ -52,7 +52,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 ## 規則範例
 
-![](https://i.meee.com.tw/mZnxymj.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/18326a75b523.webp)
 > ● **[患失懼影](https://scryfall.com/card/dsk/136/fear-of-missing-out)：** 
 > 一個2費結界生物。
 
@@ -61,7 +61,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/kmGVAyY.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/bb51ebadb9ad.webp)
 > ● **[停止//終止](https://scryfall.com/card/mkm/246/cease-desist)：** 
 > 連體牌，停止為2費瞬間、終止為6費巫術。
 
@@ -74,7 +74,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/h5qxNGB.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/81a32cf14b91.webp)
 > ● **[寄託//記憶](https://scryfall.com/card/lcc/147/commit-memory)：** 
 > 餘響牌，寄託（本體）4費瞬間、記憶（餘響）6費巫術。
 
@@ -89,7 +89,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/jzGqPXC.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/71c2654eb268.webp)
 > ● **[毅力之美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)：** 
 > 歷險牌，本體為7費結界、歷險為2費巫術。
 
@@ -102,7 +102,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/Ioz6PvX.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/011030cd09a3.webp)
 > ● **[皇都伊修加德](https://scryfall.com/card/fin/283/ishgard-the-holy-see-faith-&-grief)：** 
 > 歷險牌，本體為地牌、歷險為5費巫術。
 
@@ -111,7 +111,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/zQkvIHC.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/46675d59c710.webp)
 > ● **[英靈神瑞丹妮](https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield)：** 
 > 模式雙面牌的正面，3費生物牌。
 > ● **[衛護之盾瓦米拉](https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?back)：** 
@@ -124,7 +124,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/Fs5qloG.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/352d36270908.webp)
 > ● **[漸入迷眠](https://scryfall.com/card/mh3/241/sink-into-stupor-soporific-springs)：** 
 > 模式雙面牌的正面，3費瞬間牌。
 > ● **[昏眠噴泉](https://scryfall.com/card/mh3/241/sink-into-stupor-soporific-springs?back)：** 
@@ -135,7 +135,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/hOfegEz.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/131f20b815d1.webp)
 > ● **[災沼霸主](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk)：** 
 > 隱現5～{1}{B}（如果你支付此咒語的隱現費用來施放之，則它進場時上面有五個計時指示物，且直到移去最後一個為止都不是生物。在你的結束步驟開始時，從其上移去一個計時指示物。）
 > ● **[心靈甘泉](https://scryfall.com/card/blb/389/mind-spring)：** 
@@ -148,7 +148,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/IyMaQJN.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/92f0bc647c5c.webp)
 > ● **[早想三步](https://scryfall.com/card/otj/75/three-steps-ahead)：** 
 > 追歡（選擇一個或數個額外費用。）
 > +{1}{U}～反擊目標咒語。
@@ -164,7 +164,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/UbHW1gI.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/2afa3aa36b59.webp)
 > ● **[末日拷打魔](https://scryfall.com/card/dsk/94/doomsday-excruciator)：** 
 > 當末日拷打魔進場時，若它經施放，則每位玩家各只留下其牌庫中底下的六張牌，其餘則牌面朝下地放逐。
 
@@ -173,7 +173,7 @@ excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 
 
 
-![](https://i.meee.com.tw/C5znCbK.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/3e2a3ed51f10.webp)
 > ● **[究極蜘蛛人](https://scryfall.com/card/spm/155/superior-spider-man)：** 
 > 你可以讓究極蜘蛛人當成任一墳場中的生物牌之複製品來進戰場，但他的名稱仍是究極蜘蛛人，且是4/4蜘蛛／人類／英雄，並仍具有原本類別。當你如此作時，放逐該牌。
 

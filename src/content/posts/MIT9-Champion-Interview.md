@@ -19,7 +19,7 @@ categories:
 
 有幸能在菜鳥活躍的賽場上征戰過！接下來就讓我們更深入了解他的想法與生活吧。
 
-![](https://i.meee.com.tw/VPWSMYB.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/e35455efa625.webp)
 > 非常感謝菜鳥在睡眠不足的狀態下還接受訪問 ~~還是帥~~ ，除了最初設定的內容外，我們也趁機聊了非常多魔風及生活的各種話題。
 
 #### Q1：訪問開始以前，想先恭喜菜鳥成功打入世界賽！讓我們先回到 MIT 第九屆冠軍賽的現場，請教當時身處最後決勝圈的心情如何？
@@ -30,7 +30,7 @@ MIT第九輪冠軍賽前，我是比較抱持著平常心看待賽事，心想�
 
 以前會有 **大比賽前務必要睡好** 的習慣，因為曾經有過睡較好而贏下賽事的經驗，所以潛意識就會對這件事情較為在意，但MIT第九輪冠軍賽反而沒特別逼迫自己，接近三、四點鐘才休息，有一點點興奮到睡不著。起床的時候感覺有一點累，但就告訴自己輕鬆一點，不要太在意，  **畢竟能做的事情都已經做了** 。
 
-![](https://i.meee.com.tw/trCeeOw.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/49b48629428b.webp)
 > 總而言之，恭喜菜鳥順利捧起MIT第九輪冠軍⊙⊙ ~~關於那個不能說的稱呼請自行至[鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689)參閱~~ 。
 
 
@@ -44,7 +44,7 @@ A： 伊捷靈技。個人的目的是找出一個會贏的套牌。
 
 （關於菜鳥於MIT第九輪冠軍賽的備戰過程與心得，詳見[菜鳥的 MIT#9 回顧](https://guildmagesforum.tw/MIT-9-Review-Samuel/)一文）
 
-![](https://i.meee.com.tw/JBQf8GA.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/332cd9cb28bc.webp)
 > 先簡單附上菜鳥於MIT第九輪冠軍賽的Decklist。閱讀完本文前，大家不妨先自行看過此構築，揣測一下菜鳥當時的思維邏輯 ~~尤其是備牌那張[Get Out](https://scryfall.com/card/dsk/60/get-out)~~ 。
 
 #### Q3：每個人在進步的過程中都一定被某人啟蒙過。您是否還記得自己接觸這款遊戲的原點呢？是在什麼情況下與魔法風雲會邂逅呢？
@@ -99,7 +99,7 @@ A：重點還是在於：有多少時間能做多少事情。我自己通常會�
 
 關於菜鳥的備戰流程，還是再次邀請沒看過的讀者朋友參考[菜鳥的 MIT#9 回顧](https://guildmagesforum.tw/MIT-9-Review-Samuel/)一文XD。
 
-![](https://i.meee.com.tw/GiGUJq3.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/2aa13796ecfa.webp)
 >日前於Pro Tour達成十勝接關成就的菜鳥，也將出席幾天後即將展開的Magic World Championship 31。祝福他可以再創佳績、為我們帶回更多精彩故事，並好好享受又一次的魔風旅程。
 
 
@@ -131,7 +131,7 @@ A：滿感謝女友的，可以接受我的生活模式。
 
 後來這位學長也加入了魔法風雲會。那因為我把冠軍獎盃放在[CardMaster](https://www.facebook.com/cardmaster.tw)的櫥窗裡，最近遇到他來打牌的時候，我會跟他說：「橋牌的事情就不跟你爭了，魔風的事情你總要聽我的。」他表示OK沒問題 XD。
 
-![](https://i.meee.com.tw/MMho44L.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/5cb94d907c3c.webp)
 >雖然是MIT第十輪冠軍賽的相片，但當時菜鳥與戰友[承翰](https://guildmagesforum.tw/MIT2-Champion-Interview/)皆再次挺進四強，並展開了一場各種意義上都很精彩的對局。據菜鳥所說，[承翰](https://guildmagesforum.tw/MIT2-Champion-Interview/)是最能帶給他討論刺激與回饋的臺灣牌友，相信未來大家仍會見到他們活躍的身影。
 
 #### Q11：可以列舉數位對您產生影響的選手嗎？並說說您從他們身上學到了什麼？

@@ -132,7 +132,7 @@ excerpt: "升起水幕、攻擊對手——水槍！熱水！泡沫光線！ 再
 
 
 <!---61--->
-![61](https://i.meee.com.tw/slIbrrq.png)
+![61](https://images.guildmagesforum.tw/posts/TLA-Blue/61aad24f2680.webp)
 分數：3.5
 評語：本身可以賺兩次資源，翻面後生出來的小生物具備穿透力，活下去就有未來的一張牌。
 

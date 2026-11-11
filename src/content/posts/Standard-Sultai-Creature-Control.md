@@ -23,11 +23,11 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 1：非生物關鍵牌大增，你可以在許多主流套牌中，看到會直接致命的非生物牌。
 
-![](https://i.meee.com.tw/ClJAmYX.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/06b037169818.webp)
 
 2：環境不斷在提速，泛用性康牌在這兩年內卻基本上沒成長，一換一的3費正康已經完全不可用，2費康在後手時也常常來不及，標準內效果最強康牌[早想三步](https://scryfall.com/card/otj/75/three-steps-ahead)也是個犧牲節奏換資源的東西，只能當後期大招，而不是幫你擋住前期攻勢的手段。更別提現在環境內有[祈勝歌手](https://scryfall.com/card/tdm/33/voice-of-victory)、[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)這些防康大殺器。所以現在純粹的康牌已經不能作為主要的防禦計畫了，只能作為應對特定問題的輔助手段。
 
-![](https://i.meee.com.tw/UMcLZjG.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/b3f5bfdb298c.webp)
 
 
 
@@ -48,7 +48,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅藍靈技：水獺才能+迴力鏢Loop
 
-![1](https://i.meee.com.tw/ky79r56.png)
+![1](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/da62694c05bf.webp)
 
 靈技的生物打點本身對控制不是甚麼問題，關鍵在於[水獺才能](https://scryfall.com/card/blb/75/stormchasers-talent)+[迴力鏢](https://scryfall.com/card/tla/46/boomerang-basics)的Loop搭配，這能讓它快速滾出大量資源，同時又不缺後續彈藥，比起高火力但能用一換一去除不虧牌解掉的強打點，像這種不斷提供續航的威脅，才是控制處理起來最頭痛的。
 
@@ -65,7 +65,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅藍課程：堅忍紀念碑
 
-![2](https://i.meee.com.tw/Lgx6m3R.png)
+![2](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/7aa4e73c8214.webp)
 
 目前主流的課程套牌，致勝重點在[堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)上，外加[水獺](https://scryfall.com/card/blb/75/stormchasers-talent)[迴力鏢](https://scryfall.com/card/tla/46/boomerang-basics)套裝提供額外一些支持，所以關鍵點在於[堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)對策。此外[堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)的棄牌觸發源很大程度是依靠[藝術家才能](https://scryfall.com/card/blb/124/artists-talent)，所以結界去除雖然不如神器去除直接拆了[堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)直接，但也能做到很大的牽制。
 
@@ -78,7 +78,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 綠地落：護育樹苗+永固城
 
-![3](https://i.meee.com.tw/D9eZkAK.png)
+![3](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/bfb0227156ec.webp)
 
 這裡的地落，特指投入了[護育樹苗](https://scryfall.com/card/ecl/192/sapling-nursery)的版本，對控制而言，有沒有這張牌完全是兩種不同的對策邏輯，如果是打點都依靠生物牌本體的地落，那麼本來就是傳統控制的去除應該要處理的對象，多了[護育樹苗](https://scryfall.com/card/ecl/192/sapling-nursery)後，結界去除就是絕對必須的了。
 
@@ -97,7 +97,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 藍黑節奏：忍術魁渡+藍貓
 
-![4](https://i.meee.com.tw/yVTqDMS.png)
+![4](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/66a7675f8b7d.webp)
 
 這個對局的主要壓力基本在於[忍術魁渡](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)，這玩意的設計實在太抽風了，所以對鵬洛客去除肯定不能少。
 
@@ -112,8 +112,8 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 藍黑惡魔：大量棄牌+磨牌Combo
 
-![5.1](https://i.meee.com.tw/hyMh23n.png)
-![5.2](https://i.meee.com.tw/gNcmBDB.png)
+![5.1](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/648612396766.webp)
+![5.2](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/426c15ebb49b.webp)
 
 老實說這套藍黑惡魔，本質架構就是掛了組合技的控制，但它也是傳統控制最大的殺手，偏偏這又是環境中最熱門的假想敵之一。可以說帶來最大困擾的是它，但最後提供突破口靈感的也是它。
 
@@ -134,7 +134,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 蜘蛛人走骨：大量棄牌+墳場
 
-![6](https://i.meee.com.tw/JTDV2qy.png)
+![6](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/64312ffe3cff.webp)
 
 最大的問題其實和上面的藍黑惡魔一樣，真正致命的都是[虛妄](https://scryfall.com/card/ecl/212/deceit)+[究極蜘蛛人](https://scryfall.com/card/spm/155/superior-spider-man)，至於做為致勝終端的墳場計畫，對控制反而算比較小的問題，畢竟即使墳場沒及時盯到，也還有掃場能救場，不像其他主動向套牌，一旦場面被對手超展開就救不回來了。
 
@@ -147,7 +147,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 其他
 
-![7](https://i.meee.com.tw/nB5v2jA.png)
+![7](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/5a8284e4f5e9.webp)
 
 最後點名幾套雖然控制相性不差，但因為賽場佔比夠可觀，還是要記得的存在：
 
@@ -186,15 +186,15 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 先來看看控制常見的招有怎麼樣的屬性。
 
-![點殺](https://i.meee.com.tw/7TuCN0H.png)
+![點殺](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/8b723a52910b.webp)
 
 靈活且高射程的去除，是控制破壞對手節奏的資本，但要注意的是，這些去除不管射程多麼的廣，牌差永遠是0，就是拿一張換對手一張。而一換一的康與這些單體去除也是同樣道理。
 
-![掃場](https://i.meee.com.tw/GieIKsG.png)
+![掃場](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/45059c56c3e9.webp)
 
 掃場是控制之所以成立的關鍵，這些才是真正讓控制破壞對手的節奏的同時，讓自己獲得牌差的東西。反過來說若是一發掃場還無法打斷對手的節奏，那我們的遊戲計畫就已經出問題了。
 
-![抽牌](https://i.meee.com.tw/cPi5Yoj.png)
+![抽牌](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/65192163930f.webp)
 
 這兩張補牌咒語，放在近十年的標準系列中，都可以算是最強等級了，不過要注意，雖然他們的檢視深度都非常高，但牌差終究是+1，你必須要善用這個深度，找到精準剋制對手或是擴大優勢的牌，才能為後續創造更多牌差提供基礎。
 
@@ -206,7 +206,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 那麼我們來簡單看看，上面介紹的幾個假想敵套牌，他們是長甚麼樣的：
 
-![](https://i.meee.com.tw/ky79r56.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/da62694c05bf.webp)
 
 - **[水獺才能](https://scryfall.com/card/blb/75/stormchasers-talent)+[迴力鏢](https://scryfall.com/card/tla/46/boomerang-basics)：**
 
@@ -233,7 +233,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![](https://i.meee.com.tw/t0E9XUr.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/df7fedc21a6d.webp)
 
 - **[獾地鼠幼獸](https://scryfall.com/card/tla/167/badgermole-cub)套牌：**
 
@@ -260,7 +260,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 有個難以被互動的致勝組合技當然是其中一個原因，但這套組合技所需元件，在標準早已存在多時，所以真正的關鍵並不是致勝端，而是讓它能成功活到拚致勝的能力。
 
-![生物](https://i.meee.com.tw/Dod6WH0.png)
+![生物](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/ab5a20fd828d.webp)
 
 [虛妄](https://scryfall.com/card/ecl/212/deceit)可以說是一張劃時代的強牌<font color="#A6A6A6">（老實說我覺得有點強過頭了……）</font>，這種讓高費的終結者獲得低費另一使用選項的彈性功能，正好是控制想要的，等同不用犧牲低費節奏曲線的同時，白送了一個終結者卡位。[虛妄](https://scryfall.com/card/ecl/212/deceit)的兩個ETB本身都十分符合控制的需求，一同觸發時更是可以等效於萬能非地永久物解<font color="#A6A6A6">（彈回手後棄掉）</font>，這其實已經有點打破顏色輪了，讓原本對神器結界較為苦手的藍黑色組，直接獲得等同白色萬能去除的能力。配上[究極蜘蛛人](https://scryfall.com/card/spm/155/superior-spider-man)後，這破壞力更是產生了質變，這點上面已經提到很多次了。
 
@@ -284,7 +284,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 我也選用[虛妄](https://scryfall.com/card/ecl/212/deceit)[蜘蛛人](https://scryfall.com/card/spm/155/superior-spider-man)體系後，還帶來了一個好處，那就是解決了前面怎麼打藍黑惡魔的問題。既然我們都是[虛妄](https://scryfall.com/card/ecl/212/deceit)[蜘蛛人](https://scryfall.com/card/spm/155/superior-spider-man)，那我們就是均勢了，沒有相性問題。甚至因為我也有[藍黑變身地](https://scryfall.com/card/lci/282/restless-reef)，如果對手敢叫[末日拷打魔](https://scryfall.com/card/dsk/94/doomsday-excruciator)沒留下費用，那對手有可能死於自己的Combo。
 
-![](https://i.meee.com.tw/zBGVHxo.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/b0eec32f06bd.webp)
 
 而生物型控制同時也算對地落[永固城](https://scryfall.com/card/tla/266/ba-sing-se)的半個解答，原本的控制只要解不掉[永固城](https://scryfall.com/card/tla/266/ba-sing-se)，就會被它無中生有的打點白嫖到死，但我也具有場面後，無論在攻防上都有更多硬拚的本錢。
 
@@ -295,13 +295,13 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/7661153#paper)
-![DeckList](https://i.meee.com.tw/LsITe49.png)
+![DeckList](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/455029059b88.webp)
 
 
 
 ### 生物
 
-![生物](https://i.meee.com.tw/Dod6WH0.png)
+![生物](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/ab5a20fd828d.webp)
 
 這個核心三件套，上面已經花了非常多筆墨介紹，因此就不額外贅述了，不過還是可以稍微提一些要注意的細節。
 
@@ -324,7 +324,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![生物](https://i.meee.com.tw/oFQIKWi.png)
+![生物](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/8f217754e791.webp)
 
 - **[龍牙衛傭獸](https://scryfall.com/card/tdm/183/fangkeepers-familiar)（2）：**
 
@@ -351,7 +351,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 抽牌
 
-![抽牌](https://i.meee.com.tw/QFpNcXr.png)
+![抽牌](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/ecccf78477d0.webp)
 
 雖然說是以生物為核心的控制，但真的都靠生物來補手牌，運作還是有點過於笨重，所以補牌招還是放了一點。
 
@@ -370,7 +370,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 去除
 
-![殺1](https://i.meee.com.tw/jLJInCP.png)
+![殺1](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/ffe8ec9641ab.webp)
 
 - **[報償邪術](https://scryfall.com/card/ecl/116/requiting-hex)（3）：**
 
@@ -387,7 +387,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![殺2](https://i.meee.com.tw/031D0DK.png)
+![殺2](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/6147e0c5318e.webp)
 
 - **[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)（3）：**
 
@@ -404,7 +404,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 此外加入[喚醒榮耀亡者](https://scryfall.com/card/tdm/170/awaken-the-honored-dead)後，這副牌還有個夢幻節奏：二回[虛妄](https://scryfall.com/card/ecl/212/deceit)棄牌⮕三回[喚醒榮耀亡者](https://scryfall.com/card/tdm/170/awaken-the-honored-dead)解場⮕四回[究極蜘蛛人](https://scryfall.com/card/spm/155/superior-spider-man)複製[虛妄](https://scryfall.com/card/ecl/212/deceit)，棄對面一張牌並彈[喚醒榮耀亡者](https://scryfall.com/card/tdm/170/awaken-the-honored-dead)回手，保留後續還有一發萬能的去除。
 
 {% notel blue 行雲流水的棄牌+解場+定場 %}
-![](https://i.meee.com.tw/JDjcavQ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/ecd600491eaa.webp)
 {% endnotel %}
 
 不過這畢竟還是最笨重的單體去除，因此備牌也是很容易被換下，換成其他針對性更好的備牌。
@@ -416,7 +416,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 因為我們是指定色超重的三色套牌，所以地牌調色需求非常極限，只能努力擠出4個變身地（或者說功能地）卡位，剩餘卡位必須全力塞滿類別地+邊陲地。
 
-![變身地](https://i.meee.com.tw/msJM8LE.png)
+![變身地](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/9e1e6f94a896.webp)
 
 - **[藍黑變身地](https://scryfall.com/card/lci/282/restless-reef)（3）：**
 
@@ -455,21 +455,21 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 備牌
 
-![拔墳](https://i.meee.com.tw/mLEX1cv.png)
+![拔墳](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/947b81472b68.webp)
 - **[吸魂器](https://scryfall.com/card/dsk/248/ghost-vacuum)（1）＆ [導靈明燈](https://scryfall.com/card/eoc/143/soul-guide-lantern)（1）：**
 
 現在環境兩張各有好壞，各帶一張求功能全面。
 
 
 
-![棄牌](https://i.meee.com.tw/AchozQZ.png)
+![棄牌](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/2c6f1947a8e6.webp)
 - **[逼從](https://scryfall.com/card/fdn/606/duress)（2）＆ [恫嚇戰術](https://scryfall.com/card/dft/92/intimidation-tactics)（1）：**
 
 因為正編已經有[虛妄](https://scryfall.com/card/ecl/212/deceit)做大量棄牌了，所以備牌對棄牌位的需求沒那麼重，帶少量就有足夠效益了。
 
 
 
-![康1](https://i.meee.com.tw/HoG5seT.png)
+![康1](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/d201326713ba.webp)
 - **[抹除](https://scryfall.com/card/eoe/46/annul)（1）：**
 
 主力針對對象為紅藍課程＆綠地落，不過這年頭的神器結界實在太多了，在不少非Meta對局中也能發揮用處。
@@ -480,7 +480,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![康2](https://i.meee.com.tw/tKXoJsu.png)
+![康2](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/b0079c39f69c.webp)
 - **[倨傲擊](https://scryfall.com/card/woe/47/disdainful-stroke)（1）：**
 
 也是常規備牌康的熱門人選，記得這是可以康掉以呼魂施放的[虛妄](https://scryfall.com/card/ecl/212/deceit)的。
@@ -500,7 +500,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![備牌生物](https://i.meee.com.tw/ox8Axlc.png)
+![備牌生物](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/987559f3e374.webp)
 - **[腐沼潛鱷皮頭](https://scryfall.com/card/tmt/117/leatherhead-swamp-stalker)（1）：**
 
 忍者龜唯一真神，那個忍者跟那個龜都可以蛋雕了。
@@ -517,7 +517,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![去除](https://i.meee.com.tw/W0AX4nB.png)
+![去除](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/1f352841ce93.webp)
 - **[復還原貌](https://scryfall.com/card/tdm/145/heritage-reclamation)（1）：**
 
 綠色泛用備牌，其實考量近期Meta，改用[爪衛列陣](https://scryfall.com/card/blb/186/pawpatch-formation)去抓飛兵也是個不錯的選項，但我還是偏向更尊重[堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)和墳場一點。
@@ -548,7 +548,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 最後來聊一下，某些是合理選項但我並未投入構築、且上面沒提到的牌。
 
-![](https://i.meee.com.tw/CCpr0jQ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/42fa5e852dab.webp)
 
 - **[故事結局](https://scryfall.com/card/woe/87/the-end)＆[渦心鼓動](https://scryfall.com/card/fdn/661/maelstrom-pulse)：**
 
@@ -556,7 +556,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 
 
-![](https://i.meee.com.tw/T6iBBZ4.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/eb51335560a6.webp)
 
 - **[藏書神萬知堂](https://scryfall.com/card/tla/78/wan-shi-tong-librarian)＆[京島巨鰻](https://scryfall.com/card/tla/77/the-unagi-of-kyoshi-island)＆[馬蘭河龍侯](https://scryfall.com/card/tdm/51/marang-river-regent-coil-and-catch)：**
 
@@ -606,7 +606,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅藍靈技
 
-![紅藍靈技](https://i.meee.com.tw/hp2FmoS.png)
+![紅藍靈技](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/a82bb05cb09e.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -631,7 +631,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅藍課程
 
-![紅藍課程](https://i.meee.com.tw/N3oxRJs.png)
+![紅藍課程](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/57f6d35712d9.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -655,7 +655,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅藍元素
 
-![紅藍元素](https://i.meee.com.tw/0JQJ9DG.png)
+![紅藍元素](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/7a84cc2c259a.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -674,7 +674,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 蜘蛛人走骨
 
-![蜘蛛人走骨](https://i.meee.com.tw/1Og305Q.png)
+![蜘蛛人走骨](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/eab9d22291de.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -696,7 +696,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 藍黑惡魔
 
-![藍黑惡魔](https://i.meee.com.tw/gNcmBDB.png)
+![藍黑惡魔](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/426c15ebb49b.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -724,7 +724,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 藍黑節奏
 
-![藍黑節奏](https://i.meee.com.tw/h7MI1uK.png)
+![藍黑節奏](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/56d1d35a693a.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -742,7 +742,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 藍白節奏
 
-![藍白節奏](https://i.meee.com.tw/M1IU43q.png)
+![藍白節奏](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/9dfd641b5216.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -760,7 +760,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 白底連咒
 
-![白底連咒](https://i.meee.com.tw/Nl8lre3.png)
+![白底連咒](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/9c3a0172afb5.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -777,7 +777,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 綠地落
 
-![綠地落](https://i.meee.com.tw/WhIHgDk.png)
+![綠地落](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/0ecab5b0a543.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -802,7 +802,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 藍綠蔓蛇
 
-![藍綠蔓蛇](https://i.meee.com.tw/UuKH6YG.png)
+![藍綠蔓蛇](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/c7abb1806a35.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -821,7 +821,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 截氣神通Combo
 
-![截氣神通Combo](https://i.meee.com.tw/cQiIAh7.png)
+![截氣神通Combo](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/9746076f13fc.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -838,7 +838,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅快攻
 
-![紅快攻](https://i.meee.com.tw/5ViU6Iv.png)
+![紅快攻](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/c347ab9d07e3.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -856,7 +856,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 紅白龍
 
-![紅白龍](https://i.meee.com.tw/ihcuz60.png)
+![紅白龍](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/aada45ae255f.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -873,7 +873,7 @@ excerpt: "控制玩家在節奏暴走環境的絕地求生"
 
 ### 潔斯凱控制
 
-![潔斯凱控制](https://i.meee.com.tw/racAPRb.png)
+![潔斯凱控制](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/df7094610ff8.webp)
 
 | Ont | In | 
 | :-: | :-: | 

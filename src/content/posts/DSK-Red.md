@@ -55,7 +55,7 @@ excerpt: "讓火焰淨化一切！把你燒到連渣都不剩，在放逐區待�
 
 
 <!---129--->
-![129](https://i.imgur.com/QscIwIx.png)
+![129](https://images.guildmagesforum.tw/posts/DSK-Red/2f1f0767ce86.webp)
 分數：2.0
 評語：賺得太慢了，還不一定賺得到牌。
 
@@ -111,7 +111,7 @@ excerpt: "讓火焰淨化一切！把你燒到連渣都不剩，在放逐區待�
 
 
 <!---137--->
-![137](https://i.imgur.com/dl3HLWC.png)
+![137](https://images.guildmagesforum.tw/posts/DSK-Red/25108584571e.webp)
 分數：3.0
 評語：巫術時機的燒 4 ，後續回合解鎖另一側後，是對對手來說不可忽視的 clock 。
 
@@ -169,7 +169,7 @@ excerpt: "讓火焰淨化一切！把你燒到連渣都不剩，在放逐區待�
 
 
 <!---147--->
-![147](https://i.imgur.com/fhaNhJz.png)
+![147](https://images.guildmagesforum.tw/posts/DSK-Red/056b615eb548.webp)
 分數：3.5
 評語：右邊提供的場攻相當可觀，左邊的房間可以提供資源，鋪場型的快攻套牌最希望看到的牌。
 
@@ -237,7 +237,7 @@ excerpt: "讓火焰淨化一切！把你燒到連渣都不剩，在放逐區待�
 
 
 <!---158--->
-![158](https://i.imgur.com/OxUPJEd.png)
+![158](https://images.guildmagesforum.tw/posts/DSK-Red/4d406a6b6bd5.webp)
 分數：2.0
 評語：三費叫 2/2 太虧節奏了，右側的效果固然強力，但費用相當高。
 

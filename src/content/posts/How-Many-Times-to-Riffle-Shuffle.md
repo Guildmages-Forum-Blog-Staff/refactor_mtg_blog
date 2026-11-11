@@ -39,7 +39,7 @@ excerpt: "你不洗亂牌，遊戲就不好玩"
 1. **[變異距 （Variation Distance）](https://zh.wikipedia.org/zh-tw/%E5%85%A8%E5%8F%98%E5%B7%AE%E8%B7%9D%E7%A6%BB)** 
    令 Q(pi) 表示洗牌後每種牌序 pi 出現的機率，U(pi) 為「完全均勻」的理想機率（即 1 / (n!)）。則定義：
    
-![image](https://hackmd.io/_uploads/HkL_5N5vJg.png)
+![image](https://images.guildmagesforum.tw/posts/How-Many-Times-to-Riffle-Shuffle/b8d30b6fa16b.webp)
 
    
    其中 n = 60 （對MTG而言），S_n 代表所有可能的排列 （共有 n! 種)。若此距離夠小，就可說「跟理想隨機幾乎一樣」。可惜變異距的數學難度比較高，撰寫程式很麻煩，因此可以用另外一個方式替代。
@@ -48,7 +48,7 @@ excerpt: "你不洗亂牌，遊戲就不好玩"
 2. **[卡方檢定 （Chi-square Test）](https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E6%96%B9%E6%A3%80%E9%AA%8C)** 
    透過模擬大量洗牌結果，與「完全隨機」分布比較，以卡方統計量：
    
-![image](https://hackmd.io/_uploads/ByMK94cPyg.png)
+![image](https://images.guildmagesforum.tw/posts/How-Many-Times-to-Riffle-Shuffle/32c797487553.webp)
    
    觀察是否接近理想分布。 f_i 是實驗中觀測落在第 i 類的次數， e_i 是理論期望次數。若 X^2 小於臨界值，表示洗完的牌序「夠隨機」。
    
@@ -101,7 +101,7 @@ excerpt: "你不洗亂牌，遊戲就不好玩"
 
 ### 二、模擬分析結果
 
-![chi_square_trend](https://hackmd.io/_uploads/SJE1n7FOJl.png)
+![chi_square_trend](https://images.guildmagesforum.tw/posts/How-Many-Times-to-Riffle-Shuffle/8e1b00843a90.webp)
 
 
 以下表格整合了從洗牌0次到20次之卡方檢定統計量（Chi2_stat）、自由度 (DOF)、p-value，以及模擬得到的分布敘述統計量 (Mean、Std、Q1、Median、Q3、Min、Max）。

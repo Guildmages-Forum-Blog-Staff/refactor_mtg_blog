@@ -21,7 +21,7 @@ authors:
 
 首先當然是從學院雙子的能力看起。
 
-![](https://i.imgur.com/Zm9zC5p.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/40a1ffeaf0b5.webp)
 
 **[火花學者蘿婉](https://cards.scryfall.io/large/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg)**
 
@@ -47,20 +47,20 @@ authors:
 ## 多重選項：套牌構築
 
 **[牌表連結](https://www.mtggoldfish.com/deck/5944248#paper)**
-![](https://i.imgur.com/16IKsG5.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/3d843a6f4df6.webp)
 
 如各位所見，這是一套用料有點特別的紅藍控制。想要有效率的加速[蘿婉](https://cards.scryfall.io/large/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg)開大，增殖料自然是首選。這邊我們選擇[實驗性預示](https://cards.scryfall.io/large/front/e/5/e508ae5d-ffb5-4480-be90-a4394954b559.jpg)、[漿液圈套](https://cards.scryfall.io/large/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg)、[滌瑕盪垢](https://cards.scryfall.io/large/front/c/7/c7ce5296-f28f-4105-9c79-b9c63ea720e7.jpg)這三張抽濾、回手與反擊，一般來說這些增殖咒語的費用不是那麼有效率，但在雙子的減費加持下可就不一樣了，順的話一回合達陣根本不是問題。
 
-![](https://i.imgur.com/e9131rg.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/82b7600333ab.webp)
 
 紅色去除的部分我們選用[暴烈衝動](https://cards.scryfall.io/large/front/f/9/f9ca7364-b1ed-4ff8-9fd0-ce7cc953686d.jpg)、[勝利煙火](https://cards.scryfall.io/large/front/c/5/c58096e5-3cd4-4edd-b71a-3bdb47ab2536.jpg)、[雷鳴龍閃擊](https://cards.scryfall.io/large/front/7/1/71aefffd-19df-4c03-83cb-8dec587a8f25.jpg)。[暴烈衝動](https://cards.scryfall.io/large/front/f/9/f9ca7364-b1ed-4ff8-9fd0-ce7cc953686d.jpg)是先驅牌池中瞬間巫術型套牌一費紅色去除的首選，搭配[詳加考慮](https://cards.scryfall.io/large/front/b/7/b71df54d-1199-4067-8cfb-555acc4550e2.jpg)堆墳最快一回就能達到咒語精熟的條件。[勝利煙火](https://cards.scryfall.io/large/front/c/5/c58096e5-3cd4-4edd-b71a-3bdb47ab2536.jpg)在遊戲初期很容易打出4~5點瞬間高傷害，可以有效去除前期拍出來的中型生物，缺點是後期手牌消耗後火力會變很差，得靠增幅抽一張來彌補。[雷鳴龍閃擊](https://cards.scryfall.io/large/front/7/1/71aefffd-19df-4c03-83cb-8dec587a8f25.jpg)則是中後期強力去除，動輒兩位數的瞬間放逐燒可以處理掉絕大多數的後期威脅。
 
-![](https://i.imgur.com/xWF3xtv.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/90d700d23b07.webp)
 
 資源方面也不是採用傳統的抽牌咒語，而是選擇會附帶生人的[多重選項](https://cards.scryfall.io/large/front/3/0/30d98422-8bf0-4852-a7bf-f66dc71e9bb8.jpg)、[實驗性過載](https://cards.scryfall.io/large/front/4/a/4a69aef5-4564-4f19-9752-b1339c677cba.jpg)，還有曾經的標準禁牌[除數歸零](https://cards.scryfall.io/large/front/3/a/3a0a12a6-154d-4d68-a8f3-f2af3725ba92.jpg)。[除數歸零](https://cards.scryfall.io/large/front/3/a/3a0a12a6-154d-4d68-a8f3-f2af3725ba92.jpg)回手咒語及永久物附帶導一張課程的靈活性不用多說，[多重選項](https://cards.scryfall.io/large/front/3/0/30d98422-8bf0-4852-a7bf-f66dc71e9bb8.jpg)可以視支付的費用選擇抽濾、回手生物、生4/4元素，也可以一次全包，缺點是略高的費用與巫術時機，費用這點只要雙子在場就能改善。[實驗性過載](https://cards.scryfall.io/large/front/4/a/4a69aef5-4564-4f19-9752-b1339c677cba.jpg)則是在回收一張瞬間巫術的同時派出體格等同於墳場瞬間巫術數量的[怪奇](https://cards.scryfall.io/large/front/2/a/2a0d9c67-69ee-48c4-af4c-18cc3c2ef3cd.jpg)衍生物，後期兩位數的身材很容易一拳終結遊戲。
 
-![](https://i.imgur.com/Ysq4WTz.png)
-![](https://i.imgur.com/npndLIm.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/70237ec4eef9.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/223a53843265.webp)
 
 最後再帶上可以配合增殖主題的[伊捷總督拉爾](https://cards.scryfall.io/large/front/d/d/dde98548-954d-42b7-9cbf-d000d4e2a7c2.jpg)、[爆裂地帶](https://cards.scryfall.io/large/front/9/a/9a1e032d-d674-4294-8b0f-31393f6cac73.jpg)，還有雙子擊倒[血腥聖者](https://cards.scryfall.io/large/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.jpg)的一擊[聚力劈響](https://cards.scryfall.io/large/front/5/3/53603989-741a-456f-95a4-522e453fe91a.jpg)作為額外的終結技。作為紅藍五費旅法的[伊捷總督拉爾](https://cards.scryfall.io/large/front/d/d/dde98548-954d-42b7-9cbf-d000d4e2a7c2.jpg)除了-3只能處理生物這點有些美中不足外，其他沒什麼好挑剔的，把徽記加速開出來幾乎等同勝利；[爆裂地帶](https://cards.scryfall.io/large/front/9/a/9a1e032d-d674-4294-8b0f-31393f6cac73.jpg)則是彌補正編缺少的掃場，靠著增殖輔助存豆減少節奏上損失，也能處理對手的神器結界。
 
@@ -76,8 +76,8 @@ authors:
 
 遊戲初期的第一要務是完成[暴烈衝動](https://cards.scryfall.io/large/front/f/9/f9ca7364-b1ed-4ff8-9fd0-ce7cc953686d.jpg)的精熟條件，讓射程達到三來處理威脅，再視情況三回或四回拍[火花學者蘿婉](https://cards.scryfall.io/large/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg)出來。雖然[蘿婉](https://cards.scryfall.io/large/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg)忠誠偏低，但畢竟是旅法，只要能處理掉對手生物，多半還是站得住，再搭個增殖招就能在下一回合開出徽記，然後就是無雙時間：[詳加考慮](https://cards.scryfall.io/large/front/b/7/b71df54d-1199-4067-8cfb-555acc4550e2.jpg)變成三費兩次刺探1抽1、[暴烈衝動](https://cards.scryfall.io/large/front/f/9/f9ca7364-b1ed-4ff8-9fd0-ce7cc953686d.jpg)變成三費打兩次3點、[多重選項](https://cards.scryfall.io/large/front/3/0/30d98422-8bf0-4852-a7bf-f66dc71e9bb8.jpg)抽二生兩個4/4[元素](https://cards.scryfall.io/large/front/3/d/3d0b9b88-705e-4df0-8a93-3e240b81355b.jpg)再回手對手兩個生物，用兩倍的資源去壓制對手，最後靠衍生物或[聚力劈響](https://cards.scryfall.io/large/front/5/3/53603989-741a-456f-95a4-522e453fe91a.jpg)結束遊戲。
 
-![](https://i.imgur.com/u0mQQ4X.png)
-![](https://i.imgur.com/Bb7GSKM.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/7867a43b1a9e.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Twins-Choices/c2e542cacc63.webp)
 
 備牌策略上保留四張常用的課程[環境科學](https://cards.scryfall.io/large/front/3/2/32715660-ff59-4b36-859b-aa47c49f40da.jpg)、[古旅人教誨](https://cards.scryfall.io/large/front/2/c/2c88683e-d672-4923-b049-6c3e8fe59019.jpg)、[從頭開始](https://cards.scryfall.io/large/front/f/e/fee207da-1151-4901-a278-6f92043df583.jpg)、[苑像展示](https://cards.scryfall.io/large/front/a/a/aa27694c-5c55-43b7-92cc-290f4f057c0a.jpg)給[除數歸零](https://cards.scryfall.io/large/front/3/a/3a0a12a6-154d-4d68-a8f3-f2af3725ba92.jpg)去學習，並備上吃得到增殖效果的[鉻亮兵團運種鯊](https://cards.scryfall.io/large/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg)以應對對手的墳場針對策略，剩下來的位置則置入[眾神之怒](https://cards.scryfall.io/large/front/9/e/9e327903-eb0a-48e6-ba16-783a0fd232ba.jpg)、[神秘干擾](https://cards.scryfall.io/large/front/1/a/1ae9261b-e4c3-458a-999f-9e7a9e53bbb1.jpg)、[失效](https://cards.scryfall.io/large/front/f/c/fc864845-04fd-4879-bdd3-e9b405d20b09.jpg)、[倨傲擊](https://cards.scryfall.io/large/front/1/5/15127b5b-d118-4483-ac06-4de38140bdab.jpg)、[改變等式](https://cards.scryfall.io/large/front/e/9/e98db9ed-b43f-4bc1-b7a9-ce03a534d992.jpg)、[試煉才能](https://cards.scryfall.io/large/front/5/5/558ff014-6eb5-471b-ab9e-33553cc71d9e.jpg)、[乙太勁風](https://cards.scryfall.io/large/front/d/0/d0e82be9-7053-4357-babb-071e69ae11b2.jpg)等因應各式對局替換去除的反擊與掃場。
 

@@ -20,13 +20,13 @@ excerpt: "哈比人電影中壯闊的五軍之戰，將在魔法風雲會的世�
 
 ## 色組主題
 
-![](https://i.meee.com.tw/pC3nfgg.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/e41f00edf629.webp)
 
 HOB為193張的小系列，由5個主要雙色輪抽主題構成，分別對應了故事尾聲的重要戰役 — 五軍之戰（Five Armies），玩家可想像自己代表對應的種族，與其他部族交戰而獲取勝利！
 
 ### <span style="color:#006DB3">藍</span><span style="color:#C3B270">白</span> 人類募兵（Humans Recruit）
 
-![](https://i.meee.com.tw/sKW5Ikf.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/597995e2dc1e.webp)
 
 機制運作：當你 **募兵（Recruit）** 時，先抽一張牌再棄一張牌。若你棄掉的是非地牌，則額外派出一個 1/1 白色人類/士兵衍生物。機制上類似籌謀（Connive）的變體，但派出衍生物與放豆（+1/+1 指示物）則是在不同情境下，發揮不同的場面優勢。
 遊戲計畫：募兵時需評估是否保留該非地牌、或立刻棄掉來派出 1/1衍生物擴展場面。但無論如何，募兵機制都能讓你的套牌運作更加滑順，因此，在套牌曲線不高的前提下，可以考慮只使用16張地。
@@ -34,28 +34,28 @@ HOB為193張的小系列，由5個主要雙色輪抽主題構成，分別對應�
 
 ### <span style="color:#AF2321">紅</span><span style="color:#808080">黑</span> 囤兵鬼怪（Amass Goblins）
 
-![](https://i.meee.com.tw/iEyvtMc.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/5c5745e754d0.webp)
 
 機制運作：當你 **囤兵鬼怪 X（Amass Goblins）** 時，若你未操控軍隊衍生物，則先生出一個 0/0 黑色的軍隊 Token，再放 X 個 +1/+1 指示物在他身上，且他同時也具有鬼怪的種族類別。若已操控，則放 X 個 +1/+1 指示物在該衍生物上。
 遊戲計畫：囤兵鬼怪並不是單純的橫向鋪場機制，而是具有單體體格增長的彈性。你可以搭配犧牲的效果來消耗派出的衍生物，也可以不斷囤兵，讓單體軍隊成長到足以改變戰局。
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span> 獸群威猛（Hordes Ferocious）
 
-![](https://i.meee.com.tw/Smk1PMO.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/6e613338daf6.webp)
 
 機制運作：只要你操控力量達到 4 或以上的生物，具有 **威猛（Ferocious）** 異能的牌就會獲得額外加成。
 遊戲計畫：屬於標準的中速打法，不需複雜的搭配，只靠優異的強力生物就能進行場面壓制。然而，雖然需要 4 攻以上的生物來穩定觸發威猛，但不要放入過多高費牌。二三費曲線中，如 {% mtglink "Desolation Prowler" %} 、或 {% mtglink "Duskwatch Hunter" %} 這類單靠自己就能滿足威猛的牌，將是套牌能否順利運行的關鍵之一。而黑綠色組除了最主要的狼（Wolves）以外、綠色也有熊（Bears）有大量高攻且強力的生物。而囤兵至4以上的軍隊衍生物，也同樣能觸發威猛。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span> 矮人立傳（Dwarves Storied）
 
-![](https://i.meee.com.tw/OzHqoAg.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/08be14b3c597.webp)
 
 - 機制運作：當你操控合計至少 3 個神器（Artifacts）、傳奇（Legendaries）、或傳紀（Sagas），即可開啟 **歷世書傳（Enduring Story）** 的玩家稱號。一旦達成，該局遊戲將持續享有加成，即使目標數量減少也不會失去稱號。
 - 遊戲計畫：雖然需要高密度的神器與傳奇來開啟條件,但切勿為了湊數而放入平庸的牌。平順的曲線生物與優質的解牌仍是第一優先。此外，這個色組有大量的武具（Equipments），其神器類別不但能加速滿足歷世書傳的條件，與矮人生物們的也有許多搭配，是不可或缺的重要元件。如 {% mtglink "Iron Hills Blacksmith" %} 這樣的牌，同時能輔助遊戲計畫、並精簡卡位，是紅白色組重要的單卡。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span> 妖精地落（Elves Landfall）
 
-![](https://i.meee.com.tw/tUZuYi8.jpg)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/d27a34e1fa33.webp)
 
 機制運作：每當有地牌在你的操控下進入戰場時，就能觸發 **地落（Landfall）** 異能。
 遊戲計畫：大量下地能保障你順利施放中後期咒語。即使到了遊戲後期爆地，地落機制牌的回報牌仍可以讓你從中收益。潛在弱點為藍綠色組常缺乏解牌，構築時要注意是否有足夠的去除手段。
@@ -251,7 +251,7 @@ HOB為193張的小系列，由5個主要雙色輪抽主題構成，分別對應�
 分數：3.0
 評語：乍看是要扣血的[神奇小徑](https://scryfall.com/card/blb/252/fabled-passage)、但若你請援 (Behold) 妖精的話又變成了[澈光遠景](https://scryfall.com/card/mh1/244/zht/%E6%BE%88%E5%85%89%E9%81%A0%E6%99%AF-(prismatic-vista))。在藍綠地落主題中可提早拿，但要調色的話，另一張找地地 {% mtglink "Hobbit Hole" %} 可能是更好的選擇。
 
-![](https://i.meee.com.tw/obSL4vv.webp)
+![](https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/a9f5f9c547d0.webp)
 分數：2.5
 評語：這五張對應色組主題的雙色地，前期調色、中後期還能轉換成 **對應種族生物** 的體格。值得一提的是，黑綠中有威猛主題，黑綠的這張 {% mtglink "Mirkwood" %} 有機會在中後期幫你造出4攻生物，即使你厲害的大狼/熊被殺光，場上僅剩2/2的小狼/熊tokens，仍可以犧牲這張地造出4/4生物並繼續享有威猛的紅利。
 

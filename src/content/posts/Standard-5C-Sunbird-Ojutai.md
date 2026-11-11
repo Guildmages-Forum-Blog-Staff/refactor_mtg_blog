@@ -13,12 +13,12 @@ authors:
 
 ## Before We Start
 
-![](https://i.imgur.com/hY0x1ND.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/32fbb829f238.webp)
 《依夏蘭迷窟》為我們帶來有趣的多色套牌元件[陽禽戰旗](https://cards.scryfall.io/large/front/e/0/e0b6d40a-fded-4625-b03c-765c88d75766.jpg)，化煉的顏色越多強度就越高，而剛好標準內也有白綠基底的五色領土套牌，兩者湊在一起會發生什麼化學變化呢？而在首圖中展示的[朱高與歐祝泰](https://cards.scryfall.io/large/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg)又和這副套牌有什麼關聯呢？就請各位看下去吧！
 
 ## 陽禽祝願：單卡解析
 
-![](https://i.imgur.com/gaIsE1R.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/6d5ce2350175.webp)
 
 > {橫置}：加一點任意顏色的魔法力。
 > 以一個或更多物件化煉{五}（{五}，放逐此神器，從由你操控的其他永久物和／或你墳墓場的牌中放逐前述物件達一個或更多：將此牌在其擁有者的操控下移回且已轉化。只能於巫術時機化煉。）
@@ -29,23 +29,23 @@ authors:
 
 [陽禽戰旗](https://cards.scryfall.io/large/front/e/0/e0b6d40a-fded-4625-b03c-765c88d75766.jpg)正面是傳統的三費神器加速，放在目前的領土套牌會是[綠雕跺地獸](https://cards.scryfall.io/large/front/4/c/4cc2d984-d7e1-47c8-bc88-a9a6977dea48.jpg)的位置，好處是不會卡色又可以立即產費，壞處是不賺資源，且變生物需要的前置條件較硬，不過轉化成[陽禽戰像](https://cards.scryfall.io/large/back/e/0/e0b6d40a-fded-4625-b03c-765c88d75766.jpg)後有飛行有敏捷有警戒，又是神器生物，天生迴避[直刺咽喉](https://cards.scryfall.io/large/front/9/4/94117b09-d852-4f2e-be8e-68ee0ee3c3d8.jpg)與[飄萍皇](https://cards.scryfall.io/large/front/f/f/ffcff023-3a61-4ec0-a24a-8c1b7fe837b3.jpg)，還能立刻橫置產費，相當有潛力。不過如果想要有效率的化煉，那麼就需要五色牌的支援。目前標準內的五色牌有六張，[進軍阿拉若](https://cards.scryfall.io/large/front/3/1/318c363b-61cc-4e2f-8f86-a4287539ea07.jpg)//[喚醒渦心](https://cards.scryfall.io/large/back/3/1/318c363b-61cc-4e2f-8f86-a4287539ea07.jpg)、[諸界一統裘達](https://cards.scryfall.io/large/front/e/4/e4b1aa1e-b4e3-4346-8937-76b312501c70.jpg)、[五霸會晤](https://cards.scryfall.io/large/front/e/7/e7dc6c75-f904-4513-9e0e-0fbaa5209eae.jpg)、[至尊尼米捷](https://cards.scryfall.io/large/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg)、[萬物核歐納斯](https://cards.scryfall.io/large/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg)、[逆神之戰](https://cards.scryfall.io/large/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg)//[大口繩具像](https://cards.scryfall.io/large/back/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg)。其中裘達、五霸、尼米捷和主題不好配合，歐納斯又太過被動，所以選擇以[進軍阿拉若](https://cards.scryfall.io/large/front/3/1/318c363b-61cc-4e2f-8f86-a4287539ea07.jpg)為核心搭配[逆神之戰](https://cards.scryfall.io/large/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg)來構築。
 
-![](https://i.imgur.com/Jesd2e5.png)
-![](https://i.imgur.com/x2fY0N2.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/5bf0359c572f.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/18f3a81351ca.webp)
 
 套牌列表如下：
 
 [牌表連結](https://www.mtggoldfish.com/deck/6076145#paper)
-![](https://i.imgur.com/R2EhLka.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/1f602e43d53c.webp)
 
 一如所見基底是領土套牌，核心元件[地脈束縛](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg)、[獸群遷徙](https://cards.scryfall.io/large/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg)、[爬上豆莖](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg)、[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)//[覺醒空境](https://cards.scryfall.io/large/back/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)、[岔怒大天使](https://cards.scryfall.io/large/front/2/d/2d00bab2-e95d-4296-a805-2a05e7640efb.jpg)自然是不會少的，掃場的部分考慮到[進軍阿拉若](https://cards.scryfall.io/large/front/3/1/318c363b-61cc-4e2f-8f86-a4287539ea07.jpg)的類傾探4，以四費[掃除人口](https://cards.scryfall.io/large/front/f/4/f45725ea-29f4-4ef8-b216-919fa79f5f2d.jpg)為主力，輔以少量[速速退離](https://cards.scryfall.io/large/front/5/2/522aa72b-2b8c-484c-872b-f082101cee35.jpg)。
 
-![](https://i.imgur.com/ckN4Kua.png)
-![](https://i.imgur.com/MFyuxc0.png)
-![](https://i.imgur.com/1Op3Y38.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/78b62ffd9799.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/9f6d3401df12.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/8bbc6903a8bb.webp)
 
 由於這個版本是以戰役為核心，沒有敏捷無法立即打穿戰役的[大一統飛將亞崔夏](https://cards.scryfall.io/large/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg)顯然不是那麼適合，故改用具有敏捷辟邪，打戰役又有額外效果的[朱高與歐祝泰](https://cards.scryfall.io/large/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg)作為另一個輸出主力。
 
-![](https://i.imgur.com/qIBbmeC.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Sunbird-Ojutai/8b222651999d.webp)
 
 > 飛行，敏捷
 > 只要珠高與歐祝泰是於本回合進戰場，它便具有辟邪異能。

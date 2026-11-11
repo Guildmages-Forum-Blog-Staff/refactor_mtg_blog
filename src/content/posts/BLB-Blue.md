@@ -162,7 +162,7 @@ authors:
 
 |                                                  080                                                  |                                                  081                                                  |                    ###                    |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------: |
-| ![080](https://cards.scryfall.io/large/front/3/5/35898b39-98e2-405b-8f18-0e054bd2c29e.jpg?1721426323) | ![081](https://cards.scryfall.io/large/front/e/d/edeb20aa-b253-49b8-9947-c397a3a4002a.jpg?1721426330) | ![blank](https://i.imgur.com/3V1FLMc.png) |
+| ![080](https://cards.scryfall.io/large/front/3/5/35898b39-98e2-405b-8f18-0e054bd2c29e.jpg?1721426323) | ![081](https://cards.scryfall.io/large/front/e/d/edeb20aa-b253-49b8-9947-c397a3a4002a.jpg?1721426330) | ![blank](https://images.guildmagesforum.tw/posts/BLB-Blue/b4d9d9a7443b.webp) |
 |                                                  2.5                                                  |                                                  2.5                                                  |                    無                     |
 
 評價：

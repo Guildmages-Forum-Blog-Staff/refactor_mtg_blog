@@ -144,7 +144,7 @@ excerpt: "多色牌通常都和其特定主題息息相關，這次恐怖鬼屋�
 評語：紅綠色組很珍貴的補牌單卡，時機可控且為瞬間相當不錯。
 
 <!---227--->
-![227](https://i.imgur.com/MUli3mT.png)
+![227](https://images.guildmagesforum.tw/posts/DSK-multicolors/d7d8b2f545b7.webp)
 分數：2.5
 評語：左邊是藍白或是紅白色組會喜歡的，有機會是單方面掃場；右邊就基本上當不存在。
 
@@ -159,7 +159,7 @@ excerpt: "多色牌通常都和其特定主題息息相關，這次恐怖鬼屋�
 評語：可以挖兩次，但指定色滿重的，確切強度則取決於你挖起來的生物有多強。
 
 <!---230--->
-![230](https://i.imgur.com/jMqtb9s.png)
+![230](https://images.guildmagesforum.tw/posts/DSK-multicolors/bb23592171a4.webp)
 分數：4.0
 評語：左邊在非快攻的套牌可以解怪，右邊則是每回合多抽一張資源賺滿。
 
@@ -184,7 +184,7 @@ excerpt: "多色牌通常都和其特定主題息息相關，這次恐怖鬼屋�
 評語：兩費 1/4 飛行是很優秀的阻擋者，站著慢慢賺，異景的資源很快就累積起來了。
 
 <!---235--->
-![235](https://i.imgur.com/WJAuqAZ.png)
+![235](https://images.guildmagesforum.tw/posts/DSK-multicolors/1d8470e1725f.webp)
 分數：1.5
 評語：紅藍色組以外不建議使用，我們甚至還在猶豫，在紅藍色組真的可以順利運作嗎……
 

@@ -23,11 +23,11 @@ authors:
 
 第一天因為我個人沒興趣去打九點開始的近代獎金賽，我大概十點多才晃過去會場。這次到會場的攤位也是台北的[Acadamy Legacy Games （ALG）](https://www.facebook.com/ALGTW)、[CardMaster（CM）](https://www.facebook.com/cardmaster.tw)、以及台南的[紙牌屋](https://www.facebook.com/CardCellarTW)三家店有到會場擺攤，攤位位置也跟第三季時沒有太大的差別，但感覺特別不一樣的就是ALG的攤位上除了常見的單卡、卡套卡盒等周邊商品外，這次因應九月在拉斯維加斯剛結束的第29屆世界大賽，這次就多了很多今年世界大賽暨Magic Con相關的周邊。像下面這張照片中，中央層架最上分別是11種艾卓荒野（WOE）對應的徽章，現場問還有三種左右的徽章盲盒可以拆。另外紙牌屋跟CM的攤位上也有一些酷東西，但可惜當時忘記拍照了。
 
-![](https://i.imgur.com/Mn87eC9.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-4-Review/9e0b92631f61.webp)
 
 而像下圖中魔戒的徽章套組也是Magic Con會場限定的商品，在台灣應該是相對稀少的。
 
-![](https://i.imgur.com/gRj8cNn.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-4-Review/8e9407cdf6d2.webp)
 
 而現場擺攤的店家也有各式各樣的抽獎，每抽一次大約台幣400~500元不等，看現場店家給獎的內容以及玩法不定，有單純一抽、抽三張撲克牌看花色點數、或抽兩個球看號碼等，玩法十分多樣。會場中偶爾也有路人或現場的工讀生跳下來試試手氣，相當有趣。
 
@@ -45,11 +45,11 @@ authors:
 
 2023年11月5日一早九點就到正賽會場報到，到的時候稍早了一點，拍下今天要鏖戰七局的比賽區域。
 
-![](https://i.imgur.com/GeUltd4.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-4-Review/11d1f719a6de.webp)
 
 接著陸續到場的選手們紛紛報到領取參賽的號碼牌，由於在Day 1早上九點前就必須把自己的套牌登錄Melee上，相較於大家之前參加的MITQ賽事，少了一個繳交套牌構築表的環節。
 
-![](https://i.imgur.com/c4xMvoT.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-4-Review/6e991efb3707.webp)
 
 九點半開賽後就是主辦單位遊戲平方的郭子敬、以及主審Muscle的致詞，相關賽場回顧平方也有撰文整理，歡迎大家點擊下面的連結去看：
 
@@ -102,6 +102,6 @@ authors:
 **jeffchen**：
 第一次有參加MITQ正賽，不期望能爬得多高，至少在過程中我很享受這一切，每一個對局都能成為一次珍貴的回憶吧!另外很開心Day1獎金賽能進8強，用的是自己最喜歡的藍黑控，果然用本命牌，牌組就會回應你嗎？未來還有很多進步空間，期待明年Q5決賽和大家再見！
 
-![](https://i.imgur.com/8vmwgXa.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-4-Review/82aabd242824.webp)
 
 > 註：照片為Guildmages' Forum五名寫手於2023年11月5日第四季MIT正賽第四輪期間於會場外合影。左起為T1BloodMoon、cephille、MiohitoKiri5474、Kappa、jeffchen。

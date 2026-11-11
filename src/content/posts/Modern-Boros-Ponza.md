@@ -18,7 +18,7 @@ excerpt: "友誼的小船說炸就炸"
 
 筆者選擇的基底是已經有悠久歷史的紅白炸地，其實差不多就在相近的時間段，MO上也一度崛起了另一款[純白炸地](https://76vezffd.blogspot.com/2025/09/mono-white-control.html)，我自己最初也預計這個紅白的老模式在新時代大概活不下去，嘗鮮一兩週就可以改組純白了，結果實測起來手感意外的沒很糟，~~現在感覺人緣比勝率還需要擔心~~。
 
-![White Orchid Phantom](https://i.meee.com.tw/pFKEM1f.png)
+![White Orchid Phantom](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/f78e1d7a907f.webp)
 
 
 
@@ -27,7 +27,7 @@ excerpt: "友誼的小船說炸就炸"
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/7392950#paper)
-![DeckListPicture](https://i.meee.com.tw/8g0FGiw.png)
+![DeckListPicture](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/9b1a609b4baf.webp)
 
 
 
@@ -35,13 +35,13 @@ excerpt: "友誼的小船說炸就炸"
 
 近代內無副作用、無射程限制的炸地，費用都是三費起跳（例：[石雨](https://scryfall.com/card/chk/191/stone-rain)、[融鐵雨](https://scryfall.com/card/mm3/103/molten-rain)），但以近代的節奏，等到三回才開始炸地，那基本就是 「我們來打靶，我當靶」 ，勢必要二回就有所作為，才算是給出最低限度的干擾，如果是紅綠色組，可以靠Mana頭來提升3費炸地的效率，但紅白色組並沒有這方面的手段，所以關鍵反而在那些炸得不是很乾脆的二費炸地們：
 
-![2費炸地](https://i.meee.com.tw/vv85DyX.png)
+![2費炸地](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/2b893232337b.webp)
 
 - **[白蘭幽魅](https://scryfall.com/card/mh3/47/white-orchid-phantom)（4） ＆ [滌地野火](https://scryfall.com/card/znr/137/cleansing-wildfire)（4） ＆ [暴起//炸裂](https://scryfall.com/card/tsr/156/boom-bust)（4） ：**
 
 這三張是我們2費炸地的核心，毫無懸念的都要滿編，不過這三張不能只看單卡，要和配套的地一起看，功能性才完整：
 
-![不滅地](https://i.meee.com.tw/nMl9tKw.png)
+![不滅地](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/a5f04c33efdd.webp)
 
 - **[飛流巨瀑](https://scryfall.com/card/m3c/326/cascading-cataracts)（3） ＆ [銹谷結橋](https://scryfall.com/card/eoc/175/rustvale-bridge)（4） ＆ [卓耶卡石板跡](https://scryfall.com/card/tsr/278/flagstones-of-trokair)（4） ：**
 
@@ -52,7 +52,7 @@ excerpt: "友誼的小船說炸就炸"
 
 {% folding blue :: 用滌地野火炸卓耶卡石板跡時的處理流程 %}
 
-![](https://i.meee.com.tw/xNhtOD8.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/58506ffb8818.webp)
 > ● **[滌地野火](https://scryfall.com/card/znr/137/cleansing-wildfire)：**
 > 消滅目標地。其操控者可以從其牌庫中搜尋一張基本地牌，將之橫置放進戰場，然後將其牌庫洗牌。
 > 抽一張牌。
@@ -71,7 +71,7 @@ excerpt: "友誼的小船說炸就炸"
 
 
 
-![其他炸地](https://i.meee.com.tw/z0UyFyo.png)
+![其他炸地](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/a912613921be.webp)
 
 - **[石雨](https://scryfall.com/card/chk/191/stone-rain)（4） ：**
 
@@ -94,7 +94,7 @@ excerpt: "友誼的小船說炸就炸"
 
 ### 其他地牌
 
-![地](https://i.meee.com.tw/eK6wusk.png)
+![地](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/efc74e074c5b.webp)
 
 - **[電震地](https://scryfall.com/card/eoe/256/sacred-foundry)（4） ＆ [刺探地](https://scryfall.com/card/mkm/260/elegant-parlor)（1） ＆ 平原（4） ＆ 山脈（1） ：**
 
@@ -104,7 +104,7 @@ excerpt: "友誼的小船說炸就炸"
 
 ### 去除
 
-![去除](https://i.meee.com.tw/f2gzOAB.png)
+![去除](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/86246e2d54ff.webp)
 
 - **[電流湧射](https://scryfall.com/card/mh3/122/galvanic-discharge)（4） ＆ [靜態拘禁](https://scryfall.com/card/mh3/44/static-prison)（3） ＆ [天空之怒](https://scryfall.com/card/mh3/49/wrath-of-the-skies)（3） ：**
 
@@ -116,7 +116,7 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 ### 生物
 
-![生物](https://i.meee.com.tw/Tza3X9x.png)
+![生物](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/a8eb15110e47.webp)
 
 - **[紅白泰坦](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury)（3） ＆ [幽寂](https://scryfall.com/card/mh2/32/solitude)（3） ：**
 
@@ -151,7 +151,7 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 
 
-![備牌1](https://i.meee.com.tw/51L8nvl.png)
+![備牌1](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/bea508ba3757.webp)
 
 - **[阻禦網](https://scryfall.com/card/9ed/293%E2%98%85/defense-grid)（2） ＆ [陷阱橋](https://scryfall.com/card/2xm/253/ensnaring-bridge)（1） ：**
 
@@ -179,7 +179,7 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 
 
-![備牌2](https://i.meee.com.tw/iu9tItv.png)
+![備牌2](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/28296d5ba64d.webp)
 
 - **[托瑪墓穴](https://scryfall.com/card/dmr/235/tormods-crypt)（1） ＆ [吸魂器](https://scryfall.com/card/dsk/248/ghost-vacuum)（1） ＆ [挖墳人囚籠](https://scryfall.com/card/m20/227/grafdiggers-cage)（1） ：**
 
@@ -198,7 +198,7 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 
 
-![備牌3](https://i.meee.com.tw/extcDOG.png)
+![備牌3](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/7c9cfda2bfb4.webp)
 
 - **[紛擾笛](https://scryfall.com/card/mh3/209/disruptor-flute)（1） ＆ [魔石大腦](https://scryfall.com/card/bro/247/the-stone-brain)（1） ：**
 
@@ -209,7 +209,7 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 
 
-![備牌4](https://i.meee.com.tw/gukj0fh.png)
+![備牌4](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/1512efc2513f.webp)
 
 - **[滯阻法球](https://scryfall.com/card/dmr/219/damping-sphere)（1） ＆ [日正當中](https://scryfall.com/card/otj/15/high-noon)（2） ：**
 
@@ -222,15 +222,15 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 正如開頭所說，這是個組在無地砲佔比巔峰時期的套牌，面對無地砲時，正編大量的無代價炸地、加上[卡恩](https://scryfall.com/card/rvr/1/karn-the-great-creator)的神器封鎖，幾乎是躺贏局；Tron、控制面對大量炸地也是很不舒服；另外能量體系的去除＆[紅白泰坦](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury)的抗快能力，本身其實是跟得上紅白能量的攻勢的，加上對手的[紅白泰坦](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury)、[幹練烈焰術士](https://scryfall.com/card/2x2/123/seasoned-pyromancer)常常因為缺地牌，進了墳場後就再利用不了了，所以打能量時表現也算還行。
 
-![](https://i.meee.com.tw/LLYwO6p.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/3095bae80c8b.webp)
 
 不過我們的去除結構，也注定了在不少對局中應對會十分吃緊，甚至是毫無辦法，好比說這套的去除中有不少的燒，面對一些能用少量地叫出來的低費高防生物，很容易就超過我們的射程上限，例如死命丟手牌的[靈能蛙](https://scryfall.com/card/mh3/199/psychic-frog)、[黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)、雲移套牌用變魔術方法變出的大仔等，其中高費生物更是連[天空之怒](https://scryfall.com/card/mh3/49/wrath-of-the-skies)都救不了；因為我們不太會補充能量，[靜態拘禁](https://scryfall.com/card/mh3/44/static-prison)早晚是要還回去的，只能說是很強的拖延時間，但很多時候問題不算根治；至於[幽寂](https://scryfall.com/card/mh2/32/solitude)強歸強，但在有5費之前是虧牌招，不能指望甚麼問題都要他處理。此外雖然我們是炸地套牌，但真的遇到專注玩地的[泰坦](https://scryfall.com/card/ima/183/primeval-titan)[護身符](https://scryfall.com/card/sld/167/amulet-of-vigor)時其實也不好打，它的爆發性很容易就把場面演到失控，現在多了[犁冰探險蟲](https://scryfall.com/card/eoe/192/icetill-explorer)後更是連地都炸不乾淨（而且這玩意也容易超過燒的射程）。
 
-![](https://i.meee.com.tw/5AmhXix.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/78286304a5d4.webp)
 
 另外對於一些只用少量地就能從空場做出致命場面的套牌，這副節奏也常常跟不上，最慘的莫過於[怨靈復仇](https://scryfall.com/card/uma/99/goryos-vengeance)，他完全有能力扣著找地地等我回合結束就直接做一套；靈技跟神器共鳴也可以用很少量的地做出超展開，靈技是敏捷瞬間爆頭、神器共鳴被做出[馱炮河童](https://scryfall.com/card/eoc/74/kappa-cannoneer)再捏著一張能處理[陷阱橋](https://scryfall.com/card/2xm/253/ensnaring-bridge)的康或彈也跟死了沒兩樣。
 
-![](https://i.meee.com.tw/Neyt6xp.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/23ee120e3e74.webp)
 
 上面有一些真的不是靠去除能解決的問題，針對牌也很難放多，這就是這副牌的天敵，只能說沒轍，但對於那些可以用去除處理，只是現有去除結構容易撞到死角的牌型，就是這副牌的調整方向，好比說[虹彩終局](https://scryfall.com/card/mh2/25/prismatic-ending)、[異燈行進](https://scryfall.com/card/neo/28/march-of-otherworldly-light)、[流放之徑](https://scryfall.com/card/blc/147/path-to-exile)等，都有各自的優勢情境，甚至[攆走](https://scryfall.com/card/clu/67/oust)、[判罪](https://scryfall.com/card/rvr/14/condemn)也被我考慮過。
 
@@ -240,7 +240,7 @@ MH3的能量體系去除，可是連控制都說好的程度，尤其點名表�
 
 >話說又是黑白炸地又是[卓耶卡石板跡](https://scryfall.com/card/tsr/278/flagstones-of-trokair)，再改下去說不定連[小片毒疹](https://scryfall.com/card/tsr/139/smallpox)都要跑出來了？
 
-![](https://i.meee.com.tw/tnQftG2.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/59955d9a2d18.webp)
 
 另外就是備牌的卡恩工具箱，其實還有非常大的可調整空間，甚至比正編的可動幅度還大，也並非一定要執著於神器，就像[日正當中](https://scryfall.com/card/otj/15/high-noon)那樣，如果找到了符合當前Meta的應對剋制牌，也能積極投入。由於近期Meta細節變化實在有點過於迅速，幾乎是以天為單位在變動，文章無論如何修改肯定都趕不上最即時的變化，這點還是要靠個人靈活調整。
 

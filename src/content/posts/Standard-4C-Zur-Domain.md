@@ -21,11 +21,11 @@ excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 
 [牌表連結：祖爾一出，必要見血！！！](https://www.mtggoldfish.com/deck/7193174#paper)
 
-![DeckList](https://i.meee.com.tw/DleZlzE.png)
+![DeckList](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/1a0aaba8a558.webp)
 
 上圖是我與美國的隊友為PT FINAL FANTASY準備的牌表。
 #### 固定卡位
-![](https://i.meee.com.tw/ceHy5hJ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/e4d05d1ce2ea.webp)
  - 4 [Zur, Eternal Schemer](https://scryfall.com/card/dmu/228/zur-eternal-schemer)
  - 4 [Overlord of the Hauntwoods](https://scryfall.com/card/dsk/194/overlord-of-the-hauntwoods)
  - 4 [Overlord of the Mistmoors](https://scryfall.com/card/dsk/23/overlord-of-the-mistmoors)
@@ -43,7 +43,7 @@ excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 #### 可動卡位
 
 扣掉前面的固定卡位，目前的可動卡位只有10個，玩家可以喜好或想加強的對局來進行調整，而我的選擇是：
-![](https://i.meee.com.tw/35DuzGp.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/6b2056fa7d32.webp)
  - 1張[Analyze the Pollen](https://scryfall.com/card/mkm/150/analyze-the-pollen)：前期可以幫助我們調色和穩定下地，後期則是可以幫我們尋找關鍵生物。但需要注意的是，若場上已有[High Noon](https://scryfall.com/card/otj/15/high-noon)，施放這張咒語後會限制我們該回合的其他行動，因此在中後期想透過它找生物時，常常得多等一回合才能順利接續拍出威脅，使用上需要多加斟酌。
  - 3張[Split Up](https://scryfall.com/card/dsk/32/split-up)：如今環境快攻當道，因此我希望有足夠的3費掃場。之所以選擇[Split Up](https://scryfall.com/card/dsk/32/split-up)而不是[Temporary Lockdown](https://scryfall.com/card/dmu/36/temporary-lockdown)，是因為我們在備牌投入了3張[Authority of the Consuls](https://scryfall.com/card/fdn/137/authority-of-the-consuls)，而[Lockdown](https://scryfall.com/card/dmu/36/temporary-lockdown)會與其產生衝突；相較之下，[Split Up](https://scryfall.com/card/dsk/32/split-up)不僅不會干擾，反而能與[Authority](https://scryfall.com/card/fdn/137/authority-of-the-consuls)有良好的搭配。
  - 1張[Day of Judgment](https://scryfall.com/card/fdn/140/day-of-judgment)：雖然我已經放了不少的3費掃場，但是他們終究還是軟掃，而我仍希望牌組中有一張能完全清掉場面、不挑對象的保險解答。它也能補上當前3費掃場清除力不足的缺口，特別是在對上中速、內戰的時候提供穩定的重置手段。
@@ -60,7 +60,7 @@ excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 #### 地牌的選擇
 
 作為四色套牌，地牌的配置在這個套牌可謂極為重要，我所使用的地牌配置是來自PT DFT冠軍Matt Nass的牌表進行微調，以下是Matt Nass的地牌配置:
-![](https://i.meee.com.tw/9FRGEJU.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/eea3ecf35c73.webp)
  - 4 [Hushwood Verge](https://scryfall.com/card/dsk/261/hushwood-verge) （白綠Verge）
  - 4 [Lush Portico](https://scryfall.com/card/mkm/263/lush-portico)（白綠刺探地）
  - 3 [Floodfarm Verge](https://scryfall.com/card/dsk/259/floodfarm-verge) （白藍Verge）
@@ -81,7 +81,7 @@ excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 以上就是讓這個地牌配置如此完美的原因。那麼，我的地牌配置與 Matt Nass 的牌表又有什麼不同呢？那就是我將牌組的兩張地牌替換成[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)。原因主要是因為隨者PT DFT的結束和新系列TDM的發售，反擊咒語的使用量大幅提升，我在測試的過程中也發現Domain對上控制類型的套牌時時常會力不從心，而且很多玩家也因為注意到Domain開始不使用[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)又重新投入反擊咒語，因此我才決定將[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)這張加回來。近期MO上有不少玩家在備牌投入了2~3張的[Overlord of the Floodpits](https://scryfall.com/card/dsk/68/overlord-of-the-floodpits)，為了保證換入後能夠穩定施放，因此需要將牌組裡的基本沼澤換成[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)。
 
 ### 備牌介紹
-![](https://i.meee.com.tw/1UVISYE.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/50a66d88c42c.webp)
 
 備牌的選擇與正編一樣，主要還是看你想要專注於什麼對局，而下面是我的備牌選擇以及原因。
 
@@ -96,14 +96,14 @@ excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 
 
 ### 其餘可投入牌張
-![](https://i.meee.com.tw/0rarsUY.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/ebdf6da5ac05.webp)
  - [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder)：這是一張極具針對性的干擾牌，特別用來壓制對手依賴鵬洛客異能的策略。最初被開發出來，是為了對抗如[Doomsday Excruciator](https://scryfall.com/card/dsk/94/doomsday-excruciator)、[Jace, the Perfected Mind](https://scryfall.com/card/one/57/jace-the-perfected-mind)、[Riverchurn Monument](https://scryfall.com/card/dft/57/riverchurn-monument)等控制套牌常見的磨牌計畫，透過反擊關鍵的觸發或起動異能為我們爭取時間。其3/2的體質也能轉化為進攻壓力，作為後手轉場或打節奏的利器。不過值得注意的是，雖然某些套牌也有大量強力的觸發或啟動異能，但這些威脅未必非靠[Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder)解不可，有時候傳統去除或反擊也足以處理，因此這張牌屬於根據環境調整、針對特定對局才會換入的備牌選擇。
  - [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum)：墳場針對，用於對抗全知全能組合技、大眼和潔斯凱控制等會與墳場互動的套牌。我自己是比較喜歡使用[Heritage Reclamation](https://scryfall.com/card/tdm/145/heritage-reclamation)，畢竟可以抽牌，同時不像[Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum)那樣是明牌進場、容易被對手提前預判。
  - [Rest in Peace](https://scryfall.com/card/big/4/rest-in-peace)：與[Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum)相同，但是放逐墳場的更為澈底。問題是會放逐掉自己的墳場讓[Analyze the Pollen](https://scryfall.com/card/mkm/150/analyze-the-pollen)無法蒐證。以及對抗全知全能組合技時，由於費用與[High Noon](https://scryfall.com/card/otj/15/high-noon)一樣，會被[Blast Zone](https://scryfall.com/card/cmm/987/blast-zone)一起解掉。
  - [Change the Equation](https://scryfall.com/card/mom/50/change-the-equation)：對抗快攻對局的針對牌之一，在內戰有時也會有用，問題是本身是一張康牌會稍微被動一些。
  - [Pawpatch Formation](https://scryfall.com/card/blb/186/pawpatch-formation)：與[Heritage Reclamation](https://scryfall.com/card/tdm/145/heritage-reclamation)類似，不過在內戰時表現比[Heritage Reclamation](https://scryfall.com/card/tdm/145/heritage-reclamation)，但是因為環境有全知全能組合技的關係還是還是不如[Heritage Reclamation](https://scryfall.com/card/tdm/145/heritage-reclamation)好用。
 
-![](https://i.meee.com.tw/hY3lDG5.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/82c7362b7acf.webp)
  - [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke)：主要用於對抗慢速套牌，對抗全知全能組合技時搭配[High Noon](https://scryfall.com/card/otj/15/high-noon)效果更佳，可直接阻斷對手整回合的行動。
  - [Entity Tracker](https://scryfall.com/card/dsk/53/entity-tracker)：閃現的特性在對上有反擊咒語的對局具有很好靈活性，而且還兼具一定的打擊力與符合套牌向性的補牌能力。
  - [Voice of Victory](https://scryfall.com/card/tdm/33/voice-of-victory)：也是用於對抗有反擊咒語的對局，尤其是對手在備牌局會下掉大部分的去除時，這張牌能有效壓迫對手，封鎖其回應空間並同時給予場面壓力。
@@ -215,7 +215,7 @@ excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 ## 關於PT FINAL FANTASY
 全球最具競爭力的隊伍ChannelFireball，其中幾位成員（Edgar Magalhaes、Reid Duke、Seth Manfield和Gabriel Nassif），在PT FINAL FANTASY也使用了祖爾領土出戰。
 以下是他們的牌表：
-![](https://i.meee.com.tw/d5SeAG0.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/64de63fc78df.webp)
 
 仔細看就會注意到他們所使用的牌表與我的有許多不同之處：
  - 正編4張[High Noon](https://scryfall.com/card/otj/15/high-noon)：為了針對紅藍靈技與全知全能組合技而做出的選擇，以它們在賽場上高達62.2%的出場率來看，可說是相當合理的應對。

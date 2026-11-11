@@ -15,7 +15,7 @@ excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 
 ## 太空船（Spacecraft）＆ 蓄勢（Station）
 
-![Spacecraft](https://i.meee.com.tw/lOxNNw7.png)
+![Spacecraft](https://images.guildmagesforum.tw/posts/TRK-Mechanism/1372fe4957b9.webp)
 
 太空船是一種神器類別，初始狀態皆為非生物神器，並且都帶有 **蓄勢** 異能。
 
@@ -31,7 +31,7 @@ excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 
 ## 光束傳送（Beam Me Up）
 
-![Beam Me Up](https://i.meee.com.tw/3NlwKVL.png)
+![Beam Me Up](https://images.guildmagesforum.tw/posts/TRK-Mechanism/f1c900c6b0f5.webp)
 
 光束傳送會出現在瞬間、巫術上，你可以從墳場施放一個具光束傳送的瞬間、巫術咒語，並支付光束傳送指定的替代性費用，而不是支付這個咒語原有的費用。
 
@@ -46,7 +46,7 @@ excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 
 ## 面臨兩難（Face a Dilemma）
 
-![Face a Dilemma](https://i.meee.com.tw/kzyBBFZ.png)
+![Face a Dilemma](https://images.guildmagesforum.tw/posts/TRK-Mechanism/010a7ff4a1d3.webp)
 
 當你在具有多模式的咒語或異能中，選擇模式時，便算發生過一次面臨兩難。有些效應是當你面臨兩難時便觸發，也有些效應是檢查你本回合面臨兩難的次數。
 
@@ -57,13 +57,13 @@ excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 如果某個具有多模式的觸發式異能，在滿足觸發條件時，沒有任何一個模式可以合法選擇（通常是因為每個模式都有目標，但當下不存在合法目標），那麼這個異能並不會上堆疊，你也無法滿足面臨兩難的條件。
 
 > 多模式牌範例：
-> ![Mode](https://i.meee.com.tw/T9BMVrL.png)
+> ![Mode](https://images.guildmagesforum.tw/posts/TRK-Mechanism/7afef761c660.webp)
 
 
 
 ## 奇異新世界（Strange New Worlds）
 
-![Strange New Worlds](https://i.meee.com.tw/32nFMwj.png)
+![Strange New Worlds](https://images.guildmagesforum.tw/posts/TRK-Mechanism/8fcb580e4d9a.webp)
 
 奇異新世界是個提示詞，這類效應會檢查你操控地牌的名稱數量。
 
@@ -72,7 +72,7 @@ excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 
 ## 星際聯邦（Federation）
 
-![Federation](https://i.meee.com.tw/K29Mj9X.png)
+![Federation](https://images.guildmagesforum.tw/posts/TRK-Mechanism/ece1e4d18409.webp)
 
 星際聯邦是個提示詞，會檢查由你操控的生物類別為非博格人（Borg）的生物，具有的生物副類別數量。同一副類別無論有幾個生物同時擁有，也只算做 1 。
 
@@ -85,7 +85,7 @@ excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 
 ## 同化（Assimilate）
 
-![Assimilate](https://i.meee.com.tw/WOuiSFe.png)
+![Assimilate](https://images.guildmagesforum.tw/posts/TRK-Mechanism/560cf69469d0.webp)
 
 若某效應讓你同化一張不在戰場上的生物牌，則將其在你的操控下放進戰場，進場時其上有一個+1/+1指示物。如果該效應讓你同化一個已在戰場上的生物，則你獲得該生物的操控權，然後在其上放置一個+1/+1指示物。
 

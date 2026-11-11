@@ -30,13 +30,13 @@ excerpt: "裘達：歡迎大家來到MTG的世界！本次我將Cos光之戰士�
 
 這次的額外系列，特別從Final Fantasy初代到Final Fantasy XI（第16代），每代中挑選4張原畫作為異圖重印牌。而不閃的FCA牌在Play Booster中出現的機率為33%，也就是每3包中會出現1張FCA，讀者如果限制賽開到FCA牌的話，都可以放入套牌中來增強強度，概念同先前系列中開出的Special Guests（SPG）。
 
-![](https://i.meee.com.tw/jRVHZpv.webp)
+![](https://images.guildmagesforum.tw/posts/FIN-FCA/27586b374499.webp)
 
-![](https://i.meee.com.tw/zbc98OR.webp)
+![](https://images.guildmagesforum.tw/posts/FIN-FCA/cd07aa99631f.webp)
 
-![](https://i.meee.com.tw/ZOFPATG.webp)
+![](https://images.guildmagesforum.tw/posts/FIN-FCA/2b19ac375d31.webp)
 
-![](https://i.meee.com.tw/NrtPU8h.webp)
+![](https://images.guildmagesforum.tw/posts/FIN-FCA/e05884516922.webp)
 
 <p class="text-center"><a class="small">圖片的解析度有點糊，接著到評分內容來看看細節吧！</a></p>
 

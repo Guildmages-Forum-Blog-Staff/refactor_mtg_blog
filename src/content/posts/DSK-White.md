@@ -42,12 +42,12 @@ excerpt: "歡迎來到暮碑邸，這裡有令人躁狂的詭異景象、祈求�
 
 
 <!---3--->
-![3](https://i.imgur.com/cRR6EVh.png)
+![3](https://images.guildmagesforum.tw/posts/DSK-White/3ba1c984fdfc.webp)
 分數：3.0
 評語：價值主要在右邊的門，白綠生還（survival）專用並給全員偽警戒、而這在紅白色組中攻防一體也相當重要；至於黑白、藍白中的價值較低，就比較不建議使用。左邊給生物咒語召集算是個額外選項，應該還是給白綠色組的補強，沒開也無妨。
 
 <!---4--->
-![4](https://i.imgur.com/CM60KqJ.png)
+![4](https://images.guildmagesforum.tw/posts/DSK-White/7c0f0edf5a4e.webp)
 分數：4.0
 評語：早早登場，每回合進攻後都多一隻 1/1 增加場面壓力很有效率；中後期解鎖另一邊全家打應該就差不多贏了。
 
@@ -115,7 +115,7 @@ excerpt: "歡迎來到暮碑邸，這裡有令人躁狂的詭異景象、祈求�
 
 
 <!---15--->
-![15](https://i.imgur.com/8CNJzGk.png)
+![15](https://images.guildmagesforum.tw/posts/DSK-White/d4227e087ba9.webp)
 分數：2.5
 評語：這張隔間類似把兩張 C 卡的咒語做成結界，來讓主題有更多的可用牌；也正是因為如此，基本上這是一張藍白色組才會比較想用的牌，其他帶白色組終就是一張普通的填充物。
 
@@ -238,7 +238,7 @@ excerpt: "歡迎來到暮碑邸，這裡有令人躁狂的詭異景象、祈求�
 
 
 <!---34--->
-![34](https://i.imgur.com/pnAXAs1.png)
+![34](https://images.guildmagesforum.tw/posts/DSK-White/eb5367b9ec9c.webp)
 分數：3.0
 評語：四費的結界可以穩定讓一隻生物攻擊時放豆就很厲害了，有需要的話，還可以開另一邊的門把中小生物拉回來，相當實用。
 

@@ -36,7 +36,7 @@ CDA最常見於定義一個生物的力量/防禦力，當然CDA可以做到的�
 
 好比說[塔莫耶夫](https://scryfall.com/card/mm3/141/tarmogoyf)&[莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)右下角定義身材的「 _ 」就是典型的例子。另外因為正常卡面使用的「 _ 」符號，在這網站語法中是有特殊功能的字元，為了避免出現顯示Bug，後面撰文時改用「⭐」這個星星符號取代。
 
-![封面](https://i.imgur.com/jpdGWAx.jpg)
+![封面](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/6003922717fd.webp)
 
 以[莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)為例，讓我們來檢查看看604.3檢查它的異能時表現如何。
 
@@ -57,7 +57,7 @@ CDA最常見於定義一個生物的力量/防禦力，當然CDA可以做到的�
 
 除了最常見的定義身材外，CDA也有可能定義一個物件的類別或顏色，好比說化形&虛色：
 
-![CDA](https://i.imgur.com/173DmIr.jpg)
+![CDA](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/a87155b54069.webp)
 
 > [覆面破壞者](https://scryfall.com/card/khm/184/masked-vandal)：化形（此牌是所有生物類別）。
 > [荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)：虛色（此牌沒有顏色）。
@@ -73,7 +73,7 @@ CDA最常見於定義一個生物的力量/防禦力，當然CDA可以做到的�
 
 ### CDA基礎案例
 
-![CDA](https://i.imgur.com/732d4XC.jpg)
+![CDA](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/a954ce81cf11.webp)
 
 > [嚴肅斥責](https://scryfall.com/card/ltr/71/stern-scolding)：反擊目標力量或防禦力等於或小於2的生物咒語。
 > [塔莫耶夫](https://scryfall.com/card/mm3/141/tarmogoyf)：塔莫耶夫的力量等同於所有墳墓場中牌的牌張類別數量，其防禦力等同於該數量加1。
@@ -83,21 +83,21 @@ CDA最常見於定義一個生物的力量/防禦力，當然CDA可以做到的�
 
 但是塔莫耶夫就不同了，因為CDA在任何區域都會生效，即使是在堆疊上也不例外，因此只要墳場的牌張類別數夠多，塔莫耶夫就能逃離嚴肅斥責的射程。假設你施放塔莫耶夫時墳場的牌張類別只有瞬間&地2種（⭐=2），這時塔莫耶夫的身材特徵是2/3，嚴肅斥責可以以塔莫耶夫為目標施放，但你可以回應它循環一張[街道鬼魂](https://scryfall.com/card/tsr/141/street-wraith)，往墳場多填充一個生物類別的牌，這麼一來嚴肅斥責結算時發現塔莫耶夫是個3/4的生物咒語，便會因為規則反擊失效。
 
-![備牌](https://i.imgur.com/qMTHEWc.jpg)
+![備牌](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ea8b0542fb49.webp)
 
 > [彩華祈願](https://scryfall.com/card/tsr/253/glittering-wish)：你可以從遊戲外選擇一張由你擁有的多色牌，並將它置於你手上。將彩華祈願放逐。
 > [鎢拉莫廢除體](https://scryfall.com/card/bfz/207/ulamogs-nullifier)：虛色（此牌沒有顏色）。
 
 上面也說了，CDA的生效範圍甚至包含了遊戲外，通常遊戲外就等同備牌。鎢拉莫廢除體雖然施放費用上有藍&黑色費用，正常來講是張多色牌，但因為虛色異能把它重新定義成了無色牌，因此如果你想用彩華祈願從備牌拿一張鎢拉莫廢除體是做不到的。
 
-![涅司羅](https://i.imgur.com/nXGUQdK.jpg)
+![涅司羅](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/3ba1f8870bb2.webp)
 
 > [空境禍害](https://scryfall.com/card/znr/122/scourge-of-the-skyclaves)：空境禍害的力量和防禦力各等同於20減去玩家中總生命最高者的數值。
 > [奪命霸獅涅司羅](https://scryfall.com/card/iko/197/nethroi-apex-of-death)：每當此生物合變時，將任意數量的目標生物牌從你的墳墓場移回戰場，且這些牌的力量總和須等於或小於10。
 
 關於CDA在任何區域生效還有個很有趣的例子，空境禍害定義身材的能力同屬CDA，意味著它會在墳場生效，並且這個⭐是可以降到負數的，假設現在玩家中總生命最高者的數值是40（你們可能正在打一場EDH），那麼空境禍害經過CDA定義出來的身材就是-20/-20，當奪命霸獅涅司羅觸發合變異能要從墳場挖力量總合小於等於10的生物時，空境禍害會拿-20的數值去做加法，所以你可以挖出一個空境禍害+一票其他力量總合小於等於30的生物。
 
-![失去異能](https://i.imgur.com/jeyt0rj.jpg)
+![失去異能](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ef71fd7d06cc.webp)
 
 > [暗渠宿敵](https://scryfall.com/card/vow/195/cultivator-colossus)：
 > 於暗渠宿敵進戰場時，選擇一位玩家。
@@ -110,14 +110,14 @@ CDA最常見於定義一個生物的力量/防禦力，當然CDA可以做到的�
 
 此外CDA也是一種異能，會受失去異能的效應影響，假設暗渠宿敵目前在場上是個5/5，此時褪除武裝進場，暗渠宿敵會因為失去CDA而成為0/0，然後直接死去，如果反過來是場上已經有褪除武裝，暗渠宿敵再進場也一樣，暗渠宿敵會以一個0/0進場然後立刻死去。至於塔莫耶夫的情況稍微好一點，它的防禦力是⭐+1，即使失去異能防禦力也還有1，不至於當場自爆。
 
-![倒楣鬼](https://i.imgur.com/a0CJpci.jpg)
+![倒楣鬼](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/5987ea7452e9.webp)
 
 > [莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)：莊嚴獨角兔的力量和防禦力各等同於由你操控的非地永久物數量。
 > [倒楣鬼角色（靈氣）衍生物](https://scryfall.com/card/twoe/17/wicked-cursed)：所結附的生物是1/1。
 
 如果莊嚴獨角兔被貼上了倒楣鬼角色，那麼無論當下⭐是多少，都會成為1/1的身材，這案例的原理解釋會用到Layer，在此可以先記結果就好。
 
-![畫家](https://i.imgur.com/D23n2kG.jpg)
+![畫家](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/beedc96bb49c.webp)
 
 > [畫家僕役](https://scryfall.com/card/p23/1/painters-servant) ：
 > 於畫家僕役進場時，選擇一種顏色。
@@ -138,7 +138,7 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 看完後看不懂這在講三小是正常的，別糾結，直接先看實例再來回頭理解這段規則的意思吧。
 
-![613.3](https://i.imgur.com/4iSaxmS.jpg)
+![613.3](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/f4708ca162af.webp)
 
 > [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)：{2}{U}{B}：將目標生物牌從墳墓場放逐。派出一個衍生物，該衍生物為所放逐之牌的複製品，但它是4/4黑色殭屍。
 > [莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)：莊嚴獨角兔的力量和防禦力各等同於由你操控的非地永久物數量。
@@ -148,7 +148,7 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 甲蟲神的異能屬於 **「為某指定特徵提供一組特定值的複製效應」** ，同時指定了複製後的身材與顏色，因此莊嚴獨角兔的CDA與奧札奇挪移體的虛色都不會被複製，它們會是黑色4/4的生物。
 
-![莫甘達岩畫](https://i.imgur.com/cuniJ5G.jpg)
+![莫甘達岩畫](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/6d546e77af42.webp)
 
 > [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)：{2}{U}{B}：將目標生物牌從墳墓場放逐。派出一個衍生物，該衍生物為所放逐之牌的複製品，但它是4/4黑色殭屍。
 > [莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)：莊嚴獨角兔的力量和防禦力各等同於由你操控的非地永久物數量。
@@ -158,7 +158,7 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 正常的莊嚴獨角兔有著CDA，這也是異能的一種，所以無法適用莫甘達岩畫的加成效應，但假設你用甲蟲神派出了莊嚴獨角兔的4/4黑色殭屍Token，因為失去了CDA，他會被莫甘達岩畫判定為沒有異能的生物，因此+2/+2。
 
-![707.9d](https://i.imgur.com/wO8FKb9.jpg)
+![707.9d](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/18a02cfc0bf2.webp)
 
 > [覆面破壞者](https://scryfall.com/card/khm/184/masked-vandal)：化形（此牌是所有生物類別）。
 > [璃池擬態妖](https://scryfall.com/card/znr/60/glasspool-mimic-glasspool-shore)：你可以使璃池擬態妖當成任一由你操控的生物之複製品來進入戰場，但它額外具有「變形獸／浪客」此兩個類別。
@@ -173,7 +173,7 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 要說搞人的規則怎麼能不提合變呢？
 
-![合變](https://i.imgur.com/x0nthvt.jpg)
+![合變](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/9b0209638dbd.webp)
 
 > [林鼠群](https://scryfall.com/card/sld/35/pack-rat)：林鼠群的力量及防禦力各等同於由你操控的老鼠之數量。
 > [護崽慈獅](https://scryfall.com/card/iko/7/cubwarden)：合變{2}{W}{W}
@@ -187,7 +187,7 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 如果你場上還有其他老鼠，使的合變後無論誰在上都不至於變成0/0自爆，現在對這個生物施放驚人成長，它會暫時性的成為藍色4/4生物，因為這也不是複製效應，CDA只是功能暫時被蓋住了，並不會失去這個異能，驚人成長的效應結束時它就會變回⭐/⭐的生物了。
 
-![合變](https://i.imgur.com/hF85B2K.jpg)
+![合變](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ecb4b8f8802a.webp)
 
 > [莊嚴獨角兔](https://scryfall.com/card/woe/25/regal-bunnicorn)：莊嚴獨角兔的力量和防禦力各等同於由你操控的非地永久物數量。
 > [悼輓蝙蝠](https://scryfall.com/card/iko/84/dirge-bat)：合變{4}{B}{B}
@@ -199,7 +199,7 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 ### 看起來很像CDA的格蕊斯
 
-![格蕊斯](https://i.imgur.com/C5CGUXq.jpg)
+![格蕊斯](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/5d725cddbeaf.webp)
 
 > [飢潮格蕊斯](https://scryfall.com/card/mh2/202/grist-the-hunger-tide)：只要飢潮格蕊斯不在戰場上，它便額外是1/1昆蟲生物。
 > [集晶流漿烏墨理](https://scryfall.com/card/mul/62/umori-the-collector)：行侶～你起始套牌中各非地牌之間均具有共通的牌張類別。
@@ -220,4 +220,4 @@ CDA在處理上最為麻煩的一點，就是遇到修改特徵的複製效應�
 
 Layer系列專欄的下一期我們將會介紹時間印記（Timestamp），還請各位乘客繫好安全帶，從下期開始的規則將會切入與Layer系統更加密切相關的領域。
 
-![Next](https://i.imgur.com/7T2hjnV.jpg)
+![Next](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/fc607a4d6a11.webp)

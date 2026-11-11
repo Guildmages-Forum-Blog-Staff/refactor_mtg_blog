@@ -16,7 +16,7 @@ categories:
 
 Foundation 基石構築到底有哪些牌？跟以往一般的核心系列有什麼差別呢？是舊瓶裝新酒嗎？透過這篇文章，希望可以讓讀者進一步領略到 Foundation 基石構築（FDN）將是一個多麼具有衝擊、且富含變革意味的系列，讓我們一起來看看吧！
 
-![](https://i.imgur.com/vOe19f1.jpeg)
+![](https://images.guildmagesforum.tw/posts/Standard-Crushing-by-FDN/356a60c25efe.webp)
 
 ## Foundation 裡面有什麼？
 
@@ -105,7 +105,7 @@ Foundation 基石構築到底有哪些牌？跟以往一般的核心系列有什
 
 #### 9. 三費非傳奇的種族領主們
 
-![領主們](https://i.imgur.com/xyA9cMA.jpeg)
+![領主們](https://images.guildmagesforum.tw/posts/Standard-Crushing-by-FDN/66dbf152c1e5.webp)
 
 由於性質類似都是三費、非傳奇、具種族的領主效果（*由你操控的其他該種族生物 +1/+1*）的生物，請容我用一張牌的欄位一同介紹這五張。這五張領主中，黑色的 {% mtgpick "fdn" 521 tooltip=true %} 對應的殭屍與骷髏妖、紅色的 {% mtgpick "fdn" 537 tooltip=true %} 對應鬼怪、綠色的 {% mtgpick "fdn" 219 tooltip=true %} 則對應妖精。除了骷髏妖以外，其他三種種族都是 MTG 的長青種族，也有不少的部族支持者，相信他們的就業機會不會少，至少會有熱心的玩家幫他們尋找出路。
 
@@ -117,7 +117,7 @@ Foundation 基石構築到底有哪些牌？跟以往一般的核心系列有什
 
 #### 10. 部分剋色牌
 
-![剋色牌們](https://i.imgur.com/gdtf7Qk.jpeg)
+![剋色牌們](https://images.guildmagesforum.tw/posts/Standard-Crushing-by-FDN/c1c26bbaa8ac.webp)
 
 最後張牌的欄位，我猶豫了很久，因為仍有許多牌有機會在標準環境掀起一場風浪，但與上面「基石」的定義相差甚遠。而當我檢視到這些剋色牌們（單一色針對敵對兩色的 haters），我心想，就是它們了！
 
@@ -133,7 +133,7 @@ Foundation 裡重印的這些剋色牌來自不同的核心系列：
 
 別忘了，在還沒退標準的 MOM 系列中，也存在以下的剋色牌可作為備牌，一比較後就知道孰強孰弱了。
 
-![MOM剋色牌們](https://i.imgur.com/Z8Fwuwv.jpeg)
+![MOM剋色牌們](https://images.guildmagesforum.tw/posts/Standard-Crushing-by-FDN/16045245f67c.webp)
 
 
 以上內容僅為我個人獨斷列出對未來標準賽制具有直接、或強大的重要單卡，我也預期在接下來的五年中會持續地看到它們。當然， MTG 會持續進化，這一篇也只是現在的預測，還是需要保持開放、並持續觀察環境的變動，以及新系列帶來的化學反應。

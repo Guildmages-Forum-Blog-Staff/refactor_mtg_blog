@@ -66,13 +66,13 @@ excerpt: "Level One: Sequencing"
 
 許多牌同時屬於多個類別。[苦澀啟示](https://scryfall.com/card/ktk/65/zht/%E8%8B%A6%E6%BE%80%E5%95%9F%E7%A4%BA-(bitter-revelation))和[荒漠式外交](https://scryfall.com/card/frf/67/zhs/%E8%8D%92%E6%BC%A0%E5%BC%8F%E5%A4%96%E4%BA%A4-(diplomacy-of-the-wastes))既能給你更多資訊，又會迫使你做出決定。在這種情況下，你應該考慮這張牌的這兩個面向。你應該為了獲取資訊以便做出其他決定而更早施放[荒漠式外交](https://scryfall.com/card/frf/67/zhs/%E8%8D%92%E6%BC%A0%E5%BC%8F%E5%A4%96%E4%BA%A4-(diplomacy-of-the-wastes))嗎？還是你應該先採取其他行動，以便在最終看到對手手牌時做出最明智的決定<sup>[註1](#quote1)</sup>？這一切都取決於當下的局勢。
 
-![](https://i.meee.com.tw/jnCNGYx.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Sequencing/500da3156200.webp)
 
 ### 範例 1
 
 讓我們回到涉及[醒覺熊性](https://scryfall.com/card/ktk/129/zht/%E9%86%92%E8%A6%BA%E7%86%8A%E6%80%A7-(awaken-the-bear))的範例。你已經重置、抽牌，並面臨以下的戰場狀態：
 
-![](https://i.meee.com.tw/wyPyzVh.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Sequencing/396dde1035c0.webp)
 
 你的手牌是沼澤、[醒覺熊性](https://scryfall.com/card/ktk/129/zht/%E9%86%92%E8%A6%BA%E7%86%8A%E6%80%A7-(awaken-the-bear))和[苦澀啟示](https://scryfall.com/card/ktk/65/zht/%E8%8B%A6%E6%BE%80%E5%95%9F%E7%A4%BA-(bitter-revelation))，而對手手中沒有牌。
 
@@ -95,7 +95,7 @@ excerpt: "Level One: Sequencing"
 
 考慮一個稍微不同的情境：
 
-![](https://i.meee.com.tw/9OcLLpo.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Sequencing/f73a7db56981.webp)
 
 你已經重置並抽牌，你的手牌包含樹林、[羅剎秘言](https://scryfall.com/card/ktk/84/zht/%E7%BE%85%E5%89%8E%E7%A7%98%E8%A8%80-(rakshasas-secret))、[醒覺熊性](https://scryfall.com/card/ktk/129/zht/%E9%86%92%E8%A6%BA%E7%86%8A%E6%80%A7-(awaken-the-bear))和[清空地穴](https://scryfall.com/card/ktk/72/zhs/%E6%B8%85%E7%A9%BA%E5%9C%B0%E7%A9%B4-(empty-the-pits))。對手手中有三張牌。
 
@@ -117,7 +117,7 @@ excerpt: "Level One: Sequencing"
 
 或許最好的例子來自變身（morph）生物。如果你場上有四塊地，並用變身生物攻擊另一隻 2/2 生物，你是在暗示有咒語要施放、或是想交換生物。但如果你在攻擊前下了第五塊地，可能性就成倍增加！現在，從對手的角度來看，你的變身生物可能是[雪角獸騎兵](https://scryfall.com/card/ktk/201/zht/%E9%9B%AA%E8%A7%92%E7%8D%B8%E9%A8%8E%E5%85%B5-(snowhorn-rider))、[冰川伏擊客](https://scryfall.com/card/ktk/41/zht/%E5%86%B0%E5%B7%9D%E4%BC%8F%E6%93%8A%E5%AE%A2-(glacial-stalker))或十幾種不同的東西。透過擴增戰鬥中可能發生的情境，你向對手隱藏了資訊。
 
-![](https://i.meee.com.tw/cMEjrM3.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Sequencing/7b681f013e0a.webp)
 
 戰鬥前下地也有助於你應對意外。你可能會為了隱藏資訊而扣著地牌，但若對手對你的戰鬥技巧施放[頑固拒斥](https://scryfall.com/card/ktk/56/zht/%E9%A0%91%E5%9B%BA%E6%8B%92%E6%96%A5-(stubborn-denial))，你就會讓自己陷入災難！
 

@@ -209,7 +209,7 @@ Marvel Universe（[MAR](https://scryfall.com/sets/mar)）作為主系列 [MSH](h
  評語：因應這系列有不少強力神器，有機會一換二的價值就體現出來了。
         
  
-![](https://i.meee.com.tw/C4PbXHQ.png)
+![](https://images.guildmagesforum.tw/posts/MSH-MAR/1494f4a1dd4c.webp)
  分數：2.5
  評語：同時出三個版本有更高機會拿到，是一張可以保證保住全場的低費咒語。
  

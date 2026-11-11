@@ -24,7 +24,7 @@ categories:
 
 然而興奮之餘，還是要體認到伊捷色組所獲得的補強比我們更強勢（畢竟彈性和瞬間時機等同於強度）。懷抱著這個意識，才有機會在構築和對局的過程中找出通往勝利的路，否則真的很容易被伊捷高效的瞬間牌直接擺平 ~~對我就是在說[粹麗護符](https://scryfall.com/card/sos/211/prismari-charm)~~ 。
 
-![](https://i.meee.com.tw/eVjC5VP.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-SpiderMan-Midrange/b837126fff54.webp)
 
 詳細構築表[在此](https://www.mtggoldfish.com/deck/7819746#paper)，歡迎先行感受一下和過去有何差異。
 
@@ -114,7 +114,7 @@ categories:
 
 ## 結語
 
-![](https://i.meee.com.tw/W649qyQ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-SpiderMan-Midrange/b479a7dbfed1.webp)
 >店冠賽獎品包開出兩張面紅耳赤的報社編輯，提醒本宅該收心好好工作了。
 
 原本還想要為各位分析一下本套牌對於環境內各構築的勝利窗口，無奈最近的休閒時間實在不多，所以這部分就交給各位讀者自己詮釋吧，只提醒在對到控制套牌的時候，尤其需要一個正確的起手給予血量壓力，必須捨棄掉大部分的放指示物抽牌元件，多多仰賴備牌的[狂熱巴洛西](https://scryfall.com/card/eoe/183/frenzied-baloth)和各種掉牌吧。

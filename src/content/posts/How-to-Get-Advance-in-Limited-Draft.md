@@ -16,7 +16,7 @@ authors:
 
 ## 輪抽為什麼困難？
 
-![](https://i.imgur.com/SlBNO1P.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/928fd2001078.webp)
 
 雖然輪抽與現開賽都是限制賽的一部份，但它們在套牌構築的方式上是非常不同的。從組牌目標來看，現開賽是讓你在有限資源中，找出最好的構築方式；輪抽則是透過**一連串有意識的抉擇**，從有限的資源中找出最適合的構築方式。
 
@@ -46,7 +46,7 @@ authors:
 
 ## 如何掌握輪抽的獲勝關鍵？
 
-![](https://i.imgur.com/XNy45wf.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/cb3ae83a8cfc.webp)
 
 接下來的文章內容將大量使用斑隆洛（Bloomburrow, BLB）限制賽單卡與情境為範例，少部分其他系列為輔；此外也會搭配[17 Lands](https://www.17lands.com/)上整理MTGA上的限制賽數據作為補充來為讀者進行解說。文章中附上的其他連結，也歡迎讀者去嘗試使用或延伸閱讀。
 
@@ -79,7 +79,7 @@ authors:
 
 如何理解環境的速度是快是慢呢？這件事乍聽起來挺難的，但在目前大數據的時代，以及受益於像[17 Lands](https://www.17lands.com/)這類可以統計MTGA上對局數據的工具，我們這邊採用17 Lands上從2023年九月到目前為止，MTG發售的限制賽系列中的[Format Speed](https://www.17lands.com/format_speed)數據，來做一個不專業的分析：
 
-![](https://i.imgur.com/EbiSm9i.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/0b02e4354b6f.webp)
 
 > 1. 上圖的橫軸是對局中先手的勝率，縱軸是平均獲勝的回合數；灰色圖示是MTGA上Premier Draft （輪抽，BO1）的平均數據，而紅色圖示則是MTGA上Sealed （現開，BO3）。
 > 2. 選入的系列則包含了WOE、LCI、MKM、OTJ、以及BLB這五個標準系列；以及MH3這個近代系列作為對比。
@@ -92,7 +92,7 @@ authors:
 
 強度是一個主觀的概念，但從使用單卡的平均勝率反推，即可賦予每一張單卡客觀的數據。這邊我們一樣先使用17 Lands上[BLB card data comparison](https://www.17lands.com/card_data_comparison)的資訊來做一個分析：
 
-![](https://i.imgur.com/vIPKIJd.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/f402fdd6cc09.webp)
 
 > 1. 上圖的橫軸是對局中起手就有該牌的勝率，縱軸是對局中抽到該牌的勝率，越偏右上角走的牌張客觀強度越高，基本上就是我們常說到的炸彈（Bomb）；相對的，越往左下角走則強度越低，基本上就算是廢牌（Dud）的程度。
 > 2. 圖上每個點都代表一張牌，顏色上除了顯而易見的藍、黑、紅、綠色以外，土黃色在這邊是白色、灰色是無色、而多色則是以紫色來呈現。另一方面，各點的大小也有其意義，越大則代表在該檢索期間的使用次數越多。
@@ -105,7 +105,7 @@ authors:
 
 基於上個小節對於主題、混色友善程度、速度、強度這四個項目的理解，在你參加一場輪抽前，你可能已經會有一些簡單的認識，但色組的強弱勢這類的資訊，我們要怎麼去得知呢？
 
-![](https://i.imgur.com/sn7Tjjt.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/75cb9d39361b.webp)
 
 這邊再次引用 17 Lands 上 [BLB Deck Color Data](https://www.17lands.com/deck_color_data)的統計數據，上圖是BLB雙色色組所對應的勝率，我們可以看到白綠色組的勝率最高，是58.0%，而紅藍色組的勝率最低，僅有50.4%。然而，這意味著白綠超強必須拼了命加入、紅藍最弱我們千萬別碰嗎？筆者認為未必。
 
@@ -154,7 +154,7 @@ authors:
 
 ### 抉擇的最佳化（Optimization）：選牌策略
 
-![](https://i.imgur.com/wtE8RgE.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/8d19a84f656f.webp)
 
 以下幾種選牌策略之所以提出來，只是為了讓讀者有一些可參照的「形」，並了解各自的優缺點。當你覺得這些策略行不通時，別擔心，策略就是用來打破的，打破後你將會發現別有洞天！
 
@@ -194,4 +194,4 @@ authors:
 
 最後，請容我引述武術巨星李小龍的哲學來呼應本小結的題語：「Be Water」，似水無形，這是輪抽最好的心態；而以這樣的心態不斷地練習、隨著一場場輪抽的流動去感受，進而跳脫規則的束縛，你將自由且無入而不自得。
 
-![](https://i.imgur.com/xomtRcH.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Draft/f14e301d9b71.webp)

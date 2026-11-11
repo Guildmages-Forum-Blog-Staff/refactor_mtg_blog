@@ -246,7 +246,7 @@ MAGIC是一個結合象棋遊戲特性的卡牌遊戲，生物就是你的棋子
 
 因為BLB只有一張雙色主題U卡，為了增加主題的特色，我又給每個色組再多加雙色U卡
 
-![](https://i.meee.com.tw/g0OnCDR.jpg)
+![](https://images.guildmagesforum.tw/posts/What-is-Cube/f62844ed2f03.webp)
 
 * 紅白：這個色組喜歡被異能咒語指定，所以我想到了[MKM](https://scryfall.com/sets/mkm)的 {% mtglink "Form a Posse" %} 產生一堆傭兵來增強紅白英勇 
 * 紅黑：想到強攻就不會忘記[BRO](https://scryfall.com/sets/bro)的 {% mtglink "Junkyard Genius" %}

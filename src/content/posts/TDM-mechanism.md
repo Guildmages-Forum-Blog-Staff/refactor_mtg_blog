@@ -13,7 +13,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 ---
 
 ## 單色混血魔法力
-![Hybrid Mana](https://i.meee.com.tw/xy7pUGw.png)
+![Hybrid Mana](https://images.guildmagesforum.tw/posts/TDM-mechanism/4735831b48f5.webp)
 
 混血魔法力再度出現，不過這次所混的是比較少見的組合。本系列的單色混血魔法力符號，可以選擇用 2 點任意色、或是 1 點指定色來支付，而這種混血魔法力，無論你選擇用哪邊支付，在計算魔法力值時，都會使用較高的那邊來計算。
 
@@ -23,7 +23,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 續戰（Endure）
-![Endure](https://i.meee.com.tw/MySpsZV.png)
+![Endure](https://images.guildmagesforum.tw/posts/TDM-mechanism/1eabbe92a201.webp)
 
 代表色組：阿布贊（黑白綠）
 
@@ -35,7 +35,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 動員（Mobilize）
-![Mobilize](https://i.meee.com.tw/D9acJjW.png)
+![Mobilize](https://images.guildmagesforum.tw/posts/TDM-mechanism/37f71c40f2ce.webp)
 
 代表色組：瑪爾都（紅黑白）
 
@@ -49,7 +49,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 連咒（Flurry）
-![Flurry](https://i.meee.com.tw/wbiIDHH.png)
+![Flurry](https://images.guildmagesforum.tw/posts/TDM-mechanism/f6f5aaf02f20.webp)
 
 代表色組：潔斯凱（紅藍白）
 
@@ -62,7 +62,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 復新（Renew）
-![Renew](https://i.meee.com.tw/NeKTq08.png)
+![Renew](https://images.guildmagesforum.tw/posts/TDM-mechanism/a6da6fc58351.webp)
 
 代表色組：蘇勒台（藍黑綠）
 
@@ -72,7 +72,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 諧頌（Harmonize）
-![Harmonize](https://i.meee.com.tw/sv0fB36.png)
+![Harmonize](https://images.guildmagesforum.tw/posts/TDM-mechanism/65b9773c888c.webp)
 
 代表色組：鐵木爾（紅綠藍）
 
@@ -85,7 +85,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 請援（Behold）
-![Behold](https://i.meee.com.tw/HiUxCAI.png)
+![Behold](https://images.guildmagesforum.tw/posts/TDM-mechanism/5be0729a63c4.webp)
 
 請援是一個關鍵字動作，請援代表從你手上展示一張龍牌，或是選擇一個自己操控的龍（只需選擇，不會指定為目標）。
 
@@ -95,7 +95,7 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 
 
 ## 預兆（Omen）
-![Omen](https://i.meee.com.tw/7tyfxfK.png)
+![Omen](https://images.guildmagesforum.tw/posts/TDM-mechanism/a4ad191eadf8.webp)
 
 預兆非常近似於歷險，甚至連牌框美術風格都相差無幾，但兩者是不同的機制！以後看到這類牌張時需仔細分辨類別欄差異。
 
@@ -123,4 +123,4 @@ excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 5月16日～5月22日 - 指揮官歡慶會
 
 
-![END](https://i.meee.com.tw/ADXDUpk.png)
+![END](https://images.guildmagesforum.tw/posts/TDM-mechanism/19e4aec1c75f.webp)

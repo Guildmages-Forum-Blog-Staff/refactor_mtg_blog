@@ -49,7 +49,7 @@ excerpt: "打開補充包，你也能成為神選之人！"
 
 簡單來說，就是token的位置換成神包慶祝卡，然後其他14張卡位全部升級為閃卡與非閃卡的R／MR卡！
 
-![](https://i.meee.com.tw/dEik5e3.png)
+![](https://images.guildmagesforum.tw/posts/About-Booster-Update-In-2027/a406cf9e0ec3.webp)
 
 每300包聚珍包中會有1包神包，約等於每5箱出現1包。內容如下：
 
@@ -61,7 +61,7 @@ excerpt: "打開補充包，你也能成為神選之人！"
 
 聚珍包神包的變化，則可視為原本各2張閃U／C卡的位置，全部升級成華麗閃卡卡位（foil fancy slot）！碎鑽閃、流光閃、指紋閃……未來也可能出現更多特殊閃卡工藝，都會出現在這裡，而且它們一來就是5張！
 
-![](https://i.meee.com.tw/r4601pr.png)
+![](https://images.guildmagesforum.tw/posts/About-Booster-Update-In-2027/88536063d5e4.webp)
 
 ## 對店家的影響
 
@@ -89,7 +89,7 @@ excerpt: "打開補充包，你也能成為神選之人！"
 
 等到新系列實際上市後，我們才能更清楚這次調整對開包體驗、收藏市場與店家營運的真正影響。但至少目前可以確定的是：這並不是一項所有人都無條件受益的「雙贏」改動。
 
-![](https://i.meee.com.tw/s2BQYPu.png)
+![](https://images.guildmagesforum.tw/posts/About-Booster-Update-In-2027/2734f77f7e20.webp)
 
 <sup><span id="quote1">**註1：**</span>然而，在使用售前現開盒的比賽中（售前現開、以及部分店家舉辦的聯盟賽等），其補充包來源是打散的，這代表神包的出現機率更不可控，可能比千分之一更高或更低。</sup>
 <sup><span id="quote2">**註2：**</span>個人推測，閃卡貼膜製程應該不會改變，僅需調整每次印刷時輸出的排版（layout）。</sup>

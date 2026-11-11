@@ -33,7 +33,7 @@ A：當時是近代賽，我所選用的套牌是紅白能量。
 
 會選擇這套牌的最主要原因，是因為我個人在MITQ也都打這套，雖然預賽到正賽間經歷了禁牌，某種程度算是不太一樣的套牌，但最終我還是選擇熟悉度較高的紅白能量，也幸運拿下了MIT第八輪的冠軍。
 
-![](https://i.meee.com.tw/LI8zeXO.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/349becffd2d4.webp)
 > 仕峰大大與MIT冠軍獎盃的合照英姿。在[Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler)橫空出世以前，紅白能量一直都是近代中強勢的套牌，也是仕峰大大當時所選擇的好夥伴。在和好友進行完冠亞賽的酣戰後，留下了這寶貴的一張照片。
 
 #### Q3：每個人在進步的過程中都一定被某人啟蒙過，您是否還記得自己接觸這款遊戲的原點？是在什麼情況下與魔法風雲會邂逅的呢？
@@ -52,7 +52,7 @@ A：如同上一題的回答，對我而言，新系列的插圖跟過去相比�
 
 A：講到這個真的好興奮啊XD，2018年的時候，曹公和另兩位南部玩家邀請我一起出國征戰。因為當時恰逢魔法風雲會25週年，新加坡有場GP賽事可以參加。我們四人參加了那場賽事的會外賽，我有幸打進最後的輪抽，也順利奪下了該場賽事的[Mox Jet](https://scryfall.com/card/lea/262/mox-jet)。
 
-![](https://i.meee.com.tw/MBHOFeC.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/d17b95bf1ea6.webp)
 >分享仕峰在新加坡GP勇奪[Mox Jet](https://scryfall.com/card/lea/262/mox-jet)的帥氣照片。可惜當時官方提供的像素不很清晰，若有讀者朋友有當時的照片，歡迎聯繫魔風集會所或仕峰本人，供我們更新及留念。
 
 然後我還記得第一次拆卡包時，開到了[巨形翡翠石](https://scryfall.com/card/5ed/381/jade-monolith)，實在是太爛了所以印象深刻XD。
@@ -86,7 +86,7 @@ A：體力吧XD。我認為體力不好的話，觀念跟經驗就沒辦法發�
 
 A：2018年去完新加坡GP後，下一個月的千葉GP我就沒有辦法參加了。結果去了的朋友偶然遇到[泱泱](https://www.instagram.com/lynnwu0219/?hl=zh-tw)，然後還請她幫我錄了一段加油的影片XD，這件事在我心裡是真的滿感動的。
 
-![](https://i.meee.com.tw/LzCfnCa.png)
+![](https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/904f31d63149.webp)
 > 感謝世峰大大分享珍藏XD，筆者訪問完以後就拜見到這段影片，果然是會讓人感到ドキドキ（怦然心動）的回憶呀。
 
 #### Q11：可以列舉數位對您產生影響的玩家嗎？並說說您從他們身上學到了什麼？

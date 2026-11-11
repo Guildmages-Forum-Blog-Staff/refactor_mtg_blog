@@ -22,7 +22,7 @@ excerpt: "鼠勾以捏"
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/6991116#paper)
-![DeckListPicture](https://i.meee.com.tw/LjASqdP.png)
+![DeckListPicture](https://images.guildmagesforum.tw/posts/Standard-Gruul-Aggro/b036121255d5.webp)
 
 ### 正編單卡選擇及介紹
 

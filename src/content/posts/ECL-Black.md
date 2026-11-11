@@ -132,7 +132,7 @@ excerpt: "+1/+1指示物？那是什麼？總之跟我們黑色不熟。"
 評語：不錯的續戰生物，而且在看種族的此系列，化形（Changeling）就是個很不錯的異能。
         
 
-![105](https://i.meee.com.tw/mdDifL8.png)
+![105](https://images.guildmagesforum.tw/posts/ECL-Black/cda14437bc19.webp)
 分數：3.5
 評語：紅黑必拿，然而效果還沒強到會為了他轉色，有沒有和色組主題Key Card的配合會很大程度影響戰局。正常狀況下應該是兩面翻來翻去，觸發撿墳。跟上面的結界一樣，有沒有這張的紅黑色組會是一個分水嶺。
         

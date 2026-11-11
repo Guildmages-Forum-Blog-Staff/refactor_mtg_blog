@@ -95,12 +95,12 @@ excerpt: "巫術瞬間滿天飛，怎麼可以不邀請知名魔法師做為特�
 
 
 <!---慢地統一評分--->
-![](https://i.meee.com.tw/7tEm0aH.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-Colorless/d2b3c42e440f.webp)
 分數：3.0
 評語：雙色系列，而且還有聚輝（Converge）主題的環境下，雙色地的優先等級會再提升一點。
 
 <!---雙色躺地統一評分--->
-![](https://i.meee.com.tw/eOZ1VvR.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-Colorless/6bcd4ae638f1.webp)
 分數：3.0
 評語：跟雙色慢地的評價一樣，在這系列的優先等級也會略高一點；此外，作為後期對看時的濾牌引擎也很不錯。
 

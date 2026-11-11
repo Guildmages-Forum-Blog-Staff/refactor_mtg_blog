@@ -17,35 +17,35 @@ excerpt: "「想回到洛溫～試著讓故事繼續～至少呼魂要用兩費�
 
 ## 色組主題
 
-![ECL輪抽五色組卡圖](https://i.meee.com.tw/BCakyBq.jpg)
+![ECL輪抽五色組卡圖](https://images.guildmagesforum.tw/posts/ECL-Multicolors/26397927c95f.webp)
 
 ### <span style="color:#C3B270">白</span><span style="color:#006DB3">藍</span>人魚 — （Merfolk）
 
-![](https://i.meee.com.tw/A6th6AT.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Multicolors/1fe7b2cc1ccc.webp)
 
 人魚主題擅長運用 **召集（Convoke）** 機制來橫置生物、並因此 **觸發人魚橫置後的效果** 。 {% mtglink "Merrow Skyswimmer" %} 只要你前幾回合有施放人魚，就有機會提早進場，並給予更多的生物協助你後續召集。 {% mtglink "Deepchannel Duelist" %} 本身的領主（其他同族生物獲得+1/+1）效果，除了增強你場上的人魚們外，更能重置目標人魚來執行額外的召集、或橫置的效果。 {% mtglink "Wanderwine Farewell" %} 這張人魚親緣（Kindred）巫術，你有越多人魚就越容易施放，且可以派出更多的人魚。而 {% mtglink "Tributary Vaulter" %} 作為一張C卡的人魚，成為橫置時就會有額外的效果，類似這樣的人魚牌在白藍雙色中還有很多。
 
 ### <span style="color:#808080">黑</span><span style="color:#AF2321">紅</span>鬼怪 — （Goblins）
 
-![](https://i.meee.com.tw/0ErVN3j.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Multicolors/15a34a99ee83.webp)
 
 鬼怪主題與 **衰萎（Blight）** 機制互動密切，你需要一些 **便宜的肥料** 來讓你在放上-1/-1指示物、或生物死去中獲取回報。 {% mtglink "Chaos Spewer" %} 作為一張三費3/2的曲線外，如果你有一些肥料則是5/4的超優質體格。 {% mtglink "Boggart Cursecrafter" %} 讓你的肥料死後會化成額外傷害。鬼怪親緣結界 {% mtglink "Boggart Mischief" %} 進場如果做衰萎一，那就能派出兩隻1/1鬼怪做肥料，鬼怪死去後還附帶吸血的效果。最後這張C卡的 {% mtglink "Elder Auntie" %} 則是一帶二的鬼怪肥料。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#C3B270">白</span>潔英 — （Kithkin）
 
-![](https://i.meee.com.tw/BbhFOe8.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Multicolors/a29f300d93b5.webp)
 
 潔英主題鼓勵你 **鋪場** ，許多潔英牌都會 **因為其他生物進場而獲得加成** 。如 {% mtglink "Wary Farmer" %} 可以因為生物進場而回合結束時額外刺探一、或像 {% mtglink "Thoughtweft Lieutenant" %} 在場時，每當有一個潔英進場就能增強你的生物並讓他們獲得踐踏。而潔英親緣結界 {% mtglink "Clachan Festival" %} 進場就派出兩個1/1潔英，中後期費用夠多還可持續作為你的兵工廠。而當潔英數量夠多時，你就能以低廉的費用施放 {% mtglink "Mistmeadow Council" %} 並補充手牌。
 
 ### <span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span>元素 — （Elementals）
 
-![](https://i.meee.com.tw/VHgzJqd.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Multicolors/e80bbf9c5b5e.webp)
 
 元素主題關注 **施放四費以上的咒語** ，別忘了如召集、異彩（Vivid）機制、甚至五張秘稀的呼魂（Evoke）元素牌，他們在施放時有許多都是四費以上，但實際上你有機會在費用較少時就施放他們。像 {% mtglink "Flaring Cinder" %} 、 {% mtglink "Kulrath Mystic" %} 這樣的元素牌，在你施放四費以上咒語時就會有額外的效果，而若 {% mtglink "Twinflame Travelers" %} 也在場則會額外觸發一次。至於元素親緣巫術 {% mtglink "Kindle the Inner Flame" %} 除了本身四費以外，返照的設計還能讓你再用一次，讓你的元素主題能夠持續運作。
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span>妖精 — （Elves）
 
-![](https://i.meee.com.tw/olQdlaT.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Multicolors/3c8edcaf63f1.webp)
 
 妖精主題則 **關注墳場** ，如 {% mtglink "Scarblade Scout" %} 這類的妖精牌都具有自 **磨（Mill）** 的效果，有助於加速填墳，而磨到像 {% mtglink "Stoic Grove-Guide" %} 這樣的牌，即使在墳場還能有額外的資源回報。妖精親緣結界 {% mtglink "Morcant's Eyes" %} 每回合刺探一填墳或讓下一抽變得更好，中後期你甚至可以犧牲他並派出大量的妖精戰士！而 {% mtglink "Morcant's Loyalist" %} 除了作為妖精領主外，死去後甚至還能把妖精牌撿回手上重新利用，甚至親緣的妖精牌也能撿！
 
@@ -178,7 +178,7 @@ excerpt: "「想回到洛溫～試著讓故事繼續～至少呼魂要用兩費�
 分數：2.5
 評語：效果可能很強，但七費做這件是有通常是虧費用的。如果你只翻到一張5費的牌，那概念上你是虧了兩費。那如果運氣很好，翻到1費、3費、6費，這樣可能是賺的。但這取決於你的運氣、還有你對手的套牌強度。如果要使用的話，這張牌允許你這回合可以免費施放那些被放逐的牌，而不是立刻就要使用。所以放逐到康牌，對手如果這回合想用咒語跟你互動，你是可以免費康他的XD
 
-![](https://i.meee.com.tw/Nco01pN.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Multicolors/855f5d2f6b0b.webp)
 分數：3.5
 評語：這五張來自[蝕境（Eclipsed Realms）](https://scryfall.com/card/ecl/263/eclipsed-realms)的五個主打種族的三費混血生物，功能都是進場看牌庫頂4張牌，從中選擇一張對應顏色的基本地類別牌（沒錯，除了基本地外，還可以拿對應類別的電震地！）、或一張該種族牌。由於親緣牌也有帶種族類別，因此如果這四張有對應種族的親緣牌、或化形牌也是可以拿上手的。在合理的種族主題構築中，這些生物的進場異能，絕大多數好於單純盲抽一張牌，符合3.5分的定義。
 

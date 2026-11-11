@@ -21,7 +21,7 @@ categories:
 
 過去Naya Zoo一直是快攻的標誌性套牌之一，利用《[野群拿卡地/Wild Nacatl](https://scryfall.com/card/ala/152/wild-nacatl)》跟《[塔莫耶夫/Tarmogoyf](https://scryfall.com/card/tsr/235/tarmogoyf)》等單卡戰力強、費用低廉的生物，加上直傷和輔助咒語來快速施加壓力、維持場面優勢，並將此優勢延續到中後期。
  
-![時代的眼淚](https://i.meee.com.tw/6BnP7iU.jpg)
+![時代的眼淚](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/dea3a6841e5e.webp)
 <p class="text-center"><a class="small">時代的眼淚</a></p>
 
 不過隨著近代環境的強度膨脹，比Zoo更高效的快攻跟中速漸漸取代它的地位，直到2021年，一個久遠的異能關鍵字再度出現，它就是：[領土（Domain）](https://mtg.fandom.com/wiki/Domain)。
@@ -33,18 +33,18 @@ categories:
 
 《[近代新篇2（MH2）](https://scryfall.com/sets/mh2)》跟《[多明納里亞：眾志成城（DMU）](https://scryfall.com/sets/dmu)》陸續到來，增加了《[骸龍後裔/Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco)》、《[據地卡甫/Territorial Kavu](https://scryfall.com/card/mh2/216/territorial-kavu)》、《[好鬥尼索巴/Nishoba Brawler](https://scryfall.com/card/dmu/174/nishoba-brawler)》等與Domain有關的生物，以及跟Domain無關，但曾經是近代1費生物代表的《[巧手竊猴勒格文/Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)》，再加上《[地脈束縛/Leyline Binding](https://scryfall.com/card/dmu/24/leyline-binding)》以及[依克黎（IKO）](https://scryfall.com/sets/iko)、[新卡佩納（SNC）](https://scryfall.com/sets/snc)帶來擁有三種基本地類別地的[三色循環地](https://mtg.fandom.com/wiki/Cycling_land#Triome_lands)，使得套牌再度出現在近代環境。不過在這個時期，由於缺乏決定性的關鍵單卡，Domain Zoo也僅止於T2列隊頂端徘徊的強度。
  
-![Domain六(?)人組](https://i.meee.com.tw/lnTxYt5.jpg)
+![Domain六(?)人組](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/2ce5f1d416b5.webp)
 <p class="text-center"><a class="small">Domain六（？）人組</a></p>
 
 直到《[卡洛夫莊園謀殺案（MKM）](https://scryfall.com/sets/mkm)》，最重要的一張拼圖出現了：《[十會盟地脈/Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)》，使得套牌可以起手就達成Domain的條件，並在第二回合施放《[骸龍後裔/Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco)》，並讓骸龍自身獲得警戒、辟邪、繫命、先攻與踐踏五種效果，也使得套牌一度來到T1的位置。
 
-![Leyline_v.s_PYP](https://i.meee.com.tw/SsAFcCA.jpg#pic_center)
+![Leyline_v.s_PYP](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/2dd41c14aa49.webp)
 
 <p class="text-center"><a class="small">不過MKM同時也帶來了《挑選毒藥/Pick Your Poison》，真的是應了那句百步之內必有解（？）藥</a></p>
 
 接著在《[近代新篇3（MH3）](https://scryfall.com/sets/mh3)》中，雖然沒有任何Domain的出現，但還是增加了《[焰忿泰坦斐拉革/Phlage, Titan of Fire's Fury](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury)》與《[榮光競技場/Arena of Glory](https://scryfall.com/card/mh3/215/arena-of-glory)》等新成員，使得強度再上層樓。不過因為強度提升沒有別人明顯，如今是在T1列隊中下段徘徊的套牌。
  
-![都已經跟Domain沒關係了](https://i.meee.com.tw/MbQSsBq.jpg)
+![都已經跟Domain沒關係了](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/05eb0492e0f0.webp)
 <p class="text-center"><a class="small">都已經跟Domain沒關係了</a></p>
 
 ## 套牌的優點跟缺點？
@@ -83,13 +83,13 @@ categories:
 ## 套牌列表
 目前Domain Zoo大致分成兩種類型，第一種為傳統型，也就是使用《[頑固拒斥/Stubborn Denial](https://scryfall.com/card/ktk/56/stubborn-denial)》的版本，遵循典型的Zoo策略，用廉價又高攻的生物鋪場施壓，讓這張低費的康牌能更有效地保護場面上的關鍵生物，或干擾對手的關鍵咒語，鞏固場面優勢。
  
-![傳統動物園](https://i.meee.com.tw/lhiKasO.jpg)
+![傳統動物園](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/627a79188d4c.webp)
 <p class="text-center"><a class="small">傳統動物園</a></p>
 
 不過在《[韃契：龍襲風暴環境（TDM）](https://scryfall.com/sets/tdm)》的出現後，開始出現嘗試《[魂魅拒斥/Spectral Denial](https://scryfall.com/card/tdm/58/spectral-denial)》的版本，至於要使用哪種康牌目前看起來是依據個人喜好(~~畢竟這是個沒有人在研究的冷門套牌~~)，不過如果問我，我只有遇到《[幽寂/Solitude](https://scryfall.com/card/mh2/32/solitude)》的時候會特別想念魂魅拒斥，剩下的時候幾乎還是頑固拒斥強一點。
 此外為了彌補貧弱的抽濾能力，最近也開始出現投入《[冬夜故事/Winternight Stories](https://scryfall.com/card/tdm/67/winternight-stories)》的版本。
  
-![《魂魅拒斥》+《冬夜故事》的版本](https://i.meee.com.tw/4TsABrM.jpg)
+![《魂魅拒斥》+《冬夜故事》的版本](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/58b160dd42af.webp)
 <p class="text-center"><a class="small">《魂魅拒斥》+《冬夜故事》的版本</a></p>
 
 
@@ -99,15 +99,15 @@ categories:
 尤其Phlage的部分，如果用的是《托諸記憶》，相當於給對面一發《閃電螺旋/Lightning Helix》然後附贈一個3費6/6，實在太強了。
 不過《漂虛體》的費用實在有點龐大，沒有配合單純當成抽濾使用的效率也不佳，所以已經退出索爾獸構築的行列。
 
-![](https://i.meee.com.tw/fUPqiBg.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/61172239865a.webp)
 
 第三種（？），傳統變體型。其實跟傳統型沒有差太多，就是在自由卡位上塞入各種足夠強的生物，或者足夠強的輔助咒語。比較常見的是《[靈能蛙/Psychic Frog](https://scryfall.com/card/mh3/199/psychic-frog)》跟《[虹彩終局/Prismatic Ending](https://scryfall.com/card/mh2/25/prismatic-ending)》，有些人會帶《[迅咒法師/Snapcaster Mage](https://scryfall.com/card/isd/78/snapcaster-mage)》或近期流行過的《[燦爛新暉柯塔摩斯/Ketramose, the New Dawn](https://scryfall.com/card/dft/209/ketramose-the-new-dawn)》。
 
-![](https://i.meee.com.tw/N9AqoBq.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/b19c775c2f90.webp)
 
 還有一種（？）是藍色動物園，採用《[銳敏/Subtlety](https://scryfall.com/card/mh2/67/subtlety)》、《[反擊咒語/Counterspell](https://scryfall.com/card/mmq/69/counterspell)》、《[否認之力/Force of Negation](https://scryfall.com/card/2x2/50/force-of-negation)》等藍色免費/反擊咒語，牽制對手或盡可能保護生物的存活時間，利用一兩個大型生物決出勝負。這種組法流行在紅藍龍猴盛行的時代，現在因為能量這種費用低廉的生物套牌存在，已經有點式微了。
 
-![](https://i.meee.com.tw/8rv8Cjz.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/a4bad1d313d3.webp)
 
 此外還有像是地脈+龍+[瓦拉庫](https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle)、地脈+龍+[傾曳](https://scryfall.com/card/mh2/292/shardless-agent)之類的變體，族繁不及備載，但跟Zoo的概念相差甚遠，這次就不提了。
 
@@ -123,17 +123,17 @@ categories:
 首先是三色地。
 由於《巧手竊猴勒格文》的出現，一直以來都是《[札苟斯群系/Zagoth triome](https://scryfall.com/card/iko/259/zagoth-triome)》跟《[因達沙群系/Indatha Triome](https://scryfall.com/card/iko/248/indatha-triome)》比較受歡迎，這兩種三色地可以在第一回合叫出Ragavan後，第二回合依舊達成Domain。而《[尚奪爾的酒廊/Xander's Lounge](https://scryfall.com/card/snc/260/xanders-lounge)》，則可以在2回合即達成Domain，並且保留使用1點白色法力用於施放《地脈束縛》。
 
-![](https://i.meee.com.tw/bo9qlEU.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/3bb631623684.webp)
 
 但在[Phlage](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury)出現後，為了配合逸脫需要的{紅}{紅}{白}{白}，《尚奪爾的酒廊》跟《因達沙群系》變成了主流的帶法。但因為Ragavan，更多時候還是《因達沙群系》多一點，帶《尚奪爾的酒廊》的大部分都是索爾獸版本。
 找地的攜帶方式優先考量顏色，如今的Zoo構築使用顏色頻率是紅>白>綠=藍>黑，因此帶的基本地也變成了平原跟山脈，另一方面則是因為MH3帶來了《海疆先兆師》，使得一定要有山脈才能使用《閃電擊》跟《部族焰火》。
 所以，找地的投入也必須優先考量能找到紅跟白優先的選項，再加上考量到三種找地都必須有能力找出三色地，所以採用《[不毛高地/Arid Mesa](https://scryfall.com/card/mh2/244/arid-mesa)》、《[繁茂丘陵/Wooded Foothills](https://scryfall.com/card/mh3/236/wooded-foothills)》、《[潮沒水濱/Flooded Strand](https://scryfall.com/card/mh3/220/flooded-strand)》三種。以前帶樹林的時代則會攜帶《[風襲荒地/Windswept Heath](https://scryfall.com/card/mh3/235/windswept-heath)》跟《[霧漫雨林/Misty Rainforest](https://scryfall.com/card/mh2/250/misty-rainforest)》。
 
-![](https://i.meee.com.tw/uIsVgZf.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/e6e2a29ec2b5.webp)
 
 電震地固定是帶《[聖潔鍛爐/Sacred foundry](https://scryfall.com/card/rvr/285/sacred-foundry)》、《[殿堂花園/Temple garden](https://scryfall.com/card/rvr/290/temple-garden)》、《[蒸氣噴發口/Steam vents](https://scryfall.com/card/rvr/288/steam-vents)》、《[血腥墓穴/Blood Crypt](https://scryfall.com/card/rvr/273/blood-crypt)》這四種。分別是平原/山脈、平原/樹林、海島/山脈、山脈/沼澤。這也是依照顏色使用頻率分配的。
 
-![](https://i.meee.com.tw/DqUZKNe.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/c7704817e84d.webp)
 
 這種配置一方面是跟三色地配合，尋求任何情況都能在第二回合就能擁有樹林/山脈，才可以施放《據地卡甫》上。實戰中最常見的情況是1回合《蒸氣噴發口》出Ragavan，二回《殿堂花園》出Kavu，這樣三回合只要找出沼澤就能達成Domain，就算找不出沼澤，至少Kavu也是個4/4。因此也有帶《[滋生之池/Breeding pool](https://scryfall.com/card/rvr/275/breeding-pool)》跟《聖潔鍛爐》的帶法，不過《不毛高地》找不出《滋生之池》，有時候會遇到起手《聖潔鍛爐》+《不毛高地》這種略顯尷尬的組合。
 刺探地的部分，完全跟三色地配合。《尚奪爾的酒廊》就用《[蔥鬱門廊/Lush Portico](https://scryfall.com/card/mkm/263/lush-portico)》、《因達沙群系》就用《[雷鳴瀑布/Thundering Falls](https://scryfall.com/card/mkm/269/thundering-falls)》。
@@ -284,116 +284,116 @@ categories:
 
 ### 起手種類一：沒有Leyline+Draco也擁有足夠戰鬥能力的組合
 
-![](https://i.meee.com.tw/slahlum.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/5652d6f2edd8.webp)
 
 前面提過用Ragavan打出珍寶後，使用三色地湊出Domain並施放Draco的作戰路線就是長這樣。即使Ragavan被解，也依舊可以二回合Domain，並擁有《閃電擊》、《地脈束縛》跟《頑固拒斥》作為互動手段。
   
-![](https://i.meee.com.tw/0UmEXQo.jpg)
-![](https://i.meee.com.tw/Vh9wOwl.jpg)
-![](https://i.meee.com.tw/xftXtcQ.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/752a7472ba02.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/b27367f53f11.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/a8ff7b35aff0.webp)
 
 這三個起手，都屬於可以進行第一回合Ragavan，第二回合Kavu，第三回合使用達成Domain的手牌。這樣就像前面提過的，不去找三色地來達成Domain而是用於循環。或者用Ragavan打出珍寶，再去找出三色地達成Domain。雖然缺乏對非生物的處理方式，但已經很不錯了。
 
 ### 起手種類二：天胡或者跟地脈有關的起手
 
-![](https://i.meee.com.tw/VwCRjai.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/503bfc5409e8.webp)
 
 完美的手牌。毫無冷場的1到3回合，並且有Ragavan開局加上Leyline+Draco的組合，就算對面正編有結界解，也依舊可以保持Domain。不管正編還是備牌局都沒有任何不接的理由。
 
-![](https://i.meee.com.tw/ozm8xvt.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/2168459bb36e.webp)
 
 也是很理想的天胡起手，雖然缺乏一回合的生物或互動，但Leyline+Draco加上可以調出Domain，也算頗為理想。只是要小心對手會棄牌讓Draco消失，不過就算這樣也還有Kavu。
 
-![](https://i.meee.com.tw/XC7kBKd.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/4f49a2cc7107.webp)
 
 比上面更理想的起手。生物和非生物解都有，並且也能夠達成Domain。只不過1回合同樣會沒有事做。
 
 ### 起手種類三：微妙……
 
-![](https://i.meee.com.tw/peySwQD.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/7cd403baff33.webp)
 
 可以集齊Domain但生物不太強的手牌。作為先攻還是可以接受的，畢竟有兩個Ragavan，一個被解了還有一個。也跟對手有互動。
 
-![](https://i.meee.com.tw/KRcIa9s.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/880e811f2ae9.webp)
 
 很棒，就差一塊地了……
 
 由於存在著找出刺探地來找出第二塊地的機會，機會與風險並存。是值得一賭的手牌。
 雖然大家都知道這其實不是個數學遊戲（？），但還是說一下，這手牌下一抽是地的機率約39%，但如果刺探的話有40%。
 
-![](https://i.meee.com.tw/KcRb19J.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/f9cb266a9947.webp)
 
 很棒，就差一塊地了……這句話好熟悉。
 與上面近似，但這次擁有Ragavan，存在著靠Ragavan打出珍寶來施放Draco的可能。機會比上面更大也更值得賭注。
 
-![](https://i.meee.com.tw/vdhCtJb.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/a6c7cff13f47.webp)
 
 確定可以在第二回合達成Domain並叫出Draco或者Kavu的手牌，生物跟非生物解也都有，算是理想、但有點偏慢的起手，至於要施放哪個就像前面說的，要根據對手的套牌來決定。
 
-![](https://i.meee.com.tw/wJCobZB.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/21ea4a673a8a.webp)
 
 確定可以在第二回合達成Domain並叫出Draco的手牌，接受這手牌的話之後就是全力保護Draco的路線了。就算Draco被解掉，也可以用殺跟康把戰線拉入中期，之後就又來到抽一打一的時期了。
 
-![](https://i.meee.com.tw/TBXmqfY.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/616afce09983.webp)
 
 最微妙的一手，可以第二回合好鬥尼索巴，找地也可以使用刺探地稍微做一些濾牌，說不定可達成Domain，沒達成的話也不至於完全沒有戰鬥能力。
 
 ### 起手種類四：並不能
 
-![](https://i.meee.com.tw/Qwwc8ii.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/943796d3f0d0.webp)
 
 雖然有地脈，但只有Ragavan而缺乏後續手段，再加上四張地起手真的太差了。容易陷入空有法力的情況。
 
-![](https://i.meee.com.tw/7wk4ScK.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/c18fcb661e2a.webp)
 
 同上。並不是多一張地脈跟一張泰坦就代表資源夠多。雖然比上面好一點，但除非是調度過後看到這一手，否則起手是不會接的。
 
-![](https://i.meee.com.tw/6NHGBA7.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/6f9d9366a138.webp)
 
 看似可以Domain，實際只要Kavu被解就是一手爛牌。如果是起手就果斷調度吧。調度一後看到的話還可以考慮一下保留與否。
 
-![](https://i.meee.com.tw/wMHKORY.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/ee0585fbaf37.webp)
 
 看似是一手微妙的手牌，實際上一點都不微妙，這兩張地的意思就是只要地脈不見Kavu就是一個2/2的傻瓜。而且頑固拒斥也會變成一張死牌。屬於如果調度過才會接受的手牌。
 
-![](https://i.meee.com.tw/0ETVO4F.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/55439a88d54c.webp)
 
 索爾獸的構築。看似有著2回索爾獸3回Phlage的期待，但注意地牌，起手紅白，要集齊Domain代表另一邊需要找的是黑/藍/綠，當然你也可以不集齊Domain而是期待Phlage，但這樣Draco就沒用了。
 
 ### 起手種類五：充滿陷阱的起手
 
-![](https://i.meee.com.tw/AklmwZT.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/ed1bef8beccd.webp)
 
 看似很不錯對吧？實際上認真想想，就可以發現《霧漫雨林》跟《滋生之池》的組合並不能幫你達成Domain。
 就算找出《蒸氣噴發口》出Ragavan，第二回合也只有三種顏色，頑固拒斥依舊沒有被強化，兩張Draco也出不來。
 這是個地牌配置有問題的典型錯誤，所以說找地千萬不要亂帶。
 
-![](https://i.meee.com.tw/MlVG6od.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/f8513a98300c.webp)
 
 同理。看似Ragavan會為你帶來未來，但現實通常是Ragavan被解掉，未來也跟著一起消失了。雖然可能會覺得依賴刺探地尋找未來是個辦法，但更要想想沒有未來的可能性……
 不過如果是調度2後看到這種起手，可能可以考慮一下保留。
 
-![](https://i.meee.com.tw/Hf6ewMC.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/e794f171d860.webp)
 
 同樣屬於顏色不對的狀況，這裡即便帶的三色地是《尚奪爾的酒廊》也還是只有4種顏色，而且Ragavan也沒有辦法第一回合就登場，二回也還是叫不出Kavu。
 如果使用電震地施放Ragavan，那最多也是湊齊三種地種類。就算順利用珍寶叫出來，也有種Kavu似乎正在跟閃電擊招手的感覺呢。
 
-![](https://i.meee.com.tw/WfuFVMv.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/87e457a2ac9e.webp)
 
 可以賭？
 並沒有。除了地脈被解會馬上暴斃外，你會發現這張地的顏色跟手上的牌一點關係都沒有。如果是刺探地還可以考慮一下。
 
-![](https://i.meee.com.tw/vQ1wqie.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/5e8f50261ef8.webp)
 
 有人可能會覺得這手不是很強嗎？2回龍，還可以敏捷先打一拳。是的，直覺上會想要接，但同樣只要地脈被解，手上的牌就只剩兩張閃電擊可以用，最重要的是前往Domain的路上還缺少藍白綠，實在不是個好起手。因此只有在確定知道對手打什麼時、或者調度後看到這一手，才會進行保留。
 
-![](https://i.meee.com.tw/2hPYpyJ.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/9ec910059e5b.webp)
 
 看上去顏色好像也不太對，好像也是地脈沒了馬上就會死，實際上會發現距離Domain只有一步之遙。
 在正編局中，第一、第二回合最有可能遭遇的結界解就是《地脈束縛》跟《靜態拘禁》，假設地脈真的這樣被解，那也只需要用《不毛高地》找出《因達沙群系》，就可以兩費使用自己的《地脈束縛》取回《十會盟地脈》。
 **沒錯，這是一手看似需要調度，實際上卻可以保留的手牌。**
 
-![](https://i.meee.com.tw/phLEuns.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/d66ba8ca878a.webp)
  
 看似微妙實則必接的一手。兩個《十會盟地脈》會讓人失去解掉的慾望，加上Draco就更強了。雖然完全沒有後續，但是Leyline+Draco足夠強悍。
 這也是看似需要調度實際上卻可以保留的手牌。不過根據遇到的某些對手有時候這手是行不通的。

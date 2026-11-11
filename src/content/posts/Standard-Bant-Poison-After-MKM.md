@@ -23,7 +23,7 @@ authors:
 
 ### 為什麼是班特色？
 
-![](https://i.imgur.com/soFHNyd.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Bant-Poison-After-MKM/52835654dce4.webp)
 
 讓我用這三張牌來代表班特毒的三個勝利維度：
 
@@ -84,7 +84,7 @@ authors:
 
 [MKM新標準班特毒](https://www.mtggoldfish.com/deck/6164875)
 
-![](https://i.imgur.com/KUMoVww.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Bant-Poison-After-MKM/86559b8a56d6.webp)
 
 ## 結語：更新後的測試心得
 

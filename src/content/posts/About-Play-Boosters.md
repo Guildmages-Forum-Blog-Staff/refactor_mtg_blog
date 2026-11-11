@@ -35,7 +35,7 @@ authors:
 
 ### 那...Play Booster裡有什麼？
 
-![](https://i.imgur.com/nYvK8qg.jpg)
+![](https://images.guildmagesforum.tw/posts/About-Play-Boosters/0a4c36b0dc84.webp)
 
 如這張在文章中介紹Play Booster的圖片上說明的，每包15張牌，扣掉1張廣告卡/衍生物卡/藝術卡，有14張可用的卡片，其中包括：
 

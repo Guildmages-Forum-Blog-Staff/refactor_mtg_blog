@@ -32,7 +32,7 @@ categories:
 
 ## 怎麼決定最後要使用白藍控制這套牌的？
 在這個學期上到的統計課，讓我意識到數據的重要性，於是使用Notion建立自己的資料庫，有實際的資料才能做出相對客觀的判斷，而不是陷入感覺的謬誤裡（例如選了一套很差的deck、或是誤判優勢以及劣勢對局）
-![NOTION 資料](https://hackmd.io/_uploads/S1aVDq3Zeg.png)
+![NOTION 資料](https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/1549c09fed47.webp)
 
 [我的notion資料庫](https://www.notion.so/1d1f60b71f4d8079b6e4eeff9d3a5583?v=1d1f60b71f4d8187b997000c2e1e5a2f&pvs=4https://)
 
@@ -45,13 +45,13 @@ categories:
 
 [白藍控制牌表](https://www.mtggoldfish.com/deck/visual/7110897https://)
 
-![](https://i.meee.com.tw/Bkp6CB5.jpg)
+![](https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/5535248c25b3.webp)
 
-![](https://i.meee.com.tw/kp6e5px.jpg)
+![](https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/9f9646c270f9.webp)
 
 最後還是認為[藍龍](https://scryfall.com/card/tdm/51/marang-river-regent-coil-and-catch)比[鯨魚](https://scryfall.com/card/woe/53/horned-loch-whale-lagoon-breach)好，雖然鯨魚的歷險可以作為前期的去處，但以正下來說龍強太多了，很多時候彈兩個東西以及一隻6/7在場上可以救命，omen的抽三棄一也是很好的抽濾。
 
-![](https://i.meee.com.tw/akUgPJ3.jpg)
+![](https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/330da04a4411.webp)
 
 Day of judgment快一個回合還是比Sunfall好太多了，雖然Sunfall放逐生物以及撫育X很強，但多數時候是需要四回準時掃場的。
 

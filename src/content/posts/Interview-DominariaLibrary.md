@@ -14,7 +14,7 @@ categories:
 
 在遙遠的多明納里亞時空，有一座館藏無盡知識的[亞歷山大圖書館](https://scryfall.com/card/arn/76/library-of-alexandria)。而在台灣，也有一位博學多識的玩家，傾盡熱情為我們帶來了許多好看又好玩的魔風故事，今天很高興能訪問到《多明納里亞圖書館》的創辦人亞倫。
 
-![](https://i.meee.com.tw/GzFyzRh.webp)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/8fc5d6b82c29.webp)
 
 ## Let's get started
 
@@ -32,7 +32,7 @@ A：如同前面說到的，因為我喜歡魔法風雲會的背景故事，而�
 
 我想這是它的最大魅力。舉個很簡單的例子，早期的基本地會有「加……到你的魔法力池中」的文字，我就會忍不住去想像「魔法力池」到底是什麼樣的東西呢？到底是一座真正的池子、或是一個抽象的概念？可惜《瑪凱迪亞》（Mercadian Masques, [MMQ](https://scryfall.com/sets/mmq)）系列之後的基本地不再印有這行字，我覺得少了一些味道。諸如此類。正是有這些東西，讓魔法風雲會更吸引人。
 
-![](https://i.meee.com.tw/ISLQMrL.jpg)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/6f797ce27c9d.webp)
 <p style="text-align: center;"><a class="small"> 感謝亞倫帶來他珍藏的繁中克撒傳的基本沼澤，讓我們一窺最古早的基本地牌樣貌 </a></p>
 
 #### Q3：MTG歷來的故事，有沒有哪一個系列、或哪一個時空讓您最有感、且深刻地受到觸動呢？
@@ -41,14 +41,14 @@ A：我入坑時的第一個產品是 1997 年發行的《第五版》（Fifth E
 
 至於最觸動我的故事，是 1996 年到 2001 年的「晴空號傳說」，特別是相當於前傳的《兄弟之戰》。我一直認為《兄弟之戰》是最好的魔法風雲會故事，就算完全不認識魔法風雲會這款遊戲，只讀小說也沒問題。傑夫．葛伯 (Jeff Grubb) 的同名小說真的是無可取代的傑作，也是罕見有中文翻譯的作品。必須感謝當年出版譯介作品的尖端公司及其編輯。所以幾年前魔法風雲會官方願意將整個故事重製成卡牌產品，真的是讓我欣喜若狂，儘管美術加入了更多現代風格，已不能算是原汁原味重現，但畢竟還原了完整的故事，有生之年能看到兄弟之戰這個系列，算是了無遺憾了。
 
-![](https://i.meee.com.tw/sAG1q0p.jpg)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/68de8944a36f.webp)
 <p style="text-align: center;"><a class="small">上面兩本是關於克撒與其相關人物的故事。而其中第二部的《兄弟之戰》、以及第三部的《旅法師》（即新玩家們耳熟能詳的「鵬洛客」）當年尖端出版有翻譯成中文，雖然市面上已經買不太到了，但有興趣的讀者們可以去圖書館的奇幻文學櫃位找看看喔！</a></p>
 
 #### Q4：以你的審美觀來看，MTG卡牌上的風味敘述（Flavor Texts）中，有沒有哪一張牌結合得最棒呢？
 
 A：這個問題很難回答，如果真的要舉例，我會選《多明納里亞》（Dominaria , [DOM](https://scryfall.com/sets/dom)）系列的[六張傳奇巫術](https://scryfall.com/search?as=grid&order=name&q=%28type%3Asorcery+type%3Alegendary%29+%28game%3Apaper%29+set%3Adom+prefer%3Abest)，這六張牌描繪了多明納里亞歷史上的六個重大事件，無論牌名、規則、插圖、背景敘述文字都具有濃厚的史詩感。，甚至必須在操控傳奇生物時才能施放的規則也很有趣。
 
-![](https://i.meee.com.tw/dKH281X.jpg)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/1d2609a0b49f.webp)
 
 我身為一位重度[沃索斯](https://scryfall.com/card/unf/126/vorthos-steward-of-myth)玩家，也喜歡透過 **機制** 來說故事的卡牌。我最喜歡舉的例子是《塞洛斯》（Theros , [THS](https://scryfall.com/sets/ths)）系列的「冥界救援」，它完美地利用遊戲機制講述了一個小故事，雖然算不上強牌，但風味滿分。
 
@@ -134,13 +134,13 @@ A：比較偷懶的答案是 [Vorthos, Steward of Myth](https://scryfall.com/car
 
 A：魔法風雲會已是我人生、與生活的一部分。它陪伴我走過人生超過一半的日子，很難想像人生要是沒有魔風會怎樣。我也曾經想過要賣掉一些舊牌，但最後還是決定不這麼做，我還是希望留著它們，作為我一個人生歷程的證明。
 
-![](https://i.meee.com.tw/VOGTnxj.png)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/814184fc21c0.webp)
 
 ## 佚界之戰：多明納里亞聯盟與非瑞克西亞的「大戰役」
 
 訪談結束，亞倫拿出了他珍藏的[Duel Decks: Phyrexia vs. The Coalition](https://mtg.fandom.com/wiki/Duel_Decks:_Phyrexia_vs._The_Coalition)，現場就來重溫一下2000年發行的大戰役（Invasion, [INV](https://scryfall.com/sets/inv)）系列的故事。遊戲由[豬鼻子的mtg世界](https://www.facebook.com/Pignosemtgworld/)率領的非瑞克西亞大軍（以下簡稱「非瑞軍」）擲得先手開始，亞倫則領導「聯盟軍」。
 
-![](https://i.meee.com.tw/zXV8XP8.jpg)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/b74d6c9efb83.webp)
 
 第一回合非瑞軍下了一塊沼澤便讓過，聯盟軍首領很友善地提醒：如果手牌中有的話，可以一回[黑暗祭禮](https://scryfall.com/card/dde/18/dark-ritual)接[非瑞克西亞絕滅獸](https://scryfall.com/card/dde/1/phyrexian-negator)（當年就是這樣玩的），可惜並沒有。第三回合非瑞軍準時叫出絕滅獸，聯盟軍[整地](https://scryfall.com/card/dde/57/harrow)後四色到齊，為下一回合施放完全體的領土咒語做好萬全準備。絕滅獸進攻後非瑞軍卡在三地讓過，聯盟軍在第四回合使用了[結盟策略](https://scryfall.com/card/dde/63/allied-strategies)一口氣抽了五張牌，但因為手牌上限只有七張回合結束時棄了兩張地牌，看來應是滿手好料！
 
@@ -148,11 +148,11 @@ A：魔法風雲會已是我人生、與生活的一部分。它陪伴我走過�
 
 由於龍王的存在使得絕滅獸無法進攻，非瑞軍在無殺牌開路的情況下，只得接連召喚出了[血色守衛](https://scryfall.com/card/dde/9/sanguine-guard)、與[非瑞克西亞裔怪](https://scryfall.com/card/dde/8/phyrexian-broodlings)等生物，期待能用場面壓力補刀殘血的對手。
 
-![](https://i.meee.com.tw/r9xu0rm.jpg)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/1cbfb1543a18.webp)
 
 然而，聯盟軍在龍王降臨後士氣大振，在龍王穩健鎮守一回合後，隨即轉守為攻，自空中發動猛烈突襲。絕滅獸第四度進攻中了[翠瓦的護符](https://scryfall.com/card/dde/61/trevas-charm)，只能化做裔怪的肥料；但4/4裔怪的攻勢又被一發[驚險度劫](https://scryfall.com/card/dde/55/narrow-escape)化解。最後，牌庫頂的[克撒之怒](https://scryfall.com/card/dde/36/urzas-rage)決定了最終的勝利！聯盟軍又再度守護了多明納里亞的和平！！！
 
-![](https://i.meee.com.tw/zCSAxkP.jpg)
+![](https://images.guildmagesforum.tw/posts/Interview-DominariaLibrary/3812d5f98c8e.webp)
 
 <sup><span id="quote1">**註1：**</span>中文社群目前沒有持續在做這件工作的人或團體。曾經的《[Cardwalker](https://cardwalker.com.tw/)》已於2020年封存、《[魔導公會](https://mail.mtgbb.com/)》也已經連不上了、《[Aero 的軍事咖啡館](https://aero0001.pixnet.net/blog/categories/3002004154)》的故事翻譯，則停留在秘羅地創痕的殘篇。而在簡體中文圈中，由巴林的斷杖熱心經營的《博識都》也於2022年關閉。</sup>
 <sup><span id="quote2">**註2：**</span>考據故事總有意外收穫。亞倫笑稱，他曾在短篇小說中讀到泰菲力當著卡恩的面，大膽地向尤伊菈求婚的情節。對他而言，這類隱藏細節是他閱讀時的珍貴獎賞；而對聽眾如我來說，得以意外窺見這段八卦，則是拜圖書館努力挖掘文獻所賜，讓我也能「坐享其成」地感受這份趣味（以及震驚XD）。</sup>

@@ -88,13 +88,13 @@ Btw, 下週的一開始看了[Megucci的這個藍黑大眼Veedeo](https://youtu.
 
 這一週我所採用模式，主要是先更新我自己的牌表以及測試結果，針對某一點、或某幾點再展開相應的討論。這個好處是不需團隊成員即時或當面的回覆，對我這種時間不多的玩家是一個有效的討論模式。範例如下：
 
-![](https://i.meee.com.tw/CX2IrEp.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/c14f68a1a9b8.webp)
 
 ### Week 5 （20250210 ～ 20250216）
 
 最後一週主要就是針對某幾張牌去做重點討論，範例如下：
 
-![](https://i.meee.com.tw/1yotB90.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/e26a8c0020cf.webp)
 
 而討論的核心也著重於如何因應 {% mtglink "Ketramose, the New Dawn" alt="黑白神" %} ，沒辦法，800塊錢沒預購到就飛上去了，收不起也沒時間測就想辦法針對囉！
 
@@ -104,7 +104,7 @@ Btw, 下週的一開始看了[Megucci的這個藍黑大眼Veedeo](https://youtu.
 
 （Jeff：第一回合出多美代，第二回合喊打+Pest Control，最佳BM（Bad Manner）！）
 
-![](https://i.meee.com.tw/2IkdPEn.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/0a4a412d3faf.webp)
 
 > 因為多美代真的是太強了，為她我願意當意象繪師！參考的圖是Secret Liar的[月智者多美代](https://scryfall.com/card/sld/396/tamiyo-the-moon-sage)。附帶一提，旁邊飄在空中的是她的卷軸，不是竹輪XD
 
@@ -130,11 +130,11 @@ MIT後的近代藍黑（或是艾斯波），我認為可以往中速方向走�
 
 [MIT#8套牌連結_豬鼻子的mtg世界](https://melee.gg/Decklist/View/474954)
 
-![](https://i.meee.com.tw/LUACEB8.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/422d6c917c47.webp)
 
 [MIT#8套牌連結_Jeff Chen](https://melee.gg/Decklist/View/478840)
 
-![](https://i.meee.com.tw/j2y72j1.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/af6bc71f803c.webp)
 
 由於本文是我主筆的關係，以下的主要內容，會以[我的牌表](https://melee.gg/Decklist/View/474954)為主去進行說明。這邊也說明一下我跟Jeff的版本主要的差異：
 - 主牌局我選用了3張 {% mtglink "Force of Negation" alt="FON" %} 而他沒帶；Jeff改帶了2張 {% mtglink "Consider" %} 、以及一張 {% mtglink "Drown in the Loch" %} ，而第3張的剋墳選用也有些許的差異。

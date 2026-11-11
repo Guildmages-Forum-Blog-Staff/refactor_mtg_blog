@@ -85,7 +85,7 @@ excerpt: "喜迎 Guildmages' Forum 魔風集會所三周年！"
 
 ## 五、展望2027年
 
-![](https://i.meee.com.tw/BA9yATx.jpg)
+![](https://images.guildmagesforum.tw/posts/Third-Anniversary/8653d251b8fc.webp)
 
 2026年是台灣魔風圈相對艱難的一年，對競技玩家而言更是如此，但這不意味著狀況沒有好轉的跡象。
 
@@ -117,7 +117,7 @@ MagicCon: Tokyo已確定於2027年5月14至16日舉行。除了專業賽與各�
 
 三周年快樂！
 
-![](https://i.meee.com.tw/6zpl0fG.jpg)
+![](https://images.guildmagesforum.tw/posts/Third-Anniversary/5fc46cc7526f.webp)
 
 <sup><span id="quote1">**註1：**</span>詳見[Revitalizing Standard](https://magic.wizards.com/en/news/announcements/revitalizing-standard)，標準賽制的輪替週期也從此由兩年延長為三年；此舉旨在重振實體標準賽、增加套牌與延長牌張的使用壽命，並強化在地遊戲店的賽事生態。然而，其後於2025年公布，UB聯名系列進入標準，且系列推行量增加的策略，卻讓延長輪替的標準賽制的門檻變得更高。</sup>
 <sup><span id="quote2">**註2：**</span>詳見[Banned and Restricted Announcement – August 10, 2026](https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026)。標準套牌中，紅藍靈技中的[Stormchaser's Talent](https://scryfall.com/card/blb/75/stormchasers-talent)、綠地落中的[Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub)、以及課程套牌中[Gran-Gran](https://scryfall.com/card/tla/54/gran-gran)這三張核心單卡一同被禁，標準環境透過禁牌再一次重置。</sup>

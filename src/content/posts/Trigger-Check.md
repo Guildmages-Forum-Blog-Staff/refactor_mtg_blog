@@ -20,7 +20,7 @@ authors:
 
 實際上以上案例均存在，而且決定差異的根據有時只是一個英文單字的差別，這期我們就來看看該如何解讀觸發式異能的條件敘述文本吧！
 
-![封面](https://i.imgur.com/bjKlweT.png)
+![封面](https://images.guildmagesforum.tw/posts/Trigger-Check/840fb96579f8.webp)
 
 ---
 
@@ -54,7 +54,7 @@ authors:
 
 ## 觸發式異能實例
 
-![威猛](https://i.imgur.com/1Lf7EkZ.jpg)
+![威猛](https://images.guildmagesforum.tw/posts/Trigger-Check/2aacdcc4dd94.webp)
 
 > [大膽追跡人小紅玉](https://scryfall.com/card/woe/212/ruby-daring-tracker)：每當此卡於你操控力量等於或大於4的生物時攻擊，此卡得+2/+2直到回合結束。
 > [蠻荒傳人](https://scryfall.com/card/ktk/134/heir-of-the-wilds)：威猛～每當此卡攻擊時， **若** 你操控力量等於或大於4的生物，則此卡得+1/+1直到回合結束。
@@ -63,7 +63,7 @@ authors:
 
 假設你今天在異能觸發時只操控一隻力量大於等於4的生物，並且在異能結算前這個生物被消滅了，小紅玉的能力只關心是否能滿足觸發條件讓它上堆疊，上了堆疊後基於113.7a規則，之後來源不見了也無所謂。但蠻荒傳人就不一樣了，他的能力敘述中使用了 **「if」** ，也就是規則603.4所規範的情況，在該異能結算時還會再檢查一次你是否滿足條件，如果此時條件不滿足，這條異能會直接從堆疊中移除，不會成功結算。
 
-![鳩集](https://i.imgur.com/xUFw2LU.jpg)
+![鳩集](https://images.guildmagesforum.tw/posts/Trigger-Check/1afdf6d1bebc.webp)
 
 > [荷拉娜與阿雷娜伴侶](https://scryfall.com/card/vow/239/halana-and-alena-partners)：在你回合的戰鬥開始時，在另一個目標由你操控的生物上放置X個+1/+1指示物，X為此卡的力量。
 > [曙鹿集護衛](https://scryfall.com/card/mid/216/dawnhart-wardens)：鳩集～在你回合的戰鬥開始時， **若** 你操控三個或更多力量各不相同的生物，則由你操控的生物得+1/+0直到回合結束。
@@ -72,7 +72,7 @@ authors:
 
 答案是不行，因為603.4就規定了你必須要先滿足條件，這個異能才會上堆疊，也就是說你在戰階開始時，唯一會上堆疊的異能只有伴侶的能力，曙鹿集護衛此時不會觸發任何能力。
 
-![傑斯](https://i.imgur.com/0DvyiTk.jpg)
+![傑斯](https://images.guildmagesforum.tw/posts/Trigger-Check/902a7088e698.webp)
 
 > [鏡像法師傑斯](https://scryfall.com/card/cmm/852/jace-mirror-mage)：當此卡戰場時， **若** 已增幅，則派出一個此卡複製品的衍生物，但它不是傳奇，且起始忠誠為1。
 > [滌除](https://scryfall.com/card/m21/97/eliminate)：消滅目標魔法力值等於或小於3的生物或鵬洛客。
@@ -81,13 +81,13 @@ authors:
 
 這取決於對手是否增幅過，如果對手施放時有增幅過那確實可行，但如果對手沒有增幅，那這傑斯就如同一般旅法一樣，進場不會觸發任何異能，也不會產生任何優先權轉移。
 
-![耐力試煉](https://i.imgur.com/dkK8IZQ.jpg)
+![耐力試煉](https://images.guildmagesforum.tw/posts/Trigger-Check/e907370d8ea0.webp)
 [耐力試煉](https://scryfall.com/card/dmr/32/test-of-endurance)：在你的維持開始時， **若** 你的總生命為50或更多，你便贏得此盤遊戲。
 [重拾信念](https://scryfall.com/card/dmr/23/renewed-faith)：你獲得6點生命。
 
 你如果想用耐力試煉的特殊獲勝能力，就必須要在維持開始時，生命就達到至少50點，這麼一來耐力試煉的能力才會上堆疊，如果你維持開始時只有45點生命，打算透過重拾信念瞬間把生命補到超過50來滿足特殊獲勝條件的話，在這一回合是沒有用的，因為耐力試煉的異能壓根沒上堆疊。即使你在維持開始時，生命就有51點，讓耐力試煉的異能成功上了堆疊，對手如果在結算前回應用[閃電擊](https://scryfall.com/card/clb/187/lightning-bolt)把你燒到剩48點生命，那麼耐力試煉的異能在嘗試結算的檢查中，會發現你不滿足條件，同樣會把這條異能移除，而不會成功結算。不過實際上負責結算條件檢查的是耐力試煉的異能，而不是耐力試煉的結界本體，因此假設你成功讓這異能上堆疊了，哪怕對手回應你用[消除魔障](https://scryfall.com/card/m20/14/disenchant)消滅了耐力試煉，你的異能依舊可以結算並讓你直接獲勝。
 
-![飛刀](https://i.imgur.com/HO6ykqj.jpg)
+![飛刀](https://images.guildmagesforum.tw/posts/Trigger-Check/383a9bea4518.webp)
 
 > [飛刀](https://scryfall.com/card/ori/241/throwing-knife)：每當佩帶此武具的生物攻擊時，你可以犧牲此卡。若你如此作，則此卡對任一目標造成2點傷害。
 > [散落入夢](https://scryfall.com/card/m14/50/dismiss-into-dream)：由對手操控的每個生物均額外具有「虛影」此類別，且都具有「當此生物成為咒語或異能的目標時，將它犧牲。」
@@ -96,7 +96,7 @@ authors:
 
 不過無論你是否選擇犧牲飛刀，異能觸發時都會要求你先選一個目標，假設你有散落入夢，那麼當你選擇對手生物為目標的瞬間，那個生物就會因為散落入夢給予的異能觸發自主犧牲，你根本不用把飛刀扔出去就能把對方生物給解了。[興潮羅佐司](https://scryfall.com/card/cmm/103/lorthos-the-tidemaker)+[破志師](https://scryfall.com/card/ori/84/willbreaker)的配合也與飛刀+散落入夢原理相同。
 
-![恐龍](https://i.imgur.com/chnDfey.jpg)
+![恐龍](https://images.guildmagesforum.tw/posts/Trigger-Check/c7a69224fd78.webp)
 
 > [狂奔暴龍戈厄塔](https://scryfall.com/card/lci/185/ghalta-stampede-tyrant)：當此卡進戰場時，將任意數量的生物牌從你手上放進戰場。
 > [帕拉尼的育幼龍](https://scryfall.com/card/lci/237/palanis-hatcher)：當此卡進戰場時，派出兩個0/1綠色恐龍／蛋衍生生物。
@@ -106,7 +106,7 @@ authors:
 
 如果你還在找這題的 **「if」** 在哪裡的話，恭喜你不用找了，這就是個隨處可見的一般觸發式異能，跟規則603.4沒有任何關係。撼地血口龍的異能觸發唯一條件是他進場時，至於抽幾張牌當下並沒有定義，等異能結算時才會檢查當下你操控的其他恐龍數量，而帕拉尼的育幼龍的進場生恐龍Token能力觸發時機與撼地血口龍是完全相同的，你可以自己排上堆疊的順序，如果你想多抽點牌就排育幼龍的生Token能力先結算。當然對手也可以回應你的抽牌異能，先瞬間解掉幾隻其他恐龍，好讓你結算時少抽點牌。
 
-![忿怒大天使](https://i.imgur.com/Rxyraaj.jpg)
+![忿怒大天使](https://images.guildmagesforum.tw/posts/Trigger-Check/6850741e00d2.webp)
 
 > [忿怒大天使](https://scryfall.com/card/dmu/3/archangel-of-wrath)：飛行，繫命
 > 當此卡進戰場時，若它已增幅，則它對任意一個目標造成2點傷害。

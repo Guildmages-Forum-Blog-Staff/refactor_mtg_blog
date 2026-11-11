@@ -17,7 +17,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 那麼為何轉瞬機制如此的引人注目呢？ 來看看轉瞬究竟是怎麼樣的異能吧。
 
-![前言](https://i.meee.com.tw/Xw3VZ6p.png)
+![前言](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/5d3e7009a26b.webp)
 
 
 ## 轉瞬的定義
@@ -44,7 +44,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 那麼具體來說，如何利用這些規則來反制轉瞬呢？ 來看看具體範例：
 
-![1](https://i.meee.com.tw/kG0Kj5X.png)
+![1](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/ad4f6a40dcdd.webp)
 > ● **[瞬息勒令](https://scryfall.com/card/mh2/100/sudden-edict)：** 
 > 轉瞬（只要此咒語在堆疊上，玩家便不能施放咒語或起動不是魔法力異能的異能。）
 > 目標玩家犧牲一個生物。
@@ -53,7 +53,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 轉瞬並不阻止觸發式異能被觸發、也並非不能被反擊，假設對手在我場上有輝月之力的情況下施放瞬息勒令，即使它有轉瞬，輝月之力依然能正常運作並康掉瞬息勒令。
 
-![2](https://i.meee.com.tw/CdLgRZI.png)
+![2](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/b8150a291ef6.webp)
 > ● **[克洛薩之攫](https://scryfall.com/card/tsr/214/krosan-grip)：** 
 > 轉瞬（只要此咒語在堆疊上，玩家便不能施放咒語或起動不是魔法力異能的異能。）
 > 消滅目標神器或結界。
@@ -66,7 +66,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 由於轉瞬不阻止特殊動作，因此當對手施放克洛薩之攫時，我可以回應對方，將面朝下的雲舞巨靈翻為面朝上，而雲舞巨靈翻為面朝上時，會觸發一個反擊瞬間、巫術咒語的異能，能夠以此康掉具轉瞬的克洛薩之攫。
 
-![3](https://i.meee.com.tw/GTAlMEy.png)
+![3](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/6e0e6aa4226d.webp)
 > ● **[根除](https://scryfall.com/card/tsr/114/extirpate)：** 
 > 轉瞬（只要此咒語在堆疊上，玩家便不能施放咒語或起動不是魔法力異能的異能。）
 > 選擇目標在墳墓場中的牌，且不能是基本地牌。從其擁有者的墳墓場，手牌及牌庫中搜尋所有與該牌同名的牌，並將它們放逐。然後該玩家將其牌庫洗牌。
@@ -81,7 +81,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 舉例來說，對手以你墳場的某張神器牌為目標施放根除，而你場上有製鐵廠＆回收秘耳，製鐵廠的異能是一種魔法力異能，只是起動費用為「犧牲一個神器」，你可以回應對手的根除，宣告起動製鐵廠的魔法力異能，以犧牲回收秘耳作為費用，如此一來便能觸發回收秘耳的死亡異能，回收墳場的一張神器牌，以此躲過根除。
 
-![4](https://i.meee.com.tw/Gt9rLRB.png)
+![4](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/76c75a563492.webp)
 > ● **[天使恩典](https://scryfall.com/card/tsr/4/angels-grace)：** 
 > 轉瞬（只要此咒語在堆疊上，玩家便不能施放咒語或起動不是魔法力異能的異能。）
 > ● **[獅眼鑽](https://scryfall.com/card/vma/271/lions-eye-diamond)：** 
@@ -93,7 +93,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 最關鍵的一點是，這套Combo從施放天使恩典開始，直到[塔薩的先知](https://scryfall.com/card/thb/73/thassas-oracle)結算特殊獲勝，整個過程中天使恩典都還在堆疊內等待結算，這代表對手的大多數回應手段都會被封印，並且是從你宣告施放天使恩典時就被封印了，這護航能力與突擊性，遠比要先成功結算後才開始生效的[封口](https://scryfall.com/card/m14/35/silence)難應對。
 
-![5](https://i.meee.com.tw/oMteSdH.png)
+![5](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/65426ec04e91.webp)
 > ● **[召現苦難](https://scryfall.com/card/neo/147/invoke-calamity)：** 
 > 你可以從你的墳墓場中和／或手上施放至多兩個魔法力值總和等於或小於6的瞬間和／或巫術咒語，且不需支付其魔法力費用。如果這些咒語將進入你的墳墓場，則改為將它們放逐。放逐召現苦難。
 > ● **[驟死](https://scryfall.com/card/tsr/143/sudden-death)：** 
@@ -114,7 +114,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 那如果反過來，宣告先施放驟死呢？ 一但驟死先上了堆疊，那麼轉瞬會立即禁止所有玩家施放咒語，這包含了你原本打算接著免費施放的取消，最後你的召現苦難就只施放了一張驟死。附帶一提，召現苦難的效果是讓你施放至多兩個咒語，你想只施放一個咒語召現苦難也沒意見。
 
-![6](https://i.meee.com.tw/ZHb5DoQ.png)
+![6](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/4e6d356abf00.webp)
 > ● **[拿塔蒙暴君撒姆特](https://scryfall.com/card/fra/220/samut-tyrant-of-naktamun)：** 
 > 由你操控的瞬間和巫術咒語具有轉瞬異能。
 > ● **[止咒高僧](https://scryfall.com/card/big/2/grand-abolisher)：** 
@@ -128,7 +128,7 @@ excerpt: "沒想到能看到轉瞬重回標準的一天"
 
 答案是在這個情境中，苦痛納索靈與一般的瞬間去除並沒什麼差別，因為一但對手施放瞬間或巫術咒語，轉瞬便開始生效，那麼苦痛納索靈的起動式異能同樣是被禁止起動的。
 
-![7](https://i.meee.com.tw/O8LJBB5.png)
+![7](https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/248f4478f270.webp)
 > ● **[拿塔蒙暴君撒姆特](https://scryfall.com/card/fra/220/samut-tyrant-of-naktamun)：** 
 > 由你操控的瞬間和巫術咒語具有轉瞬異能。
 > ● **[安塔卡族魔神](https://scryfall.com/card/dtk/128/atarka-efreet)：** 

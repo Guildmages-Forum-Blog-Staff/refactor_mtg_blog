@@ -15,7 +15,7 @@ excerpt: "來看看現實碎片中出現了哪些機制吧！"
 
 ## 聚能傑斯（Empower Jace）
 
-![Jace](https://i.meee.com.tw/Xl6etoK.png)
+![Jace](https://images.guildmagesforum.tw/posts/FRA-Mechanism/c996b276935c.webp)
 
 聚能傑斯N的執行規則如下：
 
@@ -32,7 +32,7 @@ excerpt: "來看看現實碎片中出現了哪些機制吧！"
 
 ## 心材衍生物（Heartwood Token）
 
-![Heartwood](https://i.meee.com.tw/XI2TVWe.png)
+![Heartwood](https://images.guildmagesforum.tw/posts/FRA-Mechanism/e5997d8d356a.webp)
 
 心材衍生物為本系列新定義的一種衍生物，其特徵為：
 
@@ -45,7 +45,7 @@ excerpt: "來看看現實碎片中出現了哪些機制吧！"
 
 ## 備法（Prepare）
 
-![Prepare](https://i.meee.com.tw/3PRo6Cm.png)
+![Prepare](https://images.guildmagesforum.tw/posts/FRA-Mechanism/35b17d7bd423.webp)
 
 備法是不久之前出現在[斯翠海文的祕密](https://guildmagesforum.tw/SOS-mechanism/)的機制，本次再度作為系列重點機制回歸。
 

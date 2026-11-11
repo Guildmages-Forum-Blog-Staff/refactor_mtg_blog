@@ -28,7 +28,7 @@ excerpt: "Level One: Control Decks"
 
 控制套牌代表了快攻套牌的極端對立面。快攻追求速度，控制則為長期戰而生。當快攻套牌忙於執行自己的獲勝計畫時，控制套牌則致力於鉗制對手，並於稍後合適的時機贏下比賽。我們稱其為「控制套牌」，是因為它們的目標並非快速擊殺對手，而僅僅是主導全局。其首要任務是阻止對手執行遊戲計畫。這是一種非常有效的策略，特別吸引那些喜歡進行漫長、且通常較為複雜遊戲的玩家。
 
-![](https://i.meee.com.tw/IBqdy6O.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Control-Decks/c5ab7b6af5a9.webp)
 
 ### 控制套牌中的牌張優勢 (Card Advantage in Control Decks)
 
@@ -38,7 +38,7 @@ excerpt: "Level One: Control Decks"
 
 控制套牌希望盡可能獲得更多的牌張優勢，理想情況下，這應以最簡單直接的方式呈現。傳統上，最受青睞的手段莫過於單純施放能讓你額外抽牌的咒語。
 
-![](https://i.meee.com.tw/6gCFHFN.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Control-Decks/ca9b03cac138.webp)
 
 想像一場進行到第十、或第十一回合的對局。你的對手使用快攻套牌，此時已接近彈盡援絕。你挺過了前期的生物猛攻，現在對手只能每回合從牌庫頂抽一張牌。通常，這張牌會是沒用的地牌。
 
@@ -61,7 +61,7 @@ excerpt: "Level One: Control Decks"
 **範例：白藍控制（White-Blue Control）**
 [套牌連結](https://www.mtggoldfish.com/deck/7618415#paper)
 
-![](https://i.meee.com.tw/pfGtEZz.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Control-Decks/0e8394cf3724.webp)
 
 這套白藍套牌是控制套牌非常經典的範例，具備了該牌型（archetype）（指具備眾多變體且重複出現的特定策略）中最顯著的特徵。
 
@@ -71,7 +71,7 @@ excerpt: "Level One: Control Decks"
 
 快攻套牌在抽到第三或四張地後就希望不再抽到地，但控制套牌通常需要確保每一回合都能穩定下地，一路持續到第六、第七回合，甚至更久。由於控制套牌專注於後期而非前期，他們可能不像其他套牌那樣有許多低費手段，若錯過下地時機（miss land drops）就無法正常運作。另一方面，他們依靠像[止戰寧息](https://scryfall.com/card/ktk/8/zht/%E6%AD%A2%E6%88%B0%E5%AF%A7%E6%81%AF-(end-hostilities))和[旭日天尊艾紫培](https://scryfall.com/card/ths/9/zht/%E6%97%AD%E6%97%A5%E5%A4%A9%E5%B0%8A%E8%89%BE%E7%B4%AB%E5%9F%B9-(elspeth-suns-champion))這樣的強牌來追回節奏，因此當時機成熟時，擁有施放這些牌的魔法力至關重要。
 
-![](https://i.meee.com.tw/cMVnkZ6.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Control-Decks/5af18363b94c.webp)
 
 ### 控制套牌中的生物（Creatures in Control Decks）
 
@@ -87,7 +87,7 @@ excerpt: "Level One: Control Decks"
 最後，這套控制套牌包含了一類我們尚未在《等級一》中討論過的卡牌。這些是「許可咒語」（permission spells）。
 > 意即：「Reid，請、請問我可以施放我的咒語嗎？」。
 
-![](https://i.meee.com.tw/lF4kVI7.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Control-Decks/b90a58a1329a.webp)
 
 這類牌也因其敘述、並致敬其經典的始祖而被稱為「[反擊咒語](https://scryfall.com/card/mh2/267/zht/%E5%8F%8D%E6%93%8A%E5%92%92%E8%AA%9E-(counterspell))」（counterspells）。（「反擊咒語」本身以今日的標準來看過於強大，已經多年未再印刷。）<sup>[註2](#quote2)</sup>
 

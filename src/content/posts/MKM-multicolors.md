@@ -42,7 +42,7 @@ authors:
 
 ## 多色
 
-![](https://i.imgur.com/fDyu3An.jpg)
+![](https://images.guildmagesforum.tw/posts/MKM-multicolors/f8706e57dd2e.webp)
 
 > 統計一下本系列多色牌中各公會元素的雙色牌數量：
 >
@@ -475,7 +475,7 @@ MTG戰力持續通膨，現在單純的[輝煌的讚美詩](https://cards.scryfa
 
 四費4/4的身材很不錯，被動異能也都非常厲害，不論是第一條給其他你操控的生物敏捷、或第二條當你操控牌面朝下的生物打到玩家可以抽牌、甚至第三條讓你牌面朝下的生物死去時，只要他正面是永久物牌就可以再以牌面朝下移回戰場，然後再賺一個翻回正面的效果。只要你的套牌有一些可以具偽裝/匿伏異能的永久物或咒語，這隻半人馬在場上就可以帶給你源源不絕的優勢！
 
-![246](https://i.imgur.com/1P5Kq2X.png)
+![246](https://images.guildmagesforum.tw/posts/MKM-multicolors/c59b13274482.webp)
 
 **cephille:** 3.0
 
@@ -487,19 +487,19 @@ MTG戰力持續通膨，現在單純的[輝煌的讚美詩](https://cards.scryfa
 
 > 這邊跟大家提醒一下，連體牌的魔法力值（mana value）是牌面上的總和，所以這張Cease//Desist就會是 1{B/G} + 4{G/W}{G/W} 合計8費，相當適合拿來支付蒐證的費用！如果你的套牌主打蒐證套路的話，這五張連體牌都可以自動加上0.5分！
 
-![247](https://i.imgur.com/HFib6bc.jpg)
+![247](https://images.guildmagesforum.tw/posts/MKM-multicolors/c58e18adbcdd.webp)
 
 **cephille:** 2.5
 
 **這是一張<font color="#023FFD">藍</font>混<font color="#0A883B">綠</font>黑雙色的連體牌**。藍綠這邊可以瞬間自磨並探查；而藍黑這邊則可以先磨對手三張後從他的墳場中施放一張牌而不需支付其費用，基本上取決於對手的炸彈，炸彈越多這張牌的表現就越好，但如果對手是小快攻的話就別放了。
 
-![248](https://i.imgur.com/RCioQ3X.jpg)
+![248](https://images.guildmagesforum.tw/posts/MKM-multicolors/03d820e83fc8.webp)
 
 **cephille:** 3.5
 
 **這是一張<font color="#FED761">白</font>混<font color="#FD0214">紅</font><font color="#023FFD">藍</font>雙色的連體牌**。紅白這邊在你生物進攻時可以做出一個永久的膨脹，相當適合在進攻向的鋪場流生物構築；而當你中後期需要生物時，也可以使用白藍這邊派出三隻1/1的振翼機衍生物，刺探二也可以協助你的下一抽變得更好或自主堆墳。
 
-![249](https://i.imgur.com/NyL5VKF.jpg)
+![249](https://images.guildmagesforum.tw/posts/MKM-multicolors/1f431d84bbb1.webp)
 
 **cephille:** 2.5
 
@@ -507,7 +507,7 @@ MTG戰力持續通膨，現在單純的[輝煌的讚美詩](https://cards.scryfa
 
 <!---本牌卡圖等英文版更新後補上--->
 
-![250](https://i.imgur.com/6DTa8vm.jpg)
+![250](https://images.guildmagesforum.tw/posts/MKM-multicolors/5b61931eda0d.webp)
 
 **cephille:** 3.5
 
@@ -595,7 +595,7 @@ MTG戰力持續通膨，現在單純的[輝煌的讚美詩](https://cards.scryfa
 
 雖然作為稜鏡地來說比之前WOE的[水晶石室](https://cards.scryfall.io/large/front/6/f/6f6f9d3d-600d-43f3-a915-612e5d53aaa1.jpg?1692939958)弱了不少，但神器以及線索的副類別跟本系列許多牌張都有連動，中後期犧牲掉抽一張牌也是個不錯的投資。但要小心這張地如果中了拆神器的去除那真的是虧爛了，如果你打神器主題的話，備牌可以考慮下掉它換成一張不能被拆的基本地。
 
-![Land](https://i.imgur.com/pLWriqs.jpg)
+![Land](https://images.guildmagesforum.tw/posts/MKM-multicolors/37f63fac9295.webp)
 
 **cephille:** 3.0
 

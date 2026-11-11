@@ -162,7 +162,7 @@ excerpt: "這次紅色也是ㄇ級分"
 ## 結語
 
 跟黑色一樣的ㄅ級分表，給大家參考看看。
-![紅色 ㄅ級分](https://hackmd.io/_uploads/rkcs9snh-e.png)
+![紅色 ㄅ級分](https://images.guildmagesforum.tw/posts/SOS-Red/a42fe021e850.webp)
 
 
 紅色在本系列看起來是打紅白或是紅藍會是不錯的選擇，但基本上我認為紅色在聚輝（Converge）應該是很難運作。

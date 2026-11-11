@@ -39,7 +39,7 @@ excerpt: "Level One: Choosing Your Deck"
 
 以標準賽的純紅快攻為例。無數玩家把各自的直覺、經驗與判斷帶進牌表中。他們採用自認合適的地牌數量，以最能提高勝率的方式安排主牌結構，並在備牌放入預期最有幫助的牌。沒有人能保證單一玩家的判斷完全正確；但隨著時間推移，表現較佳的版本會贏得更多，這些版本的特徵也會被保留並帶入往後的純紅牌表。這正是查爾斯．達爾文的「[適者生存](https://scryfall.com/card/g09/4/survival-of-the-fittest)」！
 
-![](https://i.meee.com.tw/pK7VZae.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Choosing-Your-Deck/e175c54fce7d.webp)
 
 當你從網路選擇一副熱門套牌時，也能省下大量時間與精力，轉而投入賽前準備的其他部分。若你已經決定使用純紅，現在便可以把所有努力集中於調整牌表，以及練習對局操作。
 
@@ -69,7 +69,7 @@ excerpt: "Level One: Choosing Your Deck"
 
 有時候，情勢適合做出環境導向的選擇；另一些時候，最好預設選擇一副原始強度很高的套牌。若能找到兩者的交集，便是最理想的結果。
 
-![](https://i.meee.com.tw/N2ru1Uy.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Choosing-Your-Deck/1fea80d7d225.webp)
 
 ## 主動性的遊戲計畫（A Proactive Game plan）
 

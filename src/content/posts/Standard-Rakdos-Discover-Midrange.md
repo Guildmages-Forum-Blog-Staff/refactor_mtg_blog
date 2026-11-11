@@ -25,13 +25,13 @@ authors:
 
 [套牌連結](https://www.mtggoldfish.com/deck/6146509#paper)
 
-![](https://i.imgur.com/FpR2SPv.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/74e9de20c204.webp)
 
 這是我現在的牌表，我會分為幾個部分說明
 
 ### 套牌核心
 
-![](https://i.imgur.com/6qaBEEN.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/545d5560c7a4.webp)
 
 #### 4 [深窟蝙蝠](https://cards.scryfall.io/large/front/6/9/69c68c95-b788-43b1-9f22-1b22c5a00b25.jpg?1699044121)：
 
@@ -61,14 +61,14 @@ authors:
 
 #### 去除：
 
-![](https://i.imgur.com/2hEEFil.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/33a217446943.webp)
 
 - 主流 2～3 張[斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)
 - 2～3 張[直刺咽喉](https://cards.scryfall.io/large/front/5/4/5446e1ba-c745-45b2-ad05-b22abf04daec.jpg?1682209037)
 - 搭配 1 張[折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006)
 - 我自己是額外放了一張[熔毀崩塌](https://cards.scryfall.io/large/front/2/4/2487d124-210b-4808-888c-cd0a78aebd90.jpg?1699044556)作為旅法去除，以免被旅法定場而失去節奏
 
-![](https://i.imgur.com/qZGDnFn.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/6e73e9c40956.webp)
 
 #### [血稅收集官](https://cards.scryfall.io/large/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.jpg?1643593808)：
 
@@ -84,7 +84,7 @@ authors:
 
 ### 地牌的選擇
 
-![](https://i.imgur.com/lqxHBMX.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/00a4973af948.webp)
 
 過去的地牌大多數是選擇 25 張，而近期反而都是 26 地的配置，我認為最主要的原因就是 25 地的卡地機率還是太高，畢竟先驅紅黑中速的法力曲線最高到 4 也放了 25 張地，這套牌有那麼多的 5 費甚至 6 費的咒語，只放 25 地實在是不合理。以下則是不同地牌的數量配置：
 
@@ -99,7 +99,7 @@ authors:
 
 ### 備牌的選擇
 
-![](https://i.imgur.com/RzWKGH2.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/bf8dac028c2e.webp)
 
 - [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)：在內戰、黑綠以及 Domain 對局貧弱，對抗快攻、藍黑以及艾斯波時十分優秀。我認為正備加起來至少要有 3 張。
 - [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)：對抗 Domain 的針對牌，基本上就是拿去替換 斬落的位置。
@@ -112,7 +112,7 @@ authors:
 
 ### 其他可投入牌張
 
-![](https://i.imgur.com/QxOPp28.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/7f5992b60bb0.webp)
 
 - [聚骨駭威龍](https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg?1699044226)：5 費的優秀生物。與[深邃叛神阿洛佐茲](https://scryfall.com/card/lci/88/aclazotz-deepest-betrayal-temple-of-the-dead)相比，在進攻以及賺取資源方面更加優秀，但是缺乏補血以及回收的能力。基於這些原因，它更害怕去除，而現在的套牌大家多少都有放去除，因此在現在的環境中阿洛佐茲更好。
 - [頑強敗犬](https://cards.scryfall.io/large/front/9/b/9b6a6d00-3e00-4827-8420-13343ac3d0fd.jpg?1664411313)：2 費 3 攻的生物，中後期可以挖回來獲得額外的資源。這張牌在對抗 Domain 時加強了搶血的能力，除此之外我認為他沒有比其他彈性卡牌來的更好。

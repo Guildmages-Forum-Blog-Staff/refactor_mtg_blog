@@ -19,7 +19,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 時間回到現在，[韃契：龍襲風暴](https://scryfall.com/sets/tdm)中又出現了一張新的風暴牌 [Stormscale Scion](https://scryfall.com/card/tdm/123/stormscale-scion)，這是一張真正的風暴單卡，甚至連牌名都是官方帶頭玩梗，致敬了風暴量尺的 Storm Scale，那我們就趁著這個機會，來介紹一下風暴究竟是個怎樣的機制吧！
 
-![前言](https://i.meee.com.tw/evs78xQ.png)
+![前言](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/f224beeef190.webp)
 
 ---
 
@@ -34,7 +34,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 從風暴的規則也能看出，想要善用它就需要在一回合內大量的施放咒語，所以除了一些無限 Loop 的 Combo 外，遊戲畫面很常會變成這樣：
 
-![14](https://i.meee.com.tw/g6i1ztA.png)
+![14](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/87c0b9617397.webp)
 > 此場景出自MTG漫畫「消滅所有人類，他們不能重生」第14話
 
 ---
@@ -43,7 +43,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 雖然下面舉例時會用上多種風暴範例牌，但老實說，卡片效果本身並不重要，我們只要關注它風暴異能在這些情境中如何運作就好。
 
-![1](https://i.meee.com.tw/7haINS5.png)
+![1](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/4ee38fc052b3.webp)
 > - [電流傳繼](https://scryfall.com/card/mh2/127/galvanic-relay)：
 >   放逐你的牌庫頂牌。於你的下個回合中，你可以使用該牌。
 >   風暴
@@ -53,7 +53,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 風暴咒語最難應對的一點就是它會複製N發，像[反擊咒語](https://scryfall.com/card/cmm/81/counterspell)這種一換一的康就只能康掉其中一發，通常根本攔不住對方。但如之前所說，風暴是個觸發式異能，這個異能也是可以被康掉，只要你康了風暴異能，那後面的複製 N 發就壓根不會出現。
 
-![2](https://i.meee.com.tw/aY2oRA7.png)
+![2](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/c3a629be119a.webp)
 > - [霰散彈](https://scryfall.com/card/tsr/166/grapeshot)：
 >   霰散彈對任意一個目標造成1點傷害。
 >   風暴
@@ -64,7 +64,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 風暴的觸發條件是 **施放時** ，假設你使用某個方法複製了一發堆疊上的風暴咒語，雖然這個咒語也會複製到風暴異能沒錯，但複製的咒語並沒有經過施放，而是直接放上堆疊，因此在這個案例中，你就只是多做了一發霰散彈而已，不會出現第二次風暴。
 
-![3](https://i.meee.com.tw/RlPj6MO.png)
+![3](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/2b73a2feb3e0.webp)
 > - [挺過風暴](https://scryfall.com/card/mh1/191/weather-the-storm)：
 >   你獲得3點生命。
 >   風暴
@@ -79,7 +79,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 而榮休大法師的魔藝則是施放或複製瞬間/巫術時都會觸發，因此總共會觸發N+1次抽牌（咒語本體1次，複製品N次）。
 
-![4](https://i.meee.com.tw/DgWuiri.png)
+![4](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/c83673176e48.webp)
 > - [行獵獸群](https://scryfall.com/card/mh2/284/hunting-pack)：
 >   派出一個4/4綠色野獸衍生生物。
 >   風暴
@@ -98,7 +98,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 
 
-![5](https://i.meee.com.tw/UVYdE8U.png)
+![5](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/e25ddbcba6e2.webp)
 > - [迸地](https://scryfall.com/card/tsp/162/ground-rift)：
 >   目標不具飛行異能的生物本回合不能進行阻擋。
 >   風暴
@@ -117,7 +117,7 @@ excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 
 
 
-![6](https://i.meee.com.tw/OdXjI1e.png)
+![6](https://images.guildmagesforum.tw/posts/How-does-Storm-Work/2537755bb3d4.webp)
 > - [絮聒風暴](https://scryfall.com/card/mh2/152/chatterstorm)：
 >   派出一個1/1綠色松鼠衍生生物。
 >   風暴

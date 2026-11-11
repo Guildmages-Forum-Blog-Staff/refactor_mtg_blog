@@ -24,7 +24,7 @@ categories:
 
 話不多說，先提供[構築](https://www.mtggoldfish.com/deck/7385646#paper)給各位瞧瞧。套牌概念為：**潔斯凱能量奇蹟控制**，將會從下一個段落開始解析細節。
 
-![](https://i.meee.com.tw/jr5WyMi.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Jeskai-Miracles-Control/98c2b12cadf8.webp)
 
 >不過必須和各位朋友說明，這是筆者第一次打開表的Regional Championship，冠軍賽的表現不算是特別突出，但在無須開表的Last Chance Qualfier（LCQ）單日突圍兩輪。可說是適合Q賽卻沒為開表做微調的版本。
 
@@ -114,9 +114,9 @@ categories:
 
 剩下的部分就交給換備表來說話啦。筆者雖然沒辦法跑卡店練習，但賽前一週有找個時間好好整理思緒。然而正式比賽的時候沒有任何一把是完全遵照換備表的內容就是了……
 
-![](https://i.meee.com.tw/y2NhRBf.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Jeskai-Miracles-Control/9c024bc146a9.webp)
 
-![](https://i.meee.com.tw/vFu0ZoH.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Jeskai-Miracles-Control/31fa02ee131d.webp)
 
 ## 選擇潔斯凱能量奇蹟控制的理由
 

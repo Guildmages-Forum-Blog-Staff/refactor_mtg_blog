@@ -29,7 +29,7 @@ excerpt: "小子，你對我說話尊重一點。我吃的鹽比你吃的飯多�
  
  {% mtgpick "MSH" 243 %}
  分數：2.0
- 評語：拼造（Improvise）在這系列限制賽很難起到效用，5回合在限制賽更是關鍵，Teamwork主題也需要更多生物來撐場面，5點法力的神器加速無法帶來太多幫助，如果套牌有大量神器或是 [The Invincible Iron Man](https://i.meee.com.tw/l2lgFOs.png) 可以作為還不錯的搭配。
+ 評語：拼造（Improvise）在這系列限制賽很難起到效用，5回合在限制賽更是關鍵，Teamwork主題也需要更多生物來撐場面，5點法力的神器加速無法帶來太多幫助，如果套牌有大量神器或是 [The Invincible Iron Man](https://images.guildmagesforum.tw/posts/MSH-Colorless/c4c30eca4672.webp) 可以作為還不錯的搭配。
         
  
  {% mtgpick "MSH" 244 %}
@@ -70,7 +70,7 @@ excerpt: "小子，你對我說話尊重一點。我吃的鹽比你吃的飯多�
  
  {% mtgpick "MSH" 251 %}
  分數：1.5
- 評語：限制賽的套牌通常只有40張，請珍惜你的生命。除非是用 [The Invincible Iron Man](https://i.meee.com.tw/l2lgFOs.png) 早期直接丟進場，或你就是尚氣本人，否則請勿輕易嘗試。
+ 評語：限制賽的套牌通常只有40張，請珍惜你的生命。除非是用 [The Invincible Iron Man](https://images.guildmagesforum.tw/posts/MSH-Colorless/c4c30eca4672.webp) 早期直接丟進場，或你就是尚氣本人，否則請勿輕易嘗試。
         
  
  {% mtgpick "MSH" 252 %}

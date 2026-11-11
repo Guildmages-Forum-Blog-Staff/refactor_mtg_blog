@@ -14,7 +14,7 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 
 ## 載具＆搭載（Vehicle ＆ Crew）
 
-![Crew](https://i.meee.com.tw/GFMr8YG.png)
+![Crew](https://images.guildmagesforum.tw/posts/DFT-mechanism/4787aaefa530.webp)
 
 既然是賽車主題的系列，那麼載具自然是重頭戲。
 
@@ -29,7 +29,7 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 
 ## 坐騎＆乘駕（Mount ＆ Saddle）
 
-![Saddle](https://i.meee.com.tw/3pynGgr.png)
+![Saddle](https://images.guildmagesforum.tw/posts/DFT-mechanism/93a45927f0c1.webp)
 
 乘駕是個復出機制，不久前才在[光雷驛鏢客](https://guildmagesforum.tw/OTJ-mechanism/#%E4%B9%98%E9%A7%95%EF%BC%88Saddle%EF%BC%89)登場過。
 
@@ -43,7 +43,7 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 
 ## 循環（Cycling）
 
-![Cycling](https://i.meee.com.tw/iUycamI.png)
+![Cycling](https://images.guildmagesforum.tw/posts/DFT-mechanism/42a29aecca7a.webp)
 
 循環是一種起動式異能，並且只能從手牌起動。循環的效果為  **「支付指定費用並棄掉此牌：抽一張牌」** 。
 
@@ -53,7 +53,7 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 
 ## 竭絕（Exhaust）
 
-![Exhaust](https://i.meee.com.tw/Rhdj8QA.png)
+![Exhaust](https://images.guildmagesforum.tw/posts/DFT-mechanism/2ea6e6c844b2.webp)
 
 竭絕是一種被加上額外限制的起動式異能，同一個物件上的同一個竭絕異能只能起動一次，不同物件間彼此互不干擾，如果你讓某個已起動過竭絕的永久物離場後再重新進場，那麼它會是一個獨立的新物件，可以起動竭絕異能。
 
@@ -61,7 +61,7 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 
 ## 發動引擎！（Start Your Engines!）
 
-![Engines](https://i.meee.com.tw/w6OPDa6.png)
+![Engines](https://images.guildmagesforum.tw/posts/DFT-mechanism/2b699deba8b2.webp)
 
 發動引擎！是一個新的關鍵字異能，當玩家在此盤遊戲中首度操控具有發動引擎異能的永久物時便成為 **速度 1** ，並獲得一個可以讓你提升速度的觸發式異能。速度的最大值是 **4** ，這被稱為 **速度極限（Max speed）** ，達到速度極限後速度將無法再增加。如果本盤遊戲還沒有 發動引擎的永久物進場過，那麼你便是速度 0 ，許多卡牌會檢查你當下的速度值並影響效果。
 
@@ -72,7 +72,7 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 
 另外本系列有印製一張雙面的速度紀錄 Token ，用以輔助玩家清晰表示當前的速度數值為何。
 
-![Speed](https://i.meee.com.tw/mdKGhAP.png)
+![Speed](https://images.guildmagesforum.tw/posts/DFT-mechanism/bc0c1dff5366.webp)
 
 
 ---
@@ -90,4 +90,4 @@ excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 2025年3月14日 ～ 3月20日：指揮官歡慶會
 
 
-![END](https://i.meee.com.tw/64eZu2c.png)
+![END](https://images.guildmagesforum.tw/posts/DFT-mechanism/7ace713df968.webp)

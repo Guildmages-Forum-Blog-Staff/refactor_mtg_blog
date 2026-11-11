@@ -31,7 +31,7 @@ excerpt: "九月三十號星期一，臺北的卡店中流傳著一段耳語：�
 ……就這樣，且因為 [Lutri, the Spellchaser](https://scryfall.com/card/iko/227/lutri-the-spellchaser) 是傳奇生物，我們也無法使用  [Twinflame](https://scryfall.com/card/2x2/129/twinflame) 這類咒語來做出一排生物直接輾壓對手（當然，如果場上有其他生物進場，或透過魔藝異能來做其他事情又是另一回事）。
 如前言所說，我就是覺得他**又帥又酷**，所以才會選擇使用伊捷水獺行侶出戰。構築方面，參考了網路上分享的套牌後，最終[我的構築](https://www.mtggoldfish.com/deck/6667668#paper)如下： 
 
-![](https://i.meee.com.tw/AxbcOtW.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Izzet-Lutri/3cfc89cc163c.webp)
 
 如果是熟悉近代的玩家就會發現，選用的牌都是近代伊捷色組常使用的牌，筆者就挑幾張自認為有趣的牌來簡單介紹。
 	

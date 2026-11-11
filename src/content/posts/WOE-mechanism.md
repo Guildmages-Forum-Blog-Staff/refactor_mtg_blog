@@ -154,7 +154,7 @@ authors:
 
 ![Freeze in Place](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0050_MTGWOE_Main.png)
 
-![Sharae of Numbing Depths](https://hackmd.io/_uploads/BJkwWCdTh.png)
+![Sharae of Numbing Depths](https://images.guildmagesforum.tw/posts/WOE-mechanism/bd00ba09d12a.webp)
 
 暈眩指示物可以讓被放置此指示物的永久物在其重置階段時若能被重置，則改為從該永久物上移去一個暈眩指示物。在這個系列應該跟白藍主打的橫置生物來獲取更多價值的思路有密切搭配。
 

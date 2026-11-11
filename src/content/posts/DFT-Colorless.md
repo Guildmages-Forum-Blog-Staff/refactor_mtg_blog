@@ -139,17 +139,17 @@ excerpt: "在追求極速的大賽中，你需要各種補給、干擾對手的�
 
 ### 地
 
-![邊陲地](https://i.meee.com.tw/boxb1dh.png)
+![邊陲地](https://images.guildmagesforum.tw/posts/DFT-Colorless/b3bc0da14e20.webp)
 分數：3.0
 評語：邊陲地在限制賽兩色的構築中基本上跟圈地一樣，就算多色也是有一定的價值。
 
 > 註：圈地（Duel land）：指毫無副作用就能產出雙色、且具有兩種基本地類別的地，常見於Legacy以上賽制。如[火山島](https://scryfall.com/card/leb/287/volcanic-island)可以產出藍/紅雙色，且同時具有山脈與海島兩種地類別。
 
-![駕手地](https://i.meee.com.tw/9fu6dCH.png)
+![駕手地](https://images.guildmagesforum.tw/posts/DFT-Colorless/65b0e663feb9.webp)
 分數：3.0
 評語：駕手地站著進場的條件在本環境並不難達成，其起動式異能更能在地數量較多時轉變成能夠協助搭載的駕手。
 
-![補血地](https://i.meee.com.tw/tcO9GnH.png)
+![補血地](https://images.guildmagesforum.tw/posts/DFT-Colorless/60522c95807b.webp)
 分數：2.5
 評語：橫置進場的雙色地，除了調色外，其補血的觸發式異能在限制賽中的正面效益也會更被放大。
 

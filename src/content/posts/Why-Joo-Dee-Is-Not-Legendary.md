@@ -65,7 +65,7 @@ excerpt: "Hello! My name is Joo Dee. You’re in Ba Sing Se now. Everyone is saf
 
 ## 補個魔風點
 
-![](https://i.meee.com.tw/HbMtxAL.jpg)
+![](https://images.guildmagesforum.tw/posts/Why-Joo-Dee-Is-Not-Legendary/bc50d214361e.webp)
 
 沒錯！又是辣個熟悉的 {% mtglink "Agatha's Soul Cauldron" alt="鍋子" %} 最對味！今天我們要做的料理是Joo Dee鍋！只要把用鍋子放逐掉墳場的 {% mtglink "Joo Dee, One of Many" %} ，你其他身上有+1/+1指示物的生物，就可以在巫術時機，支付任意一點有色法力並橫置來派出自己的複製品！當然，作為效果的一部分，犧牲一個神器或生物這個代價還是少不了的。
 
@@ -81,4 +81,4 @@ excerpt: "Hello! My name is Joo Dee. You’re in Ba Sing Se now. Everyone is saf
 
 回到本篇的女主角。雖然網路上我找不到更多的額外線索，但我相信在結局後的Joo Dee們，能於不再有戴笠的和平之世裡散入民間，逐漸拾回自己的記憶、名字、身分、以及主體性，並取回[內心的寧靜](https://scryfall.com/card/emn/36/peace-of-mind)。
 
-![](https://i.meee.com.tw/uN76AAc.png)
+![](https://images.guildmagesforum.tw/posts/Why-Joo-Dee-Is-Not-Legendary/363250c3854d.webp)

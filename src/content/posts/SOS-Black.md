@@ -203,6 +203,6 @@ excerpt: "這次的黑色能給個ㄇ級分"
 
 ## 結語
 自己做了一個從ㄅ到ㄦ的評分表，但解析度有點感人就當作小彩蛋看看就好。
-![黑色 ㄅ級分](https://hackmd.io/_uploads/HyjHJu92Wx.png)
+![黑色 ㄅ級分](https://images.guildmagesforum.tw/posts/SOS-Black/2aaf342acaca.webp)
 
 本系列為多色系列，整體看下來後基本上純色的牌都比較像是和多色牌打搭配的，本身的數值和效果都只是尚可接受。此外，能一卡多用的牌張分數基本上不可能太低，除非兩邊都很爛。另外不管從哪個顏色看C卡、U卡的效果都有明顯的膨脹，說不定以後的[灰棕熊](https://scryfall.com/card/10e/268/grizzly-bears)，沒有一兩個正向異能都不能是C卡了XD。

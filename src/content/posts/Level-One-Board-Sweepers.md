@@ -73,7 +73,7 @@ excerpt: "Level One: Board Sweepers"
 
 假設你施放了攻城犀牛（你也確實該這麼做）。現在你的對手也施放了他自己的攻城犀牛。現在該怎麼辦？施放命途交錯會產生完全對稱的效果，起不到太大作用，所以假設你選擇按兵不動。現在對手施放了[首領阿娜芬札](https://scryfall.com/card/ktk/163/zht/%E9%A6%96%E9%A0%98%E9%98%BF%E5%A8%9C%E8%8A%AC%E6%9C%AD-(anafenza-the-foremost))。現在你可以進行二換二的交換（用命途交錯和攻城犀牛換掉對方的攻城犀牛和首領阿娜芬札）。這是一次不錯的交換，但並不令人興奮，而且你的去除咒語顯得昂貴且笨拙。你可以堅持住，並寄望於對手繼續鋪場施放第三個生物，但如果他不再出生物呢？或是他反而殺掉了你的攻城犀牛，並造成了超出你預期的傷害呢？
 
-![](https://i.meee.com.tw/BwM4yx4.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Board-Sweepers/7442fe54aaf7.webp)
 
 我發現這類情境非常普遍。在阿布贊鏡像對局中，[命途交錯](https://scryfall.com/card/frf/65/zht/%E5%91%BD%E9%80%94%E4%BA%A4%E9%8C%AF-(crux-of-fate))並非一張差牌——你幾乎總能找到它的用途。然而，它也有些不可靠。回到這局遊戲的開頭，並將命途交錯換成[英雄殉身](https://scryfall.com/card/ths/90/zht/%E8%8B%B1%E9%9B%84%E6%AE%89%E8%BA%AB-(heros-downfall))……遊戲計畫就會變得簡單多了。你施放犀牛，殉身掉對手的犀牛，接著開始猛攻！
 
@@ -89,7 +89,7 @@ excerpt: "Level One: Board Sweepers"
 
 第二，控制（或中速）套牌在換備牌前，往往沒有足夠的點殺來穩定擊敗生物套牌。為了在第一盤瓦解綠獻力或純紅套牌，必須投入大量的去除咒語，以至於幾乎沒有空間容納其他東西。面對那些不靠生物獲勝的套牌<sup>[註3](#quote3)</sup>時，他們手裡會有太多的死牌！
 
-![](https://i.meee.com.tw/8gosLyw.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Board-Sweepers/49c3aeb46e81.webp)
 
 出於這些原因，第一盤往往會演變成「你有沒有掃場咒語？」的僵局，而這也是掃場咒語威力最強的時候。換過備牌後，對局的形勢發生了變化。生物套牌知道在備牌局中必須準備好應對掃場咒語，因此他們會調整遊戲計畫。他們會利用鵬洛客、掩襲生物、或是任何他們能運用的抗掃場手段，來讓威脅多樣化。有時，他們甚至會換入能反制掃場咒語的牌張，像是[攫取思緒](https://scryfall.com/card/ths/107/zht/%E6%94%AB%E5%8F%96%E6%80%9D%E7%B7%92-(thoughtseize))或[失效](https://scryfall.com/card/dtk/65/zht/%E5%A4%B1%E6%95%88-(negate))。
 

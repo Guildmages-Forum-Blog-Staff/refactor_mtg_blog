@@ -25,7 +25,7 @@ categories:
 
 ### 現開 Pool 1
 
-![](https://i.postimg.cc/nrjV6F3x/IMG-E9737-1.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/c1160e8a41a2.webp) 
 
 #### 賽後評價
 這是個打了個三勝的 pool ，但我覺得這其中有點運氣成分，不然應該是個兩勝左右的構築，會需要稍加微調來放大強度。
@@ -39,7 +39,7 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.postimg.cc/V6bLhsG8/IMG-E9738.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/6e8573644c95.webp) 
 
 備牌如上。但如果讓我重組一次的話，我會拔掉大部分的黑色，只保留黑霸主 [Overlord of the Balemurk](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk) 、沼澤循環 [Spectral Snatcher](https://scryfall.com/card/dsk/116/spectral-snatcher)，然後放入更多低費曲線來組成紅綠快攻沾黑。
 
@@ -60,7 +60,7 @@ categories:
 
 ### 現開 Pool 2
 
-![](https://i.postimg.cc/Wpg163qm/IMG-E9739.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/79ded524d067.webp) 
 
 #### 賽後評價
 這是一個值得三勝的 pool ！主牌少拍到一張一費山羊 [Possessed Goat](https://scryfall.com/card/dsk/25/possessed-goat) ，生物曲線超棒，然後幾乎都可以向上成長或交換、去除也非常優秀！只有兩勝是因為我第三局都在摸地XD 
@@ -74,14 +74,14 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.postimg.cc/P5rfjQ3K/IMG-E9740.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/0274b3162c98.webp) 
 
 唯一不滿意的牌是 [Derelict Attic//Widow's Walk](https://scryfall.com/card/dsk/93/derelict-attic-widows-walk) ，原本覺得打到後面資源會不夠才放的，但真的有點爛，扣血抽牌在限制賽還是不太舒服，四費那邊要**生物單獨攻擊才會有 +1/+0 死觸**，感覺是給曲線較差的小生物黑白一個中後期白嫖的手段；但對我這個曲線頂天的黑白色組，侵略性更強的 [Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts) 會更加適合。
 
 
 ### 現開 Pool 3
 
-![](https://i.postimg.cc/c4d0RcSZ/IMG-E9751.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/3451e1f36edf.webp) 
 
 #### 賽後評價
 雖然打了兩勝，但這個 pool 組錯了！白色不值得混。被三張藍黑強牌吸引了組成主藍黑混白，但其實作為主色的藍黑都不夠強，曲線也偏弱。
@@ -96,18 +96,18 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.postimg.cc/SQ6mYvHD/IMG-E9750.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/ae909faabf5d.webp) 
 
 備牌如上。讓我重組的話，我會改組成藍綠混黑，如下圖。
 
-![](https://i.postimg.cc/nhDyNdB6/ae47f1f5-675c-4644-ad79-b795b9809f3e.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/80023267c46c.webp)
 
 雖然解不是很好，但有兩張 [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot) 可以加速出大怪，而二費空過時有 [Don't Make a Sound](https://scryfall.com/card/dsk/49/dont-make-a-sound) 可以康，康不掉也可以刺探二癱瘓對手當回的攻勢，並潤滑我們後續的曲線；或是可以做樹林、海島循環，再爛也有個捕熊夾XD 等到四五回合後就是我們的天下了，而在更多綠色優質生物的補強下， [Silent Hallcreeper](https://scryfall.com/card/dsk/72/silent-hallcreeper) 的複製效果也有更多的好對象，而靠 [Cursed Windbreaker](https://scryfall.com/card/dsk/47/cursed-windbreaker) 飛起來的綠色大怪也是相當有侵略性的！
 
 
 ### 現開 Pool 4
 
-![](https://i.postimg.cc/rwPTLXtF/IMG-E9753.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/137477f389c1.webp) 
 
 #### 賽後評價
 雖然打到兩勝，但又是一個組錯的 pool ，混綠混得很不值得，應該專注打黑白。第一盤被一個曲線好到爆的白藍 tempo 打破頭，而對面還有白藍雙霸主就不提了……如果爆地或招沒有搭配上，這甚至是個零 ～ 一勝的構築。
@@ -117,11 +117,11 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.postimg.cc/bJQfbZVs/IMG-E9754.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/7feb5c732031.webp) 
 
 備牌如上。如果要我讓我重組的話，我會改組成黑白挖墳就好，如下圖。
 
-![](https://i.postimg.cc/sXhKg8Dr/1d95ae34-750b-48f3-a512-f374244d2fe2.jpg)
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/9e13c5730868.webp)
 
 與其說是黑白挖墳，不如說是帶有 [Valgavoth, Terror Eater](https://scryfall.com/card/dsk/120/valgavoth-terror-eater) 拚上限的曲線快攻。兩張 [Fear of Surveillance](https://scryfall.com/card/dsk/11/fear-of-surveillance) 邊打邊刺探一太強，搭配 trick 跟適度的去除，前期真的太滑順！要不是沒有更好的 trick ，不然五費的 [Live or Die](https://scryfall.com/card/dsk/107/live-or-die) 我真的有點想拔掉，畢竟除了五費以上曲線，沒什麼好挖的；而五費正殺在這樣的曲線快攻中有點太笨重了，甚至不如前面提到的 [Seized from Slumber](https://scryfall.com/card/dsk/28/seized-from-slumber) 。可惜這個 pool 沒有平原、沼澤循環，不然 [Live or Die](https://scryfall.com/card/dsk/107/live-or-die) 的價值會更高一點。
 
@@ -130,12 +130,12 @@ categories:
 
 ### 現開 Pool 5 （沒有打，無賽後評論 & 備牌優化）
 
-![](https://i.postimg.cc/fyC426Ns/IMG-E9756.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/407130456320.webp) 
 
 #### 主牌介紹與討論
 這個 pool 偏弱，開了白綠雙地脈跟 SPG 的 [Hallowed Haunting](https://scryfall.com/card/spg/64/hallowed-haunting) 但結界搭配偏弱，很容易地就選擇了曲線較好的紅綠作為構組，套牌的組成也是以能盡快達成躁狂的方向去組，甚至放入了兩張 [Manifest Dread](https://scryfall.com/card/dsk/189/manifest-dread) 去填充巫術跟多磨一張。不過在放入 [Fear of Exposure](https://scryfall.com/card/dsk/177/fear-of-exposure) 時，我不禁想念起 [Grasping Longneck](https://scryfall.com/card/dsk/180/grasping-longneck) ，果然紅綠還是需要它啊！
 
-![](https://i.postimg.cc/CMsVxff2/IMG-E9755.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/8b1918510010.webp) 
 
 備牌如上。反光的三張綠牌分別是 [Say Its Name](https://scryfall.com/card/dsk/197/say-its-name) 、 [Cathartic Parting](https://scryfall.com/card/dsk/171/cathartic-parting) 、以及 [Cautious Survivor](https://scryfall.com/card/dsk/172/cautious-survivor) 。大家看一看有不一樣的想法可以跟我討論！
 
@@ -143,7 +143,7 @@ categories:
 
 #### 主牌介紹與討論 — 藍黑控制
 
-![](https://i.postimg.cc/NfQsHcVc/IMG-E9757.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/97d417297b06.webp) 
 
 我個人覺得這是我這次全部的現開 pool 組得最好的一個。我甚至可以違背限制賽的曲線理論，只放 10 張生物！而我這麼構築的最大前提，就是我有足夠的主題單卡、以及最重要的高費炸彈 [Valgavoth, Terror Eater](https://scryfall.com/card/dsk/120/valgavoth-terror-eater) ！當然，即使你沒九費大惡魔，這個思路在你有一些海島/沼澤循環、幾張高費惡魔也仍然成立，有一張 [Live or Die](http://scryfall.com/card/dsk/107) 來挖墳就更棒了，但沒有也沒關係。
 
@@ -163,25 +163,25 @@ categories:
 
 #### 主牌介紹與討論 — 白綠強攻
 
-![](https://i.postimg.cc/HsSDQDz4/IMG-E9758.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/e7b3126b70a1.webp) 
 
 反光的兩張白牌是一樣的，都是 [Cult Healer](https://scryfall.com/card/dsk/2/cult-healer) 。這個構築較差的是二費曲線較不足，但解牌跟侵略性是好的，三費幽浮 [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) 的搭載（crew）跟 survivors 們搭配良好，搭配 [Defiant Survivor](https://scryfall.com/card/dsk/175/defiant-survivor) 派出一堆顯化懼象也相當不錯。組完發現可能多放一張[ Bear Trap](https://scryfall.com/card/dsk/243/bear-trap) 會更好，我已經變成捕熊夾的愛好者了！
 
 不過整體看下來，藍黑的完整性要好太多了，這個 pool 組完我還是會主打藍黑，我想了一輪後好像找不到其他換成白綠的理由XD
 
-![](https://i.postimg.cc/P5PGy3FG/IMG-E9759.jpg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/bcdf4975228e.webp) 
 
 備牌如上，大家看一看有不一樣的想法可以跟我討論！
 
 
 ### 現開 Pool 7 （[腦力激盪](https://scryfall.com/card/dsc/113/brainstorm)用！）
 
-![](https://i.postimg.cc/jdDRxmTt/IMG-20240922-152620.webp)
-![](https://i.postimg.cc/mrbqD19C/IMG-20240922-153402.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/88ed288f6a7d.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/85a4197efba5.webp)
 
 這是另一位 GF 團隊的編輯 [王靖](/authors/faintmama/) 提供給我的主備牌組法，但我們討論了一下覺得這樣組實在沒有很厲害，而這個 pool 的困難程度也是魔王級的。直到我們重新檢視一下主備牌，看到了五色傳奇 [Marina Vendrell](https://scryfall.com/card/dsk/221/marina-vendrell) 、 [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality) 、 [Ghostly Keybearer](https://scryfall.com/card/dsk/61/ghostly-keybearer) 、以及……各式各樣的隔間！
 
-![](https://i.postimg.cc/6629wFtw/F3-B9710-A-69-BD-4-DFD-9-C47-908960651-BAA.webp)
+![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/0f88651b73c4.webp)
 
 靈機一動，組出了這副「五花八門」的現開賽套牌。
 

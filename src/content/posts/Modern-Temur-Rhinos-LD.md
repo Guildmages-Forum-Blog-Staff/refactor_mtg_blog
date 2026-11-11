@@ -15,7 +15,7 @@ authors:
 
 大家好，我是葉永丞 David Yeh，這次MIT第五輪8勝0敗2和局，取得2024世界賽與ProTour資格，這篇正經一點講套牌就好 ~~（幹話留到下一篇）~~
 
-![](https://i.postimg.cc/rmjtPkPv/David-championship.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/e3788ee3985c.webp)
 
 ## 賽前準備
 
@@ -23,11 +23,11 @@ authors:
 
 [MITQ#5\_桌遊侍\_Temur Rhinos_David Yeh](https://www.mtggoldfish.com/deck/5963553#paper)
 
-![](https://i.postimg.cc/t9m6Vrzv/MITQ-5-Temur-Rhinos-David-Yeh.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/f5e0ee84e7b6.webp)
 
 上圖是我在桌遊侍MITQ#5使用的套牌，那天贏了四套紅黑Scam與兩套紅燒，感覺不差。然而......
 
-![](https://i.postimg.cc/dQj8dVXw/20231204-B-R.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/b4b990460fa9.webp)
 
 [DECEMBER 4, 2023, BANNED AND RESTRICTED ANNOUNCEMENT](https://magic.wizards.com/en/news/announcements/december-4-2023-banned-and-restricted-announcement)
 
@@ -35,15 +35,15 @@ authors:
 
 好吃的Scam變少了，難纏的4C Omnath也變少了。少了怒火以後，可預期小生物套牌變多，較強的錘子、鱗甲共鳴、人類、黑綠醫生、白綠神砲應該會多一些；而妖精、人魚、共鳴、侵染、死稅、班特雲移這些稀有動物應該也會有。原先只想用[碎骨巨人](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp)取代[怒火](https://scryfall.com/card/mh2/126/fury)就好......
 
-![](https://i.postimg.cc/sfmnYr0d/McluuQah.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/379f6fb7fcaf.webp)
 
 ### After MKM releases
 
-![](https://i.postimg.cc/7LdWG8X8/Domain-draco.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/bc3f7b35b686.webp)
 
 但卡洛夫莊園謀殺案（Murders at Karlov Manor, MKM）對近代改變超級多，首先是[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)，讓Domain Zoo跳到前五名，美國RC也出現大量的新Domain Rhinos，[骸龍後裔](https://scryfall.com/card/mh2/323/scion-of-draco) + [十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)的組合，[骸龍後裔](https://scryfall.com/card/mh2/323/scion-of-draco)受益於地脈的效果具有警戒、辟邪、繫命、先攻、踐踏再加上本身的飛行異能，除非解掉[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)，不然根本無法血量競賽。
 
-![](https://i.postimg.cc/Vvmv8hxn/surveillands.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/1d1899fc29cd.webp)
 
 另外帶著兩種基本地地類別的刺探地與找地地互動良好，讓原先的[走骨行屍](https://scryfall.com/card/tsr/121/living-end)與[怨靈復仇](https://scryfall.com/card/bok/67/goryos-vengeance)都升了一級。
 
@@ -53,7 +53,7 @@ Domain Zoo與Domain Rhinos變多，也讓許多套牌開始放MKM最強C卡 — 
 
 > 寫到這邊發現[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)被禁了......
 >
-> ![](https://i.postimg.cc/BbwnWv4P/20240311-B-R.jpg)
+> ![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/57e4af76ce7a.webp)
 >
 > 打完MITQ隔天[怒火](https://scryfall.com/card/mh2/126/fury)被禁......
 > 打完MIT隔天[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)被禁......
@@ -62,7 +62,7 @@ Domain Zoo與Domain Rhinos變多，也讓許多套牌開始放MKM最強C卡 — 
 
 老實說我原先準備用Domain Rhinos打這次MIT，套牌如下：[MIT#5_Domain Rhinos_David Yeh](https://www.mtggoldfish.com/deck/6229524#paper)
 
-![](https://i.postimg.cc/PXKvT2NM/MIT-5-Domain-Rhinos-David-Yeh.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/0e44b9eb94d6.webp)
 
 在構築時的感覺是套牌塞得滿滿，可動位置實在太少，以下圖[美國RC第7名的Domain Rhinos](https://melee.gg/Decklist/View/363672)為例，應該還是[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)被禁前最常見的正備構成，是一個大家都一樣的制服套牌。
 
@@ -73,7 +73,7 @@ Domain Zoo與Domain Rhinos變多，也讓許多套牌開始放MKM最強C卡 — 
 1. 三色地選[尚奪爾的酒廊](https://scryfall.com/card/snc/260/xanders-lounge)或[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)，這兩塊地對應到的找地地與電震地 / 刺探地自然不同。
 2. 備牌是否有四張[據地卡甫](https://scryfall.com/card/mh2/216/territorial-kavu)：LSV在RC是放[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)，我自己覺得[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)搭[蒸氣噴發口](https://scryfall.com/card/rvr/288/steam-vents) + [雷鳴瀑布](https://scryfall.com/card/mkm/269/thundering-falls)，應會比[尚奪爾的酒廊](https://scryfall.com/card/snc/260/xanders-lounge)搭[殿堂花園](https://scryfall.com/card/rvr/290/temple-garden) + [蔥鬱門廊](https://scryfall.com/card/mkm/263/lush-portico)來的好，畢竟Domain Rhinos還是以紅藍綠為主，應該不會想有兩塊白綠地。
 
-![](https://i.postimg.cc/TYCpBSmg/Domain-lands.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/8e2056e5a8fa.webp)
 
 也有想過另一種三色與兩色地的組合，黑色最無用，因此要跟三色地綁在一起，這樣一回[拉斐茵的高塔](https://scryfall.com/card/snc/254/raffines-tower)，二回無論是[晃動大地](https://scryfall.com/card/rvr/289/stomping-ground)或[商貿城區](https://scryfall.com/card/mkm/259/commercial-district)都行，二回有白有藍要[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)或[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)都行，但這樣缺點是三回有可能發不出[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)。~~（也沒差，都被禁了.....）~~
 
@@ -85,7 +85,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 有想過放一張[永世陰謀家祖爾](https://scryfall.com/card/dmu/228/zur-eternal-schemer)，讓套牌八張地脈變成辟邪、死觸、繫命的類[亞龍捲引擎](https://scryfall.com/card/2xm/308/wurmcoil-engine)來增加威脅；另一方面，祖爾帶藍色也能餵給[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)與[銳敏](https://scryfall.com/card/mh2/67/subtlety)。
 
-![](https://i.postimg.cc/DwthJdL8/OAN.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/97ac8c9b5e5d.webp)
 
 又或是其他優秀的多色牌，例如[生機核歐那斯](https://scryfall.com/card/znr/312/omnath-locus-of-creation)、[重聯君王亞拉岡](https://scryfall.com/card/ltr/192/aragorn-the-uniter)、[先兆娜希麗](https://scryfall.com/card/cmm/929/nahiri-the-harbinger)之類的，總之胡思亂想了幾天，試圖讓套牌不那麼單調。之後又嘗試組了Domain [變境](https://scryfall.com/card/m19/201/scapeshift)、4C歐那斯拉骸龍.....
 
@@ -123,7 +123,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 三張[銳敏](https://scryfall.com/card/mh2/67/subtlety)，因為[銳敏](https://scryfall.com/card/mh2/67/subtlety)對以前紅黑Scam好用，對鐵木爾犀牛、走骨行屍都不好，對Domain Zoo、Domain Rhinos可把對手二回準時出的[骸龍後裔](https://scryfall.com/card/mh2/323/scion-of-draco)推回去還行。倘若4C歐那斯、Domain Rhinos等有[理時泰菲力](https://scryfall.com/card/war/221/teferi-time-raveler)的套牌越來越多的話，[銳敏](https://scryfall.com/card/mh2/67/subtlety)放滿或許會比較好。
 
-![](https://i.postimg.cc/NFtr7pfd/cycling.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/6086f2d318d1.webp)
 
 一張[慷慨樹人](https://scryfall.com/card/ltr/169/generous-ent)取代[揭現羅瑞安](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed)，只是希望第一盤遇到走骨行屍時，真的不幸被挖墳一波時，至少有樹人可頂[猛獁](https://scryfall.com/card/ltr/139/oliphaunt)，而且練習時有趣的是有時候正拍大樹，對面骸龍後裔或[黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)也打不過來。揭現羅瑞安還能餵給[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)與[銳敏](https://scryfall.com/card/mh2/67/subtlety)，就看個人取捨。
 
@@ -131,7 +131,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 [奇探逸才凱瀾](https://scryfall.com/card/mkm/212/kellan-inquisitive-prodigy-tail-the-suspect)起初是在Hareruya網站看日本人放在備牌，實際上用起來就是超強的[撒拉天使](https://scryfall.com/card/dmr/25/serra-angel)，特別是剛好對上錘子、鱗甲、護身符、綠創時更顯得神勇；真的想抽牌時，也能拆自己的[無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent)割韭菜抽抽牌，二回沒事做想加速也能歷險施放跟蹤嫌犯。又藍又綠能餵給[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)、[堅忍](https://scryfall.com/card/mh2/157/endurance)與[銳敏](https://scryfall.com/card/mh2/67/subtlety)更是完美。加上他是傳奇，能讓[歷祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)、[霄城大田原](https://scryfall.com/card/neo/271/otawara-soaring-city)的呼魂減費也會讓不熟的玩家算錯法力，3/4的體格剛好比銳敏、[龍怒通念師](https://scryfall.com/card/mh2/121/dragons-rage-channeler)、[厚顏借物靈](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft)大一點，也不怕被備牌的[兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)掃掉。
 
-![](https://i.postimg.cc/tJwSRsd0/ice-giant.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/a18cd133e949.webp)
 
 [熱火//寒冰](https://scryfall.com/card/mh2/290/fire-ice)其中一張改為碎骨巨人，有機會一舉打穿[至尊魔戒](https://scryfall.com/card/ltr/697/the-one-ring)進場無敵的效果，若賽場的4C歐那斯、綠創、與泰坦護身符非常多的話，會減少[熱火//寒冰](https://scryfall.com/card/mh2/290/fire-ice)數量來增加碎骨巨人。
 
@@ -151,7 +151,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 #### 沒有使用的備牌
 
-![](https://i.postimg.cc/GmbCWpQ7/SB-No.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/ea5b6ccb8000.webp)
 
 再來是備牌的選擇，先說說沒有放的備牌，[霸佔](https://scryfall.com/card/cmm/80/commandeer)主要是用來偷對面的[至尊魔戒](https://scryfall.com/card/ltr/697/the-one-ring)，現在有帶魔戒的套牌像是4C歐那斯、泰坦護身符、白藍控制沒Cascade來得多，況且[提莎娜的縛潮師](https://scryfall.com/card/lci/335/tishanas-tidebinder)已能處理魔戒。而[黑曜石焰喉龍](https://scryfall.com/card/mh2/137/obsidian-charmaw)就是針對綠創類的傢俱組套牌而已，以往對四[墨蛾連結點](https://scryfall.com/card/mbs/145/inkmoth-nexus)四[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)的錘子、鱗甲我也會上；但這類套牌數量不多，靠康拆應該就足夠。
 
@@ -161,11 +161,11 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 選用的備牌主要參考[美國RC 冠軍Minh Nguyen的套牌](https://melee.gg/Decklist/View/366769)，我希望我的備牌至少有四個反擊咒語、四個拆、以及四張[堅忍](https://scryfall.com/card/mh2/157/endurance)。
 
-![](https://i.postimg.cc/HLyJkgj7/image.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/053b12c5c1df.webp)
 
 四張反擊咒語就是[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)與[爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)的組合，其中[爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)一定要有一，除了後手二回能反擊Cascade咒語以外，大多對局對手認為你下光[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)以後，只要繞過[神祕干擾](https://scryfall.com/card/eld/58/mystical-dispute)就能結算，這時跟[取消](https://scryfall.com/card/m21/46/cancel)一樣的爾泰的輕蔑就很好用。
 
-![](https://i.postimg.cc/CLTqBdbL/image.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/e5c6ce81f3b5.webp)
 
 四個拆就是[活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)與[兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)的組合。會決定至少二兄弟反目，除了拆鎚子、鱗甲以外，對上Domain Zoo也能掃8貓4猴（[野群拿卡地](https://scryfall.com/card/ala/152/wild-nacatl)、[好鬥尼索巴](https://scryfall.com/card/dmu/174/nishoba-brawler)、[巧手竊猴勒格文](https://scryfall.com/card/mh2/315/ragavan-nimble-pilferer)）、[俄佐立變節者拉溫妮](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade)、[擾咒法師](https://scryfall.com/card/2xm/210/meddling-mage)或[卓尼斯官員](https://scryfall.com/card/iko/11/drannith-magistrate)。對醫生也能掃掉[飢潮格蕊斯](https://scryfall.com/card/mh2/202/grist-the-hunger-tide)、[快樂的半身人](https://scryfall.com/card/ltr/158/delighted-halfling)、[無魂獄卒](https://scryfall.com/card/one/241/soulless-jailer)。
 
@@ -184,17 +184,17 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 - 六費正拍的互鬥可以解[道西虛空行者](https://scryfall.com/card/mh2/81/dauthi-voidwalker)、[無魂獄卒](https://scryfall.com/card/one/241/soulless-jailer)、[俄佐立變節者拉溫妮](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade)、[卓尼斯官員](https://scryfall.com/card/iko/11/drannith-magistrate)、[擾咒法師](https://scryfall.com/card/2xm/210/meddling-mage)、或[紅月賢者](https://scryfall.com/card/tsr/175/magus-of-the-moon)等hater；
 - 而在沒有干擾的狀況甚至能敏捷打掉[理時泰菲力](https://scryfall.com/card/war/221/teferi-time-raveler)，或一拳擊殺血線低的對手。
 
-![](https://i.postimg.cc/YqY0Df3P/Gozilla.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/624bba993cf3.webp)
 
 #### 換備策略
 
-![](https://i.postimg.cc/zGcJfCDc/SB-write.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/9f681f555593.webp)
 
 再來是備牌更換策略，上圖是我一張備牌筆記，現在網路發達，各套牌都能找到教學影片或文章，把各大主流套牌對犀牛的策略看過一遍，為此我準備了十六個套牌的策略，知道他們在想甚麼，他們大致上會下掉甚麼牌，那麼我上的備牌是否還有效。
 
 備牌策略準備充足後，比賽時Open List一看就知道他會上哪些，那他會下哪些牌大概能猜個八九不離十，甚至他留了哪些牌還能推測他應該是不熟對局。另外我把護身符與醫生的Complete Guide看了兩遍，大概知道哪些情況要注意甚麼，總之賽前花越多時間研究對手，比賽時遇到就比較不慌。
 
-![](https://i.postimg.cc/d3D0xBJR/Possible-SB.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/044b90c24d39.webp)
 
 最後，上面這幾張我原先有考慮過的，只是沒時間測試，也不確定要放正邊還是備牌，留待之後看看有沒有機會測囉！
 
@@ -214,7 +214,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 ### 第三局 白藍控制 1-1
 
-![](https://i.postimg.cc/hGkj5xfN/R3.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/7659848ad145.webp)
 
 上焦點對局啦！
 

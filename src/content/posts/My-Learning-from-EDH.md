@@ -74,7 +74,7 @@ authors:
 
 可我終於是能看到勝機，然後拼命把握住了。這是筆者在Conquest賽制的第一篇章，恰巧也證明了**菜鳥之力**的真實性，我選擇卑鄙又巧妙地利用它。
 
-![新手最可愛惹對吧](https://i.imgur.com/s0I2EDH.png)
+![新手最可愛惹對吧](https://images.guildmagesforum.tw/posts/My-Learning-from-EDH/d242e7ae5cbd.webp)
 
 What doesn’t kill you makes you stronger and stranger.
 
@@ -94,7 +94,7 @@ What doesn’t kill you makes you stronger and stranger.
 
 而這些原則都不是絕對，因為其他玩家的習性也得納入考量：有人堅決不理會外交、有人只是來惡作劇取樂的、有人習慣提早放棄、有人看不清場上的局勢……現在的我會說一切沒有對錯，只有理解或否的問題。
 
-![打我啊笨蛋](https://i.imgur.com/EnEOPy0.jpeg)
+![打我啊笨蛋](https://images.guildmagesforum.tw/posts/My-Learning-from-EDH/786ee6141201.webp)
 
 筆者的社群中，有位技術本就嫻熟的強者常打[創機勝利械](https://scryfall.com/card/nec/4/shorikai-genesis-engine)，那是一張非常強力的單卡~~它甚至還不是生物有時很難殺~~。曾有玩家表示難以招架，但我倒是有不同的看法：選用強力指揮官便意味著會吸引炮火，那是另一層面的困難，只要其他玩家明確結盟，檯面上最強勢的選手反而容易提早下課，同時他也沒有「扮豬吃老虎」的可能性，心理戰方面較沒有彈性，只能筆直衝向勝利。
 
@@ -128,7 +128,7 @@ What doesn’t kill you makes you stronger and stranger.
 
 構築賽有構築賽的美好，每張單卡選擇皆是玩家意志的延伸。話雖如此，仍有一項運氣以外的決勝要素存在其中，那便是**玩家本身**。同樣一副套牌，交給習慣完全迥異的選手使用，多少會呈現出不同面向的風采。在這遊戲之中，我們的確是和鵬洛客同維度的存在，每場競賽都可以是玩家之間的頂尖對決－身處最困難的TCG世界中，做出最困難也最精彩的一次次決策。
 
-![小動物金可愛](https://i.imgur.com/BFHOZ3E.jpeg)
+![小動物金可愛](https://images.guildmagesforum.tw/posts/My-Learning-from-EDH/952f0add3091.webp)
 
 我知道自己是個想贏的人，也喜歡走在通往勝利的路途上。限制賽是我和老手們較能並肩齊行的領域，至少不必花費大筆現金購入某些神卡~~我就省~~。當然，限制賽也有其訣竅、甚至更多的細節，鑽研進步的過程中偶爾也會感到抓狂，不過，三十六歲的我比以前更加理解自己，就算到頭來無法在限制賽領域留下足跡，我想我也能滿足於自己的付出和嘗試。
 

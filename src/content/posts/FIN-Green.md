@@ -101,7 +101,7 @@ excerpt: "陸行鳥好可愛"
 評語：除了幫大費的綠色咒語減費以外，六費在兩個生物上放兩個豆是可以帶來很大的壓力的，如果對手短期內沒有解可以輕易的幫助你贏得遊戲。
 
 <!---185--->
-![185](https://i.meee.com.tw/WEuY2BV.png)
+![185](https://images.guildmagesforum.tw/posts/FIN-Green/21eaf52e7b95.webp)
 分數：3.0
 評語：2費就是普通的費用填充牌，4費可以當作叫一隻4/4、抽一張牌、下回合Ramp的優質生物。
 
@@ -181,7 +181,7 @@ excerpt: "陸行鳥好可愛"
 評語：如果能在一二回出就十分強力，不過越後期抽到的強度就越差
 
 <!---201--->
-![201](https://i.meee.com.tw/yegT7Ba.png)
+![201](https://images.guildmagesforum.tw/posts/FIN-Green/7c40e893653e.webp)
 分數：3.0
 評語：鳥主題的優秀組件，背面除了Ramp還有類領主的效果。
 
@@ -231,7 +231,7 @@ excerpt: "陸行鳥好可愛"
 評語：鳥主題的強力單卡，即使牌組沒有太多鳥，可以從牌頂下地也可以幫助中後期topdeck。
 
 <!---211--->
-![211](https://i.meee.com.tw/TyUcCMA.png)
+![211](https://images.guildmagesforum.tw/posts/FIN-Green/a96ccc320c2e.webp)
 分數：3.5
 評語：4費回收墳場的永久物來增加資源就已經不錯，如果能夠配合翻面那就更好。
 

@@ -39,7 +39,7 @@ categories:
 
 > 原型套牌：[Esper Tempo by Yu Chun Tseng](https://melee.gg/Decklist/View/c8e4b859-3c19-432c-8906-b4530001c880)
 
-![](https://i.meee.com.tw/9Bl2LzT.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Revisit/eb4b7bdfcfbb.webp)
 
 - 康牌位3張全帶 {% mtglink "Spell Pierce" %} ，這是我用Izzet Spellementals準備MIT#12的收穫之一，Pierce在當前的環境不論是進攻上阻擋對手的威脅，或保護對手的掃場咒語等抵銷手段，都是一等一的強牌。考慮到Spotlight是非公開牌表比賽，帶滿3張最尖的Pierce，會比只帶1-2震懾對手用更為實際。
 - 主牌只使用3張 {% mtglink "Requiting Hex" %} ，原因同上述的meta預測，在控制、惡魔可能不少的環境。Hex成為死牌的機率不低，因此只放3張，去應對靈技、可能有的地落、瑪爾都棄牌足矣。
@@ -62,7 +62,7 @@ categories:
 
 ## Magic Spotlight: Secrets 參賽套牌
 
-![](https://i.meee.com.tw/jEzaM5v.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Revisit/98ae673023a2.webp)
 [Melee套牌連結](https://melee.gg/Decklist/View/1b46b311-152c-4e6d-b6fd-b450001b13f7)
 
 ### 選擇艾斯波忍者要先知道的事
@@ -150,5 +150,5 @@ Out: 1 {% mtglink "Dark Leo & Shredder" %} 1 {% mtglink "Floodpits Drowner" %} 1
 
 而即使成績不如預期，也請不要氣餒。一場大賽的變數，遠超我們一人、數人之力所能全面預測與掌控。沒有應該總是誰贏、也沒有應該總是誰輸。持續累積，持續鑽研，這並非短跑，而是長距離馬拉松。同時，也別忘了旅途中看過的風景，以及那些一期一會的生命體驗！
 
-![](https://i.meee.com.tw/F1Krinq.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Revisit/ba72562daba7.webp)
 <p style="text-align: center;"><a class="small">這次是，忍者家族成員們的勝利。</a></p>

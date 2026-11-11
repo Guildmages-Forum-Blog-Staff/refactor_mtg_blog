@@ -20,7 +20,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 ## 模式雙面牌（Modal Double Faced Cards）
 
-![MDFC](https://i.meee.com.tw/vC4rqDk.png)
+![MDFC](https://images.guildmagesforum.tw/posts/MSH-mechanism/050a0d09cf11.webp)
 
 模式雙面牌英文簡稱為MDFC，與平常常見的[轉化式雙面牌（TDFC）](https://guildmagesforum.tw/FIN-mechanism/#%E8%BD%89%E5%8C%96%E5%BC%8F%E9%9B%99%E9%9D%A2%E7%89%8C%EF%BC%88Transform-Double-Faced-Cards%EF%BC%89)規則上略有不同。
 
@@ -35,7 +35,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 
 ## 超能（Power-up）
-![Power-up](https://i.meee.com.tw/oEc8CZ1.png)
+![Power-up](https://images.guildmagesforum.tw/posts/MSH-mechanism/ebfa4bb99946.webp)
 
 超能異能都是只能起動一次的起動式異能，超能會在該生物上放置指定數量+1/+1指示物，並提供一些額外強化、或是產生一些額外效果。
 
@@ -44,7 +44,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 
 ## 聯合（Teamwork）
-![Teamwork](https://i.meee.com.tw/LHw52So.png)
+![Teamwork](https://images.guildmagesforum.tw/posts/MSH-mechanism/26e97a1d22e6.webp)
 
 聯合異能出現在本系列的部分瞬間和巫術牌上，且設計為施放咒語時可選擇支付的額外費用。
 
@@ -53,7 +53,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 
 ## 計劃（Plan）
-![Plan](https://i.meee.com.tw/xUFbOSN.png)
+![Plan](https://images.guildmagesforum.tw/posts/MSH-mechanism/85d5b6ee5ed7.webp)
 
 計劃是一個全新的結界副類別，計劃這個副類別本身並無特殊規則含意，但本系列的計劃都有一致的設計邏輯。
 
@@ -62,7 +62,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 
 ## 籌謀（Connive）
-![Connive](https://i.meee.com.tw/eQ5abpR.png)
+![Connive](https://images.guildmagesforum.tw/posts/MSH-mechanism/7e989b445828.webp)
 
 令一個由你操控的生物籌謀時，流程如下：抽一張牌，然後棄一張牌。如果你以此法棄了非地牌，則在此生物上放置一個+1/+1指示物。
 
@@ -72,7 +72,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 ## 掌控（Harness）
 
-![](https://i.meee.com.tw/1iOSJy5.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-mechanism/9bce4e56b396.webp)
 
 掌控異能結算後，可以將該永久物變成受掌控（Harnessed）狀態，只要該永久物已是受掌控狀態，下面的 ∞ 異能就會生效。
 
@@ -80,7 +80,7 @@ excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 
 ## 英傑（Worthy）
 
-![](https://i.meee.com.tw/1Mua98h.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-mechanism/eec1e853da15.webp)
 
 英傑是滿足條件的生物的稱呼，如果一個生物是傳奇，顏色具有紅色或白色，且不是反派（Villain），那它就是英傑。
 

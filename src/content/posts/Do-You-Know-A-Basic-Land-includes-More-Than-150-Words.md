@@ -16,7 +16,7 @@ excerpt: "你以為現在的 MTG 牌很囉嗦？那是你沒見過設計師把�
 **感覺現代《魔法風雲會》（MTG）卡牌上的字越來越多嗎？**
 讓我們看看一樣是一點白色，經典生物 {% mtglink "Savannah Lions" "A25" %} ，再看看現在的 {% mtglink "Brightfield Glider" %} ，一張 C 卡讀完，隔壁的玩家可能都已經打完一局了。
 **這其實要歸功於每個系列的特殊機制與關鍵字異能**。關鍵字的成熟，讓規則可以被濃縮，讓限制賽的單卡互動更有層次，也讓設計空間更加多元。
-![比較1](https://i.meee.com.tw/W8bmRYh.png)
+![比較1](https://images.guildmagesforum.tw/posts/Do-You-Know-A-Basic-Land-includes-More-Than-150-Words/d1739d5612db.webp)
 
 **——但這不是本篇的重點。**
 
@@ -85,7 +85,7 @@ excerpt: "你以為現在的 MTG 牌很囉嗦？那是你沒見過設計師把�
 但也**不完全對**。
 
 因為當設計師決定把「你理所當然知道的事情」全部寫清楚時，我們就得到了這個東西——**「全字地」**。
-![全字地](https://i.meee.com.tw/KCAlY7t.png)
+![全字地](https://images.guildmagesforum.tw/posts/Do-You-Know-A-Basic-Land-includes-More-Than-150-Words/0efc55392d70.webp)
 我們拿**平原**來舉例
 >平原
 >  基本地～平原。

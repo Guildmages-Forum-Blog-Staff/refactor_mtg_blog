@@ -15,11 +15,11 @@ authors:
 
 總之先上牌表：[牌表連結](https://www.mtggoldfish.com/deck/6143220#paper)
 
-![](https://i.imgur.com/X4u5EiA.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/99dfe1be57a3.webp)
 
 標準紅黑discover，是繼標準紅黑在上次禁卡一連失去三名大將[破鏡奇譚](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki)、[幫派劫庫械](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706)以及[召現絕望](https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727)之後，透過LCI一堆強力單卡如[深窟蝙蝠](https://cards.scryfall.io/large/front/6/9/69c68c95-b788-43b1-9f22-1b22c5a00b25.jpg?1699044121)，[叛教幫傳教士](https://cards.scryfall.io/large/front/8/9/89345f55-2b32-4356-945a-d56dded39909.jpg?1699044158)，[長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357)等卡重新升級，再次擠身環境卡組行列的卡組。
 
-![](https://i.imgur.com/J75e2BU.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/ecb321afcd9b.webp)
 
 ## 環境簡述
 
@@ -32,13 +32,13 @@ authors:
 著地等於勝利的資源量，外加不可不解超大本體的[大一統飛將亞崔夏](https://cards.scryfall.io/large/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1676519555)
 最便宜1費放逐，從標準到近代都有工作空間的[地脈束縛](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500)、前期可調色回血，後期可收頭的[獸群遷徙（5隻狗）](https://cards.scryfall.io/large/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1673307696)、六費打出2發電震回4血，本體還可以繼續繫命的[忿怒大天使](https://cards.scryfall.io/large/front/2/d/2d00bab2-e95d-4296-a805-2a05e7640efb.jpg?1673306308)等等，之外還有各種跳費以及掃場。本卡組從LCI環境開始就一直佔於環境上位，優點當然是和公平卡組對局時無與倫比的單卡強度，其他人還在用4，5費的強卡時五色domain可能已經直接拍下亞崔夏等收頭卡了，對生物卡組也有[烈日墮威](https://cards.scryfall.io/large/front/3/2/32e29c7d-ed4b-4eff-b3c2-d99e5b63ef8d.jpg?1682202915)等等的掃場對抗卡，對紅快為首的快攻卡組，也可以透過[5隻狗](https://cards.scryfall.io/large/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1673307696)以及忿怒大天使拼命回血頂住傷害後反攻取勝。
 
-![](https://i.imgur.com/8wiWrz6.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/5a423215b3f7.webp)
 
 然而這樣的卡組，最近在國外以及台灣各大競技賽事都不是取得很好的成績，是因為Bant Poison的崛起，以中毒為勝利手段，否定domain的回血戰術，以[斯勒夫的巢穴](https://cards.scryfall.io/large/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1675956934)為首展開蟲子海，即使被掃場也可以很快鋪出新的蟲子。最重要是中毒與失血不一樣，目前標準並沒有回復的手段（只有[Melira, the Living Cure](https://scryfall.com/card/one/209/melira-the-living-cure)可以預防接種，但每回合還是要吃一個），這也是我分析過後，認為用domain在現在賽場有被抓到死的風險可能性。
 
 ### 黑色
 
-![黑色惡人](https://i.imgur.com/P1a52Ua.jpg)
+![黑色惡人](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/dbf41103fc09.webp)
 
 > 我稱他們為黑色3大惡人。
 
@@ -58,7 +58,7 @@ authors:
 
 簡單總結：紅黑屬於按費用順次序拍卡就會贏的卡組，滾雪球力很強的卡組，一旦優勢累積起來就會抽卡不斷，適合喜歡這個爽快感的玩家，也適合喜歡簡單暴力的玩家。
 
-![](https://i.imgur.com/VyHKZ4G.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/f297700126e3.webp)
 
 紅色LCI這次最大受益點就是2種傾探（discover）生物，作為惡名昭彰的異能傾曳（cascade）的變體，discover提升靈活性，玩家不即時施放也可以拿上手，代表discover生物只要成功落地，最美好是多放1個咒語，最差也可加1張手牌，在爆發力的側面也有賺取資源value的一面。
 
@@ -82,7 +82,7 @@ authors:
 
 1. 生物卡組避不過的宿命 — 掃場。
 
-![](https://i.postimg.cc/rmdF96qW/Real-Sunfall.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/7db38df50433.webp)
 （本卡組有蝙蝠，備牌後有逼從等卡可以迴避這問題，不過對手top deck就只能拍手讚賞了）
 
 2. discover抽卡大爆死

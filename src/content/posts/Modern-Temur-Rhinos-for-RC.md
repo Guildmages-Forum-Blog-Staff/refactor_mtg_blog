@@ -43,7 +43,7 @@ authors:
 ### 牌表
 
 [牌表連結](https://www.mtggoldfish.com/deck/6182007#paper)
-![牌表](https://i.postimg.cc/DwbgS9n8/image.png)
+![牌表](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/7c27822de567.webp)
 
 這是幫助我獲得PT資格的牌表，至於為甚麼我這樣組，這個我等等會談到。
 
@@ -62,7 +62,7 @@ authors:
 3 [銳敏](https://scryfall.com/card/mh2/67/subtlety)
 1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)
 
-![固定卡位](https://i.postimg.cc/CLF059dw/image.png)
+![固定卡位](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/986e254d2d64.webp)
 
 [無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent)、[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)、[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)、[否認之力](https://scryfall.com/card/mh1/52/force-of-negation)、[揭現羅瑞安](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed)和[熱火//寒冰](https://scryfall.com/card/dmr/215/fire-ice)這些都是套牌的最核心，環境再怎麼更迭也不會影響這幾張牌的投入數量，比較重要的是剩下這幾張，他們在對抗大多數的T1套牌都表現良好，這也使他們成為套牌的固定班底。
 
@@ -75,7 +75,7 @@ authors:
 
 扣掉前面的固定卡位，目前的可動卡位只有5個，玩家可以依照預期的環境來進行調整，而我的選擇是：3張[亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)、1張[肢解](https://scryfall.com/card/mm2/79/dismember)和第4張[銳敏](https://scryfall.com/card/mh2/67/subtlety)。
 
-![可動卡位](https://i.postimg.cc/4XtqWtNs/image.png)
+![可動卡位](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/fdd12e675004.webp)
 
 除了上面這些，還有下面幾個選項也值得考慮：
 第4張[去死//走開](https://scryfall.com/card/tsr/161/dead-gone)
@@ -83,7 +83,7 @@ authors:
 第2張[黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)
 若干張[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)
 
-![其他可動卡位](https://i.postimg.cc/y15CwjFr/image.png)
+![其他可動卡位](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/1c12d3154eeb.webp)
 
 至於怎麼選，就像我說的是看「你預期的環境長怎麼樣」。我當時的預測使用量，第1~5名分別是：鐵木爾犀牛、泰坦護身符、紅藍龍侯、黑綠醫生，最後是紅黑呼魂。基於這上面的預測，我和朋友討論出了以下的結論：
 
@@ -97,7 +97,7 @@ authors:
 
 ### 地牌的配置
 
-[電震地](https://i.postimg.cc/2kL7Fzdn/image.png)各1張：這個基本不解釋。
+[電震地](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/d3ee007c0385.webp)各1張：這個基本不解釋。
 
 [紅綠](https://scryfall.com/card/mh3/236/wooded-foothills)、[藍綠](https://scryfall.com/card/mh2/250/misty-rainforest)找地地各4張：因為已經有[揭現羅瑞安](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed)的關係，因此找地我想要帶綠的優先來找基本樹林。要注意的只有如果前期有紅綠找地先使用紅綠找地，這樣在中期需要找基本海島或基本樹林時，手上的藍綠找地會比較有彈性。
 
@@ -139,7 +139,7 @@ authors:
 
 ### 內戰
 
-![內戰](https://i.imgur.com/Z8kSwGq.jpg)
+![內戰](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/2c8cdf6bbdea.webp)
 內戰老話一句：「誰抽得好誰就贏」，當然玩家能力以及套牌構成多少有點影響。
 
 我會建議在與對手對抗的過程中找到一個「Line to Play」，有時候1回Suspend[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)可能還比3回Csacade來的更好，因為如果你3回Csacade只是讓出機會給對手Csacade犀牛出來跟你互換。在這個情況下，如果對手有康牌而你沒有那對局可能會對你不利，而且如果你們雙方都有結算[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)也沒有哪一方比較好，你們只是交換而已。因此，1回Suspend可以讓你在關鍵的第3~4回有法力來與對手的咒語互動，並在之後試圖結算完成Suspend的[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)。
@@ -148,7 +148,7 @@ authors:
 
 ### 黑綠醫生
 
-![黑綠醫生](https://i.imgur.com/VTgqFPZ.jpg)
+![黑綠醫生](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/c564f3897e76.webp)
 
 理論上這的對局對我們非常有利，尤其是我們3回Cascade，他們幾乎不能阻止，而且需要消耗很多資源來與我們交換。我認為這個對局有4大重點要注意：[索藍醫師約格莫夫](https://scryfall.com/card/mh1/116/yawgmoth-thran-physician)、[司毒維齊爾哈芭恰](https://scryfall.com/card/akh/199/hapatra-vizier-of-poisons)、[飢潮格蕊斯](https://scryfall.com/card/mh2/202/grist-the-hunger-tide)、和[阿加莎的靈魂鼎鑊](https://scryfall.com/card/woe/242/agathas-soul-cauldron)"。
 
@@ -164,7 +164,7 @@ authors:
 
 ### 紅黑呼魂
 
-![紅黑呼魂](https://i.postimg.cc/33mwpYWN/image.png)
+![紅黑呼魂](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/f4946f2f9605.webp)
 
 對我們而言有優勢的對局，通常來說我們的Topdeck會更好。阻擋[悲慟](https://scryfall.com/card/mh2/87/grief) + 復活（[死裡逃生](https://scryfall.com/card/woe/101/not-dead-after-all) / [邪惡不息](https://scryfall.com/card/dka/77/undying-evil)這類單卡）最簡單的方式就是1對犀牛，雖然我們會被迫棄兩張牌，不過沒有關係我們牌組可是有8張Cascasd牌，我們總是會抽到的。如果它們沒有1回[悲慟](https://scryfall.com/card/mh2/87/grief) + 復活，那他們就是一套普普通通的中速套牌。
 
@@ -172,7 +172,7 @@ authors:
 
 ### 紅藍龍侯
 
-![紅藍龍侯](https://i.postimg.cc/ss9jDKLG/image.png)
+![紅藍龍侯](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/aebea80698a0.webp)
 
 我不是很喜歡這個對局，他們先手[碎帳艾文](https://scryfall.com/card/snc/46/ledger-shredder) + 康牌會讓這個對局變得非常奇怪，因為你的[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)會很難結算，還會讓[碎帳艾文](https://scryfall.com/card/snc/46/ledger-shredder)長大到足以擋住犀牛以及你血量無法承受的地步。
 
@@ -182,7 +182,7 @@ authors:
 
 ### 泰坦護身符
 
-![泰坦護身符](https://i.postimg.cc/CY8DJTZy/image.png)
+![泰坦護身符](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/a8e09349ecef.webp)
 
 最好的對局之一，比黑綠醫生還更有優勢。我們要做的就是保留一個Cascade + 干擾的起手，然後3回Cascade，最後你要做的就是卡死對面，他怎麼不舒服、你就怎麼來。
 
@@ -190,7 +190,7 @@ authors:
 
 ### 走骨行屍
 
-![走骨行屍](https://i.postimg.cc/8kgbw1N5/image.png)
+![走骨行屍](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/0bc07b21ccf9.webp)
 
 最差的對局。我們只能祈禱我們3回Cascade然後對手沒有任何Cascade咒語，或者在我們有[堅忍](https://scryfall.com/card/mh2/157/endurance)的情況下，在對手Cascade的當下和對手瘋狂交換咒語然後我們成功阻止對面，然後用剩下的[堅忍](https://scryfall.com/card/mh2/157/endurance)贏下遊戲。
 
@@ -198,7 +198,7 @@ authors:
 
 ### 四色控制
 
-![四色控制](https://i.postimg.cc/q4TNBN1q/4C.png)
+![四色控制](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/8910523b92b3.webp)
 
 這個對局非常的複雜，我的經驗是我想要扮演閃現套牌的角色，因為對手不太想要消耗他們的康牌來康[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)以外的咒語，所以我們的閃現生物通常而言都可以結算，然後就能逼迫對手有所行動，使對手沒有空施放對我們有威脅的牌，例如：[理時泰菲力](https://scryfall.com/card/rvr/232/teferi-time-raveler)或者[至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring)。
 
@@ -208,25 +208,25 @@ authors:
 
 ### 紅白燒
 
-![紅白燒](https://i.postimg.cc/cZsbYmkN/image.png)
+![紅白燒](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/fbf712a18add.webp)
 
 這個對局就是一個血量的競賽，大多數而言這個對局對我們有利，只要對手沒有[狂攪漩渦](https://scryfall.com/card/znr/156/roiling-vortex)，我們3回Cascade幾乎能拿下勝利。[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)在這個對局不錯，能在阻止對手Suspend的[時縫之雷](https://scryfall.com/card/2x2/122/rift-bolt)和[抽牌地](https://scryfall.com/card/mh1/247/sunbaked-canyon)，還能當作阻擋者或者進攻的角色。
 
 ### 鱗甲共鳴
 
-![鱗甲共鳴](https://i.postimg.cc/Yrjp8Wtr/image.png)
+![鱗甲共鳴](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/cf90a99f2daa.webp)
 
 也是一個比快的對局，但是對我們而言不太有利，因為他們的生物成長的太快了，很快就會超過[去死](https://scryfall.com/card/tsr/161/dead-gone)和[熱火](https://scryfall.com/card/dmr/215/fire-ice)的範圍，還能擋下我們的犀牛。正邊局我們能做的不多，就是用犀牛加壓，用[走開](https://scryfall.com/card/tsr/161/dead-gone)、[寒冰](https://scryfall.com/card/dmr/215/fire-ice)和[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)拖慢對面，至於備牌局我們會有更多的去除，壓力相對小一些。
 
 ### 錘子
 
-![錘子](https://i.postimg.cc/wHG2tnWy/image.png)
+![錘子](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/ca0669343c48.webp)
 
 跟鱗甲共鳴非常類似的對局，雖然對手的生物不會成長的過快，但是他們的保護咒語更多也更難對付，因此在使用去除時請更加小心。
 
 ### 五色動物園
 
-![五色動物園](https://i.postimg.cc/CSX53scf/image.png)
+![五色動物園](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/d61450372036.webp)
 
 我們對於開局[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)真的沒有什麼輒，正編只有[曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)能夠解掉[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)，備牌則是有[活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)有辦法應對，但是我們牌組的廢牌會變得更多。如果他們開局沒有[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)這個對局就好一些，因為我們可以用[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)康對手[據地卡甫](https://scryfall.com/card/mh2/216/territorial-kavu)的異能觸發，讓[據地卡甫](https://scryfall.com/card/mh2/216/territorial-kavu)失去異能然後自爆。
 
@@ -234,7 +234,7 @@ authors:
 
 ### 五色犀牛
 
-![五色犀牛](https://i.postimg.cc/jsmr5MJz/image.png)
+![五色犀牛](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/e13549d0b118.webp)
 
 與五色動物園一樣，[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)真的是挺無解的。如果他們沒有那對局就會好非常多，因為他們就會是比較爛的犀牛套牌。
 
@@ -399,9 +399,9 @@ authors:
 希望你們會喜歡我這篇文章。如果你們喜歡，幫我追蹤一下我們的FB粉絲團 **「[夢續工作室DreamOn Studio](https://www.facebook.com/DreamOnStudio1560)」** ，或者聽聽我們的Podcast： **「[龍尊與荒野騎士的玄境之談](https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807)」** 現在在Spotify以及Apple Podcast上都聽得到喔～
 
 <!---
-![電震地](https://i.postimg.cc/2kL7Fzdn/image.png)
-![找地地](https://i.postimg.cc/mTR0kjGJ/image.png)
-![刺探地](https://i.postimg.cc/9mKfHSKv/image.png)
-![無色地](https://i.postimg.cc/wHwCMLBj/image.png)
-![魂力地](https://i.postimg.cc/zJJB5TBF/image.png)
+![電震地](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/d3ee007c0385.webp)
+![找地地](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/c3d73e4df1f6.webp)
+![刺探地](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/8ed0bd368f81.webp)
+![無色地](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/03783780afe5.webp)
+![魂力地](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/2c9c415d4738.webp)
 --->

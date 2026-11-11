@@ -33,50 +33,50 @@ categories:
 
 透過本次機會，筆者想跟各位讀者分享一下自己常用的購卡管道：各位知道除了露天拍賣以外，臺灣還有一個非常強力即時的魔風購卡平臺嗎？那就是[遊戲平方的網路商城](https://gamesquare.tw/index.php)。
 
-![](https://i.meee.com.tw/p9NiV15.png)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/bc4fd3de0205.webp)
 >非業配，純粹是我們自己愛用，每次都要推薦給更多讀者朋友。
 
 筆者平時不太有時間進卡店走跳，幸好有遊戲平方，除了購買商品滿2000元免運的優點外，每一點紅利點數可再抵新台幣1元（詳細計算公式請見商城網站，基本上是3%回饋）。
 
-![](https://i.meee.com.tw/k7COs42.png)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/57b002e1e6dd.webp)
 >這是筆者的紅利點數的計算截圖。是紅利而非總金額喔，嗯看來是買多了……
 
 推薦環節簡單告一段落，接下來讓我們正式進入 **降世神通：2025年最後也最完美的輪抽體驗** 的活動花絮囉。
 
-![](https://i.meee.com.tw/bEKr2if.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/7abf43de9f52.webp)
 >依照慣例先來張合照！大家也依照慣例地有些靦腆，需要魔法風雲會的補充包來潤滑一下。
 
-![](https://i.meee.com.tw/emYCUlB.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/d6d09a8b68d9.webp)
 >彷彿可以聞到牌張的印刷香味了！筆者在打輪抽前努力看完了降世神通的動畫，所以也格外期待。
 
-![](https://i.meee.com.tw/y4are7f.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/c44a8adaeb12.webp)
 >除了補充包以外，更重要的當然是與我們合作了半年的[睿卡潮玩](https://www.facebook.com/963Ruika)。互相支持，板板一定要放好放滿。
 
-![](https://i.meee.com.tw/H8MDpXq.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/49b2f3220921.webp)
 >認真挑選單卡的[cephille](/authors/cephille/)。
 
-![](https://i.meee.com.tw/EmqGvPN.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/6bbdf93190c7.webp)
 >受邀玩家Szgu也正在挑選單卡，這時候還沒人知道他即將幹出大事……真心覺得超帥，建議各位可以閱讀到最後。
 
-![](https://i.meee.com.tw/wFZOBGR.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/5091d0b215b1.webp)
 >抓牌的過程，意外發現GY_Player的手機殼充滿魔風愛，立刻逼他入鏡。 ~~還要感謝[cephille](/authors/cephille/)請大家喝的飲料。~~
 
-![](https://i.meee.com.tw/fO1cHrp.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/908285578625.webp)
 >嗯？怎麼坐在對面的凱克開始滑手機了？頁面也令人感到如此熟悉？想必是某個還不錯的網站吧 ~~評分4.0的強力單卡你快拿啦~~ 。
 
-![](https://i.meee.com.tw/voELHmx.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/359e1b4b7e24.webp)
 >抓完就要開打！這樣才算是完整的輪抽……欸再等一下，[Jru](/authors/JruMTG/)的場上怎麼只有地？那個熱愛炸地的男人竟成了地牌的夥伴？
 
-![](https://i.meee.com.tw/hGvuXUQ.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/56cb84f96337.webp)
 >原來是因為本系列的運土神通機制，可以讓地牌變成能夠參與攻防的生物啦。[Jru](/authors/JruMTG/)正在認真思考對局內容。
 
-![](https://i.meee.com.tw/6kZ3SLY.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/778c28a04759.webp)
 >坐在對面的[cephille](/authors/cephille/)也謹慎應戰。
 
-![](https://i.meee.com.tw/rGrvKNU.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/bc72ac535113.webp)
 >Szgu炫技大爆走倒數計時中。
 
-![](https://i.meee.com.tw/bJygoSe.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/971e9bc05d52.webp)
 >全線開戰！當天的戰報請看以下內容囉，筆者也該去坐下啦。
 
 ## 小結
@@ -87,7 +87,7 @@ categories:
 
 以上是 **降世神通：2025年最後也最完美的輪抽推廣** 活動記錄部分。若您對當天挑選過程有了解的欲望，歡迎再閱讀後續的玩家分享囉。
 
-![](https://i.meee.com.tw/XBbsepX.png)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/bc0bb7901213.webp)
 >當日的MVP組合在此！
 
 ## 玩家心得
@@ -113,10 +113,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 而實體輪抽又更好玩啦～可以跟朋友們一起聊天、討論、打牌，當下就能發現彼此的盲點或是錯誤的理解，盡早修正後一起進步！
 今天就找朋友們出門打輪抽吧！
 
-![](https://i.meee.com.tw/jP0pK7A.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/8a6bf5b42d5d.webp)
 >GY_Player的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/BXHB3hK.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/a5967c82a0d8.webp)
 >GY_Player的當日構築。
 
 ### [cephille](/authors/cephille/)的分享：
@@ -135,10 +135,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 希望有越來越多的玩家能體驗到輪抽的有趣，讓整體社群更願意打輪抽、揪輪抽。你可能偶爾會覺得打構築使你厭倦，但輪抽絕對不會！
 
-![](https://i.meee.com.tw/2liW8Qe.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/bcf05c82a130.webp)
 >cephille的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/6yhrBMS.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/b58d4c533f57.webp)
 >cephille的當日構築。
 
 ### [王靖](/authors/faintmama/)的分享：
@@ -160,10 +160,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 輪抽是非常自由的賽制，可以和三五好友輕鬆地玩、可以充滿競爭意識嚴謹地玩。從挑選到對弈都充斥著樂趣，且魔法風雲會的限制賽機制大抵蘊藏有巧思，玩家們總是能在其中找到驚豔的元素。一個想玩就玩的精彩遊戲，跟對的人一起進行，更能培養出最良好的攻防概念。
 
 
-![](https://i.meee.com.tw/hN4dTK0.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/940a3d99b516.webp)
 >王靖的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/q8wzsVs.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/1c30d275342b.webp)
 >王靖的當日構築。
 
 ### [Jru](/authors/JruMTG/)的分享：
@@ -188,10 +188,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 所以在玩這系列輪抽時，推薦在第一包的前5抽，就要規劃完自己這系列的遊戲計畫想走哪邊了，如果是要進特定主題，那就要開始激進搶思路牌；不過也還是有不用太強求搭配的組法，像我這次組的紅綠，就只是把生物跟去除按比例放一放就搞定，畢竟運土神通即使沒任何搭配，憑空生出一個有攻防的生物就是戰力保證了，對於沒自信在輪抽中扣出一套有完整協同主題套牌的新手，這是個比較好上手的挑牌模式。
 
 
-![](https://i.meee.com.tw/1Mi2jFr.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/3409a9eaada4.webp)
 >Jru的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/8mrMgMU.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/0783ebd65da6.webp)
 >Jru的當日構築。
 
 ### Szgu的分享：
@@ -210,10 +210,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 很有趣的系列。相較以前的輪抽來說，這個系列卡牌之間的配合特別強烈，是很棒的輪抽體驗。
 
-![](https://i.meee.com.tw/MxAQrK9.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/72ecf873dab1.webp)
 >Szgu的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/OoK9UTm.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/e05e3c60c89d.webp)
 >Szgu的當日構築。
 
 ### Lucia的分享：
@@ -230,10 +230,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 真的超級開心！限制賽可以逼自己嘗試平常不會碰的顏色，而這次 TLA 系列的風味和互動性都做得非常出色，是我今年玩過最好玩的系列之一😍。完全玩不夠，還想再抽！
 
-![](https://i.meee.com.tw/cVqoSND.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/56901b563ac9.webp)
 >Lucia的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/oEpo1A2.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/74a96404acef.webp)
 >Lucia的當日構築。
 
 ### 凱克的分享：
@@ -255,10 +255,10 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 就遇上的對局以及在拿牌時的抉擇上，這系列每張牌都可以提供不同路線的人選擇。以我拿到的[Uncle Iroh](https://scryfall.com/card/tla/248/uncle-iroh)這張為例，異能為Firebending+Lesson減費，體質則為4/2，可以用在Ally主題、4+攻主題、Lesson主題及Firebending等，pick之後依然可以根據後面傳來的包調整為不同路線，不會拿了就被卡死於特定異能或主題，我覺得是挺不錯的，整體拿包大家也不會因此而有不完整感，挺適合讓輪抽新手於此時加入，不會有湊不成套打不起來的挫敗感。
 
-![](https://i.meee.com.tw/EcMJZUc.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/ef5fe32bcfe4.webp)
 >凱克的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/jrQqglC.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/a6f29f4aa08b.webp)
 >凱克的當日構築。
 
 ### 亦麒的分享：
@@ -276,8 +276,8 @@ P1P9的[Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets
 
 很開心這次能參與睿卡的活動，整個過程中與其他牌友的互動感很好。有對於降世神通作品的討論，有構築選卡的調整方向及結束對局後的復盤。看到大家對於MTG的熱愛與熱心分享，實在是令人開心的事。
 
-![](https://i.meee.com.tw/X5lEMOd.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/964965c2cf21.webp)
 >亦麒的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/G7XRWrk.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/64bfed25de32.webp)
 >亦麒的當日構築。

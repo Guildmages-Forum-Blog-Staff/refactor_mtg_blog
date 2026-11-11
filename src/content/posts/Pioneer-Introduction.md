@@ -30,7 +30,7 @@ authors:
 
 ## 純<font color="#0A883B">綠</font>獻力 (Mono-Green Devotion)
 
-![](https://i.imgur.com/ycNEw8j.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/23f301d3d8fc.webp)
 
 > **造價：中（$400鎂上下）
 > 操作難度：中上  
@@ -58,11 +58,11 @@ authors:
 
 [大綠獻力範例牌組](https://www.mtggoldfish.com/deck/5853550#paper)
 
-![](https://i.imgur.com/9BbI40P.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/2d4b6ede6d0d.webp)
 
 ## <font color="#FD0214">紅</font>黑中速 (Rakdos Midrange)
 
-![](https://i.imgur.com/X5MOQh6.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/f4b5f75f9b9f.webp)
 
 > **造價：高（$600鎂上下）
 > 操作難度：高
@@ -74,11 +74,11 @@ authors:
 
 [紅黑中速範例牌組](https://www.mtggoldfish.com/archetype/pioneer-rakdos-midrange#paper)
 
-![](https://i.imgur.com/M2431fs.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/1578f950a881.webp)
 
 ## <font color="#023FFD">藍</font><font color="#FED761">白</font>精靈 (Azorious Spirits)
 
-![](https://i.imgur.com/Z3E594M.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/fee2813e2d20.webp)
 
 > **造價：低（$200-250鎂上下）
 > 操作難度：高
@@ -88,11 +88,11 @@ authors:
 
 [藍白精靈範例牌組](https://www.mtggoldfish.com/deck/5853555#paper)
 
-![](https://i.imgur.com/R7SBZtd.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/0a678a5eb3c8.webp)
 
 ## 蓮花田組合技(Lotus Field Combo)
 
-![](https://i.imgur.com/FozvWKz.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/f8e011ea3fee.webp)
 
 > **造價：低（$200鎂上下）
 > 操作難度：極高
@@ -117,15 +117,15 @@ authors:
 
 [蓮花田組合技範例牌組(茜卓版)](https://www.mtggoldfish.com/archetype/pioneer-hidden-strings#paper)
 
-![](https://i.imgur.com/6kOS3wq.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/ac0161861147.webp)
 
 [蓮花田組合技範例牌組(神日迫臨版)](https://www.mtggoldfish.com/deck/5873033#paper)
 
-![](https://i.imgur.com/0f6kku3.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/79008d1a9022.webp)
 
 ## <font color="#FD0214">紅</font>黑犧牲 (Rakdos Sacrifice)
 
-![](https://i.imgur.com/6en2kuJ.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/43c980bce5a9.webp)
 
 > **造價：中（$400鎂上下）
 > 操作難度：極高
@@ -139,11 +139,11 @@ authors:
 
 [紅黑犧牲範例牌組](https://www.mtggoldfish.com/archetype/pioneer-rakdos-sacrifice#paper)
 
-![](https://i.imgur.com/wgYQhfw.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/8c391fd0bf04.webp)
 
 ## 純<font color="#FED761">白</font>人類 (Mono-White Humans)
 
-![](https://i.imgur.com/V8hj6zD.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/088a7cc8b535.webp)
 
 > **造價：低（低於$200鎂）
 > 操作難度：低
@@ -155,11 +155,11 @@ authors:
 
 [純白人類範例牌組](https://www.mtggoldfish.com/deck/5855767#paper)
 
-![](https://i.imgur.com/VuamUHB.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/2d5e69c2f9da.webp)
 
 ## <font color="#FD0214">紅</font><font color="#023FFD">藍</font>鳳凰 (Izzet Phoenix)
 
-![](https://i.imgur.com/4M5I0kV.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/140236d07c7a.webp)
 
 > **造價：低（$200鎂上下）
 > 操作難度：極高
@@ -177,11 +177,11 @@ authors:
 
 [紅藍鳳凰範例牌組](https://www.mtggoldfish.com/deck/5855785#paper)
 
-![](https://i.imgur.com/FnlzzJM.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/7757c82344c7.webp)
 
 ## <font color="#023FFD">藍</font><font color="#FED761">白</font>控制 (Azorious Control)
 
-![](https://i.imgur.com/IWOhPBt.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/e7b4f440732b.webp)
 
 > **造價：中（$400鎂上下）
 > 操作難度：中
@@ -193,11 +193,11 @@ authors:
 
 [藍白控制範例牌組](https://www.mtggoldfish.com/deck/5840365#paper)
 
-![](https://i.imgur.com/4Z3rNT7.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/d737f65c9ddb.webp)
 
 ## 阿<font color="#0A883B">布</font><font color="#FED761">贊</font>鼠車 (Abzan Greasefang)
 
-![](https://i.imgur.com/mMorayj.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/0f67f92b7c7c.webp)
 
 > **造價：中（$400鎂上下）
 > 操作難度：低
@@ -208,11 +208,11 @@ authors:
 
 [阿布贊鼠車範例牌組](https://www.mtggoldfish.com/deck/5838474#paper)
 
-![](https://i.imgur.com/dF80iHD.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/c037276def31.webp)
 
 ## <font color="#023FFD">無</font><font color="#0A883B">畏</font><font color="#FD0214">創新</font> (Izzet/Temur Indomitable Creativity)
 
-![](https://i.imgur.com/7tjHPJf.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/b3b124061bd3.webp)
 
 > **造價：中（$400鎂左右）
 > 操作難度：中
@@ -220,18 +220,18 @@ authors:
 
 無畏創新的版本其實有很多種，這邊就介紹目前最常出現、勝率也較高的**世脊亞龍版本**吧。在魔風的名人堂選手Reid Duke使用了這套牌組贏下專業賽(Pro tour)之後，這套牌便開始流行起來了。
 
-![](https://i.imgur.com/ZiJ4n1e.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/a21cc3d624ed.webp)
 
 本套牌的遊戲計畫相當淺顯易懂，在戰階前主階段使用[無畏創新](https://cards.scryfall.io/large/front/4/1/41b22522-ca19-4c61-b1bc-4fbd05e80a9a.jpg?1562910450)消滅自己的兩個神器/生物，從牌組翻出唯二的兩隻生物[世脊亞龍](https://cards.scryfall.io/large/front/6/1/61416332-ac30-4081-8aa0-e601c9ee6c58.jpg?1562787137)和[貪歡神謝納戈斯](https://cards.scryfall.io/large/front/2/e/2edf9792-79ba-4cf7-9814-3b40a01491be.jpg?1645638667)（紅綠神），接著進入戰鬥階段，紅綠神會給亞龍雙倍的攻防和敏捷異能，使其能夠對對手攻擊造成30點的踐踏傷害並以此取得勝利。
 套牌本身具備能夠產出珍寶神器的牌張如[破鏡奇譚](https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103)和[大幹一票](https://cards.scryfall.io/large/front/1/5/1529c4a0-a6cc-49e1-97a3-8bfad898e1ee.jpg?1651562938)，並且充斥大量的小費燒牌來緩解前期壓力，與少量的反擊咒語來對抗燒牌無法處理的威脅。
 
 [無畏創新範例牌組](https://www.mtggoldfish.com/archetype/pioneer-temur-indomitable-creativity#paper)
 
-![](https://i.imgur.com/aQPspIC.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/8ca680d3507d.webp)
 
 ## <font color="#FD0214">五</font><font color="#0A883B">色</font><font color="#023FFD">秘</font><font color="#FED761">態</font>轉生 (5c Fires Of Invention)
 
-![](https://i.imgur.com/9vKjvOb.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/62ab74d76ce0.webp)
 
 > **造價：高（$600鎂上下）
 > 操作難度：低
@@ -244,11 +244,11 @@ authors:
 
 [五色秘態轉生範例牌組](https://www.mtggoldfish.com/archetype/pioneer-5c-fires-of-invention#paper)
 
-![](https://i.imgur.com/xQ6yf0f.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/60a489e34d49.webp)
 
 ## <font color="#FD0214">紅</font><font color="#FED761">白</font>召集 (Boros Convoke)
 
-![](https://i.imgur.com/JBrFlRB.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/b9b575fa6eb8.webp)
 
 > **造價：低（$200鎂上下）
 > 操作難度：低
@@ -264,11 +264,11 @@ authors:
 
 [紅白召集範例牌組](https://www.mtggoldfish.com/deck/5825943#paper)
 
-![](https://i.imgur.com/zAbDP6Z.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/0af7cf61855f.webp)
 
 ## <font color="#FD0214">紅</font><font color="#FED761">白</font>琵雅 (Boros Pia)
 
-![](https://i.imgur.com/0Fw92Nm.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/07d837994f4b.webp)
 
 > **造價：低（$200鎂上下）
 > 操作難度：中
@@ -281,11 +281,11 @@ authors:
 
 [紅白琵雅範例牌組](https://www.mtggoldfish.com/deck/5707981#paper)
 
-![](https://i.imgur.com/nGSvD51.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/a340658d11af.webp)
 
 ## <font color="#023FFD">蘇</font>勒<font color="#0A883B">台</font>形體一新 (Sultai Neoform)
 
-![](https://i.imgur.com/WXod4k5.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/ab91f456f76c.webp)
 
 > **造價：中（$400鎂上下）
 > 操作難度：中
@@ -298,11 +298,11 @@ authors:
 
 [蘇勒台形體一新範例牌組](https://www.mtggoldfish.com/archetype/pioneer-atraxa-neoform#paper)
 
-![](https://i.imgur.com/MheO5vn.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/fb8a3f5c7ec8.webp)
 
 ## <font color="#FD0214">五</font><font color="#0A883B">色</font><font color="#023FFD">天</font><font color="#FED761">光</font> (5c Midrange)
 
-![](https://i.imgur.com/w2bRQUk.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/5aaaaa677002.webp)
 
 > **造價：中高（$500鎂上下）
 > 操作難度：中
@@ -318,7 +318,7 @@ authors:
 
 [五色天光範例牌組](https://www.mtggoldfish.com/deck/5840367#paper)
 
-![](https://i.imgur.com/JSskEPK.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Introduction/578e614a34c1.webp)
 
 ## 結語
 

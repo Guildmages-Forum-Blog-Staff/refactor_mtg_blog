@@ -45,34 +45,34 @@ categories:
 
 累歸累，輪抽那麼好玩一定要玩，戰鬥開始！
 
-![](https://i.meee.com.tw/O7gAnGD.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/64d7c9a38234.webp)
 >先來張合照準沒錯。歡迎小耶、小熊、亦麒、語桐加入輪抽的行列！也謝謝[Jru](/authors/JruMTG/)幫我加入合照&辛苦主持活動。
 
-![](https://i.meee.com.tw/yc0ByYX.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/abd46cc4ad5b.webp)
 >挑牌的男人最帥氣 ~~但通常會有點雙下巴~~ ~~這沒辦法大家都一樣~~ 。
 
-![](https://i.meee.com.tw/PH855Da.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/cdf4fafcccd7.webp)
 >一面查價 ~~看盤~~ 一面抓牌的[象山嗶寶精](/authors/XSBeeble/)，主張已經忘記自己寫過什麼分析，筆者大膽猜測他是在欺敵。
 
-![](https://i.meee.com.tw/HWeNJvw.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/a56e9ff7ef6f.webp)
 >選擇障礙令人感到既快樂又痛苦……等等，骷髏妖又出現了！？筆者忽地湧現出戀愛的感覺。
 
-![](https://i.meee.com.tw/gWWq2yQ.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/abb16c184ec0.webp)
 >魔風集會所流傳著一句名言：「遇事不決問[Jru](/authors/JruMTG/)。」遇到困惑能立刻請教就是最棒的練習了 ~~筆者平時也常問他問題XD~~ 。
 
-![](https://i.meee.com.tw/vur2PHB.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/ea27cd0e9fe4.webp)
 >有人的手手不乖，仗著自己挑得快就在那邊偷摸下一包 ~~猜猜誰最皮~~ ~~答案不難~~ 。
 
-![](https://i.meee.com.tw/6lrrr2z.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/e270c305a698.webp)
 >抓完也組完哩，準備正式戰鬥！不過在此之前，行頭要先布置好才行 ~~吉伊卡哇卡哇伊捏~~ 。
 
-![](https://i.meee.com.tw/thhaLXu.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/fdb357edeec6.webp)
 >[象山嗶寶精](/authors/XSBeeble/)調度搓牌時東張西望，我看是不想被[cephille](/authors/cephille/)讀出任何想法，心理戰已在意識之中激烈碰撞。
 
-![](https://i.meee.com.tw/wNez70O.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/9a30e8abb16e.webp)
 >The End Stone好強，強到[象山嗶寶精](/authors/XSBeeble/)把自己的套牌抽到剩一張了 ~~真的很調皮~~ 。
 
-![](https://i.meee.com.tw/1MLqUNJ.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/233e06b3104c.webp)
 >OK正式抽爆自己，史詩級的歡樂自爆！
 >（而且發生在第三盤……了不起的男人）
 >笑到糊掉還是得做為活動花絮的最後一張。
@@ -105,10 +105,10 @@ categories:
 #### 你會如何推薦輪抽呢？
 限制賽是對所有玩家平等的遊戲，只要做好一點功課，帶著享受的心情，你就能跟朋友們度過一段愉快的時光。我有時可能不想打構築、不想研究meta；但我總是會想打輪抽，因為這個遊戲方式真的超級好玩！
 
-![](https://i.meee.com.tw/YB2pJzf.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/e0b26089d0ad.webp)
 >cephille的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/YT9IcpB.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/be1aeba089e4.webp)
 >cephille的當日構築。
 
 ### [象山嗶寶精](/authors/XSBeeble/)的分享：
@@ -125,10 +125,10 @@ categories:
 #### 你會如何推薦輪抽呢？
 輪抽需要的時間成本和揪團成本都比較高，但其實金錢成本是稍低的，可以看到的牌張數量很多，非常適合熟悉新系列。
 
-![](https://i.meee.com.tw/YNhG8gN.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/beda8fb886b5.webp)
 >象山嗶寶精的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/8uPl5wl.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/2acaaedece45.webp)
 >象山嗶寶精的當日構築。
 
 ### [王靖](/authors/faintmama/)的分享：
@@ -148,10 +148,10 @@ categories:
 先找出你的摯交好友，才能一起玩到最好玩的輪抽；又或者其實是：一起玩過好多次的輪抽以後，我們就有機會成為摯交好友。
 輪抽好玩，因為卡牌，也因為人。
 
-![](https://i.meee.com.tw/PO8FuiE.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/dcd877a31636.webp)
 >王靖的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/cSesNo7.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/85ca88baa489.webp)
 >王靖的當日構築。
 
 ### [終曲](/authors/T1BloodMoon/)的分享：
@@ -170,10 +170,10 @@ categories:
 #### 你會如何推薦輪抽呢？
 輪抽不必事前準備套牌，只要人到就可以直接開始、歡樂遊玩的一個賽制。如果你有玩到任何強力的combo或是開到money pick，就會開心一整天。
 
-![](https://i.meee.com.tw/Iy3dhIU.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/16d04aed5967.webp)
 >終曲的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/4shMDcO.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/171328947f83.webp)
 >終曲的當日構築。
 
 ### 小熊的分享：
@@ -187,10 +187,10 @@ categories:
 #### 請分享參與輪抽的感受吧
 這是我第一次打輪抽，對於規則還不太熟，要選什麼牌都還不是很懂，即便拿完牌也還是對於用有限的資源組牌沒有頭緒，但有很好的其他資深玩家願意幫忙。我覺得氛圍感還不錯，滿有意思的，我覺得新手很適合多參加這樣的限制賽活動，可以練習構築牌組、還有對於各單卡在牌組中的影響，增加對於遊戲的理解，總之受益匪淺。感謝魔風集會所細心講解如何加入輪抽，我認為我之後應該會試著多參加一些輪抽賽！
 
-![](https://i.meee.com.tw/yQzct3q.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/308db7ccdc75.webp)
 >小熊的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/Yb2L045.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/38605903db41.webp)
 >小熊的當日構築。
 
 ### 小耶的分享：
@@ -205,10 +205,10 @@ categories:
 #### 請分享參與輪抽的感受吧
 完整體驗一次輪抽後，覺得真的很好玩，雖然我不會心理戰、還無法去感受其他人在抓什麼，整場超級專心在看適合自己打法的牌XD 但真的很有趣！抓牌時大家的閒聊阿、 ~~看股票阿~~ ……等等，都是很讚的回憶！
 
-![](https://i.meee.com.tw/YDRZzr9.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/e04215197ec6.webp)
 >小耶的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/4yxK6o2.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/17424e828c10.webp)
 >小耶的當日構築。
 
 ### 亦麒的分享：
@@ -222,10 +222,10 @@ categories:
 #### 請分享參與輪抽的感受吧
 在賽前，有聽說白藍是相對強勢的色組，但在輪抽選牌的過程，能夠發現屬於自己的組合搭配並且實踐成功，是最開心的事。
 
-![](https://i.meee.com.tw/9hmEKDg.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/06b2f4bf71f5.webp)
 >亦麒的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/VJRhc9G.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/3fea95f7cf20.webp)
 >亦麒的當日構築。
 
 ### 語桐的分享：
@@ -239,8 +239,8 @@ categories:
 #### 請分享參與輪抽的感受吧
 輪抽真的是個有趣的體驗，第一包開始會有認定要走的顏色，但到後來打完全不同的顏色組合，真是個有趣的轉換，且在遊玩中現學現賣，找出各色的小combo技巧，對遊戲的理解有很大幫助！
 
-![](https://i.meee.com.tw/NGW5X4t.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/2fc7db112a15.webp)
 >語桐的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/MT3IMia.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/848d40b10b93.webp)
 >語桐的當日構築。

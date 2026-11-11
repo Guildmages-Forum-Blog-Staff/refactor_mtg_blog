@@ -15,7 +15,7 @@ authors:
 
 [牌表連結](https://www.mtggoldfish.com/deck/6368517?fbclid=IwZXh0bgNhZW0CMTAAAR0exfqeKRobTudX7Lv2UxePX_UMQHYa_v7UdtigeTD1SxkhMpW0cE-W9vc_aem_ARrrygUQJEHgmo4ObsQJ9jTd8NHCaB5BD1CmBrtazW726qXhO7qbdxwTUWmCHLI1qCDDM3f5YIT_Sh5iGDDu2dmu#paper)
 
-![牌組圖片](https://i.postimg.cc/DnpPy0gw/Golgari-Soulflayer.png)
+![牌組圖片](https://images.guildmagesforum.tw/posts/Pioneer-Golgari-Soulflayer/440521c0bcb1.webp)
 
 ## Q：這究竟甚麽卡組？
 

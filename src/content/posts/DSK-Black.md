@@ -80,7 +80,7 @@ excerpt: "對手碩大的生物，被你輕描淡寫地消滅……你是喜歡�
 
 
 <!---91--->
-![91](https://i.imgur.com/0lSEbFd.png)
+![91](https://images.guildmagesforum.tw/posts/DSK-Black/7508ff75a0d2.webp)
 分數：3.0
 評語：關注從墳場拉生物、或永久物的黑白、黑綠會很想要。額外花四費解鎖房間，可以在每次挖墳時多一個2/2，在控住場面後算是會非常強力。如果環境偏慢的話，這張牌給對手的壓力會無比巨大。
 
@@ -96,7 +96,7 @@ excerpt: "對手碩大的生物，被你輕描淡寫地消滅……你是喜歡�
 
 
 <!---93--->
-![93](https://i.imgur.com/ehWH9IO.png)
+![93](https://images.guildmagesforum.tw/posts/DSK-Black/9af10c6ec63a.webp)
 分數：2.5
 評語：左邊可以補充資源，右邊給的死觸，讓對峙時可以保持進攻，屬於偏向進攻的套牌會想投入的牌。
 
@@ -142,7 +142,7 @@ excerpt: "對手碩大的生物，被你輕描淡寫地消滅……你是喜歡�
 
 
 <!---100--->
-![100](https://i.imgur.com/016qfIk.png)
+![100](https://images.guildmagesforum.tw/posts/DSK-Black/ff5b304f2ce2.webp)
 分數：3.0
 評語：當出了這張牌，遊戲就像倒數計時，如果對手不盡快打死你就準備面對大量爬回來的生物，在黑綠的表現裡非常好，可以多搭配防守型生物 [Grasping Longneck](https://scryfall.com/card/dsk/180/grasping-longneck/) ，讓你活到有 8 點法力的時候。
 
@@ -256,7 +256,7 @@ excerpt: "對手碩大的生物，被你輕描淡寫地消滅……你是喜歡�
 
 
 <!---118--->
-![118](https://i.imgur.com/Y2y18bl.png)
+![118](https://images.guildmagesforum.tw/posts/DSK-Black/1245c624c830.webp)
 分數：4.0
 評語：先使用右邊 5 費 6/6 的飛行惡魔就有機會直接壓垮對手，在均勢的時候使用左邊，可以靠著額外資源獲勝。
 

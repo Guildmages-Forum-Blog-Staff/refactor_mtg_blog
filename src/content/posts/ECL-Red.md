@@ -31,7 +31,7 @@ excerpt: "紅色有我最愛的鬼怪，最容易做壞的元素，以及本系�
 ## 評分內容
 
 <!-----124--->
-![124](https://i.meee.com.tw/Q6FlnCb.png)
+![124](https://images.guildmagesforum.tw/posts/ECL-Red/815e0854f681.webp)
 分數：2.5
 評語：正面異能單純的抽棄，翻到背面也是產有限制條件的費用，強度普通所以給平均分。
         

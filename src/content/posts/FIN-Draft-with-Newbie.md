@@ -35,28 +35,28 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 
 2025年6月13日星期五 ~~居然是黑色星期五~~ ，感謝[遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)熱情提供場地，讓我們得以舉辦線下讀者同樂活動。18:30活動正式開始囉～
 
-![](https://i.meee.com.tw/L0nFdaE.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/630f5ffd9064.webp)
 >總之先來張合照 ~~剛好等待兩位塞在路上的成員~~ 。趁機特別感謝[cephille](/authors/cephille/)、[阿詹](/authors/ZHAN/)、[faintmama](/authors/faintmama/)的付出，才能讓一場聚會順利舉辦。
 
-![](https://i.meee.com.tw/Fe8WudP.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/350e0e50d6be.webp)
 >人員到齊，輪抽正式開始！八位玩家各自打開第一包Play Booster，開始陷入「嗯到底該拿哪張呢……」的掙扎與快感之中。
 
-![](https://i.meee.com.tw/YgyKOdk.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/0b70752d41ea.webp)
 >我不清楚Chennel抓到了什麼，但肯定是好料，笑呵呵之餘還吸引旁觀者湊過去熱鬧一番。
 
-![](https://i.meee.com.tw/HLVx2TS.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/a60a37c31749.webp)
 >新手做完決策過後，利用多餘的時間觀察著對面的訊號……這遊戲的確是這麼玩的，莫非這人有成為頂尖高手的潛力？
 
-![](https://i.meee.com.tw/agunIjZ.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/8aee302fc456.webp)
 >過程中如果需要翻譯、甚至是詳細規則的解釋，目前也都有App提供支援 ~~老花眼也有辦法玩這遊戲啦~~ 。
 
-![](https://i.meee.com.tw/L140mTz.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/8ce433873e98.webp)
 >組牌時的興奮、苦惱、絞盡腦汁，都是魔法風雲會輪抽賽制的經典醍醐味。抓到錢卡是一回事，但你能組得好嗎？晚點即將見真章囉。
 
-![](https://i.meee.com.tw/hhMZr0c.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/68e83c25aa48.webp)
 欸朋友你未免也太認真了，牌都被捏彎了啦 ~~感謝Peter修長的手手支援~~ 。
 
-![](https://i.meee.com.tw/VRtNOSF.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/e6953c24e1fe.webp)
 >「哈哈哈我都組好了你還敢不吃晚餐臨場狼吞虎嚥啊？」（設計對白）
 >與志同道合的好友在週五夜晚講講垃圾話，絕對也是這賽制的一大魅力。
 
@@ -64,16 +64,16 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 如今的狀況更是好多了，歡迎邀請你的朋友們、或鼓起勇氣隻身前往附近的卡牌店家吧，相信會獲得非常不錯的體驗。
 或許下次跟我們一起玩牌的就是你囉？
 
-![](https://i.meee.com.tw/oM84KTq.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/fa99a5d42a94.webp)
 >戰鬥！打開手機App就能知道你第一戰的座位、對手、以及於賽後超簡單通報成績。
 
-![](https://i.meee.com.tw/MT2r8Du.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/4f06efb582ee.webp)
 >快沒梗了！總之就是一排拿完錢卡且認真構築後的玩家們展開戰鬥！
 
-![](https://i.meee.com.tw/5DpevCM.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/9bcfe7552025.webp)
 >[終曲](/authors/T1BloodMoon/)首戰遭遇沒帶卡套的[Jru](/authors/JruMTG/) ~~早知道就不借他了哼~~ 。
 
-![](https://i.meee.com.tw/aIDvSAy.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/db764ede6f18.webp)
 >面對Peter第一回合就拍下[Cecil, Dark Knight](https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin)的攻勢，[Chennel](/authors/Chennel/)無奈地笑了 ~~人帥真好困窘也好看~~ 。
 
 ## 小結
@@ -99,10 +99,10 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 輪抽是最方便又實惠的賽制，只要空手來到卡店，買卡套和三包補充包就能立刻開打。每一場比賽的體驗都很不一樣，玩完後還能把組好的牌帶回家，CP值超高。
 輪抽挑牌的過程也很有趣，一邊構築自己想打的色組，一邊挑走別人可能會用的強牌，非常適合學習如何組出一副好用的套牌，同時熟悉各種顏色的玩法。
 
-![](https://i.meee.com.tw/xjGQaOS.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/e5d3c2a7d4e8.webp)
 >Chennel的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/CY1EIzk.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/d97064d9241a.webp)
 >Chennel的當日構築。
 
 ### Peter的分享：
@@ -119,10 +119,10 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 #### 你會如何推薦輪抽呢？
 對我而言，輪抽是建構這個遊戲基本邏輯最好的媒介，因為它所在意的除了最基本的戰鬥，還有非常有限的資源調動、以及套牌構築。在這個賽制中，你必須對自己的40張牌瞭若指掌，每一個決定都會對勝負有很大的影響。
 
-![](https://i.meee.com.tw/iZiHwBV.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/76a2a73e1a6f.webp)
 >Peter的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/rJlySdO.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/0ec3e571bc3b.webp)
 >Peter的當日構築。
 
 ### [終曲](/authors/T1BloodMoon/)的分享：
@@ -139,10 +139,10 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 #### 你會如何推薦輪抽呢？
 雖然不像現開那樣有較多的炸彈數量的上限，但，輪抽主打的就是套牌主題會因為你的選擇而更加明確，同時這也是大比賽必定會打的賽制，很適合新手多多嘗試、練習。
 
-![](https://i.meee.com.tw/XyFlaeo.png)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/2bd6c02d3b09.webp)
 >終曲的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/QK0UnHY.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/995cfb0550ea.webp)
 >終曲的當日構築。
 
 ### [Jru](/authors/JruMTG/)的分享：
@@ -159,10 +159,10 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 回憶A：[乙太之亂](https://scryfall.com/sets/aer)系列輪抽被對手4回[Copy Cat](https://scryfall.com/card/aer/19/felidar-guardian)收頭。
 回憶B：[幻滅時刻](https://scryfall.com/card/aer/19/felidar-guardian)時，連續三週的週五輪抽，第一包R卡都是[Nimble Obstructionist](https://scryfall.com/card/phou/40s/nimble-obstructionist)。
 
-![](https://i.meee.com.tw/si4FgcW.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/a5db505909b3.webp)
 >Jru的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/ajNb9Tk.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/a208ba7d9583.webp)
 >Jru的當日構築。
 
 ### 關東煮師爺（子懷）的分享：
@@ -177,10 +177,10 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 這次受邀來玩輪抽，與其他新手、資深玩家共同體驗選卡組牌的樂趣，從一開始的選卡就能開始思考組牌的方向，完成牌組後即可進行比賽展示自己構築結果，非常有趣！
 比賽過程中，可以觀察對手套牌思路並活用自己卡牌技巧，試圖找到致勝的方向，贏得勝利的那一刻真的很有成就感！輪抽賽是很適合從新手入門到一般玩家的賽制，與朋友們一起開卡包相互交流，享受構築賽魅力。個人建議在遊玩輪抽賽時，請務必先瞭解該套牌主題的玩法跟細節，在選卡以及構築的過程中會更能掌握玩牌的方向，開開心心地體驗輪抽賽。
 
-![](https://i.meee.com.tw/LaiOBGs.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/e65b8f8a701a.webp)
 >關東煮師爺（子懷）的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/2rbJmKU.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/0766a16ea908.webp)
 >關東煮師爺（子懷）的當日構築。
 
 ### 怎麼喝都不夠的分享：
@@ -194,10 +194,10 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 #### 請分享參與輪抽的感受吧
 身為入坑半年的菜雞，玩過輪抽的次數一隻手掌數得出來……很開心能參加這次的輪抽，也謝謝魔風集會所細心解說，並且從旁提出建議，整體的遊玩體驗非常棒！
 
-![](https://i.meee.com.tw/st6AA5T.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/92e36047665c.webp)
 >怎麼喝都不夠的抽選過程，從左至右由上而下。
 
-![](https://i.meee.com.tw/VJRhc9G.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/3fea95f7cf20.webp)
 >怎麼喝都不夠的當日構築。
 
 ### [晉安](/authors/mm/)的分享：
@@ -206,12 +206,12 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 [Firion, Wild Rose Warrior](https://scryfall.com/card/fin/137/firion-wild-rose-warrior)。選擇這張卡的主要原因，是因為套牌核心有武具的時候可以快速地提供攻擊機會、產生大量傷害。在第一包第一張就看到他，基本上就決定要打紅白的主題了。
 
 #### 今天的關鍵回合狀況如何？
-我這一套紅白快攻的致命缺點：沒有踐踏。因為沒有踐踏，即使[Barret Wallace](https://scryfall.com/card/fin/129/barret-wallace)擁有血滴子、以及其他武具達成7/4連擊的超痛體質，我也沒辦法阻止對手一直送小怪給我打。如果可以的話，我應該中間不要停止攻擊，要不斷消耗[Peter](https://i.meee.com.tw/hhMZr0c.jpg)的生物，才可以給他壓力。結果最後讓Peter做出大怪就輸掉比賽了。
+我這一套紅白快攻的致命缺點：沒有踐踏。因為沒有踐踏，即使[Barret Wallace](https://scryfall.com/card/fin/129/barret-wallace)擁有血滴子、以及其他武具達成7/4連擊的超痛體質，我也沒辦法阻止對手一直送小怪給我打。如果可以的話，我應該中間不要停止攻擊，要不斷消耗[Peter](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/68e83c25aa48.webp)的生物，才可以給他壓力。結果最後讓Peter做出大怪就輸掉比賽了。
 
 #### 請分享參與輪抽的感受吧
 總之覺得這個限制賽實在太好玩了，組牌的邏輯不會太複雜，基本跟著起手的強力單卡開始為核心組牌就可以完成了，希望之後還有機會繼續找限制賽的比賽來玩。
 
-![](https://i.meee.com.tw/iQkunot.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/bdec3368228d.webp)
 >晉安的的抽選過程 ~~與褲褲~~ ，從左至右由上而下。
 
 ### 玉皇daddy（弘正）的分享：
@@ -225,5 +225,5 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 基本上沒有關鍵回合，地落牌組速度偏慢，打的三場都很緩和。
 若硬要說關鍵回合，應該就是和晉安對局的其中一回合，對方還有2費沒花，我抱著僥倖心態打過去結果被陰了一把，結果一隻生物都沒換掉，後續就快速走向落敗。
 
-![](https://i.meee.com.tw/KajAkab.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/3286160fb973.webp)
 >玉皇daddy（弘正）的抽選過程，從左至右由上而下。

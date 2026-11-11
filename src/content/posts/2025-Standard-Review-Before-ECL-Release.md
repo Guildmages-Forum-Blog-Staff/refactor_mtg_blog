@@ -20,19 +20,19 @@ categories:
 
 先來看看這三張截圖吧！擷取時間為2026年1月4日。
 
-![Standard_Top_Creatures](https://i.meee.com.tw/0pCWxmM.jpg)
+![Standard_Top_Creatures](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/8b920a5d95f0.webp)
 
 使用率最高的生物，前10名基本上不是藍就是綠，只有 {% mtglink "Deep-Cavern Bat" %} 靠著在黑底中速的使用率，站住第5名；另外 {% mtglink "Overlord of the Balemurk" %} 則靠著在蘇勒台挖墳中的重要地位而位居第10名。
 
-![](https://i.meee.com.tw/DqVr9WN.jpg)
+![](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/7c7c38839d3d.webp)
 
 這張圖我刻意移除了 {% mtglink "Llanowar Elves" %} ，改將 {% mtglink "Stormchaser's Talent" %} 放進來，原因是藍才能本身可視為一費曲線生物外，其使用率也高達28%、且使用套牌也都放滿了4張。而在 {% mtglink "Badgermole Cub" %} 被印出來前，綠底套牌即使有羅堰妖精在meta上的佔比也不大，真正讓綠底套牌一躍成為meta新寵的，其實是Cub非妖精，妖精的存在類似基礎建設。而藍色這兩張，早在Vivi鍋肆虐的環境使用率就很高了，[TLA](https://scryfall.com/sets/tla)加入後變得更加過份！
 
-![Standard_Top_Lands](https://i.meee.com.tw/c7YXVlF.jpg)
+![Standard_Top_Lands](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/d7f489f3412d.webp)
 
 地牌的部分，又是海島的勝利， {% mtglink "Multiversal Passage" %} 位居第二、山脈第三。但這單純是因為 {% mtglink "Steam Vents" %} 要到[ECL](https://scryfall.com/sets/ecl)發售後才能合法使用。第4、第5名都是藍紅色組的雙色地看來，這也與使用到藍紅色組套牌佔據大多金魚meta前10名的現況吻合。
 
-![Standard_Top_Spells](https://i.meee.com.tw/Wy2Es5U.jpg)
+![Standard_Top_Spells](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/bc23942313df.webp)
 
 前15名使用量最高的咒語，扣掉應該算生物那邊的 {% mtglink "Stormchaser's Talent" %} 後，毫不意外地看到許多課程牌、剋墳牌上榜。黑色的部分，扣掉屬於基礎建設的 {% mtglink "Duress" %} 外， {% mtglink "Bitter Triumph" %} 的使用率是被蘇勒台挖墳撐起來的，白色的部分僅有 {% mtglink "Seam Rip" %} 壓在第15名。
 
@@ -104,13 +104,13 @@ categories:
 
 **個人建議：重印Fatal Push與Thoughtseize。** 如果覺得Fatal Push過強，那至少把 {% mtglink "Cut Down" %} 帶回標準吧，後手時能用一費去除二費體格2/3的生物太重要了。
 
-![](https://i.meee.com.tw/tr465IQ.png)
+![](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/407187ead496.webp)
 
 ### 為什麼不增強藍色的康牌？
 
 很簡單， **因為藍色也是目前標準生物過強的問題之一** 。若康牌要再加強，勢必是要把像 {% mtglink "Mana Leak" %} 這樣的牌帶回標準。那獲得更強康牌的藍色只會繼續坐大而已。想像一下，藍紅套牌內戰，先手玩家可以四費先出 {% mtglink "Quantum Riddler" %} 並捏著 {% mtglink "Mana Leak" %} 攔住後手玩家接下來第一發二費以上咒語，你想玩這樣的環境嗎？
 
-![](https://i.meee.com.tw/nnCgzdC.png)
+![](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/7f5d1778bc78.webp)
 
 ### 為什麼是建議重印，而不是出新的功能加強牌？
 
@@ -120,7 +120,7 @@ categories:
 
 ## 展望洛溫，ECL將帶給標準怎樣的衝擊？
 
-![](https://i.meee.com.tw/Dr2qvv3.jpg)
+![](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/cdf54ca186e1.webp)
 
 喜聞樂見，最後五張電震地的拼圖終於補上了。原先受到壓抑的色組們（<span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span>色組：有嗎？），應可在這之後出現新的構築，進一步帶動標準賽制的變化。
 

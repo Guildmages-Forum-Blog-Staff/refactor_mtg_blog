@@ -13,7 +13,7 @@ authors:
 
 ## 十種雙色主題介紹
 
-![](https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/19bfd7515bde.webp)
 
 在目前的新系列設計中，雙色色組會有一組對應的U、C卡十張一組的循環，以及R卡傳奇生物來加強該色組主題。以限制賽而言，我們不一定能開/抽到對應色組的R卡，但圍繞著UC卡進行構築或抽選是可行的。因此在接下來的篇章中，會重點說明該色組UC卡的發展方向，並提供讀者一些初步的主題構築方向與一些可用單卡、搭配等。
 
@@ -23,7 +23,7 @@ authors:
 
 ### **<font color="#023FFD">藍</font><font color="#FED761">白</font>** — 飛行與不具飛行（Flying & Non-Flying matters）
 
-![](https://i.postimg.cc/vTLFkdJQ/BLB-WU.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/f842e62316f8.webp)
 
 > **對應種族：鳥（Birds）**
 > 白藍色組數量：**13 + 1** （1張出自SPG的[Ledger Shredder](https://scryfall.com/card/spg/55/ledger-shredder)，出現機率較低）
@@ -44,7 +44,7 @@ U卡的[Plumecreed Mentor](https://scryfall.com/card/blb/228)揭示了藍白色�
 
 ### **<font color="#023FFD">藍</font>黑** — 門檻（Threshold）
 
-![](https://i.postimg.cc/SxHT6vPV/BLB-UB.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/6aa648a6ab62.webp)
 
 > **對應種族：老鼠（Rats）**
 > 藍黑色組數量：**14 + 2** （兩張出自SPG，分別是[Rat Colony](https://scryfall.com/card/spg/56)、與[Relentless Rats](https://scryfall.com/card/spg/57)，同樣出現機率不高）
@@ -63,7 +63,7 @@ U卡的[Tidecaller Mentor](https://scryfall.com/card/blb/236)本身是一隻三�
 
 ### **<font color="#FD0214">紅</font>黑** — 對手失去生命（Opponent loses life matters）
 
-![](https://i.postimg.cc/Fsy6Tdzv/BR-3.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/8fd97b81235d.webp)
 
 > **對應種族：蜥蜴（Lizards）**
 > 紅黑色組數量：**16**
@@ -86,7 +86,7 @@ U卡的[Fireglass Mentor](https://scryfall.com/card/blb/213)讓你在第二主�
 
 ### **<font color="#FD0214">紅</font><font color="#0A883B">綠</font>** — 花銷（Expend）
 
-![](https://i.postimg.cc/d0xykbSt/BLB-RG.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/5365274ca6f9.webp)
 
 > **對應種族：浣熊（Raccoons）**
 > 紅綠色組數量：**14**
@@ -104,7 +104,7 @@ U卡的[Wandertale Mentor](https://scryfall.com/card/blb/240)能做兩件事：�
 
 ### **<font color="#FED761">白</font><font color="#0A883B">綠</font>** — 衍生物鋪場（Tokens go-wide）與繁生（Offspring）
 
-![](https://i.postimg.cc/0jcxrscV/BLB-GW.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/207422cd2e5c.webp)
 
 > **對應種族：兔（Rabbits）**
 > 白綠色組數量：**14**
@@ -124,7 +124,7 @@ U卡的[Burrowguard Mentor](https://scryfall.com/card/blb/206)簡單暴力，生
 
 ### **黑<font color="#FED761">白</font>** — 生命值變動（Life gain & life loss）
 
-![](https://i.postimg.cc/hP1MzG8D/BLB-WB.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/0b60c7cd9f0b.webp)
 
 > **對應種族：蝙蝠（Bats）**
 > 黑白色組數量：**12**
@@ -143,7 +143,7 @@ U卡的[Starseer Mentor](https://scryfall.com/card/blb/233)五費3/5飛行警戒
 
 ### **<font color="#FD0214">紅</font><font color="#023FFD">藍</font>** — 施放複數咒語（Spellslinger）與靈技（Prowess）
 
-![](https://i.postimg.cc/QNbWcKzy/BLB-UR.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/24f3815bd90f.webp)
 
 > **對應種族：水獺（Otters）**
 > 紅藍色組數量：**14**
@@ -163,7 +163,7 @@ U卡的[Stormcatch Mentor](https://scryfall.com/card/blb/234)乍看之下一卡�
 
 ### **黑<font color="#0A883B">綠</font>** — 覓糧（Forage）與食物衍生物（Food tokens）
 
-![](https://i.postimg.cc/1tM5Vwz0/BLB-BG.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/a1087dbcfff1.webp)
 
 > **對應種族：松鼠（Squirrels）**
 > 黑綠色組數量：**14 + 1 （SPG中的[Toski, Bearer of Secrets](https://scryfall.com/card/spg/60)，出現機率較低）**
@@ -185,7 +185,7 @@ U卡的[Vinereap Mentor](https://scryfall.com/card/blb/238)牌面上就是寫著
 
 ### **<font color="#FD0214">紅</font><font color="#FED761">白</font>** — 英武快攻（Valiant aggro）
 
-![](https://i.postimg.cc/zGm5B0jZ/BLB-RW.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/7d6f70575438.webp)
 
 > **對應種族：家鼠（Mice）**
 > 紅白色組數量：**15**
@@ -209,7 +209,7 @@ U卡的[Seedglaive Mentor](https://scryfall.com/card/blb/231)是個有侵略性�
 
 ### **<font color="#023FFD">藍</font><font color="#0A883B">綠</font>** — 進離場效應（Enter effects and Flicker）
 
-![](https://i.postimg.cc/nrQgffNs/BLB-GU.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/3ef9e3a4ae92.webp)
 
 > **對應種族：蛙（Frogs）**
 > 藍綠色組數量：**19**
@@ -244,7 +244,7 @@ U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，�
 
 #### 谷喚師（Valley Callers）
 
-![](https://i.postimg.cc/ydPmJZT1/valley-callers.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/2942b21dc271.webp)
 
 谷喚師是 5 張的單色R卡生物，牠們都可以為該色對應種族帶來如讚美詩的群體膨脹、以及一些特別的效果。
 
@@ -252,25 +252,25 @@ U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，�
 
 #### 種族領主（Typal Lords）
 
-![](https://i.postimg.cc/RF278Zp0/Typal-lords.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/bcd49ca68393.webp)
 
 這邊說的不是傳統給相應種族群體[讚美詩](https://scryfall.com/card/usg/15/glorious-anthem)效果，如[妖精高位德魯伊](https://scryfall.com/card/m12/172/elvish-archdruid)、[鬼怪王](https://scryfall.com/card/9ed/192/goblin-king)、[亞特蘭提斯領主](https://scryfall.com/card/tsb/24/lord-of-atlantis)這類的牌，而是指對應斑隆洛時空10張種族的單色U卡增益生物，你需要滿足特定條件來觸發這些效果。需要注意的是，牠們都需要在適當的構築下才能發會最大的潛力，不一定是該種族生物拿得越多就越強，有時候也需要滿足對應色組的機制才有辦法持續發生效果。
 
 #### 村落地（Villages）
 
-![](https://i.postimg.cc/sgkvMbry/village.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/d71eca2861ce.webp)
 
 村落地是五張一組U卡的單色地牌，但別忘了它們產出的顏色只能用來施放生物咒語，施放非生物咒語則僅能產出無色的法力。然而，限制賽的核心就是生物，所以當你有開到對應顏色的村落地，就還是大膽地放進去你的套牌吧！而村落地也對應了五色色組對應的種族類別，你可以在適當的時機起動地的異能，來讓你或你操控的這些種族的生物獲得好處。
 
 #### 雙人組（Duo）
 
-![](https://i.postimg.cc/cCCnr5Hh/Duos.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/12ff0a92ad2f.webp)
 
 雙人組是設計團隊為了讓玩家在構築限制賽方便，特別設計一組10張的雙種族合一的單色生物牌，當然，他們對應的顏色也符合前面說到十種雙色色組所對應的種族。例如白色的[Brave-Kin Duo](https://scryfall.com/card/blb/3/brave-kin-duo)對應的種族即為<font color="#FD0214">紅</font><font color="#FED761">白</font>的家鼠、以及<font color="#FED761">白</font><font color="#0A883B">綠</font>的兔子；而另一張白色的[Lifecreed Duo](https://scryfall.com/card/blb/20/)則對應了黑<font color="#FED761">白</font>的蝙蝠、以及<font color="#023FFD">藍</font><font color="#FED761">白</font>的鳥。而牠們的異能也或多或少與對應色組的主題有關。
 
 #### 種族減費或增效咒語
 
-![](https://i.postimg.cc/Y2P4dRjc/spells.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/dfd54fb88d5e.webp)
 
 這邊提到的是BLB中有10張C卡咒語，效果跟許多我們熟知的牌相當接近，但當你有操控對的種族生物時，就可以以較低的費用施放，或產生一些額外的添頭。
 
@@ -280,7 +280,7 @@ U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，�
 
 ### 天災獸（Calamity Beasts）
 
-![](https://i.postimg.cc/k4CCN4kf/calamity.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/437328ccbc83.webp)
 
 如果說上述的10種色組種族作為斑隆洛時空住民的代表，那天災獸就是作為於之並存、並帶來近似大自然災變級別的危害，天災獸的存在並不是只有帶來破壞，它們同時也帶來了季節變遷。除了秘稀等級強大，且具有名字的傳奇天災獸外，另外也有UR卡級別的天災獸，但就不具有傳奇類別。這些天災獸的特性大致有以下幾點：
 
@@ -290,13 +290,13 @@ U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，�
 
 ### 單色職業（Class）
 
-![](https://i.postimg.cc/W111jJdm/Talents.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/c23bf6d8e335.webp)
 
 單色職業牌含U卡 5 張、R卡 5張共10張。這些職業牌在使用上與鵬洛客（planeswalkes）有些類似，大部分在進場的當回合表現出的影響力可能會比同費用的一次性咒語來得弱一點，它們總需要一點時間來發酵影響力！你可以在適合的巫術時機，施放後並依序開通不同等級的效果來強化你的優勢，而這些累積起來的優勢將漸漸滾起通往獲勝的康莊大道。
 
 ## 斑隆洛的特別來賓 （Special Guest, SPG）
 
-![](https://i.postimg.cc/j2njVV2p/SPG-BLB.jpg)
+![](https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/81b9a36c3f34.webp)
 
 SPG0054~0063這10張牌為斑隆洛中常規補充包能開到的特別來賓牌，有幾張是與主題種族有關連的牌，也有不知道為什麼，但強度爆炸像是[Sword of Fire and Ice](https://scryfall.com/card/spg/62)這樣的牌，也出在這一次的SPG。基本上SPG就當成一些主題或風味上的一點補充與樂趣，但考慮到沒有太多張、出現機率也不高，大家就當一個限制賽的小驚喜（嚇？）來看吧！
 

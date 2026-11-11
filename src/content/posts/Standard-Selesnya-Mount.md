@@ -13,30 +13,30 @@ authors:
 
 ## Before We Start
 
-![](https://i.postimg.cc/44PRcJKD/thumb.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/eaa5e81adb4e.webp)
 
 坐騎是《光雷譯鏢客》的代表性異能之一，限制賽在[獸群語者米莉安](https://scryfall.com/card/otj/221/miriam-herd-whisperer)的加持下可說是虎虎生風，但如果只看坐騎本身的話體格沒有特別突出，又需要攻擊才能觸發異能，標準種族套牌玩得起來嗎？
 
 ## 套牌介紹
 
-![](https://i.postimg.cc/8Pn8ytmw/Theme.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/c32b76c2b001.webp)
 
 以白綠稀有坐騎[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)為例子，兩費2/2先攻繫命、乘駕後攻擊派出3/3[天使](https://scryfall.com/card/totj/2/angel)看起來很不錯，但體格實在稱不上優秀，乘載後也不加體格，不設法養肥或賦予穿透力很容易有去無回。雖然坐騎系統有[獸群語者米莉安](https://scryfall.com/card/otj/221/miriam-herd-whisperer)、[暴躁滾枝獸](https://scryfall.com/card/otj/171/ornery-tumblewagg)這類的灌+1/+1指示物手段，但養成速度偏慢，遇到中大型生物只能乾瞪眼。除此之外，乘駕4也是不小的限制，只靠[亞廷勇士威利杜克](https://scryfall.com/card/otj/239/wylie-duke-atiin-hero)來乘駕實在不怎麼夠，該怎麼滿足這個條件呢？請見以下範例：
 
 [套牌列表](https://www.mtggoldfish.com/deck/6406797#paper)
-![](https://i.postimg.cc/nzxNs5nV/decklist.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/76adacde656b.webp)
 
 補上[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)缺陷的解答就是《邪軍壓境》的後援異能，[末日劫戰士](https://scryfall.com/card/mom/185/doomskar-warrior)、[散恩女武神](https://scryfall.com/card/mom/9/boon-bringer-valkyrie)同時滿足力量4、灌體格、給穿透，還有附帶賺資源及大量回血的效果，可說是絕妙的搭配。另外再選用[大天使艾紫培](https://scryfall.com/card/mom/6/archangel-elspeth)填入旅法格，[-2] 的放豆變天使讓[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)真正長出翅膀飛越對手的地面防線，[+1] 派出繫命[士兵](https://scryfall.com/card/tmom/2/soldier)可以拖延對手的攻勢，如果撐到 [-6] 奧義還可以立即重建場面。
 
-![](https://i.postimg.cc/K8K6CB9b/backup.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/dfae9371214a.webp)
 
 除了[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)以外，這副套牌的坐騎額外選用[暴躁滾枝獸](https://scryfall.com/card/otj/171/ornery-tumblewagg)、[頑固伏穴獸](https://scryfall.com/card/otj/184/stubborn-burrowfiend)兩張可自灌體格的坐騎，另外還有坐騎專用載具[可動家舍](https://scryfall.com/card/otj/245/mobile-homestead)。[暴躁滾枝獸](https://scryfall.com/card/otj/171/ornery-tumblewagg)的放豆加倍豆灌大與上述後援生物及[大天使艾紫培](https://scryfall.com/card/mom/6/archangel-elspeth)互動良好，輸出相當暴力，兩拳收掉對手的情況也不是沒發生過。[可動家舍](https://scryfall.com/card/otj/245/mobile-homestead)有著身為二費載具的優勢，不太容易吃到去除，進攻時可以從牌庫頂放地進場，順利的話能一路加速上去。[頑固伏穴獸](https://scryfall.com/card/otj/184/stubborn-burrowfiend)雖然是填補曲線的選擇，但因為是看墳場生物量灌大，在中後期一樣可以發揮驚人的打擊力。
 
-![](https://i.postimg.cc/ZKqtF1pC/Theme2.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/d860720f7a9d.webp)
 
 去除選用[異燈行進](https://scryfall.com/card/neo/28/march-of-otherworldly-light)與[速速退離](https://scryfall.com/card/lci/14/get-lost)。[速速退離](https://scryfall.com/card/lci/14/get-lost)可瞬間去除生物、結界或旅法，高泛用性應該是眾所周知，這邊不再贅述；[異燈行進](https://scryfall.com/card/neo/28/march-of-otherworldly-light)同樣是高泛用性單卡，雖然X費的限制對到[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)之類的高費牌非常難用，但打靈技型小快攻或召集就相當好用了，特別是一費瞬間點掉對手的[線索](https://scryfall.com/card/tcmm/40/clue)或[血滴](https://scryfall.com/card/tvow/17/blood)讓[歡樂毀壞](https://scryfall.com/card/one/134/gleeful-demolition)落空肯定會讓對手傻眼。另外再放入兩張[叛逃蟲械斯勒夫](https://scryfall.com/card/one/33/skrelv-defector-mite)提供保護與穿透力。
 
-![](https://i.postimg.cc/0yLTvj3w/Remove-prot.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/3acaa1391370.webp)
 
 ## 實戰演示
 
@@ -50,6 +50,6 @@ authors:
 
 ## 結語
 
-![](https://i.postimg.cc/YSYJCkKy/theme3.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/fab98838d6a0.webp)
 
 除了白綠以外，坐騎種族主題也可以嘗試走阿布贊色組，在本站不久前的文章[莎莉雅到哪去了呢？ 標準阿布贊坐騎構築](https://guildmagesforum.tw/Standard-Abzan-Mount/)可以看到這個色組有[蝕液野馬](https://scryfall.com/card/otj/82/caustic-bronco)、[血口坐騎噬人蛙怪](https://scryfall.com/card/otj/206/the-gitrog-ravenous-ride)等優質坐騎可用，帶上黑色去除與手牌破壞也能提高整體穩定性，不過前文的版本並未處理坐騎的缺陷，容易變成依賴[血口坐騎噬人蛙怪](https://scryfall.com/card/otj/206/the-gitrog-ravenous-ride)強行突破的打法，一旦被對手的殺牌抓到或是太晚登場打不穿對手防線就尷尬了。關於改良方案相信本文已經提供一個恰當的解答，有興趣的讀者朋友不妨揉合兩個版本嘗試構築看看。

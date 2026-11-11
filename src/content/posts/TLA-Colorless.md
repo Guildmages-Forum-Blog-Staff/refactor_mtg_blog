@@ -114,7 +114,7 @@ excerpt: "值得重修的好課、限制賽最強的R卡地，還有那堵傳說
 
 
 <!---C卡雙色地--->
-![](https://i.meee.com.tw/KVuRRnp.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Colorless/1801e9a5e2ff.webp)
 分數：3.0
 評語：穩定的雙色地，是任何雙色套牌都樂於擁有的調色選項。進場雖然橫置，但後期還能轉換成抽牌資源，在長局中不會變成廢地。整體表現中規中矩、實用可靠。
 

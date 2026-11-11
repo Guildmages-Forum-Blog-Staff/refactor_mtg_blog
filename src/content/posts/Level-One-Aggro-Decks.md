@@ -44,7 +44,7 @@ excerpt: "Level One: Aggro Decks"
 
 專注於魔法力效率。對於每一項需完成的任務，選擇你所能負擔的最低廉（就魔法力而言）的選項。理想情況下，你部署威脅的費用應低於對手的解牌成本；而你應對威脅時，花費也應少於對手的投入。不要把節奏投資在像[砂原殿堂](https://scryfall.com/card/ktk/241/zht/%E6%B2%99%E5%8E%9F%E6%AE%BF%E5%A0%82-(sandsteppe-citadel))或[阿布贊戰旗](https://scryfall.com/card/ktk/215/zht/%E9%98%BF%E5%B8%83%E8%B4%8A%E6%88%B0%E6%97%97-(abzan-banner))這樣的牌上，因為理想情況下，遊戲不會進行到足以讓這些牌的初始投資回本。
 
-![](https://i.meee.com.tw/B6OUR9G.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/aae7f4bf9756.webp)
 
 應將重心放在施加威脅，而非疲於應對對手的招式。你所投入的少量解牌，應專門用來處理那些會阻礙你遊戲計畫的威脅（例如阻擋生物）。
 
@@ -55,11 +55,11 @@ excerpt: "Level One: Aggro Decks"
 **範例1：黑白快攻（WB Aggro）**
 [套牌連結](https://www.mtggoldfish.com/deck/7597448#paper)
 
-![](https://i.meee.com.tw/tMGQMiU.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/0ec4f63a34d5.webp)
 
 首先，看看這套牌的魔法力曲線。整套牌竟有多達 22 張咒語僅需一點魔法力！當前標準環境中有五種「[1 點魔法力、2 點力量](https://scryfall.com/search?q=type%3Acreature+color%3C%3DWB+%28game%3Apaper%29+cmc%3D1+pow%3D2+%28set%3Aktk+OR+set%3Ajou+OR+set%3Abng+OR+set%3Aths%29+prefer%3Abest&unique=cards&as=grid&order=name)」的黑/白色生物，而這套牌就滿編了其中四種！<sup>[註1](#quote1)</sup>這意味著你極大機率能在第一回合打出強勢開局，且在第二回合同時施放兩張一費咒語的可能性也非常高。盡可能快速地部署威脅，正是快攻套牌節奏策略的核心。
 
-![](https://i.meee.com.tw/OFCJ6bj.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/0e33f42a4b68.webp)
 
 還要注意到，沒有任何咒語的費用超過三點。這意味著你所有的攻擊手段都可以在遊戲早期盡數施展。這種配置也允許套牌僅使用 21 張地牌，進而挪出更多空間給威脅牌。
 
@@ -67,7 +67,7 @@ excerpt: "Level One: Aggro Decks"
 
 在牌張選擇上，[劫令惡魔](https://scryfall.com/card/bng/75/zht/%E5%8A%AB%E4%BB%A4%E6%83%A1%E9%AD%94-(herald-of-torment))是快攻套牌的完美首選。它僅需三費，能及早登場並施壓對手。然而，若你面臨爆地、或戰況陷入膠著時，它的神授（Bestow）異能便成了關鍵的備案計畫。神授能讓場上的生物立即獲得飛行能力，繞過對手的阻擋者，進而製造巨大的節奏落差。雖然多數生物進場時受限於「召喚失調」（Summoning Sickness）而無法立即進攻，但神授劫令惡魔能對盤面產生即時且巨大的影響！這種能應對不同局勢的靈活性，正是其迷人之處。
 
-![](https://i.meee.com.tw/zAUrvOF.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/741e3a13bc66.webp)
 
 這套牌中許多強大牌張（如[劫令惡魔](https://scryfall.com/card/bng/75/zht/%E5%8A%AB%E4%BB%A4%E6%83%A1%E9%AD%94-(herald-of-torment))、[苦痛預言師](https://scryfall.com/card/bng/80/zht/%E8%8B%A6%E7%97%9B%E9%A0%90%E8%A8%80%E5%B8%AB-(pain-seer))、[攫取思緒](https://scryfall.com/card/ths/107/zht/%E6%94%AB%E5%8F%96%E6%80%9D%E7%B7%92-(thoughtseize))與[潰爛](https://scryfall.com/card/m15/119/zht/%E6%BD%B0%E7%88%9B-(ulcerate))）都會導致你失去血量。根據我的經驗，新手往往對這類牌避之唯恐不及。然而，克服這種對自殘的恐懼至關重要。畢竟快攻玩家不需要太在意自己的血量。
 
@@ -77,13 +77,13 @@ excerpt: "Level One: Aggro Decks"
 
 同樣地，較慢的黑白套牌可能更傾向於選擇[侵蝕荒漠](https://scryfall.com/card/ktk/242/zht/%E4%BE%B5%E8%9D%95%E8%8D%92%E6%BC%A0-(scoured-barrens))，而不是[喀洛斯洞窟](https://scryfall.com/card/m15/241/zht/%E5%96%80%E6%B4%9B%E6%96%AF%E6%B4%9E%E7%AA%9F-(caves-of-koilos))和[魔力聚流](https://scryfall.com/card/jou/163/zht/%E9%AD%94%E5%8A%9B%E8%81%9A%E6%B5%81-(mana-confluence))。然而身為快攻玩家，你必須為了維持節奏而樂於犧牲血量。橫置進場的地會拖慢速度並打斷你的魔法力曲線，而這個代價對快攻策略而言是不可承受的。
 
-![](https://i.meee.com.tw/IHLXCfc.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/30dda7c8b606.webp)
 
 最後，讓我們看看這套牌的應對手段。[英雄殉身](https://scryfall.com/card/ths/90/zht/%E8%8B%B1%E9%9B%84%E6%AE%89%E8%BA%AB-(heros-downfall))是掃除阻擋者、確保持續進攻的可靠方案。而[潰爛](https://scryfall.com/card/m15/119/zht/%E6%BD%B0%E7%88%9B-(ulcerate))與[奪魂斬](https://scryfall.com/card/ktk/81/zht/%E5%A5%AA%E9%AD%82%E6%96%AC-(murderous-cut))則視情境而定，雖然使用限制較多，但其極高的魔法力效率彌補了這點。若你能用一費的潰爛、或靠掘穴（Delve）施放的奪魂斬解掉生物，並於同回合拍下自己的威脅，其所產生的節奏優勢將足以壓倒對手。
 
 [攫取思緒](https://scryfall.com/card/ths/107/zht/%E6%94%AB%E5%8F%96%E6%80%9D%E7%B7%92-(thoughtseize))同樣是應對牌，但在快攻套牌中，它的用途通常是應對對手的應對手段（answer your opponent's answer）。畢竟，快攻的兩大天敵就是阻擋生物和解牌。你無法用英雄殉身移除對手的解牌，但你可以用攫取思緒在對方施放前就棄掉它。當對手盤算著要靠[止戰寧息](https://scryfall.com/card/ktk/8/zht/%E6%AD%A2%E6%88%B0%E5%AF%A7%E6%81%AF-(end-hostilities))這類的高影響力咒語（High-Impact Spell）翻盤時，關鍵時刻的攫取思緒將特別有價值。
 
-![](https://i.meee.com.tw/BzQBAR4.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/66764ff76aa7.webp)
 
 ### 攻擊對手的血量
 
@@ -107,7 +107,7 @@ excerpt: "Level One: Aggro Decks"
 **範例2：鬧事紅（Rabble Red）**
 [套牌連結](https://www.mtggoldfish.com/deck/7597449#paper)
 
-![](https://i.meee.com.tw/H1Tdevx.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/b0e9bab63deb.webp)
 
 傳統上，紅色是最適合構築快攻的顏色。除了擁有大量廉價且具侵略性的生物，紅色的去除手段通常以「燒牌」（Burn）的形式呈現。
 

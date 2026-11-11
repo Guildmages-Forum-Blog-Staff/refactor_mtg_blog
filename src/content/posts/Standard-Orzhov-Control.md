@@ -21,7 +21,7 @@ categories:
 
 ## 構築分享與對局簡介
 
-![](https://i.meee.com.tw/S4rYHVQ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Orzhov-Control/43979ff0cc63.webp)
 在MTGA上簡單打個幾場，確定大方向都沒有問題後便直接去參加3/8的LCQ，當天的戰報如下：
 
 ### R1 傑斯凱控制 VV

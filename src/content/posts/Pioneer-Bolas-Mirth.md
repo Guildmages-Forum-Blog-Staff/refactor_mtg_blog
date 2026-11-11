@@ -14,7 +14,7 @@ excerpt: "波波套有很多種，你有看過結界型的嗎？"
 
 ## Before We Start
 
-![](https://i.imgur.com/89NLatG.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/03686c5d9843.webp)
 
 在魔風世界觀中，長老龍[旅法師尼可波拉斯](https://scryfall.com/card/e01/85/nicol-bolas-planeswalker)是站在所有旅法師頂點的存在，這點也反映在卡牌強度上，特別是費用相對輕巧的最近兩個版本[烈龍](https://scryfall.com/card/m19/218/nicol-bolas-the-ravager-nicol-bolas-the-arisen)與[龍尊](https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god)，在一般構築賽制較有發揮的空間。多年來許多玩家曾經構築過波拉斯主題套牌，像是生物中速型、龍種族型、傳統控制型、打鐵旅法型等，那麼，如果和這次《[暮悲邸：鬼屋驚魂](https://scryfall.com/sets/dsk?as=grid&order=set)》的結界主題做搭配，打起來又會是如何呢？
 
@@ -22,13 +22,13 @@ excerpt: "波波套有很多種，你有看過結界型的嗎？"
 
 由於[烈龍](https://scryfall.com/card/m19/218/nicol-bolas-the-ravager-nicol-bolas-the-arisen)需要另外付費翻面才能完整發揮性能，我們就以[龍尊](https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god)作為構築核心來說明：
 
-![](https://i.imgur.com/9pBq6vM.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/1588a8269945.webp)
 
 不看被動異能的話，[龍尊尼可波拉斯](https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god)是標準的五費模版旅法師： [+1] 抽牌、 [-3] 解場、 [-8] 大招會贏， [+1] 抽牌的同時還會要求對手放逐手牌或永久物，相當強力，可說是格立極色組的[多明納里亞英雄泰菲力](https://scryfall.com/card/dom/207/teferi-hero-of-dominaria)。但比起[泰菲力](https://scryfall.com/card/dom/207/teferi-hero-of-dominaria) [+1] 附帶的重置地牌，[龍尊](https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god)的空隙比較大，所以在登場前需要做好前置作業：把對面壓制到只能靠 TOP DECK 處理[龍尊](https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god)。
 
 為了達成這個目標，控場同時控手牌的棄牌控制是個合理的構築方向。檯面上的例子是[物盡其用](https://scryfall.com/card/c16/117/waste-not)套牌，然而跟波拉斯的互動只有[烈龍](https://scryfall.com/card/m19/218/nicol-bolas-the-ravager-nicol-bolas-the-arisen)進場棄一張，為此混到三色實在不怎麼合算。所以筆者把目光轉到《[暮悲邸](https://scryfall.com/sets/dsk?as=grid&order=set)》的腦花結界[不安喜悅](https://scryfall.com/card/dsk/212/disturbing-mirth)：
 
-![](https://i.imgur.com/PU3afEg.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/53a52d4f5f69.webp)
 
 >不安喜悅
 >結界
@@ -39,26 +39,26 @@ excerpt: "波波套有很多種，你有看過結界型的嗎？"
 
 [套牌列表](https://www.mtggoldfish.com/deck/6690814#paper)
 
-![](https://i.imgur.com/h2W75Uh.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/b0780806ec06.webp)
 
 我們可以在標準牌池中找到進場棄牌的[無望夢魘](https://scryfall.com/card/woe/95/hopeless-nightmare)、[細骨入夥](https://scryfall.com/card/otj/108/tinybones-joins-up)、[攔路匪才能](https://scryfall.com/card/blb/83/bandits-talent)，以及能無效化對手生物辟邪與守護的去除[進退無路](https://scryfall.com/card/dsk/111/nowhere-to-run)，以上這些進場能賺到牌差的低費結界，讓我們在前兩回合場上就有可以犧牲的肥料。
 
-![](https://i.imgur.com/yErcWbd.png)
-![](https://i.imgur.com/6fKqKSa.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/1f18b51af160.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/9772d6467b54.webp)
 
 至於犧牲結界的手段，除了[不安喜悅](https://scryfall.com/card/dsk/212/disturbing-mirth)外，我們另外再選用[點燃塔樓](https://scryfall.com/card/woe/153/torch-the-tower)與[叛徒交易](https://scryfall.com/card/dsk/126/betrayers-bargain)這兩張瞬間放逐燒，以便壓制時下流行的投擲型紅黑快攻，順便招待一下[弧光鳳凰](https://scryfall.com/card/rvr/100/arclight-phoenix)。
 
-![](https://i.imgur.com/YJfZmaG.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/2bc559ea66b7.webp)
 
 講完結界相關組件，接下來講正常瞬間巫術的部分。首先我們放入先驅黑色必備的[送終一擊](https://scryfall.com/card/2xm/93/fatal-push)與[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)，然後是對旅法及大生物解[希歐蕊的勒令](https://scryfall.com/card/one/108/sheoldreds-edict)與[熔毀崩塌](https://scryfall.com/card/lci/234/molten-collapse)，後者可以直接拆除犧牲套牌的[拾荒客才能](https://scryfall.com/card/blb/111/scavengers-talent)與[巫婆爐灶](https://scryfall.com/card/eld/237/witchs-oven)，且在這副套牌可以主動達成落墳，有機會一換二。另外置入兩張不會掃到烈龍的[煤煙儀式](https://scryfall.com/card/grn/84/ritual-of-soot)對付橫向展開的套牌，以及一張針對墳場兼補資源的[執持化塵](https://scryfall.com/card/thb/87/cling-to-dust)做補充。
 
-![](https://i.imgur.com/buOoKXG.png)
-![](https://i.imgur.com/ULQ7Jes.png)
-![](https://i.imgur.com/cv2IvpA.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/17b0dbb73f30.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/24241a21c6a3.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/23ed2f6df748.webp)
 
 地牌配置以不扣血為原則，所以沒放電震地，而是改以各式站進地搭配三色循環地[尚奪爾的酒廊](https://scryfall.com/card/snc/260/xanders-lounge)構成。此外為了滿足[龍尊](https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god)嚴苛的指定色，整體配置重黑，紅色次之，藍色居末。讀者可能會覺得功能地太少（僅一張[洛司溫堡](https://scryfall.com/card/clb/884/castle-locthwain)），這邊請讀者參考顏色比例自行調整。
 
-![](https://i.imgur.com/EcA9f0T.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/c14ef7d2692b.webp)
 
 ## 實戰演示
 
@@ -72,6 +72,6 @@ excerpt: "波波套有很多種，你有看過結界型的嗎？"
 
 ## 結語
 
-![](https://i.imgur.com/uFdFl5P.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/ba64fd25bc4b.webp)
 
 這副波拉斯套正編打快攻及一般中速還算夠力，對會主動做事的犧牲、挖墳、獻力等也可以一戰，但因為缺少主動進攻手段，又有大量對生物去除，所以打白藍控這類被動且會補資源的套牌相當劣勢，除此之外整體遊玩體驗並不差。事實上，筆者就靠這套與再調整過的忍者爬上 MTGA 這一期的秘稀，喜歡看波拉斯摧殘對手的讀者朋友不妨參考看看。

@@ -33,13 +33,13 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/7768440#paper)
-![DeckList](https://i.meee.com.tw/9B35LUo.png)
+![DeckList](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/984a16221aff.webp)
 
 
 
 ### 核心組件
 
-![核心組件](https://i.meee.com.tw/juGSKgA.png)
+![核心組件](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/89b19c796bf6.webp)
 
 這三張牌是套牌的運作核心，先讓我們看看它們的主要效果：
 
@@ -58,7 +58,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 ### 棄牌
 
-![棄牌](https://i.meee.com.tw/nI2lI1l.png)
+![棄牌](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/a51050e8c629.webp)
 
 - **[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)（4）＆ [寇基雷的審訊](https://scryfall.com/card/2x2/80/inquisition-of-kozilek)（4）：**
 
@@ -72,7 +72,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 雖然上面說了，我們的目標是讓對手每回合只能抽到廢牌，但除了過多的地牌外，一般構築哪可能自己帶那麼多廢牌，所以必須要布置額外的封鎖，來讓許多原本有用的牌成為廢牌。
 
 
-![鎖1](https://i.meee.com.tw/k46hI7H.png)
+![鎖1](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/1880889d07a7.webp)
 
 - **[陷阱橋](https://scryfall.com/card/2xm/253/ensnaring-bridge)（4）：**
 
@@ -89,7 +89,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 [金針](https://scryfall.com/card/2x2/312/pithing-needle)至少會需要2張，第3張比較偏向自由卡位。
 
 
-![鎖2](https://i.meee.com.tw/JxDI7oA.png)
+![鎖2](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/8abd2f84c838.webp)
 
 - **[挖墳人囚籠](https://scryfall.com/card/m20/227/grafdiggers-cage)（1）：**
 
@@ -110,7 +110,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 ### 導師
 
-![導師](https://i.meee.com.tw/85EhTQA.png)
+![導師](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/eff078127d4c.webp)
 
 明燈是一套需要多重元件協同運作的套牌，許多對局也需要精準找出特定對策牌，因此會需要一定數量的檢索手段。除了神器套牌標配的[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)外，還使用了這些牌：
 
@@ -130,7 +130,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 ### 其他
 
-![工具箱](https://i.meee.com.tw/NKI0G3i.png)
+![工具箱](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/affea8f1e7ed.webp)
 
 - **[蛋白瑪珂](https://scryfall.com/card/2xm/275/mox-opal)（1）：**
 
@@ -156,7 +156,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 ### 地牌
 
-![功能地](https://i.meee.com.tw/Gvn8bXE.png)
+![功能地](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/abbff27db22e.webp)
 
 - **[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)（4）：**
 
@@ -183,7 +183,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 ### 備牌
 
-![](https://i.meee.com.tw/RAU31t1.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/a7c5ad0cf919.webp)
 
 - **[亂心飾品](https://scryfall.com/card/mh3/212/vexing-bauble)（1）：**
 
@@ -202,7 +202,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 
  
-![](https://i.meee.com.tw/LOloDIG.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/39e396eb5503.webp)
  
 - **[滯阻法球](https://scryfall.com/card/dmr/219/damping-sphere)（2）：**
 
@@ -216,7 +216,7 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 
 
-![](https://i.meee.com.tw/UyPgGN7.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/e33f71f99254.webp)
 
 - **[手術摘除](https://scryfall.com/card/2x2/94/surgical-extraction)（1）：**
 
@@ -228,14 +228,14 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 
 
-![](https://i.meee.com.tw/9LmfRDT.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/f04c09882d93.webp)
 
 - **[送終一擊](https://scryfall.com/card/2xm/93/fatal-push)（2）＆ [熔毀崩塌](https://scryfall.com/card/lci/234/molten-collapse)（1）：**
 
 備牌還是需要一點去除，有些東西光是站在場上，不參與攻擊也能整死人。
 
 
-![](https://i.meee.com.tw/Jyyu0wn.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/5950f1579f84.webp)
 
 - **[烈火斷層](https://scryfall.com/card/dsk/149/pyroclasm)（1）＆ [險峻路途](https://scryfall.com/card/vow/124/path-of-peril)（1）：**
 
@@ -298,11 +298,11 @@ excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格�
 
 實際上在獲勝的對局中，可能有1/3都是[血月](https://scryfall.com/card/2xm/118/blood-moon)+[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)的功勞，根本不是真的用[明燈](https://scryfall.com/card/5dn/135/lantern-of-insight)控贏的，這也是為甚麼會那麼激進的只為了一個[血月](https://scryfall.com/card/2xm/118/blood-moon)混紅色。
 
-![](https://i.meee.com.tw/VtnQsJp.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/451693c831d4.webp)
 
 其實在[傳紀改規則](https://guildmagesforum.tw/How-does-Urzas-Saga-Become-Blood-Moons-Friend/)之前，明燈控基本上都是蘇勒台色組的，有[喚醒古物](https://scryfall.com/card/2xm/151/ancient-stirrings)＆[創發隆響](https://scryfall.com/card/aer/49/whir-of-invention)的深度濾牌和檢索，手感確實滑順很多，所以我最初的半年也是以這個架構來組的。
 
-![](https://i.meee.com.tw/yZNCNHW.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/08754bf63578.webp)
 
 無奈最後發現，提升檢索神器的能力，實際破壞力還不如直接定[血月](https://scryfall.com/card/2xm/118/blood-moon)來著大，放了[血月](https://scryfall.com/card/2xm/118/blood-moon)後自己又很難混更多色。當然如果是重用[蛋白瑪珂](https://scryfall.com/card/2xm/275/mox-opal)的構築，或許在這方面問題可以舒緩點，只是我的錢包會先往生。
 
