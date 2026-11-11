@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/q2lRfGs.webp"
-thumbnail: "https://i.meee.com.tw/q2lRfGs.webp"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Red/4b88fb79aa97-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Red/4b88fb79aa97-cover.jpg"
 excerpt: "紅色就像全能的引擎：它可以點火、可以加速 —— 只要你給它足夠燃料，勝利就會跟著爆燃。"
 
 ---

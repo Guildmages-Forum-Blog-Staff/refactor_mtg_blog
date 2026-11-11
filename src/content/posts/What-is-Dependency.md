@@ -26,7 +26,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 {% endfolding %}
 
-![封面](https://i.imgur.com/U2woWJO.jpg)
+![封面](https://images.guildmagesforum.tw/posts/What-is-Dependency/ab02fadbb8c0.webp)
 
 ---
 
@@ -66,7 +66,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 先讓我們看看下面這個情境，假設我已操控[費米瑞甫之傲桂恩岱](https://scryfall.com/card/dom/25/kwende-pride-of-femeref)，接著下了一個[空境巨鎚](https://scryfall.com/card/znr/27/maul-of-the-skyclaves)並使其佩帶至[灰棕熊](https://scryfall.com/card/10e/268/grizzly-bears)身上，那麼這個灰棕熊現在是否有連擊異能？
 
-![先攻](https://i.postimg.cc/mTsZqHx1/image.png)
+![先攻](https://images.guildmagesforum.tw/posts/What-is-Dependency/93d02d57face.webp)
 
 > [費米瑞甫之傲桂恩岱](https://scryfall.com/card/dom/25/kwende-pride-of-femeref)：由你操控且具先攻異能的生物具有連擊異能。
 > [空境巨鎚](https://scryfall.com/card/znr/27/maul-of-the-skyclaves)：佩帶此武具的生物得+2/+2且具有飛行與先攻異能。
@@ -117,7 +117,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 掌握了基本的規則後，就來讓我們看看實際範例吧！
 
-![化蛙術](https://i.postimg.cc/51SZWN4G/image.png)
+![化蛙術](https://images.guildmagesforum.tw/posts/What-is-Dependency/694b06dc1a2b.webp)
 
 > [古神之吼雅魯斯](https://scryfall.com/card/mkm/245/yarus-roar-of-the-old-gods)：由你操控的其他生物具有敏捷異能。
 > [化蛙術](https://scryfall.com/card/clu/103/turn-to-frog)：直到回合結束，目標生物失去所有異能，且成為基礎力量與防禦力為1/1的藍色蛙。
@@ -126,7 +126,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 因為應用了<font color="#FF0000">化蛙術</font>後，<font color="#0000FF">雅魯斯</font>便會失去賦予其他生物敏捷的能力，也就是上面說的先應用了<font color="#FF0000">效應A</font>後<font color="#0000FF">效應B</font>直接消失，這屬於613.8a（b）的第一種情況，所以<font color="#0000FF">雅魯斯</font>從屬於<font color="#FF0000">化蛙術</font>，你的其他生物將不再透過雅魯斯獲得敏捷異能。
 
-![鍋子](https://i.postimg.cc/SmK9WNnm/image.png)
+![鍋子](https://images.guildmagesforum.tw/posts/What-is-Dependency/49b2c6013adb.webp)
 
 > [阿加莎的靈魂鼎鑊](https://scryfall.com/card/woe/242/agathas-soul-cauldron)：對由你操控且其上有+1/+1指示物的生物而言，它們具有所有以阿加莎的靈魂鼎鑊放逐之生物牌的所有起動式異能。
 > {橫置}：將目標牌從墳墓場放逐。當以此法放逐一張生物牌時，在目標由你操控的生物上放置一個+1/+1指示物。
@@ -142,7 +142,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 鍋子&褪除武裝的效應都是作用在生物上，彼此之間無關係，應用其中一個不會導致另一個效應本身發生改變，所以是使用時間印記系統。
 但鍋子+縛潮師的案例中，是鍋子影響生物，而縛潮師影響鍋子，應用了縛潮師的效果後會導致鍋子也發生改變，所以使用從屬關係系統。
 
-![敏捷](https://i.postimg.cc/zq8ddKs5/Dress-Down.png)
+![敏捷](https://images.guildmagesforum.tw/posts/What-is-Dependency/ca6de496fc92.webp)
 
 > [炎脈加娜](https://scryfall.com/card/c20/213/garna-the-bloodflame)：由你操控的其他生物具有敏捷異能。
 > [群情激昂](https://scryfall.com/card/m13/129/fervor)：由你操控的生物具有敏捷異能。
@@ -154,7 +154,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 而群情激昂與褪除武裝並沒有任何直接互動，因為群情激昂並不是生物，不受褪除武裝的影響，它們只是同樣以層6的異能增減效應去影響生物，所以在這裡要比較兩者的時間印記，若是群情激昂先進場、褪除武裝後進場，那麼生物將失去所有異能；反之若是褪除武裝先進場、群情激昂後進場，那麼你的生物將先失去所有異能後再獲得敏捷異能。
 
-![器械進擊](https://i.postimg.cc/Q8PBztZB/image.png)
+![器械進擊](https://images.guildmagesforum.tw/posts/What-is-Dependency/48de78bb1063.webp)
 
 > [構生菌格柵](https://scryfall.com/card/bbd/241/mycosynth-lattice)：所有永久物均額外具有神器此類別的。
 > [器械進擊](https://scryfall.com/card/arc/6/march-of-the-machines)：每個非生物的神器都是神器生物，力量與防禦力各等同於其總魔法力值。
@@ -165,7 +165,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 > 另外補充一下，因為構生菌格柵&器械進擊的能力都可以對地生效，所以當兩者同時在場時，所有地會成為0/0的神器生物，這組合等效於一個炸地Combo。
 
-![異西里獄卒](https://i.postimg.cc/191rCyZ5/image.png)
+![異西里獄卒](https://images.guildmagesforum.tw/posts/What-is-Dependency/023ba4a24f24.webp)
 
 > [潰疽流漿](https://scryfall.com/card/2x2/83/necrotic-ooze)：只要潰疽流漿在戰場上，它便具有所有墳場中每張生物牌的所有起動式異能。
 > [異西里獄卒](https://scryfall.com/card/tsr/149/yixlid-jailer)：墳墓場中的牌失去所有異能。
@@ -176,7 +176,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 但在這個案例中，異西里獄卒的能力並非直接作用於潰疽流漿，而是作用於能定義潰疽流漿會獲得甚麼異能的墳場中的牌上，也就是說<font color="#FF0000">異西里獄卒</font>改變<font color="#0000FF">潰疽流漿</font>的效應將生效的內容，這屬於613.8a（b）的第三種情況，<font color="#0000FF">潰疽流漿</font>從屬於<font color="#FF0000">異西里獄卒</font>，潰疽流漿將無法獲得任何墳場中生物牌的起動式異能。
 
-![縫組食屍鬼](https://i.postimg.cc/VYs82rMK/image.png)
+![縫組食屍鬼](https://images.guildmagesforum.tw/posts/What-is-Dependency/0167a523cf56.webp)
 
 > [縫組食屍鬼](https://scryfall.com/card/m12/112/sutured-ghoul)：於縫組食屍鬼進戰場時，從你的墳墓場放逐任意數量的生物牌。
 > 縫組食屍鬼的力量等同於以此法放逐之牌力量的總和，且其防禦力等同於以此法放逐之牌防禦力的總和。
@@ -188,7 +188,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 而<font color="#0000FF">縫組食屍鬼</font>的CDA在計算力量時，需要參考被它放逐的<font color="#FF0000">死冥耶夫</font>的CDA，也就是說<font color="#0000FF">縫組食屍鬼</font>從屬於<font color="#FF0000">死冥耶夫</font>，你會先計算出<font color="#FF0000">死冥耶夫</font>的力量後，再拿這個數值去計算<font color="#0000FF">縫組食屍鬼</font>的力量。
 
-![NTR](https://i.imgur.com/vKYfQSl.jpg)
+![NTR](https://images.guildmagesforum.tw/posts/What-is-Dependency/9168aaf1ed08.webp)
 
 > [魔法操控術](https://scryfall.com/card/cma/34/control-magic)：你操控所貼附的生物。
 > [竊取結界](https://scryfall.com/card/tmp/90/steal-enchantment)：你操控所貼附的結界。
@@ -197,7 +197,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 這兩者都屬於層2的「改變操控權的效應」。<font color="#0000FF">魔法操控術</font>的效果為 **「你」操控所貼附的生物**，這之中的 **「你」** 就是這個靈氣的操控者，而<font color="#FF0000">竊取結界</font>將會改變<font color="#0000FF">魔法操控術</font>的操控者，也就是說<font color="#0000FF">魔法操控術</font>從屬於<font color="#FF0000">竊取結界</font>，最後灰棕熊的操控權將會歸於我方。
 
-![約墓](https://i.imgur.com/U2woWJO.jpg)
+![約墓](https://images.guildmagesforum.tw/posts/What-is-Dependency/ab02fadbb8c0.webp)
 
 > [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)：非基本地都是山脈。以下簡稱「血月」。
 > [約格莫夫之墓烏爾博格](https://scryfall.com/card/tsr/287/urborg-tomb-of-yawgmoth)：每個地均額外具有沼澤此地類別。以下簡稱「約墓」。
@@ -217,7 +217,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 實際上這個案例本身的邏輯非常簡單，不過這種修改地類別的寫法，相對於上面的範例，有時看上去不是那麼直觀；並且相比於前面範例是很明顯的<font color="#FF0000">A</font>會影響<font color="#0000FF">B</font>，<font color="#FF0000">血月</font>&<font color="#0000FF">約墓</font>的互動特別像是時間印記的處理範圍，貌似兩個效應並不怎麼有從屬性，近似的案例可以參考[上期](https://guildmagesforum.tw/What-is-Time-Stamp/)的「血月+[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)」。當你不確定兩個效應之間究竟有無從屬關係時，一個簡單的判斷法就是 **「把這兩個效應以不同的生效順序分別模擬一次」** ，以此題為例，分別嘗試先應用血月或約墓後，兩者的關係其實就很明顯了，甚至於哪怕你還是搞不懂從屬關係的定義，起碼在對局中是能理清當下遊戲狀態的。
 
-![根徑滌淨師](https://i.postimg.cc/Sm7cpn6P/basic.png)
+![根徑滌淨師](https://images.guildmagesforum.tw/posts/What-is-Dependency/89f8cc27e89c.webp)
 
 > [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)：非基本地都是山脈。
 > [根徑滌淨師](https://scryfall.com/card/brc/24/rootpath-purifier)：由你操控的地和你牌庫中的地牌都是基本。
@@ -226,7 +226,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 <font color="#0000FF">血月</font>的效應只能作用於「非基本地」，但是<font color="#FF0000">根徑滌淨師</font>可以將你的地都額外賦予「基本」類別，也就是說應用<font color="#FF0000">根徑滌淨師</font>會導致<font color="#0000FF">血月</font>效應生效的對象改變，<font color="#0000FF">血月</font>從屬於<font color="#FF0000">根徑滌淨師</font>，你的所有地將先獲得「基本」類別後無視血月的影響，因為這些地已經不是血月的生效對象了，但你的對手就沒這麼幸運了，他們還是照常受到血月的影響。
 
-![艾莎婭](https://i.postimg.cc/3rKWHCqz/image.png)
+![艾莎婭](https://images.guildmagesforum.tw/posts/What-is-Dependency/33ffa7e825ce.webp)
 
 > [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)：非基本地都是山脈。
 > [荒野之魂艾莎婭](https://scryfall.com/card/znr/179/ashaya-soul-of-the-wild)：荒野之魂艾莎婭的力量和防禦力各等同於由你操控的地數量。
@@ -238,7 +238,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 這裡直接先給結論，艾莎婭不會因為血月失去生物類別，但會因為血月失去自己定義力量&防禦力的CDA，然後作為一個0/0的生物在下次狀態動作時死去，這個範例更加完整的解釋會在最終的Layer統整專欄中再出現一次，並且基於這個範例你還可以得到非常多有趣的變體情境。
 
-![氣蘊四體](https://i.postimg.cc/J1BRc83w/image.png)
+![氣蘊四體](https://images.guildmagesforum.tw/posts/What-is-Dependency/3b321a92dc75.webp)
 
 > [同謀](https://scryfall.com/card/tsb/39/conspiracy)：於同謀進場時，選擇一種生物類別。
 > 由你擁有且不在場的生物，由你操控的生物咒語，以及由你操控的生物都是這個類別。
@@ -259,7 +259,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 由於本期專欄的重點在介紹從屬關係，所以這題讓我們在此做個小結，但在最終Layer統整專欄時你還會再看到這題一次，因為這兩個效應哪怕是依照時間印記來處理也不安分，還會有其他牽涉多層Layer處理的規則從中作亂。
 
-![夷為平地1](https://i.postimg.cc/5fHjBmFS/1.png)
+![夷為平地1](https://images.guildmagesforum.tw/posts/What-is-Dependency/eed5824af0b4.webp)
 
 > [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)：非基本地都是山脈。
 > [夷為平地](https://scryfall.com/card/me4/9/conversion)：所有山脈是平原。
@@ -273,7 +273,7 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 假設時間印記是夷為平地在前、血月在後，那麼紅藍地就是先處理夷為平地成為平原，再處理血月成為山脈，最後它會是一塊山脈。
 
-![夷為平地2](https://i.postimg.cc/BS9nT8rY/2.png)
+![夷為平地2](https://images.guildmagesforum.tw/posts/What-is-Dependency/17a4367da3b4.webp)
 
 > [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)：非基本地都是山脈。
 > [夷為平地](https://scryfall.com/card/me4/9/conversion)：所有山脈是平原。
@@ -296,4 +296,4 @@ excerpt: "腥紅之月+約格莫夫之墓烏爾博格，該如何處理？"
 
 至此我們介紹Layer系統的工具終於都介紹完了，下一期我們將完整的介紹Layer系統是如何運作的。
 
-![Next](https://i.imgur.com/MsDDctp.jpg)
+![Next](https://images.guildmagesforum.tw/posts/What-is-Dependency/8b9b20a6117d.webp)

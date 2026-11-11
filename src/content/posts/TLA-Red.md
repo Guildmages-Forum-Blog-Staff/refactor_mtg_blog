@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/XZ4xSE4.png"
-thumbnail: "https://i.meee.com.tw/XZ4xSE4.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Red/ee6b7c9f4195-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Red/ee6b7c9f4195-cover.jpg"
 excerpt: "烈火國將為世界帶來秩序與繁榮"
 ---
 
@@ -155,7 +155,7 @@ excerpt: "烈火國將為世界帶來秩序與繁榮"
 
 
 <!---145--->
-![145](https://i.meee.com.tw/0ILd1dv.png)
+![145](https://images.guildmagesforum.tw/posts/TLA-Red/af7809d71d3d.webp)
 分數：4.5
 評語：第一章放逐牌庫頂三張牌，直到下回合結束前都能使用；第二章產一點任意顏色的mana，加速調色一手包辦；第三章翻面後變成振火神通4的4/4生物，加上起動式異能可以花八費生出振火神通4的4/4飛龍。只要對手沒及時去除的話，通常一攻擊就能透過振火神通開始生龍，小缺點是本體只有4/4且沒有穿透或自保手段，打出去很可能就回不來了。綜合來說是很強的一張單卡，集資源補充、加速與終結於一身的炸彈。
 

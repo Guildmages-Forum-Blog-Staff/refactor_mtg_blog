@@ -1,8 +1,8 @@
 ---
 title: "如果你有一箱MSH常規盒，你會拿它做什麼？"
 date: "2026-07-14 10:14:43"
-cover: "https://i.meee.com.tw/hpsfOuG.jpg"
-thumbnail: "https://i.meee.com.tw/hpsfOuG.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/2e1728f40d81-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/2e1728f40d81-cover.jpg"
 excerpt: "……問就是打爆限制賽"
 authors:
   - "cephille"
@@ -21,20 +21,20 @@ categories:
 
 第一場輪抽，是由曲線削得非常尖的黑綠拿下3-0，由於抽濾非常多的關係，必定是打16地。而我們也發現，在籌謀（Connive）為基底的黑色中， {% mtglink "Project Deathlok Soldier" %} 能讓你不必煩惱需要加大體質時卻無廢牌可棄，本身沒有反派（Villain）的種族類別應該是設計團隊測試後的結果。
 
-![](https://i.meee.com.tw/UxlbGWj.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/e5435d3135dd.webp)
 
 第二場輪抽3-0，改由解牌數量高達8張的潔斯凱中速拿下，各路快攻在強力的去除火網下紛紛倒地。而首選的 {% mtglink "King T'Challa//Black Panther, Hope Enduring" %} 很好的幫助玩家取得資源上的優勢；而 {% mtglink "Agent 13, Sharon Carter" %} 在場時，生物單獨進攻所派出線索衍生物，除了化為手牌資源外，更有 {% mtglink "Castle Doom" %} 能將之轉化為3/3神器大軍，相當有想法！
 
-![](https://i.meee.com.tw/XDRvuHE.jpg)
-![](https://i.meee.com.tw/7IvRUth.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/464dd24c8169.webp)
+![](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/ea20a5e63944.webp)
 
 第三場輪抽3-0剛好是由我拿下，所以也附上抽選的順序<sup>[註1](#quote1)</sup>。路線是常見的藍白節奏強攻，由於提高解牌與強牌的選次，低費曲線反而回傳時拿不到，最後只得硬混一張 {% mtglink "Winter Soldier, Icy Assassin" %} 。必須靠解牌過渡到第三回合，再用後續登場的強牌壓倒對手；若能以為數不多的一二費曲線 + {% mtglink "S.H.I.E.L.D. Spy Kit" %} 開局則最為理想。最終對決也是與另一副混了雙[蟻](https://scryfall.com/card/msh/204/the-astonishing-ant-man)[人](https://scryfall.com/card/msh/201/ant-man-colony-commander)的班特強攻進行，雖然藍白方剛好曲線順利展開而勝出，但若論套牌強度與完整性，仍是班特更高一籌。
 
-![](https://i.meee.com.tw/dHF98Js.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/92e0f4f6dd5a.webp)
 
 第四場輪抽3-0，由黑綠炸彈混藍拿下，善用綠色的體格優勢再輔以黑色的去除與墳場回收，資源上源源不絕相當厲害。
 
-![](https://i.meee.com.tw/qP5yGzd.jpg)
+![](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/c8a52f4d4a20.webp)
 
 而最終對局的紅綠大快樂混白放超級炸彈 {% mtglink "The Super Hero Civil War" %} ，強度也不遑多讓，兩張 {% mtglink "Jessica Jones, Private Eye" %} 更是讓套牌賺個不停！不過，賺到讓 {% mtglink "Earth's Mightiest Heroes" %} 甚至不夠翻……應該是玩過頭了XD
 
@@ -44,55 +44,55 @@ categories:
 
 適逢巴威颱風的颱風假，既然不能出門，正好把剩下的兩盒消耗掉。60包補充包可以做出10個現開牌池，就跟太太兩人當桌遊拿來邊拆邊玩消耗掉。
 
-![藍白英雄](https://i.meee.com.tw/uztWSCw.jpg)
+![藍白英雄](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/c563c7fc6975.webp)
 
 藍白英雄主題混入大量的綠色法力源，來協助 {% mtglink "The Astonishing Ant-Man" %} 準時登場，搭配提前埋伏在場上的 {% mtglink "Political Triumph" %} 並起動足夠大的[蟻人](https://scryfall.com/card/msh/204/the-astonishing-ant-man)的異能可以在瞬間時機造出爆炸性的場面！而各種帶閃現異能的生物，既能干擾同時也能增加場面優勢，有時候甚至不需炸彈們 {% mtglink "King T'Challa // Black Panther, Hope Enduring" %} 、或 {% mtglink "The Mighty Thor, Jane Foster" %} 發威就已經贏了，個人認為是10個牌池中平均強度最高的。
 
-![黑綠反派](https://i.meee.com.tw/WfKNzbI.jpg)
+![黑綠反派](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/aebc3390292f.webp)
 
 既然有英雄主題，那怎麼能缺少反派呢？這副黑綠算是相當有強度的反派主題。3張 {% mtglink "Red Room Recruit" %} 保證了前期曲線的滑順，我認為這張是黑色反派主題必須提高選位的重要單卡。雖然三費缺少了 {% mtglink "Baron Strucker, HYDRA Overlord" %} 這樣的反派重要單卡，但靠著優異的二費曲線，應該是能順利過渡到讓四費威脅發力。而六費的反派領主 {% mtglink "The Masters of Evil" %} 更是能讓你的二費曲線們不至於在場上發呆。四費威脅中 {% mtglink "Killmonger, Scourge of Wakanda" %} 絕對是讓黑綠色組在眾多反派主題中脫穎而出的關鍵，甚至超過官方預定地紅黑色組。如果Killmonger殺一次不夠，那就靠墳場回收撿回來殺第二次、甚至第三次！ {% mtglink "Super-Skrull" %} 在有反派基地 {% mtglink "Villainous Hideout" %} 的加持下，可以讓你不需混色也能起動所有的異能，強烈建議要搭在一起使用。混入紅色只放一張 {% mtglink "Loki Laufeyson" %} 跟閃電煉擊乍看有點蛇足，實際上並不會。一方面是這個牌池的雙色地大量支援紅色，另一方面是紅洛基的複製效果實在太強，代價又極低，相當適合這個去除不多的牌組。至於兩張綠色的英雄，就權做最大化 {% mtglink "Decoy Ploy" %} 效益吧！畢竟現開也不能要求太多。
 
-![藍白2](https://i.meee.com.tw/aRwa7uQ.jpg)
+![藍白2](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/0702223dd0e6.webp)
 
 第二個藍白的牌池，但強度較第一個弱上許多，也更為依賴女雷神 {% mtglink "The Mighty Thor, Jane Foster" %} 的攻擊效果。
 
-![黑綠2](https://i.meee.com.tw/mBRXy01.jpg)
+![黑綠2](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/8be6b26c8201.webp)
 
 第二個黑綠的牌池，炸彈強度差不多，但結構上遠遜於第一個黑綠反派。二費曲線不足必須將就把英雄牌放入，額外外掛一個 {% mtglink "Heroic Feast" %} 補血放豆的主題，如果 {% mtglink "Tigra, Feline Fury
 " %} 、 {% mtglink "Knight of Wundagore" %} 同時在場，都他們都能因此放上兩個豆，但也就只是這樣了。由於資源續航力較弱，故反其道而行，放入兩張 {% mtglink "HYDRA Infiltration" %} 來削弱對手中後期的強度。
 
-![勇德](https://i.meee.com.tw/1rIP8Pr.jpg)
+![勇德](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/f118d6a78f80.webp)
 
 主題較不明確，但因為有3張 {% mtglink "Red Room Recruit" %} 應該還是可以撐過前期，之後炸彈有來就還有機會贏。若有加速到，靠676恐龍 {% mtglink "Savage Land Dinosaur" %} 撐住反打也是可以的。
 
-![黑白](https://i.meee.com.tw/bOapLi9.jpg)
+![黑白](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/14b50659fd1d.webp)
 
 黑白如果沒有密集的低費曲線搭配武具，另一個軸線就是靠大量的去除，中後期再用 {% mtglink "Madame Masque" %} 與籌謀效果做出場面伺機反打。而這個牌池還有 {% mtglink "M.O.D.O.K." %} 剛好可以賣血籌謀生2/1反派。不得不說這個系列的解牌效果還是很棒的，更別說 {% mtglink "Cruel Alliance" %} 還能幫你奶回3血，靠著強大的解牌撐過前期，贏面還是不小的。
 
-![藍綠](https://i.meee.com.tw/rTEIBc3.jpg)
+![藍綠](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/bf3038c3e1ef.webp)
 
 加速與抽牌到位後，那藍綠色組的生物體格絕對不會讓你失望！搭配一些具干擾性的藍色生物，再用綠色生物暴力的體格達陣！ {% mtglink "Pym Particles" %} 這張在其他色組僅是偏過牌、觸發靈技的中庸單卡，但在藍綠色組卻可能是絕殺的關鍵！
 
-![紅白](https://i.meee.com.tw/KrnoWVC.jpg)
+![紅白](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/3bcec2e3d3a5.webp)
 
 唯一一張R卡，但正確的紅白色組也僅僅需要這一張 —— {% mtglink "The Super Hero Civil War" %} ，用過、或被用過的都知道它有多強，有開到混色硬放也值得。但在構組紅白色組時，經常會發現構成套牌的核心仍是得靠白色生物，紅色基本上幫助不大。
 
-![紅白2](https://i.meee.com.tw/5kKvSau.jpg)
+![紅白2](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/bbae91ce7264.webp)
 
 第二個紅白強度遠不如上一個，但因為有紅掃場 {% mtglink "Avengers Disassembled" %} 的關係，變成較偏控制的組法。也因此三費曲線選用了防禦力4的 {% mtglink "Agents of S.H.I.E.L.D." %} 來降低掃場對我方的影響。或是有些3防生物可以先靠 {% mtglink "Political Triumph
 " %} 灌大到4防後再掃場。撐住以後靠飛兵擊殺對手是可靠的計畫，但前提是要先撐住。
 
-![薩諾斯](https://i.meee.com.tw/gQyRCbn.jpg)
+![薩諾斯](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/6e8037461aca.webp)
 
 第10個牌池應該是魔王級別的難，一個牌池開出4張秘稀乍看之下好像贏定了，但仔細一看發現情況並不對勁。白色有曲線但沒有混色能力、藍色有 {% mtglink "Kang the Conqueror" %} 、 {% mtglink "Namor the Sub-Mariner" %} 兩張秘稀但其他曲線撐不起套牌結構、黑色雖有低費殺但無穩定解牌、紅色有曲線但強度不足、綠色則更為貧弱。若不走藍色的話，兩張 {% mtglink "Thanos, the Mad Titan" %} 應該是非放不可。低費曲線只能靠紅色、或白色撐起，但白色跟開出的雙色地牌完全沾不上邊；因此選擇紅色。雖曲線生物較弱，但有 {% mtglink "Stark Industries Executive" %} 有機會派出珍寶幫助調色與跳費。遊戲計畫的部分，前期靠著大量的濾牌來調整手牌跟地牌的顏色，順了以後試著出中期炸彈，或用薩諾斯挺住場面，再看看有沒有機會開大絕囉！
 
 {% folding red :: Bonus Part — 第10個現開牌池，如果是你會怎麼組呢？ %}
 
-![原始](https://i.meee.com.tw/gQyRCbn.jpg)
-![白](https://i.meee.com.tw/y6OOMvY.jpg)
-![藍](https://i.meee.com.tw/RkWrsL8.jpg)
-![紅](https://i.meee.com.tw/mJzjr2M.jpg)
-![綠](https://i.meee.com.tw/fa0lm9z.jpg)
+![原始](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/6e8037461aca.webp)
+![白](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/cbbbcc518bba.webp)
+![藍](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/d3199d418028.webp)
+![紅](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/a39e3934ded7.webp)
+![綠](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/b6f6bb9327d4.webp)
 
 {% endfolding %}
 

@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/bd4nJwI.png"
-thumbnail: "https://i.meee.com.tw/bd4nJwI.png"
+cover: "https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/441bb5f8bdec-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/441bb5f8bdec-cover.jpg"
 excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 ---
 
@@ -17,7 +17,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 鍋子與可能性成正比的是，這傢伙的規則問題也從來沒少過，這些問題動輒牽涉到[Layer](https://guildmagesforum.tw/Layer/)，甚至是比[Layer](https://guildmagesforum.tw/Layer/)還冷門的觀念。這次就讓我們看看如何處理鍋子的各種問題。 <font color="#A6A6A6">（不包含用禁卡表處理賽場問題）</font>
 
-![前言](https://i.meee.com.tw/uLUoV4v.png)
+![前言](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/545d21dcdd2a.webp)
 
 ---
 
@@ -63,7 +63,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![1](https://i.meee.com.tw/KOJ87mw.png)
+![1](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/be27d7ee45d5.webp)
 > **● [林鼠群](https://scryfall.com/card/sld/35/pack-rat)：**
 > {2} <font color="#000000">{B}</font>，棄一張牌：派出一個衍生物，此衍生物為林鼠群的複製品。
 
@@ -77,7 +77,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![2](https://i.meee.com.tw/OQDASG5.png)
+![2](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/ec600a91bfce.webp)
 > **● [比比·奧尼提爾](https://scryfall.com/card/fin/248/vivi-ornitier)：**
 > {0}：加X點魔法力，且為 <font color="#0000FF">{U}</font> 和/或 <font color="#FF0000">{R}</font> 的任意組合，X為比比·奧尼提爾的力量。只能於你的回合中起動，且每回合限一次。
 > 以下簡稱Vivi。
@@ -90,7 +90,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![3](https://i.meee.com.tw/etaidaS.png)
+![3](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/5b01ca1cbe4b.webp)
 > **● [飢潮格蕊斯](https://scryfall.com/card/mh2/202/grist-the-hunger-tide)：**
 > 只要飢潮格蕊斯不在戰場上，它便額外是1/1昆蟲生物。
 > {+1}：派出一個1/1，黑綠雙色的昆蟲衍生生物，然後磨一張牌。如果以此法磨掉一張昆蟲牌，則在格蕊斯上放置一個忠誠指示物，並重複此流程。
@@ -113,7 +113,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![4](https://i.meee.com.tw/ChdP0Jg.png)
+![4](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/6c674af3a13c.webp)
 > **● [褪除武裝](https://scryfall.com/card/mh2/39/dress-down)：**
 > 生物均失去所有異能。
 
@@ -136,7 +136,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![5](https://i.meee.com.tw/q3Mgq1l.png)
+![5](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/77455dfc1d49.webp)
 > **● [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)：**
 > 當提莎娜的縛潮師進戰場時，反擊至多一個目標起動式或觸發式異能。如果以此法反擊神器，生物或鵬洛客的異能，則於提莎娜的縛潮師仍在戰場上的時段內，該永久物失去所有異能。
 > 以下簡稱人魚。
@@ -159,7 +159,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![6](https://i.meee.com.tw/Qk1zAqu.png)
+![6](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/7daa38f427ba.webp)
 > **● [變幻林地](https://scryfall.com/card/mh3/228/shifting-woodland)：**
 > 躁狂～{2} <font color="#00B050">{G} {G}</font> ：變幻林地成為目標在你墳墓場中的永久物牌之複製品直到回合結束。只能於你墳墓場中牌的牌張類別有四種或更多時起動。
 
@@ -186,7 +186,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 
 
-![7](https://i.meee.com.tw/RARakkp.png)
+![7](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/535813ce46be.webp)
 > **● [生機雕符](https://scryfall.com/card/lci/86/zoetic-glyph)：**
 > 所結附的神器是基礎力量與防禦力為5/4的魔像生物，且仍具有原本類別。
 > **● [銳目鑑物客](https://scryfall.com/card/blb/181/keen-eyed-curator)：**
@@ -205,7 +205,7 @@ excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 
 鍋子可以以一卡之力貢獻無限的構築可能性，強如[約格莫夫](https://scryfall.com/card/dmr/110/yawgmoth-thran-physician)在它面前也要乖乖考個廚師執照，不過雖然鍋子以自身為核心催生了無數多套牌，但直到[Vivi](https://scryfall.com/card/fin/248/vivi-ornitier)誕生前的這兩年間，並沒有哪套鍋子套牌對環境產生壟斷級的壓制力，最多就是面對一線套牌有一戰之力的水準。
 
-![END](https://i.meee.com.tw/7JoUDY1.png)
+![END](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/e5504c6120db.webp)
 
 所以對於近期標準Vivi鍋肆虐的現況，看起來肯定是要出動禁牌表來處理了，如果僅從對局角度來講，不考慮還要推系列銷量之類的額外要素，筆者個人是比較傾向禁[Vivi](https://scryfall.com/card/fin/248/vivi-ornitier)，不過如果只討論Vivi鍋這套牌的話，[波費的清晰記憶](https://scryfall.com/card/mkm/67/profts-eidetic-memory)其實也是個合理選項，畢竟這玩意才是讓這副牌節奏那麼好的元凶，甚至ETB就自帶額外資源，因為能反覆提供+1/+1指示物，連帶也讓鍋子的使用效率翻了不只一倍。之所以最後選擇提名Vivi，是同時考量在紅藍靈技那邊的表現。
 

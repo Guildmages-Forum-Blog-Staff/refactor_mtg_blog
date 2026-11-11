@@ -25,7 +25,7 @@ excerpt: "想深入了解TDM限制賽嗎？從這篇多色開始閱讀，相信�
 
 ### 五大部落（Clans）
 
-![](https://i.meee.com.tw/AWfznbP.jpg)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/28e56e1a5223.webp)
 
 - 阿布贊眷族（Abzan Houses）：<span style="color:#C3B270">白</span><span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span>
 - 潔斯凱靈宗（Jeskai Way）：<span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span>
@@ -74,7 +74,7 @@ excerpt: "想深入了解TDM限制賽嗎？從這篇多色開始閱讀，相信�
 
 ## Seeded Booster回歸 — TDM售前盒的限制賽友善設計
 
-![](https://i.meee.com.tw/2Bgpm7O.webp)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/da089680a3ba.webp)
 
 在三色環境裡打限制賽是相對困難的，不過，好在這次TDM售前現開盒有特殊的設計，讓你在選定主題時基本上就能鎖定一個三色色組。每個售前盒都包括以下內容：
 
@@ -103,7 +103,7 @@ Seeded Booster並不是新的設計，早在2012年再訪拉尼卡（RTR）、20
 
 ### 阿布贊眷族 — <span style="color:#C3B270">白</span><span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span>
 
-![](https://i.meee.com.tw/jhMVVZX.jpg)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/953f39915cc5.webp)
 
 > **Takeaway：續戰（Endure）** 異能、與放指示物獲得額外效果的搭配，再加上這個色組全能的去除、生物體格、以及優異的派出衍生物的能力，應該會是這個色組核心的運作方式，選用單卡也要留意是否能與上述主題有所搭配。此外，如果龍的牌張不足，也需要加入一些延勢生物、或去除牌來進行防空作戰。
 
@@ -170,7 +170,7 @@ Seeded Booster並不是新的設計，早在2012年再訪拉尼卡（RTR）、20
 
 ### 潔斯凱靈宗 — <span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span>
 
-![](https://i.meee.com.tw/j0fBxBk.jpg)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/7237a3d3b827.webp)
 
 > **Takeaway：連咒（Flurry）** 異能除了作為主題機制外，也是這個色組的核心運作模式。在生物體格偏普通的設計下，如何透過生物自帶的連咒效果，一面持續施放咒語並接管場面，將是潔斯凱色組要在限制賽脫穎而出的關鍵。1+1絕對大於2，這一點將在潔斯凱色組發揮得淋漓盡致！此外，也可以帶上一些紅/藍雙色的諧頌（Harmonize）牌，埋伏在手牌/墳場來作為連咒的觸發來源。
 > 
@@ -233,7 +233,7 @@ Seeded Booster並不是新的設計，早在2012年再訪拉尼卡（RTR）、20
 
 ### 蘇勒台族群 — <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span>
 
-![](https://i.meee.com.tw/tXmHvYr.jpg)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/1827f45bb1d6.webp)
 
 > **Takeaway：復新（Renew）** 這個從墳場放逐生物牌來放上指示物的效果，同時支援了兩種非關鍵字的主題 — 
 > - 關注放指示物、或永久物上有指示物（黑綠色組）
@@ -296,7 +296,7 @@ Seeded Booster並不是新的設計，早在2012年再訪拉尼卡（RTR）、20
 
 ### 瑪爾都部落 — <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span><span style="color:#808080">黑</span>
 
-![](https://i.meee.com.tw/NjA0jYi.jpg)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/ec5efc33676a.webp)
 
 > **Takeaway：動員（Mobilize）** 異能絕對是瑪爾都於這次限制賽的重中之重！但如何讓套牌能按照曲線調出三色，或以雙色為主展開前3回合的場面，在第四回合能有湊齊第三色開始打出色組的爆發，這在瑪爾都色組的構築中將是最大關鍵！也許，像 {% mtglink "Mardu Devotee" %} 這樣的牌，將是這個快攻色組轉不轉得動的重要拼圖。
 > 
@@ -357,7 +357,7 @@ Seeded Booster並不是新的設計，早在2012年再訪拉尼卡（RTR）、20
 
 ### 鐵木爾鋒疆 — <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span>
 
-![](https://i.meee.com.tw/WBConoZ.jpg)
+![](https://images.guildmagesforum.tw/posts/TDM-multicolors/35517c5f0e1f.webp)
 
 > **Takeaway：諧頌（Harmonize）** 異能在體格以及資源戰中本來就佔優勢的本質上，有一點錦上添花，當然鐵木爾色組生物高攻擊力的特性，能輕易地讓諧頌異能減費。然而，這個色組的關鍵仍是 **體格優質的生物、踐踏異能、以及適度的干擾與去除**。許多生物本身都自帶賺/濾牌的ETB、再加上諧頌牌的中後期資源補強，使這個色組在設計上單卡質量都顯得特別優秀。
 

@@ -5,8 +5,8 @@ categories:
   - "Limited"
   - "WOE"
 excerpt: "仙靈與倒楣鬼、術士與冰霜魔法...艾卓荒野(WOE)限制賽中藍色牌的評分與介紹看這邊！"
-thumbnail: "https://i.meee.com.tw/wExWtnT.png"
-cover: "https://i.meee.com.tw/wExWtnT.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/WOE-Blue/e9ca1765f225-cover.jpg"
+cover: "https://images.guildmagesforum.tw/posts/WOE-Blue/e9ca1765f225-cover.jpg"
 authors:
   - "cephille"
 ---
@@ -20,7 +20,7 @@ authors:
 - 5.0: [Chrome Host Seedshark](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png). [Breach the Multiverse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png). [Sunfall](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png).
 - 4.5: [Doomskar Warrior](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png). [Archpriest of Shadows](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png). [Borborygmos and Fblthp](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png).
 - 4.0: [Preening Champion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png). [Bloated Processor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png). [Invasion of Amonkhet](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png).
-- 3.5: [Final Flourish](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png). [Ephara's Dispersal](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png). [Stormclaw Rager](https://hackmd.io/_uploads/rySkpHd63.png).
+- 3.5: [Final Flourish](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png). [Ephara's Dispersal](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png). [Stormclaw Rager](https://images.guildmagesforum.tw/posts/WOE-Blue/2fa62146dbaa.webp).
 - 3.0: [Vanquish the Weak](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png). [Eyes of Gitaxias](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png). [Zhalfirin Lancer](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png).
 - 2.5: [Oracle of Tragedy](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png). [Ichor Drinker](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png). [Marauding Dreadship](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png).
 - 2.0: [War Historian](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png). [Gloomfang Mauler](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png). [Order of the Mirror](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png).

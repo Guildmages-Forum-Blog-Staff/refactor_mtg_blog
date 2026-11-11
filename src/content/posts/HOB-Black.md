@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/QlvsEvn.webp"
-thumbnail: "https://i.meee.com.tw/QlvsEvn.webp"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Black/05021042a81a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Black/05021042a81a-cover.jpg"
 excerpt: "哥布林！！ 一起！！ 強大！！"
 
 ---

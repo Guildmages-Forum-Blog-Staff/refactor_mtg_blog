@@ -153,11 +153,11 @@ excerpt: "調色大部隊全面出動！準備好迎接豐富多彩的多色環�
 評語：是這個循環在限制賽中最沒有效益的牌張，主要原因是限制賽中反擊咒語較為少見。
 
 
-![補血地](https://i.meee.com.tw/WqbN8yw.png)
+![補血地](https://images.guildmagesforum.tw/posts/TDM-Colorless/b0db605e045b.webp)
 分數：3.0
 評語：本系列的雙色地循環，能協助調色，也能回血，有沾到對的色組就會放。
 
-![三色地](https://i.meee.com.tw/bjgR2Kq.png)
+![三色地](https://images.guildmagesforum.tw/posts/TDM-Colorless/116da0fc9d64.webp)
 分數：3.5
 評語：本系列經典的三色地循環，針對特定色組的構築非常需要此類牌張，尤其是非綠色組，更應該優先選擇。
 
@@ -197,7 +197,7 @@ excerpt: "調色大部隊全面出動！準備好迎接豐富多彩的多色環�
 分數：3.5
 評語：高強度的單方面掃場，但不帶綠的色組更應注意的是調色的問題，如果能夠施放成功依然能造成決定性的優勢差距。
 
-![SPG地](https://i.meee.com.tw/4rG1P5I.png)
+![SPG地](https://images.guildmagesforum.tw/posts/TDM-Colorless/f4fa222b9d2d.webp)
 分數：3.5
 評語：找地地可以視為一種加強版的 {% mtglink "Evolving Wilds" alt="成形野地" %} ，讓地得以站著進場，是不錯的調色手法。然而，一點血量的副作用雖然微小，仍可能在中後期血量偏低時，卡住你壓縮牌庫或找地的遊戲計畫。使用時須稍加留意，但無損這張牌的強度。
 

@@ -2,8 +2,8 @@
 
 title: "約力昂大叔的世冠賽 30 賽報"
 date: "2024-11-01 10:18:07"
-cover: "https://i.imgur.com/GkMbNzU.jpeg"
-thumbnail: "https://i.imgur.com/GkMbNzU.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/421e5022cf06-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/421e5022cf06-cover.jpg"
 excerpt: "世冠賽 30 落幕啦！恭喜 David Yeh 在本屆世冠賽取得 23 名的佳績，來看看他為我們帶來的精彩的賽事記錄吧！"
 authors:
   - "david-yeh"
@@ -15,7 +15,7 @@ categories:
 
 ## Before We Start
 
-![](https://i.imgur.com/2JFpi3U.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/acdea3d3b2aa.webp)
 
 大家好，我是葉永丞 David Yeh aka [約力昂大叔 Uncle Yorion](https://www.facebook.com/profile.php?id=100068751771443)，這次 2024 MWC30 世界賽戰績為 8 勝 5 敗 1 和，最後為 23 名（9 ～ 24名獲得 2025 第一場 PT 資格），並取得獎金$13,000 USD ！！！
 
@@ -39,41 +39,41 @@ categories:
 
 [套牌連結](https://www.mtggoldfish.com/deck/6717467#paper)
 
-![](https://i.imgur.com/pSCGn8u.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/ab1ddcce6ccc.webp)
 
 #### 主牌
 
-![](https://i.imgur.com/u6umd0g.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/7ff5c3672265.webp)
 
 先說正編，[深沼翼邪鬼](https://scryfall.com/card/one/82/archfiend-of-the-dross)與[難阻刀客](https://scryfall.com/card/dsk/119/unstoppable-slasher)放滿，有測試過正編[貝薩](https://scryfall.com/card/blb/2/beza-the-bounding-spring)或第四張[放血魔](https://scryfall.com/card/lci/92/bloodletter-of-aclazotz)，還不如兩張[啟示天災希歐蕊](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse)來的萬用。曾經很強的[叛教幫傳道士](https://scryfall.com/card/lci/113/preacher-of-the-schism)，如經就沒刀客獲勝的快。如果我要手牌優勢，會用[虐爪劫案](https://scryfall.com/card/blb/88/cruelclaws-heist)，而不是靠傳道士慢慢抽，更何況慢慢抽的引擎已經變成[不潔別館](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber)了。
 
-![](https://i.imgur.com/doORJb3.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/9493a54ef1b1.webp)
 
 [斬落與毀容的比較](https://guildmagesforum.tw/Standard-Structure-Evolution/)，GF網站上已有做過分析了就不再贅述。套牌很多一張的牌，這在先前西雅圖 PT 我有提過，最近 [MIT#7 的思源也有講過](https://www.facebook.com/share/p/14eeNaQDEX/)，這跟 OPEN LIST 有很大的關係，許多效用差不多的牌，寧可拆散一點讓對手去猜，而且有些類似牌也不會全上或全下，例如對上純白會下[直刺咽喉](https://scryfall.com/card/moc/250/go-for-the-throat)但希望留[折磨賜聖](https://scryfall.com/card/one/81/anoint-with-affliction)，又或是對上黑系刀客套牌，我會想上[吸魂器](https://scryfall.com/card/dsk/248/ghost-vacuum)，而對上白藍大眼就是移墳四張全上，抽不到不會贏。
 
 爬梯的過程中我們發現正編[虐爪劫案](https://scryfall.com/card/blb/88/cruelclaws-heist)很好用，對中速/控制都會選禮贈（Gift）去賺牌張差距，對快攻就不禮贈而僅移除最大威脅(世界賽的套牌/單卡統計，正編一共五張，就是我 3 張蹦蹦 2 張)。三費巫術的[軍勢散盡](https://scryfall.com/card/bro/215/legions-to-ashes)雖然很笨重但也是必要的，而且它剛好可以一次殺光繁生的鼠輩，備牌原先要放第四張，改為[故事結局](https://scryfall.com/card/woe/87/the-end)作為瞬間的萬解。一樣是七張 1 或 2 費的點殺，我知道有些玩家還是偏愛三張[斬落](https://scryfall.com/card/dmu/89/cut-down)加四張直刺咽喉，這都可以討論，沒有一定對錯，但我還是會推薦至少要有[進退無路](https://scryfall.com/card/dsk/111/nowhere-to-run)與[速速退離](https://scryfall.com/card/lci/14/get-lost)會更全面些。
 
-![](https://i.imgur.com/iIQtmHC.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/8cb6cf4e5112.webp)
 
 大比賽 26 張地，寧可多抽兩張也不要卡兩回合。黑白真的要說哪兒輸黑綠、藍黑，那就是變身地太爛（好歹給個 4/4 繫命吧），但備牌兩點白的牌很多，尤其是三回要準時做[短時封鎖](https://scryfall.com/card/dmu/36/temporary-lockdown)，雙色地還是要多放些。無色功能地最多三張，有嘗試過[脫逃暗道](https://scryfall.com/card/mkm/261/escape-tunnel)，用起來九成像是[神奇小徑](https://scryfall.com/card/blb/252/fabled-passage)，但有機會讓刀客放血魔一擊殺。後來選擇用[沙暴邊陲](https://scryfall.com/card/otj/263/sandstorm-verge)，讓翼邪鬼、放血魔穩穩地擊倒對手，比賽時雖然只起動過一次，但很多對手拿起來看想半天，感覺攻防有保守一些。另外就是[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)，由於標準沒有厲害的[終結謊言](https://scryfall.com/card/mkm/221/no-more-lies) / [早想三步](https://scryfall.com/card/otj/75/three-steps-ahead)套牌，頂多就是有[失效](https://scryfall.com/card/mom/68/negate)與[倨傲擊](https://scryfall.com/card/pcbb/2/disdainful-stroke)，最後選擇不放。
 
 最後就是非常多人問的[焰沼邊陲](https://scryfall.com/card/dsk/256/blazemire-verge)，標準的炸地地沒有很多，其實基本地有個四、五張就夠找了，[焰沼邊陲](https://scryfall.com/card/dsk/256/blazemire-verge)絕大部分就是當沼澤使用。其用途有三個部分，兩個跟虐爪劫案有關。第一是增幅（Kicker），偷到 DOMAIN 的[忿怒大天使](https://scryfall.com/card/dmu/3/archangel-of-wrath)就能增幅黑與紅（我用 ARENA 測試過了）。第二是歷險，第一盤偷到[依莫丹徵兵員](https://scryfall.com/card/woe/229/imodanes-recruiter-train-troops)，可以先（無色）歷險生兩隻，再看情況（用紅色）叫本體，總之兩邊都能施放。對紅綠的[野餐攪席客](https://scryfall.com/card/woe/232/picnic-ruiner-stolen-goodies)也是，可（無色）歷險施放遭竊美食，也可（用紅色）叫 2/2 本體出來擋，要直接（無色）叫出來也行。第三個部分就是混淆對手，OPENLIST看卡表的時間有限，增加點變數讓他去想破頭，通常對手會看半天想不出原因， PRO 總是想太多怕被陰，總之他開始胡思亂想就已經中我幻術了（有一位日本大大打完還說他以為我有[點燃塔樓](https://scryfall.com/card/woe/153/torch-the-tower)，老哥，都 OPENLIST 了好好看卡表好嗎）。今天我如果是打黑綠、黑白、藍黑，只要基本地數量許可，然後又有放虐爪劫案的話，我依然會放焰沼邊陲取代一些沼澤。個人認為這在非 OPENLIST 效果會更好。 MWC30 八場標準賽有六個對手打完問我焰沼邊陲是做甚麼用的，我都說是沼澤啦～啾咪～
 
-![](https://i.imgur.com/OGlTVWw.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/2f91cf1b55e5.webp)
 
 #### 備牌
 
-![](https://i.imgur.com/AIDRJ0c.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/c919d7384b8a.webp)
 
 之所以要黑白就是看在白色厲害的備牌，前面講過效果類似的牌，可以分散一點，看情狀再決定上幾張，例如[得享安息](https://scryfall.com/card/big/4/rest-in-peace)與[吸魂器](https://scryfall.com/card/dsk/248/ghost-vacuum)，對白藍大眼都需要，對黑系刀客只要[吸魂器](https://scryfall.com/card/dsk/248/ghost-vacuum)。金魚上的黑白有些備會放 2～3 張[虛形剋星卡婭](https://scryfall.com/card/one/205/kaya-intangible-slayer)，個人推薦至少要有張[永世飄萍](https://scryfall.com/card/one/11/the-eternal-wanderer)，她內建掃場、單點移除、生兵做攻防，特別是第一招彈自己的深沼翼邪鬼或對手的[鍛治爐](https://scryfall.com/card/one/153/urabrasks-forge)。
 
 以下是上下備的筆記，沒有很清楚大家看個感覺就好。
 
-![](https://i.imgur.com/xGlVBBJ.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/ba31e1067beb.webp)
 
 最後放個個人吉祥物
 
-![](https://i.imgur.com/Q7LtOKd.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/0141ec0e7844.webp)
 
 必勝祈願（阿耶尼）去年用到現在真的很神，快去收～
 卡地狗與海地鼠則是特級咒靈，開打時務必朝著對手，日本玩家看了還笑嘻嘻，傻傻的被咒殺了都不知道～
@@ -82,34 +82,34 @@ categories:
 
 10/23（三）深夜飛往美國，23 號晚上抵達洛杉磯在附近飯店過夜，隔天 10/24（四）自己再飛往拉斯維加斯找蹦蹦與小石，下午到了飯店大家針對官方公布的賽場分布做了些討論，例如藍黑中速比黑綠中速多要完蛋了、鐵木爾水獺也太多了吧到底在玩甚麼？藍黑惡魔的獲勝手段（我們認為用[虐爪劫案](https://scryfall.com/card/blb/88/cruelclaws-heist)很好克制）以及黑綠 RAMP 要怎麼應對（還是靠虐爪）。最棘手的還是藍黑中速與白藍大眼。
 
-![](https://i.imgur.com/gSwKbVj.jpeg)
-![](https://i.imgur.com/8rIiDF2.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/c33d5df1c530.webp)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/7c363fc2b732.webp)
 
 週四晚上玩家報到派對拿完參賽證與小禮物，不得不說這次禮物給得很大方！聚珍包裡還開出異圖的[噁心眼球怪](https://scryfall.com/card/dsk/344/abhorrent-oculus)跟[救星飄萍](https://scryfall.com/card/dsk/406/the-wandering-rescuer)，賺爛啦！
 
-![](https://i.imgur.com/P2Y3kRd.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/9789131334f9.webp)
 
 而在 Frank Karsten 的這篇 [Magic World Championship 30 Metagame Breakdown](https://magic.gg/news/magic-world-championship-30-metagame-breakdown?fbclid=IwY2xjawGQDdJleHRuA2FlbQIxMAABHQHb1pLAtykiJpeAnEJNCDF76NNxbe5h0DOPOV2fA1QpjW2ERDqNvRDIjQ_aem_FCs03nF4vXU5g4y_LHx4ig) 中，我跟蹦蹦的黑白惡魔也被報導了出來！
 
-![](https://i.imgur.com/MSfxhYH.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/c3f4cb423062.webp) 
 
 報到派對後我們決定早點回飯店，三人開著 DSK 的卡表，大家分享對輪抽顏色組合以及第一 pick 的看法。
 
 ## Day 1 2024/10/25 
 
-![](https://i.imgur.com/Y70YG8a.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/b55cd3411c77.webp)
 
 Day 1 出發照
 
 我跟小石緊張都睡不好，半夜四點都起來發呆一陣，也可能是被蹦蹦的[震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)給轟醒的。開賽後官方說明今天要四勝才能進第二天，而且只要有十勝就會進入八強。
 
-![](https://i.imgur.com/w5ZIRjT.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/05c1dd9a78fa.webp)
 
 > 來幫去年來挑戰世界盃的俊廷跟 [Kai Budde](https://mtg.fandom.com/wiki/Kai_Budde) 要簽名。[銷法師逸才](https://scryfall.com/card/p03/1/voidmage-prodigy) + 鬥士卡，這是屬於我們那一輩人共同的回憶！
 
 ### R1 ～ R3 DSK 輪抽
 
-![](https://i.imgur.com/Zcz9LOw.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/3c2f89ff0a69.webp)
 
 第一個輪抽我那桌只認識高橋優太，而且他坐我對家（怕爆）。
 
@@ -120,18 +120,18 @@ Day 1 出發照
 第三包開[織群窩巢](https://scryfall.com/card/dsk/236/the-swarmweaver)！就決定是黑綠了！！！
 陸續傳來[救星獸伴科納](https://scryfall.com/card/dsk/187/kona-rescue-beastie)與[拖入根脈](https://scryfall.com/card/dsk/213/drag-to-the-roots)，剩下就補生物張數、湊備牌與斷料。牌張數目是足夠的，也有些選擇在備牌能更換，跟蹦蹦小石交換套牌看過，我的應該算有主題且有強度的，自己覺得有 9/10 分。
 
-![](https://i.imgur.com/0JZiK2r.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/46b8548a9d67.webp) 
 
 Day 1 輪抽主牌
 
-![](https://i.imgur.com/kLvmed5.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/2f5455bbf0e0.webp) 
 
 Day 1 輪抽備牌
 
 #### R1 [Mauro Sasso](https://melee.gg/Profile/Index/Graciasportanto) XX
 兩盤都被飛兵與[夢魘剋星魁渡](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)控到死，也只有[拖入根脈](https://scryfall.com/card/dsk/213/drag-to-the-roots)能殺旅法……
 
-![](https://i.imgur.com/PxE9gtx.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/5f87f4c8eaa2.webp) 
 
 > 就是這位穿 Messi 球衣的老哥，可以看到 [Kai Budde](https://mtg.fandom.com/wiki/Kai_Budde) 坐在我的後面那桌的同一個位子，可惜沒機會直接對到。
 
@@ -174,7 +174,7 @@ Hareruya的大大，去年世界杯第九名，非常的威~
 
 這種小失誤在專業級別是不容許發生的~ 要以此為鑑~
 
-![](https://i.imgur.com/C3FmB8Z.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/1b9f4af8cc17.webp)
 
 DAY 1 戰績 4-3
 
@@ -186,7 +186,7 @@ DAY 1 戰績 4-3
 
 ### R8 ～ R10 DSK 輪抽
 
-![](https://i.imgur.com/6llCV8H.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/1ace7d114344.webp)
 
 第二場輪抽是從未打過的九位玩家輪抽。
 第一包開地脈 (Sad)，實在不想第一選就拿雙色牌，但真的沒更好的（總不會一挑[消失眼前](https://scryfall.com/card/dsk/82/vanish-from-sight)吧），只好拿了[好奇爍光體](https://scryfall.com/card/dsk/217/inquisitive-glimmer)，接著陸續傳來[受迫靈人](https://scryfall.com/card/dsk/81/unwilling-vessel)、與[堂皇門廊+典雅圓廳](https://scryfall.com/card/dsk/15/grand-entryway-elegant-rotunda)、兩張[不安雙子](https://scryfall.com/card/dsk/38/unsettling-twins)。
@@ -195,11 +195,11 @@ DAY 1 戰績 4-3
 
 整體牌張數量夠，也有備牌能換，但沒有翻盤的超級炸彈，很像是一般 Friday Night Magic （FNM）會拿的樣子 XD 能用的 C 卡生物非常多，構築時非常痛苦在做抉擇，怕正編搞錯很容易第一盤就丟了要追兩盤回來~自己覺得是 7/10 分的輪抽套牌。
 
-![](https://i.imgur.com/8JOHesk.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/88375865d1c2.webp)
 
 Day 2 輪抽主牌
 
-![](https://i.imgur.com/FgovABk.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/ff99e5eec2fa.webp) 
 
 Day 2 輪抽備牌
 
@@ -207,7 +207,7 @@ Day 2 輪抽備牌
 
 很純的藍綠，雙色U卡各兩張，也有[惡毒吊燈](https://scryfall.com/card/dsk/252/malevolent-chandelier)避免磨乾自己，應該是整桌的桌王。
 
-![](https://i.imgur.com/jDBf0fT.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/be56c4bd1f57.webp)
 
 #### R9 Mauro Sasso OO 
 
@@ -256,7 +256,7 @@ Day 2 輪抽備牌
 
 約完以後他說我約和是對的，他的紅綠有[共振地脈](https://scryfall.com/card/dsk/143/leyline-of-resonance)，專門殺中速套牌；我跟他說老哥我這兩天吃了三套紅綠靈技，你給我坐下洗牌。
 
-![](https://i.imgur.com/1JhVGOy.png)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/b7c863b21464.webp)
 
 第一盤他有共振地脈，一回[迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)，二回設謀[花槍幫炫耀師](https://scryfall.com/card/otj/146/slickshot-show-off)。我二回逼從掉[熊皮](https://scryfall.com/card/woe/142/monstrous-rage)，三回我想了很久軍勢散盡選迅矛僧還是地脈，我選地脈；他說我是對的，共振地脈在的話傷害更高。於是他迅矛僧 + 炫耀師灌熊皮、與兩發[馴良者之威](https://scryfall.com/card/blb/144/might-of-the-meek)秀了我一臉豆花。
 第二盤第三盤就跟其他對局差不多，他後手時會下地脈也被我猜到，就順順拿下，結束這次世界盃。
@@ -266,22 +266,22 @@ Brian Boss老哥自己 24 名（真的有夠會算），要是沒約和的話 9-
 
 晚上帶蹦蹦小石逛賭場吃大餐囉~
 
-![](https://i.imgur.com/mj0eojf.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/06b348b76da9.webp) 
 
-![](https://i.imgur.com/hlUoI3k.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/880cfcf281ae.webp) 
 
 ## Day 3 2024/10/27 
 
-![](https://i.imgur.com/PjCC5zz.jpeg) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/15cf46f475cf.webp) 
 
 跟蹦蹦、小石提早進會場享受 MAGIC CON，還遇到來逛展的[荒野騎士](/authors/ClarkShih/)。過程中拿自己的單卡去 trade ，買了一堆周邊，順道化身無情的畫家簽名機器，噴了500多鎂 ~ （噓）
 
-![](https://i.imgur.com/p6Fr3E6.jpeg)
-![](https://i.imgur.com/HhLgbsV.jpeg) 
-![](https://i.imgur.com/Ej6E9jS.jpeg)
-![](https://i.imgur.com/O8h70mm.jpeg)
-![](https://i.imgur.com/6lQ9mHm.jpeg)
-![](https://i.imgur.com/gfc9Wm9.jpeg)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/80c9dd5daa52.webp)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/d985b859de31.webp) 
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/502a36fa43d2.webp)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/aa5833b276b1.webp)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/bd1923f97377.webp)
+![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/2c13c297991e.webp)
 
 
 ## 結語

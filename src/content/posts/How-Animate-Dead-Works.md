@@ -3,8 +3,8 @@ title: "屍變是如何運作的？"
 date: "2023-12-04 13:40:18"
 categories:
   - "MTG Rules"
-cover: "https://i.imgur.com/oOPExz6.jpg"
-thumbnail: "https://i.imgur.com/oOPExz6.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/48a58e0e11a3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/48a58e0e11a3-cover.jpg"
 excerpt: "屍變+吞世龍的Combo大家都很熟，但問起屍變的運作原理時或許就沒那麼熟了。"
 authors:
   - "JruMTG"
@@ -16,7 +16,7 @@ authors:
 
 以一個挖墳效應來看，屍變的文字敘述毫無疑問是數一數二長的，這麼長的文字敘述也變相反應了這張牌為了實現看似簡單的結果，用了多麼複雜的流程才能保證規則的嚴謹性。這期我們就來看看屍變完整的運作原理，以及其中又有哪些可以應用或干預的操作點。
 
-![封面](https://i.imgur.com/oOPExz6.jpg)
+![封面](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/48a58e0e11a3.webp)
 
 ---
 
@@ -43,7 +43,7 @@ authors:
 
 所謂「物件」並不局限於在場上的永久物，在其他任何區域的牌也都是物件的一種，在規則上靈氣想貼附於其上是沒有任何問題的。至於貼附於玩家的靈氣，各種詛咒就是最常見的例子。
 
-![詛咒](https://i.imgur.com/DVFyFas.jpg)
+![詛咒](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/e6f5e6aac12d.webp)
 
 靈氣施放時需要目標，屍變施放時的目標是一張墳場中的生物牌，現在施放成功，屍變進場了，此時的屍變雖然在場上，但所貼附的對象還是那張墳場中的生物牌，接著屍變開始處理它的進場異能。
 
@@ -65,7 +65,7 @@ authors:
 
 ## 屍變規則釋疑
 
-![拆](https://i.imgur.com/KZRjZAx.jpg)
+![拆](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/8d33f95fdef2.webp)
 
 > [回返自然](https://scryfall.com/card/war/175/return-to-nature)：選擇一項～
 > •消滅目標神器。
@@ -88,25 +88,25 @@ authors:
 
 假設屍變指定的目標生物牌是你稍後也有能力從墳場挖回來的，你不希望他離開墳場，但也不希望一度進入對手戰場（或許是像[大一統飛將亞崔夏](https://scryfall.com/card/one/196/atraxa-grand-unifier)一樣有著強力進場異能），這時就可以考慮用方案3。
 
-![屍變帷幕](https://i.imgur.com/pIlL77O.jpg)
+![屍變帷幕](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/0e8547c227d2.webp)
 
 > [析米克蔽空霸](https://scryfall.com/card/cmr/452/simic-sky-swallower)：帷幕（此卡不能成為咒語或異能的目標）。
 
 帷幕雖然會讓此卡不能成為咒語或異能的目標，但這能力僅限在場上時才會生效，而屍變以析米克蔽空霸為目標施放時，析米克蔽空霸還在墳場，因此這施放完全合法，另外帷幕只會阻止「成為目標」這件事，如果靈氣是用其他方式直接貼附在身上帷幕是管不著的，屍變進場異能的後半段正屬此類。
 
-![屍變反黑](https://i.imgur.com/mttU6nM.jpg)
+![屍變反黑](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/0babecaa3588.webp)
 
 > [淨光宗徒](https://scryfall.com/card/m20/6/apostle-of-purifying-light)：反黑保護（此卡不能被黑色的東西阻擋、指定為目標、造成傷害、貼附。）
 
 反黑保護比起上面的帷幕又更複查了一點，首先在成為目標這點上，反黑保護同樣僅限在場上時才能發揮作用，所以以墳場的淨光宗徒為目標施放屍變是合法的，但是淨光宗徒進入戰場後反黑保護就開始作用了，屍變會因為貼附對象不合法，而被狀態動作放進墳場，並且觸發屍變的延遲觸發式異能：「當屍變離開戰場時，該生物之操控者犧牲該生物」，這條異能結算時淨光宗徒便會被犧牲。
 
-![屍變ETB](https://i.imgur.com/mNRViQm.jpg)
+![屍變ETB](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/288dd4c7aa6d.webp)
 
 > [機械之母艾蕾儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)：進戰場的永久物不會觸發由對手操控之永久物的異能。
 
 屍變的能力屬於進場異能，這之中自然是有動手腳的空間，好比說你在對手操控機械之母艾蕾儂的情況下，以你墳場中的生物為目標施放屍變，屍變進場後不會觸發進場異能，你的生物無法返回戰場，但屍變也不會因此離場，這屍變因為沒有被進場異能改寫規則而保留了最原始的能力，就是一個留在場上，並貼附於在墳場中那隻生物的靈氣。
 
-![屍變康](https://i.imgur.com/FkERjsJ.jpg)
+![屍變康](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/acfbac5df50c.webp)
 
 > [傳說終結](https://scryfall.com/card/m20/77/tales-end)：反擊目標起動式異能，觸發式異能或傳奇咒語。
 
@@ -116,7 +116,7 @@ authors:
 
 ## 屍變組合技
 
-![屍變吞世龍](https://i.imgur.com/dCIzTBn.jpg)
+![屍變吞世龍](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/12b397e0d5e7.webp)
 
 > [吞世龍](https://scryfall.com/card/ema/154/worldgorger-dragon)：
 > 當吞世龍進戰場時，放逐所有由你操控的其他永久物。
@@ -130,7 +130,7 @@ authors:
 
 不過要注意，吞世龍的進場與離場是兩段獨立的觸發式異能，如果你的吞世龍在進場異能尚未結算時就被回應去除，這麼一來離場異能會先結算，但此時你還沒有任何牌被吞世龍放逐過，自然也不會有任何東西進場，之後進場異能結算放逐你的其他所有永久物，這些永久物（包含地牌）就從此卡在放逐區了。
 
-![屍變貓](https://i.imgur.com/3znshas.jpg)
+![屍變貓](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/f6b86f49d844.webp)
 
 > [獅族遺寶護衛](https://scryfall.com/card/c17/65/leonin-relic-warder)：
 > 當獅族遺寶護衛進戰場時，你可以放逐目標神器或結界。

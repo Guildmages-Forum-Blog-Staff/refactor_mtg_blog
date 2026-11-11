@@ -1,8 +1,8 @@
 ---
 title: "克撒傳怎麼自爆了"
 date: 2023-09-05 17:42:48
-cover: "https://i.meee.com.tw/qzVEuiz.png"
-thumbnail: "https://i.meee.com.tw/qzVEuiz.png"
+cover: "https://images.guildmagesforum.tw/posts/Saga-and-Moon/d7b70bbb498e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Saga-and-Moon/d7b70bbb498e-cover.jpg"
 categories:
   - "MTG Rules"
 authors:
@@ -45,7 +45,7 @@ FIN系列對傳紀規則做出重大變更，新規則修改了傳紀失去異�
 
 ## 腥紅之月做了甚麼
 
-![紅月](https://i.meee.com.tw/F5YVfif.png)
+![紅月](https://images.guildmagesforum.tw/posts/Saga-and-Moon/4764f0256ec4.webp)
 
 [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)會將所有非基本地改為山脈，這時[規則305.7](https://mtg.fandom.com/wiki/Land)將生效 : 
 
@@ -59,7 +59,7 @@ FIN系列對傳紀規則做出重大變更，新規則修改了傳紀失去異�
 
 也就是說，[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)在會使[克撒傳](https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3)成為一個沒有異能、最終章節為0的傳紀(簡化後的示意圖如下)，這時根據前面[714.4](https://mtg.fandom.com/wiki/Saga)的規則，狀態檢查會發現這是一個**學問指示物大於等於最終章節編號、且沒有尚未結算的觸發式異能**的傳紀，進而犧牲此傳紀。
 
-![克撒山脈](https://i.meee.com.tw/JGVkQFX.png)
+![克撒山脈](https://images.guildmagesforum.tw/posts/Saga-and-Moon/69d603cf7b87.webp)
 
 ---
 
@@ -67,7 +67,7 @@ FIN系列對傳紀規則做出重大變更，新規則修改了傳紀失去異�
 
 除了上文提到的[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)與[紅月賢者](https://scryfall.com/card/tsr/175/magus-of-the-moon)之外，還有許多牌可以令[克撒傳](https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3)自爆，例如[月輪山影](https://scryfall.com/card/m19/128/alpine-moon)、[腥紅之日](https://scryfall.com/card/rix/92/blood-sun)、[海域蔓延](https://scryfall.com/card/zen/70/spreading-seas)，這些牌究竟如何令克撒傳自爆的，都可以用上述規則解釋。以後在看牌表如果看到這些消除地牌異能效應的牌，都別忘了可以用來讓克撒傳自爆。
 
-![克撒傳對策](https://i.meee.com.tw/24LYDNC.png)
+![克撒傳對策](https://images.guildmagesforum.tw/posts/Saga-and-Moon/e202939229ce.webp)
 
 ---
 
@@ -77,7 +77,7 @@ FIN系列對傳紀規則做出重大變更，新規則修改了傳紀失去異�
 
 答案是甚麼都不會發生，傳紀不會犧牲，也不會有任何章節異能在此時觸發，傳紀只會等到下次獲得學問指示物時執行對應章節的異能，因此搭配上[力量渠道](https://scryfall.com/card/ncc/376/power-conduit)、[戮日者格莉莎](https://scryfall.com/card/one/202/glissa-sunslayer)、[失去活性](https://scryfall.com/card/mom/123/render-inert)等移除指示物的異能，可以將傳紀的執行進度倒車，把前面已經執行過的章節再利用一遍。
 
-![移除指示物](https://i.meee.com.tw/bxepLWy.png)
+![移除指示物](https://images.guildmagesforum.tw/posts/Saga-and-Moon/10c2da80fe03.webp)
 
 其中如[力量渠道](https://scryfall.com/card/ncc/376/power-conduit)這類瞬間時機移除指示物的效應，還可以與傳紀達成更精妙的配合。
 

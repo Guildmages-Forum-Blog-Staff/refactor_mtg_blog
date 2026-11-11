@@ -115,7 +115,8 @@ export async function localizeImages<T extends CoverFields>(
 
   const fm = { ...frontmatter };
   for (const field of ['cover', 'thumbnail'] as const) {
-    const url = fm[field];
+    // Authors sometimes leave a trailing space inside the quotes.
+    const url = fm[field]?.trim();
     if (url && isExternalImage(url)) fm[field] = (await move(url, 'cover')) as T[typeof field];
   }
 

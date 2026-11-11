@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/bLFqnPQ.png"
-thumbnail: "https://i.meee.com.tw/bLFqnPQ.png"
+cover: "https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/72c3f4c745b3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/72c3f4c745b3-cover.jpg"
 excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的運作效果是怎麼描述的嗎？"
 ---
 
@@ -52,7 +52,7 @@ excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的�
 
 ## 森林圖書館規則範例
 
-![娜爾施](https://i.meee.com.tw/MK4DVoC.png)
+![娜爾施](https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/fa644e0a2879.webp)
 >[森林圖書館](https://scryfall.com/card/cc1/5/sylvan-library)：在你的抽牌步驟開始時，你可以額外抽兩張牌。若你如此作，則從你手上選擇兩張本回合所抽的牌。對每張這類牌而言，除非支付4點生命，否則便將該牌置於你的牌庫頂。
 >[揭帷娜爾施](https://scryfall.com/card/cmm/853/narset-parter-of-veils)：每位對手每回合所抽的牌不能多於一張。
 
@@ -63,7 +63,7 @@ excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的�
 
 
 
-![破船勇盜](https://i.meee.com.tw/uJwoSB8.png)
+![破船勇盜](https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/d092431b340b.webp)
 >[森林圖書館](https://scryfall.com/card/cc1/5/sylvan-library)：在你的抽牌步驟開始時，你可以額外抽兩張牌。若你如此作，則從你手上選擇兩張本回合所抽的牌。對每張這類牌而言，除非支付4點生命，否則便將該牌置於你的牌庫頂。
 >[破船勇盜](https://scryfall.com/card/cmr/74/hullbreacher)：如果某對手將抽一張牌，且這不是其於自己的每個抽牌步驟中所抽的第一張牌，則改為你派出一個珍寶衍生物。
 
@@ -76,7 +76,7 @@ excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的�
 
 
 
-![Dredge](https://i.meee.com.tw/8DxZ5Uz.png)
+![Dredge](https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/6b3f9ab4f2d7.webp)
 >[森林圖書館](https://scryfall.com/card/cc1/5/sylvan-library)：在你的抽牌步驟開始時，你可以額外抽兩張牌。若你如此作，則從你手上選擇兩張本回合所抽的牌。對每張這類牌而言，除非支付4點生命，否則便將該牌置於你的牌庫頂。
 >[黑土滋壤](https://scryfall.com/card/uma/172/life-from-the-loam)：發掘3（若你將抽一張牌，則你可以改為磨三張牌。如果你如此作，則將此牌從你的墳場移回你手上。）
 
@@ -89,7 +89,7 @@ excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的�
 
 
 
-![Miracle](https://i.meee.com.tw/zXRX0pL.png)
+![Miracle](https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/857ed1e98b59.webp)
 >[森林圖書館](https://scryfall.com/card/cc1/5/sylvan-library)：在你的抽牌步驟開始時，你可以額外抽兩張牌。若你如此作，則從你手上選擇兩張本回合所抽的牌。對每張這類牌而言，除非支付4點生命，否則便將該牌置於你的牌庫頂。
 >[重塑靈魂](https://scryfall.com/card/inr/167/reforge-the-soul)：每位玩家棄掉其手牌並抽七張牌。
 奇蹟{1}{R} （當你抽此牌時，如果它是你於本回合抽的第一張牌，你可以支付其奇蹟費用來施放它。）
@@ -112,7 +112,7 @@ excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的�
 
 
 
-![白金皇像](https://i.meee.com.tw/gCj2ZjO.png)
+![白金皇像](https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/25220f95d2e9.webp)
 >[森林圖書館](https://scryfall.com/card/cc1/5/sylvan-library)：在你的抽牌步驟開始時，你可以額外抽兩張牌。若你如此作，則從你手上選擇兩張本回合所抽的牌。對每張這類牌而言，除非支付4點生命，否則便將該牌置於你的牌庫頂。
 >[白金皇像](https://scryfall.com/card/uma/233/platinum-emperion)：你的總生命不會改變。（你不能獲得或失去生命。除了0點之外，你不能支付任何數量的生命。）
 
@@ -130,4 +130,4 @@ excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的�
 
 就筆者個人來看，森林圖書館是個很好的MTG規則文法檢定器，它的規則用詞並沒有任何含糊之處，都是嚴格遵守規則術語規範的，從能否正確判讀森林圖書館的運作原理，就能得知自己對MTG的措辭理解有無不足之處。
 
-![歷史](https://i.meee.com.tw/azru1cV.png)
+![歷史](https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/5b91ff5413a4.webp)

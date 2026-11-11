@@ -103,7 +103,7 @@ authors:
 
 |                                                  261                                                  |                   ###                   |                   ###                   |
 | :---------------------------------------------------------------------------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| ![261](https://cards.scryfall.io/large/front/6/8/68b90f54-d629-4126-82cc-13b51d6c1c3e.jpg?1721427360) | ![###](https://i.imgur.com/3V1FLMc.png) | ![###](https://i.imgur.com/3V1FLMc.png) |
+| ![261](https://cards.scryfall.io/large/front/6/8/68b90f54-d629-4126-82cc-13b51d6c1c3e.jpg?1721427360) | ![###](https://images.guildmagesforum.tw/posts/BLB-Colorless/b4d9d9a7443b.webp) | ![###](https://images.guildmagesforum.tw/posts/BLB-Colorless/b4d9d9a7443b.webp) |
 |                                                  2.0                                                  |                   無                    |                   無                    |
 
 評價：
@@ -147,7 +147,7 @@ authors:
 
 |                                                  063                                                  |                   ###                   |                   ###                   |
 | :---------------------------------------------------------------------------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| ![063](https://cards.scryfall.io/large/front/9/c/9ca14d07-2299-4a11-8c59-cb5edb257d72.jpg?1721447341) | ![###](https://i.imgur.com/3V1FLMc.png) | ![###](https://i.imgur.com/3V1FLMc.png) |
+| ![063](https://cards.scryfall.io/large/front/9/c/9ca14d07-2299-4a11-8c59-cb5edb257d72.jpg?1721447341) | ![###](https://images.guildmagesforum.tw/posts/BLB-Colorless/b4d9d9a7443b.webp) | ![###](https://images.guildmagesforum.tw/posts/BLB-Colorless/b4d9d9a7443b.webp) |
 |                                                  2.0                                                  |                   無                    |                   無                    |
 
 評價：

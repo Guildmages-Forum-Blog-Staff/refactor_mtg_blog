@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 多色、無色、地"
 date: "2023-11-13 15:41:46"
-cover: "https://i.imgur.com/sC7dAsF.png"
-thumbnail: "https://i.imgur.com/sC7dAsF.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-multicolors/f67198d87388-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-multicolors/f67198d87388-cover.jpg"
 excerpt: "說到限制賽就不能不從十張多色的U卡來看起，讓我們從多色進入LCI限制賽的大觀園吧！"
 categories:
   - "Limited"
@@ -27,7 +27,7 @@ authors:
 
 ## 多色
 
-![多色](https://i.imgur.com/kRM34KY.png)
+![多色](https://images.guildmagesforum.tw/posts/LCI-multicolors/6d58f31b8f66.webp)
 
 > 多色各稀有度的數量
 > C：0
@@ -82,7 +82,7 @@ authors:
 白綠色組傳奇的第一個異能看起來跟色組主題沒有直接關連，比較像是外掛的。而這個色組的主題應該是第二項，**當你有一個或更多生物的力量大於該生物的基礎力量時，可以獲得額外的增益效果**。而這張牌本身則可以讓你在有力量大於起始值的生物對玩家造成戰鬥傷害時可以抽一張牌，這個是一個賺牌差的效果非常厲害，所以非常適合把你有的灌大咒語、靈氣、武具、或放+1/+1指示物的咒語盡情地放在你的生物上，而且更棒的是牠不一定要自己進攻，而是你其他的生物符合這個條件都可以抽牌。另外別忘了如果符合這個條件，具有先攻異能與不具先攻異能的生物一同打到對手、或是一個具有連擊異能的生物打到對手都可以抽到兩次牌！
 而牠的第一項異能則是半張[止咒高僧](https://cards.scryfall.io/large/front/a/4/a40789d7-21e7-4d23-a904-db5dddc64051.jpg?1562653607)，可以讓對手無法在你的回合時施放咒語，這也代表你在進攻時做灌大將變得更加安全；而如果你想在自己的回合做壞壞的事時，你先施放牠也可以確保自己不會被任何的咒語包括反擊咒語干擾，Awesome！
 
-![233](https://i.imgur.com/7MBuYH1.jpg)
+![233](https://images.guildmagesforum.tw/posts/LCI-multicolors/c9cac38bc150.webp)
 
 **cephille**：3.0
 白藍色組的主題對應了**化煉（Craft with artifact）** 這個主題，所以他的代表性非普通卡並不是傳奇生物。以神器化煉是一個起動式異能，只能在巫術時機起動，它讓你在起動時需額外放逐場上或墳場中**特定數量以上的神器和或永久物**，而這麼做的話會將這張牌轉化。基本上就有點類似祭品的概念，來讓這張牌轉化為效果更強的神器。
@@ -206,7 +206,7 @@ authors:
 
 ## 無色
 
-![無色](https://i.imgur.com/18UWs3l.png)
+![無色](https://images.guildmagesforum.tw/posts/LCI-multicolors/ce0efec37b20.webp)
 
 > 無色各稀有度的數量
 > C：6
@@ -269,7 +269,7 @@ authors:
 **cephille**：2.0
 自己回合給死觸鼓勵你裝在小屁仔上去送頭、對手回合給延勢則讓你的地面生物可以去阻擋對手的飛兵們，算是一張攻防一體的武具，二費佩帶也還可以接受的。
 
-![256](https://i.imgur.com/sYG61Lv.jpg)
+![256](https://images.guildmagesforum.tw/posts/LCI-multicolors/1766c13bcbac.webp)
 
 **cephille**：3.0
 三費的抽濾源在中速套牌都是好牌，而當你達到永久物版的[躁狂](https://mtg.fandom.com/wiki/Delirium)後可以付四費轉化它變成可以產五色的爆費地；不過，當你的場面讓你可以安穩的抽棄換成更好的牌時，你可能也沒有那麼需要爆費了，算是一個轉化後在限制賽稍微尷尬的牌，但不管如何三費的抽濾源還是很值得放的。一般的系列我可能只會給2.5分，但這系列有落墳的關係還是會先給高一點。
@@ -311,7 +311,7 @@ authors:
 **cephille**：0.5
 [巫視望遠鏡](https://cards.scryfall.io/large/front/6/c/6c99b7e8-e5c6-407d-88f1-8d3bc844eecc.jpg?1646180524)重印慘遭降級！但我覺得在限制賽應該還是一張備牌，畢竟基本上是用來阻止對手的起動式異能，在資源交換上基本上還是先虧一張牌的。
 
-![262](https://i.imgur.com/UweBTey.jpg)
+![262](https://images.guildmagesforum.tw/posts/LCI-multicolors/1814bbb190a9.webp)
 
 **cephille**：2.0
 前期加速，中後期放逐一張或多張有色生物/神器來參與戰鬥。不過要變成2/2以上身材的飛兵可能至少要吃兩張以上，所以不要太期待它的戰力，單純當一張加速會比較好。要注意的是它轉化後的攻防是看它化煉放逐掉的牌的顏色有幾種，如果你放逐了一張或多張無色神器來化煉的話，那它轉化後會因為身材是0/0而直接進墳 ~~，如果你需要五費觸發落墳也是可以的~~。
@@ -331,19 +331,19 @@ authors:
 **cephille**：4.0
 七費有點大所以沒辦法給它太高分，但進場至少是一隻3/3加三隻1/1總共6/6的身材不算太差；不過最厲害的是它攻擊時也會持續生等同於它力量數量的1/1，還自帶一個二費犧牲另一個神器放豆的異能；基本上剛登場很高機率就可以先頂住地面的壓力，然後再想辦法灌大它反打，就算它本體在戰鬥中掛了，要記得它攻擊生出來的1/1是站著的，應該就可以擋對手擋到天荒地老。而這些1/1包括它自己都是神器，應該很適合作為紅藍色組海盜主題的終結者。
 
-![266](https://i.imgur.com/DBJ55OA.jpg)
+![266](https://images.guildmagesforum.tw/posts/LCI-multicolors/161f91a8af6c.webp)
 
 **cephille**：1.0
 可能在需要自磨的落墳主題可以放它，但這個系列並沒有像ZNR[石工馱獸](https://cards.scryfall.io/large/front/e/d/ede2873e-91d9-4ed1-a358-05fb6c0c8ead.jpg?1646310451)這樣的種族萬金油，考慮到恐龍（白綠紅）、人魚（藍綠）、海盜（紅黑藍）、吸血鬼（黑白）這四個種族要湊得起來基本上可能要打五色了，要以它能翻面的構築方式應該還是相對困難的前提來看，我個人是不太會想放它，先給個1.0分請有緣人開發出厲害的輪抽思路再跟我說這個分數要不要調整吧！
 
-![267](https://i.imgur.com/tCra29i.jpg)
+![267](https://images.guildmagesforum.tw/posts/LCI-multicolors/3702be7c423b.webp)
 
 **cephille**：3.5
 [藏寶圖](https://cards.scryfall.io/large/front/8/2/827b102a-6596-4709-b0a6-5b1f2b159683.jpg?1646180563)重印！付一費橫置每回合占卜一，三回合後你會獲得三個珍寶以及一張地，珍寶太多還可以犧牲掉抽牌！很賺很賺，我總是會希望我的限制賽套牌有一張藏寶圖來幫助我獲勝的。
 
 ## 地
 
-![地](https://i.imgur.com/sC7dAsF.png)
+![地](https://images.guildmagesforum.tw/posts/LCI-multicolors/f67198d87388.webp)
 
 > 地各稀有度的數量
 > C：7
@@ -367,8 +367,8 @@ authors:
 > U：3 （黑、紅、綠 各1）
 > R：2 （黑、紅 各1）
 
-![](https://i.imgur.com/EBYoI2z.jpg)
-![](https://i.imgur.com/0dtftLa.jpg)
+![](https://images.guildmagesforum.tw/posts/LCI-multicolors/bd65de59f5c3.webp)
+![](https://images.guildmagesforum.tw/posts/LCI-multicolors/0299cff3a4dd.webp)
 
 雖然靠轉化成為的洞窟牌相對不穩定且條件有一定難度，我們不能過度期望靠他們來計入洞窟的數量，但還是值得留意有沒有適合的機會把它們放進你的洞窟主題中。
 
@@ -400,7 +400,7 @@ authors:
 **cephille**：1.5
 雖然其他洞窟可以變成[魔力聚流](https://cards.scryfall.io/large/front/2/8/28368b14-2845-4178-88b9-b268361a1b4d.jpg?1562206240)，但限制賽生命值還是很珍貴的，要產費我不會想痛自己的血。頂多當成一個調色的選項而已。
 
-![五色洞窟](https://i.imgur.com/tVhzIRH.jpg)
+![五色洞窟](https://images.guildmagesforum.tw/posts/LCI-multicolors/72dd010e4664.webp)
 
 **cephille**：2.5
 這五張洞窟是一樣的只差在可以產的顏色不同，中後期還可以讓你在巫術時機時用五費加橫置犧牲掉它來傾探4，作為一個中後期的賺牌手段，顏色對就可以放。

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/X2BP6lH.png"
-thumbnail: "https://i.meee.com.tw/X2BP6lH.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Blue/f45f0d087245-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Blue/f45f0d087245-cover.jpg"
 excerpt: "喔耶我們終於取消再印 Cancel 了！ Refute 將開啟三費正康的新紀元！"
 ---
 

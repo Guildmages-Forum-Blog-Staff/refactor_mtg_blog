@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟機制解析"
 date: "2023-10-25 17:19:50"
-cover: "https://i.imgur.com/szsk2tj.png"
-thumbnail: "https://i.imgur.com/szsk2tj.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-mechanic/eb96130c3166-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-mechanic/eb96130c3166-cover.jpg"
 excerpt: "來看看依夏蘭迷窟中出現了哪些新機制吧！"
 categories:
   - "Limited"
@@ -19,13 +19,13 @@ authors:
 
 ## 復出機制：轉化式雙面牌
 
-![轉化式雙面牌](https://i.imgur.com/1jMChMy.jpg)
+![轉化式雙面牌](https://images.guildmagesforum.tw/posts/LCI-mechanic/c4cec38bc548.webp)
 
 其實我也不知道這該稱為復出機制還半長青機制了，轉化式雙面牌在依夏蘭時便是系列特色之一，本次依夏蘭迷窟也沒缺席，並且轉化後的牌張類別更加豐富，不過這次並未改變任何有關轉化式雙面牌的規則，在此就不贅述了，對更多有關轉化式雙面牌規則感興趣的讀者可以參閱這篇文章：[轉化式雙面牌與複製效應](https://guildmagesforum.tw/DFC-Copy/)。
 
 ## 復出機制：勘察（Explore）
 
-![勘察](https://i.imgur.com/6GpUCBk.jpg)
+![勘察](https://images.guildmagesforum.tw/posts/LCI-mechanic/af0adbce8467.webp)
 
 勘察是本次登場的另一個復出機制，也是過去依夏蘭的招牌機制。當你令一個生物勘察時，展示你牌庫頂的一張牌，如果展示到地牌便將該牌置於手上，如果沒以此法展示出地牌（展示了一張非地牌或是牌庫沒牌）則在勘察的生物上放一個+1/+1指示物，然後你可以決定將牌庫頂展示的非地牌留在牌庫頂或是置於墳場。
 
@@ -34,15 +34,15 @@ authors:
 
 ## 地圖衍生物（Map Token）
 
-![地圖](https://i.imgur.com/SdC4XVM.jpg)
+![地圖](https://images.guildmagesforum.tw/posts/LCI-mechanic/23ef09a2d0a6.webp)
 
 地圖衍生物是一種新定義的神器衍生物，效果為勘察的延伸應用，地圖衍生物都是無色神器，且具有以下能力：
 「{一}，{橫置}，犧牲此神器：令目標由你操控的生物勘察，此異能只能於巫術時機起動。」
 
 ## 化煉（Craft）
 
-![化煉1](https://i.imgur.com/uNJUN3V.jpg)
-![化煉2](https://i.imgur.com/JsG7rma.png)
+![化煉1](https://images.guildmagesforum.tw/posts/LCI-mechanic/147d5a243c82.webp)
+![化煉2](https://images.guildmagesforum.tw/posts/LCI-mechanic/5910c03b664b.webp)
 
 化煉是一個基於轉化式雙面牌的的新起動式異能，皆出在轉化式雙面牌的正面，並且能夠幫助該牌轉化至背面。
 
@@ -58,7 +58,7 @@ authors:
 
 ## 傾探（Discover）
 
-![傾探](https://i.imgur.com/qnaAT9n.jpg)
+![傾探](https://images.guildmagesforum.tw/posts/LCI-mechanic/325d12ef6dd3.webp)
 
 終於來到本期文章的重頭戲了，傾探異能的卡面規則敘述正是我決定寫這篇文章的最大主因。
 
@@ -71,11 +71,11 @@ authors:
 
 但接下來這點就讓筆者非常不解了，那就是傾探的卡面敘述跟實際效果之間有落差，以上圖[探地人](https://scryfall.com/card/lci/150/geological-appraiser)為例，他只檢查了「牌（Card）」的魔法力值，這項檢查通過就可以施放之，但實際上後面還有一條規則補充要求了該「咒語（Spell）」的魔法力值也要符合條件，這在某些牌張中會產生巨大的差異。
 
-![提勃](https://i.imgur.com/iLwRRg6.jpg)
+![提勃](https://images.guildmagesforum.tw/posts/LCI-mechanic/ba928acaabc7.webp)
 
 好比說[謊言神瓦爾基](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor)，他是張模式雙面牌，正面是2費生物、背面是7費鵬洛客（提勃），如果只檢查到「牌（Card）」的話謊言神瓦爾基符合條件，而讓你免費施放此卡時你可以選擇想要施放哪一面，但如果連同「咒語（Spell）」都一同檢查就不行了，因為它的背面是一個7費的咒語。[刺藤傭獸](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest)的歷險也是同樣的原理，是否檢查「咒語（Spell）」費用會是完全不同的結果，各賽制中均有實例。
 
-![作弊](https://i.imgur.com/B4jq2Dj.jpg)
+![作弊](https://images.guildmagesforum.tw/posts/LCI-mechanic/feb059183709.webp)
 
 [進軍阿拉若](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom)+[刺藤傭獸](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest)的Combo就是標準的現在進行式，具體細節可以參考[列爾如何與歷險牌互動](https://guildmagesforum.tw/Adventure-and-Lier/)這篇文章。
 
@@ -89,7 +89,7 @@ Cascade（如[無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent
 
 ## 落墳（Descend）
 
-![落墳](https://i.imgur.com/ql2vBGe.jpg)
+![落墳](https://images.guildmagesforum.tw/posts/LCI-mechanic/9841cbd69a47.webp)
 
 落墳會關注本回合是否有永久物牌從任何區域進入你的墳場，無論是從戰場死去、從手牌棄掉、從牌庫磨掉都行，並且這張永久物牌也不用停留在墳場，只要曾經進入過墳場就行，即使那張牌後來因為其他原因又離開了墳場也絲毫不影響落墳的運作。
 
@@ -99,7 +99,7 @@ Cascade（如[無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent
 
 ## 落墳4（Descend 4）、落墳8（Descend 8）、落墳無邊（Fathomless Descent）
 
-![落墳X](https://i.imgur.com/SfJPfjg.jpg)
+![落墳X](https://images.guildmagesforum.tw/posts/LCI-mechanic/42914b0d28c1.webp)
 
 這是推動筆者寫出此文章的第二動力，與上面傾探的狀況不同，落墳並沒有規則解讀上的歧義，而是在文字閱讀上相當不直觀，容易使人混淆。
 
@@ -113,7 +113,7 @@ Cascade（如[無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent
 
 ## 終命指示物（Finality Counter）
 
-![終命指示物](https://i.imgur.com/ObSAErz.jpg)
+![終命指示物](https://images.guildmagesforum.tw/posts/LCI-mechanic/0138bdc09017.webp)
 
 終命指示物雖然是新的指示物，但能力卻是舊有能力的新表現方式， **身上擁有終命指示物的生物將死去時會改為放逐**，未來MTG在設計死去改為放逐這類效應新牌時，可能會使用終命指示物這個全新的工具，就好比一些不能重置效應後來改用暈眩指示物（Stun Counter）設計一樣。
 
@@ -129,4 +129,4 @@ Cascade（如[無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent
 
 依夏蘭迷窟的售前現開賽將於2023年11月10日開始，準備好展開新的探險吧！
 
-![MR](https://i.imgur.com/t3lpIXr.jpg)
+![MR](https://images.guildmagesforum.tw/posts/LCI-mechanic/a04568aeb48a.webp)

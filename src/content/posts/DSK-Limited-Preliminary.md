@@ -4,8 +4,8 @@ date: "2024-09-17 14:13:54"
 categories:
   - "Limited"
   - "DSK"
-cover: "https://i.imgur.com/d2budTa.jpeg"
-thumbnail: "https://i.imgur.com/d2budTa.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/f2f47b14873b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/f2f47b14873b-cover.jpg"
 excerpt: "當我和班隆洛的可愛小動物們度過一個快樂的暑假後，開學後來到暮悲邸卻看見...貞子、恰吉、安娜貝爾說你好！！！"
 authors:
   - "cephille"
@@ -41,7 +41,7 @@ authors:
 
 ### **<font color="#023FFD">藍</font><font color="#FED761">白</font>** — 異景節奏（Eerie tempo）
 
-![](https://i.imgur.com/Jzcttur.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/559c05db6cbb.webp)
 
 > 藍白色組結界牌數量：**36 + 1** （1 張無色的結界地 {% mtgcard "Valgavoth's Lair" tooltip=true %}）
 
@@ -58,7 +58,7 @@ U 卡的 {% mtgcard "Inquisitive Glimmer" tooltip=true %} 作為本思路的加�
 
 ### **<font color="#023FFD">藍</font>黑** — 異景控制（Eerie control）
 
-![](https://i.imgur.com/pAMxvUC.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/d7f7bc0e6a7c.webp)
 
 > 藍黑色組結界牌數量：**35 + 1** （1 張無色的結界地 {% mtgcard "Valgavoth's Lair" tooltip=true %}）
 
@@ -72,14 +72,14 @@ U 卡的 {% mtgcard "Fear of Infinity" tooltip=true %} 是這個思路的核心�
 
 ### **<font color="#FD0214">紅</font>黑** — 犧牲（Sacrifice）
 
-![](https://i.imgur.com/mYNoV6n.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/8430b88adbcc.webp)
 
 > 紅黑色組中，關注犧牲生物 / 結界之牌張數量：**8** 
 > 具起動式異能，可犧牲永久物之牌張數量：**3** 
 
 U 卡的 {% mtgcard "Disturbing Mirth" tooltip=true %} 本身不能犧牲自己，雖然會讓效益較不穩定，但能做到就能賺取牌差，構築時可能要關注低費的永久物、以及可以派出 token 的牌張。 另一張 U 卡 {% mtgcard "Sawblade Skinripper" tooltip=true %} 則只要回合結束時有犧牲過任意數量的永久物，就可以高效的發揮去除或補上傷害；有趣的是 R 卡的 {% mtgcard "Undead Sprinter" tooltip=true %} 就很適合拿來給這兩張 U 卡當肥料，本身返場後是 3/3 踐踏敏捷的體格，也能達到墳場其習的效果。不過，這個色組還是需要更多肥料的鋪墊，才能讓主題單卡有更好的發揮。
 
-![](https://i.imgur.com/UZCftVl.gif)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/919cdd8e6f40.gif)
 
 額外提一下，上圖這三張牌都是具有可以犧牲永久物、生物、地牌之起動式異能的牌，而這也有機會與 {% mtgcard "Sawblade Skinripper" tooltip=true %} 的被動效果產生連動，值得納入紅黑色組的構組裡。
 
@@ -91,7 +91,7 @@ U 卡的 {% mtgcard "Disturbing Mirth" tooltip=true %} 本身不能犧牲自己�
 
 ### **<font color="#FD0214">紅</font><font color="#0A883B">綠</font>** — 躁狂巨獸（Delirium stompy）
 
-![](https://i.imgur.com/hReXvL4.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/4a26114ddee9.webp)
 
 > 紅綠色組躁狂牌數量：**13 + 1** （1 張 黑紅綠三色傳奇）
 
@@ -104,14 +104,14 @@ U 卡的 {% mtgcard "Disturbing Mirth" tooltip=true %} 本身不能犧牲自己�
 
 ### **<font color="#FED761">白</font><font color="#0A883B">綠</font>** — 生還（Survival）
 
-![](https://i.imgur.com/jfoUXZd.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/9271b37e0884.webp)
 
 > 白綠色組生還牌數量：**12** 
 > 黑色生還牌數量：**1** （{% mtgcard "Cynical Loner" tooltip=true %}）
 
 U 卡的武具 {% mtgcard "Baseball Bat"  tooltip=true %} 鼓勵你生物進攻，給予橫置目標生物的效果，也讓你生物進攻後存活機率提高；而像 {% mtgcard "Shrewd Storyteller" tooltip=true %} 、與 R 卡的 {% mtgcard "Rip, Spawn Hunter" tooltip=true %} 這樣的牌，就能觸發生還來發揮更大的價值。
 
-![](https://i.imgur.com/amydikq.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/f26cee482815.webp)
 
 然而，單純靠進攻讓後存活來觸發生還的效果，其實還是不太穩定。因此，另一邊更穩定的生還觸發的來源也值得我們留意，如綠色的死亡割草機 {% mtgcard "Hedge Shredder" tooltip=true %} 、白色的幽浮 {% mtgcard "Unidentified Hovership" tooltip=true %} 這兩台載具的搭載（crew）異能，都可以讓你主動橫置具生還異能的生物們 （survivors）！而像 {% mtgcard "Coordinated Clobbering" tooltip=true %} 這樣的解牌，本來要橫置生物算是副作用，但你橫置的若是 survivors，那可就不一樣了；同樣的概念可套用在 {% mtgcard "Fear of Exposure" tooltip=true %} 上，若你能一二回接連拍出兩隻 survivors ，三回接著出 {% mtgcard "Fear of Exposure" tooltip=true %} ，那節奏更是好到飛起來！
 
@@ -125,20 +125,20 @@ U 卡的武具 {% mtgcard "Baseball Bat"  tooltip=true %} 鼓勵你生物進攻�
 
 ### **黑<font color="#FED761">白</font>** — 挖墳（Reanimator）
 
-![](https://i.imgur.com/UcGb4By.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/cef8540c8930.webp)
 
 > 黑白色組挖墳牌數量：**6** 
 
 黑白色組有一些挖墳咒語、或具挖墳效果的永久物。 U 卡的 {% mtgcard "Rite of the Moth" tooltip=true %} 效果簡單明瞭，就是挖！而且還有返照（Flashback）所以可以挖兩次！不過因為它挖回來的生物會額外帶一個終命 （Finality） 指示物，基本上沒有特殊處理的話，同一隻生物只能返場一次。另一張 U 卡生物{% mtgcard "Shroudstomper" tooltip=true %} 作為色組封閉且高費的強力生物，與其正拍，黑白色組更鼓勵你用挖的，不然沒有必要把標竿的生物做得難以施放。而 R 卡傳奇生物 {% mtgcard "Victor, Valgavoth's Seneschal
 " tooltip=true %} 則關注黑白共同的另一個主題 — 異景，隨著同一回合異景觸發越多次，到第三次就又回到黑白的挖墳主題。
 
-![](https://i.imgur.com/1Lnli10.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/638d9fed4559.webp)
 
 此外，筆者這邊也揭露幾個可能的花樣，提供給讀者測試~~娛樂~~一下！
 
 比較常見的，就是用像 {% mtgcard "Shepherding Spirits" tooltip=true %} 這類前期用來循環找地的單卡，中後期用 {% mtgcard "Valgavoth's Faithful" tooltip=true %} 或 {% mtgcard "Live or Die" tooltip=true %} 這類單卡挖回來，做一個偽加速的效果。
 
-![](https://i.imgur.com/q5UzHvB.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/8af5bd5b8fe3.webp)
 
 當然，腦洞大開一點，你也可以把這些費用太大、或施放時對你有副作用的大惡魔們，以任何可行的方式丟到墳場裡再挖上來，來造就只有我們得利的局面。[追求卓越，不計代價](https://scryfall.com/card/rav/81/dark-confidant)，這正是黑色玩家的浪漫，你們說是嗎？
 
@@ -150,7 +150,7 @@ U 卡的武具 {% mtgcard "Baseball Bat"  tooltip=true %} 鼓勵你生物進攻�
 
 ### **<font color="#FD0214">紅</font><font color="#023FFD">藍</font>** — 隔間（Rooms）
 
-![](https://i.imgur.com/qXR66bQ.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/e6417cee5444.webp)
 
 > 紅藍色組隔間牌數量：**11**
 > 非紅藍色組隔間牌數量：**12**
@@ -159,7 +159,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 這邊要特別提到一張藍牌 {% mtgcard "Ghostly Keybearer" tooltip=true %} ，有它在場時，就能在你操縱的隔間牌暢行無阻，享受在限制賽中 mana cheating 的快感；而在以隔間為主題的紅藍色組中，它也會是十分關鍵的單卡！
 
-![](https://i.imgur.com/kA8sThn.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/d8e653dad495.webp)
 
 > {% mtgcard "Central Elevator // Promising Stairs" tooltip=true %} 這張牌還真的開了八扇門會贏XD
 
@@ -171,7 +171,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### **黑<font color="#0A883B">綠</font>** — 躁狂自磨（Delirium grind）
 
-![](https://i.imgur.com/DlOPhNI.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/0e3959ffee0f.webp)
 
 > 黑綠色組躁狂牌數量：**11 + 1** （1 張 黑紅綠三色傳奇）
 
@@ -187,7 +187,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### **<font color="#FD0214">紅</font><font color="#FED761">白</font>** — 快攻（Aggro）
 
-![](https://i.imgur.com/3KN02Ti.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/9c965c92c279.webp)
 
 > 紅白色組可用的 2 攻以下生物牌數量：**33** （包含 3 張神器生物）
 
@@ -203,7 +203,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### **<font color="#023FFD">藍</font><font color="#0A883B">綠</font>** — 顯化懼象（Manifest dread）
 
-![](https://i.imgur.com/PAqIAmg.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/9fa6c98c7f7c.webp)
 
 > 藍綠色組顯化懼象牌數量：**20** （包含 2 張神器～武具）
 > 其他色組顯化懼象牌數量：**8**
@@ -222,7 +222,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 1. 雙色的顯化懼像牌對主題的支援有限，仍需要用藍、綠單色的牌來補足主題。
 2. 顯化懼象具有變相的填墳能力，與黑底挖墳、與綠底躁狂主題，可能有不錯的連動性。
 
-![](https://i.imgur.com/SiBhryQ.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/f45624126720.webp)
 
 > 曾幾何時，連「質數」都能成為卡牌設計的要素了XD
 
@@ -230,19 +230,19 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### 霸主（Overlords）
 
-![](https://i.imgur.com/z2LOpe8.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/ab8fe1f11e5f.webp)
 
 五張一組的秘稀結界生物，都帶有這個系列的新異能 — 隱現（Impending）。這五隻生物本身都非常強力，進場與攻擊都能反覆觸發其特定的異能，基本上可以類比於 M11 登場的五張單色泰坦。而這次五張霸主還具有隱現的異能，讓它們能作為非生物的結界提早登場。不過，要能重複觸發它們的異能，還是需要讓他們做為生物在戰場上才行。如果已經快能夠直接施放的話，也許捏一下的價值會更大！
 
 ### 永續爍光體（Enduring Glimmers）
 
-![](https://i.imgur.com/XXCjsdb.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/26f26a45ea16.webp)
 
 這類也是 DSK 特有的單色結界生物，牌名的開頭都是 "Enduring ______" 來識別。這類的生物理解起來也相對容易，生物死去後，會再以非生物結界的方式重新進場。而這些牌因為是 R 卡的關係，被動效果也做得很強大，又可以一魚二吃，相當厲害！
 
 ### 地脈（Leylines）
 
-![](https://i.imgur.com/DzYIHgB.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/364fbcf12a03.webp)
 
 除了重印的 {% mtgcard "Leyline of the Void" tooltip=true %} 外， DSK 又為我們帶來另外 4 張全新的單色地脈。簡單介紹一下地脈：
 
@@ -255,7 +255,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### 基本地類別循環（Typecyclers）
 
-![](https://i.imgur.com/CES5JL5.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/3b81764d35ba.webp)
 
 像之前在 LCI 中出現的五張一組的C卡循環一樣， DSK 同樣也有這樣的五張的地循環。而它們的共通點也很直觀：
 
@@ -267,7 +267,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### 邊陲地（Vergelands）
 
-![邊陲地](https://i.imgur.com/9tyawQY.jpeg)
+![邊陲地](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/1477ab9ba869.webp)
 
 功能強化的檢查地（checklands），終於再也沒有必須躺進的風險了！不過，設計上的概念，可能更接近於絕境（TOR）中的四張與沼澤連動的[敗壞地 （tainted lands）](https://mtg.fandom.com/wiki/Tainted_land)們。DSK 中只有 5 張鄰色色組的邊陲地，而搭配對應顏色的基本地使用，還可以產出另外的顏色，基本上在限制賽就是妥妥的雙色地了。
 
@@ -275,7 +275,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ### 十三恐懼地（Triskaidekaphobia Lands）
 
-![](https://i.imgur.com/DQnt2Zf.jpeg)
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/657ee4c93629.webp)
 
 這個譯名概念來自於依尼翠闇影（SOI）這張奇葩的結界 — {% mtgcard "十三恐懼症" "soi" "language=zht" tooltip=true %} ，在歐美的文化中，13 這個數字就有不祥的意義；這次現代恐怖主題自然也不會放過這個機會，將此概念套用到這次 DSK 的 10 張雙色地牌設計上。讓你在只要有一個玩家的血量等於、或少於 13 時，這些地牌就能站著進場，在使用上則相對直觀，而且只要進場時檢查一次就行。雖然在遊戲序盤基本上還是一張躺進的雙色地，但到了中盤只要你或你的對手血量降到 13 以下，立刻就能帶給你法術力上的優勢！
 
@@ -285,7 +285,7 @@ U 卡 {% mtgcard "Smoky Lounge // Misty Salon" tooltip=true %} 這張隔間牌�
 
 ## 暮悲邸的特別來賓（Special Guest, SPG）
 
-![](https://i.imgur.com/GFuavqT.jpeg) 
+![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/10312d31d987.webp) 
 
 SPG0064 ~ 0073 這 10 張牌為暮悲邸中常規補充包能開到的特別來賓牌，值得特別留意得像是 {% mtgcard "Damnation" "spg" tooltip=true %} 這樣的牌，讓你在面對黑色套牌時，在提防去除以外，也要留意一下可能的四費掃場；而 {% mtgcard "Hallowed Haunting" "spg" tooltip=true %} 在這次的結界主題中，可能也可以起到巨大的補強效果。不過 SPG 的出現機率為 64 包中才會出現 1 張，就跟之前的系列一樣，就留意一下，但也不用過分擔心。大家就當一個限制賽的小驚喜（嚇？）來看待吧！
 

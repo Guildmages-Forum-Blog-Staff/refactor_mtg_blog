@@ -1,8 +1,8 @@
 ---
 title: "何謂替代性費用"
 date: 2023-10-18 23:00:00
-cover: "https://i.imgur.com/74agayt.png"
-thumbnail: "https://i.imgur.com/74agayt.png"
+cover: "https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/94d3932b9d9f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/94d3932b9d9f-cover.jpg"
 excerpt: "為甚麼用迅咒法師返照FOW時無法選擇替費施放呢？"
 categories:
   - "MTG Rules"
@@ -16,7 +16,7 @@ authors:
 
 雖然替代性費用在MTG中隨處可見，規則處理上也很簡潔，但如果不清楚基本的規則定義，遊戲上還是可能產生不少誤區，本期是篇較為輕鬆的規則文，談談何謂替代性費用，完整規則條文請參閱[規則連結](https://mtg.fandom.com/wiki/Alternative_cost)。
 
-![FOW](https://i.imgur.com/hCKhuK9.jpg)
+![FOW](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/f114a3acabbc.webp)
 
 ---
 
@@ -81,7 +81,7 @@ authors:
 
 ### 由一個效應給予另一個咒語替代性費用
 
-![MH2案例](https://i.imgur.com/0eZIugH.jpg)
+![MH2案例](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/f76e45e1e42a.webp)
 
 [幽寂](https://scryfall.com/card/mh2/32/solitude)的呼魂（Evoke）與[巧手竊猴勒格文](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)的掩襲（Dash）都是從 **自身規則敘述中獲得替代性費用** ，或者更正確的說，是這些關鍵字本身就定義了他是替代性費用的特性，你可以選擇改為使用上面的替代性費用來施放這張牌，這費用可能是換個魔法力（勒格文），也可能改為支付魔法力以外的東西（幽寂的放逐白色手牌）。
 
@@ -89,29 +89,29 @@ authors:
 
 另外有些牌張只會寫上帶有替代性費用特徵的關鍵字，但沒有給出這個關鍵字的具體運作方式（如上圖的幽寂），這時就只能多加熟記各種關鍵字的定義了。
 
-![替代性費用](https://i.imgur.com/QsfWLyA.jpg)
+![替代性費用](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/31d79cb534e4.webp)
 
 這些同樣都是 **由一個效應給予另一個咒語替代性費用** 的案例，其中指定的替代性費用雖有不同，但原理都是一樣的，[全知全能](https://scryfall.com/card/m19/65/omniscience)與上面傾曳的寫法一樣都是「你可以施放該牌，且不需支付其魔法力費用」，[五陽護手](https://scryfall.com/card/c17/211/fist-of-suns)與[波拉斯尊殿](https://scryfall.com/card/war/79/bolass-citadel)則是從原本的費用改為了新的指定費用，其中波拉斯尊殿是將費用從支付魔法力改為支付生命，如果場上有[執拗雄野牙剎](https://scryfall.com/card/znr/240/yasharn-implacable-earth)的「玩家不能以支付生命的方式施放咒語」這類效應存在時，便無法透過波拉斯尊殿的替代性費用來施放咒語（除非該咒語的總魔法力值是0，這類效應不會禁止玩家支付0點生命）。
 
 ### 任何咒語都只可以使用一個替代性費用
 
-![FOW](https://i.imgur.com/hCKhuK9.jpg)
+![FOW](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/f114a3acabbc.webp)
 
 替代性費用中最重要的規則非 **「任何咒語都只可以使用一個替代性費用」** 這條莫屬了，這個案例就能很好展示這規則的原理與可能造成的誤解。
 
 [意志之力（FOW）](https://scryfall.com/card/ema/49/force-of-will)是個很標準的擁有替代性費用的咒語（支付生命與放逐藍色手牌），[迅咒法師](https://scryfall.com/card/uma/71/snapcaster-mage)可以給予墳場一個瞬間巫術牌返照異能，其返照費用等同於該咒語的魔法力費用，返照（Flashback）費用同樣是一個替代性費用，而一個咒語是無法使用兩個替代性費用的，如果你用迅咒法師給墳場的FOW獲得返照異能，那你只能乖乖的付5費來施放，不能再選擇FOW自己的替代性費用。
 
-![波拉斯風暴](https://i.imgur.com/Iu68bSK.jpg)
+![波拉斯風暴](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/147b9781b25c.webp)
 
 這是個與上題同樣原理的案例，[屋頂風暴](https://scryfall.com/card/mic/103/rooftop-storm)給予殭屍咒語新的替代性費用「0」，[波拉斯尊殿](https://scryfall.com/card/war/79/bolass-citadel)給予牌庫頂的咒語新的替代性費用「生命」，假設你同時操控兩者，牌庫頂是一張[無情亡者](https://scryfall.com/card/soi/131/relentless-dead)，當你想使用波拉斯尊殿的異能來施放它時，就注定是使用波拉斯尊殿的替代性費用了，屋頂風暴在這裡沒有任何作用，你無法在一個咒語上同時適用兩個替代性費用。
 
 ### 替代性費用不會改變該咒語原有的魔法力值（Mana Value）
 
-![圈套裂空](https://i.imgur.com/pxa0o4K.jpg)
+![圈套裂空](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/cf4a133809e8.webp)
 
 替代性費用的另一個特徵則是不會改變這個咒語原有的魔法力值，只是改變了施放時所支付的費用。假設你施放了個[龍卷裂空](https://scryfall.com/card/cmm/84/cyclonic-rift)，無論你有沒有選擇使用超載（Overload）的替代性費用，它都是一個總魔法力值為2的咒語，[倨傲擊](https://scryfall.com/card/khm/54/disdainful-stroke)永遠無法康到龍卷裂空，而[圈套咒語](https://scryfall.com/card/bbd/132/spell-snare)則可以康龍卷裂空。
 
-![返照銀鏡](https://i.imgur.com/pu8lLoT.jpg)
+![返照銀鏡](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/da704ec42681.webp)
 
 不過有一種情況稍微複雜一些，就是這個咒語費用包含X的時候，我們先來看看費用包含X的情況規則是怎麼說的：
 
@@ -120,7 +120,7 @@ authors:
 
 簡單來說，一個咒語如果原本費用跟替代性費用都包含X，用替代性費用施放時，這個X也會成為此咒語在堆疊上的費用特徵。再讓我們舉個更具體的例子，假設我們現在操控[翻湧神信徒列爾](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned)&[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)，利用列爾的能力從墳場返照[銀鏡洞察](https://scryfall.com/card/dmu/65/silver-scrutiny)，並且宣告X=3，雖然返照是替代性費用，但這個X同樣會反應到咒語本體的費用特徵，所以爬上豆莖會看到你施放了一個5費（3UU）的銀鏡洞察，並觸發抽牌的異能。
 
-![返照X](https://i.imgur.com/ytm2W5c.jpg)
+![返照X](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/e9b99dccb461.webp)
 
 同樣用[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)檢查返照X費咒語的情境，再讓我們把問題進階一點。
 
@@ -128,7 +128,7 @@ authors:
 
 [照亮黑夜](https://scryfall.com/card/mid/146/light-up-the-night)也是同理，它的返照費用為4費加上從鵬洛客上移除X個忠誠指示物，這個X將會決定你返照此卡時它會是個幾費的咒語，如果你想用爬上豆莖抽牌，就必須移除至少4個忠誠指示物，這樣X大於等於4，此咒語的費用才能達到5費（4R）。
 
-![增幅](https://i.imgur.com/OBP3VBO.jpg)
+![增幅](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/9dfc4e601f65.webp)
 
 替代性費用與額外費用的差異也是不時有人搞混的地方，兩者最大的差異是任何咒語都只可以使用一個替代性費用，但可以擁有多個額外費用。
 
@@ -136,7 +136,7 @@ authors:
 
 ### 附註：試作（Prototype）並不屬於替代性費用
 
-![Prototype](https://i.imgur.com/YqZWJTS.jpg)
+![Prototype](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/09e5126f3166.webp)
 
 最後來講個很容易被誤會的特例，試作的寫法雖然乍看之下很像一個替代性費用，但是它並不是！試作會真實的改變咒語的特徵，一個[非瑞克西亞噬生亞龍](https://scryfall.com/card/bro/121/phyrexian-fleshgorger)如果使用試作費用來施放[倨傲擊](https://scryfall.com/card/khm/54/disdainful-stroke)是康不到的，而加碼過的[懇求魔鏡](https://scryfall.com/card/woe/82/beseech-the-mirror)可以選擇施放試作的非瑞克西亞噬生亞龍，因為這裡唯一的替代性費用是懇求魔鏡的免費施放能力。
 

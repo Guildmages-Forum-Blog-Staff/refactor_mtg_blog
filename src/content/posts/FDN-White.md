@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "FDN"
 
-cover: "https://i.meee.com.tw/55Sz5nO.png"
-thumbnail: "https://i.meee.com.tw/55Sz5nO.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-White/ffd2d85d03dd-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-White/ffd2d85d03dd-cover.jpg"
 excerpt: "有天使有貓貓，還會補血，適合守序善良、兼顧攻防的玩家"
 
 ---

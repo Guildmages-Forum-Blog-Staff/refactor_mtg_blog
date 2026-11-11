@@ -19,7 +19,7 @@ authors:
 
 廢話不多說，馬上進入介紹環節，照慣例卡表先附上：[牌表連結](https://www.mtggoldfish.com/deck/6207774#paper)
 
-![](https://i.postimg.cc/x980XX6Q/Niv-to-Light-2.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Niv-to-Light/de6489be63d5.webp)
 
 ## 卡組運作方式
 
@@ -43,7 +43,7 @@ authors:
 
 另外想一提的是規則上[得見天光](https://scryfall.com/card/2x2/188/bring-to-light)與模式雙面牌的互動，可能玩家們最常看到的就是用[得見天光](https://scryfall.com/card/2x2/188/bring-to-light)施放[謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back)並叫出背面7費旅法師的操作了。
 
-![](https://i.postimg.cc/cCTCYdX8/Valki.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Niv-to-Light/6775755c3d23.webp)
 
 你可能會想問，[得見天光](https://scryfall.com/card/2x2/188/bring-to-light)不是會因為最多只能支付五個顏色，而只能施放五費的牌嗎??
 這邊就要講到[得見天光](https://scryfall.com/card/2x2/188/bring-to-light)處理時，規則上會用到的機制和順序了。

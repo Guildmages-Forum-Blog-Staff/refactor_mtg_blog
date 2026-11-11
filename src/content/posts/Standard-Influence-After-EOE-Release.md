@@ -2,8 +2,8 @@
 
 title: "關於虛空邊域（EOE）發售後標準輪替的二三事"
 date: "2025-07-17 17:13:03"
-cover: "https://i.meee.com.tw/4xXTPGS.jpg"
-thumbnail: "https://i.meee.com.tw/4xXTPGS.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/7776fea73619-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/7776fea73619-cover.jpg"
 excerpt: "輪替是什麼？可以吃嗎？"
 authors:
   - "cephille"
@@ -24,15 +24,15 @@ categories:
 4. [邪軍壓境（March of the Machine, MOM）](https://scryfall.com/sets/mom)
 5. [邪軍壓境：終戰回響（March of the Machine: The Aftermath, MAT）](https://scryfall.com/sets/mat)
 
-![退標系列](https://i.meee.com.tw/frdUElp.png)
+![退標系列](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/5bb9c35b2754.webp)
 
 > 給新玩家的溫馨小提醒：想要確認系列代碼的話，可以參考下圖，在牌張的左下方，數字編號正下方，會有三碼的大寫英文字，對應的就是其系列代碼。想了解更多MTG必備知識的話，歡迎查閱這篇：[MTG 新手入坑指南](https://guildmagesforum.tw/Beginners-Guide/)
 
-![系列代碼](https://i.meee.com.tw/rQcXuDH.png)
+![系列代碼](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/5509968e631d.webp)
 
 ## 標準賽制的禁牌
 
-![禁牌](https://i.meee.com.tw/9Vq0CfA.png)
+![禁牌](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/da031a4a741d.webp)
 
 在[2025年6月30日的禁限牌公告](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025)中，上圖這7張牌在標準賽制中被禁用。禁牌通常是發生在某張、或某幾張單卡，以及圍繞著該單卡構築的某些套牌，在特定的賽制中佔比過高，而且讓賽制變得不健康，壓縮了其他有潛力但強度有落差的套牌的生存空間。這種時候，官方就會透過例行性、甚至緊急性的禁牌公告，來將造成此狀況的單卡禁用掉。
 
@@ -48,17 +48,17 @@ categories:
 
 #### 那些將要離開我們的老朋友們
 
-![痛地](https://i.meee.com.tw/RTlid6u.png)
+![痛地](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/b8e4e6c8301f.webp)
 <p class="text-center"><a class="small">10張痛地，即產雙色魔法力時會對你造成1點傷害的地牌</a></p>
 
-![快地](https://i.meee.com.tw/CNZAj1K.png)
+![快地](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/3fc9f67224ef.webp)
 <p class="text-center"><a class="small">5張鄰色快地，即做為第三塊地進場可直接產出雙色魔法力，但第四塊地之後就必須躺著進場的地牌</a></p>
 
 5張鄰色快地、10張雙色痛地都將在輪替後離開我們，這對於需要前期穩定展開的快攻、與中速套牌都將會有不小的影響 （控制狂喜！？
 
 #### 但EOE重印了5張電震地！
 
-![](https://i.meee.com.tw/6x6hTY6.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/cc4992408b8c.webp)
 <p class="text-center"><a class="small">5張電震地，即進場可選擇是否支付2點生命為代價（類似被燒了一發電震），可進場可直接產出雙色魔法力地牌</a></p>
 
 不得不說，輪替後先被印出強大調色地牌的色組，都將會是新標準贏在起跑點的領頭羊。就類似線上遊戲的buff效果，這五個色組就是獲得法術力順利拓展buff的Tier 1。而還沒有印（也許之後的系列會印，不曉得）的另外五個色組，將受到一定程度的壓抑，除非有石破天驚的單卡、主題被開發出來，不然調色落後的劣勢在構築套牌上會是相當顯著的。
@@ -75,7 +75,7 @@ categories:
 
 #### 優質的一二費去除不再，尤其是Cut Down
 
-![](https://i.meee.com.tw/Ut3PnQB.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/c58e1221f002.webp)
 
 即使有無法殺神器生物的限制， {% mtglink "Go for the Throat" %} 仍是標準環境中射程最廣的二費去除、而 {% mtglink "Anoint with Affliction" %} 則是針對特定套牌最可靠的備牌去除，甚至在正編搭配使用也不奇怪。在輪替後，雖然環境內仍有 {% mtglink "Shoot the Sheriff" %} 、 {% mtglink "Bitter Triumph" %} 、以及 {% mtglink "Long Goodbye" %} 等二費帶限制或副作用的殺牌；如果不想要副作用的話，BLB的 {% mtglink "Feed the Cycle" %} 也可作為備援計畫。
 
@@ -85,7 +85,7 @@ categories:
 
 此外，四費的 {% mtglink "Sheoldred, the Apocalypse" %} 、以及 {% mtglink "Archfiend of the Dross" %} 基本上霸佔了黑色套牌四費曲線的位置，這個狀況也將隨著輪替而發生變化。現在正是復權的時刻！
 
-![](https://i.meee.com.tw/NI3lhno.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/6cedaeb6124a.webp)
 
 以上最主要的影響，仍是Cut Down的離去，黑底中速套牌是否能在輪替後的新標準維持高競爭力、與快速應變能力，將取決於未來是否有如同Cut Down這樣強力的一費去除被印出。
 
@@ -110,7 +110,7 @@ categories:
 
 #### 整修充能＆厄芳拉的驅散
 
-![全知](https://i.meee.com.tw/RNERgG1.png)
+![全知](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/2ce992b2c6c6.webp)
 
 {% mtglink "Repair and Recharge" %} 是在 {% mtglink "Abuelo's Awakening" %} 被禁後最高效的替代品，連它也不見以後，想要挖 {% mtglink "Omniscience" %} 的難度就更高了，剩下的挖墳咒語不是費用更高，就是指定色更雜， {% mtglink "Builder's Talent" %} 的LV3雖然也是5費挖墳，但升級的過程需要額外費用，整體運作效率遠不如{% mtglink "Repair and Recharge" %} 。
 
@@ -122,31 +122,31 @@ categories:
 
 #### 領土主題
 
-![領土](https://i.meee.com.tw/EGtzFfe.png)
+![領土](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/eea767f50346.webp)
 
 雖然 {% mtglink "Up the Beanstalk" %} 被禁了，但也只是把這副套牌從資源過剩拉到一個相對fair的狀況；但隨著核心單卡 {% mtglink "Zur, Eternal Schemer" %} 的離去，轉型為DSK Overlords型的加速套牌應該是一個暫時的選項，而FIN補上的 {% mtglink "Yuna, Hope of Spira" %} 以及一干傳記生物們，結界基底的Ramp套牌後勢仍大有可為。
 
 #### 紅白召集
 
-![召集](https://i.meee.com.tw/aDHTKlq.png)
+![召集](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/b8b61897bf2f.webp)
 
 紅白召集中的關鍵單卡 {% mtglink "Gleeful Demolition" %} 與 {% mtglink "Knight-Errant of Eos" %} 都將一起輪替。套牌在失去了爆發力與續戰力的雙重打擊下，輪替後套牌會需要轉型。
 
 #### 下毒、中毒指示物主題
 
-![下毒](https://i.meee.com.tw/FZRJj1m.png)
+![下毒](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/6e5dab70dc06.webp)
 
 因ONE而起，也將因ONE輪替而去。再見了，被 {% mtglink "Venerated Rotpriest" %} 隔空毒死的噩夢。
 
 #### 傳奇主題
 
-![傳奇](https://i.meee.com.tw/e1doTcN.png)
+![傳奇](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/b8af19d2ec37.webp)
 
 由於核心單卡都是在本次退標的系列中，輪替後此主題基本上會消失。
 
 ### 5. 強力的剋色備牌
 
-![MOM剋色牌](https://i.meee.com.tw/7boqyuT.png)
+![MOM剋色牌](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/7eec8bb9f802.webp)
 
 這些優質的備牌將離我們而去，但江山代有人才出，總有其他新牌將進入玩家的備牌軍火庫的！
 
@@ -192,4 +192,4 @@ categories:
 
 > 編按：對於FDN不了解的新玩家，歡迎閱讀：[論 Foundation 基石構築對標準賽制的衝擊](https://guildmagesforum.tw/Standard-Crushing-by-FDN/)
 
-![](https://i.meee.com.tw/ociliQ0.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/dbe6962ee4d1.webp)

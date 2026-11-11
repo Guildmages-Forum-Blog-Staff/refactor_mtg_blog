@@ -2,8 +2,8 @@
 
 title: "一時失志不免怨嘆，愛拚才會提冠軍 — MIT第十輪回顧"
 date: "2025-11-17 09:16:17"
-cover: "https://i.meee.com.tw/01yluV4.jpg"
-thumbnail: "https://i.meee.com.tw/01yluV4.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/3776c43b7ab6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/3776c43b7ab6-cover.jpg"
 excerpt: "人生可比是海上的波浪，有時起有時落落落落。來看曾經在MIT八強摔了四次的男人如何克服心魔拿冠軍。"
 authors:
   - "Sekun"
@@ -37,11 +37,11 @@ categories:
 
 可惜在MIT賽前還沒有演化到可以無腦抄牌的階段，稍微分析一下PT EOE的牌表，就會發現連專業玩家也尚未找到最佳的套牌組成。進入最多人視線的是第一天全勝的Shuhei Nakamura中村修平，日本團隊組的Affinity亮點在帶了 {% mtglink "Weapons Manufacturing" %} 加上 {% mtglink "Claws of Gix" %} 的組合，在直播桌上表現不俗，可惜中村輸了兩次win-in沒進八強。這套牌也是賽後最多人抄來打的，兩週內在MO挑戰賽不斷有相同的75張list打進八強。
 
-![Nakamura Shuhei](https://i.meee.com.tw/Kknm5YH.jpg)
+![Nakamura Shuhei](https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/0cfc297e69ea.webp)
 
 但再仔細看PT EOE構築的牌表，有另外一種組成的Affinity也表現很好。Alex Friedrichsen跟David Inglis的Team Handshake帶了滿編的 {% mtglink "Springleaf Drum" %} 、 {% mtglink "Memnite" %} 、 {% mtglink "Ornithopter" %} 並且把 {% mtglink "Metallic Rebuke" %} 移動到備牌，追求天胡起手的最大化。
 
-![Team Handshake](https://i.meee.com.tw/4msgPbT.jpg)
+![Team Handshake](https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/f02c339532c8.webp)
 
 光用看的實在無法確認哪種牌型較佳，但可以找出幾個構築細節的不同。
 零費神器的數量：含 {% mtglink "Engineered Explosives" alt="EE" %} 跟 {% mtglink "Mox Opal" %} ，日本只放18張，Handshake放到22張。
@@ -55,7 +55,7 @@ Payoff的數量：日本多兩張 {% mtglink "Weapons Manufacturing" %} 。
 
 後來找到了Team Handshake寫的primer（[連結](https://moxfield.com/decks/W88OoM08rkuD2BLs5HODDQ/primer)），比較清楚換備牌的邏輯。最後調整出參賽的型態就是從Handshake的組法出發，把影響力低的 {% mtglink "Springleaf Drum" %} / {% mtglink "Memnite" %} / {% mtglink "Ornithopter" %} 減少，加入 {% mtglink "Weapons Manufacturing" %} 的套組，備牌帶上 {% mtglink "Ashiok, Dream Render" %} 給泰坦一點尊重。確定套牌組成時已經是週五晚上，只能勉強再打一個League。賽前總共打了九場MO League，勝率是差強人意的55.5%，實在沒有太大信心。
 
-![](https://i.meee.com.tw/QS3PL3T.jpg)
+![](https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/65e997cb0d5f.webp)
 [碩恩的MIT10的伊捷共鳴牌表連結](https://melee.gg/Decklist/View/1bf507d1-ced1-4381-b7bc-b37a0068852f)
 
 ## 賽事經過
@@ -100,7 +100,7 @@ G2對手調度二後有5/5 {% mtglink "Territorial Kavu" alt="卡甫" %} ，我�
 #### R7 約和
 約和後到地下室吃mos填飽肚子，回到會場後排名公布，我五勝二和17分排第六。有了多次前車之鑑後，這次進八強我自己沒有特別亢奮跟緊張，也做好再摔一次的心理準備。還有幾位朋友記得我上次說過不要來立flag，感謝他們沒有來提早恭喜我。
 
-![](https://i.meee.com.tw/PNrrthT.jpg)
+![](https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/c014585d8ac0.webp)
 
 #### 半準決賽 藍噴火炮 薛書宇 WW
 PT剛結束時MO上相當流行的套牌，金針墓穴都可以有效干擾對手，備牌也有足夠的康牌應對，是偏有利的對局。G1後手第一回下克撒傳確保對手的第四回合我場上有金針保命，對面則是三回 {% mtglink "Tameshi, Reality Architect" alt="Tameshi" %} 四回suspend出 {% mtglink "Lotus Bloom" alt="蓮花" %} ，在第一張蓮花被我墓穴放逐後馬上用 {% mtglink "Fallaji Archaeologist" %} 磨到第二張蓮花挖回場上，在我大感不妙時幸好對面結束回合，顯然是還沒有找到回 {% mtglink "Goblin Charbelcher" alt="噴火炮" %} ，我保留三點法力捏著一張Sink做保險，靠長不大的Kappa慢慢推了三回合獲勝。G2對面沒有起手蓮花，我等對面用了一個康後拍出Kappa，手上捏著 {% mtglink "Consign to Memory" %} ，很安全地獲勝。對手投降的時候，我忍不住大喊我終於贏了。
@@ -112,7 +112,7 @@ PT剛結束時MO上相當流行的套牌，金針墓穴都可以有效干擾對�
 #### 決賽 Goryo 菜鳥 WW
 G1 先手調度一後接了有兩張地牌、泡泡、春葉鼓、Pinnacle Emissary、Kappa Cannoneer的起手，下地空過後菜鳥 {% mtglink "Thoughtseize" %} 選擇棄掉Pinnacle Emissary，換我二回自摸Weapons Manufacturing，補足神器數量，雖然吃了亞崔夏一拳，但也做出一隻12/12Kappa反打，在Kappa被Solitude解掉後，我自摸出Claws of Gix把Munitions Token吃掉獲勝。G2雖然先被Thoughtseize干擾，但還做得出Thoughtcast補充手牌，加上有克撒傳生出Construct Token還拉出金針鎖青蛙，算好法力拍出Kappa的回合還能留三費作手上最後一張Sink，剛好阻止了菜鳥下回合的 {% mtglink "Wrath of the Skies" %} ，讓我收下這輪MIT的冠軍。
 
-![](https://i.meee.com.tw/BP1GoMX.jpg)
+![](https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/2626608e53f9.webp)
 
 ## 心得檢討
 其實本次開賽前我不像過去有很高的期待，根本沒有預料到自己能拿冠軍。或許是拿到[艾利絲特卡](https://scryfall.com/card/ppro/2025-3/aerith-gainsborough)已經賺了，也可能是已經失敗過夠多次，我整天都處在平常心的狀態。只能說當天運氣實在非常順，套牌很幫忙，出現幾次關鍵的topdeck，也不曾調度到剩五；配對上算有利，對手都沒有開上限；偶爾有失誤，除了第一局外都沒有影響到對局結果。拿到冠軍的那一刻蠻開心，但也比自己預想的還要平靜，反而是贏下八強戰突破魔咒的當下我心情更加興奮。

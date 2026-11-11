@@ -6,8 +6,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/rdBnyEE.png"
-thumbnail: "https://i.meee.com.tw/rdBnyEE.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/c8af378f7e67-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/c8af378f7e67-cover.jpg"
 excerpt: "FDN 終於在這周正式發售啦！快來看看在賽季第一周就拿到資格的領土 Ramp 的構築吧！"
 ---
 ## 前言
@@ -17,7 +17,7 @@ excerpt: "FDN 終於在這周正式發售啦！快來看看在賽季第一周就
 那至於我呢，距離上次寫文章已經有好一陣子了，於時間有限加上沒有打出什麼成績來，所以遲遲沒有機會撰寫新的文章。而這次在 FDN 正式上市後，我透過使用領土 Ramp 迅速在賽季第一周取得了 MITQ 資格，覺得這是個不錯的時機，於是想分享一下這副「五個顏色的牌組」。
 
 按照慣例這邊先附上[牌表](https://www.mtggoldfish.com/deck/6750900#paper):
-![](https://i.imgur.com/s4y8X2i.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/07ee51b0c2e0.webp)
 
 順便附上本次戰績作參考:
 R1 2-0 黑綠中速(先) OO
@@ -71,7 +71,7 @@ R5 ID
 
 1. 生物
 
-![](https://i.imgur.com/kCIX5ml.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/65e887f03ec5.webp)
 
 這兩張牌我相信大家應該都不陌生。
 
@@ -79,7 +79,7 @@ R5 ID
 
 {% mtglink "Beza, the Bounding Spring" %}， 4 費進場有立即性效果，可以把劣勢翻盤的強牌，但相反的，優勢時它沒辦法帶給你太多東西，在備牌局它會比較強勢一點，但由於它本身就夠強，我願意把一個大天使的正編卡位貢獻給它。
 
-![](https://i.meee.com.tw/Qymkmho.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/96f0c5440716.webp)
 {% mtglink "Overlord of the hauntwoods" %} 算是上一彈 DSK 給這套牌最大的強化之一了吧，在退環境後失去了原本的跳費手段，綠霸主的推出成了 Domain 的救命稻草，說實在我覺得有點太強。三費跳一塊地給你就算了，還是一塊具備所有基本地類別的地直接解鎖地脈束縛的最大減費條件、甚至能當成生物進行攻擊，各種意義上它都有點太過於強勢，基本上必投入 4 。
 
 {% mtglink "Overlord of the mistmoors" %} 算是可動卡位之一，在面對藍黑體系的中速時，產出兩個飛行生物 token 的能力很優秀，而在面對其餘鋪場 deck 和一些控制 deck ，這項能力則是備用來製造阻擋者拖時間或是加快 clock ，但由於我們的套牌主要還是想以活下來為主，因此這種比較進攻系的單卡我不會投入太多。
@@ -105,7 +105,7 @@ R5 ID
     
 2. 非生物
 
-![](https://i.imgur.com/baCmynB.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/77abbebb506e.webp)
 
 {% mtglink "Get Lost" %} 基本上會是首選的去除，範圍夠廣、副作用小、費用低，很契合我們想要的前期法力曲線，但這個小小的副作用(給對手兩個 map token )可能會害我們被多餘的力量打死，所以後來我選擇少帶一張，多帶一張爪衛列陣。
 
@@ -113,7 +113,7 @@ R5 ID
 
 {% mtglink "leyline binding" %} 現在沒有以前那麼強了，環境內現在可用的基本地類別雙色地只有刺探地、基本上一定要三費才可以用，大多時候都滿需要綠霸主的輔助，而且現在拆結界非常多，它變得不再那麼強大，但由於它具備可以解所有非地永久物的特性，我們基本上還是需要放滿，但視情況而定我會下掉一兩張。
 
-![](https://i.imgur.com/aNC8IAc.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/b63db6e124e6.webp)
 
 {% mtglink "Sunfall" %} 不解釋，中速殺手、極強掃台，但有跟內部討論過，覺得有些狀況下可能需要快一點進行掃場動作，因此投入一張 {% mtglink "day of judgment" %} 替代掉烈日墮威的卡位，有機會避免過早掉入對手斬殺線或是死亡。
 

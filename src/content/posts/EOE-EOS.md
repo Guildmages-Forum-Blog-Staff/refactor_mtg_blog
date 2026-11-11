@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/qzfaG02.png"
-thumbnail: "https://i.meee.com.tw/qzfaG02.png"
+cover: "https://images.guildmagesforum.tw/posts/EOE-EOS/443dfb2d2051-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-EOS/443dfb2d2051-cover.jpg"
 excerpt: "太空系列為我們帶來了各式星球圖樣的功能地，一起探索吧！"
 
 ---

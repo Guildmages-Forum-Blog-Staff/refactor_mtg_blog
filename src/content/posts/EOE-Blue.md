@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/vqDFexw.jpg"
-thumbnail: "https://i.meee.com.tw/vqDFexw.jpg"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Blue/c16b278c3837-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Blue/c16b278c3837-cover.jpg"
 excerpt: "宇宙是個透藍的瓶子，則你的夢是花，我的遐想是葉…… 我們並比著出雲，人間不復仰及，則彩虹是垂落的菀蔓，銀河是遺下枝子……"
 
 ---

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/88OWXrw.png"
-thumbnail: "https://i.meee.com.tw/88OWXrw.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Multicolors/8b1df6a1bc4c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Multicolors/8b1df6a1bc4c-cover.jpg"
 excerpt: "蛛絲甩蕩蕩蕩down……咦？為什麼我的蜘蛛人叫不下來？啊！我的生物還沒橫置！"
 ---
 
@@ -21,13 +21,13 @@ excerpt: "蛛絲甩蕩蕩蕩down……咦？為什麼我的蜘蛛人叫不下來
 
 ## 色組主題
 
-![](https://i.meee.com.tw/j7Il6rV.webp)
+![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/c4da3f6306eb.webp)
 
 與過往的限制賽不太一樣，本次SPM限制賽的輪抽主題，縮減至只有5鄰色有主題，另外5個對色是沒有主題的。也因此，我們在評估對色牌在限制賽中的表現時，都會稍做調整；當然，如 {% mtglink "The Spot, Living Portal" %} 這樣的強牌仍是值得為其混色的。
 
 ### <span style="color:#C3B270">白</span><span style="color:#006DB3">藍</span> — 飾裝（Modified）
 
-![](https://i.meee.com.tw/aj3XOU7.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/6c7de325e1d9.webp)
 
 飾裝主題關注著這三個重點：
 - 生物放+1/+1指示物
@@ -38,14 +38,14 @@ excerpt: "蛛絲甩蕩蕩蕩down……咦？為什麼我的蜘蛛人叫不下來
 
 ### <span style="color:#006DB3">藍</span><span style="color:#808080">黑</span> — Vallain籌謀（Vallain Connive）
 
-![](https://i.meee.com.tw/RvNBqKu.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/a88fbac1032e.webp)
 
 籌謀需要有目標生物才能進行，不論是 {% mtglink "Mob Lookout" %} 、或 {% mtglink "Prowler, Clawed Thief" %} ，他們都能一次性、或多次的觸發籌謀，而抽一棄一棄掉的牌，除了與接下來黑紅色組的瘋亂機制有搭配外，像是 {% mtglink "Morbius the Living Vampire" %} 這樣在墳場有額外效果的牌，我們也可以依對局情況決定要不要大膽地棄掉他們，並在後續回合榨乾他們的價值XD 當然，棄牌同時也能加速累積墳場數量，部分Vallain如 {% mtglink "Doc Ock, Sinister Scientist" %} 這樣的牌也能因此受益。
 
 
 ### <span style="color:#808080">黑</span><span style="color:#AF2321">紅</span> — 瘋亂（Mayhem）
 
-![](https://i.meee.com.tw/i7HwiYW.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/3dbafddb215b.webp)
 
 黑紅的新機制瘋亂，高度依賴棄牌作為起動點，因此黑紅混血C卡給的是一張巫術 {% mtglink "Pumpkin Bombardment" %} 你可以單純支付3費、也可以棄牌做為額外代價僅用1費施放；而如果棄掉的牌正好就是 {% mtglink "Scarlet Spider, Kaine" %} 那你還可以支付瘋亂費用在稍後從墳場施放他。而另一張 {% mtglink "Green Goblin, Revenant" %} 除了作為棄牌源外，還有機會讓你換回更多手牌來讓你的雪球繼續滾下去。
 
@@ -53,13 +53,13 @@ excerpt: "蛛絲甩蕩蕩蕩down……咦？為什麼我的蜘蛛人叫不下來
 
 ### <span style="color:#AF2321">紅</span><span style="color:#4A8A3D">綠</span> — 大費咒語（Large Spell）
 
-![](https://i.meee.com.tw/CPXhLhk.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/057cc2864bfc.webp)
 
 這邊說的是四費或更高費用的咒語（有沒有覺得跟[FIN的紅藍機制](https://guildmagesforum.tw/FIN-Multicolors/#%E8%97%8D%E7%B4%85-%E2%80%94-%E5%9B%9B%E8%B2%BB%E6%88%96%E4%BB%A5%E4%B8%8A%E9%9D%9E%E7%94%9F%E7%89%A9%E5%92%92%E8%AA%9E%EF%BC%88Big-Noncreatures%EF%BC%89)很像呢？）。那既然重點在大費咒語，那加速人自然是少不了的，紅綠混血的C卡 {% mtglink "Spider Manifestation" %} 是這個色組重要的小幫手。而U卡的 {% mtglink "Kraven, Proud Predator" %} 則能吃到大費咒語的紅利來讓攻擊力增強。另一張U卡 {% mtglink "Rhino, Barreling Brute" %} 則是本色組中稱職的終結者。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#C3B270">白</span> — 蛛絲甩蕩（Web-Slinging）
 
-![](https://i.meee.com.tw/BqAggRc.jpg)
+![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/b7eeb619561b.webp)
 
 在綠白色組中，新的蛛絲甩蕩機制是一個相當具有此色組風味的新玩法。而要運作得起來，你需要這幾項組件的搭配：
 

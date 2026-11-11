@@ -2,8 +2,8 @@
 title: "十會碎盟：標準至尊再起"
 date: "2024-02-26 13:05:49"
 excerpt: "既然回到拉尼卡，那就是現世十會盟的回合了！"
-cover: "https://i.imgur.com/EyPlJ9j.png"
-thumbnail: "https://i.imgur.com/EyPlJ9j.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/7b3a232a8cc0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/7b3a232a8cc0-cover.jpg"
 categories:
   - "Construct"
   - "Standard"
@@ -17,7 +17,7 @@ authors:
 
 ## 單卡解析
 
-![](https://i.imgur.com/gytyjkO.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/fc9fa3edcf08.webp)
 [至尊尼米捷](https://cards.scryfall.io/large/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg)
 
 > 飛行，反單色辟邪
@@ -26,21 +26,21 @@ authors:
 作為拉尼卡的現世十會盟與伊捷聯盟的元祖，[至尊尼米捷](https://cards.scryfall.io/large/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg)為墳場中所有公會色組的瞬間巫術牌加上再起異能，不僅沒有[翻湧神信徒列爾](https://cards.scryfall.io/large/front/e/8/e874b439-f964-41a5-9b70-e90509cfee27.jpg?1646258539)的咒語不能被反擊debuff，本體還是5/5飛行反單色辟邪的強力終結者，在當前的賽場環境中幾乎迴避了跳船跟掃場以外的所有去除手段。套牌構築如下：
 
 [套牌列表](https://www.mtggoldfish.com/deck/6205479#paper)
-![](https://i.imgur.com/uYyzy10.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/7ba197a26429.webp)
 
 為了與[至尊尼米捷](https://cards.scryfall.io/large/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg)的搭配，我們在新系列獲得了潔思凱色組三連星－[閃電螺旋](https://cards.scryfall.io/large/front/4/1/4101e3fe-b0e7-4f0f-b9ac-9b61a4d628b3.jpg)、[終結謊言](https://cards.scryfall.io/large/front/1/e/1e0c695d-62f9-4805-9e2f-7032e8464136.jpg)與[厄時爆炸](https://cards.scryfall.io/large/front/0/b/0b5cdb01-eaa4-4a0a-b42a-332bcf4d6fff.jpg)，同時顧到短解、反擊、補血、抽牌與掃場。[閃電螺旋](https://cards.scryfall.io/large/front/4/1/4101e3fe-b0e7-4f0f-b9ac-9b61a4d628b3.jpg)牌子老效果好，不僅可以提高前期生存率，後期還可利用再起給予對手致命一擊。[終結謊言](https://cards.scryfall.io/large/front/1/e/1e0c695d-62f9-4805-9e2f-7032e8464136.jpg)是新世代的[魔力流失](https://cards.scryfall.io/large/front/7/c/7c257108-d0eb-45ee-99d9-d1cfec8c8517.jpg)，額外附帶放逐在面對有墳場利用能力的對手時有機會發揮奇效。[厄時爆炸](https://cards.scryfall.io/large/front/0/b/0b5cdb01-eaa4-4a0a-b42a-332bcf4d6fff.jpg)除了如同異能字面上可以當作掃場使用外，也能選擇不棄牌當作[卜卦](https://cards.scryfall.io/large/front/7/4/746a5919-637a-4fbd-8327-c37871e33f22.jpg)使用，對到沒有掃場需求的對局也不會成為死牌。
 
-![](https://i.imgur.com/XrMDb8s.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/fc983f423623.webp)
 
 在現行標準要走五色，領土路線絕對是最佳選擇，[地脈束縛](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg)與[獸群遷徙](https://cards.scryfall.io/large/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg)分別補強去除與調色補血的能力，但是[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)不是這副控制套牌所需要的，所以筆者替換成可以和[至尊尼米捷](https://cards.scryfall.io/large/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg)做搭配的[十會碎盟案](https://cards.scryfall.io/large/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.jpg)，前期調色不用擔心卡綠，後期可讓尼米捷直接升格成連擊警戒的鬼神。
 
-![](https://i.imgur.com/dDdH91t.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/1c8212aab831.webp)
 
 以上的搭配足夠嗎？就如同前面所提到的，[至尊尼米捷](https://cards.scryfall.io/large/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg)雖然不吃單色點殺，面對掃場或許還能靠[終結謊言](https://cards.scryfall.io/large/front/1/e/1e0c695d-62f9-4805-9e2f-7032e8464136.jpg)反擊處理，遇上跳船就相當脆弱。所以在五費終結者的位置上筆者做了一些混搭，加入[碑出告與開璃](https://cards.scryfall.io/large/front/8/1/81039daf-0d54-4474-a833-fa287ec10cf9.jpg)、[朱高與歐祝泰](https://cards.scryfall.io/large/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg)兩個龍族好夥伴，[碑出告與開璃](https://cards.scryfall.io/large/front/8/1/81039daf-0d54-4474-a833-fa287ec10cf9.jpg)只要進場就能靠[腦力激盪](https://cards.scryfall.io/large/front/5/6/56ae04a0-2402-4f48-bcb5-3cd89faab07a.jpg)補充一張手牌，對手要用黑色去除處理還得賭賭看你的牌庫頂不是[獸群遷徙](https://cards.scryfall.io/large/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg)之類的大招。至於[朱高與歐祝泰](https://cards.scryfall.io/large/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg)請參見[前文](https://guildmagesforum.tw/Standard-5C-Sunbird-Ojutai/)，另外再搭配一張[進軍拉尼卡](https://scryfall.com/card/mom/1/invasion-of-ravnica-guildpact-paragon)
 作為額外的去除與資源機。
 
-![](https://i.imgur.com/3zAAZRR.png)
-![](https://i.imgur.com/4noBwFk.png)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/d1c9ca11f7a1.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/2599c0c99eb3.webp)
 
 最後再為以上架構做個輔助搭配－[推出/拉回](https://cards.scryfall.io/large/front/8/5/85835473-b9b6-4f4a-bb93-fef93d5ec57b.jpg)與[緊急剖檢](https://cards.scryfall.io/large/front/d/2/d2ac346a-fc46-4023-aa60-4d55170697dc.jpg)。[推出/拉回](https://cards.scryfall.io/large/front/8/5/85835473-b9b6-4f4a-bb93-fef93d5ec57b.jpg)主要使用拉回那面去回收進墳場的龍，可以跟[開璃](https://cards.scryfall.io/large/front/8/1/81039daf-0d54-4474-a833-fa287ec10cf9.jpg)與[歐祝泰](https://cards.scryfall.io/large/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg)做搭配，前者可以打完一拳後犧牲再賺一次[腦力激盪](https://cards.scryfall.io/large/front/5/6/56ae04a0-2402-4f48-bcb5-3cd89faab07a.jpg)與牌庫頂的招，後者可以讓龍回手迴避犧牲異能，只是要注意[推出/拉回](https://cards.scryfall.io/large/front/8/5/85835473-b9b6-4f4a-bb93-fef93d5ec57b.jpg)是三色牌，無法獲得再起能力。[緊急剖檢](https://cards.scryfall.io/large/front/d/2/d2ac346a-fc46-4023-aa60-4d55170697dc.jpg)是一換多的強力瞬間去除，但需要大費用的蒐證搭配，這點可以透過[獸群遷徙](https://cards.scryfall.io/large/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg)或[厄時爆炸](https://cards.scryfall.io/large/front/0/b/0b5cdb01-eaa4-4a0a-b42a-332bcf4d6fff.jpg)來滿足條件。
 

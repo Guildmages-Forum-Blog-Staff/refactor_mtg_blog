@@ -1,8 +1,8 @@
 ---
 title: "讓對手康不了的閃現套牌：純藍人魚"
 date: 2023-12-06 14:52:22
-cover: "https://i.imgur.com/qL4J3xX.jpg"
-thumbnail: "https://i.imgur.com/qL4J3xX.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/f23e1a3a116b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/f23e1a3a116b-cover.jpg"
 excerpt: "近代種族套牌的中流砥柱"
 categories:
   - "Construct"
@@ -17,7 +17,7 @@ authors:
 所謂中流砥柱，即雖無法稱霸賽場但長年穩居Meta且仍擁有一定的戰績與表現，甚至對於環境中某些一線套牌有明顯的優勢。在近代環境中高效率去除大量存在的今天，能有機會上戰場較勁的種族套牌，多半得有額外的勝利條件。
 首先列舉一個比較典型的構築做為[範例牌表](https://www.mtggoldfish.com/deck/6008329)，其他變化或調整詳見下文。
 
-![範例牌表](https://i.imgur.com/E5MordX.jpg)
+![範例牌表](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/a042a537f267.webp)
 
 種族套牌不再能單純依靠領主的加成走傳統生物快攻的路線。例如妖精的勝利策略是快速鋪場，並用[徵召軍伍](https://cards.scryfall.io/large/front/c/f/cfa7b456-7e83-4587-a875-9b35fde318c2.jpg?1582117536)或[和聲召集](https://cards.scryfall.io/large/front/d/a/dac257a9-39bf-4185-9d2e-f80f0848a96a.jpg?1599707002)找出[獵群祭師](https://cards.scryfall.io/large/front/d/a/da9705e2-40e5-4ec9-8aef-2eab28d5a66f.jpg?1631235549)造成海量傷害。鬼怪套牌則是利用[鬼怪女舍監](https://cards.scryfall.io/large/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861)使套牌具備工具箱的特性，再用[裂鏡奇奇幾奇](https://cards.scryfall.io/large/front/1/6/162018eb-5483-4fa2-9c5a-abb639eecf91.jpg?1562757915)、[擲彈指戰官](https://cards.scryfall.io/large/front/f/8/f82aec21-441b-4fcd-b666-61723bd79531.jpg?1615475075)與[張揚嗅探客](https://cards.scryfall.io/large/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.jpg?1616182104)做出無限組合技、或利用鬼怪通常都會有的戰士屬性往武具的路線走。人類套牌就是利用大量煩死人的干擾手段如 [艾斯波哨衛](https://cards.scryfall.io/large/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1626093502)、[瑟班守護者莎利雅](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106)、以及優異的進場異能壯大自己的陣容。
 
@@ -183,7 +183,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
   7. 找地是近代環境中調色、壓縮牌庫的重要手段，絕大多數非純色套牌都會放。回應反擊找地的起動式異能相當於消滅對手一塊地，而且會因此不能搜尋牌庫。
   8. [太古泰坦](https://cards.scryfall.io/large/front/f/e/feee9327-b937-46ba-a2aa-6c015ab6cdd5.jpg?1562482634)若是以[召喚師條約](https://cards.scryfall.io/large/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1619398774)找進場對手必須找齊足夠的地否則下一回合會因為條約的副作用而直接輸掉對局，因此能反擊它的進場異能對手幾乎可以直接投降。另一方面，對手想找出[剋星城塞](https://cards.scryfall.io/large/front/9/3/939a4351-3ec7-4e6c-8cdd-766bfd670391.jpg?1592709656)與[教團要塞陽園](https://cards.scryfall.io/normal/front/a/8/a8a69f7b-be68-43f7-b1ed-df528bde74e5.jpg?1598918439)這些可以一拳打死人的地時一旦被反擊也是幾乎可以宣告投降。
   9. [芮恩與六樹妖](https://cards.scryfall.io/normal/front/4/a/4a706ecf-3277-40e3-871c-4ba4ead16e20.jpg?1582053605)，起動忠誠異能可以打一點的傷害會讓許多人魚暴露在戰鬥危險中。此外，將其變成白板不能再從墳場找地之後對於特定套牌來說相當於資源直接斷掉。
-  10. [阿加莎的靈魂鼎鑊](https://hackmd.io/_uploads/HkkWp_HHT.png)，鱗甲套牌與黑綠醫生的新寵。若能成功反擊使其變成廢鐵則可以大幅削弱套牌的強度。也可以直接廢掉關鍵的組合技。
+  10. [阿加莎的靈魂鼎鑊](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/20b8af3a9657.webp)，鱗甲套牌與黑綠醫生的新寵。若能成功反擊使其變成廢鐵則可以大幅削弱套牌的強度。也可以直接廢掉關鍵的組合技。
   11. 各類厲害的武具，若能回應佩帶異能則不僅讓對手佩帶失敗，只要縛潮師在場該武具便失去所有異能，可用來阻止如[蔽影矛](https://cards.scryfall.io/normal/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1581481207)等能夠翻轉局面的補血武具。
   12. [爬上豆莖](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184)是艾卓荒野（WOE）上市後肆虐近代的強力單卡。然而，它的結界類別不會在被縛潮師反擊後變成白板。故時機與價值有限。
       > 註：爬上豆莖已於2023/12/4被禁，預期人魚對4C Cascade與歐那斯套牌的對局態勢可因此而提升。
@@ -232,7 +232,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 總結而言，此牌相當優異，幾乎在任何時機都不會是一張死牌。
 
-![璃池擬態妖](https://i.imgur.com/vi0LeDc.jpg)
+![璃池擬態妖](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/ba7809183b4e.webp)
 
 **[璃池擬態妖](https://cards.scryfall.io/large/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976) // [璃池湖岸](https://cards.scryfall.io/large/back/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976)（2/ 4張）**
 
@@ -423,10 +423,10 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 [建渠者的意志](https://cards.scryfall.io/large/front/f/d/fd13d2c1-3db7-4fdc-9321-57c9d6e8c3ae.jpg?1562375911)、[美洛貿易](https://cards.scryfall.io/large/front/3/a/3ad0c3b4-fd24-44ad-8b30-4176f07be3d6.jpg?1562344905)、[蛾粉化形](https://cards.scryfall.io/large/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398)
 [厚顏借物靈](https://cards.scryfall.io/large/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1616182088)、[蔑咒獸](https://cards.scryfall.io/large/front/7/2/72204934-f5aa-4559-8f7e-7b0b223580d0.jpg?1674142724)、[無牌靈車](https://cards.scryfall.io/large/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1664414360)
 
-![1](https://i.imgur.com/SXftRIh.jpg)
-![2](https://i.imgur.com/BvPnVjy.jpg)
-![3](https://i.imgur.com/fYc2Kfc.jpg)
-![4](https://i.imgur.com/2578wCW.jpg)
+![1](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/b41371338097.webp)
+![2](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/70f889ed3d53.webp)
+![3](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/271b3cdaf0c6.webp)
+![4](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/13cbd81d7435.webp)
 
 ## 延伸構築
 
@@ -452,7 +452,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Rakdos Scam (Rakdos Evoke)**
 
-![紅黑呼魂](https://i.imgur.com/Bh5tL3a.jpg)
+![紅黑呼魂](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/fe39ae354e6d.webp)
 
 對局態勢：極劣勢
 你可能會需要：潮兆人魚、肢解、挖墳者囚籠、藍元素、嚴厲斥責、玻璃名手綺羅、提莎娜的縛潮師
@@ -476,7 +476,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Temur Rhinos (Crashing Footfalls)**
 
-![犀牛](https://i.imgur.com/Z8kSwGq.jpg)
+![犀牛](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/2c8cdf6bbdea.webp)
 
 對局態勢：小優
 你可能會需要: FON、虛空聖杯、潮兆人魚
@@ -492,7 +492,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Golgari Yawgmoth**
 
-![約格莫夫](https://i.imgur.com/VTgqFPZ.jpg)
+![約格莫夫](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/c564f3897e76.webp)
 
 對局態勢：極劣勢
 你可能會需要: 肢解、詛咒圖騰像、玻璃名手綺羅、挖墳者囚籠、否定之力
@@ -512,7 +512,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **4 Color Omnath**
 
-![4C](https://i.imgur.com/yeCs6SU.jpg)
+![4C](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/64b104b9c9f2.webp)
 
 對局態勢：平開
 你可能會需要: 肢解、藍元素、提莎娜的縛潮師
@@ -527,7 +527,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Izzet Murktide**
 
-![龍侯](https://i.imgur.com/TcOM7k1.jpg)
+![龍侯](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/bf9cbb4e0d72.webp)
 
 對局態勢：優開
 你可能會需要: 虛空聖杯、潮兆人魚、藍元素、其他放逐墳場的東西
@@ -541,7 +541,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Mono Black Coffer**
 
-![金庫](https://i.imgur.com/GHnaSdT.jpg)
+![金庫](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/41f9d126a42c.webp)
 
 對局態勢：平開/備牌局可能小劣
 你可能會需要: 海域蔓延、FON、1-2張肢解、提莎娜的縛潮師
@@ -558,7 +558,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Mono Green Tron**
 
-![Tron](https://i.imgur.com/6MX7Wyl.jpg)
+![Tron](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/93439bac45ea.webp)
 
 對局態勢：小優
 你可能會需要: 海域蔓延、FON、莎娜的縛潮師、1-2張藍元素
@@ -571,7 +571,7 @@ LTR對環境造成的改變目前仍持續作用，不過並不是本文要探�
 
 #### **Hammer Time**
 
-![巨槌](https://i.imgur.com/LhAklvA.jpg)
+![巨槌](https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/85b388f983c3.webp)
 
 對局態勢：平開 (先後手至關重要)
 你可能會需要: 虛空聖杯、提莎娜的縛潮師、人魚詐術師、河鼓的召喚、少量的肢解

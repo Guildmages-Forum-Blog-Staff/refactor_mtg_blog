@@ -7,8 +7,8 @@ categories:
   - "FRA"
 authors:
   - "Chennel"
-cover: "https://i.meee.com.tw/AHrFN4m.png"
-thumbnail: "https://i.meee.com.tw/AHrFN4m.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-White/004cc4c722b5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-White/004cc4c722b5-cover.jpg"
 excerpt: "白色是治癒和秩序，願世間萬物皆能獲得寧靜與平和。"
 ---
 

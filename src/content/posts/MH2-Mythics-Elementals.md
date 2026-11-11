@@ -1,8 +1,8 @@
 ---
 title: "五色元素傳：MH2五元素的發展簡評"
 date: "2023-12-11 14:00:58"
-cover: "https://i.imgur.com/8BIokGB.jpg"
-thumbnail: "https://i.imgur.com/8BIokGB.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/2dcbdae51fa5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/2dcbdae51fa5-cover.jpg"
 excerpt: "大江東去浪淘盡，千古風雲元素"
 categories:
   - "Others"
@@ -16,7 +16,7 @@ authors:
 在2019年6月14日發售的[Modern Horizons （MH1）](https://scryfall.com/sets/mh1?as=grid&order=set)系列中，MH1除了已被禁用的[醒轉古陵寢霍佳葛](https://cards.scryfall.io/large/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?16)外，目前賽場用量最大的牌還是[否認之力（Force of Negation, FON）](https://cards.scryfall.io/large/front/e/9/e9be371c-c688-44ad-ab71-bd4c9f242d58.jpg?1562201382)、以及[活旺之力（Force of Vigor, FOV）](https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072)這兩張康/拆神器結界；以及一己之力帶起一副新套牌黑綠醫生的[索藍醫師約格莫夫](https://cards.scryfall.io/large/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1665611812)。從五張OO之力的效果來看，都是較偏防守向的瞬間/閃現牌，而且只限於能在對手回合作替費施放（放逐一張同色牌而不需支付其魔法力值來施放），在自己回合是沒辦法這麼做的；而這個時期的替費效果僅是作為一種防守的策略使用，對實際賽場meta還沒有帶來太大的影響。
 然而到了2021年6月18日，[Modern Horizons 2 （MH2）](https://scryfall.com/sets/mh2?as=grid&order=set)發售，這個系列為MTG的近代甚至薪傳賽制帶來天翻地覆的改變。五張可主動替費施放的秘稀元素進入了我們的世界。而本文也會著重討論這五張元素的發展，對於其他MH2單卡則不會過多著墨。
 
-![五元素愚連者！參上！](https://i.imgur.com/DeoCZKd.jpg)
+![五元素愚連者！參上！](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/7042fb46f931.webp)
 
 ## 五元素對近代賽場的影響
 
@@ -51,15 +51,15 @@ authors:
 
 > 2023年12月6日擷取自mtggoldfish上的歷史價格資訊，僅參考實體牌，不計入MO上的tix變化。
 
-![綠元素歷史價位](https://i.imgur.com/Y8lBXKS.jpg)
+![綠元素歷史價位](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/404753afbaea.webp)
 
-![白元素歷史價位](https://i.imgur.com/5QLPKs7.jpg)
+![白元素歷史價位](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/ae0c9d7612f4.webp)
 
-![紅元素歷史價位](https://i.imgur.com/yEzVpGy.jpg)
+![紅元素歷史價位](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/7cf39ee97449.webp)
 
-![黑元素歷史價位](https://i.imgur.com/ZgZGLgZ.jpg)
+![黑元素歷史價位](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/06c459f70782.webp)
 
-![藍元素歷史價位](https://i.imgur.com/4LsaQaZ.jpg)
+![藍元素歷史價位](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/91264ef67f23.webp)
 
 最先開始展露頭角的是綠元素，作為各種墳場套牌針對的優秀備牌被廣泛的使用，而時至今日仍有非常大且穩定的用量。而白元素作為一個高效的去除，在當時還存在meta中的白藍控制被作為去除+終結者來使用；而在DMU發售帶來了射程範圍更廣的[地脈束縛](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500)後，更讓可以無痛使用這兩張白色高效解牌的4c套牌佔據了賽場前段好幾個賽季。
 
@@ -100,4 +100,4 @@ authors:
 > PT魔戒，紅黑scam，風光無匹。
 > 老威無信，怒火一朝啞火。
 
-![怒火已死，有事燒紙](https://i.imgur.com/lqsySr3.jpg)
+![怒火已死，有事燒紙](https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/6bab773fd414.webp)

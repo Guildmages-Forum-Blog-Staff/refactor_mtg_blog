@@ -13,7 +13,7 @@ excerpt: "來看看斑隆洛中出現了哪些機制吧！"
 
 ## 繁生（Offspring）
 
-![Offspring](https://i.postimg.cc/9CCK6KKj/Offspring.png)
+![Offspring](https://images.guildmagesforum.tw/posts/BLB-mechanism/b41094c8e2f6.webp)
 
 繁生是一個施放此生物咒語時可選的額外費用，如果你在施放這個生物時選擇額外支付繁生費用，那麼這個生物進場時就會跳出一個觸發式異能，派出一個自己的複製品Token，但基礎力量與防禦力改為1/1。（PS:以此法生出來的Token生物，也會複製本體的費用）
 
@@ -21,7 +21,7 @@ excerpt: "來看看斑隆洛中出現了哪些機制吧！"
 
 ## 禮贈（Gift）
 
-![Gift](https://i.postimg.cc/X3b8cBGQ/gift.png)
+![Gift](https://images.guildmagesforum.tw/posts/BLB-mechanism/9d29c0f18939.webp)
 
 禮贈也是一個施放咒語時可選的額外費用，如果在施放咒語時選擇支付禮贈費用，那麼你將選擇任一對手，並在這個咒語結算時給選定的對手對應的好處，這個咒語也會因為你支付了禮贈費用而產生相應變化。以[Wear Down](https://scryfall.com/card/blb/203/wear-down)為例，正常的施放的話就是消滅一個目標神器或結界，但如果你支付過禮贈費用，就可以消滅兩個目標神器或結界，而對手則會因為你選擇了禮贈而抽一張牌。
 
@@ -31,19 +31,19 @@ excerpt: "來看看斑隆洛中出現了哪些機制吧！"
 
 ## 英武（Valiant）
 
-![Valiant](https://i.postimg.cc/tqg8MMgz/Valiant.png)
+![Valiant](https://images.guildmagesforum.tw/posts/BLB-mechanism/6bbfd144aa4f.webp)
 
 每當擁有英武異能的生物每回合首度成為由你操控的咒語或異能的目標時，就會產生一個觸發式異能，至於觸發的異能為何則是看每個單卡各自效果。
 
 ## 覓糧（Forage）
 
-![Forage](https://i.postimg.cc/0PdRrmhD/forage.png)
+![Forage](https://images.guildmagesforum.tw/posts/BLB-mechanism/f8241132bdff.webp)
 
 覓糧是一個關鍵字動作，意指從你的墳場放逐三張牌**或**犧牲一個食品。
 
 ## 花銷（Expend）
 
-![Expend](https://i.postimg.cc/8T1Xkjtg/expend.png)
+![Expend](https://images.guildmagesforum.tw/posts/BLB-mechanism/c167dc9150fa.webp)
 
 花銷後面皆會接著一個數字N，花銷異能會追蹤 <font color="#FF0000">本回合你施放咒語所支付的魔法力費用累計值</font> ，當你本回合施放咒語所支付的費用累計至N費時，便滿足花銷N的條件了。
 
@@ -59,7 +59,7 @@ excerpt: "來看看斑隆洛中出現了哪些機制吧！"
 
 ## 爪印季節（Pawprints Season）
 
-![Pawprint](https://i.postimg.cc/w69v4Lsk/Pawprint-Modal-Cards.png)
+![Pawprint](https://images.guildmagesforum.tw/posts/BLB-mechanism/ed39f38be7c6.webp)
 
 這是一種多模式選擇咒語，同一模式可選擇多次，且每個模式都有對應的爪印值（類似動物腳印圖案🐾，英文代號以P表示），你可以選擇任意模式任意次，但這些模式的P值累積要小於等於5。你可以選擇1+1+3、2+3、1+1+1+2等，根據戰況靈活調整咒語能力，找出對場面最優的操作選項。
 
@@ -67,13 +67,13 @@ PS：多模式咒語在執行時是一律由上往下執行的。
 
 ## 門檻（Threshold）
 
-![Threshold](https://i.postimg.cc/JzQpd74J/Threshold.png)
+![Threshold](https://images.guildmagesforum.tw/posts/BLB-mechanism/fa081177ef4c.webp)
 
 門檻是一個重出的異能提示文字，只要你的墳場有大於等於七張牌，你便滿足門檻的條件。
 
 ## 職業（Class）
 
-![Class](https://i.postimg.cc/hKXL2FTr/Class.png)
+![Class](https://images.guildmagesforum.tw/posts/BLB-mechanism/271201c8b714.webp)
 
 職業是個結界副類別，也是個重出機制，最初登場於[被遺忘國度戰記（AFR）](https://scryfall.com/sets/afr?as=grid&order=set)。
 
@@ -89,7 +89,7 @@ PS：多模式咒語在執行時是一律由上往下執行的。
 
 斑隆洛的售前現開賽將於2024年7月26日開始，前往附近的店家體驗新系列吧！
 
-![Final](https://i.postimg.cc/nHrXG8NG/Final.png)
+![Final](https://images.guildmagesforum.tw/posts/BLB-mechanism/bcdec90b0228.webp)
 
 7月26日～8月1日：售前現開賽
 8月2日：斑隆洛發售日

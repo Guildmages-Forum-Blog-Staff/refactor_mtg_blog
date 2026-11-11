@@ -1,8 +1,8 @@
 ---
 title: "葛加理掠魂魔"
 date: "2024-06-05 19:56:34"
-cover: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
-thumbnail: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Golgari-Soulflayer/211c718f1a27-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Golgari-Soulflayer/211c718f1a27-cover.jpg"
 excerpt: "掠魂魔Bros. Season 2突襲賽場啦！"
 categories:
   - "Construct"
@@ -15,7 +15,7 @@ authors:
 
 [牌表連結](https://www.mtggoldfish.com/deck/6368517?fbclid=IwZXh0bgNhZW0CMTAAAR0exfqeKRobTudX7Lv2UxePX_UMQHYa_v7UdtigeTD1SxkhMpW0cE-W9vc_aem_ARrrygUQJEHgmo4ObsQJ9jTd8NHCaB5BD1CmBrtazW726qXhO7qbdxwTUWmCHLI1qCDDM3f5YIT_Sh5iGDDu2dmu#paper)
 
-![牌組圖片](https://i.postimg.cc/DnpPy0gw/Golgari-Soulflayer.png)
+![牌組圖片](https://images.guildmagesforum.tw/posts/Pioneer-Golgari-Soulflayer/440521c0bcb1.webp)
 
 ## Q：這究竟甚麽卡組？
 

@@ -8,8 +8,8 @@ categories:
   - "Interview"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/95LOGCj.jpg"
-thumbnail: "https://i.meee.com.tw/95LOGCj.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT12-Champion-Interview/1335f3084dbf-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT12-Champion-Interview/1335f3084dbf-cover.jpg"
 excerpt: "拿兩屆MIT冠軍還有什麼好訪問的呢？別急著離開，菜鳥想說的事可多著的呢！"
 ---
 ## Let's get started!
@@ -94,5 +94,5 @@ A：後來覺得「看世界」這點要修正一下，因為每次 PT 辦來辦
 
 好遊戲啊！
 
-![](https://i.meee.com.tw/RlQ2F3B.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT12-Champion-Interview/0898b7d18ac0.webp)
 <p style="text-align: center;"><a class="small">從兩度 MIT 冠軍到持續挑戰PT與世界賽，菜鳥展現的不只是牌技，更是持續投入、不斷檢討與調整的態度。</a></p>

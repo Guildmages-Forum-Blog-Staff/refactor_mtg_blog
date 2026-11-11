@@ -7,14 +7,14 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/ttX5yGL.png"
-thumbnail: "https://i.meee.com.tw/ttX5yGL.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-mechanism/4c240b4e1bb6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-mechanism/4c240b4e1bb6-cover.jpg"
 excerpt: "來看看最終幻想中出現了哪些機制吧！"
 ---
 
 ## 轉化式雙面牌（Transform Double Faced Cards）
 
-![Double Faced Cards](https://i.meee.com.tw/kB22nxW.png)
+![Double Faced Cards](https://images.guildmagesforum.tw/posts/FIN-mechanism/a08b3dc63e17.webp)
 
 轉化式雙面牌（TDFC）具有兩個牌面，正面左上角有一個向上的箭頭符號，背面右上角有一個向下的箭頭符號。
 
@@ -32,7 +32,7 @@ TDFC在戰場與堆疊外的任何區域時，都只有正面的特徵。TDFC在
 
 ## 傳紀生物（Saga Creature）
 
-![Saga Creature](https://i.meee.com.tw/yfAZ9GM.png)
+![Saga Creature](https://images.guildmagesforum.tw/posts/FIN-mechanism/c4dbf5a2a125.webp)
 
 傳紀是個結界的副類別，擁有自己專屬的特殊規則。雖然傳紀已經是個近年來每年都會登場的半長青機制了，但本系列在傳紀設計上有比較突破性的創新，本系列的所有傳紀都同時是生物，這也使它需要同時遵守傳紀與生物的規則。
 
@@ -54,14 +54,14 @@ TDFC在戰場與堆疊外的任何區域時，都只有正面的特徵。TDFC在
 從本系列開始，官方更改了傳紀失去異能的相關規則，新版規則如下：
 如果一個傳紀失去章節異能，它將不會因狀態動作而被犧牲（學問指示物 ≧ 最終章節編號）、也不會因為回合動作（第一行動階段開始時）放置學問指示物，直到它再次具有章節異能為止。
 
-![Rule Cgamge](https://i.meee.com.tw/F5rIbZc.png)
+![Rule Cgamge](https://images.guildmagesforum.tw/posts/FIN-mechanism/a34509ce2dfa.webp)
 
 {% endfolding %}
 
 
 ## 歷險（Adventure）
 
-![Adventure](https://i.meee.com.tw/6u4kBBt.png)
+![Adventure](https://images.guildmagesforum.tw/posts/FIN-mechanism/dde748f7c682.webp)
 
 歷險也是個復出機制，本系列歷險牌的永久物類別都是地，且具有市鎮（Town）的副類別。
 
@@ -79,7 +79,7 @@ TDFC在戰場與堆疊外的任何區域時，都只有正面的特徵。TDFC在
 
 ## 職業選擇（Job Select）
 
-![Job Select](https://i.meee.com.tw/2xNINXo.png)
+![Job Select](https://images.guildmagesforum.tw/posts/FIN-mechanism/ed3982bc528a.webp)
 
 職業選擇是本系列武具特有的觸發式異能，當具有職業選擇異能的武具進場時，派出一個1/1無色英雄衍生生物，然後將此武具貼附於其上。
 
@@ -90,7 +90,7 @@ TDFC在戰場與堆疊外的任何區域時，都只有正面的特徵。TDFC在
 
 ## 分級（Tiered）
 
-![Tiered](https://i.meee.com.tw/yov1AOw.png)
+![Tiered](https://images.guildmagesforum.tw/posts/FIN-mechanism/3b67650304ac.webp)
 
 分級咒語上會有三種選項，每種選項皆有對應的額外費用。你在施放分級咒語時，需選擇其中一項，並支付指定的額外費用，如此一來此咒語便能具有你選擇的效果。
 
@@ -109,7 +109,7 @@ TDFC在戰場與堆疊外的任何區域時，都只有正面的特徵。TDFC在
 
 ## 系列符號
 
-![Expansion Symbol](https://i.meee.com.tw/qSIA6WX.png)
+![Expansion Symbol](https://images.guildmagesforum.tw/posts/FIN-mechanism/e28ab3c4a162.webp)
 
 - **FIN：** 本次最終幻想的標準系列。
 
@@ -142,4 +142,4 @@ TDFC在戰場與堆疊外的任何區域時，都只有正面的特徵。TDFC在
 
 
 
-![END](https://i.meee.com.tw/QeeU6Zl.png)
+![END](https://images.guildmagesforum.tw/posts/FIN-mechanism/9997c25814da.webp)

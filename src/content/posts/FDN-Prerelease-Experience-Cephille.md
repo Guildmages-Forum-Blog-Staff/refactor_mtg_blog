@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的 FDN 售前現開分享"
 date: "2024-11-11 21:26:45"
-cover: "https://i.meee.com.tw/rOlco3W.png"
-thumbnail: "https://i.meee.com.tw/rOlco3W.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
 excerpt: "Foundation 基石構築？那不就是核心系列嗎？打習慣一般標準限制賽，打核心系列會有趣嗎？讓豬鼻子以實際體驗來告訴大家吧！"
 authors:
   - "cephille"
@@ -25,7 +25,7 @@ categories:
 
 ### 現開 Pool 1 白綠 3-0 @[遊戲平方](https://www.facebook.com/GameSquareTCG)
 
-![](https://i.imgur.com/sdEmGfb.jpeg) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/163bc577c9be.webp) 
 
 #### 賽後評價
 這個 pool 即使撇開 {% mtgpick "fdn" 1 tooltip=true %} 、 {% mtgpick "fdn" 107 tooltip=true %} 、 以及 {% mtgpick "fdn" 113 tooltip=true %} 這些炸彈不提，也是一個曲線很好的 pool ，彼此也有一些小 combo 可以玩，去除也是白綠色組相對重要的那幾種。
@@ -45,9 +45,9 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.imgur.com/2N8cqo1.jpeg) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/87273fa461d6.webp) 
 
-![](https://i.imgur.com/K1KfMqN.jpeg)
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/8d848c632210.webp)
 
 備牌如上。雖然意思意思的組了紅藍，還有售閃的 {% mtgpick "fdn" 44 tooltip=true %} ，但說真的跟白綠相比我完全不會想把紅藍拿出來。這個紅藍並不是一個弱的 pool ，但跟主牌的白綠相比強度還是差得有點多，看生物體格就一清二楚。
 
@@ -58,7 +58,7 @@ categories:
 
 ### 現開 Pool 2 紅綠混藍 3-0 @[紙盒子桌遊休閒館](https://www.facebook.com/profile.php?id=100057364393517)
 
-![](https://i.imgur.com/myyLm9x.jpeg)
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/0582678de113.webp)
 
 下午在平方打完後，遇到了一位之前有在永和的紙盒子見過的玩家，聽他們說他們晚上有現開，就過去看看。
 
@@ -80,7 +80,7 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.imgur.com/RcmjkGv.jpeg)
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/4672c651ca02.webp)
 
 備牌如上。其實要混黑也行，但我覺得沒有藍綠來得炸，乖乖打紅綠也是一個選擇，但既然都開到了，不玩蠻可惜的，老實說我還想讓 {% mtgpick "fdn" 216 tooltip=true %} 出來透透氣，不過真的沒空間來放 win-more 牌了。
 
@@ -89,7 +89,7 @@ categories:
 
 ### 現開 Pool 3 藍綠 3-0 @[卡士多遊戲屋](https://www.facebook.com/CardStoreTW)
 
-![](https://i.imgur.com/klq1wEY.jpeg)
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/afbc300f3cee.webp)
 
 四費反光的是兩張 {% mtgpick "fdn" 31 tooltip=true %} 、以及一張 {% mtgpick "fdn" 217 tooltip=true %} 。
 
@@ -104,9 +104,9 @@ categories:
 
 #### 備牌與牌池優化
 
-![](https://i.imgur.com/owGEnQ1.jpeg)
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/a47805d5c454.webp)
 
-![](https://i.imgur.com/T4VAyZO.jpeg)
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/11c2a94c3102.webp)
 
 備牌如上。圖一紅白的構築中一費反光的是第二張的 {% mtgpick "fdn" 13 tooltip=true %} ；而圖二的備牌中，黑色反光的是二費的 {% mtgpick "fdn" 77 tooltip=true %} 、以及三費的 {% mtgpick "fdn" 60 tooltip=true %} 。
 
@@ -119,21 +119,21 @@ categories:
 
 ### 現開 Pool 4 （沒有打）
 
-![](https://i.imgur.com/Ae98d4u.jpeg) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/2470fe966fa9.webp) 
 
 #### 主牌介紹與討論
 
 紅綠的去除與生物都相當合格，因為不想混藍就放了三費的 {% mtgpick "fdn" 132 tooltip=true %} 來補點牌，預期是我的進攻會比較強勁一點，應該是可以從雙方抽牌中獲得較大的優勢，而對手抽牌還會跟著被扣血，也算是一個小 clock 。
 
-![](https://i.imgur.com/zvujyWA.jpeg) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/b0953b428520.webp) 
 
 備牌如上。沒放入藍綠的地落人魚 {% mtgpick "fdn" 247 tooltip=true %} 有點可惜，但這個 pool 我覺得不用貪心，專心打紅綠就可以了。
 
 ### 現開 Pool 5 （沒有打）
 
 
-![](https://i.imgur.com/adsboBQ.jpeg) 
-![](https://i.imgur.com/4gNsskS.jpeg) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/71dc11999f12.webp) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/d036ba601f94.webp) 
 
 #### 主牌介紹與討論
 
@@ -145,7 +145,7 @@ categories:
 
 黑白有小小的補血扣血與吸血鬼主題，但沒有很明顯；基本上都是靠殺來度過前期，保住飛兵後開始反攻。
 
-![](https://i.imgur.com/DrZgjeb.jpeg) 
+![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/3e7c26db6e36.webp) 
 
 備牌如上。紅色的兩隻龍沒有用上乍看之下很可惜，但仔細一看會發現紅色的解牌跟 trick 非常差，只有看似能打的曲線跟兩張終結者的飛龍，想清楚後就不會被迷惑了。
 

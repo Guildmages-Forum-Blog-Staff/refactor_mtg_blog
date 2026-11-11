@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/X8qqjos.png"
-thumbnail: "https://i.meee.com.tw/X8qqjos.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Colorless/0d84ced49dd2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Colorless/0d84ced49dd2-cover.jpg"
 excerpt: "我只記得鋼鐵人有幫蜘蛛人做過一套機器蜘蛛裝，不知道會不會出現在這個系列的神器裡……"
 ---
 
@@ -154,8 +154,8 @@ excerpt: "我只記得鋼鐵人有幫蜘蛛人做過一套機器蜘蛛裝，不�
 評語：作為一個可以選色的單色電震地，算是非常特別的設計，具有高度彈性，基本上在任何雙色以上的構築都會非常樂意納入。
 
 <!---to Peter, 你寫的時候如果要五張一起寫，圖源在這邊--->
-![SPM五色躺地們](https://i.meee.com.tw/TMZMclo.jpg)
-![OM1五色躺地們](https://i.meee.com.tw/Uup5Nos.jpg)
+![SPM五色躺地們](https://images.guildmagesforum.tw/posts/SPM-Colorless/f89b691d6132.webp)
+![OM1五色躺地們](https://images.guildmagesforum.tw/posts/SPM-Colorless/dd8579551d43.webp)
 分數：2.5
 評語：這次的雙色地不只有單純的調色作用，到了中後期還能讓你更加善用多餘的費用進行刺探，可以說是C卡雙色地中較為優質的了。
 

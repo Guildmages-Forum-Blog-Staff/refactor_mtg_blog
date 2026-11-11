@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/u4dSxJs.png"
-thumbnail: "https://i.meee.com.tw/zZE1glu.png"
+cover: "https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/43bf383a5518-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/085cb3fab893-cover.jpg"
 excerpt: "拜託別再把墳場當手牌玩了"
 ---
 
@@ -15,7 +15,7 @@ excerpt: "拜託別再把墳場當手牌玩了"
 
 [得享安息](https://scryfall.com/card/sld/96/rest-in-peace)（後簡稱RIP）一直是最高效的墳場針對之一，在這個動不動就把墳場當額外資源的時代更顯得尤為重要，這次就讓我們看看RIP是如何影響區域移動相關規則的？
 
-![前言](https://i.meee.com.tw/fFFNrYi.png)
+![前言](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/5b32d6c3c34c.webp)
 
 
 ---
@@ -39,7 +39,7 @@ excerpt: "拜託別再把墳場當手牌玩了"
 
 RIP雖然是墳場殺手，但其實它的靜止式異能只影響它在場期間將進入墳墓場的牌，至於RIP進場前已經在墳墓場的牌，則是靠著這條ETB處理的，既然是觸發式異能，那當然是會上堆疊可以被回應。
 
-![](https://i.meee.com.tw/7AMfPdK.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/a86f1234e0a8.webp)
 > ● **[傳說終結](https://scryfall.com/card/m20/77/tales-end)** ：
 > 反擊目標起動式異能，觸發式異能或傳奇咒語。
 
@@ -49,7 +49,7 @@ RIP雖然是墳場殺手，但其實它的靜止式異能只影響它在場期�
 
 ## RIP規則範例
 
-![](https://i.meee.com.tw/GCW3u4E.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/ddd5d8425f44.webp)
 > ● **[鮮血畫家](https://scryfall.com/card/inr/97/blood-artist)** ：
 > 每當鮮血畫家或另一個生物死去時，目標玩家失去1點生命而你獲得1點生命。
 
@@ -66,7 +66,7 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 
 但從近期的新牌張描述中可以發現，老威也開始把死去這個詞拓展到非生物類別上了，當然這兩種描述本來規則上就是等價的，所以不會造成甚麼規則層面的影響，只是在語感上可能讓人不是很適應。
 
-![](https://i.meee.com.tw/i8AylxM.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/8262e1bf13c9.webp)
 > ● **[弄偶學徒](https://scryfall.com/card/mh3/100/marionette-apprentice)** ：
 > 每當另一個由你操控的生物或神器從戰場進入墳墓場時，每位對手各失去1點生命。
 > ● **[蘇述黎洞生者](https://scryfall.com/card/eoe/118/susurian-voidborn)** ：
@@ -78,7 +78,7 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 
 
 
-![](https://i.meee.com.tw/mlTNeQL.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/c5fc10ecb997.webp)
 > ● **[幹練烈焰術士](https://scryfall.com/card/2x2/123/seasoned-pyromancer)** ：
 > 當幹練烈焰術士進戰場時，棄兩張牌，然後抽兩張牌。每以此法棄掉一張非地牌，便派出一個1/1紅色元素衍生生物。
 
@@ -93,13 +93,13 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 > 這題與上一題單獨看應該都很好理解，甚至對許多玩家來說已經是理所當然的基本規則，但如果要追問，明明死去跟棄牌的定義規則條目看起來如此相似，為何RIP會使死去不再是死去，但棄牌仍然是棄牌，腦袋或許就會打結了。
 > 簡單的說，是死去的定義本身就比較特別，它的定義很嚴格的就是 「 從戰場進入墳墓場 」 這一事件，也可以說是對這一事件的縮寫，所以事件內容變了，條件檢查沒過，當然就不算死去了。
 > 這個概念雖然可以從規則原文書中解讀出來，但描述確實不太直觀，也沒有額外的條目去輔助解說此概念，所以在RIP的單卡Q&A上，也能找到這兩概念的釋疑條目：
-> ![](https://i.meee.com.tw/JI0kfgY.png)
+> ![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/eb0229dc2245.webp)
 
 
 
 
 
-![](https://i.meee.com.tw/Wu2ieUV.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/24623f1d4452.webp)
 > ● **[祖神獸](https://scryfall.com/card/fdn/244/progenitus)** ：
 > 如果祖神獸將從任何區域進入墳墓場，則改為展示祖神獸，並將它洗入其擁有者的牌庫。
 
@@ -113,7 +113,7 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 
 
 
-![](https://i.meee.com.tw/0IFsy5r.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/f331e24275af.webp)
 > ● **[直呼其名](https://scryfall.com/card/dsk/197/say-its-name)** ：
 > 磨三張牌。然後你可以將一張生物或地牌從你的墳墓場移回你手上。
 > ● **[挖掘客的洞察](https://scryfall.com/card/dft/159/dredgers-insight)** ：
@@ -135,7 +135,7 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 
 
 
-![](https://i.meee.com.tw/Cvm2ox2.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/eec4b5ab70e8.webp)
 > ● **[生輝奇卵](https://scryfall.com/card/inr/54/biolume-egg-biolume-serpent)** ：
 > 當你犧牲生輝奇卵，在下一個結束步驟開始時，將它在其擁有者的操控下移回戰場且已轉化。
 
@@ -151,7 +151,7 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 
 
 
-![](https://i.meee.com.tw/4RK868V.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/c7efcadc106a.webp)
 > ● **[消除魔障](https://scryfall.com/card/fdn/572/disenchant)** ：
 > 消滅目標神器或結界。
 
@@ -168,13 +168,13 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 **<font color="#FF0000">結論：消除魔障進墳場、RIP放逐</font>**
 
 > 因為這個案例實在太有名又太反直覺了，所以你在Scryfall等卡片搜尋引擎找RIP時，都可以在下方找到這條規則釋疑：
-> ![RIP_QA](https://i.meee.com.tw/9EGZdTD.png)
+> ![RIP_QA](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/38f550ed271f.webp)
 
 
 
 
 
-![](https://i.meee.com.tw/3uU59S8.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/949ef236a002.webp)
 > ● **[淨化時空](https://scryfall.com/card/m20/33/planar-cleansing)** ：
 > 消滅所有非地永久物。
 
@@ -186,7 +186,7 @@ RIP與死去觸發異能的互動，是最常在實戰中遇到、也最容易�
 
 
 
-![](https://i.meee.com.tw/RUlBX4X.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/e7aa78e0d2bd.webp)
 > ● **[火爆](https://scryfall.com/card/inr/154/fiery-temper)** ：
 > 瘋魔 <font color="#FF0000">{R}</font> （如果你棄掉此牌，將之棄到放逐區。當你如此作時，支付其瘋魔費用施放之，否則便將其置入你的墳墓場。）
 
@@ -200,7 +200,7 @@ RIP在場上，火爆被棄掉時，是否能以瘋魔施放？
 
 
 
-![](https://i.meee.com.tw/LyZBglR.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/763342e76045.webp)
 > ● **[荒原絞殺體](https://scryfall.com/card/bfz/102/wasteland-strangler)** ：
 > 當荒原絞殺體進戰場時，你可以將一張由對手擁有的牌從放逐區置入該玩家的墳墓場。若你如此作，則目標生物得-3/-3直到回合結束。
 
@@ -214,7 +214,7 @@ RIP在場時，荒原絞殺體是否可以用ETB來讓目標生物-3/-3 ？
 
 
 
-![](https://i.meee.com.tw/UYuPmvM.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/ea1bae9548ad.webp)
 > ● **[能量力場](https://scryfall.com/card/usg/73/energy-field)** ：
 > 防止非你所操控之來源對你造成的所有傷害。
 > 當任何牌被置入你的墳墓場，則犧牲能量力場。
@@ -225,7 +225,7 @@ RIP在場時，荒原絞殺體是否可以用ETB來讓目標生物-3/-3 ？
 
 
 
-![](https://i.meee.com.tw/4cw4o1g.png)
+![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/3231bfb12d8d.webp)
 > ● **[服從頭盔](https://scryfall.com/card/all/121/helm-of-obedience)** ：
 > {X}，{T}：目標對手磨一張牌，然後重複此流程，直到通過這種方式將一個生物牌或X張牌置入其墳墓場，以先到者為準。如果以這種方式將一個或多個生物牌置入墳墓場，則犧牲服從頭盔並將其中一個在你的操控下放進戰場。 X 不能為 0。
 

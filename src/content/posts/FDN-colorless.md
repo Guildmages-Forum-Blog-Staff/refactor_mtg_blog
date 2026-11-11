@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/jOJxR4C.png"
-thumbnail: "https://i.meee.com.tw/jOJxR4C.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-colorless/36a9fbe79f86-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-colorless/36a9fbe79f86-cover.jpg"
 excerpt: "閃現鞍燼鋒，連擊踐踏打一拳，操縱時序多一回合，請問你還有氣嗎？"
 ---
 
@@ -138,7 +138,7 @@ excerpt: "閃現鞍燼鋒，連擊踐踏打一拳，操縱時序多一回合，�
 分數：1.0
 評語：這系列限制賽應該不會需要靠它來調色，尤其這系列調色地給的很多，除非開了甚麼需要混色大炸彈，且他的種族正好在你套牌裡佔大宗。
 
-![補血地](https://i.meee.com.tw/s9Rnzl2.png)
+![補血地](https://images.guildmagesforum.tw/posts/FDN-colorless/a5825aae782c.webp)
 分數：3.0
 評語：限制賽只要不是節奏太極端的環境，調色地躺進的代價都還可以接受。
 

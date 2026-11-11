@@ -1,8 +1,8 @@
 ---
 title: "2026 千葉 Spotlight：4C全知全能戰報"
 date: "6/7/2026, 9:06:57 PM"
-cover: "https://i.meee.com.tw/SNCIQGc.webp"
-thumbnail: "https://i.meee.com.tw/SNCIQGc.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-4C-Omniscience-Combo/57ae74d20181-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-4C-Omniscience-Combo/57ae74d20181-cover.jpg"
 excerpt: "在滿街靈技與控制的狹縫間，用組合技撕開一條勝利通道吧！"
 authors:
   - "zhi-mao"
@@ -19,7 +19,7 @@ categories:
 
 這次我使用了一套 4C Omniscience Combo，最終以 **10 勝 4 敗 1 和 （10-4-1）** 的成績完賽，最後以第 **50 名** 結束賽事。
 
-![image](https://i.meee.com.tw/qc9K2gt.jpg)
+![image](https://images.guildmagesforum.tw/posts/Standard-4C-Omniscience-Combo/128008bc5ef6.webp)
 <p style="text-align: center;"><a class="small">用A4紙充當獎狀</a></p>
 
 然而，這份戰報背後有一項極具分析價值的「對照組」：本次賽事中，我有 4 位同樣常使用 Combo 的朋友，使用了與我完全一模一樣的 75 張牌表參賽，也使用相同的備牌策略，但他們 4 人卻全數在 Day 1 遭到淘汰。
@@ -30,7 +30,7 @@ categories:
 以下是我最後決定出戰Spotlight 的套牌構築表：[4C Omniscience牌表](https://www.mtggoldfish.com/deck/7821342#paper)
 > 但寫文章時才發現，備牌一張SOS大招 {% mtglink "Improvisation Capstone" %} 登記成 {% mtglink "Consult the Star Charts" %} 了…… 
 
-![](https://i.meee.com.tw/eERm1yE.png)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Omniscience-Combo/ace48e994fed.webp)
 
 實際上是拿這一版去參加Spotlight：[4C Omniscience Spotlight牌表](https://melee.gg/Decklist/View/ab83f4ad-6f97-48b1-bc64-b45900c1d1ec)
 
@@ -153,7 +153,7 @@ categories:
 
 > R15 ID換來的沾麵：[舎鈴 プレナ幕張店](https://maps.app.goo.gl/V9sQAb4ewxzdGcrR6)
 
-![21375e0a-2b49-4d94-9182-a9d4d81c75fb](https://hackmd.io/_uploads/SyWqbWx-fe.jpg)
+![21375e0a-2b49-4d94-9182-a9d4d81c75fb](https://images.guildmagesforum.tw/posts/Standard-4C-Omniscience-Combo/f2d24b064ba4.webp)
 <p style="text-align: center;"><a class="small">早早結束還偷偷跑去找妮莎本人拍照了</a></p>
 
 ## 實戰數據總結
@@ -165,7 +165,7 @@ categories:
 * **套牌的絕對死穴（vs. Mardu Discard）：** 面對 Mardu Discard 的 0 勝 2 敗，這個套牌幾乎無法防禦第 3 回合致死打擊、或是對面不靠生物的直傷。
 
 ## 備牌策略
-![image](https://hackmd.io/_uploads/HkvlC_Cgfg.png)
+![image](https://images.guildmagesforum.tw/posts/Standard-4C-Omniscience-Combo/11723162a40a.webp)
 
 最後附上前一天我們討論的guide，不過少了Mardu discard跟藍白momo就是了，如果有哪邊有疑問都歡迎來找我討論。
 

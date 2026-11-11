@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/dYxkM3l.png"
-thumbnail: "https://i.meee.com.tw/dYxkM3l.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-White/16429cabfe91-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-White/16429cabfe91-cover.jpg"
 excerpt: "總之瘋狂鋪場"
 ---
 
@@ -56,7 +56,7 @@ excerpt: "總之瘋狂鋪場"
 
 
 <!---7--->
-![7](https://i.meee.com.tw/ZHLmwV2.png)
+![7](https://images.guildmagesforum.tw/posts/ECL-White/3cd189fde383.webp)
 分數：3.5
 評語：光是一個3費3/2帶1/1的場值，就已經是張強力單卡了，類別還正確，基本上是潔英（Kithkin）3費以內最強的鋪場曲線，能夠反覆轉化的話場面還能進一步擴張。
 
@@ -94,7 +94,7 @@ excerpt: "總之瘋狂鋪場"
 
 
 <!---13--->
-![13](https://i.meee.com.tw/8Akpqvx.png)
+![13](https://images.guildmagesforum.tw/posts/ECL-White/2d70ca14a716.webp)
 分數：4.5
 評語：5費5/5飛行繫命，就算不看背面都是頂級戰鬥力。一旦轉化，對面跟你生物交換會換到中風。
 

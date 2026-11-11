@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/zTR6JNR.jpg"
-thumbnail: "https://i.meee.com.tw/zTR6JNR.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b-cover.jpg"
 excerpt: "魔風集會所來到陽光普照但風還是好大的新竹，訪問為人低調內斂的余弘毅（丈丈）選手。丈丈將分享自己從 2013 年「持續」投入這款遊戲的心路歷程。除此之外，大方的丈丈也提供了珍貴的世界賽桌布，將於未來的活動中讓讀者們抽獎，款式請見文末唷！"
 ---
 
@@ -36,7 +36,7 @@ MIT 第三輪的兩週前，我注意到加拿大有人以白藍蓮花田拿下�
 
 A：第一次玩魔法風雲會，印象中是克撒傳的時期。當時其實是先看到遊戲王的漫畫，不過，當時的魔法風雲會剛好是由尖端代理，所以也會一直在電玩雜誌中看到廣告。又剛好附近的小賣店裡有魔法風雲會，所以我就買了一、兩盒商品來體驗看看，和朋友一起用鄉間自創的規則開始嘗試，然後遇到不懂的地方，就找時間打電話去多明納里亞服務站詢問規則。
 
-![](https://i.meee.com.tw/zTR6JNR.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b.webp)
 > 聊到這裡，身為聽眾的我們突然有個念頭閃過：「『多明納里亞服務站』究竟是什麼東西啊？」
 > 現在從 Google 輸入「多明納里亞服務站」，也查不到它的任何歷史痕跡。娛樂產業的客服專線隨著網路普及，已漸漸成為時代的眼淚了。
 
@@ -48,7 +48,7 @@ A：第一次玩魔法風雲會，印象中是克撒傳的時期。當時其實�
 A：關於看待遊戲的方式，當然和一開始還是會有差別。走向競技必然會有其他壓力伴隨而來。但，走向競技也讓我認識了各式各樣不同的人，而這方面的體驗是非常好的。
 像我去年參與世界賽的過程中，有和一些大大一起練習。以前透過螢幕看國外選手時，都會預設他們是難以接近的類型，可是實際走入 Test House 之後，會感受到大家就只是一群喜歡著魔法風雲會的玩家，而我們之間也擁有著共通語言，例如[Andrea Mengucci](https://mtg.fandom.com/wiki/Andrea_Mengucci)其實還滿好聊的。一起輪抽、練牌、游泳，總之國外的大大們非常喜歡游泳XD， Test House 一定要挑選有泳池的才行。
 
-![](https://i.meee.com.tw/hyjnPIc.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/4ca6154529be.webp)
 
 > Team Heavy Play的團隊合照，以及「傳說中的泳池」XD。
 
@@ -76,7 +76,7 @@ A：我覺得自己比較像是有「大局觀」的玩家。例如控制型套�
 A：我應該沒有特別迷信的習慣，但我會持續思考著如何優化自己的打牌動作。例如看影片中，大大們總是搓牌搓得輕鬆寫意，但我自己好幾次搓一搓就把牌噴出去了……但常常手很癢的時候又會想搓一下，那打牌的時候我就會提醒自己千萬不要搓牌XD。盡量減少一些多餘的動作，因為我自己非常不喜歡打到時間到。
 此外，大賽階段，每局開始之前我會先去一下洗手間，然後盡量保持平常心囉。
 
-![](https://i.meee.com.tw/Ne6wUiu.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/59424d42a630.webp)
 
 > 訪談持續進行，新竹當天的陽光十分溫暖，正當我們徜徉在這片舒適的氣氛之中，嗯？畫面之中怎麼出現了一隻小手？
 
@@ -90,7 +90,7 @@ A：好像沒有什麼特別的……就只是「持續」在做這件事情吧�
 
 A：家裡算是滿支持我的，太太禮拜六都願意放我出來，所以可以到[新竹新世紀 卡牌遊戲店](https://www.facebook.com/newage.card.shop)玩玩輪抽、參與賽事，平日就玩玩 MO （魔法風雲會 Online）度過。
 
-![](https://i.meee.com.tw/SN5aNgj.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/cdb8c9b2a4d2.webp)
 
 > 答案揭幕，原來是丈丈的女兒一起來參與訪談啦～原本不想要露臉的她，最終還是和爸爸一起展示了 Team Heavy Play 的隊服啦。
 
@@ -112,6 +112,6 @@ A：魔法風雲會很早就將它的競技體系給建立起來了，可以一�
 
 A：還不錯的遊戲。可以藉由這個遊戲，然後去認識不一樣的人，其中有各行各業的玩家，或許這就是一款雅俗共賞的遊戲吧？是一個破冰、結交朋友的好媒介。
 
-![](https://i.meee.com.tw/Z5te2Js.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/5763c57da12f.webp)
 
 > 感謝丈丈的支持與贊助，後續將在魔風集會所的兩週年活動時，加碼抽出由丈丈分享給讀者的艾卓荒野桌布。這是丈丈於世界賽時帶回的珍貴紀念品，還請大家要持續追蹤、支持魔風集會所囉，祝福大家新年快樂！

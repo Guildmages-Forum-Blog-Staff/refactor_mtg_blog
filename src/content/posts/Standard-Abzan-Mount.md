@@ -1,8 +1,8 @@
 ---
 title: "[Fun Deck] 莎莉雅到哪去了呢？ 標準阿布贊坐騎構築"
 date: "2024-04-28 13:50:01"
-cover: "https://i.postimg.cc/NGRHQ00R/Thalia-Guardian-of-Thraben-Mt-G-Art.jpg"
-thumbnail: "https://i.postimg.cc/NGRHQ00R/Thalia-Guardian-of-Thraben-Mt-G-Art.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/4ffac54f6a24-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/4ffac54f6a24-cover.jpg"
 excerpt: "在新非瑞克西亞入侵多重宇宙的大戰後，永遠的瑟班守護者莎莉雅到哪去了呢？"
 categories:
   - "Construct"
@@ -24,7 +24,7 @@ authors:
 ## 奪寶、賽跑、光雷驛！
 
 [牌表連結](https://www.mtggoldfish.com/deck/6342031)
-![](https://i.postimg.cc/vGSQjnRf/Thalia.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/961f6c597fa7.webp)
 
 ### 蛙怪蛙怪得第一！
 
@@ -39,7 +39,7 @@ authors:
 - [頑固伏穴獸](https://scryfall.com/card/otj/184/stubborn-burrowfiend)只要在你墳場有一些生物後馬上就能變成巨大的進攻威脅，但本身若沒有乘駕則只是個2/2白板讓人不甚滿意；
 - 而最後[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)本身是非常好的灌大來源，異能的部分則會讓我想到前摩登賽制的強者[聖沙弗的遊魂](https://scryfall.com/card/isd/213/geist-of-saint-traft)，雖然乘駕 4 條件有點嚴苛，但牠本身就算能打能奶，色組也符合套牌的主色，因此我還是放到了 3 張。
 
-![](https://i.postimg.cc/L6CyHhJx/Mounts.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/ff1bc0135abc.webp)
 
 再來看到套牌的核心成員，這三張都是坐騎構築中必須放滿四張的重要單卡：
 
@@ -47,7 +47,7 @@ authors:
 - [無畏廄館主](https://scryfall.com/card/otj/169/intrepid-stablemaster)除了帶給套牌一個三回出蛙怪的上限外，他本身也是一個非常優秀的坐騎跳費來源，二回他登場後，即使沒有蛙怪，也有機會連拍兩隻坐騎壓場，是不可或缺的加速源。
 - [亞廷勇士威利杜克](https://scryfall.com/card/otj/239/wylie-duke-atiin-hero)三費4/2警戒看來普普通通，但他會是套牌中賺取資源的重要手段，如果拿他來搭載蛙怪還可以在戰鬥後犧牲他，包含他自己橫置的抽一補一，總共抽五補五！
 
-![](https://i.postimg.cc/NF01V7kB/riders.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/c66b31a45749.webp)
 
 ### 地牌的選擇
 
@@ -55,11 +55,11 @@ authors:
 
 不過，因為帶了兩種各三張的種族主題地，當起手看到只有種族地而同時手上有坐騎與人類兩種類別的生物，得仔細想想可別卡住自己了！
 
-![](https://i.postimg.cc/d08mT00P/lands.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/5e11327365f1.webp)
 
 ### 靈魂人物莎莉雅
 
-![](https://i.postimg.cc/gkTKC575/Thalia-The-Gitrog.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/e0496f2ad604.webp)
 
 由於我們套牌非常討厭被干擾，而二費的[瑟班守護者莎莉雅](https://scryfall.com/card/dka/24/thalia-guardian-of-thraben)就是我們非常重要的抗干擾手段；當然，[止咒高僧](https://scryfall.com/card/big/2/grand-abolisher)的效果會更好，然而兩點白指定色實在是太重了，我們白綠混黑的套牌實在是帶不起。
 

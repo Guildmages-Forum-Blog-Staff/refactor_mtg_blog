@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/Kp73t7c.png"
-thumbnail: "https://i.meee.com.tw/Kp73t7c.png"
+cover: "https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/275a7a8f8da0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/275a7a8f8da0-cover.jpg"
 excerpt: "FIN系列的傳紀規則究竟改了啥？"
 ---
 
@@ -17,7 +17,7 @@ excerpt: "FIN系列的傳紀規則究竟改了啥？"
 
 不過從[Final Fantasy（FIN）](https://scryfall.com/sets/fin)系列開始，傳紀規則出現重大變更，這也導致[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)一夕之間，從[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)的天敵變成最佳隊友，讓我們來看看究竟是改了甚麼規則才造成這麼極端的差異，以及在新的傳紀規則下會出現哪些規則互動。
 
-![前言](https://i.meee.com.tw/VtnQsJp.png)
+![前言](https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/451693c831d4.webp)
 
 ---
 
@@ -36,7 +36,7 @@ excerpt: "FIN系列的傳紀規則究竟改了啥？"
 
 這問題的關鍵在於 **「 使傳紀失去異能 」** 這件事，只是正常要讓結界失去異能不是件容易事，[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)因為同時有地類別，所以才容易被影響地的效果掃到颱風尾，除了[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)外，[月輪山影](https://scryfall.com/card/m19/128/alpine-moon)、[腥紅之日](https://scryfall.com/card/rix/92/blood-sun)、[海域蔓延](https://scryfall.com/card/zen/70/spreading-seas)也都能做到讓克撒傳自爆的效果。
 
-![克撒傳對策](https://i.meee.com.tw/24LYDNC.png)
+![克撒傳對策](https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/e202939229ce.webp)
 
 
 
@@ -46,7 +46,7 @@ excerpt: "FIN系列的傳紀規則究竟改了啥？"
 
 [FIN](https://scryfall.com/sets/fin)系列的主題機制之一是 **傳紀生物** ，成為生物也就代表傳紀遭遇失去異能情境的機率超大幅上升了，哪怕只看標準，就有不低的機率會遇上[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)，更別提其他牌池更大的賽制。
 
-![Lose Abilitie](https://i.meee.com.tw/2aSR9vX.png)
+![Lose Abilitie](https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/376eaf7e348b.webp)
 
 系列的主題機制生物一吃失去異能的效應就會原地自爆，這本身就比較尷尬了，不過更大的麻煩則是這條規則本身的反直覺性。
 
@@ -73,7 +73,7 @@ excerpt: "FIN系列的傳紀規則究竟改了啥？"
 讓我們來看看在現行規則下，當[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)碰上[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)會發生甚麼事。
 
 
-![1](https://i.meee.com.tw/VtnQsJp.png)
+![1](https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/451693c831d4.webp)
 > ● [克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)：
 > I章：克撒傳獲得「{T}：加{C}。」
 > II章：克撒傳獲得「{2}，{T}：派出一個0/0無色組構體衍生神器生物，且具有『你每操控一個神器，此生物便得+1/+1。』」
@@ -103,7 +103,7 @@ excerpt: "FIN系列的傳紀規則究竟改了啥？"
 因為失去了章節異能，傳紀跑完進度條就主動犧牲的時限性也不存在了，只要[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)＆[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)持續在場，你就可以每回合付費派出一個新的組構體Token。[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)不只不再剋制[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)，甚至成為了[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)續命的關鍵！
 
 
-![2](https://i.meee.com.tw/7PdV4yz.png)
+![2](https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/2e135db01786.webp)
 > ● [克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)：
 > I章：克撒傳獲得「{T}：加{C}。」
 > II章：克撒傳獲得「{2}，{T}：派出一個0/0無色組構體衍生神器生物，且具有『你每操控一個神器，此生物便得+1/+1。』」
@@ -118,7 +118,7 @@ excerpt: "FIN系列的傳紀規則究竟改了啥？"
 假設[藍月人](https://scryfall.com/card/mh3/63/harbinger-of-the-seas)因為某個原因可以閃現進場（例如透過[先制地脈](https://scryfall.com/card/m20/64/leyline-of-anticipation)的幫助），現在[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)前進到了第III章，觸發了最終章的章節異能，還在堆疊上等待結算中，因為SBA讓傳紀犧牲的條件為 **「學問指示物數量≥最終章節編號＆不是已觸發且尚未離開堆疊的章節觸發式異能來源」** ，在章節觸發式異能結算前這個傳紀是不會犧牲的，此時我們回應堆疊上的異能，閃現[藍月人](https://scryfall.com/card/mh3/63/harbinger-of-the-seas)，因為異能已經上堆疊了，就算[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)失去異能也不影響該觸發式異能正常結算，你在該異能結算時依舊能從牌庫找符合條件的神器進場，不過從[藍月人](https://scryfall.com/card/mh3/63/harbinger-of-the-seas)進場的那瞬間開始，[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)就已經不會因為SBA自爆了，你依舊能繼續起動I、II章賦予的異能。
 
 
-![3](https://i.meee.com.tw/XsvXiaq.png)
+![3](https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/24557e6c770e.webp)
 > ● [克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)：
 > I章：克撒傳獲得「{T}：加{C}。」
 > II章：克撒傳獲得「{2}，{T}：派出一個0/0無色組構體衍生神器生物，且具有『你每操控一個神器，此生物便得+1/+1。』」

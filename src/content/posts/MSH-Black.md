@@ -9,8 +9,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/ZZL7tcg.png"
-thumbnail: "https://i.meee.com.tw/ZZL7tcg.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Black/b7bc4643df94-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Black/b7bc4643df94-cover.jpg"
 excerpt: "黑色即是反派的代表色，一起進入邪惡的反派宇宙吧！"
 
 ---

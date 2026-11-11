@@ -1,8 +1,8 @@
 ---
 title: "MKM後的標準紅快構築概念"
 date: "2024-03-16 11:22:35"
-cover: "https://i.postimg.cc/QdVnKCMq/cover.jpg"
-thumbnail: "https://i.postimg.cc/QdVnKCMq/cover.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/87b39951ac4b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/87b39951ac4b-cover.jpg"
 excerpt: "MKM加入後標準紅快會如何變化呢？"
 categories:
   - "Construct"
@@ -17,13 +17,13 @@ authors:
 
 卡洛夫莊園謀殺案（MKM）上市之後，對標準環境最大影響當然是新套牌「紅白召集」，但我認為紅快也同時補強了三張料，[煙火表演者](https://scryfall.com/card/mkm/140/pyrotechnic-performer)以及[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)、還有讓人熟悉的[電震](https://scryfall.com/card/mkm/144/shock)也要重回標準了！！
 
-![](https://i.postimg.cc/nhf6yPDB/RDW-MKM.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/f09ec42919a0.webp)
 
 ## 套牌構築
 
 [牌表連結](https://www.mtggoldfish.com/deck/6250368#paper)
 
-![](https://i.postimg.cc/YkdZ9wYQ/RDW.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/acba849b1f8e.webp)
 
 ## MKM上市之後的改動
 
@@ -51,7 +51,7 @@ authors:
 5. 真的掃完自己跟對手沒生物時也別擔心，自己的生物大多都有敏捷，而且體質都不會輸。
 6. 對手是班特毒時，可以選擇消滅三費以下神器。
 
-![](https://i.postimg.cc/4yCXqpHB/shock.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/a96091989f15.webp)
 
 另外，因為實在太很多人問說有[戲火作樂](https://scryfall.com/card/mid/154/play-with-fire)了為甚麼還要擺[電震](https://scryfall.com/card/mkm/144/shock)，這裡我想要統一做說明：
 
@@ -60,12 +60,12 @@ authors:
 ## 那些被我替換下去的單卡
 
 這裡可以搭配一張我自製的梗圖：
-![](https://i.postimg.cc/qMbMFvBc/image.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/71fa87679fab.webp)
 
 [俊美惡棍](https://scryfall.com/card/woe/124/charming-scoundrel)這張雖然是三選一的強牌，但是弱點太明顯了，通常沒有特別卡地或手牌不算太差時會貼惡人皮，但對手瞬間時機回應解掉，這樣甚麼都沒獲得；若這時你選擇另外二項時，他只是1/1生物
 沒什麼威脅性。做棄抽時也沒[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)翻面抽得那麼多。
 
-![](https://i.postimg.cc/Bb5QDsqq/Regatha.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/f9a004026db8.webp)
 
 [進軍瑞格沙](https://scryfall.com/card/mom/148/invasion-of-regatha-disciples-of-the-inferno)我是用[煙火表演者](https://scryfall.com/card/mkm/140/pyrotechnic-performer)取代這張牌的位置，同時是生物但又有辦法可以直接燒臉的牌，靈活度實在差太多了，然後額外附加的打生物打1越來越打不到東西了。
 

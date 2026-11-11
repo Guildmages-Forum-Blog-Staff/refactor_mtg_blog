@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 白色"
 date: "2023-11-14 09:50:35"
-cover: "https://i.imgur.com/rdkjPci.png"
-thumbnail: "https://i.imgur.com/rdkjPci.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-White/ce96aedd6696-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-White/ce96aedd6696-cover.jpg"
 excerpt: "萬眾矚目的白長老恐龍始輝澤塔帕要重出江湖了嗎？喔不！這個系列是神器環境..."
 categories:
   - "Limited"
@@ -27,7 +27,7 @@ authors:
 
 ## 白色
 
-![白色](https://i.imgur.com/rdkjPci.png)
+![白色](https://images.guildmagesforum.tw/posts/LCI-White/ce96aedd6696.webp)
 
 > 白色各稀有度的數量
 >
@@ -67,7 +67,7 @@ authors:
 第一眼的感想是現開6包裏面有可能那麼多cave嗎？(先不論顔色對不對了)
 雖然這樣想，但只要有兩個cave就能最低限度符合費用，後續的上豆效果就當成送的。輪抽的時候把全桌的cave全部集合來可以打，但這樣輪到顏色會亂七八糟，而且拿不了一堆實用卡，做到這程度會最少想穩定5個cave，然後5隻蝙蝠4回合打死對手。拼命收集cave及相關卡，打出類似DMU時期的domain戰術，相信會是輪抽的其中一個主題，有不差的潛力，更待測試。
 
-![006](https://i.imgur.com/hB41kez.jpg)
+![006](https://images.guildmagesforum.tw/posts/LCI-White/f21f5993b252.webp)
 
 **Kappa**：2.5
 
@@ -187,7 +187,7 @@ authors:
 
 附帶閃現，非常靈活的救援狗狗，除了可以救被解牌指定的生物之外，也可以回收已經用過一次的神器，再賺一次進場效果。自身攻擊力合乎三費標準，防禦力1弱小，但閃現可一定程度上迴避對手的解牌以及主動選擇要交換的對象，自身是生物也可以達成落墳的條件，唯一懸念點是3費作為救場卡或者資源回收卡而言有點重，必須活用3攻擊力的體質再做一個交換。
 
-![026](https://i.imgur.com/fbTT7t1.jpg)
+![026](https://images.guildmagesforum.tw/posts/LCI-White/dce418d343fb.webp)
 
 **Kappa**：5.0
 
@@ -205,7 +205,7 @@ authors:
 
 3/2飛行加個1/1的贈品，拿到的贈品可以配合各種神器主題，不過不失，雖然體質有點小，不過限制賽有飛行就是大哥，缺攻擊手可以用，記得別拿太多，卡組會變很笨重。
 
-![029](https://i.imgur.com/32hZcVd.jpg)
+![029](https://images.guildmagesforum.tw/posts/LCI-White/6943835238fa.webp)
 
 **Kappa**：2.5
 
@@ -249,7 +249,7 @@ Battle cry也快要變成常駐關鍵字能力了吧？(雖然每彈只是出1�
 平原循環2，卡地時候的好選項，也是混色時候的好選項，法力太多時叫出的本體也是合格以上的水準，可以保命之外，屁股5的飛行也能確保對手的空中戰力不能輕易過來，穩定場面後也可以作為攻擊的起點，總括而言是一張很方便的卡，但本體6費的緣故，不能自己確定上6地的時候，建議毫不猶豫使用循環壓縮卡組。
 提外話，這張循環系列是我唯一一張看到的時候，沒有立即用LOT1費循環系列比下去的卡，大概是因為[北方巨鷹](https://scryfall.com/card/ltr/7/eagles-of-the-north)真的太微妙……
 
-![036](https://i.imgur.com/EdOOg4M.jpg)
+![036](https://images.guildmagesforum.tw/posts/LCI-White/6890b7cacf1d.webp)
 
 **Kappa**：3.0
 
@@ -269,7 +269,7 @@ Battle cry也快要變成常駐關鍵字能力了吧？(雖然每彈只是出1�
 
 能力看成警戒就好，分別就是還是會有tap的時機，會吃到tap殺，3費屁股4足夠優秀了，作為上豆子或者裝備的中心卡可以搶一定血，實質警戒生物令他可以自然地運用combat trick，沒有其他卡配合也可以單獨擋著3費以下的中堅生物。
 
-![039](https://i.imgur.com/5quH1Zf.jpg)
+![039](https://images.guildmagesforum.tw/posts/LCI-White/a855dea80cc9.webp)
 
 **Kappa**：5.0
 
@@ -281,7 +281,7 @@ Battle cry也快要變成常駐關鍵字能力了吧？(雖然每彈只是出1�
 
 3費產3個神器，為今次神器主題最大的後援，給[適境衛石械](https://scryfall.com/card/lci/3/adaptive-gemguard)變大，給[豹族戰刻匠](https://scryfall.com/card/lci/21/malamet-war-scribe)打一波，本體可以在緊急時候回血，甚至與其他顏色組配合，可以用1費主動觸發落墳，最壞情況也能當成回血包+[揚起警報](https://scryfall.com/card/cmr/41/raise-the-alarm)用，非常萬能的一張後盾卡。
 
-![041](https://i.imgur.com/dalqKPm.jpg)
+![041](https://images.guildmagesforum.tw/posts/LCI-White/2625f4a0dcc7.webp)
 
 **Kappa**：5.0
 

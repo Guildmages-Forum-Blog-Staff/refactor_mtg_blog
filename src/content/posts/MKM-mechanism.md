@@ -13,7 +13,7 @@ authors:
 
 ## 連體牌（Split Cards）
 
-![連體牌](https://i.imgur.com/mem7fh4.png)
+![連體牌](https://images.guildmagesforum.tw/posts/MKM-mechanism/3a3b53b5a1e8.webp)
 
 說到拉尼卡怎麼能沒有連體牌呢?
 
@@ -28,7 +28,7 @@ authors:
 
 ## 線索（Clue） & 探查（Investigate）
 
-![線索](https://i.imgur.com/HyOkchI.jpg)
+![線索](https://images.guildmagesforum.tw/posts/MKM-mechanism/ffef09bb2e14.webp)
 
 線索是一個神器副類別，具有起動式異能「{2}，犧牲此神器：抽一張牌」。
 
@@ -36,7 +36,7 @@ authors:
 
 ## 懷疑（Suspect）
 
-![Suspect](https://i.imgur.com/Wh8OulB.jpg)
+![Suspect](https://images.guildmagesforum.tw/posts/MKM-mechanism/5fab6847a6ff.webp)
 
 懷疑是本系列新增的關鍵字異能，一些效應可以懷疑指定的生物，被懷疑的生物會變成遭疑（Suspected）狀態，遭疑的生物獲得威懾異能、並且不能進行阻擋，遭疑是個永久持續性效應，生物會一直保持遭疑的狀態，直到這個生物離場、或是有某個效應終止遭疑狀態（例如[Airtight Alibi](https://scryfall.com/card/mkm/149/airtight-alibi)）。
 
@@ -44,7 +44,7 @@ authors:
 
 ## 案件（Case）
 
-![Case](https://i.imgur.com/aXCm54U.png)
+![Case](https://images.guildmagesforum.tw/posts/MKM-mechanism/a14cc85991a9.webp)
 
 案件是一種新的結界類別，案件皆由三個部分組成：標準異能、偵辦條件、偵結異能。
 
@@ -60,7 +60,7 @@ authors:
 
 ## 蒐證（Collect Evidence）
 
-![Evidence](https://i.imgur.com/fQEuSCO.jpg)
+![Evidence](https://images.guildmagesforum.tw/posts/MKM-mechanism/d0f76fb9c044.webp)
 
 蒐證是一種新的費用支付方式，多見於施放一個咒語時可選的額外施放費用，類似增幅（Kicker）&加碼（Bargain），或是異能的起動費用，另外也可以設計成守護的支付費用，好比說[Axebane Ferox](https://scryfall.com/card/mkm/153/axebane-ferox)。
 
@@ -68,7 +68,7 @@ authors:
 
 ## 偽裝（Disguise）
 
-![Disguise](https://i.imgur.com/diLp0Ip.jpg)
+![Disguise](https://images.guildmagesforum.tw/posts/MKM-mechanism/f5de977996e3.webp)
 
 歡迎來到本系列最複雜的機制：偽裝。
 
@@ -89,7 +89,7 @@ authors:
 
 ## 匿伏（Cloak）
 
-![Cloak](https://i.imgur.com/pp4kYYJ.jpg)
+![Cloak](https://images.guildmagesforum.tw/posts/MKM-mechanism/500b3e2506d4.webp)
 
 如果說偽裝是對應變身（Morph），那麼匿伏就是對應顯化（Manifest）。
 
@@ -108,7 +108,7 @@ authors:
 
 卡洛夫莊園謀殺案的售前現開賽將於2024年2月2日開始，前往附近的店家體驗新系列吧！
 
-![Final](https://i.imgur.com/Fyo1LEp.jpg)
+![Final](https://images.guildmagesforum.tw/posts/MKM-mechanism/b706cdab331b.webp)
 
 > 卡洛夫莊園謀殺案行事曆：
 > 2月2日～8日 - 售前現開賽

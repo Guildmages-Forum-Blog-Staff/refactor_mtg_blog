@@ -4,8 +4,8 @@ title: "列爾如何與歷險牌互動"
 date: 2023-09-19 18:00:00
 
 
-cover: "https://i.imgur.com/swcUW7m.png"
-thumbnail: "https://i.imgur.com/zd5EUlv.png"
+cover: "https://images.guildmagesforum.tw/posts/Adventure-and-Lier/7f8fdf5320ba-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Adventure-and-Lier/035f91527607-cover.jpg"
 
 excerpt: "翻湧神信徒列爾是如何從墳場返照歷險咒語的?"
 
@@ -21,7 +21,7 @@ authors:
 
 今天就讓我們來分析列爾究竟是如何做到的，以及其他類似效應的卡牌能否做到同樣的應用。
 
-![Lier&Adventure](https://i.imgur.com/FObyPb2.jpg)
+![Lier&Adventure](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/b432d97fc1bc.webp)
 
 ---
 
@@ -50,7 +50,7 @@ authors:
   Some rules and effects state that an alternative set of characteristics or a subset of characteristics are considered to determine if a card or copy of a card is legal to cast. These alternative characteristics replace the object’s characteristics for this determination. **Continuous effects that would apply to that object once it has those characteristics are also considered** .
 
 光是這樣看肯定很難理解，這裡先讓我們上個範例~
-![601.3e範例](https://i.imgur.com/ye2coQE.jpg)
+![601.3e範例](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/68a3ef34c4ee.webp)
 
 [伊捷守護者梅列克](https://scryfall.com/card/c20/220/melek-izzet-paragon) : 可以從牌庫頂施放瞬間、巫術牌 。
 [賈路的獸群](https://scryfall.com/card/w17/24/garruks-horde) : 可以從牌庫頂施放生物牌。
@@ -59,7 +59,7 @@ authors:
 
 此外當你使用替代特徵時， **對該替代特徵有效的持續性效應也會一同生效** ，因此當你操控[追風魔納賈爾](https://scryfall.com/card/dmu/208/najal-the-storm-runner)時，你可以將[洛司溫蔑視（毅力之美德歷險端）](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)視同具有閃現異能來施放。
 
-![持續性效應範例](https://i.imgur.com/eaLGn4u.jpg)
+![持續性效應範例](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/cee74bd1c3a4.webp)
 
 ---
 
@@ -67,7 +67,7 @@ authors:
 
 重新回到我們的主題，今天我們在操控翻湧神信徒列爾的情況下，嘗試宣告返照墳場中的尋求刺激時，遊戲是如何檢查這次的施放宣告的呢?
 
-![Lier&Adventure](https://i.imgur.com/FObyPb2.jpg)
+![Lier&Adventure](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/b432d97fc1bc.webp)
 
 首先我們拿起墳場中的巨風貝倫娜，並宣告我們要以返照的方式施放歷險端的尋求刺激，遊戲開始檢查這個動作是否合法，由於我們宣告以歷險的替代特徵來施放，遊戲檢查的特徵將改為尋求刺激的特徵，根據 **「601.3e:一旦該物件具有這些特徵便會生效的持續性效應也會被考慮在內」** 這條規則，此時尋求刺激也適用列爾的 **「你墳墓場中的每張瞬間與巫術牌均具有返照異能」** ，遊戲檢查判斷這是個合法動作，尋求刺激移動至堆疊，並開始處理施放咒語相關流程。
 
@@ -77,7 +77,7 @@ authors:
 
 ## 其他牌是如何跟歷險互動的?
 
-![Flashback](https://i.imgur.com/WjPrTXC.jpg)
+![Flashback](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/8221abc83040.webp)
 
 [迅咒法師](https://scryfall.com/card/mm3/50/snapcaster-mage)與[過往成焰](https://scryfall.com/card/mm3/105/past-in-flames)同樣是賦予墳場瞬間巫術返照異能的牌，就不如列爾那麼幸運了，迅咒法師的異能需要目標，但顯然歷險牌不滿足瞬間巫術牌這個目標，當下異能指不到牌自然沒後續的事了。
 
@@ -94,13 +94,13 @@ authors:
 
 以過往成焰的案例來看，只有當這個咒語結算瞬間所看見的瞬間巫術牌才會獲得返照異能，再這之後新進入墳場的瞬間巫術也不會自動獲得返照異能，而過往成焰結算的當下，那些歷險牌都只是張永久物牌，自然是沒辦法獲得返照了。
 
-![其他範例](https://i.imgur.com/CNxFsUs.jpg)
+![其他範例](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/84622f049a5b.webp)
 
 [芮恩與六樹妖](https://scryfall.com/card/mh1/217/wrenn-and-six)的徽記可以讓你墳場中的瞬間與巫術牌都具有追溯異能，這與墳場中歷險牌的互動從運作原理來講，與列爾如出一轍，當你擁有此徽記時，是可以將墳場中的歷險咒語以追溯的模式施放的。
 
 [未往劍](https://scryfall.com/card/mom/265/sword-of-once-and-future)則是最為單純的案例，因為它打從一開始就是寫Spell，不是Card，不會受到歷險牌本體是永久物牌這項特徵的影響，因此只要這個歷險咒語的總魔法力值小於等於2費，是可以透過未往劍的效果從墳場施放的。
 
-![進軍阿拉若](https://i.imgur.com/5aZ5yjt.jpg)
+![進軍阿拉若](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/5a1d2aa8dc0c.webp)
 
 [進軍阿拉若](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom)與[刺藤傭獸](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest)則是一個充分利用歷險牌雙特徵的Combo，進軍阿拉若進場時展示牌庫頂直到兩張總魔法力值小於等於4的 **牌** ，你可以從中施放一張牌且不需要支付魔法力費用。
 

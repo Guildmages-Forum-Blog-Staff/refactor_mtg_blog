@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "Terryrr"
-cover: "https://i.meee.com.tw/reU6Fdh.png"
-thumbnail: "https://i.meee.com.tw/reU6Fdh.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Black/ac49b27f0c4e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Black/ac49b27f0c4e-cover.jpg"
 excerpt: "能快又能慢的黑是最棒的黑"
 ---
 

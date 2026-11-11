@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/HPbgQ9Y.png"
-thumbnail: "https://i.meee.com.tw/HPbgQ9Y.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Blue/9d6b3b2937b5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Blue/9d6b3b2937b5-cover.jpg"
 excerpt: "你這招有四費嗎？"
 ---
 
@@ -92,7 +92,7 @@ excerpt: "你這招有四費嗎？"
 評語：兩費2/1飛兵，攻擊還會刺探，優秀。
 
 <!---58--->
-![58](https://i.meee.com.tw/hPL0p8y.png)
+![58](https://images.guildmagesforum.tw/posts/FIN-Blue/0705401638e9.webp)
 分數：3.5
 評語：本體[乙太專家](https://scryfall.com/card/m12/41/aether-adept)，法力足夠後可以一直轉化賺節奏優勢，有機會靠她贏得勝利。
 
@@ -167,7 +167,7 @@ excerpt: "你這招有四費嗎？"
 評語：優秀的前期阻擋者，撐到七塊地以上可以轉打手，適合偏慢的構築。
 
 <!---73--->
-![73](https://i.meee.com.tw/gJb1kU8.png)
+![73](https://images.guildmagesforum.tw/posts/FIN-Blue/6786c84900e8.webp)
 分數：3.0
 評語：這不是你各位在解的支線嗎（笑）不虧手牌的四費非生物咒語觸發招，轉化後可以成為致勝手段。
 

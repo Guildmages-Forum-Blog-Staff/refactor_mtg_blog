@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/Q9NGHC8.png"
-thumbnail: "https://i.meee.com.tw/Q9NGHC8.png"
+cover: "https://images.guildmagesforum.tw/posts/What-is-SBA/803681e17a86-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-SBA/803681e17a86-cover.jpg"
 excerpt: "使用閃電擊、送終一擊解掉道西虛空行者，為何閃電擊會被放逐，但送終一擊不會？"
 ---
 
@@ -19,7 +19,7 @@ SBA可以說是MTG這款遊戲的背景程式，會不斷的檢查遊戲當下�
 
 SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說與真正的編程邏輯相差無幾，同時SBA的影響貫穿所有賽制，許多遊戲中的細節操作，都是基於對SBA的理解才得以執行的，經典案例如[道西虛空行者](https://scryfall.com/card/mh2/81/dauthi-voidwalker)遇到[閃電擊](https://scryfall.com/card/2x2/117/lightning-bolt)/[送終一擊](https://scryfall.com/card/2xm/93/fatal-push)的差異，對SBA的正確理解是提升實力繞不開的一環。
 
-![封面](https://i.meee.com.tw/l649Dkw.png)
+![封面](https://images.guildmagesforum.tw/posts/What-is-SBA/25039d8ecc51.webp)
 
 ---
 
@@ -40,7 +40,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 有關SBA的問題，最常誕生在這一條規則之中。至於甚麼叫咒語或異能結算過程中不檢查？ 讓我們看看最簡單的範例：
 
-![SBA](https://i.meee.com.tw/PwokZbB.png)
+![SBA](https://images.guildmagesforum.tw/posts/What-is-SBA/1902d977bdeb.webp)
 > - [生機數學家](https://scryfall.com/card/stx/164/biomathematician)：
 > 當生機數學家進戰場時，派出一個0/0，綠藍雙色的分靈衍生生物。在每個由你操控的分靈上各放置一個+1/+1指示物。
 
@@ -134,7 +134,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 ## 狀態動作規則範例
 
 
-![1](https://i.meee.com.tw/wluEisJ.png)
+![1](https://images.guildmagesforum.tw/posts/What-is-SBA/5869a2c1e0ab.webp)
 > ● [變態爬蟲](https://scryfall.com/card/mkc/234/psychosis-crawler)：
 > 變態爬蟲的力量和防禦力各等同於你的手牌數量。
 > ● [宿命之輪](https://scryfall.com/card/tsr/198/wheel-of-fate)：
@@ -146,7 +146,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 
 
-![2](https://i.meee.com.tw/l649Dkw.png)
+![2](https://images.guildmagesforum.tw/posts/What-is-SBA/25039d8ecc51.webp)
 > ● [閃電擊](https://scryfall.com/card/2x2/117/lightning-bolt)：
 > 對任意一個目標造成3點傷害。
 > ● [送終一擊](https://scryfall.com/card/2xm/93/fatal-push)：
@@ -165,7 +165,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 
 
-![3](https://i.meee.com.tw/hHM9MdO.png)
+![3](https://images.guildmagesforum.tw/posts/What-is-SBA/01d317a8c9e4.webp)
 > ● [精巧一擊](https://scryfall.com/card/frf/150/cunning-strike)：
 > 精巧一擊對目標生物造成2點傷害，並對目標玩家造成2點傷害。抽一張牌。
 > ● [殲滅](https://scryfall.com/card/ema/79/annihilate)：
@@ -200,7 +200,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 
 
-![4](https://i.meee.com.tw/A6VZGMq.png)
+![4](https://images.guildmagesforum.tw/posts/What-is-SBA/26623d059b7b.webp)
 > ● [死亡陰影](https://scryfall.com/card/2xm/82/deaths-shadow)：
 > 死亡陰影得-X/-X，X為你的總生命。
 
@@ -216,7 +216,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 
 
-![5](https://i.meee.com.tw/lbgDJmq.png)
+![5](https://images.guildmagesforum.tw/posts/What-is-SBA/4432c99bfb34.webp)
 > ● [基克斯暴行錄](https://scryfall.com/card/dmu/87/the-cruelty-of-gix)：
 > 一個傳紀
 > ● [陽珠麒麟](https://scryfall.com/card/tdm/29/sunpearl-kirin)：
@@ -239,7 +239,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 
 
-![6](https://i.meee.com.tw/zjWlNgq.png)
+![6](https://images.guildmagesforum.tw/posts/What-is-SBA/b37368057c84.webp)
 > ● [物盡天擇](https://scryfall.com/card/tdc/189/necromantic-selection)：
 > 消滅所有生物，然後將一張以此法進入墳墓場的生物牌在你的操控下移回戰場。它額外具有黑色此顏色與殭屍此類別。放逐物盡天擇。
 > ● [虎影百合子](https://scryfall.com/card/cmm/364/yuriko-the-tigers-shadow)：
@@ -261,7 +261,7 @@ SBA是MTG的規則得以嚴謹運行的基礎之一，其描述甚至可以說�
 
 
 
-![7](https://i.meee.com.tw/8SOZXPc.png)
+![7](https://images.guildmagesforum.tw/posts/What-is-SBA/e01cdee1cae7.webp)
 > ● [幼狼](https://scryfall.com/card/inr/227/young-wolf)：
 > 不息（當此生物死去時，若其上沒有+1/+1指示物，則將它在其擁有者的操控下返回戰場，且其上有一個+1/+1指示物。）
 > ● [裂膚殭屍](https://scryfall.com/card/2x2/91/skinrender)：

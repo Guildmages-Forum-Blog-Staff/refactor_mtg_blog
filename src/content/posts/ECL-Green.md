@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/M2zW8kI.png"
-thumbnail: "https://i.meee.com.tw/M2zW8kI.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Green/d3a3f6cc92d2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Green/d3a3f6cc92d2-cover.jpg"
 excerpt: "說到洛溫就是妖精啦！來看看老朋友們有甚麼新花樣！"
 ---
 
@@ -207,7 +207,7 @@ excerpt: "說到洛溫就是妖精啦！來看看老朋友們有甚麼新花樣�
 評語：潔英跟妖精的生物費用輕巧，戰鬥階段前先下生物並留費用，對手阻擋的壓力也很大。
         
 
-![199](https://i.meee.com.tw/ZFVAlNF.png)
+![199](https://images.guildmagesforum.tw/posts/ECL-Green/8e67a02b2893.webp)
 分數：3.5
 評語：三費3/4的體質就值這個分數了，異能看起來很花俏但效益似乎不高，注意磨牌是一定會做，翻過去翻回來就要磨六張，小心不要把自己磨光。
         

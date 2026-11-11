@@ -9,9 +9,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/6VD7Dy6.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/54f71817b94a-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/6VD7Dy6.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/54f71817b94a-cover.jpg"
 
 excerpt: "Avengers——Assemble!"
 
@@ -19,13 +19,13 @@ excerpt: "Avengers——Assemble!"
 
 ## 前言
 
-![](https://i.meee.com.tw/6VD7Dy6.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/54f71817b94a.webp)
 
 隨著MTG最新跨界合作系列《[漫威超級英雄](https://scryfall.com/sets/msh?as=grid&order=set)》（MSH）的正式實裝，為標準環境無疆新宇宙系列的英雄（hero）主題注入大量新血。本系列不只有著眾多令人眼花繚亂的超級英雄，還有一張專用的兩費傳記——**[復仇者起源](https://scryfall.com/card/msh/28/origin-of-the-avengers)**，鼓勵玩家構築超級英雄主題。今天我們就用這張傳記為核心來構築復仇者聯盟套牌，品嘗本次漫威系列的獨特超英風味。
 
 ## 套牌解析
 
-![](https://i.meee.com.tw/o2sIsIC.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/4c897b16780c.webp)
 
 在閱讀本文之前，有個前提需要先跟各位讀者說明：套牌本質上是一副由各路三費以下英雄生物堆疊而成的協奏曲，內容物大部分都可配合個人喜好、或你所處的店家賽場 Meta 進行自由抽換。這套牌真正不可替代、視為生命線的核心單卡只有以下兩張：
 
@@ -36,15 +36,15 @@ excerpt: "Avengers——Assemble!"
 只要保留這兩者滿編，其餘配置皆可根據你的喜好任意魔改！順帶一提，雖然標題是寫[復仇者集結](https://scryfall.com/card/msh/6/avengers-assemble!)，但牌表卻只放一張，這是因為筆者認為它是張順風或平局時拍出來會贏的牌，但本體費用太大、一回一張的補牌效率不優，所以僅放一張當作TOP DECK的奧義使用。
 
 [**套牌列表**](https://www.mtggoldfish.com/deck/7851225#paper)
-![](https://i.meee.com.tw/Jr0aaD6.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/d27343c4c0a7.webp)
 
 接下來，筆者就來說明這次套牌內的英雄選牌理由。再次重申，內容物完全可以照個人喜好或需求去替換調整，所以以下內容就給各位讀者當作選牌參考。
 
 
 * **傳奇復仇者：尼克福瑞＆美國隊長＆快銀**
 
-![](https://i.meee.com.tw/7Gy5Geb.png)
-![](https://i.meee.com.tw/lcBRY9g.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/a4b3b951d08f.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/a37f97e83131.webp)
 
 [神盾局特工尼克‧福瑞](https://scryfall.com/card/msh/25/nick-fury-agent-of-shield)以及兩位隊長——[超級士兵美國隊長](https://scryfall.com/card/msh/9/captain-america-super-soldier)羅傑斯與[自由之翼美國隊長](https://scryfall.com/card/msh/10/captain-america-wings-of-freedom)威爾森，這三位是在電影中集結眾多英雄的核心人物，在本套牌中亦扮演類似角色，[尼克](https://scryfall.com/card/msh/25/nick-fury-agent-of-shield)負責烙人、[羅傑斯](https://scryfall.com/card/msh/9/captain-america-super-soldier)保護其他人、[威爾森](https://scryfall.com/card/msh/10/captain-america-wings-of-freedom)主導進攻。
 
@@ -52,18 +52,18 @@ excerpt: "Avengers——Assemble!"
 
 * **蜘蛛人宇宙：神奇蜘蛛人＆彼得＆關＆邁爾斯**
 
-![](https://i.meee.com.tw/LKrwAaN.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/f1a79a4c1901.webp)
 
 
 去年先一步推出的《[漫威蜘蛛人](https://scryfall.com/sets/spm?as=grid&order=set)》，在這套漫威英雄主題套牌中理所當然的有其發揮空間。自帶閃現的[神奇蜘蛛人](https://scryfall.com/card/spm/14/spectacular-spider-man)提供一次性全家辟邪不滅防掃場；[彼得‧帕克](https://scryfall.com/card/spm/10/peter-parker-amazing-spider-man)進場連一拉一，讓[春葉鼓](https://scryfall.com/card/ecl/260/springleaf-drum)不會被一張去除癱瘓，同時提升[復仇者起源](https://scryfall.com/card/msh/28/origin-of-the-avengers)的三階效益，轉化後的[超凡蜘蛛人](https://scryfall.com/card/spm/10/peter-parker-amazing-spider-man?back)讓你可以利用蛛絲甩盪將各路英雄以變身後的姿態甩進場。
 
-![](https://i.meee.com.tw/rRs8B7X.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/1256206b3050.webp)
 
 [幽靈蜘蛛](https://scryfall.com/card/spm/78/gwen-stacy-ghost-spider?back)[關‧史黛西](https://scryfall.com/card/spm/78/gwen-stacy-ghost-spider)定位是進場衝動抽一張的過牌，[終極蜘蛛人](https://scryfall.com/card/spm/108/miles-morales-ultimate-spider-man?back)[邁爾斯‧摩拉斯](https://scryfall.com/card/spm/108/miles-morales-ultimate-spider-man)則是灌大其他人體格，兩者變身後都有機會成為終結者。
 
 * **協力奮戰：尚氣＆珍妮佛＆斗篷與匕首**
 
-![](https://i.meee.com.tw/yx4kppw.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/ccc55c9f5acf.webp)
 
 [功夫大師尚氣](https://scryfall.com/card/msh/187/shang-chi-master-of-kung-fu)運氣產生的兩費法力，可以拿來支付其他變身英雄的轉化費用與超能(Power-up)費用，讓你這些英雄賺完進場異能後快速變身全力輸出；[驚世矚目女浩克](https://scryfall.com/card/msh/18/jennifer-walters-the-sensational-she-hulk?back)[珍妮佛‧華特斯](https://scryfall.com/card/msh/18/jennifer-walters-the-sensational-she-hulk)自帶[祈勝歌手](https://scryfall.com/card/tdm/33/voice-of-victory)效果，阻止對手在你回合施放咒語干擾；[雙人組斗篷與匕首](https://scryfall.com/card/msh/211/cloak-and-dagger-entwined)則是手牌與場面干擾二合一，既可以得知對手的手牌資訊、還能視情況對其手牌或場面生物做暫時去除，打亂對手的策略。
 
@@ -78,13 +78,13 @@ excerpt: "Avengers——Assemble!"
 ……什麼？你說《[漫威蜘蛛人](https://scryfall.com/sets/spm?as=grid&order=set)》太少人開，湊不到那麼多實卡MR？對於下位版本怎麼改沒有想法？好吧，筆者在這邊狗尾續貂一下，提供一個替代版本給各位讀者參考：
 
 [**下位版範本**](https://www.mtggoldfish.com/deck/7860442#paper)
-![](https://i.meee.com.tw/Fuvx42l.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/adcae3e51c82.webp)
 
-![](https://i.meee.com.tw/yBsrI6H.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/b01cdc07c19a.webp)
 
 作為秘稀變身英雄與[羅傑斯隊長](https://scryfall.com/card/msh/9/captain-america-super-soldier)的替代，筆者替換成飾裝（modified）打擊路線，幫你全家英雄灌大的[特工菲爾．考森](https://scryfall.com/card/msh/4/agent-phil-coulson)、自帶守護的打手[沖天蜘蛛](https://scryfall.com/card/spm/146/skyward-spider)，與衝動抽牌兼灌大的[蜘蛛之心阿拉尼亞](https://scryfall.com/card/spm/123/ara%C3%B1a-heart-of-the-spider)構成。
 
-![](https://i.meee.com.tw/TJWZFNZ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/c0eb49f6e01a.webp)
 
 除了強化打擊力外，另外投入閃現救援的[英雄醫者夜班護士](https://scryfall.com/card/msh/26/night-nurse-healer-of-heroes)、閃現洗異能的飛兵[神奇黃蜂女](https://scryfall.com/card/msh/84/the-wondrous-wasp)，加上專業[春葉鼓](https://scryfall.com/card/ecl/260/springleaf-drum)鼓手[神射手鷹眼](https://scryfall.com/card/msh/130/hawkeye-master-marksman)，讓玩家有更多回應對手的操作空間。
 
@@ -92,7 +92,7 @@ excerpt: "Avengers——Assemble!"
 
 ## 結語
 
-![](https://i.meee.com.tw/rmfJxPh.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/4933a278ab23.webp)
 
 「話說，這套種族套牌怎麼沒有放[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)？」
 這是個非常好的問題，之所以不放的原因，是因為——

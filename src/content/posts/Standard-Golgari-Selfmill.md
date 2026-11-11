@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/vK7WP6z.png"
-thumbnail: "https://i.meee.com.tw/vK7WP6z.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/d98034b1dc12-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/d98034b1dc12-cover.jpg"
 excerpt: "手牌怎麼越打越多"
 ---
 
@@ -16,14 +16,14 @@ excerpt: "手牌怎麼越打越多"
 
 黑綠中速擁有標準牌池內最優質的去除與生物<font color="#AAAAAA">（甚至BLB還搞了個瓦絲卡+綠才能即死Combo）</font>，一直是近年標準的中流砥柱之一，不過Meta上主流的黑綠中速，是更加強調進攻節奏的主動向套牌，而筆者比較偏好重視長盤資源戰的慢節奏構築，兩者雖然共用了不少強力單卡，但遊戲計畫的底層邏輯是截然不同的，正好這次DSK更新牌張中有不少善用墳場的資源引擎單卡，它們在短期的節奏戰中難以對場面產生立即影響，但卻適合在長盤資源戰中創造出巨量的牌差，以此為基礎組出這套黑綠資源戰套牌。
 
-![封面](https://i.meee.com.tw/qHCv49E.png)
+![封面](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/2cd473e3da2a.webp)
 
 ---
 
 ## 套牌介紹
 
 [牌表連結](https://www.mtggoldfish.com/deck/6684229#paper)
-![List](https://i.meee.com.tw/w6BskmY.png)
+![List](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/7bd9bb409f5a.webp)
 
 整副牌的運作都基於一個核心理念： **「牌差」** ，最主要的遊戲計畫就是不停的賺牌，並與對手做資源交換，換到對手資源打乾為止。
 
@@ -34,10 +34,10 @@ excerpt: "手牌怎麼越打越多"
 ## 正編解析
 
 ### 三呼現身套裝
-![三呼現身](https://i.meee.com.tw/EPSfY04.png)
+![三呼現身](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/3b632bc562f7.webp)
 [直呼其名](https://scryfall.com/card/dsk/197/say-its-name)（4）+[三呼現身阿納克](https://scryfall.com/card/dsk/166/altanak-the-thrice-called)（1）：其實這才是筆者組出此套牌的私心原動力，我就是想玩這個三呼現身套裝。直呼其名就算放在常規2費濾牌咒語裡面，也都算比較強的了，要注意它是磨完牌後從墳場隨便挑一張生物或地上手，施放時並不需要選目標，回收的牌也不限磨下去的那三張，對提升套牌運作穩定度有不小的貢獻。至於從墳場放逐三張直呼其名來空投三呼現身阿納克，則是給了這個濾牌系統一個額外的上限，雖然阿納克也是一張殺就能解決的事，但它幾乎可以看做白送的生物，加上被瞄還會抽一張牌，有時只是濾個牌就會莫名白嫖+2的牌差。別忘了這是套自磨套牌，本來就會持續的堆墳，在實測中想要在墳場湊到三張直呼其名其實並不難，也因為墳場容易有地牌，所以阿納克就算上手了，通常也不用擔心會卡手。當然如果你夠賽的話，有機會二回把場面變成這樣……
 
-![二回](https://i.meee.com.tw/t5ZXFKG.jpg)
+![二回](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/1840685cf2a1.webp)
 
 不過三呼現身＆阿納克也常常是備牌局最常被換下去的牌，他們本質上畢竟只是個濾牌咒語與配套，屬於輔助咒語，即使拔掉了也不影響原有的遊戲計畫，在一些需要保留正編去除的前提下，換上更多針對牌的對局，它們總是第一個讓出卡位的。
 
@@ -108,7 +108,7 @@ excerpt: "手牌怎麼越打越多"
 [神奇小徑](https://scryfall.com/card/blb/252/fabled-passage)（2）：額外的調色，主動往墳場堆地牌也能讓[直呼其名](https://scryfall.com/card/dsk/197/say-its-name)、[三呼現身阿納克](https://scryfall.com/card/dsk/166/altanak-the-thrice-called)、[泰坦尼亞](https://scryfall.com/card/bro/193/titania-voice-of-gaea)運作得更穩定。
 
 {% mtgcard "Restless Cottage" %}
-[不息小屋](https://scryfall.com/card/woe/258/restless-cottage)（4）：變身地與[刺探地](https://scryfall.com/card/mkm/271/underground-mortuary)到底該怎麼取捨就看個人理解了，就筆者而言還是比較喜歡提升變身地數量，反正目前還沒有對色[邊陲地](https://i.imgur.com/9tyawQY.jpeg)，不用考慮類別地配率的問題。
+[不息小屋](https://scryfall.com/card/woe/258/restless-cottage)（4）：變身地與[刺探地](https://scryfall.com/card/mkm/271/underground-mortuary)到底該怎麼取捨就看個人理解了，就筆者而言還是比較喜歡提升變身地數量，反正目前還沒有對色[邊陲地](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/1477ab9ba869.webp)，不用考慮類別地配率的問題。
 
 [快地](https://scryfall.com/card/otj/266/blooming-marsh)（4）、[痛地](https://scryfall.com/card/blc/315/llanowar-wastes)（4）、樹林（4）、沼澤（4）：其餘比較標準的配地。
 
@@ -161,7 +161,7 @@ excerpt: "手牌怎麼越打越多"
 所以這次換備介紹我打算換個方式，除了紅底快攻、召集以外的對局，我會以假想敵的功能性特徵，來介紹哪些牌應該換掉，相信這也是大多人在換備牌時最頭痛的一點，至於該上哪些牌反而相對明確，也可以參考前面介紹備牌單卡時的備註標籤。
 
 ### 對墳場對策的應對
-![](https://i.meee.com.tw/v3RnDyU.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/f6dd7ef59a60.webp)
 
 身為一個墳場利用套牌，如何應對對手的墳場對策是很重要的一環，並且對手準備的墳場對策跟套牌主體很可能是割離的，單純是看它選用了哪張對策單卡而已。不過雖然說我們善於利用墳場資源，但還不到墳場主題那麼純，大多的遊戲計畫運作還是建立在戰場上的，同時那些利用墳場資源的牌基本上都是自己就能獨立運作的單卡，所以在換備牌時也可以無負擔的換掉。
 
@@ -183,18 +183,18 @@ excerpt: "手牌怎麼越打越多"
 
 
 ### 中速套牌
-![](https://i.meee.com.tw/o4biWC8.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/cb13ec698036.webp)
 
 在這對局中套牌主結構的變化不會太大，只要挪出幾個卡位放對應的針對牌就好，將[直呼其名](https://scryfall.com/card/dsk/197/say-its-name)＆[三呼現身阿納克](https://scryfall.com/card/dsk/166/altanak-the-thrice-called)全下後正常就能挪出足夠的卡位，並且一個合格的中速大多都會帶有墳場對策，參考上面的反制邏輯後，哪些牌該下掉就很明確了。
 
 ### 控制套牌
-![](https://i.meee.com.tw/vajXHZh.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/bf5ffa23133a.webp)
 
 通常來說去除在這個對局是最沒用的，至少毀容＆進退無路是確定沒用了，但現在的控制生物也是越來越多了（不是生物牌但能產出生物Token的也算），尤其很多都躲在備牌裡，所以也不能無腦的把去除全下，還要留一定數量能制衡對手的高射程去除，具體的量就要視對手構築而定了。另外控制不太可能不帶墳場對策，尤其白底控制都會有RIP，所以三呼現身套裝還是留不住。
 考量近期白底控制高佔比是[照護者才能](https://scryfall.com/card/blb/6/caretakers-talent)衍生型，多半會變成神器結界拆全上的換備模式，一方面阻止對方的資源引擎，一方面避免自己的資源引擎被干擾，並且面對白才能Token控時反而需要上惡意蔽日取代一般點殺，用小掃場來解決對面的Token海防線。
 
 ### 紅底快攻
-![](https://i.meee.com.tw/1sVTTKE.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/7b308dace5a6.webp)
 
 | Side In | Side Out |
 | :-: | :-: |
@@ -208,7 +208,7 @@ excerpt: "手牌怎麼越打越多"
 
 
 ### 召集
-![](https://i.meee.com.tw/pWv4Qr3.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/d79a0852f234.webp)
 
 | Side In | Side Out |
 | :-: | :-: |
@@ -280,14 +280,14 @@ excerpt: "手牌怎麼越打越多"
 
 上面有提到，在[得享安息](https://scryfall.com/card/big/4/rest-in-peace)面前，[黑霸主](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk)與[棘芽農夫](https://scryfall.com/card/big/17/bristlebud-farmer)同樣是磨牌後回收資源，一個無法回收牌張，另一個卻可以，讓我們來看看究竟為何會產生此差異：
 
-![不可回收](https://i.meee.com.tw/YaGdvlY.png)
+![不可回收](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/6736e7efbca5.webp)
 >[災沼霸主](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk)：每當災沼霸主進場或攻擊時，磨四張牌，然後你可以將一張非聖者生物牌或鵬洛客牌從你的墳墓場移回你手上。
 >[得享安息](https://scryfall.com/card/big/4/rest-in-peace)：如果任一張牌或衍生物將從任何地方置入墳墓場，改為將它放逐。
 
 黑霸主的能力是先磨4張牌後，再從墳場回收一張符合條件的牌，不過在磨牌的瞬間，那些牌就會因為RIP的替代性效應改為放逐，因此黑霸主磨完牌後想從墳場回收牌張時，會發現你的墳場空空如也，根本沒有符合條件的牌可以選，自然就回收不到東西了。
 （另外，[直呼其名](https://scryfall.com/card/dsk/197/say-its-name)的寫法與黑霸主是同樣的邏輯）
 
-![可回收](https://i.meee.com.tw/O5mJhQe.png)
+![可回收](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/a35f9fe7d931.webp)
 >[棘芽農夫](https://scryfall.com/card/big/17/bristlebud-farmer)：每當棘芽農夫攻擊時，你可以犧牲一個食品。若你如此作，則磨三張牌。你可以將其中一張永久物牌置於你手上。
 >[得享安息](https://scryfall.com/card/big/4/rest-in-peace)：如果任一張牌或衍生物將從任何地方置入墳墓場，改為將它放逐。
 

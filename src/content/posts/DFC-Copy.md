@@ -1,8 +1,8 @@
 ---
 title: "轉化式雙面牌與複製效應"
 date: 2023-09-28 12:00:00
-cover: "https://i.imgur.com/NwTeh61.png"
-thumbnail: "https://i.imgur.com/NwTeh61.png"
+cover: "https://images.guildmagesforum.tw/posts/DFC-Copy/d94e56e09e4c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFC-Copy/d94e56e09e4c-cover.jpg"
 
 excerpt: "當我嘗試複製一個轉化式雙面牌時會得到甚麼?"
 
@@ -20,7 +20,7 @@ authors:
 
 （備註：下文僅以 **雙面牌** 描述時，皆是指 **轉化式雙面牌**）
 
-![Incubator](https://i.imgur.com/oHdCAea.jpg)
+![Incubator](https://images.guildmagesforum.tw/posts/DFC-Copy/c43d513a4d7d.webp)
 
 ---
 
@@ -41,7 +41,7 @@ authors:
 - 712.18
   當一個轉化式雙面永久物轉化時，它不會成為新的物件。任何已對該永久物生效的效應，在它轉化後將繼續對它生效。
 
-其中 **712.9** 是條非常新的規則變更，也是許多人規則理解錯亂的根源，這便是由邪軍壓境的[撫育器Token](https://i.imgur.com/oHdCAea.jpg)帶來的Token規則變更。
+其中 **712.9** 是條非常新的規則變更，也是許多人規則理解錯亂的根源，這便是由邪軍壓境的[撫育器Token](https://images.guildmagesforum.tw/posts/DFC-Copy/c43d513a4d7d.webp)帶來的Token規則變更。
 
 以往的規則為只有 「轉化式雙面**牌**」 可轉化，Token不滿足條件，不具備可轉化的背面，派出某個雙面牌複製品Token時，只會得到其中一面的資訊，且無法執行轉化動作。
 
@@ -53,7 +53,7 @@ authors:
 
 ## 派出一個雙面牌複製品Token
 
-![](https://i.imgur.com/nJ0UF0T.jpg)
+![](https://images.guildmagesforum.tw/posts/DFC-Copy/4e8b67d213f3.webp)
 
 無論你用[偽體擬形](https://cards.scryfall.io/large/front/f/0/f069646c-fae2-40bd-92bc-35459a84d847.jpg?1572892821)或是[恐怖玩具屋](https://cards.scryfall.io/large/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1681389581)派出一個[墓地擅闖客](https://cards.scryfall.io/large/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903)的複製品Token，結果都是一樣的，這個Token擁有墓地擅闖客的雙面資訊，可以按照原有的轉化規則進行轉化。
 
@@ -65,7 +65,7 @@ authors:
 
 ## 死靈奇才盧德維+永續天使
 
-![不死天使](https://i.imgur.com/qqCgz80.jpg)
+![不死天使](https://images.guildmagesforum.tw/posts/DFC-Copy/44eb9cf14b24.webp)
 
 當你使用[死靈奇才盧德維](https://cards.scryfall.io/large/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654)的異能，轉化成[盧德維巨作歐拉格](https://cards.scryfall.io/large/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654)，並讓其成為[永續天使](https://cards.scryfall.io/large/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1634347126)的複製品後，你的歐拉格會獲得永續天使的能力，其中包含這條：「如果你的總生命將降至0或更少，則改為轉化此卡且你的總生命成為3，然後如果此卡未以此法轉化，則你輸掉這盤遊戲。」
 
@@ -81,11 +81,11 @@ authors:
 
 因為單純的轉化沒有離場，並非成為新物件，「此卡成為永續天使的複製品」這條效應也不會消失，所以每當你的生命降至0時，這張卡便會在盧德維/歐拉格的正反面之間反覆切換，但無論翻到哪一面，因為「此卡成為永續天使的複製品」的效應還在，你最後看到的都是一張永續天使。只要你的對手沒辦法處理掉你的天使，你就可以一直鎖血在0～3點血之間！
 
-![不死天使](https://i.imgur.com/N5QVgwS.jpg)
+![不死天使](https://images.guildmagesforum.tw/posts/DFC-Copy/bb5620c5909c.webp)
 
 順便讓我們來舉一反三，看看下面這些牌複製成永續天使後，當你生命降至0時會如何：
 
-![變形獸](https://i.imgur.com/miNXxCl.jpg)
+![變形獸](https://images.guildmagesforum.tw/posts/DFC-Copy/9e7b7c0b284d.webp)
 
 - 712.8d
   當轉化式雙面永久物的正面朝上時，它只具有其正面所述的特徵值。
@@ -99,7 +99,7 @@ authors:
 
 ## 進軍阿芒凱+希歐蕊
 
-![阿芒凱希歐蕊](https://i.imgur.com/KForwxH.jpg)
+![阿芒凱希歐蕊](https://images.guildmagesforum.tw/posts/DFC-Copy/6bd328ad0b22.webp)
 
 [進軍阿芒凱](https://cards.scryfall.io/large/front/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1682715194)轉化為[拉佐特變節者](https://cards.scryfall.io/large/back/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1682715194)並成為[希歐蕊](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978)的複製品，這題的情境與上題類似，雖然戰場的轉化流程稍微有點特殊，但這不影響他身為轉化式雙面牌的規則處理。
 
@@ -110,13 +110,13 @@ authors:
 
 希歐蕊要求以「已轉化」的形式回到戰場，因此啟動這條異能時無論自己是正面或背面，最終都會以背面的形式返回戰場，而拉佐特變節者又能夠做為墳場中任何生物的複製品進場，因此它進場時會是你新選擇的對象複製品。
 
-![阿芒凱希歐蕊](https://i.imgur.com/rpHQfx6.jpg)
+![阿芒凱希歐蕊](https://images.guildmagesforum.tw/posts/DFC-Copy/eb23641a107d.webp)
 
 ---
 
 ## 鏡身影+希歐蕊
 
-![鏡身希歐蕊](https://i.imgur.com/npP0Iad.jpg)
+![鏡身希歐蕊](https://images.guildmagesforum.tw/posts/DFC-Copy/8fdc6cf9b050.webp)
 
 同樣是成為[希歐蕊](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978)的複製品，如果改為由[鏡身影](https://cards.scryfall.io/large/front/5/b/5b3ffc69-f21b-410e-8993-8c1b4669fc19.jpg?1562302230)這類非轉化式雙面牌複製，執行「放逐此卡並已轉化的進場」這段能力時又會如何呢？
 
@@ -127,23 +127,23 @@ authors:
 
 鏡身影最後所待過的「原有的區域」正是放逐區，它將被留在這裡，也就是說如果你讓鏡身影使用希歐蕊的轉化異能的話，它會放逐自己，然後就沒有然後了...。
 
-![鏡身希歐蕊](https://i.imgur.com/cSHOvkc.jpg)
+![鏡身希歐蕊](https://images.guildmagesforum.tw/posts/DFC-Copy/aff43275a5f6.webp)
 
 ---
 
 ## 希歐蕊+共魂利刃+遭魅新郎艾德嘉
 
-![刀1](https://i.imgur.com/Ui65sN3.jpg)
+![刀1](https://images.guildmagesforum.tw/posts/DFC-Copy/b415f037b32b.webp)
 
 當[希歐蕊](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978)佩帶[共魂利刃](https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948)並使其成為[遭魅新郎艾德嘉](https://cards.scryfall.io/large/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1643594071)複製品後因為任何原因死去時（例如因為傳奇規則犧牲），觸發艾德嘉的死亡異能「當此卡死去時，將其在擁有者的操控下移回戰場且已轉化」，由於規則敘述是「已轉化」，希歐蕊將以背面（[化真經文](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back)）的形式重回戰場，且因為進場時就已經是傳記，滿足傳記放學問指示物的條件，因此會在其上放一個學問指示物並執行第I章的章節能力。
 
-![刀1](https://i.imgur.com/KlayHnK.jpg)
+![刀1](https://images.guildmagesforum.tw/posts/DFC-Copy/0f997b3f6096.webp)
 
 ---
 
 ## 希歐蕊+共魂利刃+遮物簾幕
 
-![刀2](https://i.imgur.com/dEVSOmk.jpg)
+![刀2](https://images.guildmagesforum.tw/posts/DFC-Copy/59bf2b1830c3.webp)
 
 共魂利刃的一大特色就是可以讓A牌如同仿生妖一樣成為B牌的複製品，又可以在不讓牌離開戰場成為新物件的情況下結束複製效應，這可以更加清晰的呈現複製效應作用於雙面牌時的底層邏輯。
 
@@ -153,7 +153,7 @@ authors:
 
 不過希歐蕊確實已經轉化成背面的[化真經文](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back)了，只是因為複製效應蓋住了讓你看不出來，現在我們把共魂利刃卸裝，終止「此卡成為遮物簾幕的複製品」的效應，這時你就會看到這張牌原始的狀態，也就是一個化真經文，不過因為傳記沒有檢查到自己進場的時機，因此上面目前沒有任何學問指示物，待你下一個主階一開始時，才會獲得學問指示物並執行第I章的章節能力。
 
-![刀2](https://i.imgur.com/kbRLYfx.jpg)
+![刀2](https://images.guildmagesforum.tw/posts/DFC-Copy/c4a7c00b8b63.webp)
 
 ---
 

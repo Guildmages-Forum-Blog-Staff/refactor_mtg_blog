@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/oHZv8Si.png"
-thumbnail: "https://i.meee.com.tw/oHZv8Si.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-multicolors/bb913851f019-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-multicolors/bb913851f019-cover.jpg"
 excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列吧？"
 ---
 
@@ -18,11 +18,11 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 
 ## 色組主題
 
-![SOS輪抽五色組卡圖](https://i.meee.com.tw/4lEJXWp.png)
+![SOS輪抽五色組卡圖](https://images.guildmagesforum.tw/posts/SOS-multicolors/aef6ef1d9d56.webp)
 
 ### <span style="color:#C3B270">白</span><span style="color:#808080">黑</span>銀毫（Silverquill）學院
 
-![](https://i.meee.com.tw/hTURnE7.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/eebec879f98f.webp)
 
 代表機制：**連辭（Repartee）** 
 
@@ -34,11 +34,11 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 
 以上情境提到的都是針對我方增益的連辭模式。另一方面，你也可以手握大量去除，同時靠強力的連辭效果的生物來把你的對手反駁到啞口無言！
 
-![](https://i.meee.com.tw/ztFbYJZ.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/3fbd856ac663.webp)
 
 ### <span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span>粹麗（Prismari）學院
 
-![](https://i.meee.com.tw/xIE0YZO.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/1e691010ebba.webp)
 
 代表機制：**炫示（Opus）**
 
@@ -48,7 +48,7 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span>靡華（Witherbloom）學院 
 
-![](https://i.meee.com.tw/pwgSDbM.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/7ad9b185b1dc.webp)
 
 代表機制：**輸注（Infusion），即本回合獲得生命**
 
@@ -58,7 +58,7 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span>衡鑑（Lorehold）學院
 
-![](https://i.meee.com.tw/cwHfRyX.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/7f1939958aaf.webp)
 
 代表機制：**返照（Flashback）**
 
@@ -76,7 +76,7 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span>量析（Quandrix）學院
 
-![](https://i.meee.com.tw/xK2zar3.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/ce6edcb3f720.webp)
 
 代表機制：**遞增（Increment）**
 
@@ -94,11 +94,11 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 
 你是否有過在限制賽時，拿<span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span>售前盒卻其他包都開<span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span>的料呢？在其他系列，你可能就得被逼著打三色甚至更多，並用相當不穩的調色基礎開始求神拜佛，希望給你一個曲線正常能運作的開局。在SOS的限制賽中，上述的狀況雖然仍會發生，但聚輝牌的存在，讓你即使顏色不對，也能有中庸偏上的一戰之力。
 
-![](https://i.meee.com.tw/DGMWGqB.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/ad8fc06cff58.webp)
 
 在雙色套牌中，聚輝牌僅能發揮基礎下限，強度大概是填充物等級或更差；但在三色以上的套牌中，聚輝咒語施放時每多一個顏色，強度將有感提升！
 
-![](https://i.meee.com.tw/iqOWpwv.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/5ebe567798d0.webp)
 
 若算上這次秘典（SOA），有色瞬間/巫術總共有5張聚輝牌。當你的現開牌池破爛不堪時，別忘了把目光移向它們，也許你會找出新的可能性！
 
@@ -119,7 +119,7 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 - **精靈（Spirits）：** [生物類別是精靈的有5張](https://scryfall.com/search?as=grid&order=name&q=%28type%3Acreature+type%3Aspirit%29+%28game%3Apaper%29+set%3Asos+prefer%3Abest)，除了 {% mtglink "Bogwater Lumaret" %} 是黑綠色以外，其他4張都是紅白色組。另外有[5張紅白色的牌會派出2/2精靈衍生物](https://scryfall.com/search?as=grid&order=name&q=%28oracle%3ASpirit+oracle%3Atoken%29+%28game%3Apaper%29+set%3Asos+prefer%3Abest)。**總計10張精靈相關牌**。
 - **害蟲（Pests）：** [生物類別是害蟲的有4張](https://scryfall.com/search?q=%28type%3Acreature+type%3Apest%29+%28game%3Apaper%29+set%3Asos+prefer%3Abest&unique=cards&as=grid&order=name)，僅在<span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span>雙色出現。另外有[5張黑綠色的牌會派出1/1害蟲衍生物](https://scryfall.com/search?q=oracle%3Apest+oracle%3Atoken+%28game%3Apaper%29+set%3Asos+prefer%3Abest&unique=cards&as=grid&order=name)。**總計9張害蟲相關牌**。
 
-![](https://i.meee.com.tw/fAMTlFJ.jpg)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/f513389dfc9f.webp)
 <p style="text-align: center;"><a class="small">種族回報牌幫大家整理在上面了，不必客氣。</a></p>
 
 ## 評分標準
@@ -363,7 +363,7 @@ excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列�
 分數：3.0
 評語：他在場時就可以以一個生物跟兩費為代價，本回合放逐一張對手墳場的瞬間/巫術來施放它（該咒語的費用仍需支付，且仍須遵守其可施放時機），這麼做的話，你就能在全家生物上放一個豆。厲不厲害不好說，但能用對手的牌這件事，應該能讓許多NTR黨感到興奮吧？！
 
-![](https://i.meee.com.tw/BfAapTl.webp)
+![](https://images.guildmagesforum.tw/posts/SOS-multicolors/1cd31ef5e13d.webp)
 
 <!---207--->
 {% mtgpick "sos" 207 %}

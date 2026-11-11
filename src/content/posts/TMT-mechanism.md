@@ -7,20 +7,20 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/R51oo54.png"
-thumbnail: "https://i.meee.com.tw/R51oo54.png"
+cover: "https://images.guildmagesforum.tw/posts/TMT-mechanism/b5f5b7dfcbe7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TMT-mechanism/b5f5b7dfcbe7-cover.jpg"
 excerpt: "來看看忍者龜中出現了哪些機制吧！"
 ---
 
 ## 突變劑衍生物（Mutagen Token）
-![Mutagen token](https://i.meee.com.tw/0hj8WH6.png) 
+![Mutagen token](https://images.guildmagesforum.tw/posts/TMT-mechanism/24935234f474.webp) 
 
 突變劑是一種新的神器衍生物，突變劑衍生物具有以下異能： **「{1}，{T}，犧牲此衍生物：在目標生物上放置一個+1/+1指示物。只能於巫術時機起動。」**
 
 
 
 ## 奇襲（Sneak）
-![Sneak](https://i.meee.com.tw/8yDsWhf.png)
+![Sneak](https://images.guildmagesforum.tw/posts/TMT-mechanism/ac7e9238c765.webp)
 
 說到忍者怎麼能沒有忍術（Ninjutsu）呢～ 啊！？ 還真的沒有……？ 這系列雖然沒有忍術，但出了個忍術的變體版機制：奇襲。
 
@@ -35,7 +35,7 @@ excerpt: "來看看忍者龜中出現了哪些機制吧！"
 
 
 ## 消失（Disappear）
-![Disappear](https://i.meee.com.tw/g8hbA0j.png) 
+![Disappear](https://images.guildmagesforum.tw/posts/TMT-mechanism/7d092108c9fc.webp) 
 
 消失是一個異能提示文字，效果皆為 **「在你的結束步驟開始時，若本回合有永久物在你的操控下離開戰場，則觸發後續效果」**。
 
@@ -44,14 +44,14 @@ excerpt: "來看看忍者龜中出現了哪些機制吧！"
 
 
 ## 聯手（Alliance）
-![Alliance](https://i.meee.com.tw/wzw7xDl.png) 
+![Alliance](https://images.guildmagesforum.tw/posts/TMT-mechanism/02e3abac9645.webp) 
 
 聯手是來自[新卡佩納](https://scryfall.com/search?q=oracle%3AAlliance+%28game%3Apaper%29+set%3Asnc+prefer%3Abest&order=set&as=grid)的一個復出的異能提示文字，聯手都是觸發式異能，當有另一個生物在你的操控下進場時，便會觸發後續效果。
 
 
 
 ## 傳紀（Saga）
-![Saga](https://i.meee.com.tw/zmsGFQC.png) 
+![Saga](https://images.guildmagesforum.tw/posts/TMT-mechanism/013b9b8b563b.webp) 
 
 傳紀是個結界的副類別。傳紀的左側有以羅馬數字標示的章節（I、II、III、IV ……），每個章節都有對應的觸發式異能（章節異能）。於傳紀進場時、或是在你的第一行動階段（First Main Phase）開始時，會在該傳紀上放置一個學問指示物（Lore Counter）。每當傳紀上被放置學問指示物時，便會觸發與學問指示物數量相等的章節上的章節異能。
 
@@ -62,7 +62,7 @@ excerpt: "來看看忍者龜中出現了哪些機制吧！"
 
 
 ## 職業（Class）
-![Class](https://i.meee.com.tw/WJzM75u.png) 
+![Class](https://images.guildmagesforum.tw/posts/TMT-mechanism/5e29e3795975.webp) 
 
 職業是一種結界的副類別，擁有自己的專屬規則，並且雖然和上面的傳紀看起來很像，但規則完全不一樣。
 
@@ -75,7 +75,7 @@ excerpt: "來看看忍者龜中出現了哪些機制吧！"
 
 
 ## 指揮官機制：拍檔-角色選擇（Partner — Character select）
-![Partner](https://i.meee.com.tw/vjuzzBM.png) 
+![Partner](https://images.guildmagesforum.tw/posts/TMT-mechanism/8f844ccfc6c6.webp) 
 
 你可以將兩個具有 **拍檔-角色選擇** 異能的牌一同作為你的指揮官，這時會使用這兩張牌的標誌色組合，來定義你的指揮官套牌內可以放哪些牌。
 

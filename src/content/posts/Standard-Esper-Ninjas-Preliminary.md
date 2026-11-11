@@ -7,8 +7,8 @@ authors:
 categories:
   - "Tournaments"
   - "MIT"
-cover: "https://i.meee.com.tw/ITHyNjF.webp"
-thumbnail: "https://i.meee.com.tw/ITHyNjF.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/4900789564d7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/4900789564d7-cover.jpg"
 excerpt: "藍黑中速進化——艾斯波忍者！！！"
 ---
 
@@ -53,7 +53,7 @@ excerpt: "藍黑中速進化——艾斯波忍者！！！"
 
 週日跟朋友練牌，用藍黑中速的基底去改成下面這一版的艾斯波忍者，基本上鎖定了 {% mtglink "Dark Leo & Shredder" %} 與 {% mtglink "The Last Ronin's Technique" %} 各3張的版本。沒有像Pro一樣放滿的原因在於一費曲線不足，尤其是Technique在沒有一費曲線、或阻擋前被殺掉的情況下就會卡手。
 
-![](https://i.meee.com.tw/bPM9YUi.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/d848fb6fe1d7.webp)
 
 > 後來發現這一版，跟[MIT#11正賽的八強曾宥均的構築](https://melee.gg/Decklist/View/5c0adda1-5277-434d-9993-b40501722142)很接近了，但我好像有再往前想幾步，~~不然這篇應該要叫他來寫XD~~
 > 話說我們真的沒有討論過，算是藍黑中速老玩家的不謀而合吧XD
@@ -68,7 +68,7 @@ excerpt: "藍黑中速進化——艾斯波忍者！！！"
 
 [Melee套牌連結](https://melee.gg/Decklist/View/f1130c0d-f4eb-49f9-b054-b3e900f95251)
 
-![](https://i.meee.com.tw/0xw4w0O.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/a5edbc70e121.webp)
 
 
 - 生物牌：25張（12張一費生物、10張其他生物；另外，3張 {% mtglink "The Last Ronin's Technique" %} 我也算在生物的卡位裡）。
@@ -158,7 +158,7 @@ excerpt: "藍黑中速進化——艾斯波忍者！！！"
 
 #### 一費生物
 
-![](https://i.meee.com.tw/o5zYsRy.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/008b4d91ae50.webp)
 
 選擇艾斯波忍者，意味著加入二費的Sneak爆發。要能穩定二回Sneak，那能打得出去的一費生物必不可少。在這個策略下，增加一費生物是必要的，因此前面提到過 {% mtglink "Spyglass Siren" %} 與 {% mtglink "Dream Beavers" %} 哪個更好已不再是問題， **兩個都放好放滿才是最佳解** 。
 
@@ -174,7 +174,7 @@ excerpt: "藍黑中速進化——艾斯波忍者！！！"
 
 這兩隻藍黑雙煞，確立了我們第一回合的進攻動點、並提供額外的隱性資源讓第二回合後的展開更加順利。
 
-![](https://i.meee.com.tw/wcPU40v.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/fd70b34bb7c7.webp)
 
 在我們怎麼配都很痛的地牌配置中，要讓Cecil三回翻面不成問題。而一費2/3死觸的體格也讓他不論在攻守間中都相當可靠。翻面變成4/4繫命的聖騎士後，進攻時還可以讓其他生物獲得不滅，讓後續的忍術與奇襲更容易成功！
 {% mtglink "Flitterwing Nuisance" %} 雖是最弱的一費曲線，但他的起動式異能則允許我們不用把較笨重的 {% mtglink "Enduring Curiosity" alt="藍貓" %} 放滿，是我選擇他的主因。別忘了，我們的套牌設計讓他有回手後多次起動異能的機會；甚至 {% mtglink "Requiting Hex" %} 也有助於重新活化他。若一切順利，這一來一往的牌差將相當可觀。
@@ -347,11 +347,11 @@ Hex作為極為可靠的一費去除，可以防住各種套牌二回合前的�
 
 事後諸葛來看，**我參賽的這一版的艾斯波忍者，可能是提早一周登場的版本。從奪冠的是藍黑拷問魔、亞軍是本週新興起的純白Momo，艾斯波忍者撞到各路純白momo相當難打。但如果是下一週或之後meta轉往藍黑拷問魔或其他中速為主的話，那就正好落入這版艾斯波忍者的好球帶。** 當然，它還有許多需要改善的地方，但這一版的核心與框架是值得繼續調整的。成績不夠理想是我對meta的理解、以及對純白momo的熟練度不夠，不是這套牌的問題。
 
-![陳盈孝_MIT#11對局紀錄](https://i.meee.com.tw/hRlxAsG.webp)
+![陳盈孝_MIT#11對局紀錄](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/aec93ee32563.webp)
 
 回顧一下正賽成績，我的部分輸了2個純白momo、跟一個純白打成和局。另外輸了一個天剋純紅快攻，三色基底遇到純紅，{% mtglink "Sunspine Lynx" alt="山貓" %} + {% mtglink "Zhao, the Moon Slayer" %} 到底該怎麼玩QQ
 
-![曾宥均_MIT#11對局紀錄](https://i.meee.com.tw/kZphRNs.webp)
+![曾宥均_MIT#11對局紀錄](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/451369413949.webp)
 
 而宥均的部分輸了2個純白momo、跟1個純綠地落，也證明了現在的版本對上新型的純白tempo是相對弱勢、或者其中有值得進一步研究的地方。
 
@@ -359,7 +359,7 @@ Hex作為極為可靠的一費去除，可以防住各種套牌二回合前的�
 
 **如果純白先手：幾乎沒救。** 唯一的辦法是備牌帶 {% mtglink "Intimidation Tactics" %} ，與 {% mtglink "Pest Control" %} 並起手都抽到。附帶一提，這個起手最多可調度二去找。
 
-![](https://i.meee.com.tw/HTnfxcM.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/2f56cdb25d08.webp)
 
 - **純白T1**：下平原 + 鼓
 - **艾斯波T1**：下黑白邊陲地 + Intimidation Tactics拔掉 Sage of the Skies（如果對手有2隻Sage、或topdeck第2隻一樣沒救，但我們不討論這情境）。
@@ -369,7 +369,7 @@ Hex作為極為可靠的一費去除，可以防住各種套牌二回合前的�
 
 **如果艾斯波先手：除了上述的起手外，另外也可考慮接Siren、Technique、Aang + 3張對的地牌的起手，第7張隨喜，可容忍調度一**。
 
-![](https://i.meee.com.tw/FNw7puI.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/654fc443c6e2.webp)
 
 - **艾斯波T1**：下藍黑Verge + Siren
 - **純白T1**：下平原 + 鼓

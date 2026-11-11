@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/DP50oAz.png"
-thumbnail: "https://i.meee.com.tw/DP50oAz.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-multicolors/061ba15b2d49-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-multicolors/061ba15b2d49-cover.jpg"
 excerpt: "這張怎麼這麼強？！我要再混一個顏色！！！"
 ---
 

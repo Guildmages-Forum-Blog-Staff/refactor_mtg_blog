@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/Twp8tYv.jpg"
-thumbnail: "https://i.meee.com.tw/sniS8mY.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/0489ab6b8d8c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/3178be45cb35-cover.jpg"
 excerpt: "在和蹦蹦正式碰面以前，其實筆者就已是他的潛水粉絲了。[勇德大叔的日常](https://www.facebook.com/UncleJund)粉專充斥著大叔式的日常笑點，有趣之餘也流洩著選手的價值觀及魅力。且看大叔與大叔的交流會迸出什麼火花吧！"
 ---
 
@@ -17,7 +17,7 @@ excerpt: "在和蹦蹦正式碰面以前，其實筆者就已是他的潛水粉�
 在和蹦蹦正式碰面以前，其實筆者就已是他的潛水粉絲了。[勇德大叔的日常](https://www.facebook.com/UncleJund)粉專充斥著大叔式的日常笑點，有趣之餘其實也流洩著選手的價值觀及魅力。且看大叔與大叔的交流會迸出什麼火花吧！
 提前暴雷一下，這肯定是一次有趣的交流，因為……我們有拆卡包呀。
 
-![](https://i.meee.com.tw/77YlNJq.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/a85475d1108f.webp)
 
 > 深夜時分，兩位大叔都有點疲倦了……所以來 [CardMaster](https://www.facebook.com/cardmaster.tw) 補充心靈能量。至於最後開出了什麼？請容我們先賣個關子，先進入幾則訪談吧。
 
@@ -46,11 +46,11 @@ A：我大概是在高中的時候被同學拉進來玩，印象中，當時的�
 A：應該就是 [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf) 了！曾經的 Modern 卡價王者。近代大師重印時，我開到閃的 [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf) ，當時的卡包還沒有 guarantee foil ，所以真的好開心好興奮啊，加上 [Liliana of the Veil](https://scryfall.com/card/mm3/76/liliana-of-the-veil) 和 [Dark Confidant](https://scryfall.com/card/mma/75/dark-confidant) ，應該算是我成為勇德大叔的原點。
 後來我升級為 Future Sight 版本的閃 [Tarmogoyf](https://scryfall.com/card/fut/153/tarmogoyf) ，另外，賽洛斯時期自主開出四張閃 [Thoughtseize](https://scryfall.com/card/ths/107/thoughtseize) ，又是另一段故事了……
 
-![](https://i.meee.com.tw/i4WIYNb.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/ae9179a8d47a.webp)
 
 > 訪談中場休息時間，暫時回到 [CardMaster](https://www.facebook.com/cardmaster.tw) 現場，開出了 [Flare of Malice](https://scryfall.com/card/mh3/95/flare-of-malice) ~~不愧勇德大叔之名~~！蹦蹦低聲呢喃：「太好了，不算阿里不達的東西……」
 
-![](https://i.meee.com.tw/u4gsraH.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/1275a48196e2.webp)
 
 > 趕快拍一拍吧我想開下一包了。（設計對白）
 
@@ -111,11 +111,11 @@ A：這個遊戲可以在對手的回合做事情，其他大部分的 TCG 遊�
 
 A：它讓我認識了很多人、很多朋友。會打魔法風雲會的人，年紀很多都比較大了 XD ，相處起來的頻率就比較適合~~大叔惜大叔~~，是生活中自然、重要的娛樂。
 
-![](https://i.meee.com.tw/sniS8mY.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/3178be45cb35.webp)
 
 > 謝謝蹦蹦的簽名版 [Archfiend of the Dross](https://scryfall.com/card/one/304/archfiend-of-the-dross) ，這是一張相當能代表蹦蹦牌涯的單卡，筆者會好好收藏~~自肥~~的。
 
-![](https://i.meee.com.tw/iflpUZx.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/66991486a0dd.webp)
 
 > 也感謝蹦蹦撥空受訪，甚至還預先準備了回答的方向~~小抄~~，加上魔風集會所的筆記就成為這篇文章了。明後兩天分別還有第五循環及第六循環的冠軍選手訪談，請讀者們持續追蹤囉。
 

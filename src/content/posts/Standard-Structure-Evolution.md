@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/VKOfEhk.jpg"
-thumbnail: "https://i.meee.com.tw/VKOfEhk.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/0858a2aabf25-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/0858a2aabf25-cover.jpg"
 excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 ---
 
@@ -18,7 +18,7 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 然而，這兩張牌已經在標準待上了約莫兩年，中間經歷了一次標準輪替，環境中的威脅早就大洗牌了，如今[斬落](https://scryfall.com/card/dmu/89/cut-down)真的還是[毀容](https://scryfall.com/card/bro/91/disfigure)的上位選項嗎？
 
-![封面](https://i.meee.com.tw/WbVVoIB.png)
+![封面](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/3c5f90fe175b.webp)
 
 ---
 
@@ -36,7 +36,7 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 當然，在這裡我們要先排除自己套牌內有額外搭配的前提，假設你的套牌正編就放了張[至美心智傑斯](https://scryfall.com/card/one/57/jace-the-perfected-mind)，此時斬落的射程上限毫無疑問高於毀容，這種情況下，兩張去除就不是同一等級的，也不用再猶豫了。
 
-![傑斯](https://i.meee.com.tw/uosQC46.png)
+![傑斯](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/f9631ca21bf7.webp)
 
 ---
 
@@ -44,7 +44,7 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 首先我們來分析一下，為甚麼直到BLB的標準輪替前，都是使用斬落，完全不考慮毀容？其實只要一張圖就已經交代完了：
 
-![](https://i.meee.com.tw/88F1wAy.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/8a670a3bb86c.webp)
 
 在 MID ~ SNC 還在標準的時機，以[卜策魔拉斐茵](https://scryfall.com/card/snc/213/raffine-scheming-seer)為首的艾斯波體系套牌，一直都是環境中的絕對主流，拉斐茵就是一張節奏好、威脅 MAX 的超強力生物，勢必要在第一時間把它解掉，因為守護一的關係，二費去除還不見得來得及，所以斬落成了當時黑色一費去除的唯一選擇。
 
@@ -60,8 +60,8 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 老樣子，那些無論使用斬落與毀容，都解得掉、或都解不掉的生物，不在我們的討論範圍內，我們只關注哪些生物在使用不同解牌時會產生差異。
 
-![](https://i.meee.com.tw/34QLXtS.png)
-![](https://i.meee.com.tw/k3b2elT.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/96d9ce6145ef.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/f39a3ec1e6fe.webp)
 
 ### 斬落的優勢
 
@@ -69,7 +69,7 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 以下為筆者撰文當下，依金魚網MetaGame統計，套牌使用率由高往低排列，其中有被使用的符合條件生物，時間跨度分別搜索過 7Days 、 14Days 、 30Days ，但老實說，結果幾乎不變，只是部分順位交換。另外追加個當下雖沒資料，但因為DSK是結界環境而被榮譽提名的[永世陰謀家祖爾](https://scryfall.com/card/dmu/228/zur-eternal-schemer)：
 
-![](https://i.meee.com.tw/iXmV6yk.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/add5d5e93cde.webp)
 
 是不是覺得這些傢伙好像根本不常見，或者有它們的對局中。壓根不是個該多擺低射程殺的對局呢？ 
 
@@ -78,7 +78,7 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 > PS：筆者個人愛將[航箏盜賊](https://scryfall.com/card/lci/61/kitesail-larcenist)也擺在斬落專屬射程的清單上，一開始 P 圖時想都沒想，就先給了它一個位置，結果搜尋資料才發現有使用它的藍色系節奏套牌通通都已查不到紀錄，不過我對自己使用[航箏盜賊](https://scryfall.com/card/lci/61/kitesail-larcenist)的決定仍然保有信心，因為在反覆地套牌測試中已經確定，[航箏盜賊](https://scryfall.com/card/lci/61/kitesail-larcenist)確實對我的套牌運作有關鍵性作用。
 
 實際上現環境中，最能體現斬落相對優於毀容的生物，反而是在複合條件前提下的[寺院迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)與[內宇護衛](https://scryfall.com/card/lci/43/warden-of-the-inner-sky)：
-![](https://i.meee.com.tw/LV0qOTz.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/6f8723cb5b85.webp)
 寺院迅矛僧只要觸發靈技一次，就會澈底超出毀容的射程，但只要那個觸發靈技的咒語不是對著寺院迅矛僧開的膨脹咒語，那就還在斬落的射程內。不過這問題會在稍後對於新環境的論點中被些微淡化。
 
 內宇護衛本身自帶膨脹異能，膨脹一次即超出毀容射程，但斬落還能解得掉，另外，有它的套牌內也經常性攜帶[戰領召令](https://scryfall.com/card/mkm/242/warleaders-call)，這讓毀容能處理它的時機非常受限。
@@ -91,11 +91,11 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 其實毀容比較有優勢的情況，大致都可以歸類到同一種對手，而這個對手在現在的環境中有著難以忽視的存在感，那就是以地脈英武為首，使用[心火勇士](https://scryfall.com/card/blb/138/heartfire-hero)的紅底的快攻體系：
 
-![紅地脈](https://i.meee.com.tw/uRIjqXO.png)
+![紅地脈](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/33a6b236acfb.webp)
 
 [心火勇士](https://scryfall.com/card/blb/138/heartfire-hero)毫無疑問是目前紅色系一費威脅的標竿，就算是比較重視[電震](https://scryfall.com/card/mkm/144/shock)、[閃電煉擊](https://scryfall.com/card/dmu/137/lightning-strike)這類燒的傳統型紅快，也會為了活用心火勇士而放入一定數量英武配套元件，更別說使用了[紅地脈](https://scryfall.com/card/dsk/143/leyline-of-resonance)極端套牌了。那為什麼說面對紅底快攻套牌時毀容表現會更佳呢？
 
-![RDW生物](https://i.meee.com.tw/6Qf7LyU.png)
+![RDW生物](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/c14abd385df3.webp)
 
 先從萬惡之源[心火勇士](https://scryfall.com/card/blb/138/heartfire-hero)說起，不管是哪種類型的紅底快攻都免不了有它，死亡時能給出等同其力量的傷害，光這點就已經拉開毀容與斬落的差距了，使用毀容去除心火勇士時，有機會賺到 1 ～ 2 點的血差，面對要對血量精打細算的快攻時，這可能就是生與死的差別。如果是紅地脈+[冷酷貸劍客](https://scryfall.com/card/woe/221/callous-sell-sword-burn-together)歷險投擲的極端套牌，一費打點還會多個與心火勇士近乎等效死亡異能的[雜音惡獸](https://scryfall.com/card/blb/138/heartfire-hero)，毀容的活用場合會更佳豐富。
 
@@ -103,7 +103,7 @@ excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 
 >或許某些追求極限起手的紅地脈構築已放棄二費生物了，但這只是部分玩家的個人選擇，整體上花槍幫炫耀師還是有一定的使用率，更何況非紅地脈型的傳統快攻肯定有它的身影。
 >
-![RDW膨脹](https://i.meee.com.tw/RrlrO3i.png)
+![RDW膨脹](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/5290551709a6.webp)
 
 過去的靈技型紅快，膨脹咒語可能帶個[怪物狂怒](https://scryfall.com/card/woe/142/monstrous-rage)就差不多了，剩下的招還是以燒一類的為主，進入心火勇士時代後，[馴良者之威](https://scryfall.com/card/blb/144/might-of-the-meek)、[狂疾嚙咬](https://scryfall.com/card/blb/147/rabid-gnaw)這類英武配套招逐漸走入構築的視野中，而現在紅地脈把英武體系的爆發力推到了極限，構築中已經可見以[內外翻轉](https://scryfall.com/card/dsk/160/turn-inside-out)、[凶蠻怒火](https://scryfall.com/card/mkm/125/felonious-rage)取代傳統的燒，遊戲計畫為最極限的一拳超人爆發型。
 

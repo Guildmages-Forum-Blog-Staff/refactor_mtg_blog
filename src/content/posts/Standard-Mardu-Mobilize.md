@@ -7,25 +7,25 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/e1qYMWQ.png"
-thumbnail: "https://i.imgur.com/e1qYMWQ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/744f853e66d3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/744f853e66d3-cover.jpg"
 excerpt: "黠智的小夜......郊狼的回合。"
 ---
 
 ## Before We Start
 
-![](https://i.imgur.com/stT7fYD.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/e5bf42e2f058.webp)
 瑪爾都是韃契五大部族中最具侵略性的一支，新的部族異能動員(mobilize)是會派出衍生物一起攻擊的強力異能，與[戰領召令](https://scryfall.com/card/mkm/242/warleaders-call)的直觀搭配使其在新系列一上線就成為眾多魔風媒體寵兒。但無論是可汗[朱高](https://scryfall.com/card/tdm/237/zurgo-thunders-decree)還是靈龍[涅靂伏](https://scryfall.com/card/tdm/210/neriv-heart-of-the-storm)，都缺少了至關重要的敏捷，這個缺口該怎麼補上比較好呢？
 
 ## 單卡解析
 
-![](https://i.imgur.com/KsGGPte.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/30a3ce75e030.webp)
 >雷霆之裁朱高
 >傳奇生物 | 半獸人／戰士
 >動員2（每當此生物攻擊時，派出兩個已橫置且正進行攻擊的1/1紅色戰士衍生生物。在下一個結束步驟開始時將它們犧牲。）
 >於你的結束步驟中，由你操控的戰士衍生物具有「不能犧牲此衍生物。」
 
-![](https://i.imgur.com/jqSNZhn.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/6db9ab3e011f.webp)
 >霆心靈龍涅靂伏
 >傳奇生物 | 精靈／龍
 >飛行
@@ -33,24 +33,24 @@ excerpt: "黠智的小夜......郊狼的回合。"
 
 [朱高](https://scryfall.com/card/tdm/237/zurgo-thunders-decree)可以保留動員的[戰士](https://scryfall.com/card/ttdm/13/warrior)衍生物，在未被阻擋的狀態下，第一拳的傷害從4起跳，之後以等差級數成長，但這個時間線的[朱高](https://scryfall.com/card/tdm/237/zurgo-thunders-decree)沒敏捷也沒有不滅，第四回合才揮出第一拳實在有些慢。[涅靂伏](https://scryfall.com/card/tdm/210/neriv-heart-of-the-storm)看起來像是動員異能領主，讓動員派出來的[戰士](https://scryfall.com/card/ttdm/13/warrior)衍生物傷害加倍，不過本體卻因為沒敏捷，吃不到自己的buff……不管是哪一張，只要給個敏捷就能大幅強化，問題是該怎麼給比較好呢？
 
-![](https://i.imgur.com/gEuElhd.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/9b01f9636dd2.webp)
 
 用[疾行靴](https://scryfall.com/card/tdc/328/swiftfoot-boots)或[熔刺靴](https://scryfall.com/card/otj/243/lavaspur-boots)去彌補嗎？先不提武具本體沒輸出，抽多沒用，要花一費配戴算上去就是慢一回合，雖然有提供額外的防護，不過差異並不大。瞬間、巫術與一次性結界的問題基本上和武具相同，要多費用且沒生物就沒用。那麼可以提供敏捷的生物呢？生物的話就算單獨使用也有輸出，筆者認為是合理的方向。撇除體格貧弱且容易被去除干擾的C卡生物，[永續勇氣體](https://scryfall.com/card/dsk/133/enduring-courage)費用太高，手順上與其說是給敏捷，更像是給動員出來的[戰士](https://scryfall.com/card/ttdm/13/warrior)衍生物+2/+0。說到這邊，答案已經呼之欲出了：就是可以設謀又自帶敏捷的[黠智郊狼](https://scryfall.com/card/otj/118/cunning-coyote)。
 
-![](https://i.imgur.com/G9hdnUV.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/16583a377ccf.webp)
 
 [套牌列表](https://www.mtggoldfish.com/deck/7063468#paper)
-![](https://i.imgur.com/exZl1ci.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/82e385adf799.webp)
 
 [黠智郊狼](https://scryfall.com/card/otj/118/cunning-coyote)的強項在於可以先設謀，在放逐區伺機而動，讓你後續曲線生物有機會可以得到+1/+1準時現衝。除此之外，本體2/2敏捷也可以和[涅靂伏](https://scryfall.com/card/tdm/210/neriv-heart-of-the-storm)的被動與力量2以下主題做搭配，打出不錯的額外傷害。其他生物的選牌一樣配合這個路線置入：阻止對手在你回合做事干擾的動員生物[祈勝歌手](https://scryfall.com/card/tdm/33/voice-of-victory)、異能類似動員的[千月統帥阿妮帕卡](https://scryfall.com/card/lci/223/anim-pakal-thousandth-moon)、依照力量小於等於2生物數量直擊對手的[遭棄娃娃阿拉貝拉](https://scryfall.com/card/dsk/208/arabella-abandoned-doll)，還有[非瑞克西亞臣民米斯拉](https://scryfall.com/card/bro/163b/mishra-lost-to-phyrexia)組合：依照攻擊生物數量吸血的[基克斯掌偶米斯拉](https://scryfall.com/card/bro/216/mishra-claimed-by-gix)與破墳補充手牌的[非瑞克西亞龍形引擎](https://scryfall.com/card/bro/163a/phyrexian-dragon-engine)。
 
-![](https://i.imgur.com/RRCAfiO.png)
-![](https://i.imgur.com/URyt8x0.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/a46ae60ddf00.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/18e590396f94.webp)
 
 接著來到咒語的部分，我們比照中速塞進各式去除：[逼從](https://scryfall.com/card/fdn/606/duress)、[點燃塔樓](https://scryfall.com/card/woe/153/torch-the-tower)、[速速退離](https://scryfall.com/card/lci/14/get-lost)，再加上瑪爾都不能被反擊的萬解牌[註定失敗](https://scryfall.com/card/tdm/194/inevitable-defeat)。另外再放滿[前線衝襲](https://scryfall.com/card/tdm/186/frontline-rush)，這張雖然不是去除，但它同時兼顧瞬間重建場面與突破對手防線的功能，一旦你的場面動員出來隨便灌下去都是+5、+6起跳，無論是擊倒對手的阻擋生物還是利用穿過防線的衍生物收對手頭，都非常符合這副套牌的使用情境。
 
-![](https://i.imgur.com/HknUSHi.png)
-![](https://i.imgur.com/gwJyURj.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/d360ec98098a.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/c217c68d0c1a.webp)
 
 
 ## 實戰演示
@@ -61,6 +61,6 @@ excerpt: "黠智的小夜......郊狼的回合。"
 
 ## 結語
 
-![](https://i.imgur.com/2IikWSD.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/eef7ad834c0d.webp)
 
 瑪爾都的單卡強力、套路明確，但異能綁進攻的缺陷也很明顯，如何克服逆境就是構築時最需要考量的點。希望各位瑪爾都愛好者會喜歡這個版本。

@@ -147,7 +147,7 @@ BIG裡 30 張牌有 14 張是神器，很符合[大幹一票](https://scryfall.c
 > 白洞，白色的明天在等著我們！
 > 就是這樣，喵！
 
-![](https://i.postimg.cc/cHD02QQP/Spy-Family-2.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-BIG-SPG/95bfa4f097ac.webp)
 
 ![019](https://cards.scryfall.io/large/front/1/3/13b0f27c-a359-4702-833a-82fec161eeec.jpg?1712352874)
 
@@ -185,7 +185,7 @@ BIG裡 30 張牌有 14 張是神器，很符合[大幹一票](https://scryfall.c
 
 三費叫三費佩帶可以造出一個加三攻警戒的生物，讓中後期每個你的小生物都能獲得參與戰鬥的權利；別忘了它除了加速外也是一個犧牲源，在你的生物都過召喚失調的前提下，你可以在能佩帶武具的時機下付三費把你全家生物犧牲掉！至於這有很厲害嗎不要問我。
 
-![](https://i.postimg.cc/9F62ZPtc/e0a8afab-0d84-4924-85e3-d7b6d28a4c94.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-BIG-SPG/bda9e1c8dcfb.webp)
 
 ![025](https://cards.scryfall.io/large/front/b/0/b0f61742-522c-4b36-97db-41d0c412a072.jpg?1708702396)
 

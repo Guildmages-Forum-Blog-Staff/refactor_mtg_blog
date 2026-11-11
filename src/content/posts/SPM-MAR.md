@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/tcNSSwq.png"
-thumbnail: "https://i.meee.com.tw/tcNSSwq.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-MAR/91b66cf24dc8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-MAR/91b66cf24dc8-cover.jpg"
 excerpt: "當熟悉的舊日單卡遇到全新合作卡圖，迸出新滋味，但我還是想說一句：RIP 班叔"
 ---
 

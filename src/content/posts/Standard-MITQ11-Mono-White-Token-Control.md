@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/hXoa9Oo.png"
-thumbnail: "https://i.meee.com.tw/hXoa9Oo.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/b2b63a7001a7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/b2b63a7001a7-cover.jpg"
 excerpt: "Vivi鍋吃我正編日正當中啦！ （然後被點破咒語康了）"
 ---
 
@@ -25,7 +25,7 @@ excerpt: "Vivi鍋吃我正編日正當中啦！ （然後被點破咒語康了�
 
 講到這裡白Token控的好處就顯現出來了，首先白Token控打藍黑節奏有天然的優勢，應對場面攻勢或反打的能力比白藍控好太多了，另外白Token控的魔法力水槽非常多，即使沒有[日正當中](https://scryfall.com/card/otj/15/high-noon)，我也常常一回合只做一個咒語，剩下法力都在做一些起動式異能，所以如果是正編[日正當中](https://scryfall.com/card/otj/15/high-noon)的控制的話，我認為白Token控是相性更好的選擇。單色套牌在面對紅快的[旭日脊山貓](https://scryfall.com/card/blb/155/sunspine-lynx)時，血量也稍微安全一點。
 
-![前言](https://i.meee.com.tw/xY8QSb8.png)
+![前言](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/8789b545bb9d.webp)
 
 
 ---
@@ -33,7 +33,7 @@ excerpt: "Vivi鍋吃我正編日正當中啦！ （然後被點破咒語康了�
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/7320070#paper)
-![DeckListPicture](https://i.meee.com.tw/DyzqvgY.png)
+![DeckListPicture](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/e3a257bdb43b.webp)
 
 
 
@@ -49,7 +49,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 資源引擎
 
-![資源引擎](https://i.meee.com.tw/X79pARe.png)
+![資源引擎](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/2db7d1d61f86.webp)
 
 套牌名稱來源，也是核心的資源引擎，毫無疑問的一起滿編。兩者各有優劣。
 
@@ -73,7 +73,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 生物
 
-![生物](https://i.meee.com.tw/ewHeMmQ.png)
+![生物](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/262044afcf4d.webp)
 
 - **[躍動新春貝薩](https://scryfall.com/card/blb/2/beza-the-bounding-spring)（3）：**
 
@@ -89,7 +89,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### Token源
 
-![Token源](https://i.meee.com.tw/Uy304vB.png)
+![Token源](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/832271031dc4.webp)
 
 - **[胡蘿蔔蛋糕](https://scryfall.com/card/blb/7/carrot-cake)（4）：**
 
@@ -107,7 +107,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 單體去除
 
-![單體去除](https://i.meee.com.tw/eZVPCaC.png)
+![單體去除](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/e7cc948b838f.webp)
 
 - **[接縫裂痕](https://scryfall.com/card/eoe/34/seam-rip)（3）：**
 
@@ -127,7 +127,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 掃場
 
-![掃場](https://i.meee.com.tw/kLlC3Dg.png)
+![掃場](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/a23d4a5b16e2.webp)
 
 - **[天頂盟星籠](https://scryfall.com/card/eoe/27/pinnacle-starcage)（2）：**
 
@@ -163,7 +163,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 地
 
-![地1](https://i.meee.com.tw/NwmZYoJ.png)
+![地1](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/d8e4c374a646.webp)
 
 單色套牌最大的優勢，便是調色壓力低，功能地的卡位非常龐大。
 
@@ -183,7 +183,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 
 
-![地2](https://i.meee.com.tw/CbIGzdC.png)
+![地2](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/ac60462f9a85.webp)
 
 - **[皇都伊修加德](https://scryfall.com/card/fin/283/ishgard-the-holy-see-faith-&-grief)（1）：**
 
@@ -199,7 +199,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 備牌
 
-![](https://i.meee.com.tw/xY8QSb8.png)
+![](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/8789b545bb9d.webp)
 
 - **[日正當中](https://scryfall.com/card/otj/15/high-noon)（1）：**
 
@@ -213,7 +213,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 
 
-![](https://i.meee.com.tw/roqjC4y.png)
+![](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/0843c0ac91f4.webp)
 
 - **[接縫裂痕](https://scryfall.com/card/eoe/34/seam-rip)（1）＆[天頂盟星籠](https://scryfall.com/card/eoe/27/pinnacle-starcage)（1）：**
 
@@ -223,7 +223,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 
 
-![](https://i.meee.com.tw/PFiDiZ0.png)
+![](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/f1312fc2dab7.webp)
 
 雖然都是神器結界對策，但各有各的優勢，並且各有適用的細節情境，沒有誰是另一張的全面上位版，因此各帶1。
 
@@ -243,7 +243,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 
 
-![](https://i.meee.com.tw/5SxmMBN.png)
+![](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/65690da35832.webp)
 
 - **[虔誠裁決](https://scryfall.com/card/fdn/571/devout-decree)（2）：**
 
@@ -274,7 +274,7 @@ Token的遊戲模式就兩個字： **<font color="#FF0000">賺</font>** ＆ **<
 
 ### 常見針對牌的應對
 
-![](https://i.meee.com.tw/IjJdtwE.png)
+![](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/c25e464f1f79.webp)
 
 EOE重印的[抹除](https://scryfall.com/card/eoe/46/annul)對這套是非常大的傷害，畢竟我們的非地牌過半都在他的射程內，以前看到對方留一費只要繞[點破咒語](https://scryfall.com/card/dft/64/spell-pierce)就好，現在多了一個一費正康的[抹除](https://scryfall.com/card/eoe/46/annul)，並且這張牌在現在環境實在太重要了，備牌帶3的人都不少見。如果有[祈勝歌手](https://scryfall.com/card/tdm/33/voice-of-victory)護航時倒簡單，但沒有[祈勝歌手](https://scryfall.com/card/tdm/33/voice-of-victory)又必須面對康牌時，總是有幾張會被康的，所以操作時你必須要規劃好，哪些是真正的致勝關鍵，哪些是可以拿去騙康的棄子，並且也要留意對手手上目前有康的可能性有多高。
 
@@ -284,7 +284,7 @@ EOE重印的[抹除](https://scryfall.com/card/eoe/46/annul)對這套是非常�
 
 ### Vivi鍋
 
-![Vivi鍋](https://i.meee.com.tw/lOUBYIw.png)
+![Vivi鍋](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/f03c91dff725.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -305,7 +305,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 紅藍靈技
 
-![紅藍靈技](https://i.meee.com.tw/MbT4qFK.png)
+![紅藍靈技](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/b43757e220c2.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -333,7 +333,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 藍黑節奏
 
-![藍黑節奏](https://i.meee.com.tw/h7MI1uK.png)
+![藍黑節奏](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/56d1d35a693a.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -351,7 +351,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 白藍控制
 
-![白藍控制](https://i.meee.com.tw/SLIJJsh.png)
+![白藍控制](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/3f5d37248636.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -372,7 +372,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 黑白神控制
 
-![黑白神控制](https://i.meee.com.tw/Z55NKtM.png)
+![黑白神控制](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/1770df0b2361.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -396,7 +396,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 黑白犧牲
 
-![黑白犧牲](https://i.meee.com.tw/ZAworAx.png)
+![黑白犧牲](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/0a1c225e4479.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -415,7 +415,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 艾斯波回手
 
-![艾斯波回手](https://i.meee.com.tw/owK3hBL.png)
+![艾斯波回手](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/558c8dbf88e6.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -433,7 +433,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 純黑惡魔
 
-![純黑惡魔](https://i.meee.com.tw/u2nHnZs.png)
+![純黑惡魔](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/2c9334bd3c40.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -450,7 +450,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 紅底快攻
 
-![紅底快攻](https://i.meee.com.tw/5t8viOe.png)
+![紅底快攻](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/6fe52d913efd.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -470,7 +470,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 藍綠中速
 
-![藍綠中速](https://i.meee.com.tw/PFB4xpx.png)
+![藍綠中速](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/f94205bdfb1c.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -486,7 +486,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 鐵木爾戰呼人Combo
 
-![鐵木爾戰呼人Combo](https://i.meee.com.tw/uDmXtyq.png)
+![鐵木爾戰呼人Combo](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/78acc0d4cde0.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -505,7 +505,7 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 
 ### 納雅優娜
 
-![納雅優娜](https://i.meee.com.tw/9W1POWo.png)
+![納雅優娜](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/3746e657c65c.webp)
 
 | Ont | In | 
 | :-: | :-: | 
@@ -526,10 +526,10 @@ Vivi鍋的進攻點實在太豐富了，所以要換上如此大量的備牌才�
 以下是本次奧蘭多Spotlight（GP）兩天的套牌統計，從這兩份資料可以充分展現出目前標準環境的特性。
 
 Day1統計：
-![Day1](https://i.meee.com.tw/xVNBI63.png)
+![Day1](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/4d74e15788e9.webp)
 
 Day2統計：
-![Day2](https://i.meee.com.tw/tEwtFNb.png)
+![Day2](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/922cbbf1b9c1.webp)
 
 
 
@@ -554,6 +554,6 @@ Day2統計：
 
 目前的環境跟[上次禁牌](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025)前的環境問題方向十分相似，甚至程度更為極端，基本上普通的Fair主動向套牌完全沒有生存空間，Vivi以外的套牌都必須往極端化發展，要嘛極端快、要嘛極端針對，才能在這環境取得一線生機，顯然這副牌的強度、以及連帶的環境極端化現況，已經不是環境能自我調節處理的了，唯一的對策就是禁卡表，希望老威這次不要再裝死，真的該及時止損時還是狠下心來，動用閃現禁卡表機制吧……
 
-![Top16](https://i.meee.com.tw/tS40zlU.png)
+![Top16](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/46964d057206.webp)
 
 >[資料來源：MELEE](https://melee.gg/Tournament/View/298797)

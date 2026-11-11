@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/bcAGhGL.png"
-thumbnail: "https://i.meee.com.tw/bcAGhGL.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-White/6c8bf526b7b6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-White/6c8bf526b7b6-cover.jpg"
 excerpt: "白色就是正義！神盾局、美國隊長、驚奇隊長齊聚，讓惡勢力（你的對手）沒有抗衡之力！"
 
 ---
@@ -130,7 +130,7 @@ excerpt: "白色就是正義！神盾局、美國隊長、驚奇隊長齊聚，�
 
  > Invisible Woman（隱形女）是超級英雄第一家族驚奇四超人的成員，顧名思義可以隱形，也能夠操控能量力場來防禦或攻擊。
 
- ![](https://i.meee.com.tw/lwEPfxX.png)
+ ![](https://images.guildmagesforum.tw/posts/MSH-White/b10a6704c625.webp)
  分數：4.0
  評語：本系列的雙面牌都是兩面都可以施放的類型，因此這張牌也可以當背面看。只看正面2費2/3的體質就很不錯，對手不能在自己回合施放咒語的效益更是可以杜絕一切的戰鬥詭計和瞬間殺牌。背面除了原本的異能外，變成了一隻6費6/6延勢踐踏的強力生物，重點是她的觸發式異能能夠在戰鬥中取得巨大的優勢，也可以用來避免直傷型解牌。
 
@@ -160,7 +160,7 @@ excerpt: "白色就是正義！神盾局、美國隊長、驚奇隊長齊聚，�
 
  > 此Mockingbird非彼 {% mtglink "Mockingbird" %} ，她中文譯作「仿聲鳥」，非常強大的其中一位神盾局特工，編號19號，所以也叫Agent 19，她是少數沒有超人類能力的超級英雄，在漫畫中一度跟 {% mtglink "Hawkeye, Master Marksman" alt="鷹眼" %} 結為連理。
 
- ![](https://i.meee.com.tw/2P0N3D5.png)
+ ![](https://images.guildmagesforum.tw/posts/MSH-White/a0124da87dea.webp)
  分數：4.0
  評語：和{% mtglink "Jennifer Walters//The Sensational She-Hulk" %}一樣，要同時考慮雙面的強度，正面還不錯，3費3/3飛行靈技，體質不虧又有穿透會膨脹。背面就有點恐怖了，辟邪這個異能出現在限制賽炸彈等級的牌上是非常強力的，更別說她背面的靈技還加上了其他生物放豆。
 

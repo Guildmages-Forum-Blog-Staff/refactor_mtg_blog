@@ -11,7 +11,7 @@ authors:
   - "zhi-mao"
 ---
 
-![](https://i.imgur.com/Jymm5ah.jpeg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field-Combo-MIT-top8/4d46737e3601.webp)
 
 ## Before We Start
 
@@ -23,7 +23,7 @@ authors:
 - 其二，**太陽流**，利用[主腦得逞](https://scryfall.com/card/rix/77/masterminds-acquisition)找出備牌的[神日迫臨](https://scryfall.com/card/akh/4/approach-of-the-second-sun)，並施放兩次，達到特殊勝利；
 - 其三，**醜臉流**，利用[窺探深淵](https://scryfall.com/card/m21/117/peer-into-the-abyss)使目標對手抽一半扣一半血，並利用3張巴勒格復甦以及[翻湧神信徒列爾](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned)來施放多次窺探深淵，使對手因為無條件捨去把血量降為0。
 
-![](https://i.imgur.com/adUDfSC.jpeg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field-Combo-MIT-top8/83d703a3d0f7.webp)
 
 各方法都有自己的優劣勢，但從茜卓流出現後，醜臉流逐漸被取代，目前看到是幾乎只剩下茜卓跟太陽流了。
 
@@ -31,7 +31,7 @@ authors:
 
 [MIT#4_Final_Lotus Field Combo by Zhi Mou, Ho](https://melee.gg/Decklist/View/335973)
 
-![](https://i.imgur.com/IyxnZjq.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field-Combo-MIT-top8/c9e9cd7b1ada.webp)
 
 至於套牌構築、以及當時為何選擇這些配置，會到套牌組成那邊再進行介紹，後續的所有操作介紹，基本上都圍繞著我的構築，所以還要請各位看官先稍微記一下啦！
 
@@ -60,7 +60,7 @@ authors:
 - **茜卓**：[希望信標茜卓（Chandra, Hope's Beacon）](https://scryfall.com/card/mom/134/chandra-hopes-beacon)
 - **列爾**：[翻湧神信徒列爾（Lier, Disciple of the Drowned）](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned)
 
-![](https://i.imgur.com/NIvgwBW.jpeg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field-Combo-MIT-top8/a8c219c520af.webp)
 
 ### 大部分解開始！
 
@@ -125,7 +125,7 @@ D. **沒遇到上面的情況，超級可悲。** 那DP就繼續拿Ult，利用D
 
 ## Emergent Ultimatum （Ult） 小技巧
 
-![](https://i.imgur.com/OeB1o1d.jpeg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field-Combo-MIT-top8/7c64e49fe8ea.webp)
 
 接下來會介紹幾個關於Ult的小技巧，以下幾個想法將更有助於我們思考，當下情況下成功施放Ult時應該要拿什麼咒語，
 

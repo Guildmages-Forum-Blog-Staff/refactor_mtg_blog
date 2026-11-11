@@ -7,8 +7,8 @@ authors:
 categories:
   - "Beginner"
   - "Level One"
-cover: "https://i.meee.com.tw/fCnaCVu.jpg"
-thumbnail: "https://i.meee.com.tw/fCnaCVu.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-The-Full-Course-Glossary-of-Terms/8c46067001bc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-The-Full-Course-Glossary-of-Terms/8c46067001bc-cover.jpg"
 excerpt: "Level One: The Full Course & Glossary of Terms"
 ---
 
@@ -24,7 +24,7 @@ excerpt: "Level One: The Full Course & Glossary of Terms"
 
 ## 文章翻譯 — 「等級一」 ：全課綱（Level One: The Full Course）
 
-![](https://i.meee.com.tw/G2K9CQ7.webp)
+![](https://images.guildmagesforum.tw/posts/Level-One-The-Full-Course-Glossary-of-Terms/d646398d84ec.webp)
 
 [原文連結](https://magic.wizards.com/en/news/feature/level-one-full-course-2015-10-05)
 
@@ -112,7 +112,7 @@ Reid Duke 教授已經宣佈下課。 「等級一」 （Level One）專欄目�
 
 ## 文章翻譯 — 術語表（Glossary of Terms）
 
-![](https://i.meee.com.tw/PAEbBHT.webp)
+![](https://images.guildmagesforum.tw/posts/Level-One-The-Full-Course-Glossary-of-Terms/4e9b0937da10.webp)
 
 [原文連結](https://magic.wizards.com/en/news/feature/glossary-of-terms)
 

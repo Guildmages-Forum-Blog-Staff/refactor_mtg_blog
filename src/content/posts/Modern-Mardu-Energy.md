@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.meee.com.tw/iByjZQR.png"
-thumbnail: "https://i.meee.com.tw/iByjZQR.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/cb2d188edd4f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/cb2d188edd4f-cover.jpg"
 excerpt: "正編不計地牌，只有 5 張牌不是來自魔戒或者 MH3！享受用 1,000 美金打對方臉的金錢暴力快感！"
 ---
 
@@ -16,15 +16,15 @@ excerpt: "正編不計地牌，只有 5 張牌不是來自魔戒或者 MH3！享
 
 [牌表連結](https://www.mtggoldfish.com/deck/6666286#paper)
 
-![牌組圖片](https://i.postimg.cc/wMJz89bT/MTG-d2.png)
+![牌組圖片](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/322a11e65761.webp)
 
 ### Q：這究竟是什麼卡組？
 
 A：用錢所堆砌出的暴力、毆打對方的卡組。
-![](https://i.postimg.cc/k4qKt5KL/61df923ef6d84c8c185da7dc52f34bbc.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/06e26b4689bc.webp)
 等等等等不是這種。
 
-![](https://i.postimg.cc/KYFR0HjM/w700d1q75cms.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/5c39be65368b.webp)
 這種好多了。
 
 順帶一提，現在看到卡組的造價是 1,000 美金，但我打到資格的時候是 1,300 美金的。
@@ -82,7 +82,7 @@ A：伊尼翠重製版出了[棘澤邊](https://scryfall.com/card/avr/106/grisel
 
 ### イカれたメンバーを紹介するぜ！（來介紹一下瘋狂的成員們！）
 
-![](https://i.postimg.cc/T1nQgPPb/Outlaws-in-MH3.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/883bf3414236.webp)
 
 順帶一提 11 張裏面有 5 張在 MTGA 的煉金裏面被再調整了，威世智你都知道自己做了什麼假卡出來呀？
 
@@ -130,7 +130,7 @@ A：伊尼翠重製版出了[棘澤邊](https://scryfall.com/card/avr/106/grisel
 
 <!---![](https://cards.scryfall.io/large/front/0/d/0d16e8e0-31b2-4389-afd6-783c501f6fa0.jpg?1718635371)
 ![](https://cards.scryfall.io/large/back/0/d/0d16e8e0-31b2-4389-afd6-783c501f6fa0.jpg?1718635371)--->
-![](https://i.meee.com.tw/4p7m872.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/be55eec94e6c.webp)
 
 進場帶一隻 2/1 貓，只要有其他貓死掉就會發狂暴走的阿耶尼，雖然帶進來的 token 故意造成非傳奇就是為了避免傳奇規則玩壞（估計那隻貓原型是[金鬃賈佐](https://scryfall.com/card/c14/9/jazal-goldmane)，阿耶尼的兄長），可是還是敵不過玩家的各種創意思維。
 看自己兄長被[鬼怪轟炸](https://scryfall.com/card/mh2/279/goblin-bombardment)射出去而發狂，看自己兄長成為[魔頭歐尼希茲](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary)催命的費用而發狂，用弓箭手自演自導賈佐刺殺事件，甚至令阿耶尼看到第二個自己然後傳奇規則死掉再發狂。~~怎麼只是單單的精神異常貓 1 隻~~
@@ -169,7 +169,7 @@ Sideboard 之後有可能的紅色永久物會增加[黑曜石焰喉龍](https:/
 能量解，自身有提供 3 個能量，（只要對手場上沒有[承陽淨化僧](https://scryfall.com/card/m19/39/suncleanser)的話就是）確定至少 1 打 3 的解，除了不能打面之外都比[閃電擊](https://scryfall.com/card/clu/141/lightning-bolt)優秀。注意取對象之後不用立即宣言打多少點，直到雙方都讓過優先權令咒語生效之後才決定消費的能量數，而且對手不能回應。利用這個效果可以空指自己的生物，然後宣佈支付 0 ，直接爽拿 3 能量。
 做完 [GoS](https://scryfall.com/card/mh3/29/guide-of-souls) + [豹貓群](https://scryfall.com/card/mh3/38/ocelot-pride)組合技之後，指著對手的生物發射 20 多點的行為我稱呼為[拉普達之雷](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E)。
 
-![](https://i.postimg.cc/90Jd2wgc/20140126115644.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/ae2c56ee5271.webp)
 
 ### [電牢](https://scryfall.com/card/mh3/44/static-prison)
 
@@ -302,7 +302,7 @@ Sideboard 之後有可能的紅色永久物會增加[黑曜石焰喉龍](https:/
 ### [損耗//穿破](https://scryfall.com/card/cmr/456/wear-tear)
 
 <!---![](https://cards.scryfall.io/large/front/0/f/0f279560-7e9f-4a6d-9fd6-6c8c6bd94a1b.jpg?1608917739)--->
-![](https://i.meee.com.tw/1vO1ELv.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/8e7cb7cee814.webp)
 
 對領土，鬼怪噴火炮（牽制對手不能先拍[噴火炮](https://scryfall.com/card/ddt/57/goblin-charbelcher)等一回合），[碾碎工段](https://scryfall.com/card/5dn/127/grinding-station)，[泰坦](https://scryfall.com/card/ima/183/primeval-titan)，[鱗甲](https://scryfall.com/card/lcc/243/hardened-scales)，[巨鎚](https://scryfall.com/card/afc/202/colossus-hammer)，神器共鳴等卡組用。
 就簡單的拆神器以及拆結界，夠費用還可以 1 換 2 ，除了不能拆[至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring)之外還是很不錯的泛用對策卡。比較尷尬的是像[醫生](https://scryfall.com/card/dmr/110/yawgmoth-thran-physician)這種會外掛[鍋子](https://scryfall.com/card/woe/242/agathas-soul-cauldron)來獲勝但目標只有一個的卡組，實在太難放了（這時候什麼都能壓的[電牢](https://scryfall.com/card/mh3/44/static-prison)就更勝一籌）。
@@ -379,7 +379,7 @@ Side out：
 [驕傲血領索霖](https://scryfall.com/card/m20/115/sorin-imperious-bloodlord)
 
 我：
-![](https://i.postimg.cc/rFxKz1zh/FHl-NX3aak-Ac-FMQE.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/40360830591e.webp)
 
 除了可怖血妖之外，全部都是先驅，甚至標準可用的卡，嚇到下巴都掉下來了，不過看到[驕傲血領索霖](https://scryfall.com/card/m20/115/sorin-imperious-bloodlord)就立即知道想玩什麼了，看不到[開膛手](https://scryfall.com/card/mkm/110/vein-ripper)， Combo 未成立所以丟了破鏡，最後記得是平推把對手打死，開膛手出來也擋不住變身阿耶尼噴面。
 
@@ -415,7 +415,7 @@ Side out：
 [殘酷統領](https://scryfall.com/card/mh2/75/archon-of-cruelty)
 
 我：
-![](https://i.postimg.cc/rFxKz1zh/FHl-NX3aak-Ac-FMQE.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/40360830591e.webp)
 （又來了，不過這次比較容易理解一點）
 
 看到無名墳墓，留存以及殘酷統領已經知道在玩什麼了，把無名墳墓丟下去之後用一隻[豹貓群](https://scryfall.com/card/mh3/38/ocelot-pride)以及一隻[弓箭手](https://scryfall.com/card/ltr/103/orcish-bowmasters)把他打死，對方甚至 3 地時想改變策略，一直不出牌，透過手牌爆上限，把統領丟下去再挖回來，不過我速度快一回合。
@@ -515,7 +515,7 @@ Side out：
 
 第二局，對手最速[歐瑞克鬥士](https://scryfall.com/card/ima/9/auriok-champion)的時候的確是有點困擾，只能抽到有[電牢](https://scryfall.com/card/mh3/44/static-prison)了。中段抽到淨化僧反射動作指定對手的面，但現在想想應該用淨化僧指定鬥士的。這局忘記怎贏了，好像鋪一鋪場，放[弓箭手](https://scryfall.com/card/ltr/103/orcish-bowmasters)，扭魔戒，然後抽到電牢，然後全推……（結果就是下圖的場面
 
-![](https://i.postimg.cc/Ghmzq7Df/461835959-122142889664295414-18787371500172720-n.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/0620c82c5595.webp)
 
 ### 決賽：VS鱗甲 OXO
 
@@ -553,7 +553,7 @@ Side out：
 優勝的一瞬間並沒有什麼勝利的喜悅，只有在決賽的時候用魔戒偷了 15 張牌的悖德感，這卡組根本就是用錢來毆打對手的臉呀……（優勝時造價 1,300 美
 當日只睡了三小時，還是能打到冠軍，果然魔戒很厲害！一切都是魔戒的力量！好吧這張卡果然很奇怪，使用率都突破 50% 了， 12 月要被送進去 ban 卡表了吧！？
 
-![](https://i.postimg.cc/CKsmcWcW/461731898-122142889700295414-6291126446568961793-n.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/dfee4f1d60f3.webp)
 （除了獎品之外就是惡人四人組
 GoS ！豹貓群！阿耶尼！魔戒！四個都是近代專屬系列產的卡？ HAHAHA ）
 

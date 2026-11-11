@@ -1,8 +1,8 @@
 ---
 title: "關於新手如何在限制賽中進步 — 現開賽篇"
 date: "2024-07-30 13:50:01"
-cover: "https://i.postimg.cc/W3PwqTFT/Spike-Tournament-Grinder-by-Zoltan-Boros.avif"
-thumbnail: "https://i.postimg.cc/W3PwqTFT/Spike-Tournament-Grinder-by-Zoltan-Boros.avif"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/4531bd3eb895-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/4531bd3eb895-cover.jpg"
 mathjax: "true"
 excerpt: "聽店家說限制賽很好玩，售前時店裡老手們也很用心地指導我，但我打完我還是不知道我是誰我在哪我在做什麼..."
 categories:
@@ -26,7 +26,7 @@ authors:
 
 ## 賽前預習：如何找到限制賽相關的資訊？以[Guildmages' Forum](https://guildmagesforum.tw/)網站上光雷驛鏢客限制賽文章為例
 
-![](https://i.postimg.cc/vHqFkzN5/181256.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/af810d39beec.webp)
 
 以這次光雷驛鏢客（Outlaws of Thunder Junction, OTJ）的限制賽為起點，從[Guildmages' Forum](https://guildmagesforum.tw/)網站上的 **"[Tag](/categories/)"** 選單中點選 **"[OTJ](/categories/OTJ/)"** 的標籤，即可看到這次與BLB限制賽相關的所有單卡評分、限制賽主題初探、以及機制介紹。而有興趣往前了解先前其他系列的限制賽的讀者們，則可點選 **"[Limited](/categories/Limited/)"** 的標籤來搜尋到所有從艾卓荒野（Wilds of Eldraine, WOE）以來所有的限制賽相關文章。
 
@@ -39,7 +39,7 @@ authors:
 
 ## 現開賽要怎麼玩？如何構築套牌？
 
-![](https://i.postimg.cc/PxrCXKdT/10a01-16650541109025-1920.webp)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/c002d4b3a1cc.webp)
 
 然而，以OTJ售前現開賽為例，即使你在參加限制賽前勤勤懇懇的閱讀完上述提及的所有資訊，當你打開完所有的補充包後，你立刻就會面臨第一個挑戰 — 如何組出一副能跟人對戰的限制賽套牌？
 
@@ -148,17 +148,17 @@ authors:
 
 ### 環節四、確認單卡與主題的協同性（Synergy）
 
-![](https://i.postimg.cc/gjbHpW8X/en-k-Pmskwu-BYW24.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/7c0872b83ca2.webp)
 
 從光雷驛鏢客（OTJ）官方所提供的的十種雙色主題出發，可以看到不同色組在意的重點是什麼，比如說藍黑犯罪（crimes）、紅黑狂徒（outlaws）、或紅藍二咒（second spell）等。而當你進入某一個雙色色組進行構築時，你選擇越多與該色組關聯的單卡時，你的套牌的協同性就越強！而這樣的協同性可以讓單體強度較低的單卡，因為協同性與其他主題單卡的相互增幅下，發揮出 1 + 1 ≥ 2的綜效。
 
 以藍黑犯罪為例，如果你的套牌幾乎沒有犯罪來源的單卡，那你投入犯罪主題的牌的效果就會差很多；反言之，當你的藍黑套牌有足夠的犯罪來源時，你的犯罪回報單卡就會一躍成為套牌中的MVP！
 
 **A. 無協同性的藍黑犯罪構築**
-![](https://i.postimg.cc/kGfNbhBf/Dimir-crimes-no-synergy.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/b41a0d2cfd20.webp)
 
 **B. 有協同性的藍黑犯罪構築**
-![](https://i.imgur.com/gwjySXG.jpeg)
+![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/0c25bc380255.webp)
 
 讓我們看一下上面這兩張圖，圖A的部分只有犯罪回報單卡，但沒有犯罪來源，而在這樣的構築下，這幾張卡的異能敘述都形同虛設，都僅能視為體格非常平庸的單卡，基本上都不值得投入你的套牌中。而圖B的部分你既有犯罪回報單卡、更有兩倍數量的犯罪來源單卡，在這樣的構築中，你的[巧手強盜](https://scryfall.com/card/otj/58/nimble-brigand)可以穩定的無法被阻擋並造成戰鬥傷害而抽牌、你的[鮮血詐徒](https://scryfall.com/card/otj/80/blood-hustler)可以越變越大、而你的[熟面生客拉札夫](https://scryfall.com/card/otj/216/lazav-familiar-stranger)不只會變大，還有可能變成你或對手墳場中的炸彈生物給對手出奇不意的一擊！
 

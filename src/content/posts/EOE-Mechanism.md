@@ -7,14 +7,14 @@ authors:
 categories:
   - "Limited"
   - "EOE"
-cover: "https://i.meee.com.tw/ipqMWST.png"
-thumbnail: "https://i.meee.com.tw/ipqMWST.png"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Mechanism/cab6a9274f6e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Mechanism/cab6a9274f6e-cover.jpg"
 excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 ---
 
 ## 探地器衍生物（Lander Token）
 
-![Lander](https://i.meee.com.tw/Zl5gd6B.png)
+![Lander](https://images.guildmagesforum.tw/posts/EOE-Mechanism/70ea6f4527b6.webp)
 
 探地器是一種新的神器類別，就像珍寶、食品那樣，這個類別帶有自己的特殊規則。這個系列有不少牌能派出探地器衍生物，其規則為：
 
@@ -28,7 +28,7 @@ excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 
 ## 躍遷（Warp）
 
-![Warp](https://i.meee.com.tw/qLG1AaI.png)
+![Warp](https://images.guildmagesforum.tw/posts/EOE-Mechanism/0b565d434084.webp)
 
 躍遷是一種替代性費用，這張牌 **在手牌時** ，你可以選擇支付躍遷的費用來施放它，若你以躍遷費用施放之，下一個結束步驟開始時放逐該牌，它成為已躍遷的牌。在之後的回合，你可以從放逐區施放該牌。因為躍遷有限定只能從手牌施放，所以是沒辦法再從放逐區繼續用躍遷費用施放的。
 
@@ -38,7 +38,7 @@ excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 
 ## 空洞（Void）
 
-![Void](https://i.meee.com.tw/LaNlZ6G.png)
+![Void](https://images.guildmagesforum.tw/posts/EOE-Mechanism/54b9df03849b.webp)
 
 空洞會檢查本回合是否有非地永久物離場過、或是施放過躍遷咒語。只要滿足了空洞條件，就能獲得各種額外好處。
 
@@ -50,7 +50,7 @@ excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 
 ## 太空船（Spacecraft）＆ 蓄勢（Station）
 
-![Spacecraft](https://i.meee.com.tw/yI07g69.png)
+![Spacecraft](https://images.guildmagesforum.tw/posts/EOE-Mechanism/ed360cdc2a96.webp)
 
 太空船是一種新的神器類別，初始狀態皆為非生物神器，並且都帶有 **蓄勢** 異能。
 
@@ -66,7 +66,7 @@ excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 
 ## 行星（Planet）
 
-![Planet](https://i.meee.com.tw/omUTg6J.png)
+![Planet](https://images.guildmagesforum.tw/posts/EOE-Mechanism/19f63aac3cfd.webp)
 
 行星是新的非基本地類別，行星類別本身並沒有甚麼特殊規則，只是這系列的行星地也都具有 **蓄勢** 異能。
 
@@ -76,7 +76,7 @@ excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 
 ## 指揮官規則變更
 
-![EDH](https://i.meee.com.tw/RP7lcOo.png)
+![EDH](https://images.guildmagesforum.tw/posts/EOE-Mechanism/3f300624d63a.webp)
 
 從本系列開始，擁有攻防值的傳奇太空船＆傳奇載具，可以作為指揮官。
 
@@ -102,4 +102,4 @@ excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 9月5日～9月11日：指揮官歡慶會
 9月26日～9月28日：虛空邊域專業賽（MagicCon亞特蘭大）
 
-![Final](https://i.meee.com.tw/1SL8jHp.png)
+![Final](https://images.guildmagesforum.tw/posts/EOE-Mechanism/2f0d6a6f2717.webp)

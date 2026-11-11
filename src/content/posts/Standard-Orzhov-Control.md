@@ -2,8 +2,8 @@
 
 title: "黑白控制：吸血鬼房間"
 date: "2026-03-19 19:28:32"
-cover: "https://i.meee.com.tw/XMlNEU9.jpg"
-thumbnail: "https://i.meee.com.tw/XMlNEU9.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Control/36686ac6e79d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Control/36686ac6e79d-cover.jpg"
 excerpt: "我只是想活下去"
 authors:
   - "ZHAN"
@@ -21,7 +21,7 @@ categories:
 
 ## 構築分享與對局簡介
 
-![](https://i.meee.com.tw/S4rYHVQ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Orzhov-Control/43979ff0cc63.webp)
 在MTGA上簡單打個幾場，確定大方向都沒有問題後便直接去參加3/8的LCQ，當天的戰報如下：
 
 ### R1 傑斯凱控制 VV

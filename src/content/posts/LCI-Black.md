@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 黑色"
 date: "2023-11-16 14:21:35"
-cover: "https://i.imgur.com/xeahZSr.png"
-thumbnail: "https://i.imgur.com/xeahZSr.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Black/414128521d1e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Black/414128521d1e-cover.jpg"
 excerpt: "黑色除了「一言不合就去除」的優良傳統外，也挑起本系列墳場主題的大樑。"
 categories:
   - "Limited"
@@ -28,7 +28,7 @@ authors:
 
 ## 黑色
 
-![黑色](https://i.imgur.com/xeahZSr.png)
+![黑色](https://images.guildmagesforum.tw/posts/LCI-Black/414128521d1e.webp)
 
 > 黑色各稀有度的數量
 >
@@ -43,7 +43,7 @@ authors:
 
 順風局可以是神卡，但逆風局可能會變成死卡，發揮很不穩定，有時你自己的生物還比對面好，這時你希望他寧可是個6/6白板，想放他最好確保自己套牌內能給出足夠的肥料生物。
 
-![088](https://i.imgur.com/ppQo6Zi.jpg)
+![088](https://images.guildmagesforum.tw/posts/LCI-Black/cac9bae2d8d7.webp)
 
 **Jru**：5.0
 
@@ -171,7 +171,7 @@ authors:
 
 輪抽可以透過積極的抓洞窟來提升效率，但這系列洞窟系統回報並不強，實際上應該很難湊出讓這隻生物產生性能質變的洞窟數量。
 
-![108](https://i.imgur.com/AKd0JiP.jpg)
+![108](https://images.guildmagesforum.tw/posts/LCI-Black/d33be7be0909.webp)
 
 **Jru**：3.5
 
@@ -279,7 +279,7 @@ authors:
 
 生前身材不合格，死後的1/1 Token還不能拿來阻擋，想當肥料又沒有神器類別少了很多消耗口，等你3費生物真的缺到山窮水盡再來考慮他吧。雖然可提供本系列的犧牲主題飼料來3費生3隻，可惜本系列的犧牲主題正如前述並不強，導致提供飼料也不能獲得很大的收益，更不用說如果不是犧牲主題時，這隻的體質完全是不合格。
 
-![126](https://i.imgur.com/rJQCfbU.jpg)
+![126](https://images.guildmagesforum.tw/posts/LCI-Black/61d65869acee.webp)
 
 **Jru**：5.0
 
@@ -295,13 +295,13 @@ authors:
 
 AOE掃場不解釋，不過評價不到5.0是因為這張比較難用，限制賽中墳場的永久物數量並沒有那麼好控制的緣故，難以控制自己的火力可以剛好只殺死對面，留下自己的生物，或者火力可以殺掉對手最大的生物，甚至對手直接把你的墳場放掉，這張就變成笑話，不過絕大部分場合之下都是一張強力的掃場，非常值得first pick。
 
-![128](https://i.imgur.com/ZLgoBRE.jpg)
+![128](https://images.guildmagesforum.tw/posts/LCI-Black/fef67ee873a5.webp)
 
 **Jru**：3.0
 
 正面作為一個類[野心祀煉](https://scryfall.com/card/akh/113/trial-of-ambition)的去除並不高效，但好歹也是個2費去除，在對局前期或是誘導對手小生物做交換後使用收益會比較好，化煉肥料只要一張生物牌，正常來講墳場肯定找的到，成功轉化後對對手而言就是個死亡倒數計時，只要想辦法穩住防線就足夠取勝了。
 
-![129](https://i.imgur.com/qs4kA6U.jpg)
+![129](https://images.guildmagesforum.tw/posts/LCI-Black/ddd7487bf6d9.webp)
 
 **Jru**：3.5
 

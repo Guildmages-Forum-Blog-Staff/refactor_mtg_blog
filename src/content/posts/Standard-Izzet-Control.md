@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/CbNRcag.png"
-thumbnail: "https://i.meee.com.tw/CbNRcag.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/b2ad3c1e4685-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/b2ad3c1e4685-cover.jpg"
 excerpt: "對手：說書完了叫我"
 ---
 
@@ -21,12 +21,12 @@ excerpt: "對手：說書完了叫我"
 ## 套牌介紹
 
 [牌表連結](https://www.mtggoldfish.com/deck/6961575#paper)
-![ListPicture](https://i.meee.com.tw/TNFizwq.png)
+![ListPicture](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/beb4a00ddf61.webp)
 
 
 ### 運作核心 
 
-![核心](https://i.meee.com.tw/MEzvPNe.png)
+![核心](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/e200c57ea06c.webp)
 
 - [堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)（4） ＆ [藝術家才能](https://scryfall.com/card/blb/124/artists-talent)（4）：
 套牌核心主力，堅忍紀念碑要求運作時能持續又頻繁的觸發棄牌，但自帶棄牌的低費招不可能有這麼多<font color="#AAAAAA">（真的這麼設計後果有多失控請參考[IKO系列](https://scryfall.com/sets/iko)）</font>，所以需要一些能穩定提供棄牌觸發的支援卡，標準中最高效的莫過於藝術家才能，其濾牌強度在先驅賽制的[紅藍鳳凰](https://scryfall.com/card/rvr/100/arclight-phoenix)已經被充分證明了。因為使用了藝術家才能，這也確立了套牌設計是以極大量非生物咒語為主構成，此外雖然堅忍紀念碑＆藝術家才能的搭配十分強力，但他們其實都屬於自己不會做任何事，運作全靠隊友搭配的牌，這種牌一口氣佔了 8 張對構築來說確實是較大的負擔，因此後面的牌張選用上，會更看重一些搭配性或多工性而產生的額外上限，不只依靠單卡堆砌來構築。
@@ -34,7 +34,7 @@ excerpt: "對手：說書完了叫我"
 
 ### 掃場 
 
-![掃場](https://i.meee.com.tw/AwFFA9A.png)
+![掃場](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/38edb4c6fb3d.webp)
 
 - [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)（2）：
 這年頭標準環境前期鋪場性能好的套牌實在太多了，即使兄弟反目是射程限制比較明顯的短掃，在正編局依舊有足夠實用性，但終歸是個短掃，正編放 2 張就足夠了。如果不希望掃到自己的旅法，或是不想現在收一張今年就要退標的牌的話，也可以考慮用[熔滓風暴](https://scryfall.com/card/fdn/207/slagstorm)替代，不過就筆者個人而言，比起擔憂掃到自己旅法，能掃到對手的[魁渡](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)還是比較重要。
@@ -46,7 +46,7 @@ excerpt: "對手：說書完了叫我"
 
 ### 單解 
 
-![單解](https://i.meee.com.tw/HggZtYc.png)
+![單解](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/075afae361ba.webp)
 
 - [點燃塔樓](https://scryfall.com/card/woe/153/torch-the-tower)（4）：
 紅色標竿一費去除，不過這套在遊戲前期較難提供加碼肥料，中後期開始才能產出吃了不心疼的Token，其他神器結界牌大多不會想吃掉，若是對這點比較在意的玩家，可以考慮把一張點燃塔樓換到備牌，正編空格改用射程較高的2費去除（如[勝利煙火](https://scryfall.com/card/dmu/123/fires-of-victory)、[風化侵蝕](https://scryfall.com/card/fdn/188/abrade)、[抹滅擊](https://scryfall.com/card/fdn/629/obliterating-bolt)），或是在後續提到的 2 費濾牌咒語中，將部分卡改用自帶抽棄的神器結界。
@@ -61,7 +61,7 @@ excerpt: "對手：說書完了叫我"
 
 ### 生物 
 
-![生物](https://i.meee.com.tw/jtXl9zq.png)
+![生物](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/64de3a9fbbe2.webp)
 
 [堅忍紀念碑](https://scryfall.com/card/dft/237/monument-to-endurance)雖然有著強力致勝能力，但畢竟一副牌就四張，如果出了一些意外或是沉海底抽不到，那很可能陷入無法致勝先把自己牌庫抽乾的窘境，因此還是要準備一些 Plan B 的致勝點，由於這副牌構築極度擁擠，所以會要求這些 Plan B 在有獨立致勝可能性的同時，還要與套牌有足夠的協作性，同時因為這副牌生物十分稀少，對手的去除（至少在正編局）通常是過剩的，因此還要求這些 Plan B 如果是生物的話，需要是那種吃了殺也不心疼的牌，最好也能躲過部分射程較低的殺，最後精挑細選出了兩種完美符合以上要求的生物。
 
@@ -78,7 +78,7 @@ excerpt: "對手：說書完了叫我"
 
 ### 旅法
 
-![旅法](https://i.meee.com.tw/zvk1fYj.png)
+![旅法](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/e2272d4ebe37.webp)
 
 說到控制用的致勝，自然會想到旅法，所幸紅藍色組的旅法中，完全不缺提供致勝點的同時又自帶抽棄能力的牌。
 
@@ -94,7 +94,7 @@ excerpt: "對手：說書完了叫我"
 
 ### 額外抽濾
 
-![抽濾](https://i.meee.com.tw/KES8WsT.png)
+![抽濾](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/6488d8ee5eb0.webp)
 
 畢竟我們是一套講求棄牌的套牌，還是需要一定數量低費的主動抽棄源，
 
@@ -190,7 +190,7 @@ excerpt: "對手：說書完了叫我"
 
 
 
-![費用棄牌](https://i.meee.com.tw/gPvtNdS.png)
+![費用棄牌](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/2c66de45d7c5.webp)
 >[索求回答](https://scryfall.com/card/mkm/122/demand-answers)：犧牲一個神器或棄一張牌，以作為施放此咒語的額外費用。抽兩張牌。
 >[長吼食肉龍](https://scryfall.com/card/lci/171/trumpeting-carnosaur)：{二}{紅}，棄掉長吼食肉龍：它對目標生物或鵬洛客造成3點傷害。
 
@@ -201,7 +201,7 @@ excerpt: "對手：說書完了叫我"
 觸發堅忍紀念碑的 **「抽一張牌」** ＆ 藝術家才能的 **「你可以棄一張牌」** ，選擇先結算抽牌，再結算你可以棄一抽一。
 結算到藝術家才能時，選擇棄一抽一，抽牌完成後，因為剛剛有棄過牌，再次觸發堅忍紀念碑，這次選擇 **「派出一個珍寶衍生物」** ，這會在原有的堆疊上繼續往上疊，別忘了索求回答的  **「抽兩張牌」** 到現在還在堆疊最底部等待結算。
 
-![堆疊](https://i.meee.com.tw/On3sKsE.png)
+![堆疊](https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/7733e30082d9.webp)
 
 當然了，實際上場上同時有複數個堅忍紀念碑 / 藝術家才能都是常態，這種情況下堆疊會成倍增加，但只要把握好上面的原則，一步步結算堆疊，基本上就能正確處理了。
 

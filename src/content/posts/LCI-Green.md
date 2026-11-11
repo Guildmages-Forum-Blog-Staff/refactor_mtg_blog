@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 綠色"
 date: "2023-11-17 13:28:25"
-cover: "https://i.imgur.com/cdtpUhQ.png"
-thumbnail: "https://i.imgur.com/cdtpUhQ.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Green/fd0694ad7100-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Green/fd0694ad7100-cover.jpg"
 excerpt: "恐龍這個主題還是出在熟悉的依夏蘭最對味！在這次LCI有多少厲害的大恐龍加入呢？讓我們拭目以待！"
 categories:
   - "Limited"
@@ -29,7 +29,7 @@ authors:
 
 ## 綠色
 
-![綠色](https://i.imgur.com/cdtpUhQ.png)
+![綠色](https://images.guildmagesforum.tw/posts/LCI-Green/fd0694ad7100.webp)
 
 > 綠色各稀有度的數量
 >
@@ -115,12 +115,12 @@ authors:
 **cephille**：1.5
 有點微妙的武具，我就算可以看牌庫頂牌也做不了什麼事；花兩費裝上去攻擊時可以勘查沒翻到非地牌就不算灌大，花了三費沒加到身材就太虧了。基本上只有在你缺勘查源時才會考慮要擺。
 
-![188](https://i.imgur.com/hs9oZiE.jpg)
+![188](https://images.guildmagesforum.tw/posts/LCI-Green/16b02cb2f10c.webp)
 
 **cephille**：1.5
 重印牌，三費進場看四拿一張生物還是有機會翻空的，四隻生物在場轉化也不是很容易達成的條件，翻面後變成[蓋亞的育苗地](https://cards.scryfall.io/large/front/2/5/25b0b816-0583-44aa-9dc5-f3ff48993a51.jpg?1562902898)時可能也沒那麼需要費了，對我而言是一張我不會想放的牌。
 
-![189](https://i.imgur.com/FL98Vod.jpg)
+![189](https://images.guildmagesforum.tw/posts/LCI-Green/c873ab116b34.webp)
 
 **cephille**：4.0
 華特莉進場就先找一張基本地上手大概就不會卡色了也不虧牌，三費2/3的身材雖然沒什麼用，但五費可以接著翻面變成傳記就很厲害了，章節I先生兩隻3/3恐龍、章節II接著讓你的生物都產得出施放恐龍的顏色、章節III找一張恐龍牌上手、章節IV讓你的恐龍有連擊踐踏打過去應該就要贏了。
@@ -151,7 +151,7 @@ authors:
 **cephille**：1.0
 一費1/1的恐龍mana頭，我只有套牌有超過八張以上的恐龍而且沒有好的二費調色的話才會考慮用她，基本上只要沒有一回出都很爛。可能在輪抽的恐龍主題才會比較關鍵，但我可能還是不想用。
 
-![195](https://i.imgur.com/7GgLOXT.jpg)
+![195](https://images.guildmagesforum.tw/posts/LCI-Green/0676d8b495d7.webp)
 
 **cephille**：2.5
 這是一張在白綠主題中會比其它綠色套路厲害很多的一張牌，進場任意分配三個豆基本上可以讓你全家都達成力量比起始值高然後開始賺資源；後期可以化煉它賺一隻7/7的神器生物再狠狠奶一口，相當不錯。
@@ -161,7 +161,7 @@ authors:
 **cephille**：4.0
 體格可能小虧，但虧體格的同時代表你接下來不會卡地，然後中後期做一發大的就算只是拿一堆地也代表你之後的每一次抽牌都會好很多。值得首挑進綠。
 
-![197](https://i.imgur.com/V56xC21.jpg)
+![197](https://images.guildmagesforum.tw/posts/LCI-Green/7ffe8794a590.webp)
 
 **cephille**：2.0
 基本上就是一個三費加速，然後有機會可以放洞窟進場（你套牌有放的話），中後期可能可以變一隻5/5出來參與攻防。考慮到這個系列其實洞窟還蠻多的，六費以後可能都會用C卡洞穴犧牲做傾探4來找招，這個時候就可以讓它拿去化煉。不算很強，但都做出來限制賽資源也會占優勢，但不應過度執著於化煉放很多不適合的洞窟來卡自己的節奏。
@@ -199,7 +199,7 @@ authors:
 樹林循環2，但是循環系列裏面最尷尬的那一張，這次綠色有3種任意色mana頭(1種限定恐龍)，找樹林跳費也有[Glimpse the Core](https://scryfall.com/card/lci/186/glimpse-the-core)及[Kaslem’s Stonetree](https://scryfall.com/card/lci/197/kaslems-stonetree-kaslems-strider)，變相綠主色沒有優先用這張找地的必要性，只有其他色組混綠色才有獨特的價值，本體5/5+3/3，不差，但7費太重了。要活用的話，一是混綠色的卡組，半放棄使用本體，或跳費的卡組湊數用，找地之外拼出本體，也可以配合黑色循環後挖墳。
 這張牌我覺得是僅次於山脈循環第二強的，也是挖墳的好對象，進場一帶二很不錯，前期循環後期正拍，或多帶一點加速每張都正拍一帶二用起來都非常的舒服。
 
-![204](https://i.imgur.com/cgXxiiS.jpg)
+![204](https://images.guildmagesforum.tw/posts/LCI-Green/73bf4fa1c613.webp)
 
 **cephille**：5.0
 五費6/5踐踏的體格非常厲害，基本上被祂打到一拳後資源就會被拉開，死掉後要翻回來也不會太難，綠色無腦強的代表。
@@ -268,7 +268,7 @@ authors:
 **cephille**：3.5
 [痛擊霆偉龍](<[https:/](https://cards.scryfall.io/large/front/4/5/45caf791-931c-4a61-8523-b1ca48182b39.jpg?1646103007)/>)重印，三費3/4的身材非常可靠，犧牲可以拆神器結界更是讓你在中後期打不過去時多了更靈活的使用方式。
 
-![217](https://i.imgur.com/rsZdHjd.jpg)
+![217](https://images.guildmagesforum.tw/posts/LCI-Green/21f678773c01.webp)
 
 **cephille**：3.5
 進場送一個勘查，而它在場時你的每個勘查多了占卜一都會變得更好；當有第七塊地進場時轉化後，這個時候已經不缺地了，他的起動式異能可以讓你有源源不絕的生物去贏下對局，是打綠我非常希望有的牌。

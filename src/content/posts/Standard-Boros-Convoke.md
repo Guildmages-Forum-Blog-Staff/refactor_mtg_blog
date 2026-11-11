@@ -1,8 +1,8 @@
 ---
 title: "天下武功，惟快不破！MIT八強紅白召集賽報"
 date: "2024-06-06 12:44:42"
-cover: "https://i.postimg.cc/3rbkH0YP/knight-errand-of-eos-by-kevin-sidharta-v0-EGhjx-EUd2tlq-EX0n-JBHBFDSfys7-Zxa-DJ99-PUwgq-At-NE.webp"
-thumbnail: "https://i.postimg.cc/3rbkH0YP/knight-errand-of-eos-by-kevin-sidharta-v0-EGhjx-EUd2tlq-EX0n-JBHBFDSfys7-Zxa-DJ99-PUwgq-At-NE.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Boros-Convoke/8bb4ca1f6761-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Boros-Convoke/8bb4ca1f6761-cover.jpg"
 excerpt: "紅白召集大軍壓境MIT#6！來看看傑利羊這篇賽報吧！"
 categories:
   - "Construct"
@@ -17,7 +17,7 @@ authors:
 
 ## 套牌簡介
 
-![](https://i.postimg.cc/c4cVPwRS/d579ccad-6cb0-4551-95c3-2ff175c1fb2c.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Convoke/b19b54613a4c.webp)
 
 [MIT#6\_紅白召集牌表 by 楊承孟](https://melee.gg/Decklist/View/401911)
 
@@ -29,7 +29,7 @@ authors:
 
 [阻咒艾文](https://scryfall.com/card/otj/4/aven-interrupter)則是用來打控制、以及Domain的對局，封住對面的掃場基本上等於多一回合可以打死對手。
 
-![](https://i.postimg.cc/8PVPGKDh/anti-grave.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Convoke/ae237581b9ae.webp)
 
 [庫琪的側擊兵](https://scryfall.com/card/lci/20/kutzils-flanker)也是用來打控制對局用的，被掃場後可以再閃現叫一隻大生物來持續給壓力。而剋墳的功能多帶了一張[得享安息](https://scryfall.com/card/big/4/rest-in-peace)，本來是預計要打鐵木爾火球跟4C傳奇，但仔細想過根本不需要因為這兩個對局去上剋墳，盡速平推掉對手才是正解。後續更新構築會把[得享安息](https://scryfall.com/card/big/4/rest-in-peace)拿掉。
 

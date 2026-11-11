@@ -1,8 +1,8 @@
 ---
 title: "Standard 四色傳奇"
 date: "2024-01-29 18:57:36"
-cover: "https://i.imgur.com/ZDETBXZ.jpg"
-thumbnail: "https://i.imgur.com/ZDETBXZ.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-4C-Legends/9ba4df510f99-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-4C-Legends/9ba4df510f99-cover.jpg"
 excerpt: "標準賽制？多色？生物牌？你以為是domain嗎？NO，是四色傳奇！"
 categories:
   - "Construct"
@@ -21,7 +21,7 @@ authors:
 
 依照慣例[卡表先附上](https://www.mtggoldfish.com/archetype/standard-4c-legends-mid-a2d04ca9-f3b7-4c37-a49a-37028d264d21#paper)。
 
-![4c Legends](https://i.imgur.com/EfL1dkT.jpg)
+![4c Legends](https://images.guildmagesforum.tw/posts/Standard-4C-Legends/e6378b733ed5.webp)
 
 ### 核心單卡
 
@@ -46,7 +46,7 @@ authors:
 
 第二個作用是賺資源能力，牌組中的魂力地或是三色地，兩者的異能皆是需要將牌張本身棄掉才能夠發動，因此在棄牌的同時可以觸發它的第二條異能 : 放逐牌庫頂的牌、直到下個你的結束階段都可以使用，以此來賺取資源差。
 
-![](https://i.imgur.com/e3oI8vu.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-4C-Legends/30dbcf7d8bd9.webp)
 
 邪軍壓境（MOM）推出的傳奇生物，橫置可以抽棄，施放傳奇咒語可以將它重置。
 作用是快速濾牌，抽棄時除了可以觸發[烈陽總督因提](https://scryfall.com/card/lci/156/inti-seneschal-of-the-sun)的賺牌異能之外，將地牌棄置更可以主動觸發[流漿王斯羅咕](https://scryfall.com/card/mid/324/zht/%E6%B5%81%E6%BC%BF%E7%8E%8B%E6%96%AF%E7%BE%85%E5%92%95)的第一條加康異能，快速讓它達成自保條件。

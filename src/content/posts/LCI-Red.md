@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 紅色"
 date: "2023-11-16 14:22:08"
-cover: "https://i.imgur.com/8Nf0OgA.png"
-thumbnail: "https://i.imgur.com/8Nf0OgA.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553-cover.jpg"
 excerpt: "不管你缺恐龍還缺神器，來找紅色就對了！"
 categories:
   - "Limited"
@@ -28,7 +28,7 @@ authors:
 
 ## 紅色
 
-![紅色](https://i.imgur.com/8Nf0OgA.png)
+![紅色](https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553.webp)
 
 > 紅色各稀有度的數量
 >
@@ -63,7 +63,7 @@ authors:
 
 毫無懸念的大炸彈，光是5費5/5飛行先攻就有足夠恐怖的戰鬥力了，這觸發式異能更是賺的匪夷所思，每回做一次[魯莽衝動](https://scryfall.com/card/vow/174/zht/%E9%AD%AF%E8%8E%BD%E8%A1%9D%E5%8B%95)就已經能滾出很恐怖的資源差，並且放逐到牌就能創造額外資源，甚至沒要求你使用該牌時才生Token，基本上是個只要活過一回就贏一半的大炸彈。
 
-![135](https://i.imgur.com/D6x4nUA.jpg)
+![135](https://images.guildmagesforum.tw/posts/LCI-Red/e4481248f1eb.webp)
 
 **Jru**：5.0
 
@@ -131,13 +131,13 @@ authors:
 
 就是個很標竿的C卡曲線生物，外加是神器，又是恐龍，又是Gnome，這系列的種族支援都對應一半了，莎希莉會很喜歡的。(卡面台詞以及配合M卡莎希莉的雙重意義)
 
-![145](https://i.imgur.com/nCr57Vm.jpg)
+![145](https://images.guildmagesforum.tw/posts/LCI-Red/4a1ae7f0e4c5.webp)
 
 **Jru**：4.0
 
 從費用與能力的比值來看，效率在武具中算高的了，轉化後只要能提供神器肥料就能不斷滾雪球的壓制盤面，就算只有一兩個肥料能當子彈，通常也夠把對面最重要的東西解掉了。
 
-![146](https://i.imgur.com/KGr0uCx.jpg)
+![146](https://images.guildmagesforum.tw/posts/LCI-Red/e1cc67dc3d65.webp)
 
 **Jru**：2.0
 
@@ -191,7 +191,7 @@ authors:
 
 姑且算是神器牌裡比較符合快攻思路的生物，不過自己衝出去很容易被換死，另外這個系列整體機制比較偏向長盤資源戰，現開時快攻思路應該很難過的多開心，更大的價值或許是容易從墳場作為化煉的素材。輪抽可以積極抓紅白快攻，比較能體現3費3攻的敏捷打點價值。
 
-![155](https://i.imgur.com/gg50CuD.jpg)
+![155](https://images.guildmagesforum.tw/posts/LCI-Red/61fb32688e4b.webp)
 
 **Jru**：2.5
 
@@ -209,7 +209,7 @@ authors:
 
 紅色珍貴的高射程去除，5/5搭載2的性價比也足夠高，還有機會提供額外的珍寶做各種利用。
 
-![158](https://i.imgur.com/n0bzOar.jpg)
+![158](https://images.guildmagesforum.tw/posts/LCI-Red/8981a91da361.webp)
 
 **Jru**：4.0
 
@@ -252,7 +252,7 @@ authors:
 
 雖然有點笨重，但也是紅色珍貴的高射程去除。
 
-![164](https://i.imgur.com/RkAoTmq.jpg)
+![164](https://images.guildmagesforum.tw/posts/LCI-Red/7410a4efe8e5.webp)
 
 **Jru**：3.5
 

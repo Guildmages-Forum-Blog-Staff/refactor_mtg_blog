@@ -1,8 +1,8 @@
 ---
 title: "團結力量大！ 紅白家鼠快攻分享"
 date: "2024-12-23 11:11:01"
-cover: "https://i.meee.com.tw/acCY5Cf.webp"
-thumbnail: "https://i.meee.com.tw/acCY5Cf.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/d79b77acc5a1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/d79b77acc5a1-cover.jpg"
 excerpt: "如果單打獨鬥不行，那就三五成群一起上！"
 authors:
   - "MarkWen"
@@ -30,11 +30,11 @@ categories:
 
 [套牌連結](https://www.mtggoldfish.com/deck/6816094)
 
-![DeckList](https://i.meee.com.tw/YLoHbhJ.png)
+![DeckList](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/03ded0882f1b.webp)
 
 ### 方向確定
 
-![](https://i.imgur.com/5qT5AHg.jpeg)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/e518a11140eb.webp)
 
 [Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts)的加入，讓原本偏向純紅家鼠的我，選擇走向紅白家鼠，原本的快攻在操作上更偏向一直出題給對手，但要去除對手的生物就相對弱勢；這張靈氣的加入，讓家鼠有了一定的解答能力，同時給對手的加壓能力也更強，而結界的指定效果對家鼠的英武（Valiant）也能有很好的加成。
 
@@ -89,31 +89,31 @@ categories:
 ## 對局簡介
 
 ### 紅白燒殺
-![](https://i.meee.com.tw/bfgPrHD.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/fc0dc3bd4912.webp)
 [套牌參考](https://www.mtggoldfish.com/deck/6788037#paper)
 
 先手方佔優，對上這類型套牌只要能力保場上有一隻生物基本上都有翻盤的可能，[Shardmage's Rescue](https://scryfall.com/card/dsk/29/shardmages-rescue)是否有在手上很重要；[Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts)可以直接處理[Screaming Nemesis](https://scryfall.com/card/dsk/157/screaming-nemesis)進而拉抬血量。剩下的就看雙方的進牌來決定勝負。
 
 ### 藍黑中速
-![](https://i.meee.com.tw/NMyh805.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/d436d9807a53.webp)
 [套牌參考](https://www.mtggoldfish.com/archetype/standard-dimir-midrange-dmu#paper)
 
 我方先手的話小佔優勢，與應對紅白燒殺類似[Shardmage's Rescue](https://scryfall.com/card/dsk/29/shardmages-rescue)、[Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts)能否準時上手，低費生物[Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero)、[Emberheart Challenger](https://scryfall.com/card/blb/133/emberheart-challenger)、[Flowerfoot Swordmaster](https://scryfall.com/card/blb/14/flowerfoot-swordmaster)能否活過一回合很關鍵。
 
 ### 黑綠中速
-![](https://i.meee.com.tw/FnhpDMZ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/e6243d828bf8.webp)
 [套牌參考](https://www.mtggoldfish.com/archetype/standard-golgari-midrange-dmu#paper)
 
 應對上與藍黑控制類似，但不用特別擔心康，整體打起來會比藍黑控好打一些，但一樣先手還是會比較佔優。
 
 ### 霸主DOMAIN
-![](https://i.meee.com.tw/juxXxPC.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/182411fd2a32.webp)
 [套牌參考](https://www.mtggoldfish.com/archetype/standard-domain-dmu#paper)
 
 在對手五地前看能否解決對手，一樣先手佔優；比較難打的會是放祖爾的DOMAIN，血量只要被對手奶一次基本上就打不回來了。
 
 ### 純白Token
-![](https://i.meee.com.tw/sJeGDsb.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/13817ea9e76b.webp)
 [套牌參考](https://www.mtggoldfish.com/archetype/standard-mono-white-token-control-dmu#paper)
 
 最難打的對局沒有之一。各種放逐掃場與補血抽牌手段，除非對手卡地又抽不到掃場，要不然通常贏少輸多。
@@ -129,7 +129,7 @@ categories:
 
 整體印象最深的對局是在八強進四強時的第一局，我後手對方先手調度二。
 我起手[Flowerfoot Swordmaster](https://scryfall.com/card/blb/14/flowerfoot-swordmaster)、[Shardmage's Rescue](https://scryfall.com/card/dsk/29/shardmages-rescue)、[Monstrous Rage](https://scryfall.com/card/woe/142/monstrous-rage)、[Might of the Meek](https://scryfall.com/card/blb/144/might-of-the-meek)、[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)、[Battlefield Forge](https://scryfall.com/card/otc/271/battlefield-forge)、[Mountain](https://scryfall.com/card/blb/274/mountain)。選擇一回下[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)選家鼠後空過。
-![](https://i.meee.com.tw/nLSlRfa.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Boros-Mice/3de29dc399d8.webp)
 
 這麼做是因為我沒把握後面能繼續有生物，因此打算在三回時繁生[Flowerfoot Swordmaster](https://scryfall.com/card/blb/14/flowerfoot-swordmaster)生兩隻生物在場上；同時[Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls)在場上，也讓我確保對手的康基本沒用。很幸運的，後面三回合接連抽三張料，搭配[Flowerfoot Swordmaster](https://scryfall.com/card/blb/14/flowerfoot-swordmaster)持續給對手加壓獲勝。
 

@@ -2,8 +2,8 @@
 
 title: "不叫Convoke叫Aggro：標準藍白快攻分享"
 date: "2025-01-16 15:15:30"
-cover: "https://i.meee.com.tw/ChKe51Y.webp"
-thumbnail: "https://i.meee.com.tw/ChKe51Y.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/bb9cba736a20-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/bb9cba736a20-cover.jpg"
 excerpt: "標準藍白不一定要玩控制，帶生物也是一種選擇"
 authors:
   - "Weihow"
@@ -21,7 +21,7 @@ categories:
 
 [套牌連結](https://www.mtggoldfish.com/deck/6864197#paper)
 
-![](https://i.meee.com.tw/jdkVMrh.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/994c17624f01.webp)
 
 藍白Aggro是一副藉由前期大量鋪場給予對面壓力，在對局上（例如藍黑中速、黑綠中速以及紅快等常見套牌）可以讓對方不好解掉神器及中斷對面節奏。開局運用[Warden of the Inner Sky](https://scryfall.com/card/lci/43/warden-of-the-inner-sky)快速濾牌，第三回合找到[Zoetic Glyph](https://scryfall.com/card/lci/86/zoetic-glyph)貼神器，5/4體質生物即使被摧毀，也可以透過傾探（Discover）施放或回手來補充資源。中期的[Enduring Curiosity](https://scryfall.com/card/dsk/51/enduring-curiosity)可以彌補抽牌的不足；最後再用[Restless Anchorage](https://scryfall.com/card/lci/280/restless-anchorage)與飛兵進行收尾。讓你優勢開局直到遊戲結束。
 
@@ -29,16 +29,16 @@ categories:
 
 ### 生物與進攻打點們
 
-![](https://i.meee.com.tw/MntlHDf.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/9dae84da92c1.webp)
 
 [Warden of the Inner Sky](https://scryfall.com/card/lci/43/warden-of-the-inner-sky)可配合[Novice Inspector](https://scryfall.com/card/mkm/29/novice-inspector)及[Spyglass Siren](https://scryfall.com/card/lci/78/spyglass-siren)快速濾牌（Convoke？）。濾牌之外還會幫自己放counter，3個counter以上會有警戒跟飛行，越過陸地生物。若前兩回合有搭上神器生物，第三回合基本上就是飛行警戒，可以輕鬆造成巨大壓力。
 
-![](https://i.meee.com.tw/p9MqbaV.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/807180d5ff15.webp)
 
 [Mockingbird](https://scryfall.com/card/blb/61/mockingbird)在前期可複製生物增加打點還會飛。最常見的combo大概就是複製兔子或是複製神器生物。如果遇到大仔就複製對面，像複製到黑綠的[Thrun, Breaker of Silence](https://scryfall.com/card/one/186/thrun-breaker-of-silence)，他們也可能遭遇解不掉自己生物的窘境。
 [Regal Bunnicorn （兔子）](https://scryfall.com/card/woe/25/regal-bunnicorn)配合套牌很多非地永久物，很好滾雪球。第一回合神器生物，第二回合兔子，第三回合神器生物……對面大概輸了。
 
-![](https://i.meee.com.tw/xquSD41.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/a7bfafb274df.webp)
  
 [Zoetic Glyph](https://scryfall.com/card/lci/86/zoetic-glyph)作為一張神器的貼皮結界，只要3點mana就擁有5/4體質，進墳場還可以Discover，運氣好可以再找到一張[Zoetic Glyph](https://scryfall.com/card/lci/86/zoetic-glyph)，進墳場可以Discover反覆loop。除非第三回合拍的時候被[Tear Asunder](https://scryfall.com/card/dmu/183/tear-asunder)之類的牌解掉，不然是一隻可以1換2的生物。
 [Steel Seraph](https://scryfall.com/card/bro/38/steel-seraph)則是不怕[GFTT](https://scryfall.com/card/moc/250/go-for-the-throat)的神器天使，如果場上沒有神器，可以選擇貼皮[Zoetic Glyph](https://scryfall.com/card/lci/86/zoetic-glyph)變成5/4天使，進戰階時可以選擇生物警戒、飛行、繫命，要補血就繫命，要扁人就飛行。但這隻需要3點法力，以構築來講有點擠，所以我只放1隻。
@@ -47,14 +47,14 @@ categories:
 
 ### 地牌
 
-![](https://i.meee.com.tw/ZLgylkv.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/76180bacdf05.webp)
 
 [Restless Anchorage](https://scryfall.com/card/lci/280/restless-anchorage)中後期扮演收頭，攻擊時產Map token同時讓兔子變大、餵給[Dusk Rose Reliquary](https://scryfall.com/card/lci/10/dusk-rose-reliquary)、跟作為[Zoetic Glyph](https://scryfall.com/card/lci/86/zoetic-glyph)貼皮目標，使用上相當地彈性。
 [Fountainport](https://scryfall.com/card/blb/253/fountainport)則是完美的三合一：犧牲token可以抽牌、痛1血生魚可以製造打點、Treasure token可以貼皮[Zoetic Glyph](https://scryfall.com/card/lci/86/zoetic-glyph)。
 
 ### 備牌選擇
 
-![](https://i.meee.com.tw/WkJPsGA.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/baf5450de110.webp)
  
 - [Rest in Peace](https://scryfall.com/card/big/4/rest-in-peace) - 有效針對依賴墳場的藍白大眼及藍綠螃蟹、或是最近流行的全知全能。
 - [Protect the Negotiators](https://scryfall.com/card/dmu/62/protect-the-negotiators) - 反制大型解場，如[Temporary Lockdown](https://scryfall.com/card/dmu/36/temporary-lockdown)和[Sunfall](https://scryfall.com/card/mom/40/sunfall)。kicker還能夠產1/1士兵，對於Aggro套牌基本上是一張能鋪場又能保護的強力康牌。

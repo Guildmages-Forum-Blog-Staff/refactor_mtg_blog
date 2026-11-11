@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/u48v5Sn.jpg"
-thumbnail: "https://i.meee.com.tw/u48v5Sn.jpg"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Green/6771c64a5bb8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Green/6771c64a5bb8-cover.jpg"
 excerpt: "綠林中出現了巨大身影，究竟是什麼神祕生物呢？"
 
 ---

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/Lo0rdzi.png"
-thumbnail: "https://i.meee.com.tw/Lo0rdzi.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/618e5c92ca4a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/618e5c92ca4a-cover.jpg"
 excerpt: "跟霸主豆莖交朋友的好選項"
 ---
 
@@ -36,12 +36,12 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 ## 套牌介紹
 
 ### [牌表連結](https://www.mtggoldfish.com/deck/6964325#paper)
-![DeckListPicture](https://i.meee.com.tw/CdNZdH2.png)
+![DeckListPicture](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/4ce1ee27d443.webp)
 
 
 ### 搜證系統 
 
-![Evidence](https://i.meee.com.tw/PW0XRGm.png)
+![Evidence](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/9bdfd2b3d595.webp)
 
 
 [停止//終止](https://scryfall.com/card/mkm/246/cease-desist)（4）：
@@ -65,7 +65,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 生物
 
-![生物](https://i.meee.com.tw/5b1QX56.png)
+![生物](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/a4e19b01bfe0.webp)
 
 這套控制的各定位牌張構成比例，更接近於過去的傳統控制，這種套牌的特色之一就是致勝點少、生物更少，也就是說對手大多時候（尤其是正編）會是去除過量的狀態，因此挑選生物時，要找要嘛很難被去除、要嘛只求 ETB 效應，賺完後可以隨便送頭的生物。
 
@@ -83,7 +83,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 鵬洛客
 
-![鵬洛客](https://i.meee.com.tw/44yjWiP.png)
+![鵬洛客](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/f19eb1b4eb3a.webp)
 
 這副牌選用的鵬洛客，都必須是擁有獨自致勝的能力。
 
@@ -101,7 +101,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 對生物去除
 
-![對生物去除](https://i.meee.com.tw/gokmyYd.png)
+![對生物去除](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/02bea2e5af30.webp)
 
 
 [斬落](https://scryfall.com/card/dmu/89/cut-down)（2）：
@@ -133,7 +133,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 永久物去除
 
-![永久物去除](https://i.meee.com.tw/YEiFT0x.png)
+![永久物去除](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/f5ae18edc073.webp)
 
 
 [撕成碎片](https://scryfall.com/card/blc/241/tear-asunder)（1）：
@@ -152,7 +152,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 賺牌
 
-![賺牌](https://i.meee.com.tw/OZyLr3N.png)
+![賺牌](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/44b44256a1d9.webp)
 
 [晦澀巨著](https://scryfall.com/card/fdn/676/mazemind-tome)（4）：
 定位跟[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)進似的牌，使用晦澀巨著的優點是套牌曲線較為靈活，能夠組出跟豆莖軸不太一樣的套牌，但每次抽牌都要花 2 費這點，也注定這是個更為慢節奏的被動套牌，另外補 4 血這點對控制而言是有非常大價值的。雖然這是個會被[終止](https://scryfall.com/card/mkm/246/cease-desist)掃到的神器，但晦澀巨著本來就是用完 4 次後自爆，所以只要適當規劃一下兩者的使用計畫，是可以避免自己搞自己的。
@@ -167,7 +167,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 其他
 
-![其他](https://i.meee.com.tw/YNPkBVr.png)
+![其他](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/f6f749548267.webp)
 
 [逼從](https://scryfall.com/card/fdn/606/duress)（2）：
 這年頭非生物咒語太多，哪怕是紅快手上也是一票招，正編局放 2 張不怕卡手。
@@ -182,7 +182,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 地
 
-![致勝地](https://i.meee.com.tw/jBptLs4.png)
+![致勝地](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/2b8d8894b399.webp)
 
 [變身地](https://scryfall.com/card/woe/258/restless-cottage)（4）：
 在調色的同時提供額外致勝點，變身地一直是控制套牌解決 「怎麼贏？」 這問題的救星之一。
@@ -198,7 +198,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 
 
-![輔助地](https://i.meee.com.tw/9dfXb2f.png)
+![輔助地](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/913fc2302fa9.webp)
 
 [頹垣廢址](https://scryfall.com/card/fdn/687/demolition-field)（2）：
 我會堅持只用雙色色組，而不混更多色，其中一個核心動力就是想放頹垣廢址，這年頭功能地實在太多了，對一個被動的控制來說，有額外的地對策是很重要的，雙色套牌在沒有調色壓力的情況下，還能騰出足夠的基本地，三色套牌基本上就沒這餘裕了。
@@ -216,7 +216,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 ### 備牌
 
-![一費去除](https://i.meee.com.tw/uEzPiSF.png)
+![一費去除](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/c904614fbe19.webp)
 [斬落](https://scryfall.com/card/dmu/89/cut-down)（1）＆[刺創](https://scryfall.com/card/fdn/71/stab)（1）：
 更多一費去除的補充。
 
@@ -288,7 +288,7 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 根據上面這通推導下來，套牌大概會轉型成這樣子：
 
 [黑綠洞穿多重宇宙 ~ 牌表連結](https://www.mtggoldfish.com/deck/6984794#paper)
-![黑綠洞穿多重宇宙](https://i.meee.com.tw/UO4guHn.png)
+![黑綠洞穿多重宇宙](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/b266eb26d030.webp)
 
 <font color="#FF0000">這牌表是個尚未經過實測的概念雛形</font> ，總之雖然去除的系統很像，但遊戲概念已經完全轉成另一種套牌了，而我想玩的套牌是不斷把對手解到臉部表情扭曲的控制，而不是一個Ramp上去拚一發大招的展開式套牌，因此就沒深入研究這副牌表的細節調整了。
 
@@ -300,12 +300,12 @@ excerpt: "跟霸主豆莖交朋友的好選項"
 
 新的黑白神：[燦爛新暉柯塔摩斯](https://scryfall.com/card/dft/209/ketramose-the-new-dawn)，和[停止//終止](https://scryfall.com/card/mkm/246/cease-desist)+[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)的搭配也可以說是天作之合，[停止](https://scryfall.com/card/mkm/246/cease-desist)可以放逐墳場，[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)施放時的搜證費用 ＆ 結算後的腦切，也分別算做一次放逐事件，[黑白神](https://scryfall.com/card/dft/209/ketramose-the-new-dawn)可以賺兩次牌，同時[黑白神](https://scryfall.com/card/dft/209/ketramose-the-new-dawn)自己是不滅，可以躲得過掃場。
 
-![黑白神](https://i.meee.com.tw/ktlQLzj.png)
+![黑白神](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/d643c54e8e99.webp)
 
 依照以上概念為基礎，就可以得到一套黑白神搜證控制，範例牌表如下：
 
 [黑白神搜證控制 ~ 牌表連結](https://www.mtggoldfish.com/deck/6984804#paper)
-![黑白神搜證控制](https://i.meee.com.tw/792nE6i.png)
+![黑白神搜證控制](https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/5c4f9c9a76ac.webp)
 
 不過以上牌表也是 <font color="#FF0000">未經過實測的概念雛形</font> ，肯定還要經由不斷的實戰測試去完善細節，在此僅僅是一個拋磚引玉的參考，對此架構有興趣的讀者，可以嘗試以此為基礎去調整套牌。
 

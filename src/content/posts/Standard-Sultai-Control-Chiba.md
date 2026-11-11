@@ -5,8 +5,8 @@ date: "6/22/2026, 9:18:29 PM"
 updated: "2026-06-22 22:19:26"
 authors:
   - "Patrick"
-cover: "https://i.meee.com.tw/8fqR4Uy.jpg"
-thumbnail: "https://i.meee.com.tw/8fqR4Uy.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/5d48d276a2b7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/5d48d276a2b7-cover.jpg"
 excerpt: "從 MIT 12 Top 9 到千葉 Spotlight Top 64，這篇文章記錄的不只是一次賽事成績，更是一個蘇勒台玩家與自己色組之間的故事"
 categories:
   - "Construct"
@@ -20,10 +20,10 @@ categories:
 
 ## 套牌構成
 
-![](https://i.meee.com.tw/sIi6qyD.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/4b53a6d98be1.webp)
 [蘇勒台控制_MIT#12](https://melee.gg/Decklist/View/ed25229f-83b4-42a2-9ba3-b4520027dbc9)
 
-![](https://i.meee.com.tw/4itJ2ub.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/cc524ac3a56f.webp)
 [蘇勒台控制_千葉 Spotlight](https://melee.gg/Decklist/View/6f2b2b0b-bdfd-4ca4-b016-b457011f7235)
 
 現在環境內的蘇勒台控制大致可分為兩種：一種是以 {% mtglink "Superior Spider-Man" %} 、{% mtglink "Deceit" %} 與 {% mtglink "Wistfulness" %} 為首的價值生物體系；另一種則是以 {% mtglink "Professor Dellian Fel" %} 為首的純控體系。在《洛溫：闇影籠罩》（[ECL](https://scryfall.com/sets/ecl)）登場的呼魂元素，很快就成為多數蘇勒台控制玩家的選擇 —— 萬能的棄牌、強大的體格，加上四費蜘蛛人「再做一次」時既能解場又能站場，這些都是非常吸引人的要素，也是目前最常見的構築類型。
@@ -46,11 +46,11 @@ categories:
 
 ### 解牌區
 
-![](https://i.meee.com.tw/2CSpzKv.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/ecd3e96a78d0.webp)
 
 {% mtglink "Requiting Hex" %} 、 {% mtglink "Shoot the Sheriff" %}、 {% mtglink "Bitter Triumph" %} 是應對環境內快攻所必備的瞬間解。由於預估環境仍以伊捷靈技佔大宗，面對對手回合場面會快速膨脹的情況，還是需要大量瞬間解才能讓自己活下來。而 {% mtglink "Witherbloom Charm" %} 用途與備牌的 {% mtglink "Pawpatch Formation" %} 類似，針對伊捷靈技可以除去主要的生物威脅，也可以中斷 {% mtglink "Stormchaser's Talent" %} 及 {% mtglink "Boomerang Basics" %} 的搭配；面對瑪爾都棄牌也能處理 {% mtglink "Cool but Rude" %} 。相對其他去除來說雖然犧牲了射程，但換來的是必要時可以拿來抽牌與補血，配合 {% mtglink "Professor Dellian Fel" %} 的徽記也能快速斬殺。
 
-![](https://i.meee.com.tw/ZlFudeQ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/1fc3d5030e92.webp)
 
 {% mtglink "Duress" %} 、{% mtglink "Intimidation Tactics" %} 各帶一張。出於個人習慣，我喜歡在主牌放入少量掉手牌咒語；但這副牌既不是組合技、也不是節奏套牌，帶太多來護航主計畫的效益並不高，因此各只投入一張。
 
@@ -59,13 +59,13 @@ categories:
 
 ### 抽牌區
 
-![](https://i.meee.com.tw/RBzq3DQ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/d5a2ca85e09b.webp)
 
 {% mtglink "Consult the Star Charts" %} 與 {% mtglink "Rakshasa's Bargain" %} 可說是現在環境內最好的抽牌咒語（另外還有一張 {% mtglink "Stock Up" %} ，但因為 {% mtglink "Rakshasa's Bargain" %} 剛好色組正確、又是瞬間，所以我選擇了它）。低費時它們能幫你找到解牌或地牌，高費時則能幫你找到獲勝手段。
 
 ### 威脅區
 
-![](https://i.meee.com.tw/N6b1D9i.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/c275eb043649.webp)
 
 {% mtglink "Emeritus of Abundance" %} 不論哪個版本我都會投入兩張，它也是這次斯翠海文的秘密中我非常喜歡的一張生物。3 費 3/4 警戒的優秀體質，能擋下大部分 3 費以下的生物，需要進攻時也不必擔心被反打。花 2 費就能撿回墳場任一張牌的效果，讓它在控制套牌裡有許多好目標；後期地牌充足後更能持續施放，確保了後期的資源量。
 

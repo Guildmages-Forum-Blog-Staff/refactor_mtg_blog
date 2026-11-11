@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/oD5gjpj.webp"
-thumbnail: "https://i.meee.com.tw/oD5gjpj.webp"
+cover: "https://images.guildmagesforum.tw/posts/HOB-White/dcad8dea64e2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-White/dcad8dea64e2-cover.jpg"
 excerpt: "究竟是人海戰術厲害呢，還是手拿各種武具的矮人更有威脅？讓我們一起來看看這次白色有什麼厲害的牌吧！"
 
 ---

@@ -7,8 +7,8 @@ authors:
   - "JruMTG"
 categories:
   - "Beginner"
-cover: "https://i.meee.com.tw/jMNOt22.jpg"
-thumbnail: "https://i.meee.com.tw/jMNOt22.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Beginners-Guide/3ddd661a6b46-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Beginners-Guide/3ddd661a6b46-cover.jpg"
 excerpt: "從零開始的新手入坑指引"
 ---
 
@@ -16,7 +16,7 @@ excerpt: "從零開始的新手入坑指引"
 
 本文是面向剛入坑的零經驗新手，幫助新手理解MTG的基本規則、以及提供查詢資料時所需的資源。歡迎大家分享這篇文章、陪伴新手參與遊戲，希望這篇文章能因此成為新人的萬用百科。
 
-![](https://i.meee.com.tw/FK5GAFj.jpg)
+![](https://images.guildmagesforum.tw/posts/Beginners-Guide/ce371ae5b66c.webp)
 
 ---
 
@@ -51,7 +51,7 @@ excerpt: "從零開始的新手入坑指引"
 
 ### 牌張各部分說明
 
-![Card](https://i.meee.com.tw/Pg2VPnZ.png)
+![Card](https://images.guildmagesforum.tw/posts/Beginners-Guide/43d6d14587a7.webp)
 
 - **1.牌張名稱**
 
@@ -79,7 +79,7 @@ excerpt: "從零開始的新手入坑指引"
 - R：稀有（Rare），顏色為金色。
 - MR：秘稀（Mythic Rare），顏色為橘紅色。
 
-![系列符號](https://i.meee.com.tw/eR5jkHx.png)
+![系列符號](https://images.guildmagesforum.tw/posts/Beginners-Guide/e992ecdb1429.webp)
 > 看到橘紅色的瞬間總是讓人心跳加速呢，沒看到就「老闆再一包」吧。
 
 - **5.效果敘述**
@@ -104,13 +104,13 @@ excerpt: "從零開始的新手入坑指引"
 
 ### 五色系統說明
 
-![color](https://i.meee.com.tw/7SaRCb7.png)
+![color](https://images.guildmagesforum.tw/posts/Beginners-Guide/0ab5b35fa636.webp)
 
 MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/news/making-magic/great-white-way-revisited-2015-07-13)、[藍](https://magic.wizards.com/en/news/making-magic/true-blue-revisited-2015-07-20)、[黑](https://magic.wizards.com/en/news/making-magic/black-revisited-2015-07-27)、[紅](https://magic.wizards.com/en/news/making-magic/seeing-red-revisited-2015-08-03)、[綠](https://magic.wizards.com/en/news/making-magic/its-not-easy-being-green-revisited-2015-08-10)，每種顏色都有對應的長處與死角，這項設計在MTG中也被稱為顏色輪。以下為各顏色的特性：
 
 
 - **白色**
-![白](https://i.meee.com.tw/86gm472.png)
+![白](https://images.guildmagesforum.tw/posts/Beginners-Guide/8777e92c1585.webp)
     - **群體效應：** 白色是個重視**聯手合作**的顏色，生物個體強度或許不特別突出，但有很多大量鋪場的手段，以及強化全體生物的能力。
     - **恢復生命：** 補血也是白色的招牌之一，附帶一提，MTG的生命是無上限的。
     - **保護與強化：** 白色有著較強的自保與強化能力，可以從對手的各種干擾中保護住自己的資源，或是強化自己的生物等。
@@ -119,7 +119,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 白色擁有全顏色中最廣的對應面，不過部分能力會存在應用限制、或是要求搭配合作才能完整發揮能力。
 
 - **藍色**
-![藍](https://i.meee.com.tw/YtPDllh.png)
+![藍](https://images.guildmagesforum.tw/posts/Beginners-Guide/9216456ed759.webp)
     - **反擊咒語：** 反擊（Counter）的意思是將對手施放的咒語無效化，也就是俗稱的「康」，這是藍色最無法被取代的特色。
     - **抽牌：** 雖然每個顏色都具備抽牌能力，但藍色的抽牌通常是最高效的。
     - **磨牌：** 磨牌的意思是將對手牌庫的牌直接置入墳墓場。在某些對局中，攻擊對手的牌庫會比攻擊生命更容易取得勝利。
@@ -128,7 +128,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 藍色是特色最鮮明的顏色，它的長處大多都是其他顏色難以複製的，光是喜歡康牌就能成為你選擇藍色的理由。
 
 - **黑色**
-![黑](https://i.meee.com.tw/PSS1tKG.png)
+![黑](https://images.guildmagesforum.tw/posts/Beginners-Guide/5e9bbe0172bb.webp)
     - **手牌破壞：** 把對手的手牌棄掉是黑色的招牌絕活。
     - **墳場利用：** 黑色擅長利用墳場資源，例如回收墳場的牌，或將墳場做為另一種資源基礎，然後發展出其他應用。
     - **詛咒與弱化：** 黑色可以施加負面效果給玩家或生物，來持續降低他們的能力。
@@ -138,7 +138,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
     
     
 - **紅色**
-![紅](https://i.meee.com.tw/ylE16uh.png)
+![紅](https://images.guildmagesforum.tw/posts/Beginners-Guide/c607ed4fb61a.webp)
     - **傷害：** 紅色的招牌就是**傷害**，無論是對玩家、生物、或場上任何能受到傷害的東西，這類透過非戰鬥方式而造成傷害的能力，俗稱為「燒」。
     - **敏捷：** MTG的基本規則中，生物剛進場的回合是不能宣告攻擊的（召喚失調），除非這個生物上有「敏捷」這項能力，那就能無視召喚失調的規則，而敏捷的最大來源正是紅色。
     - **隨機性：** 紅色是個衝動的顏色，不擅於長期規劃，因此紅色容易出現收益難以預期的隨機性動作。 
@@ -148,7 +148,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - **綠色**
-![綠](https://i.meee.com.tw/ItbvqCe.png)
+![綠](https://images.guildmagesforum.tw/posts/Beginners-Guide/e8aa9f11cedc.webp)
     - **強力生物：** 綠色生物的能力通常較簡單，但基礎戰鬥力是全顏色中最強的，且數值高到足以成為特色機制。
     - **生物配套：** 綠色的招常常圍繞著生物來運作，例如強化生物、保護生物、檢索生物牌上手等。 
     - **加速：** 綠色擅長快速增加魔法力，對手在第四回合可能只有 4 點魔法力可以用，你的第四回合卻已經有 7 點魔法力可用。
@@ -158,7 +158,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - **無色與多色**
-![多色](https://i.meee.com.tw/qW8NdCn.png)
+![多色](https://images.guildmagesforum.tw/posts/Beginners-Guide/9014262bbd00.webp)
 在MTG中，沒有規定一張牌只能是一種顏色，也存在無色與多色牌。無色牌能力包羅萬象，沒有明確定義；多色牌會同時具有它所擁有顏色的特性。
 
 
@@ -170,7 +170,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 現今的系列基本都會包含的類別，共有地、生物、巫術、瞬間、神器、結界、鵬洛客這七種。其中鵬洛客類別的牌張最為稀少，部分特殊的旁支系列可能不收錄，其餘六個類別原則上在各系列都能看見。
 
 - 地（Land）
-![地](https://i.meee.com.tw/F46xw2V.png)
+![地](https://images.guildmagesforum.tw/posts/Beginners-Guide/9c3eaf0255f3.webp)
 
 在故事意境上，玩家是一位魔法師，透過提取大地中的魔力來施放各種咒語。
 地牌是 MTG 中產出魔法力的主要來源，通常都具有橫置以產出指定魔法力的能力，無論是施放咒語、起動異能、或是其他各種遊戲中的操作，魔法力常常是其中的必要資源。當然，除了產出魔法力外，也有不少地牌具有額外的特殊功能。
@@ -181,7 +181,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - 生物（Creature）
-![生物](https://i.meee.com.tw/IctOVkg.png)
+![生物](https://images.guildmagesforum.tw/posts/Beginners-Guide/e4bfd60af5b2.webp)
 
 生物是玩家間攻防的主要單位。每個生物都於右下角印有該生物的力量/防禦力，左邊數字代表該生物的力量（能造成多少傷害），右邊數字代表該生物的防禦力（受到多少傷害會死去），只要該生物身上累積的傷害大於等於其防禦力，牠就死去，若回合結束時某生物有受到傷害但未死去，則移除牠身上所有傷害（通俗點說就是恢復到滿血）。
 
@@ -189,7 +189,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - 巫術（Sorcery）
-![巫術](https://i.meee.com.tw/ulEzVtn.png)
+![巫術](https://images.guildmagesforum.tw/posts/Beginners-Guide/16184afc3504.webp)
 
 施放巫術宛如你施展了一道魔法，能夠立刻為遊戲帶來影響，例如使對手棄牌、造成傷害等。
 
@@ -197,13 +197,13 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - 瞬間（Instant）
-![瞬間](https://i.meee.com.tw/0lVthSU.png)
+![瞬間](https://images.guildmagesforum.tw/posts/Beginners-Guide/c2fdaf114801.webp)
 
 能力性質與巫術大致相同，兩者差別在可以施放的時機不同，瞬間有著更廣更彈性的使用時機。完整解釋見「時機、回應與堆疊」章節。
 
 
 - 神器（Artifact）
-![神器](https://i.meee.com.tw/YEDmOC1.png)
+![神器](https://images.guildmagesforum.tw/posts/Beginners-Guide/e4a6e999666d.webp)
 
 神器就像是某種實體的裝置或道具，會持續留在戰場上並發揮其能力。因為神器不是生物，所以不直接參與生物間的戰鬥。神器以無色牌為大宗。
 
@@ -211,7 +211,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - 結界（Enchantment）
-![結界](https://i.meee.com.tw/lvZIkZH.png)
+![結界](https://images.guildmagesforum.tw/posts/Beginners-Guide/eed11d2acb70.webp)
 
 結界與神器類似，都會留在場上並發揮其能力，不過結界通常以有色牌居多。
 
@@ -219,7 +219,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - 鵬洛客（Planeswalker）
-![鵬洛客](https://i.meee.com.tw/GhNWJMz.png)
+![鵬洛客](https://images.guildmagesforum.tw/posts/Beginners-Guide/18d218c504b0.webp)
 
 鵬洛客也被稱為旅法師<font color="#AAAAAA">（旅法師營地的網站名稱便是由此而來）</font>。鵬洛客是這七個常見類別中最特殊的存在，也是規則最複雜的一個類別。它並非 MTG 誕生之初就有的類別，第一張鵬洛客牌誕生於 2007 年。
 
@@ -236,7 +236,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 除了上述的常見類別外，還有些罕見類別，這些類別的牌張可能數年才有一個系列會收錄，甚至歷史上就只出過一個系列而已，典型的代表類別為親緣＆戰役，這些罕見類別由於少見又有較高規則複雜度，本篇文章就不細說了。
 
 - 親緣（Kindred）＆戰役（Battle）
-![親緣戰役](https://i.meee.com.tw/hZNWqz0.png)
+![親緣戰役](https://images.guildmagesforum.tw/posts/Beginners-Guide/711e5ad1768a.webp)
 
 > PS：親緣類別過去曾名為部族（Tribal），因政治正確因素導致該類別名詞抽換，現在若看到類別欄為部族的舊卡，也一律視為親緣類別。
 
@@ -246,7 +246,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 可以簡單理解為主類別的額外補充，這些類別本身會自帶一些特殊規則。
 
 - 傳奇（Legendary）
-![傳奇](https://i.meee.com.tw/9UlH942.png)
+![傳奇](https://images.guildmagesforum.tw/posts/Beginners-Guide/1de036d3bacb.webp)
 
 如果某一玩家同時操控複數個「完全同牌名」的傳奇永久物，則該玩家從中選擇一個，並將其他的同名永久物都置入墳墓場，這條規則也被稱為 **「傳奇規則」** 。
 
@@ -254,7 +254,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 
 - 基本（Basic）
-![基本](https://i.meee.com.tw/vtre37e.png)
+![基本](https://images.guildmagesforum.tw/posts/Beginners-Guide/5eb5d544323c.webp)
 
 基本類別只會出現在地牌上，也就是所謂的基本地，在套牌構築規則中，基本地沒有同名牌上限。
 
@@ -265,7 +265,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
  MTG 中共有五種基本地類別，這些類別的基本地名稱與產出魔法力顏色對照關係如下：
 
-![BasicLand](https://i.meee.com.tw/u9D9y3h.png)
+![BasicLand](https://images.guildmagesforum.tw/posts/Beginners-Guide/42ebb846691f.webp)
 
 | 中文名 | 英文名 | 產出顏色 |
 | :-: | :-: | :-: |
@@ -278,15 +278,15 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 將地牌橫置 90° 後便可從該地中提取出魔法力，基本地能產出的魔法力如上表，其他特殊地則依照各自效果產出指定的魔法力。
 
 有了魔法力現在我們能施放咒語了，施放一個咒語所需要的魔法力記述於卡片右上角，以下圖為例，這隻鳥的施放費用總共要 3 費，其中有 1 點白的指定色，這一費用只能用白色支付，剩下 2 點為任意色，無論是甚麼顏色、甚至無色的魔法力都能支付此部分費用。
-![Mana](https://i.meee.com.tw/1p6ymnk.png)
+![Mana](https://images.guildmagesforum.tw/posts/Beginners-Guide/b566e1751bce.webp)
 
 想要獲得魔法力，地牌不是唯一的來源， MTG 中還有各種各樣讓你獲得魔法力的手段。另外如果產出的魔法力為無色時，會使用菱形的無色符號表示：
-![Mana頭](https://i.meee.com.tw/dPDce0f.png)
+![Mana頭](https://images.guildmagesforum.tw/posts/Beginners-Guide/eaecdf7d0e79.webp)
 
 
 ### 戰場擺設
 
-![戰場擺設](https://i.meee.com.tw/2q41caI.png)
+![戰場擺設](https://images.guildmagesforum.tw/posts/Beginners-Guide/63d5055118ef.webp)
 
 實際上 MTG 對於遊戲檯面的擺設並無硬性規定，但需要確保牌庫、墳墓場、放逐區、戰場皆清晰可分辨，其中放逐區通常會以 90° 橫置的方式來擺設。推薦的擺設方式如上圖。
 
@@ -319,7 +319,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 有關回合流程的完整規則解說，可以參考往期文章：[「回合流程詳解」](https://guildmagesforum.tw/Round-Process/)，本篇文章僅進行簡易說明。
 
-![回合流程](https://i.meee.com.tw/LAeCDVh.png)
+![回合流程](https://images.guildmagesforum.tw/posts/Beginners-Guide/ff7a3455f17e.webp)
 
 由於是以當回合玩家視角解說回合流程，以下使用「你」時，皆指當回合玩家。
 
@@ -360,7 +360,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 再讓我們看幾個戰鬥階段中生物攻擊與阻擋的實例：
 >以下範例攻擊方以<font color="#FF0000">紅字</font>表示、阻擋方以<font color="#00B050">綠字</font>表示。
 
-![戰鬥1](https://i.meee.com.tw/lVCzoRM.png)
+![戰鬥1](https://images.guildmagesforum.tw/posts/Beginners-Guide/8b1cb9120f84.webp)
 
 在這個範例中，對手讓兩隻 4/2 的<font color="#FF0000">狂亂迅猛龍</font>進行攻擊，我方讓一隻 3/3 <font color="#00B050">半人駿馬</font>與一隻 3/5 的<font color="#00B050">攻城乳齒象</font>分別各阻擋一隻，傷害結算結果如下：
 
@@ -369,7 +369,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 圖右戰鬥中，<font color="#FF0000">狂亂迅猛龍</font>對<font color="#00B050">攻城乳齒象</font>造成 4 點傷害，<font color="#00B050">攻城乳齒象</font>對<font color="#FF0000">狂亂迅猛龍</font>造成 3 點傷害，<font color="#FF0000">狂亂迅猛龍</font>同樣因受到致命傷害而死去，但<font color="#00B050">攻城乳齒象</font>的防禦力有 5 ，區區 4 點傷害還不足以使牠死去，牠將在這場戰鬥中存活下來，並且若該回合結束時牠依舊活著，便會將本回合累積的傷害移除。
 
 
-![戰鬥2](https://i.meee.com.tw/wfgmeqb.png)
+![戰鬥2](https://images.guildmagesforum.tw/posts/Beginners-Guide/450b4438a6da.webp)
 
 接著來看看聯合阻擋時的處理方法，假設對手讓一隻 5/4 的<font color="#FF0000">火元素</font>進行攻擊，我方讓一隻 3/3 <font color="#00B050">半人駿馬</font>與一隻 1/3 的<font color="#00B050">可靠護盾手</font>進行聯合阻擋。在傷害結算時，對手可以選擇將<font color="#FF0000">火元素</font>的 5 點的戰鬥傷害任意分配在我的這兩隻阻擋生物上，假設對手選擇分配 3 點傷害給<font color="#00B050">半人駿馬</font>、 2 點傷害給<font color="#00B050">可靠護盾手</font>，這麼一來<font color="#00B050">半人駿馬</font>會死去，而<font color="#00B050">可靠護盾手</font>因為防禦力有 3 ， 2 點傷害還不足以致命，因此會活下來。
 
@@ -390,7 +390,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 讓我們用一個例子來看看瞬間的強大之處。假設現在是對手的回合，他有一個 5/4 的<font color="#FF0000">火元素</font>，我方有一個 3/3 的<font color="#00B050">半人駿馬</font>，在對手看來<font color="#FF0000">火元素</font>攻擊起來毫無風險，便讓他攻擊了，然而我方卻選擇讓<font color="#00B050">半人駿馬</font>宣告阻擋，並在傷害結算前施放了一張瞬間：<font color="#00B050">巨力成長</font>，使<font color="#00B050">半人駿馬</font> +4/+4 成為了 7/7 的身材，這下反倒是 5/4 的<font color="#FF0000">火元素</font>自己撞個頭破血流單方面送頭了。
 
-![瞬間](https://i.meee.com.tw/Uz2rgz1.png)
+![瞬間](https://images.guildmagesforum.tw/posts/Beginners-Guide/6af24b826b92.webp)
 
 
 - **回應與堆疊**
@@ -403,19 +403,19 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 讓我們來看看這個例子，我方有一隻 3/3 的<font color="#00B050">半人駿馬</font>，對手以它為目標施放<font color="#FF0000">閃電煉擊</font>，打算對其造成 3 點傷害，如果讓<font color="#FF0000">閃電煉擊</font>這道咒語成功結算那<font color="#00B050">半人駿馬</font>就涼了，但我可以回應<font color="#FF0000">閃電煉擊</font>先對它施放一個<font color="#00B050">巨力成長</font>。
 
-![堆疊1](https://i.meee.com.tw/brn9RiC.png)
+![堆疊1](https://images.guildmagesforum.tw/posts/Beginners-Guide/3b6108e8005c.webp)
 
 這時堆疊上將會出現兩個咒語等待結算，下方是對手的<font color="#FF0000">閃電煉擊</font>，上方是我的<font color="#00B050">巨力成長</font>，它們正如字面意思上的疊起來了，若沒有玩家要繼續回應，那麼就開始處理堆疊，處理規則是由上往下依序結算，也就是俗稱的**後發先制**。
 
-![堆疊2](https://i.meee.com.tw/Z8HpSLh.png)
+![堆疊2](https://images.guildmagesforum.tw/posts/Beginners-Guide/3ae5bab2878f.webp)
 
 因為我方的<font color="#00B050">巨力成長</font>在堆疊最上方，因此最優先結算，使<font color="#00B050">半人駿馬</font> +4/+4 成為 7/7 ，接著才是<font color="#FF0000">閃電煉擊</font>結算對他造成 3 點傷害，因為現在已經有 7 的防禦力了，所以承受 3 點傷害還不至於使他死去。
 
-![堆疊3](https://i.meee.com.tw/wrLuzy2.png)
+![堆疊3](https://images.guildmagesforum.tw/posts/Beginners-Guide/0433d5eb0c54.webp)
 
 還記得前面說過藍色的一大特色是反擊咒語（康）嗎？ 康就是個活躍在堆疊上的機制，可以將堆疊上的咒語直接無效化。
 
-![堆疊4](https://i.meee.com.tw/W5frggJ.png)
+![堆疊4](https://images.guildmagesforum.tw/posts/Beginners-Guide/c3b9937a572c.webp)
 
 堆疊是可以無限制往上疊的，只要你們有辦法一口氣出那麼多牌。此外堆疊是可以隨時往上添加新的回應的，假設對手出了一張你很想康的<font color="#FF0000">閃電煉擊</font>，但手上目前還沒有康牌，那麼你可以先回應對方做一個瞬間抽牌，這張抽牌結算後就執行抽牌，如果正好這波抽牌抽到了康，那麼你可以繼續回應這張<font color="#FF0000">閃電煉擊</font>把它給康了。
 
@@ -432,7 +432,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
     - **起動式異能：** 文本格式為「“費用”：“效應”」，先支付指定的起動費用後，這個異能便會上堆疊。
     - **觸發式異能：** 文本格式為「“當（When）、每當（Whenever）、在（At）”，“觸發條件”，“效應”」，當遊戲中發生的事件滿足觸發條件時，這個異能便會上堆疊。
     - **靜止式異能：** 不使用堆疊，常態生效的能力。
-![異能](https://i.meee.com.tw/hNzvw3a.png)
+![異能](https://images.guildmagesforum.tw/posts/Beginners-Guide/6f1905e4aa0e.webp)
 
 
  MTG 中有許多的異能都被濃縮成了一個關鍵字，這麼做的好處是能讓卡面文字敘述變得很精簡，但缺點就是你如果不知道這個關鍵字的意思就完全看不懂這張牌了，這裡提供幾個 MTG 設計牌張時，較高頻率使用的關鍵字異能翻譯與介紹：
@@ -472,7 +472,7 @@ MTG的牌張共有五種顏色，分別為[白](https://magic.wizards.com/en/new
 
 ## 賽制介紹
 
-![](https://i.meee.com.tw/x2KWVux.jpg)
+![](https://images.guildmagesforum.tw/posts/Beginners-Guide/4627166b9dd9.webp)
 
  MTG 的賽制可以分為構築賽 ＆ 限制賽兩大類。構築賽使用的是玩家自行構築的套牌，並且依照可用牌池的大小與其他構築規則，又再分為數種賽制。限制賽玩家無須準備自己的套牌，遊戲方式為玩家現場打開補充包，並使用這些補充包組出一副套牌對戰，限制賽依照規則可再分為現開＆輪抽兩種。
 
@@ -561,7 +561,7 @@ MTGA 上的非輪替賽制，可以使用所有 MTGA 收錄的牌張，包含煉
 ---
 
 ## 資源連結
-![](https://i.meee.com.tw/8NAvAzb.jpg)
+![](https://images.guildmagesforum.tw/posts/Beginners-Guide/e336774f4608.webp)
 
 本章節會介紹幾個常用的 MTG 相關資源網站，以下各網站標題同時為網站超連結。
 
@@ -606,4 +606,4 @@ MTG最強的卡片搜尋引擎，入口網站提供卡名搜尋，選取「Advan
 
 本網站 **Guildmages' Forum 魔風集會所** 的 Facebook 粉絲專頁，有新文章上線時都會在粉專上發文公告。
 
-![GF](https://i.meee.com.tw/b8qmDnF.png)
+![GF](https://images.guildmagesforum.tw/posts/Beginners-Guide/139aa425d599.webp)

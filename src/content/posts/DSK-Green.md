@@ -123,7 +123,7 @@ excerpt: "恐懼來自於火力不足，嚐嚐綠色壓倒性的火力吧！"
 
 
 <!---181--->
-![181](https://i.imgur.com/11A3d25.png)
+![181](https://images.guildmagesforum.tw/posts/DSK-Green/961fafa426f3.webp)
 分數：3.0
 評語：除了讓你比較好進多色思路外，還給你了一個回收手段，不錯了。
 
@@ -178,7 +178,7 @@ excerpt: "恐懼來自於火力不足，嚐嚐綠色壓倒性的火力吧！"
 
 
 <!---190--->
-![190](https://i.imgur.com/GlLHGlh.png)
+![190](https://images.guildmagesforum.tw/posts/DSK-Green/b1e395337789.webp)
 分數：2.5
 評語：給綠多色或者綠底 ramp 出高費生物的套路用的，左邊 ramp 完，中後期開右邊還可以再帶一隻 5/5 。
 
@@ -271,7 +271,7 @@ excerpt: "恐懼來自於火力不足，嚐嚐綠色壓倒性的火力吧！"
 
 
 <!---205--->
-![205](https://i.imgur.com/oJm59JW.png)
+![205](https://images.guildmagesforum.tw/posts/DSK-Green/e930f0a6f120.webp)
 分數：2.0
 評語：不太適合在限制賽使用， 5 費解鎖後當回合用墳場， X +5 費的使用限制真的太大了；而正常來說，也沒那麼多時間能靠左邊的隔間從墳場下地。
 

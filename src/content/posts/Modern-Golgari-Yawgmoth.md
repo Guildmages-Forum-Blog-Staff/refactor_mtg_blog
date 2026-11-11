@@ -2,8 +2,8 @@
 title: "醫生轉行當廚師的指南"
 date: 2023-09-28 10:00:00
 excerpt: "阿加莎的靈魂鼎鑊為黑綠醫生帶來的娛樂性"
-cover: "https://i.imgur.com/AbD2v4Y.jpg"
-thumbnail: "https://i.imgur.com/AbD2v4Y.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/8fde0c6eea69-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/8fde0c6eea69-cover.jpg"
 categories:
   - "Construct"
   - "Modern"
@@ -19,7 +19,7 @@ authors:
 
 [金魚卡表連結](https://www.mtggoldfish.com/deck/5841776#paper)
 
-![](https://i.imgur.com/nOWlymD.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/57b679121844.webp)
 
 ## 二、介紹鍋子
 
@@ -35,7 +35,7 @@ authors:
 
 ### 1. 主要目標生物
 
-![](https://i.imgur.com/9o5ozRu.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/02d7cc1b33cc.webp)
 
 醫生是本套牌的絕大部分組合技的關鍵卡，如果可以被鍋子吃掉的話，不息生物本身就可以在有豆子的情況下持有醫生的起動式異能，這樣的好處是可以透過兩隻不息生物自己互跳躲殺（後面會提到整個組合技的流程跟結果）。
 
@@ -45,13 +45,13 @@ Grist 在非戰場的狀態下都額外視為 1/1 蟲子生物，這也讓他不
 
 ### 2. 產費生物
 
-![](https://i.imgur.com/C8OOPxL.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/2fdefe66ef57.webp)
 
 這四張是目前近代醫生會放的產費生物，目前主流構築是四張[快樂的半身人](https://cards.scryfall.io/large/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281)加上零到兩張的[陋族大主教](https://cards.scryfall.io/large/front/a/b/aba51852-af8f-49d8-8fb6-22d52a1742b8.jpg?1626097603)或是[金鵝](https://cards.scryfall.io/large/front/3/0/30377bf0-d9b1-4c14-8dde-f74b1e02d604.jpg?1572490572)。由於半身人的加入，讓醫生、Grist、及鍋子免於被康，對醫生套牌有很大的幫助；另外[樹靈喬木](https://cards.scryfall.io/large/front/b/b/bb3a843b-2dea-4b44-be74-c09c18b9b969.jpg?1619399228)作為一樣可以產費的地或生物，我也歸類在這邊，以上四張如果被鍋子吃掉的話，就會變成你每一隻有+1/+1 豆子的生物都有產費能力。
 
 ### 3. 功能性生物
 
-![](https://i.imgur.com/peQbhaw.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/1e851bbeab5a.webp)
 
 [失控蟲械](https://cards.scryfall.io/large/front/8/4/847a175e-ead1-4596-baf3-5f7f57859e0b.jpg?1674421689)做為現在常用的對神器結界用生物，在醫生套牌裡面也可以被[和聲召集](https://cards.scryfall.io/large/front/d/a/dac257a9-39bf-4185-9d2e-f80f0848a96a.jpg?1599707002)找進場，如果被鍋子吃掉之後，你每一隻有+1/+1 豆子的生物都可以犧牲自己放逐非生物神器或結界，目前很好的目標像是常見的[克撒傳](https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301)或是醫生很難處理的[卡爾札之完化體](https://cards.scryfall.io/large/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096)，以及各種墳場針對的神器結界都可以處理。
 
@@ -61,7 +61,7 @@ Grist 在非戰場的狀態下都額外視為 1/1 蟲子生物，這也讓他不
 
 ### 4. 可以當 end game 手段的功能性生物
 
-![](https://i.imgur.com/cX5ukKe.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/0a4b4c9815f5.webp)
 
 在這次加入了鍋子之後，我在正編加入了[自行弩炮](https://cards.scryfall.io/large/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1599710252)備編加入了[餵養釘獸](https://cards.scryfall.io/large/front/0/9/090a5f1f-9a1a-4e93-8c33-a0204c2917d5.jpg?1562428174)，兩者被鍋子吃掉之後，搭配醫生體系可以做到無限點人一點傷害或無限血，整體過程會在後面提到。
 
@@ -71,7 +71,7 @@ Grist 在非戰場的狀態下都額外視為 1/1 蟲子生物，這也讓他不
 
 ## 四、最常使用的組合技
 
-![](https://i.imgur.com/6TAnVTg.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Golgari-Yawgmoth/39f7d08e0b79.webp)
 
 首先我要先提到醫生套牌的主要目標終端，目前主流構築是四張醫生+四張幼狼+0-2 隻縛根遊魂，會選用這兩隻是因為這是目前綠色費用最低的不息生物(配合根牆以及地牌主要為綠)，遊戲目標會希望場上有兩隻不息生物+醫生，如果成功的話可以藉由下列流程達成組合技：
 

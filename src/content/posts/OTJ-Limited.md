@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的光雷驛鏢客限制賽分析（寫在PT OTJ之前）"
 date: "2024-04-23 13:59:29"
-cover: "https://i.postimg.cc/BvXT0L8J/viko-menezes-horse-wisperer.jpg"
-thumbnail: "https://i.postimg.cc/BvXT0L8J/viko-menezes-horse-wisperer.jpg"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-Limited/691b279c11cf-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Limited/691b279c11cf-cover.jpg"
 excerpt: "PT OTJ即將於本周末登場，來看看限制賽有趣的搭配以及可能要注意的重點吧！"
 categories:
   - "Limited"
@@ -36,20 +36,20 @@ authors:
 
 若你在scryfall的進階搜尋（advance search）中選擇OTJ、BIG的生物，並加入防禦力（toughness）大於或等於 7 的條件，你會找到這三隻生物。然而，紅色的[刺針背懼龍](https://scryfall.com/card/otj/147/stingerback-terror)在大部分的時間通常都無法到達7防，因此我們可以主要關注白綠這兩張大屁股：[彈躍晶角獸](https://scryfall.com/card/otj/5/bounding-felidar)、以及[棘林犰狳](https://scryfall.com/card/otj/182/spinewoods-armadillo)。
 
-![](https://i.postimg.cc/NjySYByv/Toughness7.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-Limited/c2e2dc0aac10.webp)
 
 而如果把範圍限縮到防禦力等於 6，則會多出這兩隻：[疾馳獄火災禍](https://scryfall.com/card/otj/116/calamity-galloping-inferno)、以及BIG的[庫生暴霸龍](https://scryfall.com/card/big/20/vaultborn-tyrant)。
 
-![](https://i.postimg.cc/tTRsZSGy/Toughness6.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-Limited/28e8d738f8b1.webp)
 
 而當我們把範圍在限縮到防禦力等於 5 時，出現的 16 張生物牌基本上絕大多數都是炸彈等級、或是能扛住再次一級炸彈們的優秀阻擋者。然後到這邊眼尖的人就會發現
 
 - 並沒有純黑色的 5 防以上生物，超級可悲；
 - 綠色有最多的U卡以下 5 防以上生物，總共有 6 張（包括一張C卡的[仙掌狼蛛](https://scryfall.com/card/otj/158/cactarantula)），而白色與紅色次之各有 3 張、藍色也有 2 張 U卡。
 
-![](https://i.postimg.cc/VLcZppMD/Toughness7-1-1.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-Limited/a4591b504ee0.webp)
 
-![](https://i.postimg.cc/15J0BjKg/Toughness7-1-2.jpg)
+![](https://images.guildmagesforum.tw/posts/OTJ-Limited/2ad2037bd297.webp)
 
 回顧完上述的資訊後，我們可以看到白綠色組包辦了最大數量的高防禦力生物，其中還各有限制賽中一張最高7防的生物。我們可以初步得到**白綠色組相當善於防守**的這個小結論。
 

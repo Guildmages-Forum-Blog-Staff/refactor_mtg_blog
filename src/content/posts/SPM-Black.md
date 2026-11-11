@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/09hSVlX.png"
-thumbnail: "https://i.meee.com.tw/09hSVlX.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Black/b7af91e3bc94-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Black/b7af91e3bc94-cover.jpg"
 excerpt: "可愛又迷人的反派角色"
 ---
 

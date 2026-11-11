@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/gALh7MH.png"
-thumbnail: "https://i.meee.com.tw/gALh7MH.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Colorless/560ec287c704-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Colorless/560ec287c704-cover.jpg"
 excerpt: "顏色很難湊嗎？怎麼會。種族很難搭配嗎？不可能！"
 ---
 
@@ -112,7 +112,7 @@ excerpt: "顏色很難湊嗎？怎麼會。種族很難搭配嗎？不可能！"
 評語：經典的成形野地，在限制賽中能有效協助找出所需的顏色並壓縮牌庫，在多色環境重出極為合理。
 
 <!---電震地統一評分，有必要區別分數仍可拆開，作者可自行修改--->
-![](https://i.meee.com.tw/Dr2qvv3.jpg)
+![](https://images.guildmagesforum.tw/posts/ECL-Colorless/cdf54ca186e1.webp)
 分數：3.0
 評語：繼EOE後終於重出了另外五張電震地，對於本系列的多色體系而言若能抓下來便能有效提升構築上的法力基礎。而如同先前所述，電震地除了提供多色法力支持之外，並沒有其他輔助性異能，故若只沾一色的構築無須採用。
 

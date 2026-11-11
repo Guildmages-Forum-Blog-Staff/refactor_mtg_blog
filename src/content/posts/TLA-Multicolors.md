@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/upGqXyw.png"
-thumbnail: "https://i.meee.com.tw/upGqXyw.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Multicolors/1d46975a63bc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Multicolors/1d46975a63bc-cover.jpg"
 excerpt: "四宗合一，火地水氣，降世天命，證我神通！"
 ---
 
@@ -27,11 +27,11 @@ excerpt: "四宗合一，火地水氣，降世天命，證我神通！"
 > C：主題回報 — What we want?
 > D：延伸發展 — Where we go?
 
-![輪抽十色組卡圖](https://i.meee.com.tw/7RHjZdd.png)
+![輪抽十色組卡圖](https://images.guildmagesforum.tw/posts/TLA-Multicolors/2baeb1078d46.webp)
 
 ### <span style="color:#C3B270">白</span><span style="color:#006DB3">藍</span> — 飛兵（Flyers）
 
-![](https://i.meee.com.tw/v1bJT8U.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/2ff576ac2884.webp)
 
 C卡的 {% mtglink "Cat-Owl" %} 看似普通的飛兵，但其重置的異能除了讓生物能進行阻擋外，也能支援截水神通（Waterbend）；U卡的 {% mtglink "Air Nomad Legacy" %} 除了讓你全家飛兵變大外，派出的線索也能讓你抽牌。而另一張 {% mtglink "Sokka, Lateral Strategist" %} 只要與另一隻生物一同攻擊就能抽牌，若是色組主打的飛行生物，更有機會持續攻擊並拉開資源差距。
 
@@ -41,7 +41,7 @@ C卡的 {% mtglink "Cat-Owl" %} 看似普通的飛兵，但其重置的異能除
 
 ### <span style="color:#006DB3">藍</span><span style="color:#808080">黑</span> — 抽二（Draw Two）
 
-![](https://i.meee.com.tw/fOipYCE.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/637d1e0e811a.webp)
 
 C卡的 {% mtglink "Messenger Hawk" %} 自帶線索（Clue）衍生物，可以主動支援一次抽二的效果，本身的進攻能力也相當可觀。 U卡的 {% mtglink "Foggy Swamp Spirit Keeper" %} 則是抽二主題的回報單卡，每回合抽第二張時都能派出一張1/1無色的精靈衍生物，具有有條件性的穿透力可以幫助你偷打一些傷害。而另一張 {% mtglink "Hama, the Bloodbender" %} 的異能則隱含著降世神通故事中罕見的截血神通（Bloodbend），截血神通脫胎自截水神通，能操縱他人體內的血與水，也因此這張牌的效果也是以截水神通來發動。
 
@@ -49,7 +49,7 @@ C卡的 {% mtglink "Messenger Hawk" %} 自帶線索（Clue）衍生物，可以�
 
 ### <span style="color:#808080">黑</span><span style="color:#AF2321">紅</span> — 烈火國快攻（Fire Nation Aggro）
 
-![](https://i.meee.com.tw/whlPcVf.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/b7304031b82b.webp)
 
 C卡的 {% mtglink "Vindictive Warden" %} 單卡直接把黑紅色組的關鍵字都寫了上去：威懾（Menace）讓他具有一定程度的穿透力、攻擊後存活機率提高；而攻擊觸發振火神通（Firebending）增加的紅色法術力，還可以用來支付起動式異能的費用。U卡的 {% mtglink "Cruel Administrator" %} 的突擊（Raid）則受益於威懾異能的鋪墊，而當他攻擊時，派出的衍生物又能繼續增強振火神通所能增加的法術力。而另一張 {% mtglink "Zhao, Ruthless Admiral" %} ，除了本身具有振火神通外，更暗示你與白黑的犧牲主題的搭配，將能讓你獲得更好的報酬。
 
@@ -57,7 +57,7 @@ C卡的 {% mtglink "Vindictive Warden" %} 單卡直接把黑紅色組的關鍵�
 
 ### <span style="color:#AF2321">紅</span><span style="color:#4A8A3D">綠</span> — 運土跳費（Earth Rumble Ramp）
 
-![](https://i.meee.com.tw/KSEMT4f.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/967b96e23fd6.webp)
 
 不管是運土神通（Earthbend）派出的地生物、或是地牌進場（地落，Landfall），都能讓C卡的 {% mtglink "Earth Rumble Wrestlers" %} 滿足攻擊力4的條件，同時獲得綠色中大型生物最重要的踐踏（Trample）異能。 U卡的 {% mtglink "Bitter Work" %} 則讓紅綠色組不但生物大隻、還很會賺牌！竭絕（Exhaust）雖然僅能用一次，但運土神通4造出的4/4地生物更可讓這個賺牌的循環持續運行。而另一張 {% mtglink "Uncle Iroh" %} 的振火神通、與課程（Lesson）減費施放的效果，更有助於施放瞬間的課程牌。
 
@@ -65,7 +65,7 @@ C卡的 {% mtglink "Vindictive Warden" %} 單卡直接把黑紅色組的關鍵�
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#C3B270">白</span> — 伙伴（Allies）
 
-![](https://i.meee.com.tw/JTgHJPD.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/8960229af229.webp)
 
 C卡的 {% mtglink "Earth Kingdom Soldier" %} 的生物類別竟然沒有伙伴！？而放豆（+1/+1指示物）的效果看起來更適合黑綠色組 ~~Not elegant!!!~~ 。U卡的 {% mtglink "White Lotus Reinforcements" %} 則簡單暴力，是伙伴們的[輝煌的讚美詩](https://scryfall.com/card/m21/21/zht/%E8%BC%9D%E7%85%8C%E7%9A%84%E8%AE%9A%E7%BE%8E%E8%A9%A9-(glorious-anthem))。而伙伴不夠怎麼辦呢？就靠另一張 {% mtglink "Suki, Kyoshi Warrior" %} 不斷進攻來呼朋引伴吧！
 
@@ -75,7 +75,7 @@ C卡的 {% mtglink "Earth Kingdom Soldier" %} 的生物類別竟然沒有伙伴�
 
 ### <span style="color:#C3B270">白</span><span style="color:#808080">黑</span> — 犧牲（Sacrifice）
 
-![](https://i.meee.com.tw/F0ge067.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/73b81dcf7312.webp)
 
 C卡的 {% mtglink "Pretending Poxbearers" %} 可一魚二吃。U卡的 {% mtglink "Tolls of War" %} 則是犧牲主題的重大回報單卡，除了主動派出一個線索來滿足第二條派出伙伴的效果外，也仰賴更多主動犧牲的引擎來滾雪球。而另一張 {% mtglink "Hei Bai, Spirit of Balance" %} 就是這個色組需要的犧牲引擎。
 
@@ -85,7 +85,7 @@ C卡的 {% mtglink "Pretending Poxbearers" %} 可一魚二吃。U卡的 {% mtgli
 
 ### <span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span> — 戰鬥課程（Combat Lessons）
 
-![](https://i.meee.com.tw/kbVQtWe.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/ddf8f2d2b4b8.webp)
 
 C卡的 {% mtglink "Abandon Attachments" %} 本身是就是課程牌，棄一抽二的效果更可以加速課程牌填墳的效率。U卡的 {% mtglink "Dragonfly Swarm" %} 則鼓勵你放越多的課程或非生物牌，並早早將它們放入墳場來增強他的攻擊力、並獲得死去的回報。而另一張 {% mtglink "Professor Zei, Anthropologist" %} 除了作為濾牌的引擎外，有需要的話也可以犧牲他來重複利用墳場中的瞬間/巫術牌。此外，兩張混血牌也都具有多抽牌的能力，也很適合在藍黑的抽二主題中使用。
 
@@ -95,7 +95,7 @@ C卡的 {% mtglink "Abandon Attachments" %} 本身是就是課程牌，棄一抽
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span> — 豆豆（+1/+1 Counters）
 
-![](https://i.meee.com.tw/ewddH66.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/79d817c2465f.webp)
 
 > 這邊的+1/+1 counters真的不知道怎麼翻，直翻「+1/+1指示物」太無聊，因此我就用限制賽文章常用的敘述 — 放豆，用「豆豆」作為主題名稱，希望讀者能喜歡。
 
@@ -105,7 +105,7 @@ C卡的 {% mtglink "Earth Village Ruffians" %} 一臉肥料樣，在白黑犧牲
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span> — 鋪場快攻（Go Wide Aggro）
 
-![](https://i.meee.com.tw/3KqgyFL.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/473bac727714.webp)
 
 C卡的 {% mtglink "Wandering Musicians" %} 體格優秀，攻擊時可以強化全家生物。U卡的 {% mtglink "Sun Warriors" %} 可以善用他振火神通的異能，派出更多的伙伴。而另一張 {% mtglink "Jet, Freedom Fighter" %} 則受益於生物數量，除了作為去除外，死去後也能繼續增強隊友。
 
@@ -113,7 +113,7 @@ C卡的 {% mtglink "Wandering Musicians" %} 體格優秀，攻擊時可以強化
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span> — 跳費 + 課程 （Ramp + Lessons）
 
-![](https://i.meee.com.tw/Y21DtXH.jpg)
+![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/e3bea50c37b5.webp)
 
 C卡的 {% mtglink "Platypus-Bear" %} 除了自磨（Mill）兩張以外，本身的體格也適合阻擋，可幫助跳費套牌度過前期。U卡的 {% mtglink "Hermitic Herbalist" %} 除了是優秀的加速人以外，更可以幫助你更輕易地施放課程牌；而另一張 {% mtglink "Guru Pathik" %} 則能進一步讓你把課程牌放入手中，並且因施放而獲得回報，更延伸到傳記（Saga）、以及祭祠（Shrine）這兩個次主題。
 
@@ -139,13 +139,13 @@ C卡的 {% mtglink "Platypus-Bear" %} 除了自磨（Mill）兩張以外，本�
 ## 評分內容
 
 <!---203--->
-![203](https://i.meee.com.tw/st2wn4c.jpg)
+![203](https://images.guildmagesforum.tw/posts/TLA-Multicolors/295588a58672.webp)
 分數：4.0
 評語：進場看五張不太容易翻空，基本上可以一帶一，搭配截氣神通（Airebend）, 或一些自殺式攻擊就能讓他輕鬆翻面。翻面除了體格變成4/4外，你的地生物有警戒就意味著他們打完還能產費，每個戰階開始時還能做一發運土神通 2（Earthbend 2），相當厲害。附帶一提，在綠底套牌中要混入第三色應是游刃有餘，值得混色把他放進牌組中。
 
 
 <!---204--->
-![204](https://i.meee.com.tw/HUyQpGf.jpg)
+![204](https://images.guildmagesforum.tw/posts/TLA-Multicolors/ffb92b5b5256.webp)
 分數：4.0
 評語：有點像 {% mtglink "Spell Queller" alt="鎮咒靈" %} ，但除了彈咒語外，拿來彈生物也相當有用。截水神通 8（Waterbend 8）有點難達成，但如果是擅長橫鋪的伙伴（Ally）主題的話應該有機會達成，翻面後進攻就能讓全家已橫置的生物都放豆，應該就接近贏了。
 
@@ -165,7 +165,7 @@ C卡的 {% mtglink "Platypus-Bear" %} 除了自磨（Mill）兩張以外，本�
 
 
 <!---207--->
-![207](https://i.meee.com.tw/kMyrNe1.jpg)
+![207](https://images.guildmagesforum.tw/posts/TLA-Multicolors/5f2b3e5ffbca.webp)
 分數：3.0
 評語：相當厲害的一張牌，但四點不同色指定色仍會讓施放有一定難度，建議在綠底的套牌中才考慮使用。如果能準時登場，就是一隻444，每次進攻都能抽一張牌的飛機（攻擊時的振火神通 2（Firebending 2）就能觸發抽牌），如果其他三種神通都能在當回合同時觸發，那翻面後的神通王安就能很快地協助你贏得比賽。不過，與其停在翻面後的神通王狀態，每個維持翻回正面帶來的報酬可能更吸引人！
 

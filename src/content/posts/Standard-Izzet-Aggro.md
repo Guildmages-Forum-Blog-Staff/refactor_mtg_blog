@@ -8,14 +8,14 @@ categories:
   - "Standard"
 authors:
   - "CIXS"
-cover: "https://i.meee.com.tw/AERTL9a.jpg"
-thumbnail: "https://i.meee.com.tw/AERTL9a.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/088f6bb3bfa0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/088f6bb3bfa0-cover.jpg"
 excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet Aggro如何憑藉速度、節奏與靈活互動嶄露頭角。"
 ---
 
 ## 前言
 
-![](https://i.meee.com.tw/AERTL9a.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/088f6bb3bfa0.webp)
 
 事情起於8月15號那天。
 
@@ -59,31 +59,31 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 由於考慮到最大費用會使用到5費，22地基本上是必須的，23地最穩。哪個最好呢？根據我一直以來的主張，22會卡地、23會爆地(X)
 好吧還是數學一點，實際上地的增長狀況大概會長這樣：
 
-![22地](https://i.meee.com.tw/iWCR12d.jpg)
+![22地](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/f0325672583f.webp)
 <p style="text-align: center;"><a class="small">22地</a></p>
 
-![23地](https://i.meee.com.tw/nO2MrED.jpg)
+![23地](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/63d49be3e099.webp)
 <p style="text-align: center;"><a class="small">23地</a></p>
 
 個人還是建議帶23，比起爆地，你會更不想面對需要那張地的時候抽不出來的狀況。
 12張紅藍地、8～9張山脈。有至多3張帶變身地的空間，快攻是不可能容忍躺地的，因此選擇只有《[茂典閣大廳/Great Hall of the Biblioplex](https://scryfall.com/card/sos/257/great-hall-of-the-biblioplex)》或《[魂石庇護地/Soulstone Sanctuary](https://scryfall.com/card/fdn/133/soulstone-sanctuary)》。兩種各有好處，我比較喜歡庇護地，但有機會卡到雙色牌。
 
-![變身地](https://i.meee.com.tw/f6T7EBb.png)
+![變身地](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/3edb105adb69.webp)
 
 ### 非生物咒語：9～11之間
 
-![非生物咒語](https://i.meee.com.tw/uifr0xO.png)
+![非生物咒語](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/cc3ad757dce9.webp)
 
 這裡固定要帶《[閃電迸發/Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning)》跟《[炫麗爆發/Vibrant Outburst](https://scryfall.com/card/sos/240/vibrant-outburst)》，尤其《[炫麗爆發](https://scryfall.com/card/sos/240/vibrant-outburst)》，不然打紅藍就沒有意義了。
 通常都是帶滿四個，最多踢掉一個《[閃電迸發/Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning)》拿來帶別的，剩下的卡位通常會帶1～2個《[通貫龍炎/Channeled Dragonfire](https://scryfall.com/card/tdm/102/channeled-dragonfire)》，根據帶的數量你還會有1～2個空位帶其他咒語，這個位置《[舷側齊射/Broadside Barrage](https://scryfall.com/card/dft/192/broadside-barrage)》或《[炙燒/Sear](https://scryfall.com/card/ecl/154/sear)》都可以。
 
-![非生物咒語2](https://i.meee.com.tw/lve74v6.png)
+![非生物咒語2](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/68af4efc9efc.webp)
 
 ### 生物咒語：26個
 這邊要分成4個部分討論。
 
 #### 一費生物8個
-![一費生物](https://i.meee.com.tw/eAwVA1C.png)
+![一費生物](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/6cdc50c92be1.webp)
 首先《[受雇利爪/Hired Claw](https://scryfall.com/card/blb/140/hired-claw)》是必須的。在失去《[寺院迅矛僧/Monastery Swiftspear](https://scryfall.com/card/bro/144/monastery-swiftspear)》跟《[心火勇士/Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero)》之後，實在沒有人比能穩定輸出傷害、還會自己慢慢變大的蜥蜴更強了。
 而且蜥蜴還是Mercenary（傭兵），《[擊殺警長/Shoot the Sheriff](https://scryfall.com/card/otj/106/shoot-the-sheriff)》表示難過。
 
@@ -97,7 +97,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 不用考慮《[匿跡水獺/Elusive Otter](https://scryfall.com/card/soc/306/elusive-otter-groves-bounty)》，根本沒有足夠的咒語把它變大，綠色那邊也幾乎沒用。
 
 #### 二費生物10～12個
-![二費生物](https://i.meee.com.tw/OvdPbX0.png)
+![二費生物](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/22354b6066c6.webp)
 
 重點區間。
 
@@ -116,7 +116,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 其實三費還有一位《[折霆緹莎/Tersa Lightshatter](https://scryfall.com/card/tdm/127/tersa-lightshatter)》，在失去《[尖鳴宿敵/Screaming Nemesis](https://scryfall.com/card/dsk/157/screaming-nemesis)》後，三費曲線幾乎一直都是它在頂替，缺點是它是傳奇，如果抽到兩張就會很尷尬，還有一位看似滿強的《[嘉斯達炫路車/Gastal Thrillroller](https://scryfall.com/card/dft/129/gastal-thrillroller)》，但實在不強，《[爆雷煉球/Ball Lightning](https://scryfall.com/card/fdn/618/ball-lightning)》更是算了，我們需要的是持續輸出好嗎？
 
 #### 三費以上生物
-![4+生物](https://i.meee.com.tw/2EeC4C6.png)
+![4+生物](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/81a95f8ea9c1.webp)
 《[新星殘虐者/Nova Hellkite](https://scryfall.com/card/eoe/148/nova-hellkite)》是沒有爭議的，它甚至是當成三費生物來看待。4/5敏捷會飛，還自帶處理掉1防生物的能力，身為一張五費牌還可以三費就拿出來用，想不到任何需要拋棄龍去帶別的生物的理由。
 《[旭日脊山貓/Sunspine Lynx](https://scryfall.com/card/blb/155/sunspine-lynx)》一直都是不錯的選擇，除了面對純綠有點無力外，對其他套牌都不錯；尤其是三、四色的控制，往往一個人能打出重大傷害。不過更常見於備牌。
 《[深邃勇力安雄理尊神/Ojer Axonil, Deepest Might](https://scryfall.com/card/lci/158/ojer-axonil-deepest-might-temple-of-power)》是一個比較微妙的生物，主要是它自己沒有太多戰鬥能力可言，重要的是可以讓非生物傷害都變成4點，這跟《[灼燙毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)》、《[尖頭銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)》、《[受雇利爪](https://scryfall.com/card/blb/140/hired-claw)》、《[狂熱惹事鬼](https://scryfall.com/card/fdn/195/fanatical-firebrand)》都是有配合的。缺點也在這個配合上，這代表必須事先準備才能讓神發揮最大功用。
@@ -127,7 +127,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 
 牌組大概會有2~3個空位可以塞其它生物，除了剛剛提到的大費生物外，選項也不太多，畢竟紅色底的1、2費生物夠強的早就拿來用了。近期常被採用的生物有以下兩個：
 
-![額外生物](https://i.meee.com.tw/nOS96AM.png)
+![額外生物](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/06b77c14c6ba.webp)
 
 《[時空行客凱瀾/Kellan, Planar Trailblazer](https://scryfall.com/card/fdn/91/kellan-planar-trailblazer)》其實很強，而且可以為你消耗多餘的法力，問題在於它是傳奇，1費生物卻不能複數造成對手的壓力，對於紅快來說有點尷尬。
 《[可憎搭檔托卡與拉札爾/Tokka & Rahzar, Terrible Twos](https://scryfall.com/card/tmt/171/tokka-&-rahzar-terrible-twos)》則是對抗Evoke元素以及會減費施放咒語套牌的利器，但同樣它是傳奇，所以不能堆疊。
@@ -159,7 +159,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 玩快攻最容易犯的錯誤之一，就是看到手上有地、有生物、有燒，就直覺認為「這手牌可以打」。但對快攻而言，「可以打」與「能贏」是兩回事。
 例如先攻的情況下，起手是這七張牌：
 
-![錯誤起手1](https://i.meee.com.tw/m3VHGtV.png)
+![錯誤起手1](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/940c194ed192.webp)
 
 乍看之下，這個起手非常穩定。地夠、可以去除生物，也有2、3費威脅。
 然而有一個問題：第一回合沒有事做。
@@ -174,7 +174,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 
 另一個常見陷阱是：
 
-![錯誤起手2](https://i.meee.com.tw/4SQ3FxT.png)
+![錯誤起手2](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/572a4ac63078.webp)
 
 這手牌看起來非常美好，問題也非常明顯：要抽到地。
 
@@ -183,7 +183,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 
 還有一個微妙型：
 
-![錯誤起手3](https://i.meee.com.tw/hwcJ0fu.png)
+![錯誤起手3](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/da7c55a90f23.webp)
 
 這個屬於可以賭賭看的手牌。
 首先地的顏色正確，生物也很強，就算沒有第二塊地，《[閃電迸發/Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning)》也可以發揮功用。
@@ -208,13 +208,13 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 起手只有一個一費生物或兩個一樣的生物時，當然就不用考慮先下哪個的問題。但如果你有兩個同費卻不一樣的生物時，決定排序就會變得很重要。
 比如這個狀況：
 
-![回合布置1](https://i.meee.com.tw/r8SDNHz.png)
+![回合布置1](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/e3be8864b4b6.webp)
 先攻起手，同時有《[受雇利爪](https://scryfall.com/card/blb/140/hired-claw)》跟《[滑鉗鬼怪](https://scryfall.com/card/dft/132/greasewrench-goblin)》時，應該先下哪個？
 答案是[蜥蜴](https://scryfall.com/card/blb/140/hired-claw)。不單是因為蜥蜴很強，還因為鬼怪有後續價值，他是套牌少數且珍貴的可以讓你調度手牌資源的生物，所以除非起手就只有這一個一費生物，不然一定是蜥蜴優先於鬼怪。
 
 二費也一樣，有《[灼燙毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)》、《[邪法鎮咒鬼](https://scryfall.com/card/ecl/145/hexing-squelcher)》、《[尖頭銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)》，應該優先下哪個？
 
-![回合布置2](https://i.meee.com.tw/fkNb1de.png)
+![回合布置2](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/ff587658d06c.webp)
 
 首先[毒蛇](https://scryfall.com/card/woe/235/scalding-viper-steam-clean)一定放最後。它是你主牌組中少數可以處理非地永久物的手段，中期開始甚至會需要他的回手去為你爭取更多時間。如果不是沒有其他生物或者有特殊狀況，絕對不會優先考慮下毒蛇。
 然後一定是[鎮咒鬼](https://scryfall.com/card/ecl/145/hexing-squelcher)的優先級大於[銳器人](https://scryfall.com/card/dsk/153/razorkin-needlehead)。理由在於如果不處理鎮咒鬼，之後所有的生物都會更難處理；而處理鎮咒鬼至少會失去兩滴血。銳器人除了有對手抽牌會扣血的效果外，還有自己回合能先攻的效果，使得對手很難以生物阻擋的手段處理掉它。
@@ -246,7 +246,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 
 #### 2. 達到三費，手上有馬跟二費生物時，應該直接下馬打三點嗎？
 
-![回合布置3](https://i.meee.com.tw/4QSxcg9.png)
+![回合布置3](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/13711ccf61c1.webp)
 
 答案是否。
 
@@ -255,7 +255,7 @@ excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet 
 
 #### 3. 達到三費，有馬跟龍的時候應該先下哪個？
 
-![回合布置4](https://i.meee.com.tw/GDjCYJp.png)
+![回合布置4](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/232095634ac1.webp)
 
 答案是先下馬，因為龍會飛、有後續價值、會造成的傷害也比較高，馬又自帶守護，能消耗對手的法力資源，多爭取一些時間。
 不過當你知道對手會棄牌的時候，就建議先下龍，理由同樣是因為龍的後續價值更高，去Warp區之後還可以躲避棄手牌的危害。

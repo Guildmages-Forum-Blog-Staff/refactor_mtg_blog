@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的標準藍黑中速分析與戰報"
 date: "2024-01-28 16:13:22"
-cover: "https://i.imgur.com/ta3fvVY.jpg"
-thumbnail: "https://i.imgur.com/ta3fvVY.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange/4fb2b95f8c30-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange/4fb2b95f8c30-cover.jpg"
 excerpt: "想知道為什麼我標準賽選擇藍黑中速嗎？來看看這一篇吧！"
 categories:
   - "Construct"
@@ -19,7 +19,7 @@ authors:
 
 這次的標準賽季，我本來在掙扎著要選擇紅黑還是藍黑中速，紅黑還是偏用高質量的生物以及傾探體系壓垮對手，但這麼喜歡用資源壓勝為什麼不去打Domain呢？而紅黑除了殺以外的互動都是巫術時機這件事，也讓打節奏套牌習慣的我一直很難適應（不會閃現生物就不會打牌的我）。因此，當天ALG八強套牌公布以後我就秒轉藍黑中速了，也才有今天的這篇文章。
 
-這是我所參考，在第一次ALG MITQ#6中取得資格的黃永銘大大的牌表：[藍黑中速*20240107_ALG MITQ#6*黃永銘](https://i.imgur.com/JxUipAm.jpg)
+這是我所參考，在第一次ALG MITQ#6中取得資格的黃永銘大大的牌表：[藍黑中速*20240107_ALG MITQ#6*黃永銘](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange/3dbb4596a46a.webp)
 
 而開始使用藍黑中速後我也去其他比賽測試過，賽報連結可以參考這邊：[20240113_MagicStar MITQ#6](https://www.facebook.com/Pignosemtgworld/posts/pfbid02GBrcjTubQM8oRHriyBv7Q95oDUJwAgNjZvpk2bJsnoUxpihVq5gNDCcVu6UqWHKNl)。
 
@@ -27,11 +27,11 @@ authors:
 
 這是我今天2024年1月27日參賽的版本：[藍黑中速*20240127_ALG MITQ#6*陳盈孝](https://www.mtggoldfish.com/deck/6144160#paper)
 
-![](https://i.imgur.com/srggKPP.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange/47494f45fb0a.webp)
 
 LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.scryfall.io/large/front/6/9/69c68c95-b788-43b1-9f22-1b22c5a00b25.jpg?1699044121)、[約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458)、以及[啟示天災希歐蕊](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568)；而這三張牌也絕對是目前檯面上黑底中速核心中的核心，基本上任何一種構築都會放，沒放應該是收不下手。
 
-![](https://i.imgur.com/27I43Gb.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange/fdcb6c38dd28.webp)
 
 ### 深窟蝙蝠的愛與恨
 

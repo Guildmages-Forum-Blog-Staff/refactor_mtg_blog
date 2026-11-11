@@ -7,31 +7,31 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/chxGNxZ.png"
-thumbnail: "https://i.meee.com.tw/chxGNxZ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/010f98f5565f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/010f98f5565f-cover.jpg"
 excerpt: "種樹蓋巨像的快樂心材農場。"
 ---
 
 ## 前言
 
-![](https://i.meee.com.tw/chxGNxZ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/010f98f5565f.webp)
 
 相較於重視魔藝的粹麗學院，赫克海文的鑄麗學院擅長種植[心材（Heartwood）](https://scryfall.com/card/tfra/11/heartwood)打造各式魁儡獸，傳統紅綠的種田拍大招路線在逆聲宇宙變成種魔力石，是少見的紅綠神器主題，玩起來和傳統打法在體感上有什麼差異呢？
 
 ## 套牌解析
 
 [**套牌列表**](https://www.mtggoldfish.com/deck/7994362#paper)
-![](https://i.meee.com.tw/NMyU0QW.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/405b8b4837b0.webp)
 
 * **鑄麗校舍：艾瑞德鑄麗、飢餓魁儡獸、常任靈鏈法師、心材雕塑師**
 
-![](https://i.meee.com.tw/Z17Fvx3.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/71d744fb48e7.webp)
 
 [**艾瑞德鑄麗**](https://scryfall.com/card/fra/121/aerid-konstrari)：鑄麗學院的創院史芬斯，四費5/4飛行的強力打手，不僅可以主動派出心材灌攻擊力，有機會單刷對手，進場死去都會送一顆站著進場的心材，即使被秒解也是跳兩費，是鑄麗主題套牌不可或缺的核心單卡。
 
 [**飢餓魁儡獸**](https://scryfall.com/card/fra/107/hungering-puppetbeast)：綠色五費5/5打手，進場會送一顆心材，付費犧牲神器可以放+1/+1指示物並獲得辟邪、敏捷或踐踏。雖然對一般綠色強攻套牌來說不算好用，但在鑄麗主題中有的是可以同時滿足產費與犧牲的心材，中後期拍出來有十足的威脅性。
 
-![](https://i.meee.com.tw/2KnzO7u.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/9fc63ee12d53.webp)
 
 [**常任靈鏈法師**](https://scryfall.com/card/fra/154/tenured-tethermage)：鑄麗學院的[春華德魯伊](https://scryfall.com/card/fdn/767/springbloom-druid)，自炸地種兩顆躺進的心材，和[春華德魯伊](https://scryfall.com/card/fdn/767/springbloom-druid)不同的是他可以透過橫置神器來養肥自己，是不能輕易放置不管的加速生物。
 
@@ -41,13 +41,13 @@ excerpt: "種樹蓋巨像的快樂心材農場。"
 
 * **決勝手段：生質科技專家、隕爪巨像、無情的阿耶尼、反抗烈矩茜卓**
 
-![](https://i.meee.com.tw/DrZnziL.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/a58672d4dfca.webp)
 
 [**生質科技學家**](https://scryfall.com/card/eoe/214/biotech-specialist)：紅綠加速兼神器犧牲主題單卡，進場送一顆[探地器](https://scryfall.com/card/teoe/8/lander)，犧牲神器時會直擊對手，和[飢餓魁儡獸](https://scryfall.com/card/fra/107/hungering-puppetbeast)搭配可以瞬間爆出大量傷害。
 
 [**隕爪巨像**](https://scryfall.com/card/fra/78/craterclaw-colossus)：逆聲宇宙的[隕蹄貝西摩斯](https://scryfall.com/card/tdm/138/craterhoof-behemoth)，看神器數量灌攻擊力可說是完全為鑄麗而生的設計，費用比隕蹄少一費，終結比賽的能力和原版同樣不容小覷。
 
-![](https://i.meee.com.tw/G9QuYJZ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/7283dbea31d1.webp)
 
 [**無情的阿耶尼**](https://scryfall.com/card/fra/242/ajani-unrelenting)：逆聲宇宙的[阿耶尼](https://scryfall.com/card/fra/195/ajani-resolute)，進化版[召焰茜卓](https://scryfall.com/card/c20/145/chandra-flamecaller)，集掃場、鋪場、抽牌於一身的超強旅法，施放費用對於鑄麗套牌來說並不是多大的障礙。
 
@@ -55,7 +55,7 @@ excerpt: "種樹蓋巨像的快樂心材農場。"
 
 * **去除＆輔助：閃電迸發、炙燒、羅堰妖精**
 
-![](https://i.meee.com.tw/BGQsxSi.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/e9a8154b3bbd.webp)
 
 剩下的去除與輔助位置就由[**閃電迸發**](https://scryfall.com/card/fdn/192/burst-lightning)、[**炙燒**](https://scryfall.com/card/ecl/154/sear)與[**羅堰妖精**](https://scryfall.com/card/fdn/227/llanowar-elves)這幾個老面孔來填補。去除位可以依照玩家喜好自行調整。
 
@@ -67,6 +67,6 @@ excerpt: "種樹蓋巨像的快樂心材農場。"
 
 ## 結語
 
-![](https://i.meee.com.tw/tb4wIgA.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/ad7c2de1b61f.webp)
 
 不曉得是不是因為合作系列擠壓到了本家系列的緣故，《[**現實碎片**](https://scryfall.com/sets/fra?as=grid&order=set)》感覺是將原訂的兩個系列合成一個，使得牌張主題顯得有些混雜。如果把赫克海文的五大學院當作《[**斯翠海文的秘密**](https://scryfall.com/sets/sos?as=grid&order=set)》的鏡像獨立出成一個完整的專屬系列，相信一定可以更加有趣！

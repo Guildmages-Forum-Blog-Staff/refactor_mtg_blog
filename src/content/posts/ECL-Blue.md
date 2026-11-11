@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/sASoZSp.png"
-thumbnail: "https://i.meee.com.tw/sASoZSp.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Blue/3d00b3a2621d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Blue/3d00b3a2621d-cover.jpg"
 excerpt: "人魚仙靈四處跑，還有我們最熟悉的辣個四界禁牌霸主回歸，在此為你帶來藍色評分"
 ---
 
@@ -134,7 +134,7 @@ excerpt: "人魚仙靈四處跑，還有我們最熟悉的辣個四界禁牌霸�
 
 
 <!---61--->
-![61](https://i.meee.com.tw/0k4rRDL.png)
+![61](https://images.guildmagesforum.tw/posts/ECL-Blue/c9e4cd2aaffe.webp)
 分數：3.5
 評語：四界霸主轉生登場，正面的[+2]讓一個生物變成化形，[+1]減少對手的打點，以利增加活到翻面的機會，背面則可以背面則可以撿牌或是派出3/3麋鹿來佔場，有機會開大的話是用獲勝的。使用上要記得他設計上正面是只有加，背面只有減的異能，所以如果想要開大的話就要在正面的時候就加夠足夠量的忠誠指示物。
 
@@ -222,7 +222,7 @@ excerpt: "人魚仙靈四處跑，還有我們最熟悉的辣個四界禁牌霸�
 評語：可以回手咒語使他在使用上相對自由，但費用有點高就是。
 
 <!---76--->
-![76](https://i.meee.com.tw/okfbGgq.png)
+![76](https://images.guildmagesforum.tw/posts/ECL-Blue/5d6c08784438.webp)
 分數：4.5
 評語：正面是讓生物打到就可以抽牌，且進攻也可以再觸發一次，背面則是保護生物且帶有穿透，但只有轉化的時候才會觸發，沒辦法讓你一直爽，使用上就是讓你頻繁的每回合都去翻面他。
 

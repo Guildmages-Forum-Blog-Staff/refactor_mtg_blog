@@ -8,14 +8,14 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/Ph2kzLJ.png"
-thumbnail: "https://i.meee.com.tw/Ph2kzLJ.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-mechanism/6f3eb618320b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-mechanism/6f3eb618320b-cover.jpg"
 excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧！"
 ---
 
 
 ## 備法（Prepare）
-![Prepare](https://i.meee.com.tw/sAW6iHd.png)
+![Prepare](https://images.guildmagesforum.tw/posts/SOS-mechanism/92da26bade99.webp)
 
 每張備法牌都具有兩部分牌框，就如同過去的[歷險](https://guildmagesforum.tw/FIN-mechanism/#%E6%AD%B7%E9%9A%AA%EF%BC%88Adventure%EF%BC%89)、[預兆](https://guildmagesforum.tw/TDM-mechanism/#%E9%A0%90%E5%85%86%EF%BC%88Omen%EF%BC%89)牌一樣，規則文字框左側為這張生物牌本身的異能，右側則是它的備法咒語，這個咒語具有自己的名稱、費用、類別、規則文字框。
 
@@ -41,7 +41,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 返照（Flashback）
-![Flashback](https://i.meee.com.tw/EXiTmER.png)
+![Flashback](https://images.guildmagesforum.tw/posts/SOS-mechanism/3a3410000c5c.webp)
 
 > 代表色組：紅白（衡鑑學院）
 
@@ -58,7 +58,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 連辭（Repartee）
-![Repartee](https://i.meee.com.tw/llE6N9J.png)
+![Repartee](https://images.guildmagesforum.tw/posts/SOS-mechanism/f6abfec7299f.webp)
 
 > 代表色組：白黑（銀毫學院）
 
@@ -71,7 +71,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 輸注（Infusion）
-![Infusion](https://i.meee.com.tw/qfpJ7OL.png)
+![Infusion](https://images.guildmagesforum.tw/posts/SOS-mechanism/d6ba78cc6f44.webp)
 
 > 代表色組：黑綠（靡華學院）
 
@@ -84,7 +84,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 遞增（Increment）
-![Increment](https://i.meee.com.tw/sC4y6ol.png)
+![Increment](https://images.guildmagesforum.tw/posts/SOS-mechanism/3c8967c8dffa.webp)
 
 > 代表色組：藍綠（量析學院）
 
@@ -99,7 +99,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 炫示（Opus）
-![Opus](https://i.meee.com.tw/U35bLo2.png)
+![Opus](https://images.guildmagesforum.tw/posts/SOS-mechanism/fc7d0a125c4f.webp)
 
 > 代表色組：紅藍（粹麗學院）
 
@@ -112,7 +112,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 聚輝（Converge）
-![Converge](https://i.meee.com.tw/gThxpDu.png)
+![Converge](https://images.guildmagesforum.tw/posts/SOS-mechanism/d867eeed506a.webp)
 
 聚輝會檢查你支付此咒語時所支付的魔法力顏色數量，並產生對應效果，由於MTG的魔法力只有5種顏色，因此這個數值範圍限定在0~5之間。
 
@@ -124,7 +124,7 @@ excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧�
 
 
 ## 定式（Paradigm）
-![Paradigm](https://i.meee.com.tw/SGSTpM5.png)
+![Paradigm](https://images.guildmagesforum.tw/posts/SOS-mechanism/838cd55e6cac.webp)
 
 定式是出現在一套巫術循環上的關鍵字異能，且本系列的定式牌皆具有[課程（Lesson）](https://guildmagesforum.tw/TLA-Mechanism/#%E8%AA%B2%E7%A8%8B%EF%BC%88Lesson%EF%BC%89)副類別，不過課程並不是這次的主打機制，因此本系列沒有能利用課程這一副類別的配套機制。
 

@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/GI5Zqbb.jpg"
-thumbnail: "https://i.meee.com.tw/PvB1laq.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/c6dc73333aa5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/4ca4f4e10d90-cover.jpg"
 excerpt: "曾為臺灣帶來世界賽第一手情報的JT大大來囉！近期稍微淡出賽事的他，如今看待魔法風雲會的視角又有些不同了。讓我們一起了解這位來自高雄的玩家，究竟是如何準備及看待「比賽」這項事情呢？"
 ---
 
@@ -23,7 +23,7 @@ A：其實，我在比賽中並沒有太大情緒波瀾，當時就是專注於�
 決賽的對手是子睿（艾斯波控制），預賽中有對到過，因此決賽算是rematch，比較知道該怎麼應對。印象比較深刻的是冠軍賽第二盤時，我手上有[頭腦空白](https://scryfall.com/card/stx/72/go-blank)，到我回合抽牌以前，突然閃過了一個念頭：「如果是[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)就贏定了！」 結果一抽起來真的是[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)，當回合我就成功把對手的手牌吃乾抹淨。
 最後收官的時候想得稍微久了一點，確定對手無法翻盤後才有「啊，我已經贏了」的真實感。
 
-![](https://i.meee.com.tw/0hiLeQ2.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/93d9d067f522.webp)
 
 > 感謝JT大大的分享，讓新玩家得以一窺MIT初期的賽場期況。圖為JT大戰子睿的過程側拍。
 
@@ -32,7 +32,7 @@ A：其實，我在比賽中並沒有太大情緒波瀾，當時就是專注於�
 A：當時，MIT是疫情後迎來的第一場大賽，也是國家代表賽停辦後久違的大規模賽事。由於賽制是先驅賽制，算是台灣較陌生的項目，套牌的選擇上，我認為數量不算是太多。
 在試過綠獻力、白藍控等套牌後，決定參考MIT前一週日本RC冠軍平山伶的紅黑中程套牌，正編四張[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)加上兩張[頭腦空白](https://scryfall.com/card/stx/72/go-blank)，對我而言打起來很舒服，唯一調整的地方是我換了一張[紅黑循環地](https://scryfall.com/card/akh/239/canyon-slough)進去，可以減少爆地的狀況、以及堆墳給[紅黑泰坦](https://scryfall.com/card/thb/221/kroxa-titan-of-deaths-hunger)，後來Frank Karsten的官方報導亦有留意到這點，回想起來，覺得還算是滿有意思的細節。
 
-![](https://i.meee.com.tw/EHdhbNN.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/8a57fd58d730.webp)
 
 > 激戰過後，JT與獎盃留下合照，直到賽後和南部牌友的聚餐時才終於放鬆XD
 
@@ -59,7 +59,7 @@ A：新系列發售的時候還是會期待一下。以前則是售前或比賽�
 現在比賽前的心情反而還好，相對平靜很多，可能因為網路發達的關係，新系列資訊快速又透明、meta也因為資訊流通而比較固定，較沒有以前那種進賽場開箱的驚喜感。
 由於TCG各種遊戲的出現，玩家的數量也確實減少了。以前去國軍英雄館參與魔法風雲會比賽時，經常還會順便找人認親：「原來你就是網路上的某某某呀！」現在那些人也都成了賽場上的老面孔了，風氣跟感受是非常不一樣的。
 
-![](https://i.meee.com.tw/GI5Zqbb.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/c6dc73333aa5.webp)
 
 > 近期的魔法風雲會不時會迸出些有趣的獎品、聯名，JT大大依然以自己的方式在享受這遊戲～
 
@@ -150,7 +150,7 @@ A：正如我在MIT歷代冠軍看板上所提的：MTG是我永遠難以忘懷�
 時而嬉鬧時而認真投入的每個夜晚，構成現在更好的我。
 感謝魔法風雲會，感謝所有玩家和店家。因為有Magic，我們才能gathering。
 
-![](https://i.meee.com.tw/PvB1laq.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/4ca4f4e10d90.webp)
 
 > 網路世代也有網路世代的好處，這麼方便就可以gathering一下啦。
 > 我們下期見囉。

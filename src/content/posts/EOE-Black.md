@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/2BeVghU.webp"
-thumbnail: "https://i.meee.com.tw/2BeVghU.webp"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Black/00c3862dd061-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Black/00c3862dd061-cover.jpg"
 excerpt: "眼前的黑不是黑，是更深邃深遠深深太平洋底的……空洞……好吧宇宙沒有太平洋My bad"
 
 ---

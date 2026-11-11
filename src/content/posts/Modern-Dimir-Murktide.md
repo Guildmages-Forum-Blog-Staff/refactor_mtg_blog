@@ -5,8 +5,8 @@ date: "2024-09-13 14:50:17"
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.postimg.cc/PrFSs7pG/1577767500-echo-of-eons.webp"
-thumbnail: "https://i.postimg.cc/PrFSs7pG/1577767500-echo-of-eons.webp"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/3bac67c5ba24-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/3bac67c5ba24-cover.jpg"
 excerpt: "亙古回聲！你今晚的惡夢！！！"
 authors:
   - "cephille"
@@ -28,10 +28,10 @@ authors:
 細節的內容請看猴王這篇：[為什麼 Nadu 必須死：Aug 26th BnR 預測](https://guildmagesforum.tw/Why-Nadu-Should-Die/)
 
 2024 年 9 月 9 日檢索，近 7 日的近代 meta ：
-![](https://i.imgur.com/ZKROSfY.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/e9f78e91d3b0.webp)
 
 2024 年 9 月 9 日檢索，近 14 日的近代 meta ：
-![](https://i.imgur.com/bxuvNji.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/80bf8a7f6bda.webp)
 
 可以看到，從 Nadu 被禁之後，完全沒有削弱的能量體系（Boros + Mardu）穩居 meta 第一，毫不意外的，奧扎奇體系（Tron, Ramp, Through the Breach）也占據了 meta 兩成左右的江山；然而藍黑龍侯也異軍突起，使用率也持續激增，儼然有當年 MH2 發售後 紅藍龍侯 的態勢，以節奏反擊的思路在新 meta 中站穩腳步。
 
@@ -41,7 +41,7 @@ authors:
 
 [牌表連結](https://www.mtggoldfish.com/deck/6624028#paper)
 
-![](https://i.imgur.com/jBHCHmG.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/35a63ebd5cdd.webp)
 
 <!---金魚的牌表圖就有點糊糊的，過一陣子再看看好了，不然就這樣吧！--->
 
@@ -69,7 +69,7 @@ MH3 剛發售後的 Dimir Murktide 會帶上 [Deep Analysis](https://scryfall.co
 
 #### Combo 說明
 
-![](https://i.imgur.com/tigCfab.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/c93ed3297650.webp)
 
 基本上就是搭配藍黑龍侯本來就會帶滿 4 張的 [Orcish Bowmaster](https://scryfall.com/card/ltr/103/orcish-bowmasters) ，再帶上 1 張額外的 [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse) ，總計 5 張對手抽牌就會額外造成傷害的強力生物，再搭配 2 張的[亙古回聲](https://scryfall.com/card/mh1/46/echo-of-eons)將手牌、墳場洗回牌庫抽 7 張，只要[亙古回聲](https://scryfall.com/card/mh1/46/echo-of-eons)結算時上述的生物有在場上，就可以造成以下的combo：
 - [Orcish Bowmaster](https://scryfall.com/card/ltr/103/orcish-bowmasters)：對任意目標造成共 7 點傷害，你可以任意分配，同時並 Amass 7 。
@@ -107,7 +107,7 @@ MH3 剛發售後的 Dimir Murktide 會帶上 [Deep Analysis](https://scryfall.co
 - 當我們墳場有重要的牌張想要重複利用，這一洗回去搞不好抽 7 張就抽到了呢！
 - 當我們被磨牌磨到墳場已經比牌庫高了，別擔心 —— 亙～古～回～聲～ 哇！瞬間牌庫就又長高了呢！Amazing grace！
 
-![](https://i.imgur.com/C1jdHAj.png)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/cce2e91bf6e5.webp)
 
 ### 有什麼固定卡位嗎？
 
@@ -160,7 +160,7 @@ MH3 剛發售後的 Dimir Murktide 會帶上 [Deep Analysis](https://scryfall.co
 
 ## 操作思路
 
-![](https://i.imgur.com/BECEHX3.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/21cfbc24f19a.webp)
 
 ### 了解藍黑龍侯的節奏
 
@@ -220,7 +220,7 @@ MH3 剛發售後的 Dimir Murktide 會帶上 [Deep Analysis](https://scryfall.co
 
 ## 換備策略
 
-![](https://i.postimg.cc/15rxWtgC/MTG-Orcish-Bowmasters-Lord-of-the-Rings.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/f1b723c63769.webp)
 
 > OTP: On the Play，即你先手
 > OTD: On the Draw，即你後手

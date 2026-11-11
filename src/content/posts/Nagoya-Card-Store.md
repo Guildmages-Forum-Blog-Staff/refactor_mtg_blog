@@ -1,8 +1,8 @@
 ---
 title: "名古屋卡店巡禮"
 date: "2024-09-23 13:03:34"
-cover: "https://i.imgur.com/HFPq96G.jpeg"
-thumbnail: "https://i.imgur.com/HFPq96G.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/af335e96c0eb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/af335e96c0eb-cover.jpg"
 excerpt: "金魚網、晴屋還有台灣實體環境，在套牌環境以及構築上都有很明顯的不同，為了滿足我的好奇心，於是決定去國外朝聖看看。"
 authors:
   - "yu-chen"
@@ -24,7 +24,7 @@ categories:
 
 ## 晴屋大須店的標準賽
 
-![](https://i.imgur.com/CsR1ZpA.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/779850adb45d.webp)
 
 參賽前要先辦晴屋的會員，買東西也可以集點，報名時要出示條碼。[比賽文案](https://www.hareruyamtg.com/ja/events/366523/detail)和臺灣的風格不太一樣，細節及但書非常之鉅細靡遺，對消費者而言算是更有保障吧。
 
@@ -59,11 +59,11 @@ categories:
 第二局起手滿多燒，對手這盤也叫了不少一費節奏生物，前期先把對手生物殺掉，在第四回犯錯留給對手二張生物，被爆打一波。
 第三局，對手卡一地一回合，我起手有 [Rockface Village](https://scryfall.com/card/blb/259/rockface-village) + [Voldaren Thrillseeker](https://scryfall.com/card/mom/171/voldaren-thrillseeker) 就接了。之後我用 Heartfire Hero 單刷，結束遊戲時 [Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero) 有 5/5  對手喊投降。
 
-![](https://i.imgur.com/IjoQ43G.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/d8074ba80f0b.webp)
 
 > 第三局的對手 Ｍatsuda 桑人超好，得知我是來旅遊的，且明天就要回台灣，就把當天比賽抽獎得到日圖卡送給我，成為我超寶貴的回憶。
 
-![](https://i.imgur.com/5oi9PJn.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/61b788a4e8fd.webp)
 
 > 當天忘記帶記血紙，索性就用飯店提供的……你懂。
 
@@ -73,25 +73,25 @@ categories:
 
 **中部電力塔**
   
-  ![](https://i.imgur.com/t2x6jJx.jpeg)
+  ![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/9aa2b356b745.webp)
   
-  ![](https://i.imgur.com/YooTOCR.jpeg)
+  ![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/6834e6fe0da1.webp)
   
 > 白天跟晚上的風景都很美。
 
 **濱松地焼 鰻 まさ**
 
-![](https://i.imgur.com/nuoHAUX.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/10ffb2990f31.webp)
 
-![](https://i.imgur.com/HWQ4sWG.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/fddc48a47999.webp)
   
 > 鰻魚比想像中的好吃，連鎖店幾乎都是先蒸過再開始烤，這間能感覺到是現烤的，口感比一般的更軟！
 
 **岐阜城**
 
-![](https://i.imgur.com/DhvEgCX.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/535a458e54b4.webp)
 
-![](https://i.imgur.com/iqGDSl3.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/51cedaf697ad.webp)
  
 > 岐阜城山上的風景很美。
 
@@ -99,9 +99,9 @@ categories:
 
 最後，這些是旅遊數天在名古屋所收的單卡。
 
-![](https://i.imgur.com/FKWaJwk.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/bbe89b3d7e72.webp)
 
-![](https://i.imgur.com/sZMIHkr.jpeg)
+![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/9ffe7bd672f6.webp)
 
 > 順便好康道相報一下，當地的廢卡堆可說是相當精彩。
  

@@ -7,25 +7,25 @@ authors:
 categories:
   - "Beginner"
   - "Construct"
-cover: "https://i.meee.com.tw/EE9HJXr.png"
-thumbnail: "https://i.meee.com.tw/EE9HJXr.png"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/499c97643223-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/499c97643223-cover.jpg"
 excerpt: "工欲善其事，必先占卜落。"
 ---
 
 ## 前言
 
-![](https://i.meee.com.tw/EE9HJXr.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/499c97643223.webp)
 
 [Scryfall.com](https://scryfall.com/)是知名的魔法風雲會卡牌搜尋引擎，其「[進階搜尋(Advanced Search)](https://scryfall.com/advanced)」功能是老玩家搜尋牌張時的最佳幫手，但對於初入門的玩家來說，光是英文介面就夠人受了，一大串項目又不曉得該從何設起。雖然不是不能直接用中文搜尋，但僅限於有印製官方中文版的卡片，在那之前及之後印製的版本就只能靠英文了。該怎麼操作才能找到自己想要的卡片呢？希望本文可以給各位新人玩家一些指引。
 
 
 ## 項目解說
 
-![](https://i.meee.com.tw/GM4mEVL.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/d60cba142a9b.webp)
 
 點進Scryfall首頁，映入眼簾的是一個給使用者輸入卡名的文字欄位，下方有幾個選項，以及一排最近系列的全卡表連結。我們首先點擊文字欄位左下方的「Advanced Search」，進入進階搜尋頁面。由於項目繁多，以下是對項目的簡單說明：
 
-![](https://i.meee.com.tw/muClb1L.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/38166f6894a1.webp)
 
 **Card Name**：牌名，就是對應卡片左上角名稱的搜尋。
 **Text**：規則文字，對應卡片下半部的異能欄位。
@@ -50,7 +50,7 @@ excerpt: "工欲善其事，必先占卜落。"
 
 ## 選擇你的賽制(Formats)
 
-![](https://i.meee.com.tw/i3LHEHr.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/d5146e75ccb8.webp)
 
 賽制是我們找牌的第一步。當你要構築套牌時，肯定只能選用該賽制可用牌張，所以我們要先設定賽制來確立搜尋範圍，才不會找到不在可用牌池內的牌。在筆者撰文的當下，這個項目包含實體和線上版賽制共有20＋1個，其中有許多賽制連資深老玩家都不見得知道，新同學就更不用提了。這邊就列出比較為人所知且在台灣容易接觸到的實體賽制：
 
@@ -67,43 +67,43 @@ excerpt: "工欲善其事，必先占卜落。"
 
 ## 選擇你的顏色(Color)及指揮官色(Commander)
 
-![](https://i.meee.com.tw/tKHcedp.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/23dc0d6b861e.webp)
 
 決定完賽制後，下一步就是決定你的顏色。通常你在開啟Scryfall前就會有想好拿來構築的單卡，只要依照該單卡選顏色即可。然而，這邊的選項其實沒有看上去那麼簡單，如果沒做好設定，就有可能會搜不到你要的，甚至是搜不出東西。
 
-![](https://i.meee.com.tw/2Zo3ZeB.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/4e652b5150a2.webp)
 
 直覺上，你會從**顏色**(Color)項目勾選你要的顏色（例如筆者勾選紅跟綠），但你會發現搜出來的結果只有紅綠雙色牌，純紅和純綠牌都不會出現。這是為什麼呢？請看看顏色欄位的下方，有顯示一段「**Exactly these colors**」，也就是「**剛好這些顏色**」。
 
 點一下該段文字，我們可以看到另外兩個選項——「**Including these colors**（**包含這些顏色**）」和「**At most of these colors**（**這些顏色涵蓋的最大範圍**）」。來換成第二個選項「Including these colors」看看會搜尋出什麼。
 
-![](https://i.meee.com.tw/tGwA4X4.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/d5242bc8e866.webp)
 
 結果是比第一個選項多了些，但還是沒有單色牌。因為第二個選項的意思是「**同時有紅綠兩色的牌**」，所以會額外出現紅綠白、紅綠藍、紅綠黑等結果。那第三個選項「At most of these colors」呢？
 
-![](https://i.meee.com.tw/cFEjA0a.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/cdac2c749db7.webp)
 
 紅綠單色牌是出現了，但也跑出很多莫名其妙的東西，像是只會產白的地牌、白藍雙色的靈動救世主安、純黑的蝙蝠神等，怎麼會跑出這些玩意？**因為第三個選項把無色牌也涵蓋進去了**，包括那些背面是無色的雙面牌，所以搜尋結果就摻雜很多其他顏色的單卡。
 
 如果已經有打定主意要看特定色組的牌，以上這些搜尋結果肯定都是不太符合需求的。該怎麼搜尋才好呢？這時就要靠下面**指揮官色**(Commander)了。
 
-![](https://i.meee.com.tw/HGX0qY7.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/6a3a5a24a7ca.webp)
 
 只勾選指揮官色的紅綠，我們就可以看到紅綠雙色牌、單色牌，以及符合紅綠兩色條件的地牌。雖然這會排除異能或背面帶有第三種有色魔法力符號的牌，但結果來說是相對令人滿意的。所以，在設定搜尋顏色時，筆者建議**先使用指揮官色欄位去勾選**，這樣比較有機會找出符合需求的牌張。
 
 ## 選擇你的稀有度(Rarity)
 
-![](https://i.meee.com.tw/t3hmw0s.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/2720eaf779ae.webp)
 
 雖然我們完成了顏色與賽制設定，列出來的搜尋結果還是又多又雜。如果沒有特定搜尋目標的話，一張張品味確實也是一種樂趣，但當我們的目標是找構築用牌時，限制賽強度的低稀有度牌就顯得累贅。這時我們就要善用稀有度設定，勾選**稀有**(Rare)和**秘稀**(Mystic Rare)，把稀有度較高的牌張先列出來瀏覽，比較容易找到強度足夠的單卡。不過也有不少實用牌是放在**非普通**(Uncommon)，甚至是**普通**(**Common**)，所以在看完高稀有度牌後，可以再切換成低稀有度找適合的搭配單卡。
 
-![](https://i.meee.com.tw/VsGArVc.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/f10e5cfcd941.webp)
 
 完成以上三項設定後，相信你已經大致撈出你想看的牌池，可以一張張慢慢瀏覽，找出足以刺激你灰色腦細胞的單卡。不過數量還是太多了，特別是近年系列推出頻率越來越頻繁，光是只設定標準牌池特定顏色，還是很容易列出上百張單卡。所以，為了讓Scryfall能更精確地列出你想要找的牌，可以額外進行以下條件設定。
 
 ## 選擇你的類別(Type)
 
-![](https://i.meee.com.tw/S5WAQZr.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/0e1c8a37e736.webp)
 
 首先，筆者先列出常用基本牌張類別與超類別的中英對照：
 
@@ -132,23 +132,23 @@ excerpt: "工欲善其事，必先占卜落。"
 
 和賽制一樣，類別欄位一樣充斥著大量平常看不到的牌張類別，以及族繁不及備載的生物類別，所以上面僅列出比較常見到的基本牌張類別與超類別。當你的需求是找特定類別的牌張時，這一項就能幫到你。比如說，我們今天想要組妖精(elf)種族套牌，這個欄位就要鍵入elf，Scryfall就會將牌池內可用的妖精牌通通列給你。如果你想要找可以當指揮官的妖精，就再多輸入一項傳奇(Legendary)，**你就會搜到牌池內所有傳奇妖精**(Legendary elf)。
 
-![](https://i.meee.com.tw/na20EXw.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/ace698acbf93.webp)
 
 同理，如果你想搜尋招，可以選瞬間(instant)跟巫術(sorcery)。
 
-![](https://i.meee.com.tw/cyIMthH.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/e1b8a4e70759.webp)
 
 ……可是這樣選只會找到同時有瞬間和巫術類別的餅乾牌(Split Card)？是的，系統會把完全符合條件的牌列出來。**如果你想要同時看到兩種或更多類別的牌張總表，就要勾選下方的**「**Allow partial type matches**（**允許部分類別符合**）」，系統就會把所有符合一種以上類別的牌張列出來。
 
-![](https://i.meee.com.tw/luiZD9U.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/4ec805796b91.webp)
 
 那如果想要排除特定類別的話，有辦法設定嗎？也是可以的。看看你輸入的類別，**有注意到旁邊出現的綠色「IS」嗎**？**在上面點一下，它就會變成紅色**「**NOT**」。這時你搜尋出來的結果就會排除所有顯示「NOT」類別的單卡。我們將先前「legendary」「elf」的「legendary」改成NOT，系統就會將不是傳奇的妖精找給你。
 
-![](https://i.meee.com.tw/TpoL2k2.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/f1786123f428.webp)
 
 ## 設定你的數值狀態(Stats)
 
-![](https://i.meee.com.tw/SWFdwEW.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/1b9fc67451cf.webp)
 
 有時候，你想搜尋的條件不是類別，而是符合特定數值的牌。舉個例子，威猛異能會檢查你生物的力量是否達到4，當你在構築這類型的套牌時，需要找出符合力量4以上條件的生物，這時就可以利用數值狀態(Stats)設置條件。這個欄位可以設定項目的中英對照如下：
 
@@ -169,24 +169,24 @@ excerpt: "工欲善其事，必先占卜落。"
 
 如果你希望搜尋力量4以上的生物，就要選擇「Power」「greater than or equal to」，然後後面填入4，就能搜到你要的結果。
 
-![](https://i.meee.com.tw/pmLxQxU.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/062078c426a0.webp)
 
 如果想要設定複數條件該怎麼做呢？
 **當你設定完一行後，系統會在下方自動新增一行給你繼續輸入，可以繼續增設條件**。這邊我們再加一個「魔法力值小於等於2（mana value less than or equal to 2）」的條件，結果就會剩下同時符合這兩個條件的牌張。
 
-![](https://i.meee.com.tw/KPmLOLQ.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/8195fb90333f.webp)
 
 ## 輸入你的規則文字(Text)
 
-![](https://i.meee.com.tw/9Gk59AO.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/66f8e160bb72.webp)
 
 除了前述看類別與看數值的狀況外，看規則文字是否符合條件的情形也是所在多有。這一項設定對於新手以及英文不好的人來說不太容易使用，因為這個欄位沒有符號以外的預設選項（欄位右邊Add Symbol選項讓你可以選擇加入橫置符號或各種魔法力符號）給你選。這時候，**拿起成為你搜尋動機的那張單卡來看看吧！找出上面的若干關鍵字，填進去就對了。**
 
-![](https://i.meee.com.tw/KD8ZGPy.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/c82e208c5097.webp)
 
 例如說你要找截水神通異能的單卡，就在牌上找找截水神通的單字waterbend，再填進去搜尋，Scryfall就會把有寫到該異能的單卡通通列出來。如果想一次看四大神通呢？那就填入四個神通共通的單字bend吧！
 
-![](https://i.meee.com.tw/GaASaxC.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/acb385ff269c.webp)
 
 這邊將比較容易見到的長青／半長青異能關鍵字列出來：
 
@@ -223,15 +223,15 @@ excerpt: "工欲善其事，必先占卜落。"
 
 那麼，如果不是想找異能，而是想要找有特定敘述的牌張該怎麼辦呢？ **作法一樣，找出該敘述的關鍵字，然後鍵入此欄位搜尋即可** 。打個比方，我們想找在維持步驟觸發的能力，那麼我們可以鍵入「upkeep」，系統就會把有提到「維持」的牌張列給你。
 
-![](https://i.meee.com.tw/9DylQad.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/e7c7b252a438.webp)
 
 稍微進階一點，如果要找進場觸發異能，那麼我們可以輸入「when enter」（當 進場），系統會將有進戰場觸發異能的牌列出來。
 
-![](https://i.meee.com.tw/TdpJ0k4.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/9d6f772f7e94.webp)
 
 再更進一步，我希望找進場及攻擊觸發，且會重複觸發的能力，此時輸入「whenever enter attack」（每當 進場 攻擊），就能大致搜出你要的結果（永遠都有例外牌張存在，所以通常不是100%符合你需求，但會很接近）。
 
-![](https://i.meee.com.tw/tTs4txP.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/ff2970a343e6.webp)
 
 這邊一樣將常見的敘述單字按字母順序列出，請各位讀者自行斟酌使用：
 
@@ -307,6 +307,6 @@ excerpt: "工欲善其事，必先占卜落。"
 
 ## 結語
 
-![](https://i.meee.com.tw/WpZRXoS.png)
+![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/c368c4fda819.webp)
 
 透過以上的各項設定解說，相信你已經大致曉得如何操作Scryfall搜尋牌張了。雖然全英文介面的確會讓人有些卻步，但魔法風雲會畢竟是美國公司出品的遊戲，原文就是英文，對繁中語系的支援又持續縮減，想完全不接觸已經是不可能了。好在大多數的用字在規則上有明確定義，也會對舊牌進行勘誤統一用字，所以實際使用的單字其實沒有很多，只要掌握本文提供的單字加上中學程度的英文，應該就能看懂七七八八了，剩下只要確認每個系列新增的能力即可（例如本站每個系列推出前都有的[機制解析文](https://guildmagesforum.tw/ECL-Mechanism/)）。至於牌名的部分，沒中文譯名的確不太好記，這邊建議搭配水牛比爾大大的[第三代水牛比爾查牌](https://buffalobill.idv.tw/)來做牌名的中英日對照，方便記憶。今天就先到這邊，祝各位找牌順利。

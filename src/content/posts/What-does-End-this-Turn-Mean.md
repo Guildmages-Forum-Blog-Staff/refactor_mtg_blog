@@ -5,8 +5,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/3UCgcK2.png"
-thumbnail: "https://i.meee.com.tw/3UCgcK2.png"
+cover: "https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/9f29d942bd73-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/9f29d942bd73-cover.jpg"
 excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 ---
 
@@ -14,7 +14,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 近期的標準系列中，接連出現了具有 **結束本回合（End the turn）** 效應的單卡，也使得許多第一次看見此機制的新手產生了不少疑問，本期就讓我們看看結束本回合的效應究竟是如何執行的？
 
-![前言](https://i.meee.com.tw/FUrooBp.png)
+![前言](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/ad10f15fb20f.webp)
 
 
 
@@ -49,7 +49,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 ## 「結束本回合」規則範例
 
-![1](https://i.meee.com.tw/KEohzkS.png)
+![1](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/25b7cdea4ecc.webp)
 > ● **[無盡日晷](https://scryfall.com/card/m12/218/sundial-of-the-infinite)** ：
 > {1}，{T}：結束本回合。你只可以於自己的回合中起動此異能。 
 > ● **[裂鏡奇奇幾奇](https://scryfall.com/card/j22/79/kiki-jiki-mirror-breaker)** ：
@@ -63,7 +63,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 
 
-![2](https://i.meee.com.tw/GVfWfTv.png)
+![2](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/ce9d6b68cad4.webp)
 > ● **[無盡日晷](https://scryfall.com/card/m12/218/sundial-of-the-infinite)** ：
 > {1}，{T}：結束本回合。你只可以於自己的回合中起動此異能。 
 > ● **[叛行](https://scryfall.com/card/m20/124/act-of-treason)** ：
@@ -77,7 +77,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 
 
-![3](https://i.meee.com.tw/pGAxIbJ.png)
+![3](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/3d4eb45eed1d.webp)
 > ● **[究極](https://scryfall.com/card/fin/38/ultima)** ：
 > 消滅所有神器和生物。結束本回合。
 > ● **[霧原霸主](https://scryfall.com/card/dsk/23/overlord-of-the-mistmoors)** ：
@@ -93,7 +93,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 
 
-![4](https://i.meee.com.tw/kFfJO2S.png)
+![4](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/d8f70af517b9.webp)
 > ● **[究極](https://scryfall.com/card/fin/38/ultima)** ：
 > 消滅所有神器和生物。結束本回合。
 > ● **[永續好奇體](https://scryfall.com/card/dsk/51/enduring-curiosity)** ：
@@ -129,7 +129,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 
 
-![5](https://i.meee.com.tw/2wRowaz.png)
+![5](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/549ce87f3194.webp)
 > ● **[重啟一日](https://scryfall.com/card/cmm/85/days-undoing)** ：
 > 每位玩家將其手牌與墳墓場洗入其牌庫，然後各抽七張牌。如果是在你的回合中，則結束本回合。
 > ● **[啟示天災希歐蕊](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse)** ：
@@ -144,7 +144,7 @@ excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 
 
 
-![6](https://i.meee.com.tw/BJMXNLB.png)
+![6](https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/cd2bd01120b9.webp)
 > ● **[重啟一日](https://scryfall.com/card/cmm/85/days-undoing)** ：
 > 每位玩家將其手牌與墳墓場洗入其牌庫，然後各抽七張牌。如果是在你的回合中，則結束本回合。
 > ● **[猙獰神行客](https://scryfall.com/card/akh/94/grim-strider)** ：

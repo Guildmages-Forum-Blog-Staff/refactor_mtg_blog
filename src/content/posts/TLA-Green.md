@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/UbSHo2P.png"
-thumbnail: "https://i.meee.com.tw/UbSHo2P.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Green/88cefe887696-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Green/88cefe887696-cover.jpg"
 excerpt: "俺是耕田滴～看到那張12/12、帶踐踏、只能被一隻生物阻擋的地了嗎？他要進戰階了～"
 ---
 
@@ -161,7 +161,7 @@ excerpt: "俺是耕田滴～看到那張12/12、帶踐踏、只能被一隻生�
 
 
 <!---186--->
-![186](https://i.meee.com.tw/7GXmcz3.png)
+![186](https://images.guildmagesforum.tw/posts/TLA-Green/6df216861764.webp)
 分數：5.0
 評語：進場先抽一堆牌，下一回合生一隻大仔，再下回合還會給大仔穿透並轉化成打點。一張卡做完所有事情，滿分神卡。
 

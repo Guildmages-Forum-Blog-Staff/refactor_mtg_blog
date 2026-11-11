@@ -9,8 +9,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/k7ZvH7B.jpg"
-thumbnail: "https://i.meee.com.tw/k7ZvH7B.jpg"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Blue/3d49a79bb5fe-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Blue/3d49a79bb5fe-cover.jpg"
 excerpt: "說到藍色就應該想到巫師⋯⋯你跟我說這個系列只有四個巫師是什麼意思？我們不是在中土世界嗎？"
 
 ---

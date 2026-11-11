@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/VvOAnrH.png"
-thumbnail: "https://i.meee.com.tw/VvOAnrH.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-White/65fa52fe4aa3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-White/65fa52fe4aa3-cover.jpg"
 excerpt: "截氣神通與愉悅的伙伴們"
 ---
 
@@ -172,7 +172,7 @@ excerpt: "截氣神通與愉悅的伙伴們"
 
 
 <!---27--->
-![27](https://i.meee.com.tw/kK8LFp7.png)
+![27](https://images.guildmagesforum.tw/posts/TLA-White/77658bc79399.webp)
 分數：3.5
 評語：第一章的效果是每個人都選擇 **至多** 一個 **對手操控的永久物**，所以不管怎麼選自己的永久物都不會遭殃，但對手是不用額外放逐自己一個永久物的。第二章你可以自由決定要不要跟對手起抽牌，雖然有時直覺幫對手抽好像怪怪的，但其實就牌差數來講你也沒虧，甚至是你先開始用這些額外手牌做事。並且轉化後是依靠連咒來做事，所以大家一起增加手牌可能對你是有額外正收益的。此外截氣神通自己永久物，也是一個觸發連咒的配套方案。
 

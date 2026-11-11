@@ -5,8 +5,8 @@ categories:
   - "Standard"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/oDzG450.jpg"
-thumbnail: "https://i.meee.com.tw/oDzG450.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/5baea14254a4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/5baea14254a4-cover.jpg"
 excerpt: "妙語說書人咕嚕"
 ---
 
@@ -17,7 +17,7 @@ excerpt: "妙語說書人咕嚕"
 
 ## 有趣的設計
 
-![](https://i.meee.com.tw/Yf8pjtR.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/fb1a6ab0a263.webp)
 
 > 謎語大師咕嚕 {1}{B}
 > 
@@ -43,7 +43,7 @@ excerpt: "妙語說書人咕嚕"
 
 薪傳（Legacy）賽制中，假設你是先手的黑底套牌，你對手調度一，你下沼澤後先手施放 {% mtglink "Dark Ritual" %} 後，施放 {% mtglink "Thoughtseize" %} 看到了以下手牌：
 
-![](https://i.meee.com.tw/MpIXS6B.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/9448cab05d95.webp)
 
 你將 {% mtglink "Kappa Cannoneer" %} 棄掉，用剩餘的兩點黑施放了 {% mtglink "Gollum, Riddle Master" %} ，那這時謎底應該相當清楚了 —— 選擇「偶數（even）」。
 
@@ -60,12 +60,12 @@ excerpt: "妙語說書人咕嚕"
 
 正如上面所說的，利用黑色的棄牌閱讀手牌資訊，等於是在知曉謎底的狀況下使用咕嚕。但如果要增加我們的命中率，熟讀環境meta必不可少。接下來我們會拆解[2026年8月10日禁牌](https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026)後的標準環境。於2026年8月20日檢索mtggoldfish上14天內的標準高使用率套牌為例，並輔以幾副台灣賽場較常見，但meta佔比較少的套牌。
 
-![](https://i.meee.com.tw/jTiXkII.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/b3233b1f1009.webp)
 
 
 ### 1. 純綠地落（Mono-Green Landfall）
 
-![](https://i.meee.com.tw/vAixJk0.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/c099be490141.webp)
 
 > 截圖中的mana value是主備牌的總和，實際考慮時要把主備牌局、還有對手可能會有的換備計畫一併納入考慮，才能有助於謎語大師的猜題命中率！
 
@@ -76,13 +76,13 @@ excerpt: "妙語說書人咕嚕"
 
 > 以上的情境，都是在手牌沒有正確的威脅對應牌、且手上沒有其他比咕嚕更好的選擇才會進行。如果有更好的選擇，就不需要出咕嚕。
 
-![白綠地落](https://i.meee.com.tw/tBao2aU.jpg)
+![白綠地落](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/c7188a0d0509.webp)
 
 如果對手是白綠地落的變體，那對於我們而言，抉擇就簡單得多。除了純綠地落會看到的威脅外，白綠地落新增的解牌、爆發性的威脅 {% mtglink "	Practiced Offense" %} 等都是奇數，喊 **奇數** 的命中率會較高。
 
 ### 2. 四色控制（4c Control）
 
-![](https://i.meee.com.tw/RjNTiYF.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/b8adc00e4f48.webp)
 
 四色控制中，除了 {% mtglink "Firebending Lesson" %} 解牌大多集中在偶數。但關鍵威脅如 {% mtglink "Tablet of Discovery" %} 、 {% mtglink "Jeskai Revelation" %} 、甚至備牌的 {% mtglink "Thor, God of Thunder" %} 等都是奇數牌。我的建議如下：
 - 對手 {% mtglink "Tablet of Discovery" alt="石板" %} 尚未登場、且你有應對的方式 — 喊 **偶數** 。增加咕嚕待在場上的機會，或至少幫其他生物擋一張解。
@@ -91,13 +91,13 @@ excerpt: "妙語說書人咕嚕"
 - 我方先手，第二回合出咕嚕 — 喊 **偶數** 。去擋對手的二費解跟 {% mtglink "Consult the Star Charts" %} ；若被回應 {% mtglink "Firebending Lesson" %} 小虧，但沒有到不能接受。
 - 如果對手下回合可能掃場 — 不要出咕嚕。所以不用喊XD
 
-![潔斯凱控制](https://i.meee.com.tw/yg71kXP.jpg)
+![潔斯凱控制](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/64e1f2a3d2b5.webp)
 
 而若是潔斯凱控制這邊，對手的解牌是以課程牌為主，幾乎都是二費，因此喊 **偶數** 的期望值較高。但同四色控制，對手的威脅都集中在奇數，仍需依當前回合數與情勢去考慮要喊什麼。
 
 ### 3. 藍黑中速（Dimir Midrange）
 
-![](https://i.meee.com.tw/lLhXPRg.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/dd64855bc836.webp)
 
 從圖上看起來奇偶數牌數量差不多。但藍黑中速是削得很尖的節奏套牌，我們比較不能接受的是被一費點殺如 {% mtglink "Requiting Hex" %} 換掉咕嚕。因此我的建議是：大部分的情境可以喊 **奇數**，尤其是對手保留一費開放時。
 
@@ -107,7 +107,7 @@ excerpt: "妙語說書人咕嚕"
 
 ### 4. 藍黑拷打魔（Dimir Excruciator）
 
-![](https://i.meee.com.tw/TxIZaZT.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/a38660e2181b.webp)
 
 絕大多數喊 **偶數** ，去應對對手二、四、六回合的關鍵威脅。即使被一費點殺，擋掉一張殺牌也是好的。但要注意若被對手的 {% mtglink "Superior Spider-Man" %} 變成我方的咕嚕，頭痛的就會是我們。
 
@@ -115,31 +115,31 @@ excerpt: "妙語說書人咕嚕"
 
 ### 5. 黑白補血（Lifegain）
 
-![](https://i.meee.com.tw/0WY4APV.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/961233aba67a.webp)
 
 雖然對手奇數牌不少，但 **偶數** 牌通常更為關鍵。由於對手的解牌較少，除了抽牌以外，我會建議優先、或次優先選擇放豆。4/2的體格面對 {% mtglink "Deep-Cavern Bat" %} 、 {% mtglink "Voice of Victory" %} 這樣的牌可以用體格優勢硬打搶血。雖然對手超級會奶，但能把握的進攻機會仍是不容錯過。吸2血通常是最後的選項，除非你已經被打到快沒命了。
 
 ### 6. 伊捷咒語元素（Izzet Spellementals）
 
-![](https://i.meee.com.tw/k8Z0UAV.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/543c6fa3c7ca.webp)
 
 對手套牌結構嚴重偏向 **奇數** ，因此我們的選擇就簡單很多。少數會考慮選 **偶數** 的情境是不想被對手的 {% mtglink "Prismari Charm" %} 一換二。
 
 ### 7. 藍白節奏（Azorius Tempo）
 
-![](https://i.meee.com.tw/tQ3aKNr.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/a4b513b089a8.webp)
 
 對手的偶數牌不少，但我會比較建議選 **奇數** ，三費的閃現威脅都不容小覷。在場上已結算 {% mtglink "High Noon" %} 的情況下，如果能讓對手顧忌咕嚕而少出一次三費閃現，那帶來的節奏優勢是很棒的。
 
 ### 8. 蘇勒台掀墳（Sultai Reanimator）
 
-![](https://i.meee.com.tw/QYR4kGJ.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/f5c7a2d3e317.webp)
 
 關鍵威脅 {% mtglink "Superior Spider-Man" %} 是偶數牌，但起動的資源點上， {% mtglink "Oblivious Bookworm" %} 、 {% mtglink "Dredger's Insight" %} 也是偶數、但 {% mtglink "Overlord of the Balemurk" %} 、 {% mtglink "Rapid Rescue" %} 、與決殺前的生物導師 {% mtglink "Formidable Speaker" %} 都是奇數。不太容易選。初步的理解是對手前四回合的經營階段時可選 **奇數** ，但如果下回合幾乎確定對手會出蜘蛛人，則可以選 **偶數** 拼抽一張應對牌。
 
 ### 9. 瑪爾都棄牌（Mardu Discard）
 
-![](https://i.meee.com.tw/QYR4kGJ.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/f5c7a2d3e317.webp)
 
 我方二回先手選 **偶數** 。二回後手，如果對手沒有關鍵的二費威脅在場，還是選 **偶數** 。有命中優先選吸2點血，然後對手推過來咕嚕能擋就要擋，一來一回至少靠咕嚕幫你奶到5～6點血差，夠本了。
 
@@ -147,7 +147,7 @@ excerpt: "妙語說書人咕嚕"
 
 ### 10. 純紅快攻（Mono-Red Aggro）
 
-![](https://i.meee.com.tw/EEHetSH.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/0e9ea5b826a2.webp)
 
 **奇數，一定選奇數** ！
 
@@ -159,13 +159,13 @@ excerpt: "妙語說書人咕嚕"
 
 ### 11. 藍白 Momo（Azorius Momo）
 
-![](https://i.meee.com.tw/rP9RMIo.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/5bde823a2bf8.webp)
 
 也是一個一定選 **奇數** 的對局。受益 / 受限於 {% mtglink "Momo, Friendly Flier" %} ，這副套牌的生物威脅都是奇數，也是一個好選的對局。
 
 ### 12. 伊捷靈技（Izzet Prowess）
 
-![](https://i.meee.com.tw/H4g9dle.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/a34616b9480d.webp)
 
 伊捷靈技堪稱標準中的不死鳥、百足之蟲，死而不僵！經歷了多次禁牌，這副套牌仍可以停留在meta上，就可窺見之前這副套牌究竟有多強！
 
@@ -173,7 +173,7 @@ excerpt: "妙語說書人咕嚕"
 
 ### 13. 波洛斯龍（Boros Dragons）
 
-![](https://i.meee.com.tw/42ObpEU.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/a246826fd726.webp)
 
 雖然一費有 {% mtglink "Momo, Friendly Flier" %} 跟點殺，但這副套牌的資源點基本上是二費，不論先後手，二回後手對手通常是要拍一個 {% mtglink "Sarkhan, Dragon Ascendant" %} 或 {% mtglink "Magda, the Hoardmaster" %} 來賺珍寶；若先手對手二回已先結算Sarkhan，那下回合應該是要跳費出四費龍。從概率上看，選 **偶數** 的期望值應較高。
 
@@ -181,7 +181,7 @@ excerpt: "妙語說書人咕嚕"
 
 ### 14. 白綠 Ouroboroid（Selesnya Ouroboroid）
 
-![](https://i.meee.com.tw/EC6VIFF.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/3632308e4e7d.webp)
 
 {% mtglink "Badgermole Cub" %} 被禁的最大受害者，但考慮到台灣玩家可能牌都收了不想換套牌，還是有機會會有人繼續打這副，因此上榜。
 
@@ -189,7 +189,7 @@ excerpt: "妙語說書人咕嚕"
 
 ### 15. 鐵木爾 Kona（Temur Kona）
 
-![](https://i.meee.com.tw/w2tG1gL.jpg)
+![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/fe171e5baa16.webp)
 
 雖然關鍵威脅 {% mtglink "Kona, Rescue Beastie" %} 是偶數，但我們若選偶數就錯了。組合技套牌，等到他要結算威脅時通常就來不及了；我們要做的事，是讓對手前面的抽牌、導師元件做得很不舒服。因此，必須選 **奇數** 來卡住對手。更巧的是，這副套牌的解牌都是一費的回手咒語，那選奇數可以讓對手用得更痛苦，甚至還能再來一次！
 

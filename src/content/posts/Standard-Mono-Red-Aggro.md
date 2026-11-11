@@ -1,8 +1,8 @@
 ---
 title: "標準紅快的新思路"
 date: "2024-01-10 12:30:50"
-cover: "https://i.imgur.com/WHN8nHx.jpg"
-thumbnail: "https://i.imgur.com/WHN8nHx.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mono-Red-Aggro/a01b5617a06e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mono-Red-Aggro/a01b5617a06e-cover.jpg"
 excerpt: "即使紅快首要目標都一樣，但其實有更靈活的構築！"
 categories:
   - "Construct"
@@ -25,7 +25,7 @@ authors:
 
 這是我在20240106 ALG的MITQ卡表：[套牌構築](https://www.mtggoldfish.com/deck/6106984)
 
-![套牌構築](https://i.imgur.com/fziKzbs.jpg)
+![套牌構築](https://images.guildmagesforum.tw/posts/Standard-Mono-Red-Aggro/e956b506170f.webp)
 
 其實看了一看我正編局就有半套備編在跟別人玩了，除非對到白藍控之類的牌型，大部分的牌張都會用的到，差別是能不能發揮這張牌最大效益的問題而已。
 
@@ -35,7 +35,7 @@ authors:
 
 也是有部分玩家會帶，最大效益當然是[大一統飛將亞崔夏](https://cards.scryfall.io/large/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1676519555)或[非瑞克西亞抹煞獸](https://cards.scryfall.io/large/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg?1675957044)等令紅快頭痛的生物。那其實打中速或是快攻套牌效益也不小，當你施放成功時，你會多一隻生物能進攻而且場攻因為結附上的惡人角色而+1攻，對手則少一隻生物能夠阻擋；當對手血量沒那麼健康時，你也許會看到對手拿自己的生物阻擋被抓過去的生物！
 
-![進軍瑞格沙](https://i.imgur.com/LqSal77.jpg)
+![進軍瑞格沙](https://images.guildmagesforum.tw/posts/Standard-Mono-Red-Aggro/b4f0c20497b0.webp)
 
 當對手下[成婚佳訊](https://scryfall.com/card/vow/45/wedding-announcement-wedding-festivity)正想說可以擋3回合時，這張就是你施放的最好時機三費打臉4本身就很優質了，還能順便解掉阻擋的1/1生物，能順手解掉其他防禦力1的討厭生物如[深窟蝙蝠](https://cards.scryfall.io/large/front/6/9/69c68c95-b788-43b1-9f22-1b22c5a00b25.jpg?1699044121)就更棒了！當對手沒生物可以點1也可以點[若納掘古師費頓](https://cards.scryfall.io/large/front/5/c/5ca4cb0e-63ad-4275-a27f-da476260b467.jpg?1674421139)多賺一張牌。
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "Card Lore"
-cover: "https://i.meee.com.tw/AjU1LSl.jpg"
-thumbnail: "https://i.meee.com.tw/AjU1LSl.jpg"
+cover: "https://images.guildmagesforum.tw/posts/2024-Set-Review/4ee51dc23d5a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/2024-Set-Review/4ee51dc23d5a-cover.jpg"
 excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶氣氛濃烈的年末時分，魔風集會所想和大家一同回顧2024年，瞧瞧魔法風雲會給了玩家哪些新東西~~玩具~~。"
 ---
 
@@ -183,7 +183,7 @@ excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶
 ---
 
 ## 非標準系列
-![](https://i.meee.com.tw/k1n6XSB.png)
+![](https://images.guildmagesforum.tw/posts/2024-Set-Review/35509bbbd0c8.webp)
 
 今年的非標準賽制總共推出了「[拉尼卡：重製版](https://magic.wizards.com/zh-Hant/products/ravnica-remastered)」、「[異塵餘生](https://magic.wizards.com/zh-Hant/products/fallout)」、「[近代新篇3](https://magic.wizards.com/zh-Hant/products/modern-horizons-3)」及「[魔法風雲會：刺客教條](https://magic.wizards.com/zh-Hant/products/assassins-creed)」共四個系列（真的好多呀），其中「拉尼卡：重製版」為玩家帶回了[電震地](https://scryfall.com/search?q=set%3Arvr+%28oracle%3Apay+oracle%3A2%29+type%3Aland+%28game%3Apaper%29&unique=cards&as=grid&order=name)。「魔法風雲會：刺客教條」為近代賽制以下的環境帶來新牌，其中有許多優秀的武具在指揮官中發光發熱。「異塵餘生」則是少見的為薪傳賽制以下帶來新牌，其中也有不少泛用卡的重印，為玩家提供新的獲取管道。而我們絕對的主角 **「近代新篇3」** 更是直接的影響了近代賽制環境，不用說[Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom)的屠殺，相信沒有遊玩近代賽制也有耳聞。除了新套牌的崛起，也有許多舊套牌得到強化，可謂百家爭鳴。魔風集會所也有近代賽制相關文章：
 [為什麼 Nadu 必須死：Aug 26th BnR 預測](https://guildmagesforum.tw/Why-Nadu-Should-Die/)

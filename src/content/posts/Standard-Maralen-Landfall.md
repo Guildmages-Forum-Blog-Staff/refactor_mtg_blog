@@ -8,14 +8,14 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/14SP4EC.png"
-thumbnail: "https://i.meee.com.tw/14SP4EC.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d05fff05ccf8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d05fff05ccf8-cover.jpg"
 excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 ---
 
 ## 前言
 
-![](https://i.meee.com.tw/14SP4EC.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d05fff05ccf8.webp)
 
 在《[洛溫：闇影壟罩](https://scryfall.com/sets/ecl?as=grid&order=set)》中，[化身仙兒的馬拉蘭](https://scryfall.com/card/ecl/233/maralen-fae-ascendant)是一張極具魅力，但在標準賽制中難以發揮的單卡。她的需求非常明確：玩家在短時間內快速、大量叫出對應種族的生物（妖精 / 仙靈），藉此源源不絕地觸發她的異能。但如果單靠施放生物來觸發，很快就會撞到手牌或法力的瓶頸，效果相當有限。
 本次《[哈比人](https://scryfall.com/sets/hob?as=grid&order=set)》導入地落派出妖精衍生物的機制，讓瞬間爆兵成為可能。在幽暗密林精靈王[瑟蘭督伊](https://scryfall.com/card/hob/166/thranduil-sindarin-liege-silvan-rally)的引領下，[馬拉蘭](https://scryfall.com/card/ecl/233/maralen-fae-ascendant)可以發揮到什麼程度呢？
@@ -25,11 +25,11 @@ excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 廢話不多說，先來看看牌表長怎樣吧。
 
 [**套牌列表**](https://www.mtggoldfish.com/deck/7923197#paper)
-![](https://i.meee.com.tw/n5CSuIb.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/bf983aa9b8fc.webp)
 
 * **戰略核心：化身仙兒的馬拉蘭、辛達林君王瑟蘭督伊、在此山谷裡流淌**
 
-![](https://i.meee.com.tw/YuQkDZq.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/9765a29e7491.webp)
 
 [**化身仙兒的馬拉蘭**](https://scryfall.com/card/ecl/233/maralen-fae-ascendant)：主題單卡。利用地落派出的妖精衍生物頻繁觸發異能，大量放逐對手牌庫，在特定對局有機會直接磨死對手。本體4/5飛行，在地面膠著時也能正拳擊倒對手。
 
@@ -39,7 +39,7 @@ excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 
 * **擊倒計略：運土神通騰揚、瑟蘭督伊一行、崔斯坦的指命**
 
-![](https://i.meee.com.tw/gsnAno4.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/7b87e07d5878.webp)
 
 [**運土神通騰揚**](https://scryfall.com/card/tla/175/earthbender-ascension)：超強的地落結界，進場加速兼運土一張地，集滿四顆指示物就會開始給目標生物放+1/+1指示物和踐踏，提供致勝最關鍵的穿透力。
 
@@ -49,13 +49,13 @@ excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 
 * **後勤補給：羅堰妖精、事後分析師、晨佑三角旗、心生如物**
 
-![](https://i.meee.com.tw/wvv7CYn.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/4b57bc64b93a.webp)
 
 [**羅堰妖精**](https://scryfall.com/card/fdn/227/llanowar-elves)：牌子老效果好的經典一費加速。前期協助二回跳三費，中後期則能協助觸發一次種族進場效果。
 
 [**事後分析師**](https://scryfall.com/card/eoc/91/aftermath-analyst)：二費曲線填充生物，中後期犧牲來一發[絢爛復生](https://scryfall.com/card/eoc/108/splendid-reclamation)，一口氣從墳場拉回大量地牌來個爆發性地落。
 
-![](https://i.meee.com.tw/7LfAN6w.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d3c2cc841071.webp)
 
 [**晨佑三角旗**](https://scryfall.com/card/ecl/254/dawn-blessed-pennant)：關鍵撐線牌，靠著妖精頻繁進場回復生命，撐住對手的前期攻勢；中後期犧牲回收妖精單卡，和[崔斯坦的指命](https://scryfall.com/card/hob/154/dwalin-weaponmaster)搭配可以反覆賺取資源。
 
@@ -63,7 +63,7 @@ excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 
 * **入口通道：神奇小徑、精靈通道**
 
-![](https://i.meee.com.tw/QK1qDT4.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/0e6f15f265a7.webp)
 
 地落套牌不可或缺的找地地。除了既有的[神奇小徑](https://scryfall.com/card/msc/242/fabled-passage)外，本系列新增一張妖精專用的[精靈通道](https://scryfall.com/card/hob/181/elven-passage)，讓你順暢的調色並爽爽的觸發地落。
 
@@ -75,7 +75,7 @@ excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 
 ## 結語
 
-![](https://i.meee.com.tw/5Ig2vpF.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/e5ffb2f92c6e.webp)
 
 以妖精種族主題來說，這副套牌的構成非常另類，就連身為套牌作者的筆者自己也忍不住疑惑「明明只是想隨手組個妖精種族套牌灌灌水，為什麼會變成這樣？」
 或許，這就是構築套牌時所謂的「[意外結果](https://scryfall.com/card/gtc/203/unexpected-results)」吧。不曉得這副奇特的妖精套牌，各位看倌還滿意嗎？

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Beginner"
   - "Level One"
-cover: "https://i.meee.com.tw/w1EvJD8.webp"
-thumbnail: "https://i.meee.com.tw/w1EvJD8.webp"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/a529616c1f6d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/a529616c1f6d-cover.jpg"
 excerpt: "Level One: Midrange Decks"
 ---
 
@@ -26,7 +26,7 @@ excerpt: "Level One: Midrange Decks"
 
 推至極端通常是學習的捷徑，但尋求平衡，往往才是取勝的王道。快攻（Aggro）套牌渴望進攻；控制（Control）套牌則專注於防守。而在兩者之間，存在著第三種難以被單一定義的類別，我們稱之為「中速套牌」（Midrange Decks）。這種套牌在設計之初便將攻守兩端納入考量，使其不論面對何種戰局，都能展現出極強的適應力。
 
-![](https://i.meee.com.tw/2TecguE.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/696c920dfd15.webp)
 
 ### 適應性與泛用性（Adaptability and Versatility）
 
@@ -35,7 +35,7 @@ Ari Lax 曾憑藉「阿布贊中速」（Abzan Midrange）奪下韃契可汗專�
 **Ari Lax 的阿布贊中速**
 [套牌連結](https://www.mtggoldfish.com/deck/7627917#paper)
 
-![](https://i.meee.com.tw/cLzupg8.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/7b8320b984c6.webp)
 
 Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quote1)</sup>截然不同。它擁有健康數量的生物，但也注重解牌、魔法力發展以及具韌性的非生物威脅。其策略既不急於在前期分出勝負，也不追求控制套牌那種絕對的後期必然性，而是基於累積微小優勢並建立獲勝的盤面狀態。簡而言之，這是一套非常平衡的套牌。
 
@@ -45,7 +45,7 @@ Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quo
 
 攻城犀牛和[翼伴洛克鳥](https://scryfall.com/card/ktk/31/zht/%E7%BF%BC%E4%BC%B4%E6%B4%9B%E5%85%8B%E9%B3%A5-(wingmate-roc))是經過精挑細選的，它們既是有效的終結者，在防禦端也很出色。除此之外，套牌中的每個生物都擁有在戰線拉長後有用的非戰鬥能力。[妖精秘教徒](https://scryfall.com/card/m15/173/zht/%E5%A6%96%E7%B2%BE%E7%A7%98%E6%95%99%E5%BE%92-(elvish-mystic))和[森林女像柱](https://scryfall.com/card/ths/180/zht/%E6%A3%AE%E6%9E%97%E5%A5%B3%E5%83%8F%E6%9F%B1-(sylvan-caryatid))在緊急情況下可以阻擋，但它們的主要目的是作為額外的魔法力來源，並為套牌提供加速，以便跟上快攻套牌的節奏。[克羅芬斯的駿馬](https://scryfall.com/card/bng/119/zht/%E5%85%8B%E7%BE%85%E8%8A%AC%E6%96%AF%E7%9A%84%E9%A7%BF%E9%A6%AC-(courser-of-kruphix))可以留在場上牽制對方的小生物，並在長局中持續創造牌張優勢，同時提供穩定的回血。
 
-![](https://i.meee.com.tw/Zp4oa9y.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/4069e63ab413.webp)
 
 另一個泛用性的完美例子是[阿布贊護符](https://scryfall.com/card/ktk/161/zht/%E9%98%BF%E5%B8%83%E8%B4%8A%E8%AD%B7%E7%AC%A6-(abzan-charm)) —— 一張牌若擁有三種截然不同的模式，這便是「泛用性」的最佳定義！此外，阿布贊護符的其中一個模式是防禦性的（放逐對手的生物），一個是進攻性的（膨脹你的生物以造成額外傷害、或撞贏你對手的生物），還有一個是對後期的投資（抽取額外的牌）。你永遠不會因為抽到阿布贊護符而失望，因為它在幾乎每一種可以想像到的情況下都有用。
 
@@ -62,13 +62,13 @@ Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quo
 
 在正編中，我們會極力避免放入特定對局中的「死牌」。然而在備牌中，我們無須為了泛用性而犧牲強度。
 
-![](https://i.meee.com.tw/BRBHEmy.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/ce9d8991b749.webp)
 
 由於中速套牌平衡性佳且策略並不偏廢，幾乎能換入任何類型的備牌。值得注意的是，Ari Lax 選擇使用了數種具備「對稱效應（Symmetric effects）」的牌，例如[止戰寧息](https://scryfall.com/card/ktk/8/zht/%E6%AD%A2%E6%88%B0%E5%AF%A7%E6%81%AF-(end-hostilities))。雖然多數生物套牌對這類牌避而遠之，但 Ari 清楚在換入此牌的對局中，對手將因此遭受毀滅性的打擊，即便犧牲一、兩隻自家生物作為代價也在所不惜。
 
 然而，中速套牌所能運用的並不只有防禦性備牌。憑藉著生物基礎與施加血量壓力的能力，它們同樣能換入專用的威脅，藉此令特定對手陷入困境。。
 
-![](https://i.meee.com.tw/xtKsS0A.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/46fd8bec0f0a.webp)
 
 以[醒世師妮莎](https://scryfall.com/card/m15/187/zht/%E9%86%92%E4%B8%96%E5%B8%AB%E5%A6%AE%E8%8E%8E-(nissa-worldwaker))為例，這是一張對抗控制套牌極為有效的牌。然而，若是在控制內戰時換入妮莎，往往會顯得笨拙且低效。畢竟，削減對手生命值本就不是其計畫的一環；除非妮莎能設法獨自將對手血量從 20 點歸零，否則在資源交換的層面上，她並未產生實質貢獻。但在阿布贊中速的體系下（有[攻城犀牛](https://scryfall.com/card/ktk/200/zht/%E6%94%BB%E5%9F%8E%E7%8A%80%E7%89%9B-(siege-rhino))、[翼伴洛克鳥](https://scryfall.com/card/ktk/31/zht/%E7%BF%BC%E4%BC%B4%E6%B4%9B%E5%85%8B%E9%B3%A5-(wingmate-roc))以及其他鵬洛客與她相輔相成），妮莎所構成的威脅便足以讓對手的控制套牌難以招架。
 
@@ -80,7 +80,7 @@ Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quo
 
 每套套牌都必須具備前期動作，但要找到在攻守兩端皆表現卓越的低費生物卻極其困難。若這些生物的體質過於平庸，在遊戲後期便極易失去影響力。其中一個選項是捨棄低費生物，轉而投入去除咒語，但這會讓你在對抗控制套牌時滿手大量死牌。因此，挑戰在於如何尋得那些在各類對局中都能發揮作用，且能貫穿整局遊戲、始終保有價值的高品質前期動作。
 
-![](https://i.meee.com.tw/yTwkMhF.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/38650ed00471.webp)
 
 以阿布贊套牌為例，解決之道在於選用具備魔法力加速（Ramp）功能的生物。除了符合前述標準，它們還具備額外優勢：能讓你配置更高密度的強大高費咒語，並稍微減少地牌總數。
 
@@ -104,7 +104,7 @@ Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quo
 
 想像阿布贊中速對陣紅色小生物（Weenie）套牌的情境。隨著戰線拉長，阿布贊套牌在任何一個回合都可能抽到[攻城犀牛](https://scryfall.com/card/ktk/200/zht/%E6%94%BB%E5%9F%8E%E7%8A%80%E7%89%9B-(siege-rhino))，而紅色套牌則可能抽到[鍛爐街居民](https://scryfall.com/card/m15/141/zht/%E9%8D%9B%E7%88%90%E8%A1%97%E5%B1%85%E6%B0%91-(foundry-street-denizen))。阿布贊單憑更高的平均牌張品質，便能贏得虛擬牌張優勢。
 
-![](https://i.meee.com.tw/lk2PXiE.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/2217968057e0.webp)
 
 想像場上有一隻[攻城犀牛](https://scryfall.com/card/ktk/200/zht/%E6%94%BB%E5%9F%8E%E7%8A%80%E7%89%9B-(siege-rhino))，正對抗著成群的紅色小生物。紅色玩家可能會決定不進攻，在此情況下，阿布贊玩家便（至少暫時地）令對手的生物形同虛設（blanked）。紅色玩家也可能決定發動攻擊並損失一隻生物，僅為了換取傷害輸出，此時阿布贊玩家等於是白賺了一隻生物。又或者，紅色玩家可能必須動用一隻生物、外加一張[泰坦之力](https://scryfall.com/card/ths/145/zhs/%E6%B3%B0%E5%9D%A6%E4%B9%8B%E5%8A%9B-(titans-strength))或[閃電煉擊](https://scryfall.com/card/ths/127/zht/%E9%96%83%E9%9B%BB%E7%85%89%E6%93%8A-(lightning-strike))才能換掉這隻犀牛，在這種情況下，阿布贊玩家便達成了一次一換二（Two-for-one）。
 
@@ -126,7 +126,7 @@ Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quo
 
 對於中速套牌而言，轉守為攻並快速結束比賽的能力相當關鍵。正因為它們不具備必然性，你對付某些棘手牌張的對策，就是在它們出現之前贏得比賽，或者是在它們登場後迅速取勝。如果你使用的是阿布贊，並感覺到[蜂后](https://scryfall.com/card/m15/178/zht/%E8%9C%82%E5%90%8E-(hornet-queen))即將到來，試著將對手的血量壓得足夠低，讓像是[攻城犀牛](https://scryfall.com/card/ktk/200/zht/%E6%94%BB%E5%9F%8E%E7%8A%80%E7%89%9B-(siege-rhino))配合[英雄明師阿耶尼](https://scryfall.com/card/jou/145/zht/%E8%8B%B1%E9%9B%84%E6%98%8E%E5%B8%AB%E9%98%BF%E8%80%B6%E5%B0%BC-(ajani-mentor-of-heroes))這樣的組合來完成最後一擊。
 
-![](https://i.meee.com.tw/xoA1EEB.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/2e74d9ff1feb.webp)
 
 當你操作中速套牌時，你永遠不會澈底絕望。你擁有一套多元的解牌手段，足以應對多數常見的難題。更重要的是，即便在缺乏正確解牌的情況下，你還有備案（Plan B）——那就是直接擊敗對手！
 
@@ -135,7 +135,7 @@ Lax 先生的套牌看起來與過去幾週介紹的其他套牌<sup>[註1](#quo
 **渡邊雄也的潔斯凱中速 (Jeskai Wins)**
 [套牌連結](https://www.mtggoldfish.com/deck/7630143#paper)
 
-![](https://i.meee.com.tw/Jwm9pIj.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/d379f39ff1f5.webp)
 
 儘管幾乎沒有共通的牌張，且對局過程大相徑庭，但阿布贊與潔斯凱背後的運作原理基本一致。一如阿布贊，這套潔斯凱在對抗快攻套牌時會採取防禦姿態，而在對陣慢速套牌時則轉為進攻姿態。承襲了阿布贊的特點，它也配置了少數幾種強力生物。更與阿布贊異曲同工的是，換備牌後它能針對特定對局調整自身，勝任所需的任何角色。而在轉守為攻的能力上，它甚至比阿布贊更出色 —— 一旦時機成熟，便能以一連串的燒牌（Burn spells）迅速終結比賽。
 

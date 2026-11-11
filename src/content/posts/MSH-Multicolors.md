@@ -9,8 +9,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/NEgyrlb.png"
-thumbnail: "https://i.meee.com.tw/NEgyrlb.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Multicolors/34b406ec3d11-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Multicolors/34b406ec3d11-cover.jpg"
 excerpt: "歡迎來到漫威超級英雄的世界！你心中最具代表性的英雄是哪一位呢？讓我們從多色篇先看起吧！"
 
 ---
@@ -24,61 +24,61 @@ excerpt: "歡迎來到漫威超級英雄的世界！你心中最具代表性的�
 
 ### <span style="color:#006DB3">藍</span><span style="color:#C3B270">白</span> 聯合協作（Teamwork）
 
-![](https://i.meee.com.tw/G6Le0dV.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/41c36015bc1d.webp)
 
 團隊合作不只讓夢想成真，還能讓你的咒語威力加倍！白藍套牌的核心，就是將帶有『聯合』異能的咒語與可橫置的生物完美結合。 {% mtglink "Captain America, Living Legend" %} 能以堅毅之姿引領你的生物走向勝利。不妨加入 {% mtglink "Borough Backup" %} 與 {% mtglink " S.H.I.E.L.D. Deployment Drone" %} 等能產生token的咒語和生物，來全力支持藍白套牌吧！
 
 ### <span style="color:#006DB3">藍</span><span style="color:#808080">黑</span> 抽第二張
 
-![](https://i.meee.com.tw/H4Mjx28.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/dec284a04ec4.webp)
 
 利用這副藍黑套牌來掌控時間與戰局的節奏！ {% mtglink "Kang, Temporal Tyrant" %} 和他的同夥們非常看重『單回合內抽兩張牌』的效應。建議加入低點數的抽牌咒語，以及具有籌謀（Connive）異能的生物來支持他們。別忘了，你也可以在對手的回合觸發這些異能，因此像 {% mtglink "Thirst for Knowledge" %} 和 {% mtglink "Visions of Villainy" %} 這類瞬間咒語會特別具有影響力。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#808080">黑</span> 反派崛起
 
-![](https://i.meee.com.tw/DfJ7yLp.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/0982c6716b27.webp)
 
 率領成群的反派，來實行你的邪惡計畫吧！利用 {% mtglink "Madame Hydra" %} 與其他強大生物，來製造源源不絕的反派衍生物。此系列中還包含了數張黑色的『計劃（Plan）』結界。如果你開到了複數張的 {% mtglink "The Masters of Evil" %} 以及幾張令人興奮的計畫牌，就能組出一副陰險狡詐的完美套牌，並藉此啟動像 {% mtglink "Doom Reigns Supreme" %} 這類強力咒語！
 
 ### <span style="color:#AF2321">紅</span><span style="color:#4A8A3D">綠</span> 超能強化（Power-up）
 
-![](https://i.meee.com.tw/BfRQUFi.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/aa05717a6cad.webp)
 
 有些套牌風格講求精明計畫、精密計算與高超操作……紅綠可不是那一類的套牌。用 {% mtglink "Hulk, Gamma Goliath" %} 與其他具有『超能（Power-up）』異能的生物，直接擊潰對手的阻擋者吧！想讓你的生物碾壓能力加倍嗎？ {% mtglink "Wonder Man, Hollywood Hero" %} 能讓聚光燈永遠聚焦在你套牌中最棒的生物身上！
 
 ### <span style="color:#C3B270">白</span><span style="color:#4A8A3D">綠</span> 英雄登場
 
-![](https://i.meee.com.tw/I2BbG4z.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/d48d0d8102a5.webp)
 
 集結來自漫威宇宙的各路英雄，鋪滿你的戰場吧！白綠套牌與藍白聯合套牌共享了數張關鍵的白色卡牌。利用能製造『英雄(Hero)』衍生物的白色牌，來重複觸發 {% mtglink "Black Panther, Vanguard" %} 與 {% mtglink "Wakandan Royal Guard" %} 的異能。一旦你建立起龐大的英雄陣容，就能利用 {% mtglink "White Widow, Free Agent" %} 和 {% mtglink "Training Regimen" %} 來強化他們的威力，發動全軍突擊贏得勝利！
 
 ### <span style="color:#C3B270">白</span><span style="color:#808080">黑</span> 單刀赴會
 
-![](https://i.meee.com.tw/lE6Ozze.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/279f592ea56d.webp)
 
 利用一系列的生物、武具與更多卡牌，來全力支援你的孤勇特工吧！當某個生物隻身進攻時， {% mtglink "Black Widow, Double Agent" %} 和 {% mtglink "Voltaic Whip" %} 都能為你帶來豐厚的回報。你只需要為這項任務找到對的超級英雄就行了，例如 {% mtglink "Luke Cage, Power Man" %} 。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#006DB3">藍</span> 神器大軍
 
-![](https://i.meee.com.tw/SyiH34G.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/aeb8ae413647.webp)
 
 打造世上最偉大的發明，並武裝你的生物吧！在套牌中投入高密度的神器，來啟動 {% mtglink "Iron Lad, Diverging Destiny" %} 與 {% mtglink "HYDRA Assault Robot" %} 的異能。這個套牌原型非常看重你所累積的神器數量，即便它們的效果微乎其微也無妨。無論是珍寶、線索還是機器人反派衍生生物，都能為 {% mtglink "Iron Man, Master of Machines" %} 的威力添磚加瓦！
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span> 墓中生物
 
-![](https://i.meee.com.tw/4VNEipU.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/6a9447c3ae6b.webp)
 
 將你生物的死亡，轉化為套牌的運作燃料！有數張卡牌會檢視你的墳墓場中是否含有『兩張或更多生物牌』。在遊戲前期，利用『磨牌(Mill)』效應或像 {% mtglink "Roxxon Brutes" %} 這類具『循環(Cycling)』異能的生物來快速達成條件。一旦你將兩隻生物送入墳墓場，像 {% mtglink "Killmonger, Scourge of Wakanda" %} 與 {% mtglink "Arnim Zola, Bio-Fanatic" %} 這類的卡牌，光憑一己之力就能為你贏得比賽！
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span> 非生物咒語
 
-![](https://i.meee.com.tw/BHxIacn.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/9e2101a058b0.webp)
 
 施放一系列的非生物咒語，來證明你的套牌夠格吧！像 {% mtglink "Agent of Atlas" %} 與 {% mtglink "Thor Odinson" %} 這類帶有『靈技(Prowess)』異能的生物，只需配合幾道咒語，就能迅速膨脹為奠定勝局的巨獸。這個套牌原型比起一般套牌需要更多低法術力費用的卡牌，因此選牌時請密切留意像 {% mtglink "Super Speed" %} 、 {% mtglink "Vibranium Energy Daggers" %} 這類的複數張卡牌。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span> +1/+1指示物
 
-![](https://i.meee.com.tw/UqZgVsC.png)
+![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/9c85c54d0307.webp)
 
 把你的生物養大，並高高在上地碾壓你的對手吧！利用瞬間、法術和其他支援效應，將像 {% mtglink "Beast, Erudite Aerialist" %} 這類具穿透異能的生物，轉化為泰坦級的巨大威脅。請務必在套牌中加入保護手段，來守護你身上堆滿指示物的生物。關鍵時刻， {% mtglink "Kid Loki" %} 能賦予你的生物『辟邪(Hexproof)』異能；而 {% mtglink "Claim the Kingdom" %} 則能藉由『不滅(Indestructible)』指示物，為你最強大的生物提供永久的保護。
 
@@ -194,7 +194,7 @@ excerpt: "歡迎來到漫威超級英雄的世界！你心中最具代表性的�
  評語：黑綠中不錯的交換型單卡。它最強的地方是可以把場上多餘的小生物轉成一發很乾淨的去除，能處理對手的關鍵生物或其他麻煩永久物，對限制賽來說彈性很高。後期墳場條件達成後，自己也會變成 5/4，攻擊壓力不差。不過這張牌需要有生物可以犧牲，否則本體只是四費 3/3，單獨來看不夠強。
         
  
- ![](https://i.meee.com.tw/nEaJVfP.png)
+ ![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/248f92eed99c.webp)
  分數：4.0
  評語：白藍色組的高價值單卡。正面雖然身材不算突出，但閃現讓它很容易找時機下場，而且只要自己或對手在同一回合抽到第二張牌，就能開始賺資源。這讓它在白藍這種有抽牌、濾牌或節奏互動的牌組裡很容易拉開差距。後期轉化成 Black Panther 後，會變成非常難用戰鬥處理的威脅，一旦開始打到玩家就能持續補牌。缺點是正面需要搭配抽二效果才會特別強，轉化費用也偏重，但整體上限很高(當然你也可以後期直接以背面施放)。
         

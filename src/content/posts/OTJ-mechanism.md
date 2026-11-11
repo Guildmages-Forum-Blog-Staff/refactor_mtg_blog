@@ -13,7 +13,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ## 狂徒（Outlaw）
 
-![狂徒](https://i.postimg.cc/HTT76HBP/Outlaw.png)
+![狂徒](https://images.guildmagesforum.tw/posts/OTJ-mechanism/7cd756c4903d.webp)
 
 狂徒正是這個全員惡人的時空最好的代稱，狂徒是指對以下五種生物類別的總稱，分別是殺手（Assassin）、傭兵（Mercenary）、海盜（Pirate）、浪客（Rogue）、邪術師（Warlock），只要你的某個生物，至少包含上述任一一種類別，那麼它就是個狂徒生物。
 
@@ -21,7 +21,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ## 乘駕（Saddle）
 
-![乘駕](https://i.postimg.cc/D2g7ptyv/image.png)
+![乘駕](https://images.guildmagesforum.tw/posts/OTJ-mechanism/36d03d289bc1.webp)
 
 本系列出現了新的生物類別：坐騎（Mount），這個類別在規則上並沒有特殊之處，只是本系列的乘駕異能都出現在坐騎生物上而已。
 
@@ -35,7 +35,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ## 犯下罪行（Commit a crime）
 
-![犯下罪行](https://i.postimg.cc/69XzMPyp/Committing-a-crime.png)
+![犯下罪行](https://images.guildmagesforum.tw/posts/OTJ-mechanism/8a4db9feb89f.webp)
 
 於你施放咒語、起動異能、將觸發式異能放進堆疊時，若你將以下各項之一項或數項指定為目標，便屬犯下罪行：
 
@@ -48,7 +48,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ## 追歡（Spree）
 
-![追歡](https://i.postimg.cc/fDW6WJKv/Spree.png)
+![追歡](https://images.guildmagesforum.tw/posts/OTJ-mechanism/04e72b6fab58.webp)
 
 追歡咒語上會有多項模式，每個模式都會有一個額外費用。你在施放追歡咒語時，必須選擇一項或多項模式，且不能多次選擇同一模式，並支付對應的額外費用。
 
@@ -67,7 +67,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ## 設謀（Plot）
 
-![設謀](https://i.postimg.cc/HYX4nFw1/Plot.png)
+![設謀](https://images.guildmagesforum.tw/posts/OTJ-mechanism/f34efdb8ab21.webp)
 
 設謀牌可以於巫術時機支付指定的魔法力費用將該牌從手牌放逐，這張牌便成為已設謀，在這回合之後的回合中，你可以從放逐區在巫術時機施放已設謀的這張牌，且不需支付其魔法力費用。
 
@@ -77,7 +77,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ## 系列符號
 
-![系列符號](https://i.postimg.cc/Bb8kmXS6/OTJ.png)
+![系列符號](https://images.guildmagesforum.tw/posts/OTJ-mechanism/dbf28011a6f9.webp)
 
 對，你沒看錯，真的就是代表系列出處的那個系列符號...
 
@@ -87,14 +87,14 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 ### 標準可用
 
-![標準可用](https://i.postimg.cc/QDyC5Btf/image.png)
+![標準可用](https://images.guildmagesforum.tw/posts/OTJ-mechanism/54752b937b92.webp)
 
 - OTJ：光雷驛鏢客
 - BIG：滿載而歸
 
 ### 標準不可用
 
-![標準不可用](https://i.postimg.cc/VfdNpw79/image.png)
+![標準不可用](https://images.guildmagesforum.tw/posts/OTJ-mechanism/6ef0785c70ba.webp)
 
 - OTP：號外新聞 （報紙風格）
 - SPG：特別來賓
@@ -106,7 +106,7 @@ excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 
 光雷驛鏢客的售前現開賽將於2024年4月12日開始，前往附近的店家體驗新系列吧！
 
-![Final](https://i.postimg.cc/QDz5s82W/END.png)
+![Final](https://images.guildmagesforum.tw/posts/OTJ-mechanism/38836eda133b.webp)
 
 > **光雷驛鏢客行事曆：**
 > 4月12日～18日：售前現開賽

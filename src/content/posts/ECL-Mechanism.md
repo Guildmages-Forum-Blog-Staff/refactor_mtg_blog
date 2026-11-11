@@ -7,13 +7,13 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/gpMAE8E.png"
-thumbnail: "https://i.meee.com.tw/gpMAE8E.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Mechanism/ca3944341216-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Mechanism/ca3944341216-cover.jpg"
 excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 ---
 
 ## 異彩（Vivid）
-![Vivid](https://i.meee.com.tw/oKeGCYP.png)
+![Vivid](https://images.guildmagesforum.tw/posts/ECL-Mechanism/088040d82f82.webp)
 
 異彩是個異能提示文字，這些異彩牌都會檢查由你操控的永久物顏色數量，這個數字最低為0、最高為5，至於計算出你操控幾種顏色的永久物後會幹嘛？則是看每張單卡各自的效果。
 
@@ -24,7 +24,7 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 衰萎（Blight）
-![Blight](https://i.meee.com.tw/k10zL4O.png)
+![Blight](https://images.guildmagesforum.tw/posts/ECL-Mechanism/54c2cb6919b7.webp)
 
 衰萎後面會有一個數字N，衰萎N代表在一個由你操控的生物上放N個-1/-1指示物。
 
@@ -38,7 +38,7 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 親緣（Kindred）
-![Kindred](https://i.meee.com.tw/0b0YQPz.png)
+![Kindred](https://images.guildmagesforum.tw/posts/ECL-Mechanism/7a15959b4743.webp)
 
 親緣是一個類別（與瞬間、巫術、地等類別同級，和傳奇這種超類別並不相同）。
 
@@ -53,7 +53,7 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 化形（Changeling）
-![Changeling](https://i.meee.com.tw/3THXpM2.png)
+![Changeling](https://images.guildmagesforum.tw/posts/ECL-Mechanism/a8d67cbd6ca9.webp)
 
 化形是一種[特徵定義異能（CDA）](https://guildmagesforum.tw/Characteristic-Defining-Ability/)，化形的物件具有所有生物類別，這個效果在所有區域皆會生效。假設有個效應可以讓你從牌庫搜尋一張妖精生物牌上手，那麼你也可以找一個化形生物牌上手。
 
@@ -62,7 +62,7 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 請援（Behold）
-![Behold](https://i.meee.com.tw/GpXHAAJ.png)
+![Behold](https://images.guildmagesforum.tw/posts/ECL-Mechanism/475fe1ebc741.webp)
 
 請援是不久前才於[韃契：龍襲風暴](https://guildmagesforum.tw/TDM-mechanism/#%E8%AB%8B%E6%8F%B4%EF%BC%88Behold%EF%BC%89)登場的新機制，本系列再度回歸，並且進行了額外拓展。
 
@@ -73,7 +73,7 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 召集（Convoke）
-![Convoke](https://i.meee.com.tw/Am2N0zJ.png)
+![Convoke](https://images.guildmagesforum.tw/posts/ECL-Mechanism/7b7ce2fa9a2f.webp)
 
 當你施放一個具召集異能的咒語時，在支付費用的時候，你可以橫置任意數量由你操控且未橫置生物來代替支付魔法力，你可以橫置任一生物來支付{1}、或是對於有顏色的魔法力符號，橫置一個該顏色的生物來支付此指定色法力。即使你的生物還在召喚失調狀態，也可以透過召集來橫置。
 
@@ -82,7 +82,7 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 呼魂（Evoke）
-![Evoke](https://i.meee.com.tw/bdgWadp.png)
+![Evoke](https://images.guildmagesforum.tw/posts/ECL-Mechanism/5f3e47779d1a.webp)
 
 呼魂的牌具有一個替代性費用，你可以選擇支付呼魂費用來施放它，而不是支付原本的費用。若你選擇使用呼魂費用來施放它，則這個永久物進場時會觸發一個 **「犧牲此永久物」** 的觸發式異能。
 
@@ -93,6 +93,6 @@ excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 
 
 ## 留存（Persist）
-![Persist](https://i.meee.com.tw/2qmVBLn.png)
+![Persist](https://images.guildmagesforum.tw/posts/ECL-Mechanism/58f08a082b4f.webp)
 
 留存是一個觸發式異能，當具有留存異能的生物死去時，如果其上沒有-1/-1指示物，則將它在其擁有者的操控下返回戰場，且其上具有一個-1/-1指示物。

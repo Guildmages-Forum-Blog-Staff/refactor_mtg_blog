@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/RSjwGmr.png"
-thumbnail: "https://i.meee.com.tw/RSjwGmr.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Green/2de72ccdd3ae-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Green/2de72ccdd3ae-cover.jpg"
 excerpt: "每個人的心中都有一個英雄。"
 ---
 

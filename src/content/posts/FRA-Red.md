@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/TfdqIB3.png"
-thumbnail: "https://i.meee.com.tw/TfdqIB3.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Red/949af6b1450c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Red/949af6b1450c-cover.jpg"
 excerpt: "紅色是燒燬的顏色，像極了愛情，也像在愛人鋒刃下消逝的生命。"
 ---
 
@@ -215,6 +215,6 @@ excerpt: "紅色是燒燬的顏色，像極了愛情，也像在愛人鋒刃下�
 
 ## 結語
 
-![燒牌們](https://i.meee.com.tw/XGYWRnI.jpg)
+![燒牌們](https://images.guildmagesforum.tw/posts/FRA-Red/4804bdf43322.webp)
 
 紅色這次CU卡共出了5張燒牌，費用不同，效果與目標也不太一樣，因此都各給了3.0分。但不得不說，FRA紅色這次的解牌相當充足，還沒算上剋色牌 {% mtglink "Essence Burn" %} 跟結界版的 {% mtglink "Ajani's Anguish" %} 呢！然而，依靠燒牌作為主力去除的缺點，往往是射程不夠而解不掉關鍵威脅。玩家在對局時，要多考慮手上的解牌是不是有必要現在就用掉，還是要留著交給更值得的目標。

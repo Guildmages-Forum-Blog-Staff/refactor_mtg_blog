@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/pIVgbFJ.webp"
-thumbnail: "https://i.meee.com.tw/pIVgbFJ.webp"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Green/83eb4531e097-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Green/83eb4531e097-cover.jpg"
 excerpt: "本次的綠色單卡都有優秀的下限，最差也是不虧體質的單卡，但也沒有極為驚人的單卡，不適合過長的對局，如果以綠色為主要顏色，建議一定要抓住前中期的優勢拿下對局。"
 
 ---

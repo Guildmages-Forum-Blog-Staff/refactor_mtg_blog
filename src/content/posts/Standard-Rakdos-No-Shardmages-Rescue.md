@@ -2,8 +2,8 @@
 
 title: "好的菲哥帶紅黑骷髏妖上天堂"
 date: "2025-07-20 12:05:55"
-cover: "https://i.meee.com.tw/Wm37hmY.png"
-thumbnail: "https://i.meee.com.tw/Wm37hmY.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/dbf560ab1e07-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/dbf560ab1e07-cover.jpg"
 excerpt: "據臺灣某玩家研究指出：賽菲羅斯冰冷的外表下，藏著E人的外向交友之心，和一眾骷髏妖雜魚們處得不差。"
 authors:
   - "faintmama"
@@ -28,7 +28,7 @@ categories:
 
 2024年年底，當時我用[Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge)和[Fountainport](https://scryfall.com/card/blb/253/fountainport)的搭配玩得不亦樂乎，但無論賽事規模大小如何、四十幾人或十幾人的皆然，紅黑骷髏妖幾乎都遊走在8-12名之間，缺乏突破北部重圍的關鍵能量。當然，這跟我個人技術未臻完美也多少有點關係。
 
-![](https://i.meee.com.tw/q1ADOpF.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/d821ad5eb00a.webp)
 
 >這故事講太多次了，有興趣的讀者歡迎參考[誤闖競爭級別的大叔年末日記](https://guildmagesforum.tw/Uncles-Diary/)一文 ~~但先別走啊讀完這篇比較重要~~ 。
 
@@ -42,7 +42,7 @@ categories:
 
 提供[套牌構築連結](https://www.mtggoldfish.com/deck/7245075#paper)跟各位分享，直到最後一天都還在修修改改，好玩又痛苦XD。
 
-![](https://i.meee.com.tw/ymgGfPg.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/bdcf3706fa86.webp)
 
 >還是帶了一張[Fountainport](https://scryfall.com/card/blb/253/fountainport)，畢竟是我的愛嘛。
 
@@ -50,7 +50,7 @@ categories:
 
 **菲哥** 是網站好友GY_Player在Discord群組內對[賽菲羅斯](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)的簡稱，坦白說，由於我是經歷過[龍兄虎弟](https://zh.wikipedia.org/zh-tw/%E9%BE%8D%E5%85%84%E8%99%8E%E5%BC%9F_(%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE))的初老世代，對於這種無聊幽默感到格外dokidoki。
 
-![](https://i.meee.com.tw/UrtzA6r.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/ce8b5db39df3.webp)
 >沒想到年輕朋友都不知道金元萱了唉，旅臺發展的韓籍藝人先驅捏。
 
 除了玩笑話以外，[賽菲羅斯](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)真的是張值得討論的單卡。我個人及幾位賽場上優秀的玩家，起初對於[賽菲羅斯](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)的價值都是抱持著懷疑的，理由很簡單：絕對會出現施放的時候被回應一張殺，結果進場時就只是孤身一人的寂寥情況。如果花了三費卻只正拍一張3/3白板生物，在五年前的魔法風雲會裡大概也不很理想，遑論今日。
@@ -59,7 +59,7 @@ categories:
 
 所以重點在於，[賽菲羅斯](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)必須待在 **低費生物夠多** 構築之中，才能夠發揮他的價值及穩定性。經過FIN數場店冠賽的實踐，確定[菲哥](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)就是紅黑骷髏妖的最佳伙伴：一眾骷髏妖與小屁仔完成搶血任務後，卻因為開始打不穿防線而成為閒置村民時（部分骷髏妖甚至無法參與阻擋，不打出去真的會很爛XD），[菲哥](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)讓每位雜魚的壯烈犧牲都有了回報。[菲哥](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)成功結算後，雜魚生物們便轉以神風特攻隊的瘋狗形態再戰，全場生物死亡都伴隨著我方補一而對手痛一的效果，超級強大又折磨心志。
 
-![](https://i.meee.com.tw/egZiBxu.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/dc9d6cc95bec.webp)
 >質疑菲哥，接受菲哥，愛上菲哥。
 
 當然，最猛的是翻面後的[Sephiroth, One-Winged Angel](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)，那寫著「Whenever a creature dies, target opponent loses 1 life and you gain 1 life.」的徽記，絕對是讓比賽澈底傾倒的存在。

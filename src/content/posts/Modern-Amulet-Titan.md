@@ -1,8 +1,8 @@
 ---
 title: "近代的法力魔術師 - 泰坦護身符"
 date: "2024-06-13 16:49:21"
-cover: "https://i.postimg.cc/KZ4L3gpL/Primeval-Titan.png"
-thumbnail: "https://i.postimg.cc/KZ4L3gpL/Primeval-Titan.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/08131c5a2a3d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/08131c5a2a3d-cover.jpg"
 excerpt: "馬上帶你深入近代最神奇的經典套牌！"
 categories:
   - "Construct"
@@ -33,7 +33,7 @@ authors:
 
 這裡先附上我本次使用的泰坦護身符[牌表](https://melee.gg/Decklist/View/377616)
 
-![](https://i.imgur.com/wwXsgQH.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/03f966589f9f.webp)
 
 自從*魔戒：中土世界傳奇*系列發售之後，[至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring)（以下簡稱「戒指」）的出現增強了許多套牌，其中的最大受益者便是泰坦護身符，過去的泰坦護身符有兩個核心問題：**補牌能力不足**以及逆風時的**保命能力不夠**，都正好能被戒指一張牌解決，而作為一個大法力套牌，戒指4點較為笨重的法力曲線在泰坦套牌則是完全沒有影響，也促成了Dom Harvey在#PTLTR獲得了四強。
 
@@ -99,7 +99,7 @@ authors:
 
 為了快速計算這回合能產出的法力，這副套牌一共有5種多下地的手段，配合護身符數量的法例增減情況如下([來源](https://www.cardmarket.com/en/Magic/Insight/Articles/Your-Godbook-on-Amulet-Titan)，以下皆預設手上有一張跳地)：
 
-![](https://i.imgur.com/7gUamAd.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/91ba53791e34.webp)
 
 | **場上的護身符數量：**                                                         | 1         | 2         | 3         | 4          |
 | ------------------------------------------------------------------------------ | --------- | --------- | --------- | ---------- |
@@ -130,7 +130,7 @@ authors:
 
 首先，敏捷地跟爆發地明明是不同用途，為什麼會說綁在一起？拆開來看的話，[教團要塞陽園](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion)的爆發傷害會比[凱錫革狼棲地](https://scryfall.com/card/isd/243/kessig-wolf-run)來的優秀。然而，敏捷地不使用[剋星城塞](https://scryfall.com/card/avr/229/slayers-stronghold)作的套牌構築當中就**不會帶有[紅白跳地](https://scryfall.com/card/rav/275/boros-garrison)**，也就無法用[維蘇瓦](https://scryfall.com/card/tsp/281/vesuva)複製，進而啟動[教團要塞陽園](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion)，因此這兩組地的選擇才會綁在一起。
 
-![](https://i.imgur.com/TISneL0.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/2ec35f278314.webp)
 
 這邊簡單用一張表格簡單分析一下這兩個組合配置的優劣勢：
 || [翰威城垛](https://scryfall.com/card/emn/204/hanweir-battlements)體系（通常含[鏡映潭](https://scryfall.com/card/ogw/174/mirrorpool)） | [剋星城塞](https://scryfall.com/card/avr/229/slayers-stronghold) + [教團要塞陽園](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion) |
@@ -179,7 +179,7 @@ authors:
 
 泰坦護身符的第二條線就是瓦拉庫，隨著[翰威城垛](https://scryfall.com/card/emn/204/hanweir-battlements)的使用率變高，組合技快速斬殺型的泰坦護身符套牌逐漸減少，瓦拉庫在套牌當中的重要性也就愈發重要，而這個配合有幾個需要注意的點：
 
-![](https://i.imgur.com/5GsmM4f.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/3d8be1952c6d.webp)
 
 - 瓦拉庫的觸發檢查是**兩段式檢查**：在瓦拉庫或其他地進場時，如果有5個其他山脈（也就是總共大於等於6塊地），瓦拉庫的異能會上堆疊，**必須先選目標**，而在異能結算的時候會**再次檢查**「5個其他山脈」的條件，有符合才會造成傷害。換句話說，對手若回應異能將裸男解掉，條件就無法達成，也就不會造成傷害。因此，在許多預期對手能將裸男解掉的場合，一般會盡量做兩隻裸男來預防。
 
@@ -199,7 +199,7 @@ authors:
     指的是類似[腥紅之月](https://scryfall.com/card/drk/58/blood-moon)，會讓地失去異能的效果，環境內常見的有三種，照威脅程度高到低排序是：
     - **[紅月賢者](https://scryfall.com/card/fut/101/magus-of-the-moon) > [腥紅之月](https://scryfall.com/card/drk/58/blood-moon) > [月輪山影](https://scryfall.com/card/m19/128/alpine-moon)**
 
-    ![](https://i.imgur.com/8CTn1gE.jpeg)
+    ![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/06e629534015.webp)
 
     由於泰坦護身符正邊就帶有[曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)，因此[紅月賢者](https://scryfall.com/card/fut/101/magus-of-the-moon)作為其中唯一的非結界，一定需要備牌才能處理，是最麻煩的威脅。
 
@@ -208,7 +208,7 @@ authors:
 2.  **阻止泰坦成功：**
     環境內常見的威脅有三個，**[反擊咒語](https://scryfall.com/card/ice/64/counterspell)、[銳敏](https://scryfall.com/card/mh2/67/subtlety)**和**[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)**，其中最麻煩的是[銳敏](https://scryfall.com/card/mh2/67/subtlety)，因為能替代施放的特性，即使對手沒有法力仍然有可能施放，更難防。
 
-    ![](https://i.imgur.com/Sc2Tqes.jpeg)
+    ![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/e119c3c544f6.webp)
 
     現今環境內帶[反擊咒語](https://scryfall.com/card/ice/64/counterspell)的套牌較少（基本上只有少數的紅藍底龍侯套牌或藍白底控制套牌），因此對付[反擊咒語](https://scryfall.com/card/ice/64/counterspell)效果最好的一張牌[靈魂洞窟](https://scryfall.com/card/avr/226/cavern-of-souls)在現今的環境中比較少出現，我在MIT最終的構築也沒有帶。
 
@@ -221,11 +221,11 @@ authors:
 
     **可以同時拆除克撒傳：**
     [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)、[挑選毒藥](https://scryfall.com/card/mkm/170/pick-your-poison)、[失控蟲械](https://scryfall.com/card/bro/199/haywire-mite)、[活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)
-    ![](https://i.imgur.com/toCSsxd.jpeg)
+    ![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/49657c74fd0e.webp)
 
     **無法同時拆除克撒傳：**
     [密設爆裂物](https://scryfall.com/card/5dn/118/engineered-explosives)、[虹彩終局](https://scryfall.com/card/mh2/25/prismatic-ending)、[熔毀崩塌](https://scryfall.com/card/lci/234/molten-collapse)、[兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)
-    ![](https://i.imgur.com/5Rrgvo0.jpeg)
+    ![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/9f35bfc72fa2.webp)
 
     - 常見的泰坦應對方式：通常沒有特定的牌張應對手段（我在MIT的牌表中使用了[大學院廢墟](https://scryfall.com/card/tsp/269/academy-ruins)，但不是一個常見的備牌），因此在備牌局經常會有扣著多餘護身符不做，或是向無護身符勝利手段的操作。
 
@@ -246,7 +246,7 @@ authors:
 
 2. **中速價值高**：除了處理紅月賢者，羅珊妮的中速價值也非常好，進場及每次攻擊都能對任意目標造成兩點傷害，無論是**解場或是拼傷害都很不錯**，更重要的是，羅珊妮的隕石同時具有加速的效果，並且是**橫置進場**的，因此會觸發護身符，與套牌的主題搭配也非常好。
 
-![](https://i.imgur.com/qtnLpar.jpeg)
+![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/b8e79129e7d1.webp)
 
 ### 近代新篇三
 

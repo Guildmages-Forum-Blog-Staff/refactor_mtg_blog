@@ -11,8 +11,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/CcnftkC.png"
-thumbnail: "https://i.meee.com.tw/CcnftkC.png"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Mechanism/64f07d11913d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Mechanism/64f07d11913d-cover.jpg"
 
 excerpt: "來看看哈比人中出現了哪些機制吧！"
 
@@ -20,7 +20,7 @@ excerpt: "來看看哈比人中出現了哪些機制吧！"
 
 ## 立傳（Storied）
 
-![Storied](https://i.meee.com.tw/y35e62J.png)
+![Storied](https://images.guildmagesforum.tw/posts/HOB-Mechanism/d190faa28aa6.webp)
 
 立傳是一個靜止式異能，具有立傳異能的永久物會隨時檢查你在遊戲中是否滿足以下條件：
 1. 你操控該具有立傳異能的永久物。
@@ -32,7 +32,7 @@ excerpt: "來看看哈比人中出現了哪些機制吧！"
 
 ## 募兵（Recruit）
 
-![Recruit](https://i.meee.com.tw/KC1T5lU.png)
+![Recruit](https://images.guildmagesforum.tw/posts/HOB-Mechanism/830bb8b9e62f.webp)
 
 募兵是一個關鍵字動作。當任何效果使你執行募兵時，你抽一張牌，然後棄一張牌，如果你以此法棄掉了一張非地牌，則派出一個1/1白色人類士兵衍生生物。
 
@@ -40,7 +40,7 @@ excerpt: "來看看哈比人中出現了哪些機制吧！"
 
 ## 磨練指示物（Hone Counter）
 
-![Hone Counter](https://i.meee.com.tw/OKdw41c.png)
+![Hone Counter](https://images.guildmagesforum.tw/posts/HOB-Mechanism/81424f55e115.webp)
 
 本系列有多張牌能夠在武具上放置磨練指示物，磨練指示物放置在武具上時的效果為：使佩帶該武具的生物得+1/+0。
 
@@ -52,7 +52,7 @@ excerpt: "來看看哈比人中出現了哪些機制吧！"
 
 ## 囤兵（Amass）
 
-![Amass](https://i.meee.com.tw/WAGXNSV.png)
+![Amass](https://images.guildmagesforum.tw/posts/HOB-Mechanism/6b01ce92f7e2.webp)
 
 囤兵的描述格式為： 囤兵 <font color="#FF0000">副類別</font> <font color="#0000FF">N</font>
 
@@ -68,7 +68,7 @@ excerpt: "來看看哈比人中出現了哪些機制吧！"
 
 ## 歷險（Adventure）
 
-![Adventure](https://i.meee.com.tw/pu3U4EQ.png) 
+![Adventure](https://images.guildmagesforum.tw/posts/HOB-Mechanism/bcd1d6aa5809.webp) 
 
 歷險牌共由兩部分所組成：作為牌張本體的永久物部分、以及左下角的歷險（瞬間/巫術）部分。
 

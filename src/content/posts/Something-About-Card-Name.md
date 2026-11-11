@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/gBA9prQ.png"
-thumbnail: "https://i.meee.com.tw/gBA9prQ.png"
+cover: "https://images.guildmagesforum.tw/posts/Something-About-Card-Name/f590869befc0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Something-About-Card-Name/f590869befc0-cover.jpg"
 excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔壁那個只開了左半邊的惡魔房間會不會被炸阿？"
 ---
 
@@ -28,7 +28,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 {% endfolding %}
 
-![前言](https://i.meee.com.tw/ngpDuFx.png)
+![前言](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/1acb36368fdc.webp)
 
 ---
 
@@ -42,7 +42,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 >PS：其實筆者用卡名/此卡是不太嚴謹的說法，正式用語應該是物件名稱/此物件，但這說法實在有點拗口，為了方便閱讀，以下還是用卡名/此卡來表示。
 
-![1](https://i.meee.com.tw/acF379l.png)
+![1](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/5abb38673431.webp)
 > ● [堅定援兵（DMU文本）](https://scryfall.com/card/dmu/29/resolute-reinforcements)：
 > 當 <font color="#FF0000">堅定援兵</font> 進戰場時，派出一個1/1白色士兵衍生生物。
 > ● [堅定援兵（FDN文本）](https://scryfall.com/card/fdn/145/resolute-reinforcements)：
@@ -57,7 +57,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 至於真正綁定卡名的效果，會明確標示 **「名稱為（named）」** XX卡名。
 
-![2](https://i.meee.com.tw/KIH73ox.png)
+![2](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/d7a7f3732760.webp)
 > ● [昂焰靈魂薩坎](https://scryfall.com/card/tdc/301/sarkhan-soul-aflame)：
 > 每當一個龍在你的操控下進戰場時，你可以使昂焰靈魂薩坎成為前者的複製品直到回合結束，但它的名稱是昂焰靈魂薩坎，且額外是傳奇。
 > ● [跨金橋巨龍](https://scryfall.com/card/khm/139/goldspan-dragon)：
@@ -65,7 +65,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 跨金橋巨龍的異能觸發條件，實際上是此卡攻擊時觸發，不需要自己的卡名也是跨金橋巨龍。所以當薩坎複製了跨金橋巨龍，但名稱是昂焰靈魂薩坎，薩坎攻擊時依然會生珍寶Token。
 
-![3](https://i.meee.com.tw/iQhdfku.png)
+![3](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/8f2229e14cdc.webp)
 > ● [昂焰靈魂薩坎](https://scryfall.com/card/tdc/301/sarkhan-soul-aflame)：
 > 每當一個龍在你的操控下進戰場時，你可以使昂焰靈魂薩坎成為前者的複製品直到回合結束，但它的名稱是昂焰靈魂薩坎，且額外是傳奇。
 > ● [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：
@@ -93,7 +93,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 - 201.4a 若效果被指示選擇一個具有指定特徵的牌名，該效果必須選擇其Oracle牌張敘述符合該特徵的牌之名稱。
 - MTR3.6 當玩家作出能唯一確定某張牌的描述（包括說出全部或部分名稱）時，便視為說出了該牌的名稱。若玩家或裁判覺得所說描述無法唯一確定牌張，便須請對方進一步說明。
 
-![4](https://i.meee.com.tw/AA7wlZN.png)
+![4](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/07919e08ff09.webp)
 > ● [魔石大腦](https://scryfall.com/card/bro/247/the-stone-brain)：
 > {二}，{橫置}，放逐魔石大腦：選擇一個牌名。從目標對手的墳墓場，手牌及牌庫中搜尋至多四張具該名稱的牌，並將它們放逐。該玩家洗牌，然後每以此法從其手上放逐一張牌，其便抽一張牌。只能於巫術時機起動。
 > ● [霧原霸主](https://scryfall.com/card/dsk/23/overlord-of-the-mistmoors)：
@@ -105,13 +105,13 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 {% folding blue :: 亂喊牌名範例 %}
 
-![青眼白龍](https://i.meee.com.tw/81ddvRJ.png)
+![青眼白龍](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/c116ee2c6d80.webp)
 > ● [惡魔協商](https://scryfall.com/card/ice/121/demonic-consultation)：
 > 選擇一個牌名。放逐你牌庫頂的六張牌。從你的牌庫頂開始展示牌，直到展示出一張具該名稱的牌為止。將該牌置於你手上，並放逐所有以此法展示的其他牌。
 
 {% endfolding %}
 
-![5](https://i.meee.com.tw/yBQOMpN.png)
+![5](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/a8b455b7f56b.webp)
 > ● [非瑞克西亞斷念妖](https://scryfall.com/card/clb/868/phyrexian-revoker)：
 > 於非瑞克西亞斷念妖進戰場時，選擇一個非地牌的名稱。
 具有該名稱之來源的起動式異能都不能起動。
@@ -152,9 +152,9 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 {% endfolding %}
 
-![CR201](https://i.meee.com.tw/Cv9CCCL.png)
+![CR201](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/e8ab0ab24585.webp)
 
-![6](https://i.meee.com.tw/p0Ol0vF.png)
+![6](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/9ca390bb91e8.webp)
 > ● [擾咒法師](https://scryfall.com/card/2xm/210/meddling-mage)：
 > 於擾咒法師進戰場時，選擇一個非地牌的名稱。
 > 不能施放具該名稱的咒語。
@@ -163,7 +163,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 熱火＆寒冰分別是兩個獨立的名稱，一隻擾咒法師只能宣言其中一個名稱，假設你宣言了熱火，那熱火那邊就不能施放了，不過寒冰依舊能正常施放。
 
-![7](https://i.meee.com.tw/z9zccNj.png)
+![7](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/f700b8b038cd.webp)
 > ● [故事結局](https://scryfall.com/card/woe/87/the-end)：
 > 放逐目標生物或鵬洛客。從其操控者的墳墓場、手牌及牌庫中搜尋任意數量與該永久物同名的牌，並將它們放逐。該玩家洗牌，然後每以此法從其手上放逐一張牌，其便抽一張牌。
 > ● [魯莽逐風客 / 風雷斬擊獸](https://scryfall.com/card/mid/157/reckless-stormseeker-storm-charged-slasher)：
@@ -171,7 +171,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 雙面牌的兩面有各自的名稱，假設你用故事結局放逐了風雷斬擊獸（背面），那麼這個效應檢查的就會是背面的牌名，然而雙面牌在手牌、牌庫、墳場時皆只具有正面特徵（名稱為魯莽逐風客），你找不到一張名稱為風雷斬擊獸的牌可以放逐。即使風雷斬擊獸這個名稱的牌在Oracle資料庫中是確實存在的。
 
-![8](https://i.meee.com.tw/m3vM5ks.png)
+![8](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/09580088161c.webp)
 > ● [擾咒法師](https://scryfall.com/card/2xm/210/meddling-mage)：
 > 於擾咒法師進戰場時，選擇一個非地牌的名稱。
 > 不能施放具該名稱的咒語。
@@ -184,7 +184,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 以碎骨巨人為例，它的歷險「一腳踩下」確實也被Oracle資料庫記錄在內，是個可以被擾咒法師宣言的名稱，但當你使用試煉才能反擊一腳踩下後，會發現不管在哪個區域都找不到名稱為一腳踩下的牌。
 
-![9](https://i.meee.com.tw/yUPnQ57.png)
+![9](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/d2190df850ad.webp)
 > ● [渦心鼓動](https://scryfall.com/card/fdn/661/maelstrom-pulse)：
 > 消滅目標非地永久物和所有與之同名的其他永久物。
 > ● [不潔別館//儀式會廳](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber)：
@@ -200,7 +200,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 所以假設你用渦心鼓動消滅了只解鎖左側的惡魔房間，只解鎖右側的惡魔房間不會有事，但兩側都解鎖的惡魔房間會一起被消滅。
 
-![10](https://i.meee.com.tw/8G8R789.png)
+![10](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/871e994c2d5a.webp)
 > ● [基定的干預](https://scryfall.com/card/akh/15/gideons-intervention)：
 > 於基定的干預進戰場時，選擇一個牌名。
 > 所有對手都不能施放具該名稱的咒語。
@@ -219,7 +219,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 - 111.4. 派出衍生物的咒語或異能設定其名稱和副類別。如果該咒語或異能並未指明該衍生物的名稱，則其名稱為其副類別加上「衍生物（Token）」一詞。一旦衍生物在戰場上，改變其名稱不會改變其副類別，反之亦然。
 
-![Token1](https://i.meee.com.tw/2lpx0Px.png)
+![Token1](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/46ed667e4152.webp)
 > ● [鑄石以告](https://scryfall.com/card/soi/12/declaration-in-stone)：
 > 選擇目標生物。放逐該生物和所有由它的操控者操控且與之同名的其他生物。每以此法放逐一個非衍生物的生物，該玩家便探查一次。
 > ● [縱身蹦躍](https://scryfall.com/card/blb/16/hop-to-it)：
@@ -227,11 +227,11 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 縱身蹦躍派出的三個Token，名稱都叫兔衍生物（Rabbit Token），因此可以被一張鑄石以告打包帶走。
 
-![Dragon Token](https://i.meee.com.tw/pXcm7AA.png)
+![Dragon Token](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/4599b403d70f.webp)
 
 至於上面各種龍Token，雖然攻防甚至異能都不一樣，但因為Token的命名規則只看副類別，所以它們的名稱都一樣叫「Dragon Token」，遇到[鑄石以告](https://scryfall.com/card/soi/12/declaration-in-stone)也是會一起不見的。
 
-![Token2](https://i.meee.com.tw/dB6mjQt.png)
+![Token2](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/9b099e18eec3.webp)
 > ● [渦心鼓動](https://scryfall.com/card/fdn/661/maelstrom-pulse)：
 > 消滅目標非地永久物和所有與之同名的其他永久物。
 > ● [築巢巨龍](https://scryfall.com/card/tdc/225/nesting-dragon)：
@@ -241,7 +241,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 築巢巨龍地落所派出的龍蛋Token，原文名稱為「Dragon Egg Token」，而龍卵的原文名稱為「Dragon Egg」，因為它們的名稱差了一個 **Token** ，所以依舊不是同名物件，使用渦心鼓動消滅龍蛋Token時，龍卵是不會被消滅的。
 
-![Token3](https://i.meee.com.tw/im5T8Wn.png)
+![Token3](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/356ae165799d.webp)
 > ● [渦心鼓動](https://scryfall.com/card/fdn/661/maelstrom-pulse)：
 > 消滅目標非地永久物和所有與之同名的其他永久物。
 > ● [林鼠群](https://scryfall.com/card/sld/35/pack-rat)：
@@ -249,7 +249,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 當派出Token的效應沒有指定名稱時，才會使用副類別當名稱，而複製效應會連同名稱一同複製，因此林鼠群使用自己的異能派出的複製品Token，其完整名稱依舊為「林鼠群」，使用渦心鼓動可以將本體與所有複製品一起打包帶走。
 
-![Token4](https://i.meee.com.tw/oWeRp0F.png)
+![Token4](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/9b111a601406.webp)
 > ● [符文光暈](https://scryfall.com/card/m21/32/runed-halo)：
 > 於符文光暈進戰場時，選擇一個牌名。
 > 你具有反該牌名保護異能。（你不能被該名稱的東西指定為目標、造成傷害或是結附。）
@@ -272,7 +272,7 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 - 201.2a 如果兩個或更多物件至少具有一個共通的名稱，則這些物件具有相同的名稱，即使其中的一個或數個物件具有額外的名稱。沒有名稱的物件不與任何其他物件具有相同的名稱，包括另一個沒有名稱的物件。
 
-![Manifest](https://i.meee.com.tw/aB09WRn.png)
+![Manifest](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/3e70e751c257.webp)
 > ● [渦心鼓動](https://scryfall.com/card/fdn/661/maelstrom-pulse)：
 > 消滅目標非地永久物和所有與之同名的其他永久物。
 > ● [瓦伽沃的猛攻](https://scryfall.com/card/dsk/204/valgavoths-onslaught)：
@@ -294,6 +294,6 @@ excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔�
 
 另外順便聊個親身經歷的，有關宣言牌名的對局小故事。某次打近代時，我玩的是使用[喬木妖精](https://scryfall.com/card/pw21/1/arbor-elf)+[理想境蔓生](https://scryfall.com/card/rvr/159/utopia-sprawl)Ramp套裝的套牌，備牌局對手先手一回拍[穿髓金針](https://scryfall.com/card/2x2/312/pithing-needle)，宣言了……[樹靈喬木](https://scryfall.com/card/tsr/277/dryad-arbor)。沒錯，對手把兩個「喬木」的牌名記反了，更尷尬的是我的套牌內還真的也有放[樹靈喬木](https://scryfall.com/card/tsr/277/dryad-arbor)，而且這是[金針](https://scryfall.com/card/2x2/312/pithing-needle)能合法宣言的牌名沒錯。
 
-![Final](https://i.meee.com.tw/XZ7n48G.png)
+![Final](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/6249f8510733.webp)
 
 這個故事發生在一個很輕鬆的店家周賽等級活動中，對手也是笑笑的認了，後續沒造成甚麼麻煩。當然這麼果斷清晰的講錯完整牌名是罕見特例，但對於卡名俗稱的理解不一造成裁判需要介入的誤會，是真實發生過的案例，所以在宣言卡名時，若有雙方理解產生歧義的疑慮時，還是記得要舉手叫裁判協助。

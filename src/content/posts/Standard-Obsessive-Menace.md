@@ -7,20 +7,20 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/kCKfo16.png"
-thumbnail: "https://i.meee.com.tw/kCKfo16.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/fec9b7130723-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/fec9b7130723-cover.jpg"
 excerpt: "你的堅持太讓人佩服了。要不要來我們報社上班？"
 ---
 
 ## 前言
 
-![](https://i.meee.com.tw/VtY0jW6.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/40095d50a579.webp)
 
 在最新標準系列《[降世神通](https://scryfall.com/sets/tla?as=grid&order=set)》中，四大神通各有對應的騰揚結界，唯獨沒有神通的黑色缺席。但這個循環真的缺了一角嗎？就像對應四神通王的[烈火王蘇進](https://scryfall.com/card/tla/117/the-rise-of-sozin-fire-lord-sozin?back)一樣，黑色也有對應的騰揚結界，只是不是運用自然元素的神通力，而是凡人的執念。至於這份執著是否有強大到足以跟四大神通對壘，就讓筆者來驗證看看。
 
 ## 單卡解析
 
-![](https://i.meee.com.tw/0K5g60c.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/5cb1f2e5525b.webp)
 >**偏執追擊**
 >**結界**
 >**當此結界進場或在你維持開始時，你失去一點生命且派出一個線索衍生物。（它是具有「{2}，犧牲此神器：抽一張牌。」的神器。）**
@@ -28,22 +28,22 @@ excerpt: "你的堅持太讓人佩服了。要不要來我們報社上班？"
 
 和持續累積探索指示物的神通騰揚不同，[偏執追擊](https://scryfall.com/card/tla/112/obsessive-pursuit)講求的是單一回合內的犧牲數量，並會源源不絕的提供可以犧牲抽牌的[線索](https://scryfall.com/card/ttla/18/clue)衍生物，如果犧牲到三個以上還會讓該生物獲得繫命，可說是兼顧手牌、生存能力與爆發力組合－前提是你有足夠的法力來連續犧牲。
 
-![](https://i.meee.com.tw/0MXtKm7.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/3d25ff0cbc90.webp)
 
 《[降世神通](https://scryfall.com/sets/tla?as=grid&order=set)》限制賽犧牲主題是放在黑白，標準內的黑白色組確實也有對應的主題可以打，只是單純套進去好像無趣了點，還有什麼可以大量派出衍生物犧牲的套路呢？剛好前陣子筆者有開發個合適的牌型。
 
-![](https://i.meee.com.tw/HxfNbQ3.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/19832b0beb00.webp)
 
 沒錯，就是我們慷慨的報社老闆——[J・喬納・詹姆森](https://scryfall.com/card/spm/81/j-jonah-jameson)與他的威懾記者們。每當你的威懾生物攻擊時，[詹姆森](https://scryfall.com/card/spm/81/j-jonah-jameson)就會為每個威懾攻擊生物支付工資——派出[珍寶](https://scryfall.com/card/tspm/7/treasure)給你，犧牲[珍寶](https://scryfall.com/card/tspm/7/treasure)不僅無需費用，還會倒過來給你一費，讓你支付犧牲[線索](https://scryfall.com/card/ttla/18/clue)的費用，或是把抽起來的手牌快速撒出去。牌表如下：
 
 [套牌列表](https://www.mtggoldfish.com/deck/7470148#paper)
-![](https://i.meee.com.tw/LgBvgvN.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/2692d99bb3e1.webp)
 
 關於這副套牌的基本架構，請參照前文[空洞威懾](https://guildmagesforum.tw/Standard-Void-Menace/
 )。原先的版本比較重視進攻與大費用挖墳，但在加入[偏執追擊](https://scryfall.com/card/tla/112/obsessive-pursuit)後，套牌構成勢必得增加犧牲的比重，所以在新版本中，移除了進攻傾向較強的生物選牌，投入死去送[線索](https://scryfall.com/card/ttla/18/clue)的一費威懾新牌[冷酷巡檢官](https://scryfall.com/card/tla/89/callous-inspector)，以及只要在你回合犧牲永久物，就會於回合結束時依照犧牲數量直擊任意目標的威懾殺人魔[鋸刃剝皮人](https://scryfall.com/card/dsk/231/sawblade-skinripper)。另外因為[偏執追擊](https://scryfall.com/card/tla/112/obsessive-pursuit)會持續扣血，犧牲三個以上永久物來獲得繫命的條件也有一定門檻，故二費曲線保留繫命生物[佚界軀殼僧](https://scryfall.com/card/fdn/611/nullpriest-of-oblivion)來提高玩家生存率。
 
-![](https://i.meee.com.tw/xLn86pX.png)
-![](https://i.meee.com.tw/KoiBtfZ.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/ffe6384a1b9a.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/678b03e02c88.webp)
 
 為了因應後[比比](https://scryfall.com/card/fin/248/vivi-ornitier)時代的新標準環境，去除、備牌、與套牌構成做了一定程度的調整，不過[偏執追擊](https://scryfall.com/card/tla/112/obsessive-pursuit)需要進攻來觸發，因此可以賦予敏捷威懾的結界[兇猛惡煞](https://scryfall.com/card/otj/123/ferocification)還是保留兩張。
 
@@ -55,6 +55,6 @@ Bo1的測試對局在上篇文章已經做過演示影片，這次就以對上�
 
 ## 結語
 
-![](https://i.meee.com.tw/jwXkRrS.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/f14686d6866d.webp)
 
 雖然威世智在《[降世神通](https://scryfall.com/sets/tla?as=grid&order=set)》上市前提早發布了[新禁牌表](https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025)，終結了[比比](https://scryfall.com/card/fin/248/vivi-ornitier)稱霸標準的時代，理論上接下來會有一段相對平和的時期，沒想到這麼快就有[獾地鼠幼獸](https://scryfall.com/card/tla/167/badgermole-cub)接手了，讓筆者不禁懷疑這提前禁牌的安排是不是故意的（笑）。究竟這次賽場環境能不能自我平衡呢？就讓我們拭目以待吧。

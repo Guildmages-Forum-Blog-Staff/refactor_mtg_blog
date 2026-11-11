@@ -16,7 +16,7 @@ authors:
 
 [牌表連結](https://www.mtggoldfish.com/deck/5827985#paper)
 
-![Golgari Obliterator](https://i.imgur.com/A8aeGxk.jpg)
+![Golgari Obliterator](https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/42ec20849184.webp)
 
 ---
 
@@ -38,7 +38,7 @@ authors:
 
 這是一套外掛著組合技性能的中速資源戰生物套，組合技的部分正如標題，透過[非瑞克西亞抹煞獸](https://scryfall.com/card/pone/105p/phyrexian-obliterator)與互鬥咒語的搭配，強制讓對手的來源對抹煞獸造成傷害，進而讓對手犧牲等量的永久物，由於這項異能寫的並非**非地永久物**而是僅寫**永久物**，因此對手的永久物不夠多時是要犧牲地的。
 
-![Obliterator Fight](https://i.imgur.com/Oi6STNn.jpg)
+![Obliterator Fight](https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/518f2cfa4974.webp)
 
 其中互鬥咒語的部分，標準內實用的選項有[野林開路](https://scryfall.com/card/bro/174/bushwhack)&[甩尾掃擊](https://scryfall.com/card/dmu/182/tail-swipe)，兩者各有優劣。野林開路可以找地避免成為死卡、提升套牌運作穩定性，但作為互鬥咒語巫術時機容易被回應，最糟的情況是對手回應去除一屍兩命。甩尾掃擊瞬間類別強化了作為去除的能力，主要階段施放+1/+1的能力也偶有奇效，可以達成強行開路或場面交換的能力，不過作為純粹的互鬥咒語也注定了卡手的高風險。經過至今的實驗，保持2:2的配率還是操作彈性最好的。
 
@@ -60,20 +60,20 @@ authors:
 
 ### 其餘單卡選擇
 
-![頑強敗犬&蘚木林恐懼騎士](https://i.imgur.com/pGEgCnn.jpg)
+![頑強敗犬&蘚木林恐懼騎士](https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/6f792c2b098d.webp)
 
 二費打點 : [頑強敗犬](https://scryfall.com/card/snc/97/tenacious-underdog)&[蘚木林恐懼騎士](https://scryfall.com/card/woe/231/mosswood-dreadknight-dread-whispers)
 
 在過去我是使用[頑強敗犬](https://scryfall.com/card/snc/97/tenacious-underdog)&[幫派劫庫械](https://scryfall.com/card/neo/255/reckoner-bankbuster)的配置，幫派劫庫械被禁後我也找不到滿意的2費主動選項，只能往更高費去找了，WOE補上了要資源有資源、要節奏有節奏的[蘚木林恐懼騎士](https://scryfall.com/card/woe/231/mosswood-dreadknight-dread-whispers)，我對這張新卡是非常看好的，只是這兩傢伙的賺牌都是透過賣血來實現的，在快節奏對局中要謹慎使用，過去哪怕是只有敗犬都常常是賣到死線的前一刻才停下來。 (就這點來看我還真有點懷念補血地了....)
 
-![戮日者格莉莎&墓地遊掠狼](https://i.imgur.com/USiboUB.jpg)
+![戮日者格莉莎&墓地遊掠狼](https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/2fddb4f4e896.webp)
 
 三費打點 : [戮日者格莉莎](https://scryfall.com/card/one/202/glissa-sunslayer)&[墓地遊掠狼](https://scryfall.com/card/vow/191/cemetery-prowler)
 
 [戮日者格莉莎](https://scryfall.com/card/one/202/glissa-sunslayer)相信不難理解，要不是她是傳奇我恨不得放滿4張，這裡重點提提[墓地遊掠狼](https://scryfall.com/card/vow/191/cemetery-prowler)。實際上單從剋墳穩定度或是賺血差的角度來看[墓地擅闖客](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)理應都是更好的選擇，更別提這套為了滿足抹煞獸的黑色費用導致綠色法力相對告急，實際上我在最初的測試時也是選用墓地擅闖客的，但在實測中發現墓地遊掠狼才是最符合我的需求的！ 首先因為投入了4張互鬥咒語，對我方生物的體質期望會高一點，其他3費曲線的3/3身材容易與
 [血稅收集官](https://scryfall.com/card/vow/232/bloodtithe-harvester)、[鑑屍客](https://scryfall.com/card/snc/178/corpse-appraiser)等生物同歸於盡，只能把[甩尾掃擊](https://scryfall.com/card/dmu/182/tail-swipe)在主階當巫術用才能強行解場，但多了一個3/4身材的選項後操作彈性就高許多了，另外墓地遊掠狼的減費效應其實非常實用，可以搭配[珠寶盜賊](https://scryfall.com/card/snc/151/jewel-thief)的珍寶瞬間用低費用做出大鋪場，或是幫助我減少[頑強敗犬](https://scryfall.com/card/snc/97/tenacious-underdog)的急襲費用，利用減費效應做出一回合雙急襲同時賺資源又搶節奏便是這套的經典場面。
 
-![二費去除](https://i.imgur.com/z84jSlc.jpg)
+![二費去除](https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/89d3500ec4b0.webp)
 
 二費去除 : [希歐蕊的勒令](https://scryfall.com/card/one/108/sheoldreds-edict)&[直刺咽喉](https://scryfall.com/card/bro/102/go-for-the-throat)&[撕成碎片](https://scryfall.com/card/dmu/183/tear-asunder)
 
@@ -89,7 +89,7 @@ authors:
 
 另外一張新卡是四費的[故事結局](https://scryfall.com/card/woe/87/the-end)，效果強力無庸置疑，但就是四費卡位容忍空間有限，並且高費區還有其他同樣難以割捨的單卡，因此決定先各入1，再根據標準環境更新後的實測去微調。
 
-![進軍依尼翠](https://i.imgur.com/7idkRsv.jpg)
+![進軍依尼翠](https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/d9393310845d.webp)
 
 這就是我為何沒法把故事結局放滿的原因，[進軍依尼翠](https://scryfall.com/card/mom/115/invasion-of-innistrad-deluge-of-the-dead)對我而言就是MOM系列的大禮，也是我覺得這個系列很被小看的一張牌，作為去除雖然效益不高但也還能接受，轉化後則是定場大炸彈，集剋墳與鋪場於一身，而且光是進場就先自帶兩個2/2殭屍，我在目前的對局測試中，只要成功轉化到通常就會成為直接致勝點，抹煞獸正好可以一拳打爆戰場，對面要擋抹煞獸代價非常沉痛，其餘的打手則是善用了攻擊近乎白嫖的特色，更有格莉莎這種對戰場[尋水獸](https://scryfall.com/card/eld/171/questing-beast)的存在，實際攻略難度並不高。我在原本的構築中是直接正編3張的，因為嘗試新卡的緣故先讓出卡位，但我猜很有可能最後又放回來了。另外進軍依尼翠也是這套失去[召現絕望](https://scryfall.com/card/neo/101/invoke-despair)後的靈魂繼承人。
 

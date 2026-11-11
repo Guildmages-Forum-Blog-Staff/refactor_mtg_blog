@@ -2,8 +2,8 @@
 
 title: "哩哩扣扣的賽前準備和MIT#8隨想"
 date: "2025-04-10 13:40:12"
-cover: "https://i.meee.com.tw/ceYbXI5.webp"
-thumbnail: "https://i.meee.com.tw/ceYbXI5.webp"
+cover: "https://images.guildmagesforum.tw/posts/MIT-8-Review/6d469969847a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT-8-Review/6d469969847a-cover.jpg"
 excerpt: "打造最強之矛 — 紅白能量之路"
 authors:
   - "Weihow"
@@ -24,7 +24,7 @@ categories:
 
 ## 一、賽場分析
 
-![](https://i.meee.com.tw/IVOnkyp.png)
+![](https://images.guildmagesforum.tw/posts/MIT-8-Review/5ac14d5b44ee.webp)
 
 在準備期間，我會主要觀察國外RC以及MTGO的動向。
 除了觀察國外RC的套牌分佈，我也會看從第一天到第二天的套牌轉換率（即套牌從第一天晉級到第二天的比例）。我覺得轉換率會比套牌分布更能反映當前Meta，而套牌轉換率較高的套牌將會是我會特別考慮的目標。
@@ -87,7 +87,7 @@ MTGO上面的League需要10 Tix（大約10美金）的報名費。若在五場�
 
 這次在比賽的時候也是一波三折。第一場輸給Blink，當時心情非常複雜，有一種努力了很久但事與願違的感覺。在第六場的時候輸給Boros Energy，我遺漏了一個攸關勝負的Trigger 且輸掉Win-and-in的關鍵對局，並陷入自責跟焦慮。第七場雖然順利拿下勝利，但是需要前面兩桌和局才有機會晉級。當下其實覺得自己機會渺茫，這次MIT#8大概就到這裡結束了。沒想到峰迴路轉，沒過多久便聽到郭老闆說已經有一桌和局，本來平靜的心情也開始進入緊張及期待交織的狀態。那時豬鼻子的mtg世界提議要不立個FLAG，進了就寫個Boros Energy的文章。最後竟然有兩桌和局（文章之力？！）讓我意外滑進八強。後來裁判開始唱名，確定叫到我之後，才真的相信自己進入了八強！
 
-![](https://i.meee.com.tw/4OvrDAM.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT-8-Review/ae6714135b4a.webp)
 
 > [cephille](/authors/cephille/)：等待八強名單公布時，我們一行人替他拍下了這張，別著「全村的希望」名牌（背後是魔鬼氈可隨貼隨拔，超方便！）的照片，當時他還笑不太出來XD 但很快他就笑得跟孩子一樣了！
 

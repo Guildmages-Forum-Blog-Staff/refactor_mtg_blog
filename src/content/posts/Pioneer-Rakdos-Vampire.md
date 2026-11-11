@@ -1,8 +1,8 @@
 ---
 title: "PT MKM上的紅黑吸血鬼探討"
 date: "2024-03-01 15:29:44"
-cover: "https://i.postimg.cc/76wnqf1y/WYdgQmG.jpg"
-thumbnail: "https://i.postimg.cc/76wnqf1y/WYdgQmG.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/9429ac09a859-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/9429ac09a859-cover.jpg"
 excerpt: "驕傲血領索霖：五年寒窗少人問，一朝成名天下知"
 categories:
   - "Construct"
@@ -17,7 +17,7 @@ authors:
 
 ChannelFireBall（CFB）上也有專文介紹：[連結](https://www.channelfireball.com/article/Seth-Manfield-Wins-Pro-Tour-Murders-at-Karlov-Manor/20f87fc7-d7d3-4312-888c-36e26bfcb9ce/)
 
-![](https://i.postimg.cc/VNPM1Bd5/cfb.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/c39d690f40a6.webp)
 
 上圖是ChannelFireBall（CFB）團隊本次出賽PT MKM截至Day 2的成績，非常的亮眼。而除了以下這三位不使用吸血鬼套牌外，其它12位選手都是使用吸血鬼出戰，其中[Paul Rietzl作為吸血鬼套牌的發想者則是以純黑吸血鬼](https://melee.gg/Decklist/View/371187)參賽。
 
@@ -38,11 +38,11 @@ ChannelFireBall（CFB）上也有專文介紹：[連結](https://www.channelfire
 
 [驕傲血領索霖](https://scryfall.com/card/m20/115/sorin-imperious-bloodlord)加上高費吸血鬼的Combo在先驅賽制於2019年秋季開始後，就一直有像我這樣的玩家在嘗試使用他，但這是一張需要搭配的單卡，主要便是利用索霖的 [-3]的忠誠異能來把高費強力的吸血鬼放進戰場。然而，受限於當時先驅初期的環境中並沒有太多強力吸血鬼下，這個combo對先驅賽場的衝擊並不顯著。但受益於環境中越印越強的生物，吸血鬼的強度也逐年上升；除了老牌子的[劫特叛徒卡力塔](https://scryfall.com/card/ogw/86/kalitas-traitor-of-ghet)之外，更有如[緋紅新娘奧莉薇亞](https://scryfall.com/card/vow/245/olivia-crimson-bride)、[收集魔尚奪爾勛爵](https://scryfall.com/card/snc/197/lord-xander-the-collector)等高費傳奇吸血鬼牌；而VOW的[奧莉薇亞的喜娘](https://scryfall.com/card/vow/172/olivias-attendants)搭配索霖第一招的 [+1] 後甚至可以做到死觸機關槍的效果 ~~（好吧，這三張牌都是我私心的置入）~~。MOM印出史上最大的吸血鬼恐龍[戈厄塔與馬仁](https://scryfall.com/card/mom/225/ghalta-and-mavren)後也吸引了吸血鬼粉絲們的開發，但四色甚至五色法力不穩定的老問題，還是讓這個組合技難以付諸實戰。
 
-![](https://i.postimg.cc/qBNbvDWb/vampires2.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/893eee479d71.webp)
 
 到了近期，LCI的[叛教幫傳教士](https://scryfall.com/card/lci/113/preacher-of-the-schism)、以及MKM的[血脈開膛手](https://scryfall.com/card/mkm/110/vein-ripper)被印出後，索霖combo終於迎接來他們出頭的日子。此外，[走私直升機](https://scryfall.com/card/nec/160/smugglers-copter)的解禁也讓套牌湊齊combo或關鍵解牌的穩定性更高，不再是只能依賴同樣也是三費的[破鏡奇譚](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki)的棄抽來找到必要元件；過去摸錯邊的貧弱體驗、以及長盤對局中缺乏手牌的調整能力的問題獲得了顯著的改善。
 
-![](https://i.postimg.cc/HnG2FBSB/Vampires.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/ab1d6c9be95f.webp)
 
 ## 紅黑吸血鬼與紅黑中速的異同
 
@@ -50,7 +50,7 @@ ChannelFireBall（CFB）上也有專文介紹：[連結](https://www.channelfire
 
 此外，關於加入索霖而讓三費曲線過於臃腫的說法，我個人認為是有影響但並不顯著，真正的差異還是在於有沒有帶[黑魔判](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse)，沒辦法她就是這麼強。 4 張索霖與 4 張碎骨巨人對換，雖然索霖必須要三費拍而無法像巨人做二費歷險，但這個影響是吸血鬼型必要的犧牲，而索霖登場的上限也遠比巨人高非常多，可以認為是追求上限而做出的改動；而 3 張墓地擅闖客則換成了 3 張叛教幫傳教士，傳教士在對陣絕大多數非墳場利用的套牌的表現更好，然而黑狼人較不怕殺、以及進場就能拉回血差的優勢則是這個選擇的取捨。
 
-![](https://i.postimg.cc/5Njykxws/rakdos-mid.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/897e2c169167.webp)
 
 ## 2024 PT MKM上的紅黑吸血鬼 - 以Seth Manfield的牌表為例
 
@@ -58,7 +58,7 @@ ChannelFireBall（CFB）上也有專文介紹：[連結](https://www.channelfire
 
 [牌表連結](https://melee.gg/Decklist/View/371211)
 
-![](https://i.postimg.cc/Nj3T1JnG/rakdos-vampires-seth.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/230b6a493f19.webp)
 
 1. **吸血鬼 + 索霖Combo**：高費吸血鬼加入了[血脈開膛手](https://scryfall.com/card/mkm/110/vein-ripper)作為超級難殺的[鮮血畫家](https://scryfall.com/card/avr/86/blood-artist)，不是傳奇的關係甚至可以作為翻面後破鏡奇譚複製的目標；三費則有攻擊後就開始賺牌的[叛教幫傳教士](https://scryfall.com/card/lci/113/preacher-of-the-schism)，二費曲線則只帶了 2 張[暮影軍團狂信者](https://scryfall.com/card/lcc/194/dusk-legion-zealot)潤滑曲線並作為索霖 [+1] 的肥料，以及原先的強力班底[血稅收集官](https://scryfall.com/card/vow/232/bloodtithe-harvester)，這13張牌再加上滿編的[易形地窖](https://scryfall.com/card/clb/903/mutavault)，一共17張的吸血鬼牌以及 4 張的索霖，佔據了套牌超過三分之一的牌。值得留意的是Seth把 1 張黑魔判放到主牌，這也顯示了他對這張牌的重視程度；
 2. 套牌構成必須的**地牌**們也占掉三分之一，其中包含了 3 張的[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)。
@@ -75,25 +75,25 @@ Seth的這個版本較其它版本主牌多了 1 張黑魔判以及 1 張逼從�
 
 ### Aggro Control：伊捷鳳凰
 
-![](https://i.postimg.cc/bN31X8NZ/03fade3b-6a49-4f71-8c7a-c71ef5674f08.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/95585656de1e.webp)
 
 這種aggro control的套牌，就取決於棄牌的干擾以及備牌帶上來的[虛空地脈](https://scryfall.com/card/m20/107/leyline-of-the-void)等牌來拖慢對手的計畫，而[滯阻法球](https://scryfall.com/card/dmr/219/damping-sphere)則會讓卡住無法即時處理的鳳凰套牌，使他們的咒語連鎖變得幾乎不可能。有趣的是，在現在鳳凰的構築中要處理[血脈開膛手](https://scryfall.com/card/mkm/110/vein-ripper)非常困難！主要是鳳凰生物本來就少難以支付守護費用外，能一張解掉開膛手的只有 4 張[閃電斧](https://scryfall.com/card/tsr/174/lightning-axe)，[暴烈衝動](https://scryfall.com/card/ori/145/fiery-impulse)則至少需要兩張，這代表你要有兩隻以上的生物來支付守護費用，我覺得機率很低。
 
 ### 傳統控制：如藍白控制、天光尼米捷
 
-![](https://i.postimg.cc/sXbsGMcM/bc718ec1-8aa8-4f8c-9baa-8b2835c8917c.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/eb52f5bec230.webp)
 
-![](https://i.postimg.cc/L5q7fvXS/43081610-1e56-476c-8ee1-1b46bc824e10.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/2209b4aacd98.webp)
 
 吸血鬼套牌中總共有 2 張 [魔眼暴君棲巢](https://scryfall.com/card/afr/258/hive-of-the-eye-tyrant)以及 4 張[易形地窖](https://scryfall.com/card/clb/903/mutavault)合計 6 張變身地，這會是我們對決控制重要的打點；此外點棄也扮演非常重要的角色，在這樣的對局中將棄牌捏住，留待我們要結算重要咒語時投石問路，或在對手有可能掃場的回合前再使用，來最大化點棄的價值。另外，[血脈開膛手](https://scryfall.com/card/mkm/110/vein-ripper)在對上藍白控制時基本上不吃對手的單體解牌，對手幾乎是沒有生物可以用來支付開膛手的守護費用！在能確認對手沒有掃場時成功結算開膛手可以協助你快速取勝。
 
 ### 組合技：蓮花田、Amalia Combo
 
-![](https://i.postimg.cc/kgHM8Yw1/e3dd287a-2ea0-4cb0-89af-3fa2f7a2c9bb.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/0268788e26cf.webp)
 
 劣勢對局。因為吸血鬼是一副贏得不夠快的套牌，即使你三回準時做索霖 + 血脈開膛手，對手也可能在那之前或輪到他時就拿下對局，你需要足夠多的干擾如更多的棄牌，以及備牌的[滯阻法球](https://scryfall.com/card/dmr/219/damping-sphere)來爭取時間；如果你的黑魔判能夠準時站在場上，那對手在使用[研讀書頁](https://scryfall.com/card/soi/79/pore-over-the-pages)來深掘套牌組件時就要付出很大的代價。拖慢你的對手讓你能比你的對手更快地獲勝，是你唯一拿下這個對局的機會。這從Seth的主牌以及備牌構築帶滿了逼從，同時把黑魔判放到主牌就可以看得出來；有興趣的人也可以回頭去看Seth八強以及四強戰對局蓮花田的操作，相信可以獲得更多心得。
 
-![](https://i.postimg.cc/8zMMnv3b/45268d88-8950-45a6-820a-8236b763ce85.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/45ebead90366.webp)
 
 > 可惜八強戰沒有看到吸血鬼大戰Amalia，但我們四強看到勇行跟Amalia BO5打到第七局才決勝也是值回票價XD
 
@@ -101,7 +101,7 @@ Amalia combo作為生物型組合技，相對於蓮花田我們可以互動的�
 
 ### 傳統中速：紅黑中速
 
-![](https://i.postimg.cc/26vs12XZ/d132de40-4903-4bf3-9fa3-333ffa9d6f48.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/9009a643a0cf.webp)
 
 這邊說的紅黑中速，指得就是傳統型不帶[烈陽總督因提](https://scryfall.com/card/lci/156/inti-seneschal-of-the-sun)以及直升機，改帶滿[幫派劫庫械](https://scryfall.com/card/neo/255/reckoner-bankbuster)的版本。以這個版本的紅黑中速，紅黑吸血鬼要能贏他的勝負關鍵應在於空戰而非陸戰，空中的走私直升機與索霖丟下的血脈開膛手，他們登場的時間越早則越有利，讓我們可以快速的壓低對手的血線來達成斬殺；對手逸脫回來的[冥魘泰坦克羅剎](https://scryfall.com/card/thb/221/kroxa-titan-of-deaths-hunger)以及黑魔判會是不小的困擾，因此我們重要的殺牌要保留給他們。要留意的是這個版本的紅黑帶了[召現絕望](https://scryfall.com/card/neo/101/invoke-despair)，並不一定需要支付大量代價才能解掉我們的索霖 + 開膛手，所以，當索霖combo沒有達成或是被解掉後，賺牌差的能力更強紅黑中速將在長盤對局占優，這對我們相當不利因此要盡可能的落入這樣的狀況。而對手也會有的攫取思緒與逼從，會是我們達陣索霖Combo的最大敵人，接起手時也要把這個問題考慮進去。
 
@@ -109,15 +109,15 @@ Amalia combo作為生物型組合技，相對於蓮花田我們可以互動的�
 
 ### 極限快攻：如紅白召集 & 紅藍神器緘靈 & 紅白勇行
 
-![](https://i.postimg.cc/Zqhfn4pJ/22220587-e8aa-4f09-b818-d5dfc99a3a94.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/52b6280ed260.webp)
 
 面對召集這樣的橫向鋪場加上巨量傷害取勝的套牌，備牌的[險峻路途](https://scryfall.com/card/vow/124/path-of-peril)有用但有時還是有點太慢了，你還需要足夠多的點殺與棄牌在前三回合阻止對手的展開，並盡快結算你的大吸血鬼；備牌的[劫特叛徒卡力塔](https://scryfall.com/card/ogw/86/kalitas-traitor-of-ghet)可以讓你的對局變得更容易一點，但對手也會有解牌而無法過度依賴。善用索霖的 [+1] 來讓你維持在安全血線是你撐到逆轉戰局時的必要操作。
 
-![](https://i.postimg.cc/LX9ZQbKt/c50df1ce-ce69-45b9-854e-fdf15ffc7504.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/225019f6038e.webp)
 
 而面對神器緘靈這樣以5點傷害為單位的套牌，由於對手有[玄鐵殿堂](https://scryfall.com/card/c21/285/darksteel-citadel) + [神器緘靈](https://scryfall.com/card/m15/54/ensoul-artifact)造出5/5不滅生物的手法，備牌的[面紗的莉蓮娜](https://scryfall.com/card/dmu/97/liliana-of-the-veil)的跳船效果可能有點太慢了，但沒有更好的解法可能還是得上。血量的部分如果掉到10點以下就要小心可能的[碎片衝擊](https://scryfall.com/card/ddu/48/shrapnel-blast)連發。
 
-![](https://i.postimg.cc/Jhh6wPLL/1e92777a-614f-45d2-8592-c5ad1a678172.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/b04e08fe6d4b.webp)
 
 至於紅白勇行，則小心的拿住點殺並用棄牌確認過手牌有無保護咒語就會很好打，反之就很危險。值得注意的是勇行現在帶滿[羅蘭的逃難](https://scryfall.com/card/bro/14/lorans-escape)會額外給不滅，備牌的[險峻路途](https://scryfall.com/card/vow/124/path-of-peril)使用時有可能無法達到預期的效果。
 

@@ -2,8 +2,8 @@
 
 title: "黑綠中速：不獾贏你"
 date: "2026-03-13 09:45:25"
-cover: "https://i.meee.com.tw/cmHR0D5.jpg"
-thumbnail: "https://i.meee.com.tw/cmHR0D5.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/668430e69d1c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/668430e69d1c-cover.jpg"
 excerpt: "你的報償邪術比我的爛。"
 authors:
   - "faintmama"
@@ -44,17 +44,17 @@ R7 Bant Omniscience（[Ho Zhi Mao](/authors/zhi-mao/)） LL
 
 盤對局記錄就不在本文贅述。若想了解，歡迎在閱讀本文後移步[至此](https://www.facebook.com/share/p/1HWVTLf24Y/)觀看 ~~但先看完這篇嘛~~ 。
 
-![](https://i.meee.com.tw/OB3RxfJ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/b5cf4dad18d9.webp)
 > 操作者[阿詹](/authors/ZHAN/)一度在第五輪時坐上焦點對局桌，和亞軍[世界の奇佑](/authors/Chiyou/)來了場壯烈對決。
 
-![](https://i.meee.com.tw/4HOfuFq.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/ae1fcc96c730.webp)
 >當天的牌組構築。若想了解筆者和[阿詹](/authors/ZHAN/)交換套牌的理由，歡迎閱讀完本文後參考[原因](https://www.facebook.com/share/p/1F8KgGoR9n/) ~~但先看完這篇嘛~~ 。
 
 然而賽後我們都有股未臻完美的感覺。筆者覺得是因為新系列[忍者龜（Teenage Mutant Ninja Turtles, TMT）](https://scryfall.com/sets/tmt)發行後，距離冠軍賽只有一週時間（這應該算是罕見的狀況），導致所有玩家在各面向都必須面臨時限壓力的挑戰，賽後自然會很赤裸地看見不足之處。
 
 也因此筆者賽後很快便調整出的新的版本。今天的構築分享主要會以 **新版** 為主，並聊聊經歷過冠軍賽的七輪洗禮後，為何會做出微幅調整。
 
-![](https://i.meee.com.tw/b2Fbkfk.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/b2fa48e55042.webp)
 >新版構築[在此](https://www.mtggoldfish.com/deck/7676183#paper)。
 
 ## 正編60張牌解析
@@ -164,8 +164,8 @@ R7 Bant Omniscience（[Ho Zhi Mao](/authors/zhi-mao/)） LL
 
 最後也附上筆者所寫的第十一輪冠軍賽版換備表，儘管和現版本共有五張牌的差異，但還是供有興趣的讀者參考看看吧 ~~雖然阿詹說他打得更偏強攻才不要全照我的換實在有夠白目屁孩~~ 。
 
-![](https://i.meee.com.tw/qlEWugZ.jpg)
-![](https://i.meee.com.tw/ZTVsyGV.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/0b18862039a5.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/4ebd03e57ea1.webp)
 >被[阿詹](/authors/ZHAN/)棄嫌的換備表，在此譴責他不知足惜福的態度。
 
 ## 結語

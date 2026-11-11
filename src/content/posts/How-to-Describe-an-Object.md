@@ -3,8 +3,8 @@ title: "如何描述一個物件？"
 date: "2023-11-30 23:48:43"
 categories:
   - "MTG Rules"
-cover: "https://i.imgur.com/rlgVpG8.jpg"
-thumbnail: "https://i.imgur.com/rlgVpG8.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/5533f87b0545-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/5533f87b0545-cover.jpg"
 excerpt: "詛咒圖騰像跟抑制力場，誰可以對忍術生效呢？"
 authors:
   - "JruMTG"
@@ -16,7 +16,7 @@ authors:
 [繁花龜](https://scryfall.com/card/woe/163/blossoming-tortoise)的地啟動費用減少異能對手牌中的[曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)是否有效？
 這些都取決於牌張是怎麼描述它所能影響的物件的，本期我們就來看看MTG是怎麼定義對物件的描述規則吧！
 
-![忍術](https://i.imgur.com/4wM5GqB.jpg)
+![忍術](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/69282f4f5c7e.webp)
 
 ---
 
@@ -33,7 +33,7 @@ authors:
 - 109.2c 如果咒語或異能使用「來源」一詞描述物件，它表示任何區域中符合該描述的來源，包括異能、傷害、或魔法力的來源。
 - 108.2b 衍生物並不是牌，就算使用與牌同樣大小的遊戲輔助用具來代表衍生物，它在規則上也不被當作牌。
 
-![名稱](https://i.imgur.com/uqztXor.jpg)
+![名稱](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/52adf4e44caa.webp)
 
 > **[再度起身](https://scryfall.com/card/m21/119/rise-again)** ：將目標**生物牌**從你的墳墓場移回戰場。
 > **[謀殺](https://scryfall.com/card/m20/109/murder)** ：消滅目標**生物**。
@@ -45,7 +45,7 @@ authors:
 
 ## 物件描述範例
 
-![繁花龜母聖樹](https://i.imgur.com/tKo2Dkr.jpg)
+![繁花龜母聖樹](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/24a95e5c6d54.webp)
 
 > **[繁花龜](https://scryfall.com/card/woe/163/blossoming-tortoise)** ：
 > 由你操控的地之起動式異能減少{1}來起動。
@@ -54,7 +54,7 @@ authors:
 
 繁花龜起動減費異能描述的對象是「地」，根據規則109.2，這代表牠僅能減少在戰場上的地的起動式異能費用，曆祚母聖樹的魂力是從手牌起動的異能，不在繁花龜的描述範圍內。
 
-![循環](https://i.imgur.com/k5kQt1V.jpg)
+![循環](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/e62b4dd0bc76.webp)
 
 > **[玄鐵殿堂](https://scryfall.com/card/2xm/315/darksteel-citadel)** ：神器地
 > **[重整地殼](https://scryfall.com/card/mh1/149/tectonic-reformation)** ：你手上的每張地牌均具有循環{R}。
@@ -62,7 +62,7 @@ authors:
 
 重整地殼的描述對象是「手上的地牌」，這會幫你手牌裡的地牌追加一條起動式異能；而集寶奧夫的封印起動能力描述對象是「神器」，同樣根據規則109.2，這代表集寶奧夫只管的到在場上的神器。如果你想透過重整地殼的能力從手牌循環掉玄鐵殿堂的話，集寶奧夫是無法阻止你的，玄鐵殿堂雖然是張神器牌沒錯，但只要不在場上就不受集寶奧夫影響。
 
-![和聲召集](https://i.imgur.com/L7Wq24s.jpg)
+![和聲召集](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/14fd3560f432.webp)
 
 > **[和聲召集](https://scryfall.com/card/2xm/158/chord-of-calling)** ：
 > 從你的牌庫中搜尋一張總魔法力值等於或小於X的生物牌，並將之放進戰場。
@@ -83,7 +83,7 @@ authors:
 
 說的簡略點，就是這些效應會用 **將存在於戰場上的特徵** 來決定如何進場，假設換成一般的生物牌那就是會被圍護僧侶放逐，但今天飢潮格蕊斯在場上時便不會額外具有生物類別，只是一個正常的旅法師，這代表圍護僧侶會檢查到將要進場的是一個非生物牌，這不在他的管轄範圍內，飢潮格蕊斯可以成功進場。
 
-![忍術](https://i.imgur.com/4wM5GqB.jpg)
+![忍術](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/69282f4f5c7e.webp)
 
 > **[詛咒圖騰像](https://scryfall.com/card/mh2/295/cursed-totem)** ：
 > 生物的起動式異能都不能起動。
@@ -96,7 +96,7 @@ authors:
 
 詛咒圖騰像的描述對象是「生物」，同樣代表它只對在戰場上的生物有影響，影響不到在手牌上的忍者生物牌。而抑制力場的寫法稍微特殊一點，它完全沒限定從哪個區域起動的起動式異能要增加費用，這實際上是代表著可以影響到任何區域的起動式異能，也就是說只要抑制力場在場上，虎影百合子不管是從手牌或指揮官區起動指揮官忍術，都需要額外付費才行。
 
-![惡人](https://i.imgur.com/9Aqm8ZG.jpg)
+![惡人](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/1de6cd550257.webp)
 
 > **[澄穹猗旺](https://scryfall.com/card/neo/2/ao-the-dawn-sky)** ：
 > 當澄穹猗旺死去時，觸發異能～（下略）
@@ -111,7 +111,7 @@ authors:
 
 道西虛空行者的「死去改為放逐」的替代性效應，實質上會替換掉整個死去的過程，在道西面前死的生物並不算死去，而是直接被放逐了，因此不滿足死亡異能的觸發條件。那麼那生物身上的靈氣呢？ 道西虛空行者的描述對象是「某牌」，也就是說不管類別通吃，假設今天是個一般的靈氣，那也同樣會從進墳改為放逐，但是上面規則108.2b說了「Token不是牌」，也就是說道西無法將惡人角色的進入墳墓場給替換掉，惡人角色會正常的進入墳場後因為Token狀態動作規則消失，並因為自己的進墳異能讓你失去1點生命。
 
-![來源](https://i.imgur.com/BD9Dk7B.jpg)
+![來源](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/baf26c0b383c.webp)
 
 > **[紡諧蛇人](https://scryfall.com/card/neo/213/weaver-of-harmony)** ：
 > 複製目標由你操控且來源為 **結界的起動式或觸發式異能** 。你可以為該複製品選擇新的目標。
@@ -124,7 +124,7 @@ authors:
 
 如果不清楚這些關於來源的具體描述用語長怎樣，上面三個範例正好分別對應了異能、傷害、魔法力的來源。
 
-![畫家石碾](https://i.imgur.com/dtEsqg8.jpg)
+![畫家石碾](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/b8bd67a93eea.webp)
 
 > **[畫家僕役](https://scryfall.com/card/p23/1/painters-servant)** ：
 > 於畫家僕役進場時，選擇一種顏色。

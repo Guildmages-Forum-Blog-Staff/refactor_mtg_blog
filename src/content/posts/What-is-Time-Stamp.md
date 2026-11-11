@@ -3,8 +3,8 @@ title: "什麼是時間印記"
 date: "2024-03-23 13:25:27"
 categories:
   - "MTG Rules"
-cover: "https://i.postimg.cc/pxbqm3Mb/Diminish.jpg"
-thumbnail: "https://i.postimg.cc/pxbqm3Mb/Diminish.jpg"
+cover: "https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/86567de5401c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/86567de5401c-cover.jpg"
 authors:
   - "JruMTG"
 excerpt: "十會盟地脈 vs 腥紅之月，誰勝誰負？"
@@ -16,7 +16,7 @@ excerpt: "十會盟地脈 vs 腥紅之月，誰勝誰負？"
 
 這篇之所以會拖這麼久才出，除了近期很忙與中間被新系列相關文章卡了點時間外，主要還是在糾結該如何介紹時間印記，與之前比較容易獨立介紹的[可複製特徵](https://guildmagesforum.tw/What-is-Copiable-Value/)&[特徵定義異能](https://guildmagesforum.tw/Characteristic-Defining-Ability/)不同，時間印記本身就是高度依賴於Layer系統的規則，因此從本篇開始我們就要初步引用Layer規則了。
 
-![封面](https://i.postimg.cc/ZZDsccht/image.png)
+![封面](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/b06ec6e16e91.webp)
 
 ---
 
@@ -81,7 +81,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 ## 時間印記規則案例
 
-![1](https://i.imgur.com/vLfGJJa.jpg)
+![1](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/737932f2b792.webp)
 
 > [縮小](https://scryfall.com/card/ima/50/diminish)：目標生物的基礎力量與防禦力為1/1直到回合結束。
 > [四方陣勢](https://scryfall.com/card/stx/238/square-up)：目標生物的基礎力量與防禦力為4/4直到回合結束。
@@ -95,7 +95,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 - 613.7b
   一個由咒語或異能結算所產生的持續性效應在其被創造時得到時間印記。
 
-![2](https://i.imgur.com/ZyiHF8r.jpg)
+![2](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/ea69883379e3.webp)
 
 > [敬畏神性](https://scryfall.com/card/shm/142/godhead-of-awe)：其他生物的基礎力量與防禦力為1/1。
 > [四方陣勢](https://scryfall.com/card/stx/238/square-up)：目標生物的基礎力量與防禦力為4/4直到回合結束。
@@ -109,7 +109,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 - 613.7d
   一個物件會在進入一個區域時得到時間印記。
 
-![手牌上限](https://i.imgur.com/NWdcgE6.jpg)
+![手牌上限](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/d17ec1a77624.webp)
 
 > [水面院卷軸護衛](https://scryfall.com/card/cns/101/minamo-scrollkeeper)：你的手牌上限增加一張。
 > [回收](https://scryfall.com/card/tpr/189/recycle)：你的手牌上限是兩張。
@@ -122,7 +122,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 簡單的說就是如果他們一起進場，由你自行決定這些物件的時間印記順序為何。
 
-![巨鎚](https://i.imgur.com/sWTLFGw.jpg)
+![巨鎚](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/f42db7a8c2a7.webp)
 
 > [巨鎚](https://scryfall.com/card/afc/202/colossus-hammer)：佩帶此武具的生物得+10/+10且失去飛行異能。
 > [翔空符文](https://scryfall.com/card/khm/75/rune-of-flight)：只要所結附的永久物是武具，它便具有「佩帶此武具的生物具有飛行異能。」
@@ -136,7 +136,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 - 613.7a
   一個由靜止式異能產生的持續性效應的時間印記為，該靜止式異能所在的物件具有的時間印記，或創造該異能的效應具有的時間印記，兩者中較晚的一個。如果創造該異能的效應具有較晚的時間印記，且該異能所處的物件獲得新的時間印記，該物件的靜止式異能所產生的每個持續性效應亦獲得一個新的時間印記，但這些時間印記之間的相對順序保持不變。
 
-![戈垂克](https://i.imgur.com/6mkWyXg.jpg)
+![戈垂克](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/7081f0c891c9.webp)
 
 > [華袍狂歡客戈垂克](https://scryfall.com/card/woe/132/goddric-cloaked-reveler)：歡慶～只要本回合中有兩個或更多非地永久物在你的操控下進戰場，華袍狂歡客戈垂克便是基礎力量與防禦力為4/4的龍，且具有飛行與「{紅}：由你操控的龍得+1/+0直到回合結束。」
 > [倒楣鬼角色（靈氣衍生物）](https://scryfall.com/card/twoe/17/wicked-cursed)：所結附的生物是1/1。
@@ -156,7 +156,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 也就是說戈垂克歡慶異能的時間印記等於戈垂克進場的時間，而倒楣鬼角色貼附於生物上的時間印記，肯定是晚於生物自己進場的時間印記，因此最後戈垂克不管有沒有歡慶，都會是個基礎力量/防禦力為1/1的生物。
 
-![天地回轉](https://i.postimg.cc/FNfyqVy2/image.png)
+![天地回轉](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/3d5534502b4b.webp)
 
 > [天地回轉](https://scryfall.com/card/eve/155/invert-the-skies)：如果使用天地回轉時支付了{G}，則由對手操控的生物失去飛行異能直到回合結束；如果使用它時支付了{U}，則由你操控的生物獲得飛行異能直到回合結束。（如果支付了{G}{U}，則兩者都作。）
 > [龍怒通念師](https://scryfall.com/card/mh2/121/dragons-rage-channeler)：躁狂～只要你墳墓場中牌的牌張類別有四種或更多，龍怒通念師便得+2/+2，具飛行異能。
@@ -168,7 +168,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 那如果把對手受影響的物件改成幻日二號呢？ 其實仔細看看天地回轉的適用條件，它只影響對手的生物，如果天地回轉結算時幻日二號還沒成為生物，那就完全不受天地回轉影響，而天地回轉結算時如果幻日二號已經是生物了，那就照一般有飛行異能的生物處理就好。
 
-![血月](https://i.postimg.cc/mBHPGXPW/image.png)
+![血月](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/45add7941519.webp)
 
 > [因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)：一個非基本地。
 > [海域蔓延](https://scryfall.com/card/zen/70/spreading-seas)：所結附的地是海島。
@@ -184,7 +184,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 >
 > 關聯文章：[克撒傳怎麼自爆了](https://guildmagesforum.tw/Saga-and-Moon/)
 
-![血月](https://i.postimg.cc/fZkNdGKY/image.png)
+![血月](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/c4dcc34cab03.webp)
 
 > [十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)&[依呂夏林地樹靈](https://scryfall.com/card/thb/169/dryad-of-the-ilysian-grove)：由你操控的地均額外具有所有基本地類別。
 > [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)：非基本地都是山脈。
@@ -195,7 +195,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 首先腥紅之月影響不到基本地，因此基本地就是單純的額外具有所有基本地類別。那麼對於非基本地來說，這兩個效應同時想要改變類別，這時一樣是比時間印記，不過要注意的是，無論十會盟地脈跟腥紅之月的生效順序為何，都會導致你的非基本地失去原本的類別與異能（因為腥紅之月的影響）。
 
-![艾夫](https://i.imgur.com/Uokp1C0.jpg)
+![艾夫](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/bb40b852b936.webp)
 
 > [流漿先祖艾夫](https://scryfall.com/card/mh2/148/aeve-progenitor-ooze)：風暴（當施放此咒語時，本回合於它之前每施放過一個咒語，便將此咒語複製一次。複製品會成為衍生物。）
 > 如果流漿先祖艾夫是衍生物，則它不是傳奇。
@@ -203,7 +203,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 流漿先祖艾夫的Token使自己不是傳奇的異能，其時間印記等同它的進場時間，當場上同時有複數個流漿先祖艾夫oken與非凡地脈時，這些Token是不是傳奇取決於兩者的時間印記，如果艾夫Token先在場，非凡地脈後進場，在非凡地脈進場的瞬間，艾夫Token將會成為傳奇，並且適用傳奇規則。
 
-![影矛](https://i.imgur.com/7T2hjnV.jpg)
+![影矛](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/fc607a4d6a11.webp)
 
 > [蔽影矛](https://scryfall.com/card/thb/236/shadowspear)：佩帶此武具的生物得+1/+1且具有踐踏與繫命異能。
 > [褪除武裝](https://scryfall.com/card/mh2/39/dress-down)：生物均失去所有異能。
@@ -217,7 +217,7 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 - 613.7e
   每當一個靈氣、武具貼附於一個物件或玩家上時，該靈氣、武具得到新的時間印記。
 
-![鍋子1](https://i.imgur.com/CxOkdqR.jpg)
+![鍋子1](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/8eeb41956f30.webp)
 
 > [阿加莎的靈魂鼎鑊](https://scryfall.com/card/woe/242/agathas-soul-cauldron)：對由你操控且其上有+1/+1指示物的生物而言，它們具有所有以阿加莎的靈魂鼎鑊放逐之生物牌的所有起動式異能。
 > {橫置}：將目標牌從墳墓場放逐。當以此法放逐一張生物牌時，在目標由你操控的生物上放置一個+1/+1指示物。
@@ -251,4 +251,4 @@ Layer是用來描述一個物件的構成要素的，Layer嚴謹的將一個物�
 
 就筆者主觀排行來看，從屬關係會是Layer中最難的一環，甚至在筆者準備的所有範例資料庫中，最困難的一題就會在下期出現，還請各位讀者拭目以待。
 
-![Next](https://i.imgur.com/U2woWJO.jpg)
+![Next](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/ab02fadbb8c0.webp)

@@ -1,8 +1,8 @@
 ---
 date: 2023-10-02 23:54:20
 title: "標準藍白士兵的流變與展望"
-cover: "https://i.imgur.com/oPBzlrf.png"
-thumbnail: "https://i.imgur.com/oPBzlrf.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-UW-Solider/f3b78e10cf90-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-UW-Solider/f3b78e10cf90-cover.jpg"
 excerpt: "WOE發售後，藍白士兵雖然沒有獲得太多的補強，但在剛結束的世冠賽還是有一副能取得第三名的好成績，想知道更多關於這副套牌的know-how的話就點進來看看吧！"
 categories:
   - "Construct"
@@ -15,7 +15,7 @@ authors:
 
 在2023年三月第二季MIT的標準賽落幕我看到冠軍林承翰在臉書上的[鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689)粉專貼出的[藍白士兵心路歷程](https://www.facebook.com/permalink.php?story_fbid=pfbid02m9mJC4oy9RGqtnPnEbXLTNBnr7WKHdC5mjxNoZkvCzQuRnZ5egYx5pR6b5Sg4uSMl&id=100063848411689)深受啟發，有興趣的人也非常歡迎回頭去看看這一篇，其中關於套牌構築的思辨以及對單卡的理解基本上到現在也同樣適用；從那之後我標準主要就打藍白士兵直到現在也有半年的時間。
 
-![](https://i.imgur.com/24VHjeZ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/41411959bcfb.webp)
 
 而在這個過程中，我持續的認為藍白士兵是一副兼具節奏、鋪場、以及打回後手劣勢的優秀套牌。基本上藍白士兵對決任何的中速套牌除了2023年標準賽制禁牌前擁有[破鏡奇譚](https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103)與[幫派劫庫械](https://cards.scryfall.io/large/front/a/c/acf3f766-f92a-4975-a56d-3647d2f30e7b.jpg?1645490223)的格利極中速，絕大多數包括WOE更新後的中速套牌都是相對好的對局，尤其是在打Domain體系的套牌更是如此。
 
@@ -31,19 +31,19 @@ authors:
 
 [**鋪場型藍白士兵構築牌表**](https://www.mtggoldfish.com/deck/5870836#paper)
 
-![](https://i.imgur.com/7MG1kIr.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/aa122e96dbe9.webp)
 
 [**節奏型藍白士兵構築牌表**](https://www.mtggoldfish.com/deck/5868666#paper)
 
-![](https://i.imgur.com/cvj6FOu.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/55f73b304653.webp)
 
 ### 藍白士兵主結構
 
-![](https://i.imgur.com/ufgbLc6.png)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/783df5a27be5.webp)
 
 兩種滿編的一費士兵，[募兵官](https://cards.scryfall.io/large/front/c/2/c226656b-68d5-4df2-b313-a323a728c520.jpg?1674420296)是2/1中後期還可以賺資源；[佑天前線兵](https://cards.scryfall.io/large/front/b/f/bfa05d1e-6728-4e77-bfb2-da0b9598e44b.jpg?1674420445)則是我實測過覺得很有必要的，不然只有四張一費曲線很容易在前期沒辦法建立較具侵略性的場面，被中速拖到就很難贏了。佑天前線兵打出去可以讓另一隻生物+1/+1雖然是很微小的優勢，但在進攻時往往可以逼對手去做交換或擋不住變大後的生物而被多偷到傷害。而[堅定援兵](https://cards.scryfall.io/large/front/3/e/3e11ad33-b9d7-43ef-840a-61955683b599.jpg?1673306545)閃現一帶二的妙處多多，接下來會再多做說明，也是鋪場流士兵的核心；最後是士兵領主[英勇老兵](https://cards.scryfall.io/large/front/1/8/18b1a4ee-437f-4a08-b176-8342d526143f.jpg?1673306622)，這是一張奠定藍白士兵從fun deck變成可以打的主流套牌的質變單卡，種族加成也可以讓像堅定援兵這種一帶二的牌變得更好。
 
-![](https://i.imgur.com/j4dCwSf.png)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/1553750e2419.webp)
 
 再來就是[飛行先鋒哈賓](https://cards.scryfall.io/large/front/4/b/4b88be69-3201-4345-a193-cc21bd066d15.jpg?1674421784)，基本上哈賓配上堅定援兵一跳二對手如果沒有及時的去除很快就會面臨起飛的士兵大軍壓境；我覺得哈賓在某方面補足了第二組二費士兵領主的空缺，這也讓士兵的主題更加完整，而給的是+1/+1飛行則更加致命。然而雖然哈賓的攻擊火力強大，但也吃任何常見的低費去除，所以適度的護航是有其必要性的。
 
@@ -61,7 +61,7 @@ authors:
 
 ### 其他三費曲線與活動卡位
 
-![](https://i.imgur.com/BL7Vf1A.png)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/7c6bfcf0c4d7.webp)
 
 節奏型的士兵選擇了[護教蠻兵](https://cards.scryfall.io/large/front/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1634347036)與[繫靈機體](https://cards.scryfall.io/large/front/2/8/28273a5b-57b3-4b7a-b017-5886c171c9c9.jpg?1654566784)。蠻兵與載具是兩種相反的功用，蠻兵進場壓一隻生物較適合進攻向的打法，若在防守時用來壓掉對手一個生物後中了對手的解牌在節奏上是很虧的；而機體則較適合防守向的打法，最好的搭載來源就是領主，可以瞬間做出兩支領主在場非常厲害，但其他的生物就比較不特別，這副套牌也沒有放帶攻擊觸發的效果的生物，我個人感覺節奏型選擇帶3張載具並沒有非常好，有一點win more的感覺。
 
@@ -69,23 +69,23 @@ authors:
 
 ### 康牌的選擇
 
-![](https://i.imgur.com/R0YkaNY.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/b95e13a437b7.webp)
 
 節奏型會帶較多的[保護來使](https://cards.scryfall.io/large/front/b/b/bb6db604-8bbe-4719-88bd-f3cad8c4725d.jpg?1673306820)，多了一張[點破咒語](https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403)；而鋪場型則會帶滿[人間消失](https://cards.scryfall.io/large/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1664410347)而把保護來使放到備牌。人間消失基本上可以扛住對手試圖結算的中高費咒語，而保護來使則會在場優時或恰好的時機下可以做出生士兵 + 反擊咒語。點破咒語則是一張很陰的牌，可以在對手疏忽時澆熄他試圖結算重要咒語的希望；但是，點破在打士兵的劣勢對局紅快與艾斯波傳奇是一張非常差的牌，而基本上它嚇阻的效力可能會比實際用出來還強，除非是參加MIT或RCQ這類公開牌表的比賽，不然我個人不會在士兵套牌中使用點破。
 
 ### 地牌的配置
 
-![](https://i.imgur.com/KU3Pjvx.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/8a2922a08d3c.webp)
 
 三回合前能夠產藍白雙色且站著進場的地牌都必須帶滿，藍白士兵是非常追求節奏的套牌，你不會希望任何一張地牌在前三回合會卡住你的展開。
 
-![](https://i.imgur.com/xvlF0S7.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/6f02852bd4f8.webp)
 
 有趣的是，鋪場型的構築帶了兩張[荒廢沙灘](https://cards.scryfall.io/large/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1655879794)而在節奏型中卻是完全不帶慢地而帶滿了[隱僻庭院](https://cards.scryfall.io/large/front/c/b/cb0da3a5-12fb-4ff0-9894-fdabdfa4d860.jpg?1690006540)；此外，這兩種構築只有鋪場型使用了一張[秘羅荒境](https://cards.scryfall.io/large/front/5/4/54a702cd-ca49-4570-b47e-8b090452a3c3.jpg?1675957271)來搭配備牌的[托卡西雅的款待](https://cards.scryfall.io/large/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1674420350)。
 
 > 然而，就我個人認為帶滿四張隱僻庭院是完全錯誤的，當我有一次手中握著康牌但場上只有庭院跟平原時，我就非常後悔沒有更多可以「正常」產藍的地牌。
 
-![](https://i.imgur.com/V5AJUaJ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/469ace997b88.webp)
 
 在標準的環境中，用一張魂力地取代掉基本地牌的成本極低，而在中後期抽到也可以做為額外且幾乎無法被反擊（[復生的爾泰](https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944)以外）的招來對應場面，投報率相當好。而考慮到標準環境內還是有[戰場遺跡](https://cards.scryfall.io/large/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.jpg?1637114800)以及[頹垣廢址](https://cards.scryfall.io/large/front/d/9/d9c88546-13c9-4d7e-a618-cb2ccd1dbc0f.jpg?1674422181)這兩種可以消滅非基本地的牌，雙色的基本地牌還是有其必要性。由於主牌以及備牌中白色法術力相對吃重，平原會帶到三至四張；而海島作為康牌啟動的重要法術力則至少需要帶一至二張。
 
@@ -93,7 +93,7 @@ authors:
 
 [**牌表連結**](https://www.mtggoldfish.com/archetype/standard-azorius-soldiers-mid#paper)
 
-![](https://i.imgur.com/1pQTNpU.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/5a5866211d91.webp)
 
 介紹完藍白士兵前一版的兩種類型後，來說說這周末最新出爐，由Simon Nielson在第29屆世冠賽（MAGIC WORLD CHAMPIONSHIP XXIX）取得第三名好成績的藍白士兵吧！Simon的這一版巧妙了結合前面說到的藍白士兵的鋪場型以及節奏型的組法，而且更融合了兩邊最強、並捨棄了過於笨重或搭配不佳的部分：
 
@@ -122,7 +122,7 @@ authors:
 
 [**我的藍白士兵構築**](https://www.mtggoldfish.com/deck/5884896)
 
-![](https://i.imgur.com/ksQ3ioE.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/1a02df56c04e.webp)
 
 而備牌的部分因為目前meta剛改變，我還是維持Simon版同樣的備牌，而三張保護來使移到主牌後挪出來的空間，考慮到目前黑白美德以及[地脈束縛](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500)的高使用率，備牌我會補上三張[護教軍突擊兵](https://cards.scryfall.io/large/front/9/8/98cbc1c2-b76e-4da3-aa43-00e10b2ce532.jpg?1634346664)來增加應對這些結界的方法，而同時這也可以讓我有更多的二費閃現生物，在進攻與阻擋可以變得更加靈活。
 

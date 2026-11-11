@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/0PYLB5a.png"
-thumbnail: "https://i.meee.com.tw/0PYLB5a.png"
+cover: "https://images.guildmagesforum.tw/posts/How-Phasing-Works/81fff9652533-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Phasing-Works/81fff9652533-cover.jpg"
 excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 ---
 
@@ -15,7 +15,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 **躍離（Phases Out）** 在MTG歷史中是一個元祖級別的機制，但因為其複雜的運作規則，容易在遊戲中產生令人疑惑的情境，因此官方曾一度決定放棄這個機制，改用其他運作更直觀的寫法來執行讓永久物暫時從場上消失的效果。自1997年的[晴空號傳說](https://scryfall.com/sets/wth)系列後，躍離陷入了近20年的沉寂，下一次登場是 Commander 2017 的[泰菲力的庇護](https://scryfall.com/card/2x2/32/teferis-protection)，不過指揮官產品在設計上本來就比較放得開，畢竟不會影響官方常規的競爭賽制，對機制複雜性的接受度也相對高。真正開創躍離新時代的則是核心系列2021中登場的[弄時宗師泰菲力](https://scryfall.com/card/m21/75/teferi-master-of-time)，這意味著躍離重新進入標準系列的設計選項之中，當然，一同回歸大眾視野的還有躍離那堆反直覺的規則問題，這次我們就來看看躍離究竟是怎麼一回事？
 
-![躍離](https://i.meee.com.tw/Ey9kEOr.png)
+![躍離](https://images.guildmagesforum.tw/posts/How-Phasing-Works/b68b59b1f079.webp)
 
 ---
 
@@ -44,7 +44,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 
 
-![基本規則](https://i.meee.com.tw/ixOTkL2.png)
+![基本規則](https://images.guildmagesforum.tw/posts/How-Phasing-Works/0ec3dabf4d95.webp)
 >[裂地泰坦](https://scryfall.com/card/2xm/292/sundering-titan)：當裂地泰坦進戰場或離開戰場時，為每種基本地類別各選擇一個地，然後消滅這些地。
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
 
@@ -77,7 +77,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 
 
-![晝夜](https://i.meee.com.tw/Wd17csg.png)
+![晝夜](https://images.guildmagesforum.tw/posts/How-Phasing-Works/5923faf4cc12.webp)
 >[護教蠻兵](https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute)：當此生物進戰場或轉化為護教蠻兵時，放逐目標由對手操控的生物，直到此生物離開戰場為止。晝形。
 >[月怒蠻狼](https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute?back)：夜形。（護教蠻兵的背面）
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
@@ -95,7 +95,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 不過時間跳躍是個非常冷門的機制，今後估計也不會再出現了，反倒是作為底層系統的躍離在之後被玩出各種新應用，所以這裡也沒打算介紹時間跳躍太多，讓我們簡單看看它有甚麼規則就好。
 
 
-![Phasing](https://i.meee.com.tw/fKT7gEe.png)
+![Phasing](https://images.guildmagesforum.tw/posts/How-Phasing-Works/67ac441bc44f.webp)
 
 - 702.26a 時間跳躍屬於靜止式異能，會影響重置步驟的規則。在每位玩家的重置步驟中，主動玩家重置其永久物之前，由該玩家操控、且具時間跳躍異能的所有已躍回永久物「躍離」。同時，所有於躍離時由該玩家操控的所有已躍離永久物「躍回」。
 - 702.26m 如果一個效應使玩家略過其重置步驟，則該回合中不會發生時間跳躍事件。
@@ -114,7 +114,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 >PS：[工事（Fortification）](https://scryfall.com/search?as=grid&order=name&q=type%3Afortification+%28game%3Apaper%29)是個極其冷門的副類別，基本上可無視。
 
-![靈氣](https://i.meee.com.tw/jbalJj0.png)
+![靈氣](https://images.guildmagesforum.tw/posts/How-Phasing-Works/774b17848542.webp)
 >[帝皇玉音輕腳](https://scryfall.com/card/neo/25/light-paws-emperors-voice)：被靈氣結附的生物。
 >[堅韌符文](https://scryfall.com/card/khm/25/rune-of-sustenance)：只要所結附的永久物是生物，它便具有繫命異能。（以下簡稱白符文）
 >[幽魂仇敵](https://scryfall.com/card/mid/77/spectral-adversary)：當幽魂仇敵進戰場時，你可以支付{1}{U}任意次數。當你支付此費用一次或數次時，根據該數量在幽魂仇敵上放置等量的+1/+1指示物，然後至多等量的其他目標神器，生物和／或結界躍離。
@@ -134,7 +134,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 接著讓我們開始進入今天的重頭戲，廢話不多說我們直接上範例：
 
-![一次性效應](https://i.meee.com.tw/Tdqe1Mm.png)
+![一次性效應](https://images.guildmagesforum.tw/posts/How-Phasing-Works/78f7bd379a59.webp)
 >[逐令僧侶](https://scryfall.com/card/j25/169/banisher-priest)：當逐令僧侶進戰場時，放逐目標由對手操控的生物，直到逐令僧侶離開戰場為止。
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
 
@@ -158,7 +158,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 理解了上面一次性效應範例的解說後，再讓我們看看另一個看似流程一樣，實則截然不同的情境：
 
-![持續性效應](https://i.meee.com.tw/otmYwEP.png)
+![持續性效應](https://images.guildmagesforum.tw/posts/How-Phasing-Works/624f9676ec3a.webp)
 >[尋路爛寶](https://scryfall.com/card/dft/212/loot-the-pathfinder)：一個有起動式異能的生物。
 >[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)：當提莎娜的縛潮師進戰場時，反擊至多一個目標起動式或觸發式異能。如果以此法反擊神器、生物或鵬洛客的異能，則於提莎娜的縛潮師仍在戰場上的時段內，該永久物失去所有異能。（以下簡稱人魚）
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
@@ -196,7 +196,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 
 
-![叛行](https://i.meee.com.tw/mEQL4M7.png)
+![叛行](https://images.guildmagesforum.tw/posts/How-Phasing-Works/762f23eb4bad.webp)
 >[叛行](https://scryfall.com/card/m20/124/act-of-treason)：獲得目標生物的操控權直到回合結束。重置該生物。它獲得敏捷異能直到回合結束。
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
 
@@ -220,7 +220,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 - 610.4. 一些一次性效應使得一個永久物躍離「直到」某個特定事件發生。在該事件發生後，另一個一次性效應立即被創造。後者效應使得此永久物躍回。
 - 610.4a 以此法躍離的永久物不因玩家重置步驟（參見規則502.1）中的回合動作之故而躍回。其他效應仍然可能使得其躍回。如果以此法躍離的永久物因另一個效應之故而躍回，上述後者一次性動作不會發生，即使該永久物再次躍離。
 
-![指揮官](https://i.meee.com.tw/YVeK4qI.png)
+![指揮官](https://images.guildmagesforum.tw/posts/How-Phasing-Works/33628de412e3.webp)
 >[虎影百合子](https://scryfall.com/card/cmm/364/yuriko-the-tigers-shadow)：對手的指揮官。
 >[密牢囚禁](https://scryfall.com/card/2xm/100/oubliette)：當密牢囚禁進戰場時，目標生物躍離，直到密牢囚禁離開戰場。於該生物以此法躍回時，將它橫置。 
 
@@ -230,7 +230,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 關於[密牢囚禁](https://scryfall.com/card/2xm/100/oubliette)還有個有趣的歷史故事，這張卡誕生於[阿拉伯之夜](https://scryfall.com/card/arn/31/oubliette)系列，它在最初設計時其實跟躍離完全沒關係，躍離那時也還沒誕生，文本自然與現版本天差地別，是在躍離誕生一段時間後，官方才意識到密牢囚禁的運作模式似乎可以等效成躍離，於是修改了密牢囚禁的運作原理，這也讓它成為了最遠古的躍離牌。
 
-![阿拉伯之夜](https://i.meee.com.tw/f7wRZqr.png)
+![阿拉伯之夜](https://images.guildmagesforum.tw/posts/How-Phasing-Works/f5371c7a8100.webp)
 
 
 {% endfolding %}
@@ -238,7 +238,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 
 
-![超脫時間](https://i.meee.com.tw/cMQfG5d.png)
+![超脫時間](https://images.guildmagesforum.tw/posts/How-Phasing-Works/7047cad2952e.webp)
 >[蛋白石光輝](https://scryfall.com/card/uds/13/opalescence)：所有其他非靈氣結界額外具有生物類別，且基礎力量與防禦力等同於其總魔法力值。
 >[超脫時間](https://scryfall.com/card/mh2/23/out-of-time)：當超脫時間進戰場時，重置所有生物，然後將它們躍離直到超脫時間離開戰場為止。每有一個生物以此法躍離，便在超脫時間上放置一個計時指示物。
 >消逝（在你的維持開始時，從此結界上移去一個計時指示物。當移去最後一個時，將它犧牲。）
@@ -265,7 +265,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 ### 練習一
 
-![奪心魔](https://i.meee.com.tw/QaQXNwv.png)
+![奪心魔](https://images.guildmagesforum.tw/posts/How-Phasing-Works/7dcdbc15bd96.webp)
 >[奪心魔](https://scryfall.com/card/clb/728/mind-flayer)：當奪心魔進戰場時，於你操控奪心魔的時段內，獲得目標生物的操控權。
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
 
@@ -289,7 +289,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 ### 練習二
 
-![蝙蝠](https://i.meee.com.tw/RZxDTGC.png)
+![蝙蝠](https://images.guildmagesforum.tw/posts/How-Phasing-Works/943748e6ee9e.webp)
 >[深窟蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)：當深窟蝙蝠進戰場時，檢視目標對手的手牌。你可以放逐其中一張非地牌，直到深窟蝙蝠離開戰場為止。
 >[漩霧行進](https://scryfall.com/card/neo/61/march-of-swirling-mist)：目標生物躍離。
 
@@ -311,7 +311,7 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 ### 練習三
 
-![Blitz](https://i.meee.com.tw/MRgnG0Q.png)
+![Blitz](https://images.guildmagesforum.tw/posts/How-Phasing-Works/b2cd8ee0bdde.webp)
 >[車間戰酋長](https://scryfall.com/card/snc/165/workshop-warchief)：急襲{4}{G}{G}（如果你支付此咒語的急襲費用來施放之，則它獲得敏捷與「當此生物死去時，抽一張牌。」在下一個結束步驟開始時，將它犧牲。）
 >[悄聲離開](https://scryfall.com/card/snc/62/slip-out-the-back)：在目標生物上放置一個+1/+1指示物。令它躍離。
 
@@ -336,4 +336,4 @@ excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 
 不過就像[賽費爾](https://scryfall.com/card/dom/249/zhalfirin-void)被[泰菲力](https://scryfall.com/card/m21/75/teferi-master-of-time)躍離了許久後，突然又飛回來了一樣，可以預期總有一天躍離也會再度回歸標準賽制，先了解一下躍離在幹嘛總是沒壞處的。
 
-![END](https://i.meee.com.tw/W3cDEEM.png)
+![END](https://images.guildmagesforum.tw/posts/How-Phasing-Works/3f6953f45d79.webp)

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/PCeZfu6.png"
-thumbnail: "https://i.meee.com.tw/PCeZfu6.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Black/17b53ed91cd8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Black/17b53ed91cd8-cover.jpg"
 excerpt: "光與影、善與惡，人與世界的連結只在一念之間。"
 ---
 
@@ -230,7 +230,7 @@ excerpt: "光與影、善與惡，人與世界的連結只在一念之間。"
 
 
 <!---117--->
-![117](https://i.meee.com.tw/EhDcvON.png)
+![117](https://images.guildmagesforum.tw/posts/TLA-Black/1e1725a82ff5.webp)
 分數：5.0
 評語：第一章掃場，第二章[腦切](https://scryfall.com/card/inv/255/lobotomy)，第三章翻面後的5/5威懾打到挖對手的墳，還有機會挖不只一隻，振火神通3更能讓這個挖墳效果更強！
 

@@ -8,8 +8,8 @@ categories:
   - "Interview"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/hs6fb95.jpg"
-thumbnail: "https://i.meee.com.tw/hs6fb95.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT11-Champion-Interview/a6da8fdac344-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT11-Champion-Interview/a6da8fdac344-cover.jpg"
 excerpt: "MIT第十一輪跟歷屆相比較為特別，第一次是由台灣以外的選手奪冠。很高興有這次機會讓我們訪問到李詩天！"
 ---
 ## Let's get started!
@@ -108,7 +108,7 @@ excerpt: "MIT第十一輪跟歷屆相比較為特別，第一次是由台灣以�
 
 對十多年前的亞洲人來說，把打牌當成職業是非常困難的一件事。而我剛好遇上、也抓住了這個機會，當年的工作與生活狀態也剛好允許我不斷出國參賽。一步一步走過來，最終還能進入名人堂，它是我人生中真正實現的一個夢想。
 
-![](https://i.meee.com.tw/hs6fb95.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT11-Champion-Interview/a6da8fdac344.webp)
 
 
 #### 訪談後閒聊：現實碎片（Fracture Reality, FRA）的展望<sup>[註2](#quote2)</sup>

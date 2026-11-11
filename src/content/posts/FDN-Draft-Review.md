@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.postimg.cc/Y9BQHM43/MTG-write-a1.png"
-thumbnail: "https://i.postimg.cc/Y9BQHM43/MTG-write-a1.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Draft-Review/628de3273278-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Draft-Review/628de3273278-cover.jpg"
 excerpt: "現在抽塊地就行了…幹怎麼是地脈斧？永遠不會起手來的嗎？爛遊戲！充滿來錯時機的FDN限制賽！ 初嘗試翻譯文章，來看看日本玩家用箱形圖分析FDN限制賽的「爛」！"
 ---
 
@@ -70,7 +70,7 @@ GIH WR=56.6%雖然在合格點上，但OH WR=52.2%相當低，因此在初手時
 
 比較結果使用[箱形圖](https://zh.wikipedia.org/zh-tw/%E7%AE%B1%E5%BD%A2%E5%9C%96)來進行驗證。箱形圖的各點定義如下：
 
-![箱形圖](https://i.meee.com.tw/8xAeXiO.png)
+![箱形圖](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/ddd69ef85157.webp)
 
 - Q0： **最小值（minimum）**
 - Q1： **第一[四分位數](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0)（lower quartile）**
@@ -88,7 +88,7 @@ GIH WR=56.6%雖然在合格點上，但OH WR=52.2%相當低，因此在初手時
 
 將FDN的所有卡的Δ(OH WR - GIH WR)，與最近的2彈卡包（DSK、BLB）進行比較。比較後的圖表如下：
 
-![1](https://i.meee.com.tw/J9HLPeM.png)
+![1](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/7d4bb2bef9cc.webp)
 
 箱形圖中顯示FDN的範圍最寬，FDN似乎可以說在Δ的變異性上，至少比DSK・BLB更大。
 
@@ -102,14 +102,14 @@ BLB的[受雇利爪](https://scryfall.com/card/blb/140/hired-claw)有著凌駕�
 
 在這裡將以良好環境而見稱的MH3也加入圖表。
 
-![2](https://i.meee.com.tw/BbjX6lv.png)
+![2](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/5cc88416fab6.webp)
 
 MH3展示出比哪個環境都更小的變異性，從這項驗證中可以說明這是一個「抽牌波動較小」的環境。
 事實上，由於「[背面為地的模式雙面牌](https://scryfall.com/card/mh3/260/suppression-ray-orderly-plaza)」和「[帶循環的找地地](https://scryfall.com/card/mh3/217/bountiful-landscape)」的幫助，令手牌事故不易發生，所以被稱為良好環境的原因之一。
 
 接下來，將Play Booster發行後的其餘環境，MKM、OTJ加至圖表中。
 
-![3](https://i.meee.com.tw/POQSM0j.png)
+![3](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/7d56841487b4.webp)
 
 根據筆者個人的意見，OTJ也是相當爛的環境，能在這裡看到共同點真的有趣。
 
@@ -124,7 +124,7 @@ MH3展示出比哪個環境都更小的變異性，從這項驗證中可以說�
 
 追加非瑞克西亞：萬界歸一（ONE）至圖表中。
 
-![4](https://i.meee.com.tw/J1wesNK.png)
+![4](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/437a8fc0a0f0.webp)
 
 這邊得出遠比預期好得多的結果。
 ONE之所以惡名昭彰是因為環境異常地高速和先手優勢，但這種驗證方法是觀察抽牌的波動性，因此這一點大致上會被無視。
@@ -139,7 +139,7 @@ ONE之所以惡名昭彰是因為環境異常地高速和先手優勢，但這�
 
 >譯者注：「昭和MTG」即是指復古的MTG時代，比較接近以前第九版前，該時代的限制賽環境經常發生白板對撞，解牌的性能也不太高，KTK因節奏的緩慢以及平均卡牌性能的低落，就被戲稱這個名字。
 
-![5](https://i.meee.com.tw/a5UoaMB.png)
+![5](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/96f8bbfa6ec0.webp)
 
 沒有背叛預測，得到了與FDN近似寬度的箱形圖。
 在容易變成長線遊戲的所謂基本系列環境中，處理爆費的方法非常重要，但由於這些牌不希望在初手抽到，因此推測會出現這種近似FDN的情況。
@@ -149,7 +149,7 @@ ONE之所以惡名昭彰是因為環境異常地高速和先手優勢，但這�
 由於在驗證中得到了大致接近假說的結果，因此進入應用篇。
 將FDN的卡片的Δ(OH WR - GIH WR)按顏色分別進行比較。
 
-![6](https://i.meee.com.tw/Tdv8uv7.png)
+![6](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/bf61f08a312c.webp)
 
 從這圖表可以看出，藍色的箱形圖極端狹窄，而黑色和綠色則反過來相對寬廣。
 由於黑色和綠色的牌多為長線遊戲導向，因此推測它們的抽牌波動也會較大，但藍色也應該相對偏向長線遊戲才對。
@@ -162,14 +162,14 @@ ONE之所以惡名昭彰是因為環境異常地高速和先手優勢，但這�
 
 DSK
 
-![7](https://i.meee.com.tw/pFIBsT9.png)
+![7](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/208b92d51800.webp)
 
 雖然在偏近OH WR或偏近GIH WR之中可以看到各種顏色的特徵，但整體分布上個別顏色的變異性不大，給人一種相當平衡的印象。
 原本應該是強色的白色在數據上卻顯示出最大的抽牌波動性，這一點也很有趣，輕量兼具有生還異能的生物中，白色的比例比較高影響了結果。
 
 BLB
 
-![8](https://i.postimg.cc/tT4G9rrm/MTG-write-a9.png)
+![8](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/f7653d8a2c7c.webp)
 
 藍色分布極端地廣泛，且偏向GIH WR，這是一個有趣的數據。
 實際上，Δ的Worst 12（並不是指弱牌的方面）全部由藍色和無色牌組成。

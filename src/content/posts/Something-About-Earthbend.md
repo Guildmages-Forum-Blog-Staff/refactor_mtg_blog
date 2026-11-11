@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/f2AaUzz.png"
-thumbnail: "https://i.meee.com.tw/f2AaUzz.png"
+cover: "https://images.guildmagesforum.tw/posts/Something-About-Earthbend/8c774cc77db5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Something-About-Earthbend/8c774cc77db5-cover.jpg"
 excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 ---
 
@@ -15,7 +15,7 @@ excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 
 [運土（Earthbend）](https://guildmagesforum.tw/TLA-Mechanism/#%E9%81%8B%E5%9C%9F%EF%BC%88Earthbend%EF%BC%89)是這次降世神通的中，顯然非常強大的新機制之一，尤其[獾地鼠幼獸](https://scryfall.com/card/tla/167/badgermole-cub)更是從預覽期開始就是萬眾矚目的焦點，和其強度成正比的是，運土的機制複雜度也相當之高，甚至連官方的機制介紹文章都難得的出包了，說是2025年標準系列中最複雜的新機制也不為過。今天就讓我們來看看運土究竟能搞出多少問題吧！
 
-![前言](https://i.meee.com.tw/w5Mwlk2.png)
+![前言](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/74656a576d36.webp)
 
 
 
@@ -27,7 +27,7 @@ excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 
 - 701.66a 「運土N」意指「目標由你操控的地成為0/0，具敏捷異能的地生物，且仍具有原本類別。在其上放置N個+1/+1指示物。當該地死去或進入放逐區時，將它在你的操控下橫置移回戰場。」
 
-![Earthbend](https://i.meee.com.tw/RWeb8M2.png)
+![Earthbend](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/bf9187a4d346.webp)
 
 其實真要說難記也不算很難記，畢竟這種把地變成生物的效果也不少見了，但這種一次動到多層[Layer](https://guildmagesforum.tw/Layer/)的機制，就總是有被玩出規則炸彈的潛力。
 
@@ -51,7 +51,7 @@ excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 
 ## 運土規則範例
 
-![1](https://i.meee.com.tw/szBzSoY.png)
+![1](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/3fd7a66ceca6.webp)
 > ● **[得享安息](https://scryfall.com/card/big/4/rest-in-peace)：** 
 > 如果任一張牌或衍生物將從任何地方置入墳墓場，改為將它放逐。
 > ● **[吸魂器](https://scryfall.com/card/dsk/248/ghost-vacuum)：** 
@@ -96,7 +96,7 @@ excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 
 
 
-![2](https://i.meee.com.tw/R1Tps2J.png)
+![2](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/d49db0fef618.webp)
 > ● **[究極](https://scryfall.com/card/fin/38/ultima)：** 
 > 消滅所有神器和生物。結束本回合。
 > ● **[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)：** 
@@ -114,7 +114,7 @@ excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 
 
 
-![3](https://i.meee.com.tw/RhHsYuS.png)
+![3](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/6f43ea108992.webp)
 > ● **[晃動大地](https://scryfall.com/card/eoe/258/stomping-ground)：** 
 > 地～山脈／樹林
 > ● **[勤奮的動物管理員](https://scryfall.com/card/tla/171/diligent-zookeeper)：** 
@@ -127,7 +127,7 @@ excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 
 
 
-![4](https://i.meee.com.tw/9rNT6G1.png)
+![4](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/c972b65a0003.webp)
 > ● **[永固城](https://scryfall.com/card/tla/266/ba-sing-se)：** 
 > {2}{G},{T}：運土2。只能於巫術時機起動。
 > ● **[不息小屋](https://scryfall.com/card/woe/258/restless-cottage)：**
@@ -149,7 +149,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 
 
-![5](https://i.meee.com.tw/Dthl0p8.png)
+![5](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/e57aa77ca7f8.webp)
 > ● **[永固城](https://scryfall.com/card/tla/266/ba-sing-se)：** 
 > {2}{G},{T}：運土2。只能於巫術時機起動。
 > ● **[魂石庇護地](https://scryfall.com/card/fdn/133/soulstone-sanctuary)：** 
@@ -195,7 +195,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 實際上對於運土的地發生操控權轉移後死去，會回到誰場上這個問題，甚至連官方的[TLA機制介紹文章](https://magic.wizards.com/en/news/feature/avatar-the-last-airbender-mechanics)一開始都介紹錯了，最開始官網的寫法是：在誰的操控下死去就回到誰場上。
 
-![官網初版規則文](https://i.meee.com.tw/77y8uT4.png)
+![官網初版規則文](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/5004a92df7d2.webp)
 
 好在這個問題很快的就被發現了，作者也有為此發了篇[機制澄清公告](https://x.com/fireshoes/status/1991191535807812028?t=nRwKLXOcJJgpTk7I_d5uSQ&s=19)，並立即修改了文章，現行文章內的介紹已是符合正確規則的描述。
 
@@ -219,7 +219,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 
 
-![6](https://i.meee.com.tw/ESJIBgn.png)
+![6](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/3771aa530836.webp)
 > ● **[獾地鼠幼獸](https://scryfall.com/card/tla/167/badgermole-cub)：** 
 > 當此生物進場時，運土1。
 > 每當你橫置一個生物以產生魔法力時，額外加{G}。
@@ -238,7 +238,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 
 
-![7](https://i.meee.com.tw/q92Koz5.png)
+![7](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/bc9f3af879d5.webp)
 > ● **[永固城](https://scryfall.com/card/tla/266/ba-sing-se)：** 
 > {2}{G},{T}：運土2。只能於巫術時機起動。
 > ● **[深邃叛神阿洛佐茲](https://scryfall.com/card/lci/88/aclazotz-deepest-betrayal-temple-of-the-dead)（以下簡稱蝙蝠神）：** 
@@ -254,7 +254,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 
 
-![8](https://i.meee.com.tw/iXiDMyn.png)
+![8](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/84cd7872052a.webp)
 > ● **[治金師始祖達芙](https://scryfall.com/card/tla/247/toph-the-first-metalbender)：** 
 > 由你操控且非衍生物的神器均額外具有地此類別。（它們不會獲得{T}產生魔法力的異能。）
 > 在你的結束步驟開始時，運土2。
@@ -284,7 +284,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 
 
-![9](https://i.meee.com.tw/UUKBGCj.png)
+![9](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/fd70fd93b37c.webp)
 > ● **[萬生噬獸依格拉](https://scryfall.com/card/blb/241/ygra-eater-of-all)：** 
 > 其他生物都是食品神器，仍具有原本類別，且具有「{2},{T},犧牲此永久物：你獲得3點生命。」
 > ● **[治金師始祖達芙](https://scryfall.com/card/tla/247/toph-the-first-metalbender)：** 
@@ -310,7 +310,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 最終除了依格拉因為不改變自己類別而逃過一劫外，其他由你操控的生物＆神器，都會額外獲得神器、地～食品、山脈類別，因為紅月賢者成為山脈的效應，失去所有原有異能，並獲得山脈的 「{T}：加{R}」，連達芙和紅月賢者都不例外。另外就是…… 依格拉賦予食品類別時，一同獲得的 「{2},{T},犧牲此永久物：你獲得3點生命。」 這條異能還留著…… 
 
-![Final](https://i.meee.com.tw/OhaTWFq.png)
+![Final](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/3f1a09d4a273.webp)
 
 不過這可不是甚麼食品類別自動賦予的異能，別跟基本地類別賦予產對應顏色法力的異能搞混了，食品這個類別在場上本身沒有任何特殊的規則效力，只是如果有效應讓你派出一個食品Token時，食品這個詞就自帶以下定義：
 
@@ -334,11 +334,11 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 雖然立意能夠理解，不過這麼一加，反而讓運土獲得了各種組合技潛力，例如標準內就可以玩[北方家的賞金獵人](https://scryfall.com/card/tla/209/beifongs-bounty-hunters)+[可怖血妖](https://scryfall.com/card/dft/77/bloodghast)+[免費犧牲源](https://scryfall.com/card/eoe/123/umbral-collar-zealot)，配上一個[痛血沙漠](https://scryfall.com/card/dft/77/bloodghast)或其他無限Loop的致勝出口。
 
-![Combo](https://i.meee.com.tw/pwp7X0d.png)
+![Combo](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/b7efca71ddaf.webp)
 
 此外既然地死去會回來，那麼[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)或各種原本以犧牲自己為代價做一次性利用的地，也能玩出不少花活。
 
-![Land](https://i.meee.com.tw/v9OmFpq.png)
+![Land](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/9eaa0f19d2bd.webp)
 
 個人對於運土的綜合評價是，這是個非常有趣且實用的機制，但也是個風險很大的機制，設計稍有不慎其實滿容易玩壞的。不過目前討論風聲最大的[獾地鼠幼獸](https://scryfall.com/card/tla/167/badgermole-cub)，我反而覺得主要問題不在運土上，畢竟把一個不是傳奇且進場自帶Mana頭的[季寧](https://scryfall.com/card/iko/192/kinnan-bonder-prodigy)，印在一個已經有[羅堰妖精](https://scryfall.com/card/fdn/227/llanowar-elves)的環境內，光這這一點怎麼看就太瘋狂了。
 

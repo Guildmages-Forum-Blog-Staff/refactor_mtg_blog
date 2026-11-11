@@ -1,8 +1,8 @@
 ---
 date: 2023-10-11 19:30:00
 title: "標準套牌推薦 : 格利極戰役"
-cover: "https://i.imgur.com/vHmZ67s.png"
-thumbnail: "https://i.imgur.com/vHmZ67s.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/97908a28412f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/97908a28412f-cover.jpg"
 excerpt: "寫作戰役讀作賺牌狂魔"
 categories:
   - "Construct"
@@ -17,7 +17,7 @@ authors:
 
 [牌表連結](https://www.mtggoldfish.com/deck/5886450#paper)
 
-![牌表圖片](https://i.imgur.com/hg4OM2d.jpg)
+![牌表圖片](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/d45d8213aaf5.webp)
 
 ---
 
@@ -78,9 +78,9 @@ authors:
 
 ### 戰役
 
-![戰役正面](https://i.imgur.com/O2SdSUz.jpg)
+![戰役正面](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/1a4826fcd2e1.webp)
 
-![戰役背面](https://i.imgur.com/k89d6SH.jpg)
+![戰役背面](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/5045d430a6d1.webp)
 
 [進軍阿芒凱](https://scryfall.com/card/mom/231/invasion-of-amonkhet-lazotep-convert)可以說是戰役的門面了，即使只看正面都足夠的優秀，同樣是一卡拉牌差，我方抽一對手棄一很多時候比單純的我方抽二更加致命，磨三張牌的能力可以輔助自己背面找到適合的複製對象，或者提供[鑑屍客](https://scryfall.com/card/snc/178/corpse-appraiser)賺牌肥料，磨到[頑強敗犬](https://scryfall.com/card/snc/97/tenacious-underdog)時也是好事一件，等於變相的額外賺牌，要記得進軍阿芒凱是先磨牌再抽棄，不要做反了。
 
@@ -94,7 +94,7 @@ authors:
 
 ### 戰役轉化器
 
-![戰役轉化器](https://i.imgur.com/a9MAIuR.jpg)
+![戰役轉化器](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/9c4baac47a11.webp)
 
 [失去活性](https://scryfall.com/card/mom/123/render-inert)是戰役最重要的配套元件，這套採用的戰役沒有一個初始指示物是超過5的，移除5個指示物可以立即轉化一個戰役，而且本身還自帶抽一張牌完全就是白嫖一次資源，平時用生物攻擊戰場的路線對手可以用殺牌或阻擋來應對，但失去活性唯一的應對方式是康，阻止難度高很多。進軍阿芒凱＋進軍依尼翠＋失去活性本身就是個非常完整的戰役主題套裝了，以此為基底可以輕鬆組出各種此套牌的變種。
 
@@ -110,7 +110,7 @@ authors:
 
 ### 去除
 
-![去除](https://i.imgur.com/583dh6F.jpg)
+![去除](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/2008ad91bf27.webp)
 
 [毅力之美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)放個一張意思意思一下表示自己是艾卓荒野後的標準，因為套牌內已經有兩張進軍阿茲戈爾了，不敢再把去除的巫術佔比提高，所以放一張就好。
 
@@ -118,7 +118,7 @@ authors:
 
 ### 中堅生物
 
-![中堅生物](https://i.imgur.com/LDYsZxL.jpg)
+![中堅生物](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/4e36a0f3966f.webp)
 
 這個卡位只要是低費的打手就行，選配自由度很高，而我最終選用的都是資源能力強，而且和進軍阿芒凱搭配較好者。
 
@@ -128,7 +128,7 @@ authors:
 
 ### 其他玩具
 
-![其他玩具](https://i.imgur.com/gSgQyUx.jpg)
+![其他玩具](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/e1dddcc059b7.webp)
 
 因為[復生的爾泰](https://scryfall.com/card/dmu/199/ertai-resurrected)跟[希歐蕊](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures)都算滿合我胃口的牌，所以私心給他們留了一個位置（但也付出了一些代價，詳細後述），而且兩者都是進場異能，也是進軍阿芒凱轉化時複製的好對象。
 
@@ -142,7 +142,7 @@ authors:
 
 ## 套牌弱點
 
-![弱點1](https://i.imgur.com/FrV1LRI.jpg)
+![弱點1](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/5a34d80a3993.webp)
 
 目前套牌曲線偏高，前期生物數量不算多，因此自然是比較怕快攻，快攻也是備牌重點照顧對象，並且由於非生物牌占比高，會特別害怕使用[瑟班守護者莎利雅](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben)的純白快攻。
 
@@ -150,7 +150,7 @@ authors:
 
 另外我們在用料構成上可以說是非常標準的中速，正編局十分容易被藍節奏康死，進軍阿芒凱的磨牌甚至還在幫對手，不過藍節奏的環境占比相對不高，[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)重印的消息又讓一部分藍節奏玩家直接跳車，所以目前備牌設計沒有過於針對藍節奏。
 
-![弱點2](https://i.imgur.com/Qv0Jwgw.jpg)
+![弱點2](https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/3bdd30abe131.webp)
 
 [進軍阿拉若](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom)＆[刺藤傭獸](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest)的超展開Combo很容易創造失控場面，正編如果沒有康或掃場將十分難應對，目前掃場在備牌，正編的康只有一個復生的爾泰，並且戰役主題元件占用過多卡位，也很難提升正編康牌數量，不過這屬於一個典型的讓一追二局，換完備牌後就會變成相性極佳的對局，所以不用太擔心面臨阿拉若浣熊Combo的問題。對於這個Combo運作原理不清楚的讀者可以參考這篇文章：[「列爾如何與歷險牌互動」](https://guildmagesforum.tw/Adventure-and-Lier/)。
 

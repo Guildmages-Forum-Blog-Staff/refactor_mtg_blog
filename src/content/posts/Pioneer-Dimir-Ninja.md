@@ -7,20 +7,20 @@ authors:
 categories:
   - "Construct"
   - "Pioneer"
-cover: "https://i.imgur.com/hDToXSU.png"
-thumbnail: "https://i.imgur.com/hDToXSU.png"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/0dfb1ae736c3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/0dfb1ae736c3-cover.jpg"
 excerpt: "夢魘剋星魁渡的主場？"
 ---
 
 ## Before We Start
 
-![](https://i.imgur.com/hDToXSU.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/0dfb1ae736c3.webp)
 
 沒想到《神河霓朝紀》重現標準的忍者主題後續還會持續獲得補料，特別是這次的《暮悲邸：鬼屋驚魂》，為我們帶來了全新的忍者領主[夢魘剋星魁渡](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)，投入先驅忍者套牌會有什麼樣的表現呢？
 
 ## 單卡解析
 
-![](https://i.imgur.com/xoCnaaJ.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/f6769a9b75d4.webp)
 >夢魘剋星魁渡
 >鵬洛客~魁渡
 >忍術{一}{藍}{黑}（{一}{藍}{黑}，將一個由你操控且未受阻擋的攻擊生物回手：將此牌從你手上橫置放進戰場，且正進行攻擊。）
@@ -34,27 +34,27 @@ excerpt: "夢魘剋星魁渡的主場？"
 總之，先上牌表給各位讀者參考：
 
 [套牌列表](https://www.mtggoldfish.com/deck/6649520#paper)
-![](https://i.imgur.com/8UmLDQl.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/88eed0563e58.webp)
 
 這副套牌是由兩年前筆者在士林貓 MITQ 打進四強的版本為基礎調整而成。首先放滿[千面影徒](https://scryfall.com/card/neo/86/thousand-faced-shadow)、[銀毛師父](https://scryfall.com/card/neo/236/silver-fur-master)、[豐獲竊賊](https://scryfall.com/card/neo/73/prosperous-thief)三件套，這是忍術達成四回殺的基礎元件。詳情請見[前文](https://guildmagesforum.tw/Standard-Dimir-Ninja/)。
 
-![](https://i.imgur.com/sjEU4vw.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/c5fe8dec3326.webp)
 
 先驅牌池為我們提供了一費優質浪客[仙靈惡徒](https://scryfall.com/card/m20/58/faerie-miscreant)，第二張以上的[仙靈惡徒](https://scryfall.com/card/m20/58/faerie-miscreant)進場可以抽一張，跟在手牌場上反覆橫跳的忍者套牌可說是完美契合，另外還有四費的[旋翼浪客](https://scryfall.com/card/otc/122/whirler-rogue)，除了進場會帶兩張[振翼機](https://scryfall.com/card/totc/27/thopter)擴張盤面提供忍術載體外，賦予目標生物不能被阻擋的能力對忍者套牌至關重要，又有[豐獲竊賊](https://scryfall.com/card/neo/73/prosperous-thief)可以與之配合。[厚顏借物靈](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft)則作為萬用軟解投入使用，三費 3/1 飛行閃現也算是個堪用的穿透打點。
 
-![](https://i.imgur.com/rIM6oFl.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/debf818012fd.webp)
 
 其他忍者的部分，除了這次新補進來取代[嚙掌忍者](https://scryfall.com/card/neo/88/biting-palm-ninja)位置的[夢魘剋星魁渡](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)外，筆者另外投入[月路駭客](https://scryfall.com/card/neo/67/moon-circuit-hacker)與[滲透者梅澤悟](https://scryfall.com/card/otj/230/satoru-the-infiltrator)，雖然在[前文](https://guildmagesforum.tw/Standard-Dimir-Ninja/)中[月路駭客](https://scryfall.com/card/neo/67/moon-circuit-hacker)被給予了不好的評價，但在先驅牌池可以跟[仙靈惡徒](https://scryfall.com/card/m20/58/faerie-miscreant)與[滲透者梅澤悟](https://scryfall.com/card/otj/230/satoru-the-infiltrator)搭配形成高效率抽牌循環，效益比標準高了非常多，所以嘗試投入使用。再來就是《光雷驛鏢客》為我們帶來的[滲透者梅澤悟](https://scryfall.com/card/otj/230/satoru-the-infiltrator)，本身是體格不錯的二費穿透忍者，而他的異能讓你忍術進場的生物都能觸發抽一張，雖然在和[千面影徒](https://scryfall.com/card/neo/86/thousand-faced-shadow)配合時同樣有傳奇問題，但他的複製體一樣會觸發進場抽牌，所以相性其實沒那麼差。
 
-![](https://i.imgur.com/Vg5wl8Q.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/999dd395f65d.webp)
 
 去除選用常見的[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)、[送終一擊](https://scryfall.com/card/2xm/93/fatal-push)與上系列新牌[餵食循環](https://scryfall.com/card/blb/94/feed-the-cycle)。[送終一擊](https://scryfall.com/card/2xm/93/fatal-push)在忍術套牌非常容易觸發反抗，既可以用忍術達成反抗條件，也可以用[豐獲竊賊](https://scryfall.com/card/neo/73/prosperous-thief)派出的[珍寶](https://scryfall.com/card/tneo/17/treasure)達成。[餵食循環](https://scryfall.com/card/blb/94/feed-the-cycle)則是有彈性的兩費瞬間去除，反正這套沒有什麼墳場回收能力，放逐墳場三張當[奪魂斬](https://scryfall.com/card/ktk/81/murderous-cut)使用並無不可，再不濟也是張[英雄殉身](https://scryfall.com/card/dmc/112/heros-downfall)。
 
-![](https://i.imgur.com/3ALNnkC.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/7a2a37b5c0a4.webp)
 
 地牌的部分，除了配合節奏大量投入可前期站進的雙色地外，考慮強攻型套牌需要的後招而投入四張變身地，由於忍者對有色法力相當吃重，因此不使用種族套牌常見的[易形地窖](https://scryfall.com/card/clb/903/mutavault)，改用[風暴巨人大廳](https://scryfall.com/card/afr/257/hall-of-storm-giants)、[魔眼暴君棲巢](https://scryfall.com/card/afr/258/hive-of-the-eye-tyrant)與[不息暗礁](https://scryfall.com/card/lci/282/restless-reef)混搭組成。
 
-![](https://i.imgur.com/zXgqJj7.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/3606049dc0b7.webp)
 
 
 ## 實戰演示

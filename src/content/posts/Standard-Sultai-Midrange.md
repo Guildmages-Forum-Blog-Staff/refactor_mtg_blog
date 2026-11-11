@@ -2,8 +2,8 @@
 
 title: "蘇勒台中速 — 追求卓越，不計代價"
 date: "2025-01-05 11:41:45"
-cover: "https://i.meee.com.tw/7qWaOU0.jpg"
-thumbnail: "https://i.meee.com.tw/7qWaOU0.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Midrange/5054bc2782a8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Midrange/5054bc2782a8-cover.jpg"
 excerpt: "墳場、牌庫、地牌、手牌能夠利用的，我全部都要使用！這是最能夠代表蘇勒台的核心理念，就如同黑暗親信的風味敘述 – 追求卓越，不計代價 Greatness at any cost"
 authors:
   - "Patrick"
@@ -19,7 +19,7 @@ categories:
 
 [套牌連結](https://www.mtggoldfish.com/deck/6837210#paper)
 
-![](https://i.meee.com.tw/aXMARAx.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Midrange/26f95f81a577.webp)
 
 ### 核心關鍵生物：烏龜？這是什麼？
 
@@ -35,7 +35,7 @@ categories:
 
 ### 各種中堅三費生物：套牌的基石
 
-![](https://i.meee.com.tw/TseDAsZ.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Midrange/22d195460934.webp)
 
 [Clifftop Lookout](https://scryfall.com/card/blb/168/clifftop-lookout) 進場時，可以確保加速到一塊地，且由於不是搜尋基本地的關係，讓即使是 3 色套牌的我們也不需妥協而放很多的基本地，並且順利的話，下一回合就可以打出我們的核心生物 — [Fecund Greenshel](https://scryfall.com/card/blb/171/fecund-greenshell) 。 1/2 的體質在充滿體格怪物的年代基本上交換不到任何東西，但是現在最 meta 的套牌是甚麼？沒錯，是 Dimir 中速！原本靠著大量小飛兵來穿越打線的計畫全部被一隻青蛙阻擋了下來，無論是 [Faerie Mastermind](https://scryfall.com/card/mom/58/faerie-mastermind) 、 [Floodpits Drowner](https://scryfall.com/card/dsk/59/floodpits-drowner) 、 [Deep-Cavern Bat](https://scryfall.com/card/lci/102/deep-cavern-bat) 、 [Spyglass Siren](https://scryfall.com/card/lci/78/spyglass-siren) 這些體格不優秀但透過 Flying 一直偷打，交殺牌又覺得浪費的生物們，全部過不了他的防線。
 
@@ -65,13 +65,13 @@ categories:
 
 ## 結語：信仰的力量
 
-![](https://i.meee.com.tw/Z1oUdp6.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Midrange/98f6606ee7cb.webp)
 
 其實在最一開始剛加入魔法風雲會時，我其實只是希望可以打一個控制型的色組，我很喜歡在遊戲後期時資源量比對手多的感覺。我希望手牌比對手多、我希望場面比對手強、我希望地牌夠多讓我每回合做的事比對手多，我很享受那種貪婪的感覺。而蘇勒台這個色組很完美的符合了我的喜好：他擁有了最強的殺牌（黑色）、最強的抽牌（藍色）以及最強的生物（綠色），且也是五色中最會賺取資源的前三個顏色。此外，我也不喜歡套牌對我來說有「弱點」的存在，例如黑色無法解神器、紅色無法解結界、綠色跟藍色很難對付生物等；蘇勒台這個色組，剛好可以全方位無死角地應對所有威脅。對我來說，這種無論是墳場、牌庫、地牌、手牌能夠利用的我全部都要使用的心態，就是最能夠代表蘇勒台的核心理念，就如同[黑暗親信](https://scryfall.com/card/mma/75/dark-confidant)的風味敘述：「追求卓越，不計代價 Greatness at any cost 」。
 
 而到了後來，這變成了一種提高遊戲樂趣的方式，魔法風雲會終究是一個 1 對 1 的競爭遊戲，只要有競爭，當然就會有人想要贏，而最高效的方式就是去模仿那些最主流的套牌。但這個方法對我來說實在太無趣了，因為我可能必須為了贏而去打那些我不喜歡的套牌，或者是沒有思考過每一個組牌的可能性，單純只是模仿那些套牌與操作而沒有了自己的個性在其中。
 
-![](https://i.meee.com.tw/R8BQD2P.webp)
+![](https://images.guildmagesforum.tw/posts/Standard-Sultai-Midrange/5ddb38bad0c4.webp)
 
 因此我定下了制約與誓約，透過限制自己在每一個標準環境無論如何變化，我都只能夠打這個色組，來換取對這個色組於環境內的牌張熟悉度，為了組牌，我必須不斷的去尋找所有牌張搭配的可能性。像是近年來我很喜歡的 [Invasion of Amonkhet](https://scryfall.com/card/mom/231/invasion-of-amonkhet-lazotep-convert) 與 [Gruff Triplets](https://scryfall.com/card/woe/172/gruff-triplets) 搭配出的爆炸性場面、 [Nexus of Fate](https://scryfall.com/card/m19/306/nexus-of-fate) 與 [Underrealm Lich](https://scryfall.com/card/clu/215/underrealm-lich) 造成的快速無限回合、貓爐組合技與 [Parcelbeast](https://scryfall.com/card/iko/199/parcelbeast) 偷吃法力費用叫出來的方法（註一）；在充滿著不能被阻擋的生物（如 [Ahn-Crop Crasher](https://scryfall.com/card/akh/117/ahn-crop-crasher) 、 [Earthshaker Khenra](https://scryfall.com/card/hou/90/earthshaker-khenra)）的紅快環境時，使用 [Thorn Lieutenant](https://scryfall.com/card/m19/203/thorn-lieutenant) 派出新的阻擋者拖延時間；或是當大家都在用掃場針對 token 套牌時我選擇使用 [Tendershoot Dryad](https://scryfall.com/card/rix/147/tendershoot-dryad) 來與對方拚場面的備牌思路，以至於到現在的套牌構築，都是因為不斷在同一個色組琢磨才有辦法發現的有趣組合。而這最終的結果也變成了一個類似信仰的存在，可以說是堅持組出蘇勒台套牌現在才是我玩魔法風雲會的動力。
 

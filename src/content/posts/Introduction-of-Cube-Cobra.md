@@ -3,8 +3,8 @@
 title: 'Cube設計 - Cube Cobra介紹'
 date: 2025-04-08 21:30:00
 
-cover: "https://i.meee.com.tw/z5P3HxZ.jpg"
-thumbnail: "https://i.meee.com.tw/DKFwWNc.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/36544209840c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/63f3efd9136e-cover.jpg"
 excerpt: "萬能的Cube Cobra，請賜給我神奇的力量！"
 authors:
   - "dalance"
@@ -34,7 +34,7 @@ categories:
 2. 每張牌至少能夠適用於一種以上的套牌。
 3. 每個雙色主題都可以得到支持。
 4. Cube有合適的Mana曲線。
-![image](https://i.meee.com.tw/p9JUZQo.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/fd6798de5bed.webp)
 在這邊簡單補充幾種套牌Archetype：分別是快攻、中速、控制和組合技，在輪抽中裡面常見的套牌都是中速或快攻。而在Cube中，如果設計者想要提供組合技或者控制就要在對應的Mana Curve中，加上足夠的牌讓玩家可以抽。
 例如足夠多的低費牌和戰鬥詭計可以用來支持快攻、同樣的足夠的妨礙咒語、移除和終結者可以讓控制的計畫成型，組合技亦同。
 
@@ -54,22 +54,22 @@ categories:
 2. 把圖片預覽（Image）改成純文字預覽（Checklst），並依自己的需求把全部卡牌複製下來。
 > Scryfall在checklist介面沒辦法直接匯出，就到空白處把需要的卡牌整列複製下來就好；也有可能有更簡便的方法，也歡迎大家嘗試後分享囉！
 
-![image](https://i.meee.com.tw/MUJzrCs.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/7e2c237e093d.webp)
 
 3. 貼到待編輯的介面，如Microsoft Excel、Google試算表等，然後只複製卡名（Name）的那一欄。
 
-![image](https://i.meee.com.tw/Rb7osQy.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/155969b269d7.webp)
 
 4. 在Cube Cobra創建一個新的Cube（Creat A New Cube），這個步驟必須先註冊自己的Cube Cobra帳號後並登入。有趣的是，創新Cube還需要回答簡單的魔風小知識，答錯可是建不成的XD
-![image](https://i.meee.com.tw/qvh6L7c.png)
-![image](https://i.meee.com.tw/cZPUkFh.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/c30179f4881b.webp)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/dfd4dc22363a.webp)
 
 5. 進到新建立的Cube裡 List > Import/Export > Paste Text ，然後回到步驟4裡，把所有卡名複製過來貼上，接著點選"Add Cards"，~~美味蟹堡就完成了~~ 就建立好我們的單卡Cube了。
 > 如果要加入[SPG](https://scryfall.com/sets/spg)、或舊系列的額外系列牌張（如WOE的魅附奇譚（WOT）、STX的秘典（STA）等）該系列開得到的單卡的話，就比照上面的方法，依序加入該Cube中。
-![image](https://i.meee.com.tw/4mUHwC3.png)
-![image](https://i.meee.com.tw/56AKUQW.png)
-![image](https://i.meee.com.tw/tWPWTyF.png)
-![image](https://i.meee.com.tw/xkCHGj8.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/6b95fcbdcafd.webp)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/347447090821.webp)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/8bc0fceedc78.webp)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/0fa590b96492.webp)
 
 ---
 
@@ -77,11 +77,11 @@ categories:
 選一個你喜歡的Cube，這邊以[Vanilla Cube](https://cubecobra.com/cube/list/van)為例：
 
 1. 到[Vanilla Cube](https://cubecobra.com/cube/list/van) 頁面
-![image](https://i.meee.com.tw/rXbYNA9.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/955ed7bb338b.webp)
 2. 點右上的List
-![image](https://i.meee.com.tw/HTioEfi.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/bfec136795eb.webp)
 3. 點Export，然後選擇Clone
-![image](https://i.meee.com.tw/pvGXgfu.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/02a4341a0b81.webp)
 
 你就可以得到一份Vanilla Cube的備份了，在你的備份內你可以盡情修改不會影響到原Cube。
 
@@ -98,9 +98,9 @@ categories:
 2. 在Import/Export點Paste然後大量輸入。
 3. Maybeboard點擊單卡中把牌再點"Move To Mainboard"。
 
-![image](https://i.meee.com.tw/MN7k2v7.png)
-![image](https://i.meee.com.tw/5yynbJK.png)
-![image](https://i.meee.com.tw/eMBZ7Yi.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/855a7139b462.webp)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/54ca6ed673aa.webp)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/4822d7434c46.webp)
 
 #### List - Remove 移除
 
@@ -111,7 +111,7 @@ categories:
 特別注意當你對List進行修改的時候，修改並不會馬上儲存下來，Cobra使用了ChangeList來讓你看這個批次修改了哪些東西。
 你可以在修改之後按下"Save Changes"儲存，或者"Discard All"丟棄，你也可以點卡名左邊的"X"來把這個變更撤銷掉。
 
-![image](https://i.meee.com.tw/4U3sHyk.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/bfa545d0166f.webp)
 
 ---
 
@@ -157,7 +157,7 @@ Scryfall提供一個由社群支持的[Scryfall Tagger](https://tagger.scryfall.
 
 [掠奪人魚的tagger](https://tagger.scryfall.com/card/afc/86)
 
-![image](https://i.meee.com.tw/OYl68c0.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/76168b8dca5f.webp)
 
 tagger會列出掠奪人魚的特性，掠奪人魚在tagger上特性直接被標成loot了，在特性的旁邊也可以看到有類似功能的牌，有些是相似的牌，有些則是上位牌。
 找牌沒有想法的時候來看看tagger，有時也會有不同的收穫。
@@ -171,10 +171,10 @@ tagger會列出掠奪人魚的特性，掠奪人魚在tagger上特性直接被�
 排序功能，CubeCobra可以使用四種卡的特性來排序，你可以按照自己感興趣的方式來排序，以下介紹幾種常用的。
 
 **Color / Color Category**
-![image](https://i.meee.com.tw/VEtkdRA.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/b05923e38b8f.webp)
 這是預設的分類，多色那邊也會按公會色來分組，之後再用Mana分小群，群內則用字母順序來排序。
 
-![image](https://i.meee.com.tw/YXaTfm1.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/b821897cebea.webp)
 
 這是我用來整理Cube的時候用的，在最後要出試玩Cube版本的時候，要把Cobra上面的卡表轉換成紙本的Cube，這時我會把紙牌按顏色分開，之後再用Mana數量來排序，再來跟Cobra上面的List對照，不要讓少牌或者放錯牌打擾你美好的測試時光。
 
@@ -219,18 +219,18 @@ ELO可以透過玩家的pick順序輸出參考分數，但這只有在比較的�
 
 前面提到的Cobra修改牌張資訊除了點單卡還可以點上面的Label，以上圖的Green為例，我想要把這些生物都打上delirium的tag的話，先下完指令。
 
-![image](https://i.meee.com.tw/x26FGVh.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/1de93a8762fc.webp)
 
 再點開Label，也就是圖中的Creature
 
-![image](https://i.meee.com.tw/SpsyAR7.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/24976176bd4e.webp)
 
 在tag處輸入delirium後再按Apply to all就能對這些牌打上delirium tag了
 
-![image](https://i.meee.com.tw/XVesRRK.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/438da42e5077.webp)
 
 之後就可以用delirium tag來搜尋牌了！
-![image](https://i.meee.com.tw/flrBHoN.png)
+![image](https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/4a3a01260531.webp)
 
 > 用tag而不用o來找的原因是：當你有複合類別咒語的時候，你可以把它當成一種可以支持delirium的牌並且打上tag，但是o:做不到這件事情。
 

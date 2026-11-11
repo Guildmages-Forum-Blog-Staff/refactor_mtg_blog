@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "T1BloodMoon"
-cover: "https://i.meee.com.tw/tRwy4El.png"
-thumbnail: "https://i.meee.com.tw/tRwy4El.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Multicolors/7eeadf2f9237-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Multicolors/7eeadf2f9237-cover.jpg"
 excerpt: "逆聲宇宙來臨，許多老朋友成對出現，但好像不是結伴而是對立呢"
 ---
 
@@ -23,61 +23,61 @@ excerpt: "逆聲宇宙來臨，許多老朋友成對出現，但好像不是結�
 
 ### <span style="color:#006DB3">藍</span><span style="color:#C3B270">白</span> 刺探快攻
 
-![](https://i.meee.com.tw/BF8rUEW.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/30e4eb80c8e6.webp)
 
 展鑑（Fatehold）的學生們將對未來的知識轉化為強大力量。透過 {% mtglink "Your Fate Ends Here" %} 、{% mtglink "Semester Foreseer" %} 以及你的傑斯（Jace）衍生物來進行刺探（Surveil）與占卜（Scry），你也能做到這一點。一旦你為眼前的局勢在牌庫頂佈局好最佳牌張，便能利用 {% mtglink "Desperate Futurescribe" %} 與 {% mtglink "Proft, Consulting Detective" %} 將你的學習成果化為致命武器。
 
 ### <span style="color:#006DB3">藍</span><span style="color:#808080">黑</span> 墳場計數
 
-![](https://i.meee.com.tw/kZYKYGY.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/2fd8c2c3fdcf.webp)
 
 論析（Theorix）的學者們擅長利用數學規則以及扭曲對手的思緒。你的目標是讓你的墳場中擁有七張或更多牌，因此請盡情堆疊像是 {% mtglink "Theorix Metamage" %} 這樣的自磨牌（mill）效果，以及像是 {% mtglink "Unsummon" %} 這類低費法術。一旦達成這個門檻（threshold），像是 {% mtglink "Void Extrapolator" %} 這類的牌就會變得更加強大。如果你已經讓墳場塞滿了生物與鵬洛客，{% mtglink "Winter, Tormented Loner " %} 就能給予對手致命的一擊。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#808080">黑</span> 直擊對手
 
-![](https://i.meee.com.tw/eeDYoJ2.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/41ecf51756d0.webp)
 
 刺毫（Stingerquill）的校友們將他們的字句化為利刃。利用 {% mtglink "Essence Burn" %}、{% mtglink "Fulminous Forte" %} 以及 {% mtglink "Stingerquill Charm" %} 這類直接傷害法術與點殺效果，狠狠削弱對手及其生物。造成非戰鬥傷害能解鎖 {% mtglink "Grim Repriser" %} 以及其他刺毫卡牌的能力，讓你能用一發抓準時機的燒牌，為對局獻上殘酷的謝幕。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#4A8A3D">綠</span> 法力成長
 
-![](https://i.meee.com.tw/OGMGCIQ.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/cd0625afd911.webp)
 
 鑄麗（Konstrari）訓練工匠法師們來為塑理師打造巨大的造物。利用 {% mtglink "Woodwork Prodigy" %} 和 {% mtglink "Konstrari Improviser" %} 的心材（heartwood）衍生物來加速（Ramp）。這些衍生物提供的額外法力能讓你在遠超預期的節奏下施放最大型的生物咒語，所以別害怕放滿多張 {% mtglink "Archive Arbiter" %} 或 {% mtglink "Vinelasher Adept" %} 。這副牌組的法力曲線可能會偏向高費咒語，因此別墨守成規——就像真正的鑄麗工匠一樣。
 
 ### <span style="color:#C3B270">白</span><span style="color:#4A8A3D">綠</span> 生命增加
 
-![](https://i.meee.com.tw/4kqzmgQ.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/f5ec8a8df1f9.webp)
 
 對癒華（Vigorbloom）來說，醫療救護與植物學向來相輔相成。利用 {% mtglink "Vigorbloom Vanguard" %} 將你獲得的生命轉化為成長，它能在治療你的同時，為你的生物放置 +1/+1 指示物。這個系列原型核心在於培養指示物以及維持你的生命值，確保你兩者兼顧。 {% mtglink "Graft Surgeon" %} 能在你的生物死去後，把指示物留在場上，而 {% mtglink "Bloombrute" %} 則能在你獲得生命時，確保你的手牌資源源源不絕。
 
 ### <span style="color:#C3B270">白</span><span style="color:#808080">黑</span> 莉蓮娜的消耗戰
 
-![](https://i.meee.com.tw/VrOlbdg.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/d9faa33fd175.webp)
 
 在逆聲宇宙（Echoverse）中，莉蓮娜成為了一名治療師而非死靈術士。透過 {% mtglink "Rank Rat" %} 和 {% mtglink "Campus Crier" %} 這類微小生物來一點一滴消耗對手，同時兼顧墳場的兩面。一旦這些生物失去了利用價值，便可利用 {% mtglink "Edgar, Ancient Bloodlord" %} 將牠們的死亡化為你的獎勵，或是透過 {% mtglink "Twisted Fates" %} 將牠們轉化為更強大的存在。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#006DB3">藍</span> 茜卓的靈技
 
-![](https://i.meee.com.tw/YCUxkMo.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/e13ecfe794a3.webp)
 
 如果茜卓（Chandra）成為了主導控制而非爭取自由的力量會怎麼樣？利用 {% mtglink "Saheeli, Jewel of Avishkar" %} 這類關注非生物咒語的卡牌，在局勢中建立你的絕對掌控。接著，用 {% mtglink "Unsummon" %} 和 {% mtglink "No Admittance" %} 這類低費法術淹沒戰場，確保你的卡牌持續觸發，讓對手的生物無法留在場上。
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span> 賈路的生物圖鑑
 
-![](https://i.meee.com.tw/4sXOmak.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/00e29563c2a2.webp)
 
 獵人竟變成了他一心想摧毀的對象！跟隨賈路（Garruk）那股無情前行的步伐，用 {% mtglink "Primal Witchstalker" %} 這類能滾出龐大價值的生物大軍踏平對手。你施放的每一個生物都能帶來收益，不論是 {% mtglink "Teyo, Diamondblade Mage" %} 的防護，還是 {% mtglink "Hapatra, the Desert Fang" %} 的去除效果。如果你的生物不幸倒下也別擔心，直接用 {% mtglink "Rewrite Regrets" %} 把牠們拉回來。
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span> 阿耶尼的大軍
 
-![](https://i.meee.com.tw/k0Xviap.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/b3207b376fd9.webp)
 
 阿耶尼（Ajani）一直以來都是個戰士，但他在逆聲宇宙中的對應角色卻是兇猛大過友善。將那股好戰的精神化為 +1/+1 指示物，灌注到你的生物身上。尋找像 {% mtglink "Hexhaven Battalion" %} 和 {% mtglink "Heartstring Puller" %} 這類能產出學員（Cadet）衍生物的來源，因為這些卡牌通常能用一張牌的代價換取多個生物。這種速度正是贏得遊戲的關鍵，特別是當它搭配像 {% mtglink "Warrior's Blades" %} 這樣沉重的武具（Equipment）時更是如此。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span> 傑斯的掌控
 
-![](https://i.meee.com.tw/UAjy7xg.png)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/3b5785e407b3.webp)
 
 身為多重宇宙幕後操盤手的傑斯（Jace）為了獲勝已準備好不擇手段。從強化傑斯開始，然後在整局對戰中持續從你的鵬洛客衍生物身上榨取價值。 {% mtglink "Kiora of Salt and Sand" %} 能賦予你的傑斯衍生物額外能力， {% mtglink "Countersculpt" %} 只要你請援（behold）傑斯便會費用減免，而 {% mtglink "Inspired Tethermage" %} 則會隨著你這位心靈法師的複製品一起成長。
 

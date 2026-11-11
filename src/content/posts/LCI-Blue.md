@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 藍色"
 date: "2023-11-15 13:13:42"
-cover: "https://i.imgur.com/sjtcFUD.png"
-thumbnail: "https://i.imgur.com/sjtcFUD.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Blue/97b77283fc47-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Blue/97b77283fc47-cover.jpg"
 excerpt: "藍色是友誼的魔法...等等，怎麼都是神器！？"
 categories:
   - "Limited"
@@ -27,7 +27,7 @@ authors:
 
 ## 藍色
 
-![藍色](https://i.imgur.com/sjtcFUD.png)
+![藍色](https://images.guildmagesforum.tw/posts/LCI-Blue/97b77283fc47.webp)
 
 > 藍色各稀有度的數量
 >
@@ -55,7 +55,7 @@ authors:
 **cephille**：2.5
 [反召喚](https://cards.scryfall.io/large/front/b/5/b5fc46f2-59f4-4899-9c33-8b3f6da3c763.jpg?1646056586)多一費然後有條件的送你一個地圖衍生物，在藍色套牌中應該是很有機會發生。
 
-![047](https://i.imgur.com/yWMi1cQ.jpg)
+![047](https://images.guildmagesforum.tw/posts/LCI-Blue/e67201564051.webp)
 
 **cephille**：4.0
 進場後有三次的機會可以從它上面移除一個羅網指示物（net counter）可以把非地永久物躺下來然後在他保持橫置的狀態時起動式異能都不能用。基本上雖然不像[寒冰操弄器](https://cards.scryfall.io/large/front/f/9/f9632147-7a55-4a4c-a3ec-de3a3916ad8b.jpg?1645607787)這樣可以一直用一直爽，但它還多一個可以鎖住起動式異能的功能，這用得好的話應該可以打亂對手的計畫來取得優勢；而限制賽時應該也可以看到旅法或結界被它橫置動彈不得的有趣場面。
@@ -100,14 +100,14 @@ authors:
 **cephille**：2.5
 作為一個閃現的軟解將對手的大哥、或討人厭的飛兵、難以去除的神變成無異能的1/1白板，堪稱無炸彈套牌的救星。然後還有一點小優勢是解掉時可以觸發落墳，這兩點加起來都會讓我覺得蠻看好這張牌在限制賽的表現。
 
-![055](https://i.imgur.com/FqNe0nS.jpg)
+![055](https://images.guildmagesforum.tw/posts/LCI-Blue/07d002842def.webp)
 
 **cephille**：3.0
 這個系列神器（還得算上珍寶跟地圖衍生物）以及其他永久物具有起動式異能的牌真的不少，它作為一個一費曲線雖然在進場當回合沒有辦法用，但之後都可以讓你的起動式異能變得相當滑順，可能可以視為一個弱一點甚至接近等效的[訓練場](https://cards.scryfall.io/large/front/9/9/991c27ed-f53c-48c6-8c12-282f44b8d441.jpg?1693171015)；而化煉需要九費加上四張具起動式異能的非地牌，乍看之下可能達成機率不高，但如果你套牌很會生珍寶跟地圖衍生物，那可能要轉化就沒有那麼難了。轉化後它除了可以用因化煉而被放逐的牌張的起動式異能外，同時也可以讓你每個非魔法力異能的起動式異能都能複製一次，光犧牲地圖勘查兩次這樣就很賺了；當然，如果你沒有值得使用的異能的話，單純把它當作一個小訓練場不轉化也是可以的。
 
 當然，不要忘記它自己可以先產費再拿去支付自己的化煉異能喔！所以實際上它要起動只要七費就夠了。
 
-![056](https://i.imgur.com/jrWfZAT.jpg)
+![056](https://images.guildmagesforum.tw/posts/LCI-Blue/48f5db3c4e22.webp)
 
 **cephille**：3.0
 我會把它當作是一個會觸發神器進場、加速落墳的卜卦。而落墳8雖然有點難達成，但並不是做不到的事，如果可以達成並轉化的話，多一塊地不說，產出來的法力拿來施放永久物咒語的話，你的另一個永久物還可以變成它的複製品直到回合結束，基本上很可能是施放一隻生物變出一塊地去打人這樣。總之，它就是一個上限很高的卜卦，而卜卦在偏中速的環境中應該都會不錯，相信它在LCI也能有很不錯的表現。
@@ -127,7 +127,7 @@ authors:
 **cephille**：2.0
 基本上康生物跟神器在這個系列目標應該不少，而如果康掉一個中後期的威嚇再傾探4以上，做得出來就會很不錯。但要留意它是相對卡節奏的，如果實測後它卡在你手上的次數比你賺得更少，那就別放了。可能藍黑色組用它速度會比較差不多，前期殺一殺或回手，中期再康掉賺一波。
 
-![060](https://i.imgur.com/IzO8Hnu.jpg)
+![060](https://images.guildmagesforum.tw/posts/LCI-Blue/a9260e0669fa.webp)
 
 **cephille**：2.5
 二費進場磨一抽一不虧牌，六費可以化煉變成6/6攻擊時可以橫置/重置目標神器或生物，基本上在神器主題中應該都可以放來過牌+中後期的威嚇，二合一的卡基本上用起來應該都不差。
@@ -137,7 +137,7 @@ authors:
 **cephille**：3.5
 三費2/3飛行守護（一），進場的時候可以為每位玩家各選一個它操控的神器或生物把它變成珍寶並失去所有異能。基本上就是把對手的威脅變珍寶算是進場帶一個軟解；不過如果你自己卡地卡色時也可以額外選自己的其他生物或神器來調色。
 
-![062](https://i.imgur.com/ECG9seJ.jpg)
+![062](https://images.guildmagesforum.tw/posts/LCI-Blue/9fcf6699155e.webp)
 
 **cephille**：3.0
 閃現進場暈一個神器或生物兩回合，然後化煉的費用也不高只要三費，轉化後可以讓你的生物持續探查，感覺在藍綠、紅藍這種可能打得比較偏節奏一點的思路中表現會不錯。
@@ -162,7 +162,7 @@ authors:
 **cephille**：1.5
 二費1/2警戒飛行不會讓我很想放，但它可以當神器或神器來源的起動式異能的mana頭讓我有點猶豫要不要給它高一點的分數，拿來起動化煉應該還行，感覺在白藍色組的選次可能會稍微高一點。
 
-![067](https://i.imgur.com/ecYmB4f.jpg)
+![067](https://images.guildmagesforum.tw/posts/LCI-Blue/ac624e102ae3.webp)
 
 **cephille**：5.0
 ~~每個神都是炸彈，結束。~~ 四費4/3飛就是一個非常好的體格，在限制賽中基本死不了；轉化後變成地當回合是躺著進所以產不了費要注意。拔完三個指示物後還可以付三費把它轉回來，對手又要面對一次它應該會哭死。這邊把從手上施放瞬間會彈回（Rebound）這件事放在最後講是因為這可能是限制賽中最不關鍵的異能，考慮到這個系列是神器環境而且落墳關注我們在墳場中的永久物牌，我們在構築套牌時應該會提高放永久物解的意願，這連帶的會讓你套牌的非永久物牌變少，連帶地讓藍神的彈回異能發生機率大幅下降。
@@ -244,7 +244,7 @@ authors:
 **cephille**：2.0
 四費讓對手把他的目標神器或生物彈回其牌庫頂或底，不是很確定在這個系列中會不會太慢，先給個基本分。但如果對手有搜尋牌庫或洗牌的異能要結算前，你可以把對手的威脅一起洗回去然後期待不要再看到。
 
-![083](https://i.imgur.com/FBL4mwa.jpg)
+![083](https://images.guildmagesforum.tw/posts/LCI-Blue/fdadc2c23d64.webp)
 
 **cephille**：1.5
 這張牌前期用來推進落墳，後期落墳8後化煉一塊海島變成一個4/4不能被擋的載具；總覺得好像做了很多事很厲害但還是覺得有點太慢了，而且前期自磨有點弱，要推進落墳我還是比較想選[歲月智者](https://cards.scryfall.io/large/front/a/6/a6e53495-c76c-4cd4-b93e-b2c491d2c13a.jpg?1699043905)這樣的牌。

@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/JZuxjMU.jpg"
-thumbnail: "https://i.meee.com.tw/JZuxjMU.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/aaca5f4cbf47-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/aaca5f4cbf47-cover.jpg"
 excerpt: "在認識石頭這名選手以前，筆者揣測他是位相對寡言、格外專注的選手，但在面對面訪談過後，發覺石頭體內蘊藏著極大的熱忱，而那真的非常亮眼。同時，他的崛起也說明了「友情」的重要性。且讓我們一起看下去吧！"
 ---
 
@@ -24,7 +24,7 @@ A：預賽第二輪其實不太順利，我打平了，以至於預賽場次我�
 當下我並不知道打到冠軍能出國，只知道打到前面可以獲得 PT 資格。我本身屬於不太會被緊張感影響的玩家，就以平常心繼續打下去了。
 八強戰是當天最關鍵的對局，印象中，我的對手菜鳥 aka [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689)選用了艾斯波中速套牌。該場次格外吃力的原因有二：一是因為菜鳥本身很強，二則是因為那把打了非常非常久，好像從晚上七點一路戰到九點多，而艾斯波中速套牌也是我優勢沒那麼大的套牌。過關以後，我從這個對局中又獲得了一些信心，繼續拿下了四強、冠亞賽的勝利。
 
-![](https://i.meee.com.tw/VzCpdyu.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/6863758c7c51.webp)
 
 >眼尖的你猜得出我們在哪間包廂訪談嗎？
 
@@ -67,7 +67,7 @@ A：我通常會從環境 meta 中的前段選一副自己較喜歡的來打。
 A：從**進入我的結束階段**時，一直到再次進入我的回合以前，我的注意力會盡量放在對手的身上，記得自己的手牌後就不會再多關注，除非有事情要回應才會去檢視，然後稍微觀察對方在打牌過程中有沒有小習慣。能判讀資訊當然是最好的，至少也會思考對方打牌的用意和節奏，然後思考下一步該做些什麼，不會花太多心思在自己的手牌及場面。
 趣事部分的話，自從得到**她**以後，打牌時候我就會盡量把她放在身邊：一個希歐蕊的小別針！算是我的幸運物兼行侶XD~~希望我抽牌可以補兩滴~~。
 
-![](https://i.meee.com.tw/JZuxjMU.jpg)
+![](https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/aaca5f4cbf47.webp)
 > 極其精緻的別針和充滿征戰痕跡的口金包。
 
 #### Q9：站在場上的雖是選手本身，但選手身邊的團隊、親人、朋友也肯定會參與其中。生活上有遇到什麼印象深刻的支持或爭吵嗎？

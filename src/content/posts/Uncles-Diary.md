@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "MTG Anecdote"
-cover: "https://i.meee.com.tw/q1ADOpF.jpg"
-thumbnail: "https://i.meee.com.tw/q1ADOpF.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Uncles-Diary/d821ad5eb00a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Uncles-Diary/d821ad5eb00a-cover.jpg"
 excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競爭的框架之下，敗者的數量永遠多於贏家，又或者說，最終的贏家也就那麼一位而已，既然如此，其他人的存在究竟有什麼意義呢？"
 ---
 
@@ -58,7 +58,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 柏宇的嘴巴雖然毒、經常處於吐槽的狀態，卻是我們三人之中最溫柔的人了。柏宇總是會注意到我們的需求，甚至在別人開口以前就主動提供資源，更樂於為了朋友挺身而出、付諸行動。沒有他，我就沒有套牌裡的[Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge)，而沒有[Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge)，今天就無法贏過子安，因為子安的套牌裡也同樣有[Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge)。稍早分出勝負以前，我們還大笑著共用一張token揍來揍去……
 
-![](https://i.meee.com.tw/q1ADOpF.jpg)
+![](https://images.guildmagesforum.tw/posts/Uncles-Diary/d821ad5eb00a.webp)
 
 > 和當天的亞軍大大對上時，我們也用這張token玩得不亦樂乎 ~~直到他連追兩盤逆轉敲破了我的頭唉~~ 。
 
@@ -78,7 +78,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 子安一直都有個毛病，領到薪水就會開始思考如何犒賞自己。抵達[牌塔](https://www.facebook.com/totarmory)的他似乎是想要尋求快感，我懶得鳥他也不想再勸什麼，便自己四處走走逛逛。不小心瞥見BUILE DIVIDE的《戀上換裝娃娃》外盒包裝，視線停留地稍微久了一點，就那麼一點點。這部動畫真的是很好看呢，女主角也是。
 
-![](https://i.meee.com.tw/nDv2Z0v.png)
+![](https://images.guildmagesforum.tw/posts/Uncles-Diary/de497deabdd2.webp)
 
 > 就是這封面讓我知道，牌塔是有那麼點可怕喔……
 
@@ -126,7 +126,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 三人說好打開卡包以後，只看主題而不看卡牌內容。第一場由我對決柏宇。我開出黑色噁心蟲蟲加上紅色哥布林的組合，柏宇則是綠色地落加上白色補血的搭配。三塊地時我準時拍下[Krenko, Tin Street Kingpin](https://scryfall.com/card/j25/572/krenko-tin-street-kingpin)，下回合再拍一張[Scavenged Blade](https://scryfall.com/card/j25/596/scavenged-blade)，快速打4並生出四隻1/1哥布林。再過一回合，柏宇應該認為手牌無力對抗我的海量雜魚軍團了，選擇投降，表情有點凝重。
 
-![](https://i.meee.com.tw/tyaD1Rp.jpg)
+![](https://images.guildmagesforum.tw/posts/Uncles-Diary/af156f0c449f.webp)
 
 > 拍完[Scavenged Blade](https://scryfall.com/card/j25/596/scavenged-blade)之後，其實我還用[Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat)殺了柏宇的生物，幫[Krenko, Tin Street Kingpin](https://scryfall.com/card/j25/572/krenko-tin-street-kingpin)成功開路，然後努力讓自己不要笑得太明顯。
 
@@ -163,7 +163,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 我眼中的張子安確實變強了，因為他停留在沮喪裡的時間越來越短。競爭級別的本質，其實是一場跨過挫折感的漫長馬拉松。
 
-![](https://i.meee.com.tw/pMwKgeX.jpg)
+![](https://images.guildmagesforum.tw/posts/Uncles-Diary/a561fb72878e.webp)
 
 > 自從開始參與競爭級別的賽事後，每一場的記血紙我都還留著。
 
@@ -179,7 +179,7 @@ excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競�
 
 領完獎品過後，這次我們真的解散了，各自回各自的家。
 
-![](https://i.meee.com.tw/A5ygCin.jpg)
+![](https://images.guildmagesforum.tw/posts/Uncles-Diary/302fc71f044f.webp)
 
 > 出門奮戰兼玩耍了一整天，留下好多足跡，它們都會長存在我的卡本裡。順帶一提，[貓腳印東門店](https://www.facebook.com/@CatFootPrintDongMen.tw)的Foundations Jumpstart方案真的超級實惠有夠開心讚讚讚。
 

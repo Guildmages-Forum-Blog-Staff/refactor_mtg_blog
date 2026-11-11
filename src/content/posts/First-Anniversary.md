@@ -1,8 +1,8 @@
 ---
 title: "Guildmage's Forum 魔風集會所一周年運營咨文"
 date: "2024-09-05 01:02:26"
-cover: "https://i.postimg.cc/Dfd2NRbg/407625190-122135490788036860-6039281861566976437-n.jpg"
-thumbnail: "https://i.postimg.cc/Dfd2NRbg/407625190-122135490788036860-6039281861566976437-n.jpg"
+cover: "https://images.guildmagesforum.tw/posts/First-Anniversary/113770d82e98-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/First-Anniversary/113770d82e98-cover.jpg"
 excerpt: "歡慶 Guildmages' Forum 網站成立一周年！！！我們有新的中文名稱「魔風集會所」囉！來看看創辦人們這一年的心路歷程吧！"
 authors:
   - "gmf-staff"
@@ -14,7 +14,7 @@ categories:
 
 ## 話說從頭：Guildmages' Forum 網站是怎麼誕生的？
 
-![](https://i.meee.com.tw/zRQ3noa.jpg)
+![](https://images.guildmagesforum.tw/posts/First-Anniversary/d6e42724af0c.webp)
 
 2023 年 9 月 7 日是 Guildmage's Forum 網站正式公布的日期，也是一個值得紀念的日子。這篇文章就帶大家來回顧一下我們這個網站是怎麼開始，一年來又做了那些嘗試，以及運營這個網站的心得吧！
 
@@ -78,7 +78,7 @@ GF 雖然是一個靜態的部落格式網站，內容主要刊載與 MTG 相關
 
 此外，除了一同合作的夥伴，也有許多不吝給予建議的前輩、熱心的玩家；你們的建議都在網站展現迭代的過程中，持續地被討論或逐步落實。如果在任何與 MTG 相關的場合、或賽事中有機會碰面的話，都歡迎與我們聊聊！
 
-![](https://i.imgur.com/N59gTXH.jpeg)
+![](https://images.guildmagesforum.tw/posts/First-Anniversary/f2347cfba03f.webp)
 
 > 惡搞一下《幻想水滸傳》一代的宣傳圖。話說最近要重製了，有興趣的朋友也可以去關注一下XD
 
@@ -116,7 +116,7 @@ MTG 這個遊戲之所以好玩，主要是因為參與其中的人。這一點�
 
 是我們網站的新名字，網站的縮寫則是 "**GF**"，這同時也有 good friends 的意涵。這件事其實在團隊中發想了好一段時間，起因是，如果讀者不知道網站的關鍵字，那我們的內容即使再好也無法被找到；為了增加網站的能見度，一個有利於搜尋的中文名稱是有必要的。考慮到初學者想要加入遊戲，最有可能會使用「MTG」、或中文的「魔風」來搜尋，這點也在構想中文名稱時一併考慮進去，最後經團隊成員投票決定。
 
-![](https://i.imgur.com/yjnUKHD.jpeg)
+![](https://images.guildmagesforum.tw/posts/First-Anniversary/8a3445d26a61.webp)
 
 ## 結語：這就像微型創業
 

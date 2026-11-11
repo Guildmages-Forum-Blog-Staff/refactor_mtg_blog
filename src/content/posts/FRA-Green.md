@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "GY_Player"
-cover: "https://i.meee.com.tw/sU6FdKo.png"
-thumbnail: "https://i.meee.com.tw/sU6FdKo.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Green/c2d7d7641b2c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Green/c2d7d7641b2c-cover.jpg"
 excerpt: "用踐踏生物們狠狠的痛扁藍色渣男旅法師"
 ---
 

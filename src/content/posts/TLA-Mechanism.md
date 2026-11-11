@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/8DJ500j.png"
-thumbnail: "https://i.meee.com.tw/8DJ500j.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Mechanism/097c4f6bff4e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Mechanism/097c4f6bff4e-cover.jpg"
 excerpt: "來看看降世神通中出現了哪些機制吧！"
 ---
 
@@ -22,7 +22,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 
 ## 截氣（Airbend）
-![Airbend](https://i.meee.com.tw/X3IfLpn.png)
+![Airbend](https://images.guildmagesforum.tw/posts/TLA-Mechanism/397ba266830d.webp)
 
 截氣是一個關鍵字動作，截氣可以對永久物或咒語作用，並將其放逐，於該牌被放逐期間，該牌的擁有者可以支付 {2} 來施放該牌，而不是支付原本的魔法力費用。
 
@@ -33,7 +33,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 
 ## 截水（Waterbend）
-![Waterbend](https://i.meee.com.tw/qUdLtKL.png)
+![Waterbend](https://images.guildmagesforum.tw/posts/TLA-Mechanism/1af8863ce76b.webp)
 
 截水總是會包含一個魔法力費用，要求玩家以指定方式支付該費用。截水的費用可以作為施放咒語的額外費用、作為異能起動費用的一部分，或設計成任何要求支付魔法力的費用。
 
@@ -44,7 +44,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 
 ## 振火（Firebending）
-![Firebending](https://i.meee.com.tw/2TVgtOX.png)
+![Firebending](https://images.guildmagesforum.tw/posts/TLA-Mechanism/f8815698a169.webp)
 
 振火後面會有個數字N，每當一個由你操控具有振火N的生物攻擊時，你會獲得N點紅色魔法力，且這些紅色魔法力在戰鬥階段中，不會因為步驟切換而消失。戰鬥階段結束，這些紅色魔法力會消失，因此進入第二行動階段時你將不再擁有這些紅色魔法力。
 
@@ -65,7 +65,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 
 ## 運土（Earthbend）
-![Earthbend](https://i.meee.com.tw/JsrOOqk.png)
+![Earthbend](https://images.guildmagesforum.tw/posts/TLA-Mechanism/02acb74abdec.webp)
 
 運土後面會有個數字N，當你執行運土N時，選擇目標由你操控的地。運土結算時，該地會成為0/0，具敏捷異能的生物，且仍然是地，然後在其上放置N個+1/+1指示物。當該地死去或放逐時，將它在 **你** 的操控下橫置移回戰場。要特別強調的是，這裡的 **你** 指的不是這塊地的操控者或擁有者，而是這次運土異能的操控者。
 
@@ -75,7 +75,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 運土與WOE、LCI的雙色變身地相性十分契合，因為這些地只要攻擊就會觸發異能，至於它是否是由自己的起動式異能成為生物的並不重要。此外跟[頹垣廢址](https://scryfall.com/card/fdn/687/demolition-field)這類藉由犧牲自己來起動異能的地也有不錯的配合。
 
-![Land](https://i.meee.com.tw/Ya30wDG.png)
+![Land](https://images.guildmagesforum.tw/posts/TLA-Mechanism/5129c580e774.webp)
 
 {% endfolding %}
 
@@ -84,7 +84,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 
 ## 課程（Lesson）
-![Lesson](https://i.meee.com.tw/99Sezxz.png)
+![Lesson](https://images.guildmagesforum.tw/posts/TLA-Mechanism/e4bead6efae4.webp)
 
 課程本身僅僅是個卡片附類別，並不帶有任何特別規則，過去在[斯翠海文](https://scryfall.com/sets/stx)中曾經與溫習（Learn）異能配套使用，不過本系列並無任何具溫習異能的牌。
 
@@ -95,7 +95,7 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 
 ## 竭絕（Exhaust）
-![Exhaust](https://i.meee.com.tw/2IpeeSW.png)
+![Exhaust](https://images.guildmagesforum.tw/posts/TLA-Mechanism/f1ed6a107f25.webp)
 
 竭絕是近期於[乙太飄移](https://guildmagesforum.tw/DFT-mechanism/#%E7%AB%AD%E7%B5%95%EF%BC%88Exhaust%EF%BC%89)中出現的異能，本系列再度少量回歸。
 
@@ -111,4 +111,4 @@ excerpt: "來看看降世神通中出現了哪些機制吧！"
 
 降世神通：最後的氣宗的售前現開賽將於 2025 年 11 月 14 日開始，前往附近的店家體驗新系列吧！
 
-![Final](https://i.meee.com.tw/XYU2g6t.png)
+![Final](https://images.guildmagesforum.tw/posts/TLA-Mechanism/5bfadfa53e69.webp)

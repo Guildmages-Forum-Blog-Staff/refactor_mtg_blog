@@ -8,8 +8,8 @@ categories:
   - "Beginner"
   - "Level One"
 
-cover: "https://i.meee.com.tw/Vs1wQRH.jpg"
-thumbnail: "https://i.meee.com.tw/Vs1wQRH.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/16f0e3f2a5d7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/16f0e3f2a5d7-cover.jpg"
 excerpt: "Level One: Playing in a Grand Prix: Part I"
 
 ---
@@ -32,7 +32,7 @@ excerpt: "Level One: Playing in a Grand Prix: Part I"
 
 參加大獎賽，很有可能會成為你生命中真正卓越的經歷。然而，大型比賽可能是忙亂、壓力沉重且充滿情緒波動的。在這個分為兩部分的系列文章中，我想盡可能提供建議，幫助你發揮比賽中最好的一面，並避免任何可能讓體驗不夠完美的因素。
 
-![](https://i.meee.com.tw/lAAeupP.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/e45786f56dd6.webp)
 
 ### 設定目標（Setting Goals）
 
@@ -48,7 +48,7 @@ excerpt: "Level One: Playing in a Grand Prix: Part I"
 
 最有幫助的目標是那些無論你在比賽中表現如何都可以努力達成的目標。例如：「我的目標是在比賽時不分心。」或者：「我的目標是慎重做出調度（mulligan）決定。」或者：「我的目標是盡可能少漏掉觸發式異能。」
 
-![](https://i.meee.com.tw/7VqksAC.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/24ecc9891a08.webp)
 
 話雖如此，有些人（包括我自己）是非常目標導向的，需要目標來幫助他們發揮最佳水平。如果你像我一樣，我建議使用基準指標。「我的目標是贏得我打的每一場對局，但如果我能取得 6 勝 3 負或更好的成績，我也會為自己感到自豪。」或者：「如果我沒有贏下至少一半的對局，我會考慮下次更換套牌。」
 
@@ -75,7 +75,7 @@ excerpt: "Level One: Playing in a Grand Prix: Part I"
 
 任何能在週五晚上先做好讓週六早上不那麼手忙腳亂的事，都是好主意。仔細檢查你是否已經報名成功。如果是構築賽，請先組好套牌並收拾好背包。若是與朋友同行，請先確保每個人時間都對得上。在比賽中你已經有夠多事情要忙了，你不需要額外的壓力，比如匆忙尋找某張需要的單卡、或是空等某個以為比賽晚一小時才開始的朋友。
 
-![](https://i.meee.com.tw/MdAJ8Iq.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/aba29707ed66.webp)
 
 同理，別選擇那些會讓你無法以最佳狀態參賽的旅伴。如果朋友的某些行為困擾著你，請直接向他們反應；若他們依然故我，下次比賽不妨考慮換個人選。你不需要因此與他們絕交，但若你發現自己每次去比賽都因此搞得身心俱疲，你絕對必須做出改變。
 
@@ -95,7 +95,7 @@ excerpt: "Level One: Playing in a Grand Prix: Part I"
 
 我想額外強調一點：你和你的對手應該對雙方玩家的血量非常清楚。使用紙筆記錄雙方的總生命值。每當有人生命值發生變化時，請口頭確認。如果你看到對手記錄的生命值有誤，根據規則，你有義務立即釐清誤會。你最不希望看到的事，就是你在認為自己還有 8 點血時做出了決定，而實際上你只有 6 點血。更糟糕的是，你不希望生命值差異持續了好幾個回合——直到那時可能已經太晚而無法糾正。
 
-![](https://i.meee.com.tw/BP5GIBJ.jpg)
+![](https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/9247cc89ff1b.webp)
 
 ### 遵守規則（Playing By the Rules）
 

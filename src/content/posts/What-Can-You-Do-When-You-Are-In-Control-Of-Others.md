@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/a7rScJ7.png"
-thumbnail: "https://i.meee.com.tw/a7rScJ7.png"
+cover: "https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/802836f783b2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/802836f783b2-cover.jpg"
 excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 ---
 
@@ -15,7 +15,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 操控其他玩家是一類非常罕見又強大的效應，[絕望終局伊莫庫](https://scryfall.com/card/inr/5/emrakul-the-promised-end)在標準被禁後，有很長一段時間沒在標準印過操控其他玩家的牌，不過今年卻一連印了[統御臂環](https://scryfall.com/card/eoe/239/the-dominion-bracelet)+[截血神功奧秘](https://scryfall.com/card/tla/69/secret-of-bloodbending)兩張可以操控對手的新牌，其中[截血神功奧秘](https://scryfall.com/card/tla/69/secret-of-bloodbending)算是筆者滿有興趣開發的玩具之一，並且自從MH3大幅補強奧札奇主題後，在近代賽制比賽中遭遇[絕望終局伊莫庫](https://scryfall.com/card/inr/5/emrakul-the-promised-end)也不是甚麼罕見事了。所以究竟在操控對手時，哪些是可以做的事？ 哪些是做不到的事呢？
 
-![前言](https://i.meee.com.tw/fW7QuZZ.png)
+![前言](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/7ed72b786996.webp)
 
 
 ---
@@ -43,7 +43,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 不過你終究只能操控對手遊戲內的行為，像是投降、約和、叫裁判、上廁所等行為，行使權依舊在對手身上，你並不能強行控制對手投降，反之如果對手認為這局已經沒救了，不想給你看到更多額外資訊，即使已經在操控對手的期間，對手也能隨時投降。
 
-![Battlebond](https://i.meee.com.tw/42nAnBI.png)
+![Battlebond](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/e05d26c14312.webp)
 
 如果目前正在遊玩 **[雙頭巨人賽制](https://mtg.fandom.com/wiki/Two-Headed_Giant)** ，或其他多人共享回合賽制，那麼當你操控一位玩家時，就等於操控該隊伍中所有玩家。
 
@@ -59,7 +59,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 你操控另一名玩家時，可以看到那個玩家的所有遊戲內可見資訊，包含手牌、效果允許操控者檢視內容的面朝下牌等（如下範例）。而牌庫必須要有效應使你搜尋（或其他能看見牌庫內容之效應）時，你才能夠看到牌庫內容，就像你平時不能隨便拿起自己的牌庫看一樣。
 
-![](https://i.meee.com.tw/dwoKhj5.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/885f8fe64b62.webp)
 > ● **[駭人劫案](https://scryfall.com/card/mkm/97/outrageous-robbery)：** 
 > 目標對手牌面朝下地放逐其牌庫頂的X張牌。於這些牌持續放逐的時段內，你可以檢視並使用它們。如果你以此法施放咒語，則你可以將魔法力視同任意種類的魔法力來施放。
 > ● **[隱密大衣](https://scryfall.com/card/mkm/50/cryptic-coat)：** 
@@ -83,7 +83,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 ## 其他規則範例
 
-![](https://i.meee.com.tw/BjXKzxo.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/5cabc579cfb3.webp)
 > ● **[絕望終局伊莫庫](https://scryfall.com/card/inr/5/emrakul-the-promised-end)：** 
 > 當你施放伊莫庫時，目標對手在他下個回合由你來操控。在該回合後，該玩家進行額外的一個回合。
 > ● **[蔽日巨怪](https://scryfall.com/card/dst/120/eater-of-days)：** 
@@ -100,7 +100,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 
 
-![](https://i.meee.com.tw/wACCDaJ.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/0a2159eb7af8.webp)
 > ● **[絕望終局伊莫庫 × 2](https://scryfall.com/card/inr/5/emrakul-the-promised-end)：** 
 > 當你施放伊莫庫時，目標對手在他下個回合由你來操控。在該回合後，該玩家進行額外的一個回合。
 
@@ -117,7 +117,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 
 
-![](https://i.meee.com.tw/6IT8XRo.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/f53322d34f97.webp)
 > ● **[反對派密探 × 2](https://scryfall.com/card/cmr/141/opposition-agent)：** 
 > 對手在搜尋其牌庫期間由你來操控。
 > 於任一對手搜尋其牌庫期間，他放逐所有他找到的牌。於這些牌持續放逐的時段內，你可以使用它們，且你可以將魔法力視同任意顏色的魔法力來支付施放它們的費用。
@@ -131,7 +131,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 
 
-![](https://i.meee.com.tw/KU2upU2.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/5b1bda407a72.webp)
 > ● **[反對派密探](https://scryfall.com/card/cmr/141/opposition-agent)：** 
 > 對手在搜尋其牌庫期間由你來操控。
 > 於任一對手搜尋其牌庫期間，他放逐所有他找到的牌。於這些牌持續放逐的時段內，你可以使用它們，且你可以將魔法力視同任意顏色的魔法力來支付施放它們的費用。
@@ -154,7 +154,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 
 
-![](https://i.meee.com.tw/5T2HwpZ.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/7c9c2899f42b.webp)
 > ● **[反對派密探](https://scryfall.com/card/cmr/141/opposition-agent)：** 
 > 對手在搜尋其牌庫期間由你來操控。
 > 於任一對手搜尋其牌庫期間，他放逐所有他找到的牌。於這些牌持續放逐的時段內，你可以使用它們，且你可以將魔法力視同任意顏色的魔法力來支付施放它們的費用。
@@ -168,7 +168,7 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 {% folding blue :: 跨冰河亞龍運作圖解 %}
 
-![](https://i.meee.com.tw/eahYJ1I.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/4f0b58884993.webp)
 
 {% endfolding %}
 
@@ -188,4 +188,4 @@ excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 
 有關操控其他玩家的效應，重點還是 **「 哪些是可見資訊 」** ，一般最重要的就是記得  **「 操控對手時看不到對手的備牌 」** 這點。 
 
-![](https://i.meee.com.tw/yQjeaWZ.png)
+![](https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/76407cf0dc86.webp)

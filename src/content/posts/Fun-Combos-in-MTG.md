@@ -1,8 +1,8 @@
 ---
 title: "魔風路上的好玩組合技"
 date: "2024-05-29 14:59:14"
-cover: "https://i.imgur.com/2Ehfp2c.png"
-thumbnail: "https://i.imgur.com/2Ehfp2c.png"
+cover: "https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/11c3b4c15b6e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/11c3b4c15b6e-cover.jpg"
 excerpt: "終曲魔風路上的好玩組合技"
 categories:
   - "Construct"
@@ -25,13 +25,13 @@ authors:
 
 ### 純藍清風散形組合技 (2018年)
 
-![](https://i.imgur.com/kTmOoNo.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/215a9189b4c0.webp)
 
 主軸是透過[清風散形](https://scryfall.com/card/rix/46/release-to-the-wind)跟[魔法大師娜魯梅哈](https://scryfall.com/card/c21/124/naru-meha-master-wizard)的配合達成無限施放，再透過[沖盡秘密](https://scryfall.com/card/grn/39/drowned-secrets)達成無限磨牌，前期就是控制濾牌，相當簡單暴力的套牌。
 
 ### 幕賓柯希斯 (2019年)
 
-![](https://i.imgur.com/KqvEdDV.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/f8ac542e4b9c.webp)
 
 [幕賓柯希斯](https://scryfall.com/card/m20/211/kethis-the-hidden-hand)，先驅跟探險雙雙被禁止的單卡，筆者只有在標準環境有玩過他，先驅賽制推出沒多久他就被禁了，主軸是[幕賓柯希斯](https://scryfall.com/card/m20/211/kethis-the-hidden-hand)跟[勤勉開挖人](https://scryfall.com/card/dom/51/diligent-excavator)的配合，透過一直施放[琥珀瑪珂](https://scryfall.com/card/dom/224/mox-amber)跟[迷途的夫畢佐](https://scryfall.com/card/war/50/fblthp-the-lost)，前面先自磨累積墳場跟抽牌濾牌，後期終端可以改成磨對面或是靠施放[博奧傑斯](https://scryfall.com/card/war/54/jace-wielder-of-mysteries)獲勝．由於達成組合技速度相當穩定，在退標前一度風靡賽場，先驅環境的卡池更大，有費用更低的[吉拉波之望](https://scryfall.com/card/aer/154/hope-of-ghirapur)，所以就變成只能回憶的套牌了，應該是沒辦法放出來。
 
@@ -39,25 +39,25 @@ authors:
 
 ### 形體一新紅白學院龍 (2021年)
 
-![](https://i.imgur.com/KqfygGE.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/e2a8948c9f75.webp)
 
 說到先驅[形體一新](https://scryfall.com/card/war/206/neoform)，比較常見到的是變出[大一統飛將亞崔夏](https://scryfall.com/card/one/196/atraxa-grand-unifier)之後賺取大量資源，但其實有另外一軸更加有趣，可以找出來進場之後就結束遊戲的，那就是[維洛馬楚衡鑑](https://scryfall.com/card/stx/245/velomachus-lorehold)，透過形體一新讓他變成6/6，目標是透過事先刺探來整理牌庫頂，喊打之後施放[卡恩的時間碎裂](https://scryfall.com/card/dom/55/karns-temporal-sundering)或是[分開水簾](https://scryfall.com/card/bfz/80/part-the-waterveil)達成無限回合打死人，另外我當初玩的時候有另外投入[召現苦難](https://scryfall.com/card/neo/147/invoke-calamity)避免卡手，進而增加成功多一回合的機率，透過形體一新提供的一顆+1/+1豆剛好可以施放六費咒語，不得不說原作者有想到真的很厲害．我也有在MITQ當中玩過，但套牌當天沒有挺我就是XD，看十一張沒有半張多一回合Orz
 
 ### 安塔斯無限重置組合技 (2023年)
 
-![](https://i.imgur.com/bK4zFEw.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/b98ecc1549aa.webp)
 
 關鍵卡[大築金師安塔斯](https://scryfall.com/card/one/75/unctus-grand-metatect)，當其他藍色生物變橫置時抽一棄一，搭配像是[奇奧拉的追隨者](https://scryfall.com/card/bng/150/kioras-follower)、[駿妖嚮導](https://scryfall.com/card/stx/45/kelpie-guide)或是MKM最新出的[法證研究員](https://scryfall.com/card/mkm/58/forensic-researcher)彼此互相重置對方達成無限抽，最終用[和聲召集](https://scryfall.com/card/rvr/134/chord-of-calling)找出或是正下[塔薩的先知](https://scryfall.com/card/thb/73/thassas-oracle)贏得遊戲。
 
 ### 風暴傳令使 (2020年)
 
-![](https://i.imgur.com/wg10sQ7.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/9f428859321f.webp)
 
 THB登場的[風暴傳令使](https://scryfall.com/card/thb/156/storm-herald)以及IKO登場的可愛貓咪[龐碩化](https://scryfall.com/card/iko/148/colossification)，筆者在標準環境有玩過一陣子，但因為龐碩化進場會橫置貼的生物，所以只能靠投擲類的效果達成斬殺．隨後有位玩家在先驅組了傳令使套牌，額外使用了[怒氣成焰](https://scryfall.com/card/cmr/166/burning-anger)，流程是傳令使同時挖龐碩化跟怒氣成焰回場貼在一隻生物身上，接著回應橫置異能啟動怒氣成焰賦予的效果直接對玩家造成等同力量的傷害．這一套組合技的強勢點在於：傳令使的挖貼皮效果本身是沒有目標的，我要挖哪些貼皮跟貼給誰在結算時對手都沒辦法對應，只要場上還有存活任何一隻生物（不一定要傳令使本人），就可以全部貼他身上，這時候對手要回應殺掉該生物也來不及了，因為怒氣成焰的效果上堆疊後生物死去也會看他的最終狀態，所以傷害還是會足夠．除了放墳以外，唯二可以對應的方法只有傳令使效果觸發時殺光場上所有生物or回應啟動效果把龐碩化拆了讓他體質減少（但前提也要只有一張龐碩化回到場上）。
 
 ### 大紅（2020年）
 
-![](https://i.imgur.com/YwmTz3r.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/78689b315c5d.webp)
 
 [大紅牌表連結](https://www.mtggoldfish.com/deck/2777201#paper)
 
@@ -69,13 +69,13 @@ THB登場的[風暴傳令使](https://scryfall.com/card/thb/156/storm-herald)以
 
 #### [易形地窖](https://scryfall.com/card/clb/903/mutavault)
 
-![](https://i.imgur.com/BbtnLHr.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/d5a4efbe43f5.webp)
 
 地窖在這一套牌中，包含所有生物類別這一條發揮的相當極致．當你的[劫富俠客](https://scryfall.com/card/eld/138/robber-of-the-rich)偷了牌但本人卻未能留在場上的話，你之後可以透過地窖喊打繼續去施放你偷來的牌；當你的[鬼怪鬧事頭](https://scryfall.com/card/m15/145/goblin-rabblemaster)要攻擊時，你也可以讓地窖一起打協助增加鬧事頭的傷害；最讓人津津樂道的，當你或你的鵬洛客被攻擊的時候，[破箝薩坎](https://scryfall.com/card/war/143/sarkhan-the-masterless)被動觸發，這時候回應把地窖通通變起來(可以自己產費變自己)，接著結算薩坎被動，這時候或許對手的生物就死光了喔。
 
 #### [基嵐之心號](https://scryfall.com/card/aer/153/heart-of-kiran)
 
-![](https://i.imgur.com/HEOcdnw.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/a6652a1529c7.webp)
 
 基嵐之心在這一套中有個超高傷害組合技，許多人都沒意識到可以這樣配合，發現的當下已經被點死了．當[炎技茜卓](https://scryfall.com/card/war/119/chandra-fire-artisan)在場上時，你可以透過基嵐之心的搭載異能拔掉茜卓的忠誠，這時候茜卓被動觸發打對手一點，對手想要殺茜卓的時候可以一顆一顆通通拔掉全部丟在對手臉上．如果這時候場上又有[赤嶺邑主托班](https://scryfall.com/card/eld/147/torbran-thane-of-red-fell)的話，那就是拔一顆忠誠打三點，通常茜卓進場+1會有五顆豆，那傷害就是十五滴了相當可怕。
 
@@ -89,13 +89,13 @@ THB登場的[風暴傳令使](https://scryfall.com/card/thb/156/storm-herald)以
 4. [伊美黎召令//破碎空境伊美黎](https://scryfall.com/card/znr/12/emerias-call-emeria-shattered-skyclave)
 5. [旋林共生//曲木旋林](https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood)
 
-![](https://i.imgur.com/Dd9uO3J.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/dd7cc7c6f5c4.webp)
 
 直接讓我接下來要介紹的兩套牌可以不用擔心地躺著進而慢人家一回合的問題，這兩套牌都是透過放這種雙面牌，來讓一些觸發判斷整套牌都沒有地因此達成組合技。
 
 ### 無地墳場 (2020年)
 
-![](https://i.imgur.com/4DskEYz.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/20513d41a072.webp)
 
 主軸是兩隻生物[地底城告密人](https://scryfall.com/card/gtc/82/undercity-informer)和[欄外探子](https://scryfall.com/card/gtc/57/balustrade-spy)，透過[五色棱镜](https://scryfall.com/card/5dn/143/pentad-prism)、帶黑的飾符或是[猿猴精靈嚮導](https://scryfall.com/card/tsr/190/simian-spirit-guide)快速上到四費，施放啟動兩隻生物其中一隻將整個牌庫磨進墳，接著觸發順序為：
 
@@ -111,7 +111,7 @@ THB登場的[風暴傳令使](https://scryfall.com/card/thb/156/storm-herald)以
 
 ### 無地火炮 (2020年)
 
-![](https://i.imgur.com/qRHuuzI.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/e88c4d35dc0e.webp)
 
 我們剛剛提到了[鬼怪噴火炮](https://scryfall.com/card/ema/222/goblin-charbelcher)，其實有另外一套套牌是圍繞著鬼怪噴火砲在運作．藉由套牌中的跳費手段，像是[猿猴精靈嚮導](https://scryfall.com/card/tsr/190/simian-spirit-guide)、[急迫祭禮](https://scryfall.com/card/chk/163/desperate-ritual)、[熱病祭禮](https://scryfall.com/card/m11/153/pyretic-ritual)快速上四費施放[伊雷岩壯舉](https://scryfall.com/card/eld/127/irencrag-feat)產七費後施放[鬼怪喷火炮](https://scryfall.com/card/ema/222/goblin-charbelcher)並啟動，特殊構築讓噴火砲判斷套牌沒有地，所以翻幾張就打多少在對方臉上，爽感十足。
 
@@ -136,7 +136,7 @@ THB登場的[風暴傳令使](https://scryfall.com/card/thb/156/storm-herald)以
 
 ### 一地火炮 (2019年)
 
-![](https://i.imgur.com/kldJeYv.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/2e787498b297.webp)
 
 嚮導被禁，近代火砲要開上限的機率變低許多，這時候剛好有店家在推薪傳，我就順勢將近代火砲改成薪傳一地版本．構築上啟動點通常需要至少一點紅色，整套牌又沒有任何一張放ZNR的地，但方法還是挺多的：
 
@@ -145,7 +145,7 @@ THB登場的[風暴傳令使](https://scryfall.com/card/thb/156/storm-herald)以
 
 產出紅之後，可以透過[烈焰儀式](https://scryfall.com/card/csp/96/rite-of-flame)、[急迫祭禮](https://scryfall.com/card/chk/163/desperate-ritual)以及[熱血戰歌](https://scryfall.com/card/c21/179/seething-song)將費用跳到七費後施放噴火砲，也可以跳到四費後施放噴火炮，接著起動的三費用[獅眼鑽](https://scryfall.com/card/mir/307/lions-eye-diamond)來支付（啟動要棄光手牌，所以沒辦法用來施放只能用來當起動費用）。
 
-![](https://i.imgur.com/FS4qeDt.png)
+![](https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/80429b2ea142.webp)
 
 這一套放[獅眼鑽](https://scryfall.com/card/mir/307/lions-eye-diamond)的另外一個重點，是可以換手牌或是走planB，手上或墳場如果有[亙古回聲](https://scryfall.com/card/mh1/46/echo-of-eons)的話，先將起手可以產的費用先通通產出來，隨後透過啟動獅眼鑽將手牌棄光產三點藍，從墳場施放[亙古回聲](https://scryfall.com/card/mh1/46/echo-of-eons)後重抽七張，通常前面保留的費用，就可以讓你新抽的七張繼續增加費用跟增加風暴計數，可以拿去施放正邊也有放三張的[淨空繁殖地](https://scryfall.com/card/tsr/162/empty-the-warrens)。
 

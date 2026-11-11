@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/2TufZFh.png"
-thumbnail: "https://i.meee.com.tw/2TufZFh.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-White/16e8d4a79ff1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-White/16e8d4a79ff1-cover.jpg"
 excerpt: "本次蜘蛛人系列白色圍繞著「大家的好鄰居」蜘蛛人為主，從小生物進攻建立優勢，靈活的應用Web-slinging異能於戰場來去自如建立優勢，透過Modified建立建立強大生物換取資源，一步一步拿下勝利。"
 ---
 

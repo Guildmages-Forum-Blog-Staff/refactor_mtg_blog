@@ -1,8 +1,8 @@
 ---
 title: "敗戰處理：豬鼻子的標準藍黑中速回顧"
 date: "2025-07-10 09:43:03"
-cover: "https://i.meee.com.tw/EZxxiG6.jpg"
-thumbnail: "https://i.meee.com.tw/EZxxiG6.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/000288df90b1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/000288df90b1-cover.jpg"
 excerpt: "……一度打得很掙扎、差點發狂，卻莫名其妙習慣當條 underdog 的感覺了，不知不覺變得很平靜，反正也沒有什麼會因此失去。漸漸又能夠享受對弈的快樂，更開始摸索出適合自己的打法。 ～摘錄自王靖《誤闖競爭級別的大叔年末日記》"
 authors:
   - "cephille"
@@ -15,7 +15,7 @@ categories:
 
 在20250630的B&R後，標準環境迎來了自2020年以來罕見的大幅度禁牌，一刀未剪的藍黑中速從被紅底快攻壓制的前賽季中，一躍而成賽場大熱門…… 呃好像有點過熱了？
 
-![](https://i.meee.com.tw/Pt3JzbB.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/ac5117b7be63.webp)
 > 金魚網確認日期為2025年7月5日
 
 如果我們僅從20250630-20250706這週來看，彷彿它正是這標準環境最大的毒瘤！不過，這副套牌並不是從一開始就有這番盛景。也許標準將要輪替的此刻，讀者們不見得會對此議題感到太大興趣，但我仍想試著整理這過程中的脈絡，來為我這一年半的歷程做個小結。
@@ -48,7 +48,7 @@ categories:
 
 這場MITQ雖然沒有打得很好，但也更深刻地體會到[Gix, Yawgmoth Praetor](https://scryfall.com/card/tdc/181/gix-yawgmoth-praetor)以及黑魔判的強力。
 
-![](https://i.meee.com.tw/nDC2pP1.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/7af814cd9868.webp)
 
 #### [20240127 ALG MITQ - 豬鼻子的標準藍黑中速分析與戰報（MIT#6資格取得）](https://guildmagesforum.tw/Standard-Dimir-Midrange/)
 
@@ -87,7 +87,7 @@ categories:
 
 隨後，魁渡也被證明三回忍術登場、超級難殺、且可以持續進攻的旅法師有多麼變態；基於此，Siren也被重新放滿4張，目的就是要一二回盡可能鋪開能讓魁渡順利登場的誘餌們。[藍貓](https://scryfall.com/card/dsk/51/enduring-curiosity)只要結算一張，就會化身哆啦A夢實現我所有的願望～更不要說同時在場兩張以上了！Floodpits Drowner不但在後續對陣紅底快攻時扮演超重要的防守者，連消帶打的優異表現，更是藍黑中速後手時阻止對方三回忍術的重要攔網手！此後，DSK三劍客們的故事正要被大鳴大放地書寫，這只是序幕而已。
 
-![](https://i.meee.com.tw/mGM95j6.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/e8c7eaccd239.webp)
 
 #### [20241103 CM APAC標準賽](https://www.facebook.com/share/p/1Cw5ABWUFg/)
 
@@ -125,7 +125,7 @@ categories:
 
 > 延伸閱讀：[竞技万智牌镜头下的最佳操作？解析市川佑树的黑绿护符](https://www.iyingdi.com/tz/post/5255591?fbclid=IwY2xjawLXHhJleHRuA2FlbQIxMABicmlkETF0dmQ3NUh0elpjQm5wNnIyAR42lfPdDZXYQT5l1qZo1P6qQxnKpOKtT7ueI7ASaoKC4kqtRxL_a8HlUMLapA_aem_XvMG4kHwXAR_-hxVfr4uYA)
 
-![](https://i.meee.com.tw/ThFJgJl.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/e27f79e70b49.webp)
 
 #### [20250223 卡士多 MITQ](https://www.facebook.com/share/p/1AheLVYfjF/)
 
@@ -178,7 +178,7 @@ Again and Again，那裡跌倒就那裡站起來。這次我終於學會要帶[S
 
 ## 對於勝負的反思
 
-![56](https://i.meee.com.tw/6ecVgml.jpg)
+![56](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/8e4d2e476d8e.webp)
 
 在Spotlight的Day 1，已經確定無緣進入Day 2的那時，我站在會場二樓，準備要搭手扶梯進入到一樓的高處，看著參與著Spotlight熙來攘往的人們，除了參與正賽的2,250位玩家外，更有3倍或更多的其他玩家、他們的親朋好友、裁判、廠商、以及主辦單位從業人員等來到現場。一場比賽只會有一個冠軍，就算計入八強，能夠稱得上「勝利」的人實在是寥寥無幾。競技賽事，就是一場零和遊戲，我非常的清楚。
 

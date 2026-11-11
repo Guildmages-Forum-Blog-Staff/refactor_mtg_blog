@@ -41,7 +41,7 @@ authors:
 
 ## 牌表 & DeckTech
 
-![](https://i.imgur.com/nNdzJH3.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/7fcbfc2afa7d.webp)
 [牌組連結](https://www.mtggoldfish.com/deck/visual/5730979)一併附上。
 
 這套是近期MO Super Qualifier拿下9-0的75張四色元素構築改版（拿掉一張[閃電擊](https://scryfall.com/card/2x2/117/lightning-bolt)跟[怒火](<https://scryfall.com/card/mh2/126/zht/%E6%80%92%E7%81%AB）改放兩張[艾拉達力的召集](https://scryfall.com/card/mh1/197/zht/%E8%89%BE%E6%8B%89%E9%81%94%E5%8A%9B%E7%9A%84%E5%8F%AC%E9%9B%86)>)，將數量提升到75張沒有特別的原因，就是為了配合新的單卡[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)打最貪的資源戰，因此盡可能多的將元素的解場卡和賺牌單卡放入，mana base部分則依靠[芮恩與六樹妖](https://scryfall.com/card/2x2/296/wrenn-and-six)穩定。
@@ -56,11 +56,11 @@ authors:
 
 ### 生物
 
-![](https://i.imgur.com/DSTfsmd.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/bcfa87c555f1.webp)
 [快樂的半身人](https://cards.scryfall.io/large/front/e/6/e65be588-4209-4ad7-9bdc-d601fdc0e8f6.jpg?1689143202)，魔戒出的新一費單卡，算是大幅度影響這套牌速度的重要單卡之一。
 **不能被康**的性質在協助施放[芮恩與六樹妖](https://scryfall.com/card/2x2/296/wrenn-and-six)、[理時泰菲力](https://scryfall.com/card/war/221/zht/%E7%90%86%E6%99%82%E6%B3%B0%E8%8F%B2%E5%8A%9B)、[生機核歐那斯](https://scryfall.com/card/znr/232/zht/%E7%94%9F%E6%A9%9F%E6%A0%B8%E6%AD%90%E9%82%A3%E6%96%AF)或[至尊戒](https://scryfall.com/card/ltr/246/the-one-ring)等等關鍵單卡上有重大作用。
 
-![](https://i.imgur.com/Y4GBhci.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/af7877ed9118.webp)
 果凍怪是這套牌的核心之一。
 在有找地地的近代環境中，它的地落異能都能幫助在不同對局取得優勢。
 進場會觸發抽牌，想要避免它觸發地落異能的建議利用這個trigger跳出來的時機先把它解決掉。
@@ -69,48 +69,48 @@ authors:
 - 地落2的產費異能可以幫助元素在中期做出展開。
 - 地落3的傷害異能比較少用到，但如果對手進入斬殺線或是有一定得處理掉的旅法師，可以考慮到下回合再使用找地地一口氣地落三次。
 
-![](https://i.imgur.com/Hb6uNrG.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/123c71bc3d2b.webp)
 老媽不會投入太多張，主要作用是用來觸發自己的進場異能、打內戰或是打需要進場異能的deck（如`泰坦護身符`或是`變境`）
 與歐納斯同時在場上時，出一張地就可以觸發歐納斯的地落異能兩次還請注意。
 
-![](https://i.imgur.com/HVvj3oH.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/e8e839ed9cd3.webp)
 紅色帶呼魂異能的解場，擁有很優秀的分配傷害能力，在打`巨槌`或是`約格莫夫`這種小生物套牌很強。
 
-![](https://i.imgur.com/ySEHryF.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/0bc9b23c1484.webp)
 白色帶呼魂異能的解場，擁有可以解決對手單體大怪的優秀能力，如[黯潮龍侯](https://scryfall.com/card/mh2/52/zht/%E9%BB%AF%E6%BD%AE%E9%BE%8D%E4%BE%AF)或[死亡陰影](https://scryfall.com/card/2xm/82/deaths-shadow)，閃現的性質讓它有可以瞬間施放的彈性，自帶的繫命異能也讓它在對抗快攻時成為重要的單卡之一。
 
 ### 旅法師
 
-![](https://i.imgur.com/WCftMBZ.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/6e6b393625ea.webp)
 相當重要的單卡，集穩定mana base和前期解場的能力於一身。
 主要是拿來[+1]抓找地地來穩定每回合的Mana，也可以抓用過的[曆祚母聖樹](https://scryfall.com/card/neo/266/zht/%E6%9B%86%E7%A5%9A%E6%AF%8D%E8%81%96%E6%A8%B9)或循環掉的三色地。
 [-1]可以點掉大部分的近代1費怪，如[龍怒通念師](https://scryfall.com/card/mh2/121/zht/%E9%BE%8D%E6%80%92%E9%80%9A%E5%BF%B5%E5%B8%AB)、[巧手竊猴勒格文](https://scryfall.com/card/mh2/138/zht/%E5%B7%A7%E6%89%8B%E7%AB%8A%E7%8C%B4%E5%8B%92%E6%A0%BC%E6%96%87)（猴子）、[艾斯波哨衛](https://scryfall.com/card/mh2/12/zht/%E8%89%BE%E6%96%AF%E6%B3%A2%E5%93%A8%E8%A1%9B)都在它的擊殺範圍，或是遊戲中後期拿來點對手做斬殺。
 [-7]使你墳場的瞬間跟巫術可以被追溯（可以從墳場施放此牌，但須支付費用並額外棄一張地牌），雖然比較少有機會用到，但如果成功開到且手上地夠用的話可以多次[閃電擊](https://scryfall.com/card/clb/187/zht/%E9%96%83%E9%9B%BB%E6%93%8A)對手，會成為一種end game手段。
 
-![](https://i.imgur.com/NkuITQZ.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/fefb3ed1a8c1.webp)
 惡名昭彰的旅法師。它非常壞，不只可以讓對面只能玩爐石，還可以利用規則卡掉一些咒語的運作。
 他只要在你場上，對手只能巫術時機施放咒語，對手不能出康牌、不能施放cascade出來的咒語、任何規則上**不是巫術時機**施放的咒語都不能做。
 若是對手場上存在，或是有可能以回應泰菲力的施放來閃現[奧克弓手](https://scryfall.com/card/ltr/103/orcish-bowmasters)進場的狀況下，使用他的[-3]異能將弓手以外的結界、神器或生物彈回手時，會因為觸發弓手的異能而導致泰菲力被擊殺。雖然將弓手彈回去可以保住泰菲力，但對手如果下一回合再出一次弓手泰菲力還是會死亡，以結果來講是會虧牌的，因此當對手場上站一隻弓手時泰菲力進場請先[+1]保平安。
 
 ### 瞬間/巫術
 
-![](https://i.imgur.com/VgMz23G.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/aa40bd88a43e.webp)
 [閃電擊](https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852)應該不用我多說，近代賽制長青樹，1費打3簡單暴力。可以打掉一些3血的怪或是旅法師，相當的好用。
 其實投入這張的主要原因是要與[虹彩終局](https://scryfall.com/card/mh2/25/zht/%E8%99%B9%E5%BD%A9%E7%B5%82%E5%B1%80)做一個混搭來防止遊戲被[頌懼僧妥拉克](https://scryfall.com/card/mh2/102/zht/%E9%A0%8C%E6%87%BC%E5%83%A7%E5%A6%A5%E6%8B%89%E5%85%8B)給收掉。
 後期有機會開到[芮恩與六樹妖](https://scryfall.com/card/2x2/296/wrenn-and-six)的大絕的話也可以追溯這張把對面電死。
 
-![](https://i.imgur.com/cFqBuLt.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/0d5cfc63ba1d.webp)
 MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多的話）。
 基本上就是用來清空對手的前期場面。也是少數可以處理掉戒指的單卡。
 
-![](https://i.imgur.com/ytAsp39.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/ca3cad8c03eb.webp)
 現在比較少（幾乎沒有）人在放的單卡，但我認為如果環境是內戰居多、或是元素會被針對的狀況下，這張還是得投入。
 主要是在面對燒時要用來找[生機核歐那斯](https://scryfall.com/card/znr/232/zht/%E7%94%9F%E6%A9%9F%E6%A0%B8%E6%AD%90%E9%82%A3%E6%96%AF)、打進場異能deck時要找[機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)、打創時則是要找炸地龍[黑曜石焰喉龍](https://scryfall.com/card/mh2/137/zht/%E9%BB%91%E6%9B%9C%E7%9F%B3%E7%84%B0%E5%96%89%E9%BE%8D)。尤其在75張的構築中，能夠在需要的時間點抓到對的生物很重要。
 缺點是會掉節奏，使用兩費找生物在近代環境中相當奢侈，因此這張單卡的投入價值還有待測試，但我認為是個不錯的選擇。
 
 ### 神器
 
-![](https://i.imgur.com/lrsjZq7.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/f064f40fd67e.webp)
 魔戒本人，擁有相當強大的抽牌，外加如果是施放進場買一回合反一切保護的護主能力。
 雖然每回合維持有扣血副作用，但可以依靠[生機核歐那斯](https://scryfall.com/card/znr/232/zht/%E7%94%9F%E6%A9%9F%E6%A0%B8%E6%AD%90%E9%82%A3%E6%96%AF)的補血，或是利用[理時泰菲力](https://scryfall.com/card/war/221/zht/%E7%90%86%E6%99%82%E6%B3%B0%E8%8F%B2%E5%8A%9B)把他給彈回手上來抵銷。
 記住他的抽牌條件是先放重負指示物(burden counter)，然後看上面有幾顆指示物來決定可以抽幾張牌，若在放指示物前戒指因為某個原因離場，能夠抽牌的數量會取決於它離場前上面有幾顆指示物。
@@ -118,7 +118,7 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 
 ### 結界
 
-![](https://i.imgur.com/xm5O0ej.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/fb63275d047e.webp)
 艾卓新出的單卡，放在元素套牌中可以讓你的資源爆發的更快。
 只要施放5費或5費以上的咒語就可以抽一張。
 有效範圍可以觸及[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)、[怒火](https://scryfall.com/card/mh2/126/zht/%E6%80%92%E7%81%AB)、[幽寂](https://scryfall.com/card/mh2/32/zht/%E5%B9%BD%E5%AF%82)、[機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)或是X等於4的[虹彩終局](https://scryfall.com/card/mh2/25/zht/%E8%99%B9%E5%BD%A9%E7%B5%82%E5%B1%80)。
@@ -133,7 +133,7 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 奇奇結界，相信應該不用我多說，從~~標準、~~先驅乃至近代都看的到它的身影，資源賺到翻掉的強力單卡。
 三個異能都很優秀，產珍寶來調整mana base、濾牌和複製生物都跟這套牌相當契合。
 
-![](https://i.imgur.com/trWIqkA.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/50f909aa8259.webp)
 近代環境菁英單卡，1費就能使用的除地以外的萬能瞬間時機解。
 得益於找地地能夠輕易找出三色地和電震地的性質，想要湊出五種基本地類別不是什麼難事，不用像先驅那樣mana base還得靠賽，它在幾乎所有對局中都是第2 turn就可以打出來的單卡。
 
@@ -143,7 +143,7 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 
 #### 找地地
 
-![](https://i.imgur.com/SJ6Jvzg.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/f49d72a171f5.webp)
 首先找地地的部分，我們會投入以上三種。
 而因為極度需要調色的關係，找地地的數量我們會投入到11-12張左右來維持足夠的濃度。
 至於為什麼是這三種有兩個原因:
@@ -153,30 +153,30 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 
 #### 電震地
 
-![](https://i.imgur.com/OD1KXtW.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/2014050a72de.webp)
 電震地的部分，則是為了要配合能夠叫出[生機核歐那斯](https://scryfall.com/card/znr/232/zht/%E7%94%9F%E6%A9%9F%E6%A0%B8%E6%AD%90%E9%82%A3%E6%96%AF)而做出調整，基本上紅藍綠白色組的電震地都投入了。
 
 #### 三色地
 
-![](https://i.imgur.com/UTR9UDN.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/587915745f9a.webp)
 三色地的部分則是投入了三張，依照順序會優先被找出來的是[洛格凌群系](https://scryfall.com/card/iko/251/zht/%E6%B4%9B%E6%A0%BC%E5%87%8C%E7%BE%A4%E7%B3%BB)和[因達沙群系](https://scryfall.com/card/iko/248/zht/%E5%9B%A0%E9%81%94%E6%B2%99%E7%BE%A4%E7%B3%BB)，以此來讓[閃電擊](https://scryfall.com/card/clb/187/zht/%E9%96%83%E9%9B%BB%E6%93%8A)、[虹彩終局](https://scryfall.com/card/mh2/25/zht/%E8%99%B9%E5%BD%A9%E7%B5%82%E5%B1%80)和[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)可以在前兩回合做使用。
 [斯帕拉的總部](https://scryfall.com/card/snc/257/zht/%E6%96%AF%E5%B8%95%E6%8B%89%E7%9A%84%E7%B8%BD%E9%83%A8)則是可以後續有空的時候找出來，或是抽到時用來循環掉，再用[芮恩與六樹妖](https://scryfall.com/card/2x2/296/wrenn-and-six)的[+1]異能撿回來做濾牌。
 
 #### 基本地
 
-![](https://i.imgur.com/UxzP2kL.jpg)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/5b9f8af58461.webp)
 這三種不同的基本地也是為了提防[腥紅之月](https://scryfall.com/card/2xm/346/blood-moon)，並為了能夠叫出[生機核歐那斯](https://scryfall.com/card/znr/232/zht/%E7%94%9F%E6%A9%9F%E6%A0%B8%E6%AD%90%E9%82%A3%E6%96%AF)而做出調整，因此不會投入山脈。
 
 #### 功能地
 
-![](https://i.imgur.com/qLH7A7Y.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/6982ebef6a2d.webp)
 功能地的部分我們選擇使用這張在近代擁有強大功能的母聖樹，在針對創、護符泰坦、巨槌的對局中非常重要。
 
 ### 備牌選擇
 
 近代比起標準和先驅來說，更算是一個強調備牌彈性和強度的賽制，以下幾張會是套牌經常使用的備牌，而當然數量部分完全是看個人喜好、和玩家想要特別針對的對局。
 
-![](https://i.imgur.com/QqExXz1.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/d717b9b98676.webp)
 [虛空聖杯](https://cards.scryfall.io/large/front/f/a/fab5f3b1-dc9f-4529-8283-941f60fa016e.jpg?1646195971)在針對不同的對局中會壓不同的充電指示物(charge counter)上去，但共同目標不外乎就是為了要卡死對手的牌組運作。
 放幾個指示物就會康掉所有玩家所施放的那個費用的咒語。（EX:放一個指示物就會自動康掉所有一費的咒語）
 要記得虛空聖杯的異能連自己的咒語都適用，如果對面自己定了聖杯，然後傻傻的也用了同其上指示物費用的咒語記得不能給他過。
@@ -185,25 +185,25 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 **使用對局建議：**
 巨槌(X=1)、龍侯(X=1)、死影(X=1)、紅白燒(X=1)、Cascade系列(X=0)
 
-![](https://i.imgur.com/qLH7A7Y.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/6982ebef6a2d.webp)
 備牌中我們會多帶上幾張母聖樹來應付較多特殊地牌和以神器、結界為主體的牌組。
 
 **使用對局建議：**
 巨槌、護符泰坦、創、神器共鳴
 
-![](https://i.imgur.com/wvvqYZI.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/392a2f2973b3.webp)
 一費給予自己辟邪加上回兩滴血，彈回的異能甚至可以讓你在下個維持階段再使用一次，可以保護你被指定玩家為目標的咒語兩回合，相當強力。
 
 **使用對局建議：**
 紅黑Scam、紅白燒
 
-![](https://i.imgur.com/CCCwBja.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/3f8b53489083.webp)
 藍白色的非生物康，用來對付一些有強力非生物咒語的套牌，因擁有不能被康的特性，因此可以繞過如[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)或[神秘干擾](https://scryfall.com/card/eld/58/zht/%E7%A5%9E%E7%A7%98%E5%B9%B2%E6%93%BE)類的反康咒語。
 
 **使用對局建議：**
 創、Cascade系列、四色元素、藍黑/藍白控制、無畏創新、紅白燒
 
-![](https://i.imgur.com/3VqxcFM.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/a475a97054b8.webp)
 點破咒語，主要是用來干擾對手前中期的牌組運作、在需要保護自己咒語結算時用來反康、亦或是逼迫對手支付兩費來停牌。
 在注重前期展開的近代環境中，大部分的牌組都會將mana全倒來施放咒語，或是為了留mana做其他展開/干擾而不願意支付這兩費，使點破咒語的結算可能性高上許多。
 缺點是這張牌在中後期不是一張好的Top Deck，遊戲在經過5回合之後支付這兩點額外費用不會對戰局產生太大影響（但如果對手沒有防還是有機會用的到）。
@@ -211,25 +211,25 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 **使用對局建議：**
 創、Cascade系列、四色元素、藍黑/藍白控制、無畏創新、紅白燒、紅藍龍侯、死影
 
-![](https://i.imgur.com/IIrBbjE.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/45c6759813e7.webp)
 需要剋墳時而會使用到的元素，有些構築會在正編投入一張防止自己因為抽太多張被爆牌庫。
 
 **使用對局建議：**
 紅藍龍侯、死影、勇德克薩傳、Living End、磨牌（洗自己的墳場）、紅黑Scam、黑綠約格莫夫
 
-![](https://i.imgur.com/6m359pv.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/e1410b0ffb37.webp)
 炸地龍，對付需要特殊地牌來運作的牌組時會用到，非傳奇的性質讓他有機會被[奇奇幾奇映影](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?back)複製到。
 
 **使用對局建議：**
 創、護符泰坦
 
-![](https://i.imgur.com/3pbTDds.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/2c9ceabfeaf4.webp)
 打神器結界套牌會用到，在對手回合可以0費替費施放相當不錯。
 
 **使用對局建議：**
 巨槌、神器共鳴、護符泰坦、無畏創新
 
-![](https://i.imgur.com/oHw6jML.png)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/e2c5c046ae84.webp)
 施放就會觸發第二條異能，可以獲得對手下個回合的控制權。
 主要用來對付控制和內戰，控制對手把自己的資源和手牌盡可能的清空。
 

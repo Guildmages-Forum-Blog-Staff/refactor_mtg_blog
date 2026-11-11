@@ -1,8 +1,8 @@
 ---
 title: "如何施放無費用咒語"
 date: 2023-09-05 17:13:27
-cover: "https://i.meee.com.tw/wXlLcCR.webp"
-thumbnail: "https://i.meee.com.tw/wXlLcCR.webp"
+cover: "https://images.guildmagesforum.tw/posts/casting-spell-without-mana-cost/c0f0cacb60b8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/casting-spell-without-mana-cost/c0f0cacb60b8-cover.jpg"
 categories:
   - "MTG Rules"
 authors:
@@ -117,7 +117,7 @@ MTG的咒語中存在著一種特殊異類，它們沒有正常的施放費用�
 
 而[金圓搜集靈](https://scryfall.com/card/mom/227/halo-forager)僅要求瞬間巫術牌的魔法力值(Mana Value)，因此可以使用該異能來施放[壞滅足跡](https://scryfall.com/card/mh1/160/zht/%E5%A3%9E%E6%BB%85%E8%B6%B3%E8%B7%A1)。
 
-![迅咒法師&金圓搜集靈](https://i.imgur.com/qNuSUBK.jpg)
+![迅咒法師&金圓搜集靈](https://images.guildmagesforum.tw/posts/casting-spell-without-mana-cost/2f2f1fba0c4b.webp)
 
 ---
 
@@ -127,7 +127,7 @@ MTG的咒語中存在著一種特殊異類，它們沒有正常的施放費用�
 
 在2018的標準中，曾有兩張牌同時處於環境內，分別是[依夏蘭的束縛](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B)與[不死斯奎](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E)，各位試想一下，假若對手的[依夏蘭的束縛](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B)放逐了我的[不死斯奎](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E)，那我還能從放逐區施放[不死斯奎](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E)嗎?
 
-![束縛不住的斯奎](https://i.imgur.com/twwoCfx.jpg)
+![束縛不住的斯奎](https://images.guildmagesforum.tw/posts/casting-spell-without-mana-cost/75cd45a0a66b.webp)
 
 如果今天將題目換成[驅逐明光](https://scryfall.com/card/thb/4/zht/%E9%A9%85%E9%80%90%E6%98%8E%E5%85%89)，那答案顯而易見的可以。但當題目是[依夏蘭的束縛](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B)時，因為有個禁止我施放該牌名咒語的效應在，所以我應該不能從放逐區施放[不死斯奎](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E)對吧?
 

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/041peoy.png"
-thumbnail: "https://i.meee.com.tw/041peoy.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
 excerpt: "我按照我的想法生活，所以你應該按照你的想法生活（布蘭），用多變的法力基礎加上各式神器武具來建立你想要的遊戲方式吧!"
 ---
 
@@ -139,14 +139,14 @@ excerpt: "我按照我的想法生活，所以你應該按照你的想法生活�
 
 <!---雙色城鎮們--->
 
-![](https://i.meee.com.tw/NnE1vaZ.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Colorless/ca92aad7b92c.webp)
 
 分數：3.5（<span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span>色組限定分）/ 3.0（其他色組分數）
 評語：雙色市鎮（Town）在每一個色組都會使用到，這讓藍綠色組如果想要走town ramp主題，很可能在每一抽如果沒有看到4.0分或以上的炸彈時，都要優先扣下看到的雙色市鎮，直到牌組至少中有7張或更多的市鎮後，再降低市鎮的選次開始拿其他需要的單卡。因此特別給藍綠色組3.5分的高分作為提醒。
 
 而在非藍綠色組中，沾綠的市鎮也有機會作為混入的第三色來協助套牌放入其他色組的炸彈，同時也能吃到一點綠底市鎮主題的紅利，因此給予較高的3.0分來鼓勵讀者提早拿。
 
-![](https://i.meee.com.tw/UEQSS3e.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Colorless/0b00c6681986.webp)
 
 分數：3.0（<span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span>色組限定分）/ 2.5（其他色組分數）
 評語：同上，因為綠藍色組需要大量的市鎮作為套牌基底，因此在這色組中需要提早拿下。而因為這6張市鎮不帶綠的關係，選次在其他9個色組就沒那麼高了，色組用得上再拿就好。
@@ -157,7 +157,7 @@ excerpt: "我按照我的想法生活，所以你應該按照你的想法生活�
 評語：與[Radiant Fountain](https://scryfall.com/card/m21/248/radiant-fountain)相同效果，是補血手段之一，搭配市鎮主題或許能擴大其效益。
 
 <!---272--->
-![272](https://i.meee.com.tw/jTHhFEk.png)
+![272](https://images.guildmagesforum.tw/posts/FIN-Colorless/df50b4c99863.webp)
 分數：3.5
 評語：翻面後搭載1體質5/4飛行的載具相當具有威脅性，其翻面異能可以瞬間時機啟動，若沒有加速的話至少是八塊地後的事，大後期多一個能抽牌的打點可以增加優勢，但不能過度期待。
 

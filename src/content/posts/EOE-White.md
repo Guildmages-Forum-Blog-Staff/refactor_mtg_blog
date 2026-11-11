@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/wlzTw0K.webp"
-thumbnail: "https://i.meee.com.tw/wlzTw0K.webp"
+cover: "https://images.guildmagesforum.tw/posts/EOE-White/0530ac87d83f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-White/0530ac87d83f-cover.jpg"
 excerpt: "快攻控制樣樣通的萬能選擇"
 
 ---

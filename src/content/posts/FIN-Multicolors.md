@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/NIpoURE.webp"
-thumbnail: "https://i.meee.com.tw/NIpoURE.webp"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Multicolors/38f049c618bb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Multicolors/38f049c618bb-cover.jpg"
 excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的全新篇章吧！"
 ---
 
@@ -30,7 +30,7 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ## 色組主題
 
-![](https://i.meee.com.tw/r7Dylke.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/4a2691c6e6e6.webp)
 
 從官方提供的輪抽簡介出發，我們稍微延伸一下十種色組的核心單卡與互動。另外，十種色組中，每個色組都會有2張U卡的傳奇生物，作為機制的核心或補強。
 
@@ -39,19 +39,19 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#C3B270">白</span><span style="color:#006DB3">藍</span> — 神器（Artifacts）
 
-![](https://i.meee.com.tw/TV32ETf.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/51baf7b1fa26.webp)
 
 不斷的拍出 **神器** 、或派出 **神器衍生物** ，就能讓你的 {% mtglink "Tidus, Blitzball Star" %} 不斷增強且如入無人之境地達陣！而另一張U卡傳奇 {% mtglink "Cid, Timeless Artificer" %} 則鼓勵你拿下所有看得到的他，透過循環、戰鬥交換累積場上與墳場中的Cid，來讓你的 **英雄（Hero）** token、與神器生物獲得時間所累積的巨量加成！別忘了，具備 **職業選擇（Job Select）效果的武具** 們，進場會先派出1/1的無色Hero，Cid將會是小英雄們的偉大導師！
 
 ### <span style="color:#006DB3">藍</span><span style="color:#808080">黑</span> — 控制（Control）
 
-![](https://i.meee.com.tw/ZREx4tW.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/a2a87347f230.webp)
 
 藍黑色組又回到了最傳統的控制主題，而除了控制必備的 **抽濾、康、殺** 外，藍黑色組也能夠從 **累積墳場數量** 來獲得增益。U卡傳奇 {% mtglink "Locke Cole" %} 與 {% mtglink "Ultimecia, Time Sorceress" %} 邊打邊濾牌外，而當後期墳場中牌的數量累積到8張以上，更可以將Ultimecia轉化來讓你獲得額外的回合。
 
 ### <span style="color:#808080">黑</span><span style="color:#AF2321">紅</span> — 黑魔法師快攻（Black Wizard Aggro）
 
-![](https://i.meee.com.tw/jdITxDe.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/11e6b738cfed.webp)
 
 > 這邊直接採用了MTG生物種族名魔法師（Wizard），而不是FF遊戲中使用的法師（Mage），以避免讀者混淆。
 
@@ -61,7 +61,7 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#AF2321">紅</span><span style="color:#4A8A3D">綠</span> — 地落快攻（Landfall Aggro）
 
-![](https://i.meee.com.tw/yFh2Mea.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/a9ea9d9c4bf3.webp)
 
 紅綠色組中， **地落** 是一個很重要的主題，這兩張U卡傳奇， {% mtglink "Rydia, Summoner of Mist" %} 可以幫你濾掉不需要的牌，而 {% mtglink "Gladiolus Amicitia" %} 進場自帶找地可以觸發地落，而地落後給予其他生物灌大與踐踏是紅綠中非常需要的。這個色組，你需要放一些額外能找地進場、額外下地的手段，來讓你可以多次觸發地落的效果。
 
@@ -71,7 +71,7 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#C3B270">白</span> — 鋪場（Go Wide）
 
-![](https://i.meee.com.tw/56XRdb7.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/d3d26d7cd6d3.webp)
 
 雖然綠白色組的機制是鋪場，但這兩張U卡傳奇並沒辦法對這個主題有太多的加成， {% mtglink "Rinoa Heartilly" %} 要能發揮他進攻的灌大效果，你必須先鋪開場面；至於 {% mtglink "Garnet, Princess of Alexandria" %} 更像是支援僧侶（Cleric）這個小主題的一員，另外讓你的傳記生物可以在倒數計時前存活得久一點。
 
@@ -79,7 +79,7 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#C3B270">白</span><span style="color:#808080">黑</span> — 神器/生物犧牲（Artifact & Creature Sacrifice）
 
-![](https://i.meee.com.tw/D9tDEpu.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/ddd8a3cb235d.webp)
 
 白黑色組關注於 **神器與生物死去時的效果** ，U卡傳奇 {% mtglink "Judge Magister Gabranth" %} 一不小心就會長到很大，而另一張 {% mtglink "Rufus Shinra" %} 則隱含著這個色組需要派出一些能作為 **犧牲源** 的神器//生物來做為燃料。
 
@@ -87,7 +87,7 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#006DB3">藍</span><span style="color:#AF2321">紅</span> — 四費或以上非生物咒語（Big Noncreatures）
 
-![](https://i.meee.com.tw/tezq4eH.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/d1a5e5e172d1.webp)
 
 藍紅色組中 {% mtglink "The Emperor of Palamecia // The Lord Master of Hell" %} 是非常高效的非生物咒語[mana頭](https://scryfall.com/card/fdn/227/llanowar-elves)，可以協助你 **支付四點或更多魔法力來施放非生物咒語** ，並讓他體格增強甚至翻面；翻面後則關注墳場的非生物、非地咒語數量來造成額外的傷害。而 {% mtglink "Shantotto, Tactician Magician" %} 則受益於支付過四點或更多魔法力所施放的非生物咒語，除了讓他體格+4/+0或更多外，還能抽牌補充彈藥。
 
@@ -95,7 +95,7 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#808080">黑</span><span style="color:#4A8A3D">綠</span> — 墳場價值（Graveyard Value）
 
-![](https://i.meee.com.tw/oZ4P4Ow.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/13a81a900b94.webp)
 
 黑綠色組的兩張U卡，都關注於 **墳場中的永久物牌數量** 。也就是說，這個色組要能發揮得好，隱含著 **巫術/瞬間牌不宜過多** 的這個訊息。然而我們看一下回報單卡如 {% mtglink "Exdeath, Void Warlock // Neo Exdeath, Dimension's End" %} 、與 {% mtglink "Cloud of Darkness" %} ，在未達標前都算稍嫌普通的填充物，因此建議用另一個思路去切入。
 
@@ -103,13 +103,13 @@ excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的�
 
 ### <span style="color:#AF2321">紅</span><span style="color:#C3B270">白</span> — 武具快攻（Equipment Aggro）
 
-![](https://i.meee.com.tw/YC7VcXv.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/42e0a641566f.webp)
 
 本系列有26張武具牌（另外還有1張 {% mtglink "Sidequest: Play Blitzball // World Champion, Celestial Weapon" %} 轉化後背面是武具），其中更含有16張是 **職業選擇（Job Select）效果的武具** 們，圍繞著組牌一定是沒有問題的。U卡傳奇 {% mtglink "Giott, King of the Dwarves" %} 除了本身相當適合佩帶武具外，額外的棄抽效果也能讓你有效的過濾手牌，至於那個矮人（Dwarf）小主題只有3張生物，基本上可以當作沒有。而另一張 {% mtglink "Zidane, Tantalus Thief" %} 則跟武具主題較無關，但進場的 {% mtglink "Act of Treason" alt="叛行" %} 效果、與還回去派出的珍寶，都能創造額外的價值。
 
 ### <span style="color:#4A8A3D">綠</span><span style="color:#006DB3">藍</span> — 市鎮跳費（Town Ramp）
 
-![](https://i.meee.com.tw/kzV5Q4m.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/86331657cc00.webp)
 
 本系列有23張市鎮牌，由於雙色地本身自帶市鎮類別，所以即使你不打藍綠色組，你也都會使用到2～3張市鎮牌；而這同時也意味著，市鎮在輪抽時會很熱門，因為大家都會拿。因此，想 **要進入藍綠市鎮的主題，你必須提高市鎮牌的選次以確保數量充足** 。
 
@@ -151,24 +151,24 @@ U卡傳奇 {% mtglink "Ignis Scientia" %} 進場基本上可以ramp一張地，�
 評語：由於限定看墳場中的永久物牌數量，所以有可能殺不到，構築時要完全發揮強度要稍微留意一下自磨效果、以及永久物/瞬間巫術的比例。
 
 <!---218--->
-![218](https://i.meee.com.tw/neAVBuG.png)
+![218](https://images.guildmagesforum.tw/posts/FIN-Multicolors/4ce944632c9c.webp)
 分數：3.5
 評語：基本上就是個濾牌機，然而中後期沒貼穿透性武具可能打不過去。有機會翻面的話，可以把整個墳場拿起來玩很吸引人，但不要太過期待。
 
 <!---219--->
-![219](https://i.meee.com.tw/4KBZsb9.png)
+![219](https://images.guildmagesforum.tw/posts/FIN-Multicolors/b4841adced7c.webp)
 分數：3.5
 評語：紅藍這個色組的主題看來就是關注使用四點以上魔法力施放的非生物咒語。本身除了可以做為mana頭讓這類咒語更容易施放外，同時還可以一邊加體格參與攻擊；如果在他身上放到3個或更多豆子的話，轉化過去打人是很快的。(如果你有辦法幫他主動放豆的話，也可以加速這個進程)
 
 別忘了，他的轉化不需要放逐，並沒有使他離場，那些豆子都還是留在他身上的。
 
 <!---220--->
-![220](https://i.meee.com.tw/jXU5Kto.png)
+![220](https://images.guildmagesforum.tw/posts/FIN-Multicolors/167035d9f130.webp)
 分數：2.5
 評語：雖然是色組主題，也可以看出黑綠色組在FIN限制賽中關注的是永久物牌在墳場的互動，然而，翻面後也只是造出一隻至少6+/3的踐踏生物，在沒有加防禦力的前提下，基本上無法在進攻後存活，故僅給予平均分。
 
 <!---221--->
-![221](https://i.meee.com.tw/kY9sSKF.png)
+![221](https://images.guildmagesforum.tw/posts/FIN-Multicolors/7338a4508eef.webp)
 分數：3.0
 評語：除了232的進攻體格外，每一個非生物咒語額外刺探一都讓你的下一抽變得更好；而經歷幾輪生物交換後，在大後期你還可以用七費把他從墳場挖回來變成5/5的惡魔，在消耗戰中表現應該不錯。
 
@@ -208,7 +208,7 @@ U卡傳奇 {% mtglink "Ignis Scientia" %} 進場基本上可以ramp一張地，�
 評語：只要Jenova沒被解掉，持續地放豆然後賺取手牌，你就很難輸。1/5的體格也非常適合龜在後面阻擋而慢慢獲勝。如果搭配犧牲引擎，吃掉黑色的Mutant {% mtglink "Shambling Cie'th" %} 反覆抽三張將會非常噁心。
 
 <!---229--->
-![229](https://i.meee.com.tw/NZGzuku.png)
+![229](https://images.guildmagesforum.tw/posts/FIN-Multicolors/27aa1595b9f6.webp)
 分數：4.5
 評語：334的體格不差，進場至多棄二抽二除了過濾手牌外，還可以為轉化後的第三章鋪墊。轉化後一二章都可以打2補2（本體有繫命），雖然只能參與一回合的戰鬥，但第三章的挖墳相當厲害，結算後本體也會重新以正面回場，而你可以繼續啟動五費的異能持續轉化。非常厲害。
 
@@ -218,14 +218,14 @@ U卡傳奇 {% mtglink "Ignis Scientia" %} 進場基本上可以ramp一張地，�
 評語：搭配犧牲引擎與一些小生物/神器做肥料、或生物做誘餌參與攻防，很快就能長大以體格碾壓對手。
 
 <!---231--->
-![231](https://i.meee.com.tw/EJOlpDZ.png)
+![231](https://images.guildmagesforum.tw/posts/FIN-Multicolors/b299e11873a9.webp)
 分數：4.0
 評語：光是正面4/5持續攻擊拉開雙方手牌優勢就很厲害了，8費的起動式異能雖然基本上只會吃對手一塊地無關緊要，但轉化不需要使Kefka離場，攻擊到對手一次就能抽5張甚至更多牌，屬於沒被解掉就能單兵獲勝的強牌！不過，這個抽牌是強制的，別抽得太開心把自己牌庫給抽爆了！
 
 不過，三指定色在非綠底套牌會稍微有限制，你會需要使用一些調色方式如 {% mtglink "Blitzball" %} 來幫助你的Kefka進場，但這是值得的。
 
 <!---232--->
-![232](https://i.meee.com.tw/nf40nra.png)
+![232](https://images.guildmagesforum.tw/posts/FIN-Multicolors/b2ad6e875d1c.webp)
 分數：4.0
 評語：如果你場上已經有兩個Wizard生物，在Kuja的進場異能結算完後，剛好可以使他轉化(Kuja本體也是Wizard)。翻面完要刷傷害就容易多了，不論是攻擊還是施放非生物咒語，你應該都能很快地獲勝。要讓Kuja完全發揮，建議在套牌中至少放入7個或更多Wizard類別的生物、或可以派出Wizard token的牌。
 
@@ -268,7 +268,7 @@ U卡傳奇 {% mtglink "Ignis Scientia" %} 進場基本上可以ramp一張地，�
 評語：同時身兼紅綠的兩個軸線：地落、與傳記回收，讓你的傳記生物都多一條命，傳記拿得夠多就會滾雪球滾得很恐怖。中後期也可以棄掉傳記抽牌後，開異能再把傳記挖回來。
 
 <!---240--->
-![240](https://i.meee.com.tw/LpDue3y.png)
+![240](https://images.guildmagesforum.tw/posts/FIN-Multicolors/e1fe8353d848.webp)
 分數：3.0
 評語：白綠傳奇的主要加速器，因為綠底的關係，應該也有機會混入其他顏色的傳奇。怕被解掉的話，可以先拍兩個其他傳奇生物在場上，然後拍Serah進戰階轉化直接讓他們+2/+2。
 
@@ -295,7 +295,7 @@ U卡傳奇 {% mtglink "Ignis Scientia" %} 進場基本上可以ramp一張地，�
 評語：這張傳奇需要你先保護住他，然後大量的施放非生物咒語來獲勝，構築時須留意生物/非生物咒語的比例。
 
 <!---245--->
-![245](https://i.meee.com.tw/6lSHt9n.png)
+![245](https://images.guildmagesforum.tw/posts/FIN-Multicolors/6d328f2ba2dc.webp)
 分數：3.5
 評語：如果你套牌結界牌不多，除非你需要自磨的效果，不然出Terra磨空六張是虧的。轉化後除了是隻6/6飛機外，第一～三章都能讓你複製非傳奇結界，如果是傳記的話，還可以讓他直接賺第一章+任選後面章節的效果。
 
@@ -337,4 +337,4 @@ U卡傳奇 {% mtglink "Ignis Scientia" %} 進場基本上可以ramp一張地，�
 
 讓我們以FFVIII片尾動畫，王菲的這首《[Eyes On Me](https://youtu.be/06Za71UUdps?si=Mdr-n4hSo4sKiWZ5&t=328)》作結，FF與MTG故事將持續書寫下去，never ending……
 
-![](https://i.meee.com.tw/dD0CUAI.jpg)
+![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/fa986019f562.webp)
