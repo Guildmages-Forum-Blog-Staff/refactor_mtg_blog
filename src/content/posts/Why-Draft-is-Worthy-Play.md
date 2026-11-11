@@ -70,7 +70,7 @@ categories:
 
 如果新玩家沒經驗或沒做功課，很容易就落入陷阱與誤區。因此，對不熟悉新系列、或不喜歡臨場大量決策的人來說，輪抽的門檻確實較高。
 
-> 但這部分也正是魔風集會所努力的方向之一，[WOE](https://guildmagesforum.tw/categories/limited/woe/)以來每個標準系列皆有限制賽的介紹文章，歡迎讀者點選[Limited](https://guildmagesforum.tw/categories/limited/)查詢。
+> 但這部分也正是魔風集會所努力的方向之一，[WOE](/categories/WOE/)以來每個標準系列皆有限制賽的介紹文章，歡迎讀者點選[Limited](/categories/Limited/)查詢。
 
 ### 3. 時間成本較構築不友善
 

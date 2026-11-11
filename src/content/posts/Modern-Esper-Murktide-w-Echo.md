@@ -17,7 +17,7 @@ excerpt: "沒放大眼睛跟黑白神，龍侯與亙古回聲是否還能起舞�
 
 > 前情提要：[藍黑龍侯新科技 — 亙古回聲](https://guildmagesforum.tw/Modern-Dimir-Murktide/)
 
-去年年底打到標準MIT#9的資格後，大賽前一個月開始準備近代MIT#8的比賽。過程中特別感謝 [Jeff Chen](https://guildmagesforum.tw/tags/jeffchen/)、[王靖](https://guildmagesforum.tw/tags/faintmama/)、[猴王](https://guildmagesforum.tw/tags/miohitokiri5474/)；還有[荒野騎士](https://guildmagesforum.tw/tags/clarkshih/)組建的No Miss Trigger team、以及在[遊戲平方](https://www.facebook.com/GameSquareTCG)一起練習大賽、還有借我牌的夥伴們。過程中你們跟我每一次的討論與分享，都是我改進套牌重要的原動力。這一篇文章獻給你們。
+去年年底打到標準MIT#9的資格後，大賽前一個月開始準備近代MIT#8的比賽。過程中特別感謝 [Jeff Chen](/authors/jeffchen/)、[王靖](/authors/faintmama/)、[猴王](/authors/MiohitoKiri5474/)；還有[荒野騎士](/authors/ClarkShih/)組建的No Miss Trigger team、以及在[遊戲平方](https://www.facebook.com/GameSquareTCG)一起練習大賽、還有借我牌的夥伴們。過程中你們跟我每一次的討論與分享，都是我改進套牌重要的原動力。這一篇文章獻給你們。
 
 > 註：只對套牌構築有興趣的讀者，可以直接跳到[套牌構築解析](#%E5%A5%97%E7%89%8C%E6%A7%8B%E7%AF%89%E8%A7%A3%E6%9E%90)；不過下一段的[準備的心路歷程](#%E6%BA%96%E5%82%99%E7%9A%84%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B)，對於想了解如何準備大賽、以及過程中可能遇到的挑戰的讀者們，相信也能提供一些有用的建議與方法論。
 
@@ -84,7 +84,7 @@ Btw, 下週的一開始看了[Megucci的這個藍黑大眼Veedeo](https://youtu.
 
 [試作套牌連結：Esper Murktide_20250206](https://www.mtggoldfish.com/deck/6907032#paper)
 
-這一周跟上一周的後半段基本上重心都在 [Guildmages' Forum 魔風集會所](https://guildmagesforum.tw/) 的 [DFT限制賽評分與文章](https://guildmagesforum.tw/categories/limited/dft/)撰寫。實測練習較少，取而代之的是與Jeff對某張單卡、某些情境下需要什麼牌去進行深度的討論。討論完快速地迭代，可以明確地感覺到套牌的75張正在收斂！
+這一周跟上一周的後半段基本上重心都在 [Guildmages' Forum 魔風集會所](https://guildmagesforum.tw/) 的 [DFT限制賽評分與文章](/categories/DFT/)撰寫。實測練習較少，取而代之的是與Jeff對某張單卡、某些情境下需要什麼牌去進行深度的討論。討論完快速地迭代，可以明確地感覺到套牌的75張正在收斂！
 
 這一週我所採用模式，主要是先更新我自己的牌表以及測試結果，針對某一點、或某幾點再展開相應的討論。這個好處是不需團隊成員即時或當面的回覆，對我這種時間不多的玩家是一個有效的討論模式。範例如下：
 

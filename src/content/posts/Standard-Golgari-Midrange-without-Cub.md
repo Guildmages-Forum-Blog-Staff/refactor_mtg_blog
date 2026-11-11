@@ -32,23 +32,23 @@ categories:
 
 ## 不囉嗦，進入構築展示
 
-第十一輪臺灣冠軍賽甫落幕，憑藉著操作者[阿詹](https://guildmagesforum.tw/tags/zhan/)的努力，本套牌獲得了還算不俗的4-3-0第二十名成績。先附上簡易版賽報：
+第十一輪臺灣冠軍賽甫落幕，憑藉著操作者[阿詹](/authors/ZHAN/)的努力，本套牌獲得了還算不俗的4-3-0第二十名成績。先附上簡易版賽報：
 
-R1 Mono-Green Landfall（[shun yu Chuang](https://guildmagesforum.tw/tags/t1bloodmoon/)）LL
+R1 Mono-Green Landfall（[shun yu Chuang](/authors/T1BloodMoon/)）LL
 R2 Simic Rhythm（bonba Dala）ＷＷ
-R3 Temur Prowess（[Wei_Hao_Huang](https://guildmagesforum.tw/tags/%E5%93%A9%E5%93%A9%E6%89%A3%E6%89%A3/)） WLW
+R3 Temur Prowess（Wei_Hao_Huang） WLW
 R4 U-B-R-G Reanimator（家豪 郭）ＷＷ
 R5 Temur Otters（Eason271） LWW
-R6 Mono-White（[Chiyou](https://guildmagesforum.tw/tags/chiyou/)） LL
-R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） LL
+R6 Mono-White（[Chiyou](/authors/Chiyou/)） LL
+R7 Bant Omniscience（[Ho Zhi Mao](/authors/zhi-mao/)） LL
 
 盤對局記錄就不在本文贅述。若想了解，歡迎在閱讀本文後移步[至此](https://www.facebook.com/share/p/1HWVTLf24Y/)觀看 ~~但先看完這篇嘛~~ 。
 
 ![](https://i.meee.com.tw/OB3RxfJ.jpg)
-> 操作者[阿詹](https://guildmagesforum.tw/tags/zhan/)一度在第五輪時坐上焦點對局桌，和亞軍[世界の奇佑](https://guildmagesforum.tw/tags/chiyou/)來了場壯烈對決。
+> 操作者[阿詹](/authors/ZHAN/)一度在第五輪時坐上焦點對局桌，和亞軍[世界の奇佑](/authors/Chiyou/)來了場壯烈對決。
 
 ![](https://i.meee.com.tw/4HOfuFq.webp)
->當天的牌組構築。若想了解筆者和[阿詹](https://guildmagesforum.tw/tags/zhan/)交換套牌的理由，歡迎閱讀完本文後參考[原因](https://www.facebook.com/share/p/1F8KgGoR9n/) ~~但先看完這篇嘛~~ 。
+>當天的牌組構築。若想了解筆者和[阿詹](/authors/ZHAN/)交換套牌的理由，歡迎閱讀完本文後參考[原因](https://www.facebook.com/share/p/1F8KgGoR9n/) ~~但先看完這篇嘛~~ 。
 
 然而賽後我們都有股未臻完美的感覺。筆者覺得是因為新系列[忍者龜（Teenage Mutant Ninja Turtles, TMT）](https://scryfall.com/sets/tmt)發行後，距離冠軍賽只有一週時間（這應該算是罕見的狀況），導致所有玩家在各面向都必須面臨時限壓力的挑戰，賽後自然會很赤裸地看見不足之處。
 
@@ -63,7 +63,7 @@ R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） 
 
 這麼做的優點是上限較高、更允許玩家透過調度拼一個正確的起手 （尤其在知道對手資訊的狀況下，套牌內又蘊藏有強力懲罰他的單卡，便可以思考期望值）；缺點則是較難操作，需要一定時間量的練習跟理解。若新手朋友想要參考牌表，不妨先將一些細碎的設定統整為最喜愛的二、三費咒語，熟悉過後再微調出適合自己的版本。
 
-這裡要再誇獎一下[阿詹](https://guildmagesforum.tw/tags/zhan/)，透過這次冠軍賽，證明他絕對是一位強力的套牌駕駛員。以下進入正編解析段落：
+這裡要再誇獎一下[阿詹](/authors/ZHAN/)，透過這次冠軍賽，證明他絕對是一位強力的套牌駕駛員。以下進入正編解析段落：
 
 [羅堰妖精](https://scryfall.com/card/m12/182/zht/%E7%BE%85%E5%A0%B0%E5%A6%96%E7%B2%BE-(llanowar-elves))4張：沒什麼好說的賽場常客。對手不即時解決就準備跳費給壓力，吃了殺牌也可能間接保護到後期生物 ~~但通常還是很希望他活著啦~~ 。
 
@@ -93,7 +93,7 @@ R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） 
 [圍攻黝谷](https://scryfall.com/card/tdm/192/hollowmurk-siege)3張： **套牌核心** ，Sultai或Abzan都是可以選擇的項目，考驗玩家對於當前盤面的理解，當然連拍兩張各選一發也是非常強勢的決定。由於冠軍賽前發現[亂中有序的米奇與李奧](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order)的存在，從最原始版的四張降為三張，畢竟空有結界沒有生物也是枉然。
 最重要的細節在於：對手在我們的生物上放暈眩指示物時， **可以抽一張牌** 。這是[亂中有序的米奇與李奧](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order)無法做到的部分。
 
-[進退無路](https://scryfall.com/card/dsk/111/nowhere-to-run)1張：筆者和[阿詹](https://guildmagesforum.tw/tags/zhan/)在休閒指揮官也很愛這張牌XD。[Izzet Prowess](https://www.mtggoldfish.com/archetype/standard-izzet-prowess-woe#paper)夠多的環境，我認為能正編帶到一張。
+[進退無路](https://scryfall.com/card/dsk/111/nowhere-to-run)1張：筆者和[阿詹](/authors/ZHAN/)在休閒指揮官也很愛這張牌XD。[Izzet Prowess](https://www.mtggoldfish.com/archetype/standard-izzet-prowess-woe#paper)夠多的環境，我認為能正編帶到一張。
 
 [報償邪術](https://scryfall.com/card/ecl/116/requiting-hex)3張：正因為[洛溫：闇影籠罩（Lorwyn Eclipsed, ECL）](https://scryfall.com/sets/ecl)出了這張殺牌，筆者才決定繼續堅持這條獨特路線。前期是張即時的一費殺牌，中後期可以利用衰萎（Blight）異能放-1/-1指示物補血、進而抽牌，在這構築中上限超高。無論何時使用、怎麼使用，他都是張一點黑的瞬間牌，優秀到極端情況下殺自家生物擺-1/-1指示物抽牌都賺 ~~敢這麼說是因為我真的做過~~ 。
 
@@ -103,7 +103,7 @@ R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） 
 
 [慘痛勝利](https://scryfall.com/card/sch/42/bitter-triumph)1張：在本套牌[腐食流漿](https://scryfall.com/card/m21/204/zht/%E8%85%90%E9%A3%9F%E6%B5%81%E6%BC%BF-(scavenging-ooze))的護航下。我認為容得下一張。射程更好但代價不算小。
 
-[治金神功起源](https://scryfall.com/card/tla/187/origin-of-metalbending)1張：[cephille](https://guildmagesforum.tw/tags/cephille/)在[降世神通：最後的氣宗 （Avatar: The Last Airbender, TLA）](https://scryfall.com/sets/tla)發售後提供的巧思。上限可給一隻生物不滅及放+1/+1指示物，大幅降低被掃場的傷害（活一隻抽一張）。然後它還可以是一張拆牌，老話一句，彈性就是強度。
+[治金神功起源](https://scryfall.com/card/tla/187/origin-of-metalbending)1張：[cephille](/authors/cephille/)在[降世神通：最後的氣宗 （Avatar: The Last Airbender, TLA）](https://scryfall.com/sets/tla)發售後提供的巧思。上限可給一隻生物不滅及放+1/+1指示物，大幅降低被掃場的傷害（活一隻抽一張）。然後它還可以是一張拆牌，老話一句，彈性就是強度。
 
 [戰略背叛](https://scryfall.com/card/tdm/94/strategic-betrayal)1張：正編剋墳兼處理一隻生物的巫術時機牌。算是樣樣通但樣樣鬆的選擇，在一些對局會優先下掉。
 
@@ -149,7 +149,7 @@ R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） 
 
 雖然是略感沉重的段落，但還是整理一下筆者賽後所剔除的單卡。
 
-正編剔除1張[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)：筆者和[阿詹](https://guildmagesforum.tw/tags/zhan/)跟這張單卡都有羈絆。賽前利用關鍵字搜索，發現[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)在場時，於自己的回合若有突變體（Mutant）死去，便抽與該突變體力量一致的牌 ~~喔喔喜歡抽牌眼睛立刻亮了~~ 。
+正編剔除1張[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)：筆者和[阿詹](/authors/ZHAN/)跟這張單卡都有羈絆。賽前利用關鍵字搜索，發現[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)在場時，於自己的回合若有突變體（Mutant）死去，便抽與該突變體力量一致的牌 ~~喔喔喜歡抽牌眼睛立刻亮了~~ 。
 由於[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)在戰階開始時會觸發將一隻其他生物變為突變體（Mutant）並放+1/+1指示物的異能，在中盤資訊過多的狀態下，筆者認為對手有可能忽略新系列[忍者龜（Teenage Mutant Ninja Turtles, TMT）](https://scryfall.com/sets/tmt)生物幾乎都帶有突變體（Mutant）類別的細節，若以既有習慣打牌、在我方回合錯判誤殺，會讓我方得以大補手牌資源（且失誤的心情將侵蝕對方），然而這件事情並沒有在現實賽場中上演，[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)就只是一張低效的高費牌，並不符合四費咒語要贏的基準。
 有趣的是，MTGGoldfish在我們之後也發現了這個好笑的狀況（最終幻想與忍者龜摻在一起做成撒尿牛丸），[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)有他更適合發光發熱的[構築](https://www.mtggoldfish.com/articles/much-abrew-jenova-mutants-standard)，有愛的讀者不妨組來玩看看吧。總之[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)是筆者漏看[腐沼潛鱷皮頭](https://scryfall.com/card/tmt/117/leatherhead-swamp-stalker)的元兇XD再也不喜歡他了。
 
@@ -158,7 +158,7 @@ R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） 
 正編剔除1張[可憎搭檔托卡與拉札爾](https://scryfall.com/card/tmt/252/tokka-&-rahzar-terrible-twos)，備編維持1張：既然[古來災厄杰諾瓦](https://scryfall.com/card/fin/228/jenova-ancient-calamity)下課了，突變體（Mutant）類別的紅利也就不復存在，可以採用射程與報酬更安穩的正編計畫。
 
 正編剔除1張[攪生襲暴龍 // 小小復仇](https://scryfall.com/card/tdm/178/disruptive-stormbrood-petty-revenge)：正編拆神器結界的可能性，因為投入[腐沼潛鱷皮頭](https://scryfall.com/card/tmt/117/leatherhead-swamp-stalker)而大幅提升，所以忍痛割捨他。
-筆者其實還算能接受[攪生襲暴龍 // 小小復仇](https://scryfall.com/card/tdm/178/disruptive-stormbrood-petty-revenge)的彈性，但[jeffchen](https://guildmagesforum.tw/tags/jeffchen/)就不怎麼喜歡這個選擇。
+筆者其實還算能接受[攪生襲暴龍 // 小小復仇](https://scryfall.com/card/tdm/178/disruptive-stormbrood-petty-revenge)的彈性，但[jeffchen](/authors/jeffchen/)就不怎麼喜歡這個選擇。
 
 備編剔除1張[治金神功起源](https://scryfall.com/card/tla/187/origin-of-metalbending)：因為現環境需要這麼做。構築調整後更不需要打得那麼被動。
 
@@ -166,14 +166,14 @@ R7 Bant Omniscience（[Ho Zhi Mao](https://guildmagesforum.tw/tags/zhi-mao/)） 
 
 ![](https://i.meee.com.tw/qlEWugZ.jpg)
 ![](https://i.meee.com.tw/ZTVsyGV.jpg)
->被[阿詹](https://guildmagesforum.tw/tags/zhan/)棄嫌的換備表，在此譴責他不知足惜福的態度。
+>被[阿詹](/authors/ZHAN/)棄嫌的換備表，在此譴責他不知足惜福的態度。
 
 ## 結語
 
 每每透過冷門套牌有所斬獲時，筆者總會硬著頭皮在魔風集會所公開分享，然而比起 **推薦自己的構築** ，我其實更想傳達 **自行構築的美好** 。成就感與經驗值都是其他形式難以媲美的。
 
-雖然，自行創作的套牌在大數據時代中，不見得容易跟主流抗衡，但我和[阿詹](https://guildmagesforum.tw/tags/zhan/)利用熱忱和巧思辦到了一次。我們也曾感到挫敗過，目前只是在賽場邊緣遊走著，並沒有時間全心全意投入，但長期的累積讓我們更懂得如何和這款遊戲相處。
+雖然，自行創作的套牌在大數據時代中，不見得容易跟主流抗衡，但我和[阿詹](/authors/ZHAN/)利用熱忱和巧思辦到了一次。我們也曾感到挫敗過，目前只是在賽場邊緣遊走著，並沒有時間全心全意投入，但長期的累積讓我們更懂得如何和這款遊戲相處。
 
 這回我們將Golgari Midrange的字眼再次打入[MTG Tournaments](https://mtgdecks.net/Standard/tournaments)中前段，而這舊瓶裝新酒的自創構築會不會稍微動搖Meta？筆者將懷抱著微小的期待持續觀察。
 
-邀請讀者朋友們一起從不同的角度欣賞、享受構築賽制。各位也可以期待[阿詹](https://guildmagesforum.tw/tags/zhan/)即將帶來 **黑白控制：吸血鬼房間** 自創標準套牌，一個賽季操作兩個套牌然後都殺翻現場的男人就要到來，但請先等他加班過後再說。
+邀請讀者朋友們一起從不同的角度欣賞、享受構築賽制。各位也可以期待[阿詹](/authors/ZHAN/)即將帶來 **黑白控制：吸血鬼房間** 自創標準套牌，一個賽季操作兩個套牌然後都殺翻現場的男人就要到來，但請先等他加班過後再說。

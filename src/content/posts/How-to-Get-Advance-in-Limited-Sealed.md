@@ -28,7 +28,7 @@ authors:
 
 ![](https://i.postimg.cc/vHqFkzN5/181256.jpg)
 
-以這次光雷驛鏢客（Outlaws of Thunder Junction, OTJ）的限制賽為起點，從[Guildmages' Forum](https://guildmagesforum.tw/)網站上的 **"[Tag](https://guildmagesforum.tw/tags/)"** 選單中點選 **"[OTJ](https://guildmagesforum.tw/tags/otj/)"** 的標籤，即可看到這次與BLB限制賽相關的所有單卡評分、限制賽主題初探、以及機制介紹。而有興趣往前了解先前其他系列的限制賽的讀者們，則可點選 **"[Limited](https://guildmagesforum.tw/tags/limited/)"** 的標籤來搜尋到所有從艾卓荒野（Wilds of Eldraine, WOE）以來所有的限制賽相關文章。
+以這次光雷驛鏢客（Outlaws of Thunder Junction, OTJ）的限制賽為起點，從[Guildmages' Forum](https://guildmagesforum.tw/)網站上的 **"[Tag](/categories/)"** 選單中點選 **"[OTJ](/categories/OTJ/)"** 的標籤，即可看到這次與BLB限制賽相關的所有單卡評分、限制賽主題初探、以及機制介紹。而有興趣往前了解先前其他系列的限制賽的讀者們，則可點選 **"[Limited](/categories/Limited/)"** 的標籤來搜尋到所有從艾卓荒野（Wilds of Eldraine, WOE）以來所有的限制賽相關文章。
 
 而對英文苦手的朋友，也可以使用[魔法風雲會 繁體中文卡牌查詢網站](https://www.mtgct.com/)來查詢暨2022年9月多明納里亞：眾志成城（Dominaria United, DMU）取消繁體中文MTG以來，迄今所有的牌張中文翻譯。而更之前的系列則可以在[scryfall](https://scryfall.com/)網站上找到對應的各種語言，當然，也包含曾有繁體中文版的系列（註3）。
 
@@ -51,7 +51,7 @@ authors:
 
 - Step 1.1 將開出的 84 張牌依照白、藍、黑、紅、綠、多色、神器、地分堆放好。地牌中的基本地請先抽出跟token與藝術卡放一起。
 - Step 1.2 把每堆牌依照其魔法力值（mana value）（註4）由小到大排成一排，越上面的牌魔法力值越小。
-- Step 1.3 從各堆中把你的稀有 / 秘稀牌挑出來，簡單的回顧一下 [OTJ](https://guildmagesforum.tw/tags/otj/) 標籤中相關文章的評分跟敘述，看不懂可以問店內的其他玩家或店員。
+- Step 1.3 從各堆中把你的稀有 / 秘稀牌挑出來，簡單的回顧一下 [OTJ](/categories/OTJ/) 標籤中相關文章的評分跟敘述，看不懂可以問店內的其他玩家或店員。
 - Step 1.4 依照Step 1.3 初步的評估，挑選出至多兩至三色可以使用到盡可能多的高分的稀有 / 秘稀牌。
 
   > **註4：** 即每張牌右上角的法力符號、以及可用任意法術力支付的數字總和。例如3RR的紅色牌，它的總魔法力值為 3 + R + R = 5 ；而WUBRG的多色牌，它的總魔法力值也是 5 ；那1UURR的多色牌呢？沒錯，它的總魔法力值也還是 5 ！

@@ -47,7 +47,7 @@ authors:
 現在的紅黑中速沒有那麼樣板的構築，有不少人加入了第四張 [Sheoldred, the Apocalypse](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568)、將 [Graveyard Trespasser](https://cards.scryfall.io/large/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903) 放滿、加入 WOE 新牌 Decadent Dragon，反正就是各種不同以往的套牌構築。
 ![](https://cards.scryfall.io/large/front/3/1/315cbbf7-a2ad-4565-9877-1e903d7fd797.jpg?1692939586)
 
-備牌的部分跟之前的紅黑中速一樣，會按照每個人對於套牌/環境有不同的理解，帶了各種不同的東西。備牌的部分我在[之前的文章](https://guildmagesforum.tw/Rakdos-Midrange/#Decklist)中有提到，大致上都還算通用，不過一樣要視個人習慣/環境理解做調整。
+備牌的部分跟之前的紅黑中速一樣，會按照每個人對於套牌/環境有不同的理解，帶了各種不同的東西。備牌的部分我在[之前的文章](/Pioneer-Rakdos-Midrange/#Decklist)中有提到，大致上都還算通用，不過一樣要視個人習慣/環境理解做調整。
 另外如果鳳凰持續這麼猖狂，會考慮把兩張 [Invoke Despair](https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727) 換成 Damping Sphere。
 
 ### Hidden String/Lotus Field Combo

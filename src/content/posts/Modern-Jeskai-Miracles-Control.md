@@ -46,14 +46,14 @@ categories:
 
 **[風暴巨人大廳](https://scryfall.com/card/afr/354/hall-of-storm-giants)一張**：控制住場面後可評估狀況開始進攻。若對手還有資源，一樣會等到能留費才起動它變身為生物的異能。和[天界柱廊](https://scryfall.com/card/zne/23/celestial-colonnade)相比起來，[風暴巨人大廳](https://scryfall.com/card/afr/354/hall-ofstorm-giants)是張有可能在前期站進的產藍地，起動後則是帶有守護三的7/7生物，但缺點就在於它起動時的笨重。近代賽制中，[天界柱廊](https://scryfall.com/card/zne/23/celestial-colonnade)還是較可行的變身地進攻選項。
 
-**[焰忿泰坦斐拉革](https://scryfall.com/card/mh3/379/phlage-titan-of-fires-fury)兩張**：進場異能可視為一發[閃電螺旋](https://scryfall.com/card/sta/62/lightning-helix)，可解場可挽救血量壓力，是對抗當前快攻套牌的關鍵單卡（對就是在說[伊捷靈技](https://www.mtggoldfish.com/archetype/modern-izzet-prowess#paper)）。逸脫的特性令他在面對掃場時也不至於傷敵一千自損八百，若能站住推個兩下，差不多就要贏了。牌友[子安](https://guildmagesforum.tw/tags/zhan/)和[Jeff](https://guildmagesforum.tw/tags/jeffchen/)在同一天大力推薦我帶兩張，絕對是我能挺進正賽的最大關鍵。
+**[焰忿泰坦斐拉革](https://scryfall.com/card/mh3/379/phlage-titan-of-fires-fury)兩張**：進場異能可視為一發[閃電螺旋](https://scryfall.com/card/sta/62/lightning-helix)，可解場可挽救血量壓力，是對抗當前快攻套牌的關鍵單卡（對就是在說[伊捷靈技](https://www.mtggoldfish.com/archetype/modern-izzet-prowess#paper)）。逸脫的特性令他在面對掃場時也不至於傷敵一千自損八百，若能站住推個兩下，差不多就要贏了。牌友[子安](/authors/ZHAN/)和[Jeff](/authors/jeffchen/)在同一天大力推薦我帶兩張，絕對是我能挺進正賽的最大關鍵。
 
 **[極性反轉](https://scryfall.com/card/pmh3/190s/invert-polarity)一張**：三費正康，擲硬幣時若猜對，獲得該咒語的操控權，反之就單純反擊該咒語。控制住場面時，即便拿來處理對手的一費咒語也充滿侵略性，不僅僅是向下交換那麼簡單。筆者曾經在面對紅白能量時，於空場狀態偷到一隻[巧手竊猴勒格文](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)（看來我的手比較巧喔），對手因此被迫多繳一張[瑟班護符](https://scryfall.com/card/mh3/45/thraben-charm)處理自己所施放的永久物，否則就要被他自己的小猴仔單刷致死了。
 
 {% mtgpick "mh3" 190 %}
 > 筆者從[近代新篇3](https://scryfall.com/sets/mh3)的限制賽時就愛上這張牌了。文字敘述部分超級有意思：「司格力！我叫你不要亂搞……噢，這樣通了。好樣的，司格力。」真的像極了自創套牌的土炮過程。
 
-以上是個人所選擇投入的勝利計畫。賽前筆者最常和牌友[子安](https://guildmagesforum.tw/tags/zhan/)的[伊捷靈技](https://www.mtggoldfish.com/archetype/modern-izzet-prowess#paper)對練，若沒有經過跟主流快攻對抗的洗禮，會較難建構起可行的自組控制套牌。練牌過程中，為了解決屢屢頭破血流的問題，筆者在最終階段選擇加入了紅色，並大膽投入[近代新篇3](https://scryfall.com/sets/mh3)白、藍、紅色的能量相關單卡，以提高[電流湧射](https://scryfall.com/card/mh3/122/galvanic-discharge)及[天空之怒](https://scryfall.com/card/mh3/49/wrath-of-the-skies)的射程與穩定度。
+以上是個人所選擇投入的勝利計畫。賽前筆者最常和牌友[子安](/authors/ZHAN/)的[伊捷靈技](https://www.mtggoldfish.com/archetype/modern-izzet-prowess#paper)對練，若沒有經過跟主流快攻對抗的洗禮，會較難建構起可行的自組控制套牌。練牌過程中，為了解決屢屢頭破血流的問題，筆者在最終階段選擇加入了紅色，並大膽投入[近代新篇3](https://scryfall.com/sets/mh3)白、藍、紅色的能量相關單卡，以提高[電流湧射](https://scryfall.com/card/mh3/122/galvanic-discharge)及[天空之怒](https://scryfall.com/card/mh3/49/wrath-of-the-skies)的射程與穩定度。
 
 我認為在這套**潔斯凱能量奇蹟控制**中，正編的進攻型單卡就只容得下這六張牌。由於筆者覺得當前近代算是組合技猖獗的環境（如同先前所說，一加一遠大於二的搭配太多），有時吃到對手生物的進場觸發就差不多要鏟牌了，所以套牌裡亟需密度夠高且泛用的康牌。
 
@@ -64,7 +64,7 @@ categories:
 所以在控制套牌中，可以伺機結算的過牌抽牌咒語是非常重要的。除了前面所提及的進攻型單卡，筆者還投入了四張[腦力湧動](https://scryfall.com/card/mh3/53/brainsurge)以拉大資源差。將兩張牌從手上以任意順序置於牌庫頂，更是和我們的套牌主題有極佳的互動：三張[終始](https://scryfall.com/card/avr/38/zht/%E7%B5%82%E5%A7%8B-(terminus))。你若多抽，奇蹟自來 ~~趁著[半獸人弓手](https://scryfall.com/card/ltr/103/orcish-bowmasters)淡出我們還不爆抽一頓~~ 。
 
 {% mtgpick "mh3" 53 %}
->牌友[子安](https://guildmagesforum.tw/tags/zhan/)叫他「大[Brainstorm](https://scryfall.com/card/sld/7019/brainstorm)」，所以我也都這麼說XD。
+>牌友[子安](/authors/ZHAN/)叫他「大[Brainstorm](https://scryfall.com/card/sld/7019/brainstorm)」，所以我也都這麼說XD。
 
 [腦力湧動](https://scryfall.com/card/mh3/53/brainsurge)可以將抽起來的[終始](https://scryfall.com/card/avr/38/zht/%E7%B5%82%E5%A7%8B-(terminus))、或原本就捏著的[終始](https://scryfall.com/card/avr/38/zht/%E7%B5%82%E5%A7%8B-(terminus))放回牌庫頂，那麼接下來就將會有一費的掃場咒語等著你使用了。順帶一提，如果你在對手回合中的首張抽牌抽到[終始](https://scryfall.com/card/avr/38/zht/%E7%B5%82%E5%A7%8B-(terminus))，那情境也是可以施放的，所以它甚至是一張能在瞬間時機施放的一費掃場咒語唷XD。
 
@@ -96,7 +96,7 @@ categories:
 剩下的單卡應該就無須過度贅述了，除了一張[猜疑之影](https://scryfall.com/card/sld/414/shadow-of-doubt)。[猜疑之影](https://scryfall.com/card/sld/414/shadow-of-doubt)是張能讓對手無法找地（還是要請他扣一唷呵）的單卡，不僅有炸地領先節奏的效果，在某些對局中，也能夠拿來阻止對手搜索牌庫內的組合技元件。最重要的是懲罰完對手還可以抽一張，老話一句，你若多抽奇蹟自來……
 
 {% mtgpick "sld" 414 %}
->在此跟[子安](https://guildmagesforum.tw/tags/zhan/)說聲不好意思，這張牌搞得他快要罹患找地恐懼症了 ~~但我很開心能跟你練牌唷啾咪~~ 。
+>在此跟[子安](/authors/ZHAN/)說聲不好意思，這張牌搞得他快要罹患找地恐懼症了 ~~但我很開心能跟你練牌唷啾咪~~ 。
 
 不過，在開表的冠軍賽中，[猜疑之影](https://scryfall.com/card/sld/414/shadow-of-doubt)的效益就大幅下降了。感受到這點的同時也就累積到了一些新經驗。
 

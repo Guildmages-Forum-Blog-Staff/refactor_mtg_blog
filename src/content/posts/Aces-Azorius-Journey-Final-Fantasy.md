@@ -14,7 +14,7 @@ categories:
 
 ## 前言
 
-嗨大家好，我是啓恩 aka [Ace](https://www.facebook.com/profile.php?id=61578212540588)，很開心能夠和[豬鼻子](https://guildmagesforum.tw/tags/cephille/)以及朋友們一同出國打魔風，到日本參加 [Magic Spotlight: Final Fantasy](https://ssl.bigmagic.net/spotlight_series/) 。這次大賽能夠操作自己喜愛的 Azorius Control ，獲得 11-3-1 的成績是和大家練牌、討論構築的成果。本篇分享的內容除了套牌選擇外，主軸會放在賽報和準備心得，希望能讓大家一同體會或回味久違的亞洲大型賽事。
+嗨大家好，我是啓恩 aka [Ace](https://www.facebook.com/profile.php?id=61578212540588)，很開心能夠和[豬鼻子](/authors/cephille/)以及朋友們一同出國打魔風，到日本參加 [Magic Spotlight: Final Fantasy](https://ssl.bigmagic.net/spotlight_series/) 。這次大賽能夠操作自己喜愛的 Azorius Control ，獲得 11-3-1 的成績是和大家練牌、討論構築的成果。本篇分享的內容除了套牌選擇外，主軸會放在賽報和準備心得，希望能讓大家一同體會或回味久違的亞洲大型賽事。
 
 ## 套牌選擇
 
@@ -66,7 +66,7 @@ High Noon 不僅能鎖住紅刀和 Vivi ，也會迫使 PT 第二多的 *Azorius
 - 1 [Authority of the Consuls](https://scryfall.com/card/fdn/137/authority-of-the-consuls) - 針對快攻利器，搭配 Spilt Up 妙不可言。
 - 1 [Split Up](https://scryfall.com/card/dsk/32/split-up) - 不同於 Lockdown，除了針對快攻，在帶黑中速對局中也能有一戰之力的掃場。
 - 1 [The Filigree Sylex](https://scryfall.com/card/one/227/the-filigree-sylex) - 面對紅藍靈技能夠有效處理 tokens，在紅快對局裡也可以上來替代掉 High Noon，讓我們處理場面的手段更多元。
-- 1 [Voice of Victory](https://scryfall.com/card/tdm/33/voice-of-victory) - 來自 [Clark Shih](https://guildmagesforum.tw/tags/clarkshih/) 的靈感，原本在我全知的備牌裡躺好。但是跟 High Noon 配合後可以我們出兩招、對面只能出一招，有效限制全知全能的行動，同時給予場面壓力；面對劣勢對局的藍黑中速更能有效阻斷節奏，post-ban 環境中更加應證這個猜想。
+- 1 [Voice of Victory](https://scryfall.com/card/tdm/33/voice-of-victory) - 來自 [Clark Shih](/authors/ClarkShih/) 的靈感，原本在我全知的備牌裡躺好。但是跟 High Noon 配合後可以我們出兩招、對面只能出一招，有效限制全知全能的行動，同時給予場面壓力；面對劣勢對局的藍黑中速更能有效阻斷節奏，post-ban 環境中更加應證這個猜想。
 - 1 [Rest in Peace](https://scryfall.com/card/big/4/rest-in-peace) - 因為大眼 deck 變少，所以持續性剋墳的卡位我只留下1個。原本放 [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum)，但是在打 Challenge 遇到一位日本人玩紅藍 Vivi 鍋的對手，打完後和他對練討論聊天，發現 RIP 直接清掉整個墳場對鍋子來說更難處理。
 - 2 [Kutzil's Flanker](https://scryfall.com/card/lci/20/kutzils-flanker) - 生物不會被點破，閃現更加靈活，三選一的工具箱能夠視情況選擇回血占卜或剋墳，必要時也能在內戰被掃場後跳出一隻大貓咪。種種優勢在沒有持續剋墳需求的環境壓力下，我選擇用它來處理墳場利用套牌。
 - 2 [Negate](https://scryfall.com/card/fdn/710/negate) - 簡單粗暴的非生物康牌。
@@ -148,15 +148,15 @@ High Noon 不僅能鎖住紅刀和 Vivi ，也會迫使 PT 第二多的 *Azorius
 其餘賽事細節歡迎大家到[艾斯的棋牌雜談](https://www.facebook.com/profile.php?id=61578212540588)慢慢品味。（？）
 
 ## 大賽雜記
-這份構築，其實是交牌表前一天，在[豬鼻子](https://guildmagesforum.tw/tags/cephille/)安排的 MTG Test House 裡與各位朋友討論出來的結果。特別感謝[豬鼻子](https://guildmagesforum.tw/tags/cephille/)、[Clark Shih](https://guildmagesforum.tw/tags/clarkshih/)及[哩哩扣扣](https://guildmagesforum.tw/tags/%E5%93%A9%E5%93%A9%E6%89%A3%E6%89%A3/)陪我一起梳理思緒、交換著不同角度的理解；感謝[台灣黑熊](https://guildmagesforum.tw/tags/chiyou/)在群裡分享他在MO上的各種構築實驗以及經驗傳承。把一張張卡位確定下來的時刻，好像拼圖被一塊塊填上；對局的圖樣漸漸清晰，未來的迷霧輕輕散去，靜待著我帶上俄佐立的意志，矯正一片腥紅的賽場。
+這份構築，其實是交牌表前一天，在[豬鼻子](/authors/cephille/)安排的 MTG Test House 裡與各位朋友討論出來的結果。特別感謝[豬鼻子](/authors/cephille/)、[Clark Shih](/authors/ClarkShih/)及哩哩扣扣陪我一起梳理思緒、交換著不同角度的理解；感謝[台灣黑熊](/authors/Chiyou/)在群裡分享他在MO上的各種構築實驗以及經驗傳承。把一張張卡位確定下來的時刻，好像拼圖被一塊塊填上；對局的圖樣漸漸清晰，未來的迷霧輕輕散去，靜待著我帶上俄佐立的意志，矯正一片腥紅的賽場。
 
-主賽前一天，我和[Chennel](https://guildmagesforum.tw/tags/chennel/)及[老曹](https://guildmagesforum.tw/tags/sertyple/)決定先去會場打打 Challenge，熟悉大賽的氛圍與全新的 Deck（我們都做出與 MIT#9 截然不同的選擇）。第一次走進大型賽事的會場，開闊的視野、一望無際的座位、百花齊放的周邊、千奇百怪的攤位……震撼著王姥姥我的心情：能夠因為魔風走進這裡真是太好了。
+主賽前一天，我和[Chennel](/authors/Chennel/)及[老曹](/authors/sertyple/)決定先去會場打打 Challenge，熟悉大賽的氛圍與全新的 Deck（我們都做出與 MIT#9 截然不同的選擇）。第一次走進大型賽事的會場，開闊的視野、一望無際的座位、百花齊放的周邊、千奇百怪的攤位……震撼著王姥姥我的心情：能夠因為魔風走進這裡真是太好了。
 
 第一場 Challenge 開始，我就遇到一位操作 *Izzet Prowess* 的日本玩家，「お願いします（請多多指教）」讓我的思緒與棋盤前的我串聯起來，真是個注重禮儀的國家呢。作為白藍控的對局，同場有許多台灣的朋友已早早結束對局，起身去附近的攤位大逛特逛，剩下我坐在桌前勝負未定。最後兩盤都以個位數血量驚險獲勝後，我和對手簡單聊起天、和他交換了聯絡方式，一直到正賽 Day2 都還關心著彼此的戰況。不同國家、不同語言，但是在魔法風雲會上卻有著相同的熱情、對賽事有著相同的渴望。在會場的每個位置上，都有著 spotlight 照耀著我們想實踐的念想。
 
 準備魔風賽事還有一個我最嚮往的時刻：一群夥伴在賽前一起準備 Sideboard guide。總是說好要早點睡，回首卻已三更半夜：因為想在不同的對局做出最好的選擇，在有限的備牌選擇中規劃出自己的航路。茫茫賽場中，個人的力量終究有限；有擅長不同牌組風格的朋友們一起討論，就像不同方位的星象，讓我能確信自己航行在正確的方向。
 
-*（活動三天，我幾乎都是從開館待到閉館，血糖被腎上腺素支撐到夜晚，再由宵夜接管。交牌表當天其實還有一個小插曲：我答應要借牌給[老曹](https://guildmagesforum.tw/tags/sertyple/)參加主賽，壓死線交出牌表、回到民宿後，翻了六個卡盒完全沒找到半張，早想三步沒想到馬前失蹄這一步...幸好在20分鐘後，[Chennel](https://guildmagesforum.tw/tags/chennel/)從他的[潔斯凱大眼](https://guildmagesforum.tw/Standard-Jeskai-Oculus/)掏出需要的牌，結束這場心情雲宵飛車。果然出門還是要靠朋友啊……😶‍🌫️)*
+*（活動三天，我幾乎都是從開館待到閉館，血糖被腎上腺素支撐到夜晚，再由宵夜接管。交牌表當天其實還有一個小插曲：我答應要借牌給[老曹](/authors/sertyple/)參加主賽，壓死線交出牌表、回到民宿後，翻了六個卡盒完全沒找到半張，早想三步沒想到馬前失蹄這一步...幸好在20分鐘後，[Chennel](/authors/Chennel/)從他的[潔斯凱大眼](https://guildmagesforum.tw/Standard-Jeskai-Oculus/)掏出需要的牌，結束這場心情雲宵飛車。果然出門還是要靠朋友啊……😶‍🌫️)*
 
 
 ## 結語

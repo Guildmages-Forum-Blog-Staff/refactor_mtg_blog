@@ -15,7 +15,7 @@ categories:
 
 ## 前言
 
-感謝[豬鼻子的mtg世界](https://guildmagesforum.tw/tags/cephille/)的邀請，不然我可能這輩子都不會寫這麼長的介紹文。
+感謝[豬鼻子的mtg世界](/authors/cephille/)的邀請，不然我可能這輩子都不會寫這麼長的介紹文。
 
 ## 什麼是Domain Zoo？
 

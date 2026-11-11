@@ -16,7 +16,7 @@ categories:
 
 大家好，我是[王靖](https://www.facebook.com/loudsidewang/)，最近最近喜歡在小粉專[FaintmamaのTCG實驗室](https://www.facebook.com/faintmama)寫日記文的無聊大叔。坦白說，我沒想過自己會在魔風集會所寫篇標準賽制的構築文章，過去甚至不覺得自己該接觸更迭較快的標準賽制。
 
-但我終究還是玩了XD，因為生日時收到一盒[暮悲邸：鬼屋驚魂](https://scryfall.com/sets/dsk)，瞬間成為強力C、U卡的富翁，然後朋友[cephille](https://guildmagesforum.tw/tags/cephille/)分享了一篇[純黑骷髏妖](https://youtu.be/PXcFrVlx700?si=XdWJUU_frNovJUjR)的Youtube影片，我立刻被這設計上廢到有點好笑的種族吸引，心裡想著，反正很便宜嘛不如組來樂一樂。
+但我終究還是玩了XD，因為生日時收到一盒[暮悲邸：鬼屋驚魂](https://scryfall.com/sets/dsk)，瞬間成為強力C、U卡的富翁，然後朋友[cephille](/authors/cephille/)分享了一篇[純黑骷髏妖](https://youtu.be/PXcFrVlx700?si=XdWJUU_frNovJUjR)的Youtube影片，我立刻被這設計上廢到有點好笑的種族吸引，心裡想著，反正很便宜嘛不如組來樂一樂。
 
 當然，事情沒有當時以為的那麼單純，我畢竟是個不安於抄牌又熱中於魔改的老新手。觀察到[勇德大叔的日常](https://www.facebook.com/UncleJund)曾在黑綠中速套牌擺了四張[Blazemire Verge](https://scryfall.com/card/dsk/256/blazemire-verge)的巧思，佩服兼模仿的我漸漸步上自組 **紅黑骷髏妖** 的不歸路。
 
@@ -48,7 +48,7 @@ categories:
 
 ## 所以……菲哥到底是哪位？
 
-**菲哥** 是網站好友[GY_Player](https://guildmagesforum.tw/tags/gy-player/)在Discord群組內對[賽菲羅斯](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)的簡稱，坦白說，由於我是經歷過[龍兄虎弟](https://zh.wikipedia.org/zh-tw/%E9%BE%8D%E5%85%84%E8%99%8E%E5%BC%9F_(%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE))的初老世代，對於這種無聊幽默感到格外dokidoki。
+**菲哥** 是網站好友GY_Player在Discord群組內對[賽菲羅斯](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)的簡稱，坦白說，由於我是經歷過[龍兄虎弟](https://zh.wikipedia.org/zh-tw/%E9%BE%8D%E5%85%84%E8%99%8E%E5%BC%9F_(%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE))的初老世代，對於這種無聊幽默感到格外dokidoki。
 
 ![](https://i.meee.com.tw/UrtzA6r.jpg)
 >沒想到年輕朋友都不知道金元萱了唉，旅臺發展的韓籍藝人先驅捏。

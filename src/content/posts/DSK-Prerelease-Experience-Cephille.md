@@ -31,7 +31,7 @@ categories:
 這是個打了個三勝的 pool ，但我覺得這其中有點運氣成分，不然應該是個兩勝左右的構築，會需要稍加微調來放大強度。
 
 #### 主牌介紹與討論
-雖然只有一張 [Terramorphic Expanse](https://scryfall.com/card/dsk/269/terramorphic-expanse) ，但因為綠色有兩張超強調色 [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) 、以及 [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot) ，所以還是進了三色勇德（黑、紅、綠）的構築，靠著紅黑的去除，跟綠色優秀的生物體格，前期還有機會靠著二費 3 攻生物快速刷爆對手，這在面對重後期的藍黑控制，早早登場的高攻生物價值是非常高的，也會逼迫對手在不舒服的節奏下做去除，那我們後面的威脅就更容易登場了。這點在第二盤跟打藍黑的對手中大大的凸顯出來！還是要說句，[Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) 如[中二紳士](https://guildmagesforum.tw/tags/%E4%B8%AD%E4%BA%8C%E7%B4%B3%E5%A3%AB/)在 [DSK — 綠色](https://guildmagesforum.tw/DSK-Green/) 這篇說的，真是好狗狗！
+雖然只有一張 [Terramorphic Expanse](https://scryfall.com/card/dsk/269/terramorphic-expanse) ，但因為綠色有兩張超強調色 [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) 、以及 [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot) ，所以還是進了三色勇德（黑、紅、綠）的構築，靠著紅黑的去除，跟綠色優秀的生物體格，前期還有機會靠著二費 3 攻生物快速刷爆對手，這在面對重後期的藍黑控制，早早登場的高攻生物價值是非常高的，也會逼迫對手在不舒服的節奏下做去除，那我們後面的威脅就更容易登場了。這點在第二盤跟打藍黑的對手中大大的凸顯出來！還是要說句，[Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) 如中二紳士在 [DSK — 綠色](https://guildmagesforum.tw/DSK-Green/) 這篇說的，真是好狗狗！
 
 值得一提的是， [Hauntwoods Shrieker](https://scryfall.com/card/dsk/182/hauntwoods-shrieker) 這張秘稀牌在這樣偏中速的構築是不太適合的，如果它三費登場，攻擊後顯化懼象（manifest dread）後就被換掉，這其實是虧體格的；在更純的紅綠快攻中表現可能會更好，搭配更多的 trick 跟去除讓他持續賺價值。 
  
@@ -88,7 +88,7 @@ categories:
 
 #### 主牌介紹與討論
 
-三張藍黑 R/MR 強牌強度不說，但我對局中其實沒有用好 [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)，還被卡士多的[銀毛師父](https://scryfall.com/card/neo/236/zht/%E9%8A%80%E6%AF%9B%E5%B8%AB%E7%88%B6) aka [跳鼠](https://guildmagesforum.tw/tags/jerobamtg/) 提醒，這幾點跟大家分享一下：
+三張藍黑 R/MR 強牌強度不說，但我對局中其實沒有用好 [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares)，還被卡士多的[銀毛師父](https://scryfall.com/card/neo/236/zht/%E9%8A%80%E6%AF%9B%E5%B8%AB%E7%88%B6) aka [跳鼠](/authors/JerobaMTG/) 提醒，這幾點跟大家分享一下：
 > 1. 對手場面有生物時， [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares) 忍術進場打完開 [-2] 暈掉他可進攻的生物來保住魁渡；
 > 2. 而必要的時候，四費正拍魁渡再 [-2] 暈一隻進攻就好，不用只想著要三費做忍術出。
 
@@ -179,7 +179,7 @@ categories:
 ![](https://i.postimg.cc/jdDRxmTt/IMG-20240922-152620.webp)
 ![](https://i.postimg.cc/mrbqD19C/IMG-20240922-153402.webp)
 
-這是另一位 GF 團隊的編輯 [王靖](https://guildmagesforum.tw/tags/faintmama/) 提供給我的主備牌組法，但我們討論了一下覺得這樣組實在沒有很厲害，而這個 pool 的困難程度也是魔王級的。直到我們重新檢視一下主備牌，看到了五色傳奇 [Marina Vendrell](https://scryfall.com/card/dsk/221/marina-vendrell) 、 [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality) 、 [Ghostly Keybearer](https://scryfall.com/card/dsk/61/ghostly-keybearer) 、以及……各式各樣的隔間！
+這是另一位 GF 團隊的編輯 [王靖](/authors/faintmama/) 提供給我的主備牌組法，但我們討論了一下覺得這樣組實在沒有很厲害，而這個 pool 的困難程度也是魔王級的。直到我們重新檢視一下主備牌，看到了五色傳奇 [Marina Vendrell](https://scryfall.com/card/dsk/221/marina-vendrell) 、 [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality) 、 [Ghostly Keybearer](https://scryfall.com/card/dsk/61/ghostly-keybearer) 、以及……各式各樣的隔間！
 
 ![](https://i.postimg.cc/6629wFtw/F3-B9710-A-69-BD-4-DFD-9-C47-908960651-BAA.webp)
 

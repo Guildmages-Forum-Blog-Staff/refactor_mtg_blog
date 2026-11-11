@@ -24,7 +24,7 @@ authors:
 - 混**黑** 2 張的[驅靈詩篇](https://scryfall.com/card/otp/57/vanishing-verse?utm_source=api)跟[哀慟歸虛](https://scryfall.com/card/otp/35/anguished-unmaking?utm_source=api)的限制與代價都較大，跟其他色組、甚至白單色相比並不是那麼好；
 - 混<font color="#FD0214">**紅**</font>的[踏平](https://scryfall.com/card/otp/52/ride-down?utm_source=api)使用上更狹窄，相較前面的解牌更不吸引人。
 
-這麼懸殊的比例讓我不禁想，到底是為什麼要設計給白色如此多的解牌？不會太不公平嗎？但當我在回顧了一輪我們在[Guildmages' Forum](https://guildmagesforum.tw/)上發表的[OTJ限制賽文章](https://guildmagesforum.tw/tags/otj/)後，我好像感覺到了什麼。
+這麼懸殊的比例讓我不禁想，到底是為什麼要設計給白色如此多的解牌？不會太不公平嗎？但當我在回顧了一輪我們在[Guildmages' Forum](https://guildmagesforum.tw/)上發表的[OTJ限制賽文章](/categories/OTJ/)後，我好像感覺到了什麼。
 
 白色沒有顯而易見的炸彈。
 

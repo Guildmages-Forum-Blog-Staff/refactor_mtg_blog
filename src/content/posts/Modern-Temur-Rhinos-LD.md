@@ -89,7 +89,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 
 又或是其他優秀的多色牌，例如[生機核歐那斯](https://scryfall.com/card/znr/312/omnath-locus-of-creation)、[重聯君王亞拉岡](https://scryfall.com/card/ltr/192/aragorn-the-uniter)、[先兆娜希麗](https://scryfall.com/card/cmm/929/nahiri-the-harbinger)之類的，總之胡思亂想了幾天，試圖讓套牌不那麼單調。之後又嘗試組了Domain [變境](https://scryfall.com/card/m19/201/scapeshift)、4C歐那斯拉骸龍.....
 
-比賽前三天，剛好看到[施兆恩aka荒野騎士](https://guildmagesforum.tw/tags/ClarkShih/)在[Guildmages' Forum](http://guildmagesforum.tw)發了一篇文章 — [鐵木爾犀牛的RC構築指南](https://guildmagesforum.tw/Modern-Temur-Rhinos-for-RC/)。看完以後獲益良多，下定決心回歸鐵木爾犀牛。
+比賽前三天，剛好看到[施兆恩aka荒野騎士](/authors/ClarkShih/)在[Guildmages' Forum](http://guildmagesforum.tw)發了一篇文章 — [鐵木爾犀牛的RC構築指南](https://guildmagesforum.tw/Modern-Temur-Rhinos-for-RC/)。看完以後獲益良多，下定決心回歸鐵木爾犀牛。
 
 ## MIT#5使用的鐵木爾犀牛構築分析
 

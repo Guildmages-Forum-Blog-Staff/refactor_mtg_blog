@@ -99,7 +99,7 @@ authors:
 
 基於以上的客觀數據，你可以識別出炸彈、重要單卡、廢卡等重要資訊。然而別忘了，上面的數據都是該系列發售後，才從MTGA上的數據彙整而成；當你在預覽期間到售前賽開打前，網路上一些知名的國外網站如[Channelfireball](https://www.channelfireball.com/)、[Draftsim](https://draftsim.com/)也會發布他們對該環境單卡的預期評價。當然，跟大數據的客觀資訊相比，主觀評價難免會與實測有些許落差；但這樣的偏誤，也提供了冰冷數據外更人性化的論點，其中可能還隱藏著尚未被主流開發出的特殊妙用！
 
-> 我們Guildmages' Forum營運以來，在各個標準限制賽也未曾缺席，如果有需要參考繁體中文的單卡評分資訊，也歡迎到[Limited](https://guildmagesforum.tw/tags/limited/)中去尋找相關的評分文章資訊。
+> 我們Guildmages' Forum營運以來，在各個標準限制賽也未曾缺席，如果有需要參考繁體中文的單卡評分資訊，也歡迎到[Limited](/categories/Limited/)中去尋找相關的評分文章資訊。
 
 #### 5. 理解色組強弱勢
 

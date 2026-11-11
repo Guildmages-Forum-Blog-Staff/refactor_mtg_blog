@@ -274,7 +274,7 @@ Brian Boss老哥自己 24 名（真的有夠會算），要是沒約和的話 9-
 
 ![](https://i.imgur.com/PjCC5zz.jpeg) 
 
-跟蹦蹦、小石提早進會場享受 MAGIC CON，還遇到來逛展的[荒野騎士](https://guildmagesforum.tw/tags/clarkshih/)。過程中拿自己的單卡去 trade ，買了一堆周邊，順道化身無情的畫家簽名機器，噴了500多鎂 ~ （噓）
+跟蹦蹦、小石提早進會場享受 MAGIC CON，還遇到來逛展的[荒野騎士](/authors/ClarkShih/)。過程中拿自己的單卡去 trade ，買了一堆周邊，順道化身無情的畫家簽名機器，噴了500多鎂 ~ （噓）
 
 ![](https://i.imgur.com/p6Fr3E6.jpeg)
 ![](https://i.imgur.com/HhLgbsV.jpeg) 

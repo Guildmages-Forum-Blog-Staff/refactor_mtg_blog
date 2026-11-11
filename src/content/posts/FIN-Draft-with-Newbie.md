@@ -36,7 +36,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 2025年6月13日星期五 ~~居然是黑色星期五~~ ，感謝[遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)熱情提供場地，讓我們得以舉辦線下讀者同樂活動。18:30活動正式開始囉～
 
 ![](https://i.meee.com.tw/L0nFdaE.jpg)
->總之先來張合照 ~~剛好等待兩位塞在路上的成員~~ 。趁機特別感謝[cephille](https://guildmagesforum.tw/tags/cephille/)、[阿詹](https://guildmagesforum.tw/tags/zhan/)、[faintmama](https://guildmagesforum.tw/tags/faintmama/)的付出，才能讓一場聚會順利舉辦。
+>總之先來張合照 ~~剛好等待兩位塞在路上的成員~~ 。趁機特別感謝[cephille](/authors/cephille/)、[阿詹](/authors/ZHAN/)、[faintmama](/authors/faintmama/)的付出，才能讓一場聚會順利舉辦。
 
 ![](https://i.meee.com.tw/Fe8WudP.jpg)
 >人員到齊，輪抽正式開始！八位玩家各自打開第一包Play Booster，開始陷入「嗯到底該拿哪張呢……」的掙扎與快感之中。
@@ -54,7 +54,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 >組牌時的興奮、苦惱、絞盡腦汁，都是魔法風雲會輪抽賽制的經典醍醐味。抓到錢卡是一回事，但你能組得好嗎？晚點即將見真章囉。
 
 ![](https://i.meee.com.tw/hhMZr0c.jpg)
-欸朋友你未免也太認真了，牌都被捏彎了啦 ~~感謝[Peter](https://guildmagesforum.tw/tags/peter/)修長的手手支援~~ 。
+欸朋友你未免也太認真了，牌都被捏彎了啦 ~~感謝Peter修長的手手支援~~ 。
 
 ![](https://i.meee.com.tw/VRtNOSF.jpg)
 >「哈哈哈我都組好了你還敢不吃晚餐臨場狼吞虎嚥啊？」（設計對白）
@@ -71,26 +71,26 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 >快沒梗了！總之就是一排拿完錢卡且認真構築後的玩家們展開戰鬥！
 
 ![](https://i.meee.com.tw/5DpevCM.jpg)
->[終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)首戰遭遇沒帶卡套的[Jru](https://guildmagesforum.tw/tags/jrumtg/) ~~早知道就不借他了哼~~ 。
+>[終曲](/authors/T1BloodMoon/)首戰遭遇沒帶卡套的[Jru](/authors/JruMTG/) ~~早知道就不借他了哼~~ 。
 
 ![](https://i.meee.com.tw/aIDvSAy.jpg)
->面對[Peter](https://guildmagesforum.tw/tags/peter/)第一回合就拍下[Cecil, Dark Knight](https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin)的攻勢，[Chennel](https://guildmagesforum.tw/tags/chennel/)無奈地笑了 ~~人帥真好困窘也好看~~ 。
+>面對Peter第一回合就拍下[Cecil, Dark Knight](https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin)的攻勢，[Chennel](/authors/Chennel/)無奈地笑了 ~~人帥真好困窘也好看~~ 。
 
 ## 小結
 
-當天的場外贏家絕對是[Chennel](https://guildmagesforum.tw/tags/chennel/)啦！不只開到巴哈姆特[Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut)，甚至還有[Akroma's Will](https://scryfall.com/card/fca/21/akromas-will)及天野喜孝的[Dark Ritual](https://scryfall.com/card/fca/8/dark-ritual) ~~太扯了吧在開運鈔車嗎~~ 。恭喜大家都度過了一個愉快的夜晚，也很高興能和老朋友、新朋友聚聚。
+當天的場外贏家絕對是[Chennel](/authors/Chennel/)啦！不只開到巴哈姆特[Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut)，甚至還有[Akroma's Will](https://scryfall.com/card/fca/21/akromas-will)及天野喜孝的[Dark Ritual](https://scryfall.com/card/fca/8/dark-ritual) ~~太扯了吧在開運鈔車嗎~~ 。恭喜大家都度過了一個愉快的夜晚，也很高興能和老朋友、新朋友聚聚。
 身為魔風集會所的一員，很高興能有這次機會，嘗試帶領新人較深入地了解、享受輪抽。魔法風雲會的優點絕對是其深度、以及無法被取代的互動性，正因為這些特質，才令我們入坑後久久深蹲於坑裡XD。相對的，我們也理解新手時期需要引領的那種心情，所以再次感謝[睿卡潮玩](https://www.facebook.com/963Ruika)與我們一同摸索，嘗試在一次次的線上、線下互動之中，將這款遊戲的快樂與邏輯分享至越來越廣的世界。
 以上是 **最終幻想：最初的讀者輪抽同樂會** 的活動記錄部分。若您對當天挑選過程有了解的欲望，歡迎再讀讀後續的玩家分享囉。
 
 ## 玩家心得
 
-### [Chennel](https://guildmagesforum.tw/tags/chennel/)的分享：
+### [Chennel](/authors/Chennel/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 肯定是開第一包馬上看見巴哈姆特[Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut)這個超級大炸彈，直接無腦選下，接下來就開始煩惱怎麼組出一套能叫出巴哈姆特的套牌。第一輪挑完後發現地落相關組件都被挑走了，藍綠跳費的主題應該是行不通，第一包第四挑拿下了[Syr Konrad, the Grim](https://scryfall.com/card/fca/10/syr-konrad-the-grim)後開始想往黑綠的色組走，但從第一包傳來的牌來看，黑色的殺牌非常少見，於是從第二包開始我選擇加入藍色來補足套牌的去除手段，最終組成了蘇勒台色的控制套牌。
 
 #### 今天的關鍵回合狀況如何？
-跟[Peter](https://guildmagesforum.tw/tags/peter/)打第二局時，他調度兩次開局，中間我連續拍出[Diamond Weapon](https://scryfall.com/card/fin/183/diamond-weapon)和[Syr Konrad, the Grim](https://scryfall.com/card/fca/10/syr-konrad-the-grim)，被他連續摸兩張[Sephiroth's Intervention](https://scryfall.com/card/fin/116/sephiroths-intervention)解光，之後top deck抽超爛就被對手推死了，這遊戲真好玩XD。
+跟Peter打第二局時，他調度兩次開局，中間我連續拍出[Diamond Weapon](https://scryfall.com/card/fin/183/diamond-weapon)和[Syr Konrad, the Grim](https://scryfall.com/card/fca/10/syr-konrad-the-grim)，被他連續摸兩張[Sephiroth's Intervention](https://scryfall.com/card/fin/116/sephiroths-intervention)解光，之後top deck抽超爛就被對手推死了，這遊戲真好玩XD。
 
 #### 你喜歡輪抽嗎？有沒有值得懷念的輪抽回憶？
 [MH3](https://scryfall.com/sets/mh3)有場手牌事故調度了三次，只剩四張手牌開局，絕對是超級大劣勢，但幸運在第四回合靠[Phyrexian Tower](https://scryfall.com/card/mh3/303/phyrexian-tower)吃了一隻生物產出兩費加速叫出[Shilgengar, Sire of Famine](https://scryfall.com/card/mh3/109/shilgengar-sire-of-famine)，然後靠它連續敲三回合把對手敲死了XD。
@@ -105,7 +105,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 ![](https://i.meee.com.tw/CY1EIzk.jpg)
 >Chennel的當日構築。
 
-### [Peter](https://guildmagesforum.tw/tags/peter/)的分享：
+### Peter的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 或許大家會很意外，但最重要的pick其實是第二包末的[Brainstorm](https://scryfall.com/card/fca/28/brainstorm)。[Brainstorm](https://scryfall.com/card/fca/28/brainstorm)於普遍的印象中，是限制賽裡很難發揮效用的牌張：由於沒有找地的關係，直觀上[Brainstorm](https://scryfall.com/card/fca/28/brainstorm)只是調整接下來進牌的順序，讓你可以優先找到並使用接下來的三張牌，但如果手牌或是牌庫頂的牌不好，也無法改變什麼。然而在我當天的構築中，其實有不少能將放回去的兩張牌（不想要的內容）給移除的手法，其中包含兩隻會刺探的生物、兩隻進場會磨牌的生物、兩張cycle找基本地的牌、以及一張世界地圖，讓我的[Brainstorm](https://scryfall.com/card/fca/28/brainstorm)強度直線上升，也在對戰中拯救了我不只一次。
@@ -114,7 +114,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 今天最關鍵的幾個回合莫過於Round2的第一把：對上紅白武具。在血量僅剩個位數的將近十個回合中，我藉由小生物阻擋以及持續製造場面和手牌優勢，最後終於找到解牌，才成功逆轉結束遊戲。賽後我跟對手聊到：這個遊戲就是這樣，只要還沒有真的輸，就不能放棄。
 
 #### 你喜歡輪抽嗎？有沒有值得懷念的輪抽回憶？
-記得之前有一次去桃園打現開輪抽的MITQ，某一輪對到[cephille](https://guildmagesforum.tw/tags/cephille/)，他居然在對局第二盤的最後兩回合時，用珍寶變出了兩點第三色，在紅藍為主的套牌中叫出了兩點黑的[Gisa, the Hellraiser](https://scryfall.com/card/otj/89/gisa-the-hellraiser)，直接收割獲得勝利，時至今日我還是對那個對局記憶猶新。
+記得之前有一次去桃園打現開輪抽的MITQ，某一輪對到[cephille](/authors/cephille/)，他居然在對局第二盤的最後兩回合時，用珍寶變出了兩點第三色，在紅藍為主的套牌中叫出了兩點黑的[Gisa, the Hellraiser](https://scryfall.com/card/otj/89/gisa-the-hellraiser)，直接收割獲得勝利，時至今日我還是對那個對局記憶猶新。
 
 #### 你會如何推薦輪抽呢？
 對我而言，輪抽是建構這個遊戲基本邏輯最好的媒介，因為它所在意的除了最基本的戰鬥，還有非常有限的資源調動、以及套牌構築。在這個賽制中，你必須對自己的40張牌瞭若指掌，每一個決定都會對勝負有很大的影響。
@@ -125,7 +125,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 ![](https://i.meee.com.tw/rJlySdO.jpg)
 >Peter的當日構築。
 
-### [終曲](https://guildmagesforum.tw/tags/t1bloodmoon/)的分享：
+### [終曲](/authors/T1BloodMoon/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 第一包第一選的國王[Kenrith, the Returned King](https://scryfall.com/card/fca/23/kenrith-the-returned-king)幫助我在對局瘋狂補血，異次元讓對手抽乾，後續藍白色走神器路線並沒有太多人抓，所以都被我拿走，包含兩張[White Auracite](https://scryfall.com/card/fin/41/white-auracite)，是神器中很強的解牌。
@@ -145,7 +145,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 ![](https://i.meee.com.tw/QK0UnHY.jpg)
 >終曲的當日構築。
 
-### [Jru](https://guildmagesforum.tw/tags/jrumtg/)的分享：
+### [Jru](/authors/JruMTG/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 所有去除牌張。
@@ -189,7 +189,7 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 [Gilgamesh, Master-at-Arms](https://scryfall.com/card/fin/139/gilgamesh-master-at-arms)。憑藉此卡進場與攻擊時的異能，讓我可以在每回合高機率叫出附帶Hero的武具上場。
 
 #### 今天的關鍵回合狀況如何？
-與[Chennel](https://guildmagesforum.tw/tags/chennel/)對戰時，他叫出了[Summon: Shiva](https://scryfall.com/card/fin/78/summon:-shiva)並開啟傳記第一章，讓我的[Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon)持續處於tap+stun狀態（而且第二章也同樣是tap+stun……頭超痛），這讓我無法透過[Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon)進攻並轉化此卡，導致戰局無法逆轉，最終敗北。
+與[Chennel](/authors/Chennel/)對戰時，他叫出了[Summon: Shiva](https://scryfall.com/card/fin/78/summon:-shiva)並開啟傳記第一章，讓我的[Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon)持續處於tap+stun狀態（而且第二章也同樣是tap+stun……頭超痛），這讓我無法透過[Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon)進攻並轉化此卡，導致戰局無法逆轉，最終敗北。
 
 #### 請分享參與輪抽的感受吧
 身為入坑半年的菜雞，玩過輪抽的次數一隻手掌數得出來……很開心能參加這次的輪抽，也謝謝魔風集會所細心解說，並且從旁提出建議，整體的遊玩體驗非常棒！
@@ -200,13 +200,13 @@ excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初�
 ![](https://i.meee.com.tw/VJRhc9G.jpg)
 >怎麼喝都不夠的當日構築。
 
-### [晉安](https://guildmagesforum.tw/tags/mm/)的分享：
+### [晉安](/authors/mm/)的分享：
 
 #### 你認為今天最重要的pick為何，理由及單卡名分別為？
 [Firion, Wild Rose Warrior](https://scryfall.com/card/fin/137/firion-wild-rose-warrior)。選擇這張卡的主要原因，是因為套牌核心有武具的時候可以快速地提供攻擊機會、產生大量傷害。在第一包第一張就看到他，基本上就決定要打紅白的主題了。
 
 #### 今天的關鍵回合狀況如何？
-我這一套紅白快攻的致命缺點：沒有踐踏。因為沒有踐踏，即使[Barret Wallace](https://scryfall.com/card/fin/129/barret-wallace)擁有血滴子、以及其他武具達成7/4連擊的超痛體質，我也沒辦法阻止對手一直送小怪給我打。如果可以的話，我應該中間不要停止攻擊，要不斷消耗[Peter](https://i.meee.com.tw/hhMZr0c.jpg)的生物，才可以給他壓力。結果最後讓[Peter](https://guildmagesforum.tw/tags/peter/)做出大怪就輸掉比賽了。
+我這一套紅白快攻的致命缺點：沒有踐踏。因為沒有踐踏，即使[Barret Wallace](https://scryfall.com/card/fin/129/barret-wallace)擁有血滴子、以及其他武具達成7/4連擊的超痛體質，我也沒辦法阻止對手一直送小怪給我打。如果可以的話，我應該中間不要停止攻擊，要不斷消耗[Peter](https://i.meee.com.tw/hhMZr0c.jpg)的生物，才可以給他壓力。結果最後讓Peter做出大怪就輸掉比賽了。
 
 #### 請分享參與輪抽的感受吧
 總之覺得這個限制賽實在太好玩了，組牌的邏輯不會太複雜，基本跟著起手的強力單卡開始為核心組牌就可以完成了，希望之後還有機會繼續找限制賽的比賽來玩。

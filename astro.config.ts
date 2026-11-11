@@ -15,6 +15,7 @@ import { remarkFolding } from './src/plugins/remark-folding';
 import { rehypePangu } from './src/plugins/rehype-pangu';
 import { externalLinksOptions } from './src/plugins/external-links';
 import { getPreviewSlugs } from './src/utils/sitemap-filter';
+import { getAuthorTagRedirects } from './src/utils/legacy-redirects';
 import remarkBreaks from 'remark-breaks';
 import rehypeExternalLinks from 'rehype-external-links';
 
@@ -29,6 +30,20 @@ const previewPagePaths = new Set(
   ),
 );
 
+// Legacy Hexo URLs still indexed / linked externally. No redirects for
+// lowercase `/categories/...` variants: on case-insensitive filesystems
+// (macOS) a redirect page at e.g. /categories/limited/ would overwrite the
+// real /categories/Limited/ page in local builds.
+const legacyRedirects = {
+  ...getAuthorTagRedirects(fileURLToPath(new URL('./src/content/authors', import.meta.url))),
+  '/tags': '/categories/',
+  '/tags/limited': '/categories/Limited/',
+  '/tags/otj': '/categories/OTJ/',
+  '/Izzet-Murktide': '/Modern-Izzet-Murktide/',
+  '/Rakdos-Midrange': '/Pioneer-Rakdos-Midrange/',
+  '/Rule-LCI-Mechanic-Guide': '/LCI-mechanic/',
+};
+
 export default defineConfig({
   site: 'https://guildmagesforum.tw',
   base: BASE,
@@ -36,6 +51,7 @@ export default defineConfig({
   // 'always' makes dev match prod and Astro's paginate URLs end in '/'.
   trailingSlash: 'always',
   compressHTML: true,
+  redirects: legacyRedirects,
   server: {
     host: true,
     allowedHosts: ['gf-preview.miohitokiri5474.tw', 'guildmagesforum.tw'],

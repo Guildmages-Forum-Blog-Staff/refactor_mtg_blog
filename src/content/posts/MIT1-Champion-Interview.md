@@ -85,7 +85,7 @@ A：我不太知道該怎麼定義自己的類型，大概算是「想太多」�
 
 個人經歷過較經典的對局，除了上面提過的MIT#1最後冠亞決賽，那個自摸[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)的一手外，某年臺北GP上，曾對到後來的世界冠軍[高橋優太](https://mtg.fandom.com/wiki/Yuta_Takahashi)，當時用[黃蜂巢](https://scryfall.com/card/c21/192/hornet-nest)擋下他的[攻城巨車](https://scryfall.com/card/fdn/255/juggernaut)，而高橋優太選擇直接鏟牌；第二天輪抽拿到超強套牌擊敗[Nam Sung Wook](https://mtg.fandom.com/wiki/Sungwook_Nam)；還有某年臺北GP，阿拉若斷片現開/輪抽第一天接連戰勝[李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian)、[Martin Juza](https://mtg.fandom.com/wiki/Martin_J%C5%AFza)等選手，然後第二天輪抽就被李詩天和該場的冠軍小室修狠狠地修理……太多太多跟各界大大的對決了，說也說不完，都是烙印在腦袋裡的重要回憶。
 
-#### Q8（[王靖](https://guildmagesforum.tw/tags/faintmama/)提問）：延續上題，關於overthinking這項特質，JT有沒有收獲或吃虧的經驗呢？
+#### Q8（[王靖](/authors/faintmama/)提問）：延續上題，關於overthinking這項特質，JT有沒有收獲或吃虧的經驗呢？
 
 A：吃虧的經驗其實還不少呢。
 Overthinking這個性，常常會讓我在進攻的節奏上綁手綁腳，這點在限制賽領域特別明顯。但構築時因為想得更多，反而是相對保險的，比較容易讀到對手可能有什麼牌，進而繞著打而不落入對手的陷阱。
@@ -93,7 +93,7 @@ Overthinking這個性，常常會讓我在進攻的節奏上綁手綁腳，這�
 
 #### Q9：我一直都很好奇，競技選手在打牌習慣上肯定有獨到的講究之處。能否分享一下「卡片」以外的部分呢？您有沒有什麼近乎迷信的習慣？或者暗示、誤導對手的小訣竅？
 
-A：因為我是基督徒，所以會在比賽前做個禱告（據說MIT#5的冠軍[David Yeh](https://guildmagesforum.tw/tags/david-yeh/)也是唷）。
+A：因為我是基督徒，所以會在比賽前做個禱告（據說MIT#5的冠軍[David Yeh](/authors/david-yeh/)也是唷）。
 至於其他的流程，跟大多數的玩家都差不多吧，如果要說就是我喜歡把牌庫橫著放。起初是因為看到永銘大大這麼做，後來我也覺得這樣抽比較順、比較好瞇牌XD。後來就都把牌庫橫著擺了。
 覺得不順利的時候，我會試著調整牌庫擺放的位置，其他就沒什麼特別的了。順帶一提，我以前看過米仔（任穎津，PT HOU四強）習慣會空轉法力來表現出有某張牌的暗示、或是排列地牌以作出某種宣告，試圖創造「我可能有那張牌」的感覺。
 
