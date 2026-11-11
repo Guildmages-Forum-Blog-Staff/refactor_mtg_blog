@@ -1,5 +1,8 @@
 // Copies a post's images from third-party hosts into the self-hosted images
 // repo (served at images.guildmagesforum.tw) and rewrites the URLs.
+// An image is any URL in `![](…)`, `<img src>`, cover or thumbnail, plus any
+// URL at all on the known image hosts below. Scryfall card art and our own
+// domains are left alone.
 // Body images become 1200px WebP; cover/thumbnail become 1200px JPEG so every
 // og:image consumer can read them. GIFs are copied untouched (animation).
 // Any failure leaves that one URL as-is and is reported as a warning — a dead
@@ -12,9 +15,14 @@ import sharp from 'sharp';
 const MAX_WIDTH = 1200;
 const MAX_BYTES = 30 * 1024 * 1024;
 const FETCH_TIMEOUT_MS = 30_000;
-// ponytail: fixed allowlist of hosts we've seen in posts; add a host here when authors start using a new one.
+// Hosts that only serve images, so a bare link to them is an image too.
 const urlPattern = () =>
   /https?:\/\/(?:i\.meee\.com\.tw|i\.imgur\.com|i\.postimg\.cc|hackmd\.io\/_uploads)\/[^\s)"'<>\]]+/g;
+// `![alt](url` and `<img … src="url"`; group 1 is the URL.
+const imageSyntax = () =>
+  /!\[[^\]]*\]\(\s*<?(https?:\/\/[^\s)>]+)|<img\b[^>]*?\bsrc\s*=\s*["'](https?:\/\/[^"']+)/gi;
+// Card art stays on Scryfall (remark-scryfall turns it into card links); our own hosts are already home.
+const KEEP_HOST = /(^|\.)(scryfall\.io|scryfall\.com|guildmagesforum\.tw)$/i;
 
 export const WARN_PREFIX = '[images] WARN';
 
@@ -36,8 +44,23 @@ export interface CoverFields {
   thumbnail?: string;
 }
 
+/** True for an http(s) URL that should be copied to our host. */
 export function isExternalImage(url: string): boolean {
-  return new RegExp(`^${urlPattern().source}$`).test(url);
+  try {
+    const u = new URL(url);
+    return /^https?:$/.test(u.protocol) && !KEEP_HOST.test(u.hostname);
+  } catch {
+    return false;
+  }
+}
+
+function bodyImageUrls(body: string): Set<string> {
+  const urls = new Set(body.match(urlPattern()) ?? []);
+  for (const m of body.matchAll(imageSyntax())) {
+    const url = m[1] ?? m[2];
+    if (isExternalImage(url)) urls.add(url);
+  }
+  return urls;
 }
 
 async function download(url: string, fetchImpl: FetchLike): Promise<Buffer> {
@@ -120,8 +143,13 @@ export async function localizeImages<T extends CoverFields>(
     if (url && isExternalImage(url)) fm[field] = (await move(url, 'cover')) as T[typeof field];
   }
 
-  for (const url of new Set(body.match(urlPattern()) ?? [])) await move(url, 'body');
-  const newBody = body.replace(urlPattern(), (url) => done.get(`body ${url}`) ?? url);
+  const urls = [...bodyImageUrls(body)];
+  for (const url of urls) await move(url, 'body');
+  // Longest first, so a URL that is a prefix of another (`a.png` vs `a.png?w=2`) cannot clip it.
+  let newBody = body;
+  for (const url of urls.sort((a, b) => b.length - a.length)) {
+    newBody = newBody.split(url).join(done.get(`body ${url}`)!);
+  }
 
   return { frontmatter: fm, body: newBody, warnings };
 }

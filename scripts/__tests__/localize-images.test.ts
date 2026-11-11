@@ -45,10 +45,12 @@ describe('isExternalImage', () => {
     'https://hackmd.io/_uploads/abc.png',
   ])('matches %s', (u) => expect(isExternalImage(u)).toBe(true));
 
-  it.each(['https://cards.scryfall.io/a.jpg', 'https://images.guildmagesforum.tw/a.webp'])(
-    'ignores %s',
-    (u) => expect(isExternalImage(u)).toBe(false),
-  );
+  it.each([
+    'https://cards.scryfall.io/a.jpg',
+    'https://images.guildmagesforum.tw/a.webp',
+    'https://guildmagesforum.tw/images/a.jpg',
+    'not a url',
+  ])('ignores %s', (u) => expect(isExternalImage(u)).toBe(false));
 });
 
 describe('localizeImages', () => {
@@ -73,6 +75,36 @@ describe('localizeImages', () => {
 
     const meta = await sharp(path.join(dir, bodyUrl.slice(BASE.length + 1))).metadata();
     expect(meta).toMatchObject({ format: 'webp', width: 1200 });
+  });
+
+  it('moves images from any host in image syntax, but not plain links or card art', async () => {
+    const fetchImpl = vi.fn(async () => respond(png, 'image/png'));
+    const body = [
+      '![a](https://media.wizards.com/x.jpg)',
+      '<img alt="b" src="https://cdn.melee.gg/y.png?w=2">',
+      '![c](https://meee.com.tw/z.jpg)',
+      '[decklist](https://media.wizards.com/page.html)',
+      '![card](https://cards.scryfall.io/large/k.jpg)',
+    ].join('\n');
+    const r = await localizeImages({}, body, opts(fetchImpl));
+
+    expect(r.warnings).toEqual([]);
+    expect(fetchImpl).toHaveBeenCalledTimes(3);
+    expect(r.body).not.toMatch(/media\.wizards\.com\/x|melee|meee/);
+    expect(r.body).toContain('(https://media.wizards.com/page.html)');
+    expect(r.body).toContain('https://cards.scryfall.io/large/k.jpg');
+  });
+
+  it('does not clip a longer URL that shares a prefix', async () => {
+    const r = await localizeImages(
+      {},
+      '![](https://i.imgur.com/a.png) ![](https://i.imgur.com/a.png?x=1)',
+      opts(async () => respond(png, 'image/png')),
+    );
+    expect(r.body).toMatch(
+      /^!\[\]\(https:\/\/images\.example\/\S+\) !\[\]\(https:\/\/images\.example\/\S+\)$/,
+    );
+    expect(new Set(r.body.match(/\w{12}\.webp/g))).toHaveProperty('size', 2);
   });
 
   it('accepts a cover URL with stray whitespace', async () => {
