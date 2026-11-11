@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/e1qYMWQ.png"
-thumbnail: "https://i.imgur.com/e1qYMWQ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/744f853e66d3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mardu-Mobilize/744f853e66d3-cover.jpg"
 excerpt: "黠智的小夜......郊狼的回合。"
 ---
 

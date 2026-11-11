@@ -7,8 +7,8 @@ categories:
   - "GMF Staff"
 authors:
   - "gmf-staff"
-cover: "https://i.meee.com.tw/6zpl0fG.jpg"
-thumbnail: "https://i.meee.com.tw/6zpl0fG.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Third-Anniversary/5fc46cc7526f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Third-Anniversary/5fc46cc7526f-cover.jpg"
 excerpt: "喜迎 Guildmages' Forum 魔風集會所三周年！"
 ---
 

@@ -5,8 +5,8 @@ date: "2024-09-13 14:50:17"
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.postimg.cc/PrFSs7pG/1577767500-echo-of-eons.webp"
-thumbnail: "https://i.postimg.cc/PrFSs7pG/1577767500-echo-of-eons.webp"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/3bac67c5ba24-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/3bac67c5ba24-cover.jpg"
 excerpt: "亙古回聲！你今晚的惡夢！！！"
 authors:
   - "cephille"

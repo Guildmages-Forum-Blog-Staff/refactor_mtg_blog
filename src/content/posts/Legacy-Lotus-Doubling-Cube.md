@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Legacy"
-cover: "https://i.meee.com.tw/yYgKlLF.jpg"
-thumbnail: "https://i.meee.com.tw/yYgKlLF.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/75b47cadf6fd-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Legacy-Lotus-Doubling-Cube/75b47cadf6fd-cover.jpg"
 excerpt: "珠光蓮花最後的波紋"
 ---
 

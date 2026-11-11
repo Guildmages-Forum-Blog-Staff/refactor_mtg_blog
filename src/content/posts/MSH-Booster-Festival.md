@@ -1,8 +1,8 @@
 ---
 title: "如果你有一箱MSH常規盒，你會拿它做什麼？"
 date: "2026-07-14 10:14:43"
-cover: "https://i.meee.com.tw/hpsfOuG.jpg"
-thumbnail: "https://i.meee.com.tw/hpsfOuG.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/2e1728f40d81-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/2e1728f40d81-cover.jpg"
 excerpt: "……問就是打爆限制賽"
 authors:
   - "cephille"

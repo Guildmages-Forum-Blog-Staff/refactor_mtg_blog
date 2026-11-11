@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/alCTmXx.png"
-thumbnail: "https://i.imgur.com/alCTmXx.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Ferocious/0c098c3127af-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Ferocious/0c098c3127af-cover.jpg"
 excerpt: "龍頭鷹：「你已經死了。」"
 ---
 

@@ -7,8 +7,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/z3md8yv.png"
-thumbnail: "https://i.meee.com.tw/z3md8yv.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/d24639744e7b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/d24639744e7b-cover.jpg"
 excerpt: "My Precious～～～"
 ---
 

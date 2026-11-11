@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的 DSK 售前現開分享"
 date: "2024-09-24 23:07:19"
-cover: "https://i.postimg.cc/3rCxTkPX/duskmournart-1160x653.jpg"
-thumbnail: "https://i.postimg.cc/3rCxTkPX/duskmournart-1160x653.jpg"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/ac3ac36f2ad6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/ac3ac36f2ad6-cover.jpg"
 excerpt: "來喔來喔！ DSK 限制賽好玩喔！"
 authors:
   - "cephille"

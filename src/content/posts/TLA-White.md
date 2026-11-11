@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/VvOAnrH.png"
-thumbnail: "https://i.meee.com.tw/VvOAnrH.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-White/65fa52fe4aa3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-White/65fa52fe4aa3-cover.jpg"
 excerpt: "截氣神通與愉悅的伙伴們"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/tMUU7Pq.png"
-thumbnail: "https://i.meee.com.tw/tMUU7Pq.png"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Standard-Preliminary/b37e73bf627c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Standard-Preliminary/b37e73bf627c-cover.jpg"
 excerpt: "急徵太空船駕駛員"
 ---
 

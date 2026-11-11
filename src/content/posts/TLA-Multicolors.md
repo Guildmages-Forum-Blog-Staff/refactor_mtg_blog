@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/upGqXyw.png"
-thumbnail: "https://i.meee.com.tw/upGqXyw.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Multicolors/1d46975a63bc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Multicolors/1d46975a63bc-cover.jpg"
 excerpt: "四宗合一，火地水氣，降世天命，證我神通！"
 ---
 

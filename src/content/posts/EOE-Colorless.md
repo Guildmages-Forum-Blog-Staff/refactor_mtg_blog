@@ -10,8 +10,8 @@ categories:
  - "Limited"
  - "EOE"
 
-cover: "https://i.meee.com.tw/Qdn79Jl.webp"
-thumbnail: "https://i.meee.com.tw/Qdn79Jl.webp"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Colorless/8ed5887ffdcf-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Colorless/8ed5887ffdcf-cover.jpg"
 excerpt: "五色通用大飛船！還有10個外星產物加入？！"
 
 ---

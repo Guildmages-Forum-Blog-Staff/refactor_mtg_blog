@@ -11,8 +11,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/CcnftkC.png"
-thumbnail: "https://i.meee.com.tw/CcnftkC.png"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Mechanism/64f07d11913d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Mechanism/64f07d11913d-cover.jpg"
 
 excerpt: "來看看哈比人中出現了哪些機制吧！"
 

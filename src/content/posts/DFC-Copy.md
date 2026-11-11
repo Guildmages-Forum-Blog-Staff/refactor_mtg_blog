@@ -1,8 +1,8 @@
 ---
 title: "轉化式雙面牌與複製效應"
 date: 2023-09-28 12:00:00
-cover: "https://i.imgur.com/NwTeh61.png"
-thumbnail: "https://i.imgur.com/NwTeh61.png"
+cover: "https://images.guildmagesforum.tw/posts/DFC-Copy/d94e56e09e4c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFC-Copy/d94e56e09e4c-cover.jpg"
 
 excerpt: "當我嘗試複製一個轉化式雙面牌時會得到甚麼?"
 

@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/gzrQiC9.png"
-thumbnail: "https://i.meee.com.tw/gzrQiC9.png"
+cover: "https://images.guildmagesforum.tw/posts/How-does-Storm-Work/740bd24eddae-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-does-Storm-Work/740bd24eddae-cover.jpg"
 excerpt: "風暴你這重出頻率確定滿足風暴量尺10分的定義嗎？"
 ---
 

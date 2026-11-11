@@ -2,8 +2,8 @@
 title: "跳鼠來襲：標準黑白老鼠"
 date: "2023-10-24 13:48:26"
 excerpt: "當老鼠拿起金圓機關槍時會發生什麼事？"
-cover: "https://i.imgur.com/yuht3fg.jpg"
-thumbnail: "https://i.imgur.com/yuht3fg.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Sacrifice-Nezumi/c14e488d2379-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Sacrifice-Nezumi/c14e488d2379-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

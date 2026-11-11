@@ -6,8 +6,8 @@ categories:
   - "HOB"
 authors:
   - "jeffchen"
-cover: "https://i.meee.com.tw/uSbmuJO.jpg"
-thumbnail: "https://i.meee.com.tw/uSbmuJO.jpg"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Draft-Review/44c684513722-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Draft-Review/44c684513722-cover.jpg"
 excerpt: "節奏明快的環境"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/zsMaOJb.png"
-thumbnail: "https://i.meee.com.tw/zsMaOJb.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/33e9a7eca8ee-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/33e9a7eca8ee-cover.jpg"
 excerpt: "打牌靠賽，輕鬆自在"
 ---
 

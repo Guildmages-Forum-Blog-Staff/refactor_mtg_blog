@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/uksr1T9.png"
-thumbnail: "https://i.imgur.com/uksr1T9.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Selesnya-Sunmare/3d42a157e12b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Selesnya-Sunmare/3d42a157e12b-cover.jpg"
 excerpt: "想要的，應該，都點得到？"
 ---
 

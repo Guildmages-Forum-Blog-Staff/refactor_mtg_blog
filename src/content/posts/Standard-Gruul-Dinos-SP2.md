@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/p9gGGMw.png"
-thumbnail: "https://i.meee.com.tw/p9gGGMw.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Dinos-SP2/3902e1fcb1af-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Dinos-SP2/3902e1fcb1af-cover.jpg"
 excerpt: "蔓蛇放豆只是花拳繡腿，恐龍正拳才是王者之技。"
 ---
 

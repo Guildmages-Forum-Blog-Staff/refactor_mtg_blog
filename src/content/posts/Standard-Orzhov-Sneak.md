@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/BSccbij.png"
-thumbnail: "https://i.meee.com.tw/BSccbij.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Sneak/54909a3a9ab9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Sneak/54909a3a9ab9-cover.jpg"
 excerpt: "許瑞德x李奧納多"
 ---
 

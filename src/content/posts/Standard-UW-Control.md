@@ -1,8 +1,8 @@
 ---
 title: "標準套牌推薦：經典白藍控制"
 date: 2023-09-26 15:00:00
-cover: "https://i.imgur.com/5emSBM9.png"
-thumbnail: "https://i.imgur.com/OuoV2BT.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-UW-Control/1ad144d335f2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-UW-Control/0fd339a5e452-cover.jpg"
 excerpt: "Sorry , I'm late."
 categories:
   - "Construct"

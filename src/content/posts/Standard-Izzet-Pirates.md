@@ -2,8 +2,8 @@
 title: "風雲艦隊：標準伊捷海盜"
 date: "2023-12-12 17:17:19"
 excerpt: "限制賽強悍的紅藍海盜在標準有沒有搞頭呢？"
-cover: "https://i.imgur.com/yeT6cEQ.png"
-thumbnail: "https://i.imgur.com/yeT6cEQ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Pirates/5bc86532e2c0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Pirates/5bc86532e2c0-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

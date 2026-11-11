@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/gieoNwg.png"
-thumbnail: "https://i.meee.com.tw/gieoNwg.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-White/b7a21df87823-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-White/b7a21df87823-cover.jpg"
 excerpt: "記得注意以生物為目標的瞬間/巫術咒語有多少發"
 ---
 

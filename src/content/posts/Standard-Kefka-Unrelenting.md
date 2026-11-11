@@ -7,8 +7,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/OHCFTDY.png"
-thumbnail: "https://i.meee.com.tw/OHCFTDY.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Kefka-Unrelenting/bddd6f8f2a3b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Kefka-Unrelenting/bddd6f8f2a3b-cover.jpg"
 excerpt: "沒招了？真無趣。"
 ---
 

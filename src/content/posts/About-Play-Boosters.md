@@ -3,8 +3,8 @@ date: 2023-10-19 13:30:00
 
 title: "關於Play Booster我想說的是..."
 
-cover: "https://i.imgur.com/ycIvzuf.jpg"
-thumbnail: "https://i.imgur.com/ycIvzuf.jpg"
+cover: "https://images.guildmagesforum.tw/posts/About-Play-Boosters/d72af7b0a1e3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/About-Play-Boosters/d72af7b0a1e3-cover.jpg"
 excerpt: "2024年二月起的Murders at Karlov Manor系列發售後我們將告別既有的系列補充包以及輪抽補充包，取而代之的是新式的Play Booster，讓我們來看看這對我們可能會有什麼影響吧！"
 categories:
   - Others

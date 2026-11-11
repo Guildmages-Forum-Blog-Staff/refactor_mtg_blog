@@ -8,8 +8,8 @@ categories:
   - "Interview"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/95LOGCj.jpg"
-thumbnail: "https://i.meee.com.tw/95LOGCj.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT12-Champion-Interview/1335f3084dbf-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT12-Champion-Interview/1335f3084dbf-cover.jpg"
 excerpt: "拿兩屆MIT冠軍還有什麼好訪問的呢？別急著離開，菜鳥想說的事可多著的呢！"
 ---
 ## Let's get started!

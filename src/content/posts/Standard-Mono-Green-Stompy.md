@@ -2,8 +2,8 @@
 title: "自然之道：標準大綠猛襲"
 date: "2023-11-29 18:01:33"
 excerpt: "品嘗《依夏蘭迷窟》帶給傳統大綠強攻的新滋味。"
-cover: "https://i.imgur.com/5JSHH1D.png"
-thumbnail: "https://i.imgur.com/5JSHH1D.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mono-Green-Stompy/9033be039fc6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mono-Green-Stompy/9033be039fc6-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

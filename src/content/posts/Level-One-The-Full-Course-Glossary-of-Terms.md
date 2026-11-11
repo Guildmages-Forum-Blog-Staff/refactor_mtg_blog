@@ -7,8 +7,8 @@ authors:
 categories:
   - "Beginner"
   - "Level One"
-cover: "https://i.meee.com.tw/fCnaCVu.jpg"
-thumbnail: "https://i.meee.com.tw/fCnaCVu.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-The-Full-Course-Glossary-of-Terms/8c46067001bc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-The-Full-Course-Glossary-of-Terms/8c46067001bc-cover.jpg"
 excerpt: "Level One: The Full Course & Glossary of Terms"
 ---
 

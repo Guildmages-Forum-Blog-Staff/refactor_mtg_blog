@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/lupaEdN.png"
-thumbnail: "https://i.meee.com.tw/lupaEdN.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-Red/c163d7cb2bc6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-Red/c163d7cb2bc6-cover.jpg"
 excerpt: "這次紅色也是ㄇ級分"
 ---
 

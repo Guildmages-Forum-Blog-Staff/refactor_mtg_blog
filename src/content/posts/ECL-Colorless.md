@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/gALh7MH.png"
-thumbnail: "https://i.meee.com.tw/gALh7MH.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Colorless/560ec287c704-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Colorless/560ec287c704-cover.jpg"
 excerpt: "顏色很難湊嗎？怎麼會。種族很難搭配嗎？不可能！"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/kCKfo16.png"
-thumbnail: "https://i.meee.com.tw/kCKfo16.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/fec9b7130723-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/fec9b7130723-cover.jpg"
 excerpt: "你的堅持太讓人佩服了。要不要來我們報社上班？"
 ---
 

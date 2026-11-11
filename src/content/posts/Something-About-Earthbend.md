@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/f2AaUzz.png"
-thumbnail: "https://i.meee.com.tw/f2AaUzz.png"
+cover: "https://images.guildmagesforum.tw/posts/Something-About-Earthbend/8c774cc77db5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Something-About-Earthbend/8c774cc77db5-cover.jpg"
 excerpt: "運土問鼎年度最高複雜度機制應該是沒什麼問題了"
 ---
 

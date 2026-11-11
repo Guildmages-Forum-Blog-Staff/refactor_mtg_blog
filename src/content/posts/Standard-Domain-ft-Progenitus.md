@@ -6,8 +6,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/rdBnyEE.png"
-thumbnail: "https://i.meee.com.tw/rdBnyEE.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/c8af378f7e67-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Domain-ft-Progenitus/c8af378f7e67-cover.jpg"
 excerpt: "FDN 終於在這周正式發售啦！快來看看在賽季第一周就拿到資格的領土 Ramp 的構築吧！"
 ---
 ## 前言

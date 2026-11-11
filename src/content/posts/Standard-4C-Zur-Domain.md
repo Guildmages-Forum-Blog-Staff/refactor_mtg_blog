@@ -6,8 +6,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/fOwKiQf.png"
-thumbnail: "https://i.meee.com.tw/fOwKiQf.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/8be9c9a16bab-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/8be9c9a16bab-cover.jpg"
 excerpt: "你打的有我霸主痛？抽的有我豆莖多嗎？"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Beginner"
   - "Level One"
-cover: "https://i.meee.com.tw/UHUQXKV.jpg"
-thumbnail: "https://i.meee.com.tw/UHUQXKV.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/3662ef96b7c4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/3662ef96b7c4-cover.jpg"
 excerpt: "Level One: Aggro Decks"
 ---
 

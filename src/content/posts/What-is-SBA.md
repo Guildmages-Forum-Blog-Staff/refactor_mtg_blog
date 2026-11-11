@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/Q9NGHC8.png"
-thumbnail: "https://i.meee.com.tw/Q9NGHC8.png"
+cover: "https://images.guildmagesforum.tw/posts/What-is-SBA/803681e17a86-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-SBA/803681e17a86-cover.jpg"
 excerpt: "使用閃電擊、送終一擊解掉道西虛空行者，為何閃電擊會被放逐，但送終一擊不會？"
 ---
 

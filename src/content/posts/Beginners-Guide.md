@@ -7,8 +7,8 @@ authors:
   - "JruMTG"
 categories:
   - "Beginner"
-cover: "https://i.meee.com.tw/jMNOt22.jpg"
-thumbnail: "https://i.meee.com.tw/jMNOt22.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Beginners-Guide/3ddd661a6b46-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Beginners-Guide/3ddd661a6b46-cover.jpg"
 excerpt: "從零開始的新手入坑指引"
 ---
 

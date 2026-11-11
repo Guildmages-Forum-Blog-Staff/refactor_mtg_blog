@@ -4,8 +4,8 @@ title: "列爾如何與歷險牌互動"
 date: 2023-09-19 18:00:00
 
 
-cover: "https://i.imgur.com/swcUW7m.png"
-thumbnail: "https://i.imgur.com/zd5EUlv.png"
+cover: "https://images.guildmagesforum.tw/posts/Adventure-and-Lier/7f8fdf5320ba-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Adventure-and-Lier/035f91527607-cover.jpg"
 
 excerpt: "翻湧神信徒列爾是如何從墳場返照歷險咒語的?"
 

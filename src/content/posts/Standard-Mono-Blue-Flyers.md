@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/Vv49nNw.png"
-thumbnail: "https://i.imgur.com/Vv49nNw.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mono-Blue-Flyers/c5bec1e20e0e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mono-Blue-Flyers/c5bec1e20e0e-cover.jpg"
 excerpt: "御風沐燕靈的回合...吧？"
 ---
 

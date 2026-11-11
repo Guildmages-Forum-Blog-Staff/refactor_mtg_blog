@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/hXoa9Oo.png"
-thumbnail: "https://i.meee.com.tw/hXoa9Oo.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/b2b63a7001a7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/b2b63a7001a7-cover.jpg"
 excerpt: "Vivi鍋吃我正編日正當中啦！ （然後被點破咒語康了）"
 ---
 

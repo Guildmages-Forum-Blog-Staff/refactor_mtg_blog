@@ -6,8 +6,8 @@ authors:
 categories:
   - "Others"
   - "MTG Anecdote"
-cover: "https://i.meee.com.tw/aIDvSAy.jpg"
-thumbnail: "https://i.meee.com.tw/aIDvSAy.jpg"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/db764ede6f18-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/db764ede6f18-cover.jpg"
 excerpt: "名為最終幻想的系列堂堂上市，更是魔風集會所最初的讀者輪抽同樂會。"
 ---
 

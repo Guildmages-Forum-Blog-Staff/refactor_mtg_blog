@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/Ya7KZuW.png"
-thumbnail: "https://i.imgur.com/Ya7KZuW.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Abzan-Felothar/bb6b62f1a5cc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Abzan-Felothar/bb6b62f1a5cc-cover.jpg"
 excerpt: "來吧。你的物資存量足夠嗎？"
 ---
 

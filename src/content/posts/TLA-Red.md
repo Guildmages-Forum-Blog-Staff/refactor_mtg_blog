@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/XZ4xSE4.png"
-thumbnail: "https://i.meee.com.tw/XZ4xSE4.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Red/ee6b7c9f4195-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Red/ee6b7c9f4195-cover.jpg"
 excerpt: "烈火國將為世界帶來秩序與繁榮"
 ---
 

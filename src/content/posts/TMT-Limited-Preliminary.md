@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TMT"
-cover: "https://i.meee.com.tw/yN890ny.webp"
-thumbnail: "https://i.meee.com.tw/yN890ny.webp"
+cover: "https://images.guildmagesforum.tw/posts/TMT-Limited-Preliminary/9f181c292e58-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TMT-Limited-Preliminary/9f181c292e58-cover.jpg"
 excerpt: "忍者、武士、傳記、精靈、還有狐狸？我知道！我們來到了神河對吧？呃……歡迎來到忍者龜的世界XDD"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/00Endd7.jpeg"
-thumbnail: "https://i.imgur.com/00Endd7.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Faeries/8b8fbd7f5fab-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Faeries/8b8fbd7f5fab-cover.jpg"
 excerpt: "藍黑中速太貴打不起嗎？來試試看仙靈吧！"
 ---
 

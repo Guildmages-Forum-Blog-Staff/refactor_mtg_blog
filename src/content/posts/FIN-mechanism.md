@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/ttX5yGL.png"
-thumbnail: "https://i.meee.com.tw/ttX5yGL.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-mechanism/4c240b4e1bb6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-mechanism/4c240b4e1bb6-cover.jpg"
 excerpt: "來看看最終幻想中出現了哪些機制吧！"
 ---
 

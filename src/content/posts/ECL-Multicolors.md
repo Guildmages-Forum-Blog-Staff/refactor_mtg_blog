@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/RIW9DEB.png"
-thumbnail: "https://i.meee.com.tw/RIW9DEB.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Multicolors/604379a8cd38-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Multicolors/604379a8cd38-cover.jpg"
 excerpt: "「想回到洛溫～試著讓故事繼續～至少呼魂要用兩費施放～」《周杰倫．回到洛溫》（並沒有這首歌）"
 ---
 

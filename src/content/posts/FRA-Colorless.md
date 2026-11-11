@@ -6,8 +6,8 @@ categories:
   - "FRA"
 authors:
   - "michaelchen"
-cover: "https://i.meee.com.tw/XaWw6wx.png"
-thumbnail: "https://i.meee.com.tw/XaWw6wx.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Colorless/69f4e02d21bc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Colorless/69f4e02d21bc-cover.jpg"
 excerpt: "地牌奠定基石，神器武裝戰局！再加上強力 SPG 的重磅助陣，一起來看看FRA能帶給我們什麼驚喜吧！"
 ---
 

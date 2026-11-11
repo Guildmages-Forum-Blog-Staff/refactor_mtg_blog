@@ -7,8 +7,8 @@ categories:
   - "MTG Anecdote"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/s2BQYPu.png"
-thumbnail: "https://i.meee.com.tw/s2BQYPu.png"
+cover: "https://images.guildmagesforum.tw/posts/About-Booster-Update-In-2027/2734f77f7e20-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/About-Booster-Update-In-2027/2734f77f7e20-cover.jpg"
 excerpt: "打開補充包，你也能成為神選之人！"
 ---
 

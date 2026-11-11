@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/vOElg1y.png"
-thumbnail: "https://i.imgur.com/vOElg1y.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Jeskai-Flamehold/b1751b8e5793-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Jeskai-Flamehold/b1751b8e5793-cover.jpg"
 excerpt: "對你的對手使用焰爪吧。"
 ---
 

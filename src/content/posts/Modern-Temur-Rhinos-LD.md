@@ -1,8 +1,8 @@
 ---
 title: "鐵木爾犀牛的最後一舞 - MIT#5冠軍的心路歷程與賽報分享"
 date: "2024-03-16 11:27:31"
-cover: "https://i.postimg.cc/4Z2RqqXx/RHINO-TOKEN.png"
-thumbnail: "https://i.postimg.cc/4Z2RqqXx/RHINO-TOKEN.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/cb22be63fda9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/cb22be63fda9-cover.jpg"
 excerpt: "雖然暴烈迸發離開我們了，但鐵木爾犀牛依舊在最後一刻綻放光芒！來看看David為我們帶來的分享！"
 categories:
   - "Construct"

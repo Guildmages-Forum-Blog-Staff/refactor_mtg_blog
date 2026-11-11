@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/bd4nJwI.png"
-thumbnail: "https://i.meee.com.tw/bd4nJwI.png"
+cover: "https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/441bb5f8bdec-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/441bb5f8bdec-cover.jpg"
 excerpt: "這個Vivi看起來好香，不如丟到鍋子裡煮了吧"
 ---
 

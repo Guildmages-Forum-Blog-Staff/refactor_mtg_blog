@@ -1,8 +1,8 @@
 ---
 title: "邊疆營地：標準鐵木爾沙漠"
 date: "2024-05-21 17:53:52"
-cover: "https://i.postimg.cc/cLb3f3bT/thumb.png"
-thumbnail: "https://i.postimg.cc/cLb3f3bT/thumb.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Temur-Deserts/8c94d1a09449-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Temur-Deserts/8c94d1a09449-cover.jpg"
 excerpt: "大鏢客甌柯與罪惡的沙漠"
 categories:
   - "Construct"

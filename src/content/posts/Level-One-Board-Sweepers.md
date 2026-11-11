@@ -8,8 +8,8 @@ authors:
 categories:
   - "Beginner"
   - "Level One"
-cover: "https://i.meee.com.tw/9OSIsvc.jpg"
-thumbnail: "https://i.meee.com.tw/9OSIsvc.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Board-Sweepers/d9aebc2a7729-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Board-Sweepers/d9aebc2a7729-cover.jpg"
 excerpt: "Level One: Board Sweepers"
 ---
 

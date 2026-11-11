@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/nKVaxjz.png"
-thumbnail: "https://i.meee.com.tw/nKVaxjz.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Green/0bd489846dcd-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Green/0bd489846dcd-cover.jpg"
 excerpt: "陸行鳥好可愛"
 ---
 

@@ -11,8 +11,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/nkkLAy9.png"
-thumbnail: "https://i.meee.com.tw/nkkLAy9.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-mechanism/0fb2d238af60-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-mechanism/0fb2d238af60-cover.jpg"
 
 excerpt: "來看看漫威超級英雄中出現了哪些機制吧！"
 

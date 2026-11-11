@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/S07ittT.png"
-thumbnail: "https://i.meee.com.tw/S07ittT.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Red/d4febd832616-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Red/d4febd832616-cover.jpg"
 excerpt: "講到魔法就是火焰，講到火焰就是紅色！來看看紅色在這系列表現如何吧！"
 ---
 

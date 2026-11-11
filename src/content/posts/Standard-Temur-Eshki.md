@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/0tYjUZo.png"
-thumbnail: "https://i.imgur.com/0tYjUZo.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Temur-Eshki/b192d2198843-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Temur-Eshki/b192d2198843-cover.jpg"
 excerpt: "現在正是復權的時刻。"
 ---
 

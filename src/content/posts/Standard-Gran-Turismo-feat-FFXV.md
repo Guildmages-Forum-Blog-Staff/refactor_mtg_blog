@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/k4VNvlU.png"
-thumbnail: "https://i.meee.com.tw/k4VNvlU.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Gran-Turismo-feat-FFXV/9d5ee3fa8cb4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Gran-Turismo-feat-FFXV/9d5ee3fa8cb4-cover.jpg"
 excerpt: "「未免太扯了吧。」「確實很扯吧？諾克提斯王子。」"
 ---
 

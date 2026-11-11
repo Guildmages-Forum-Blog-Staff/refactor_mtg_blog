@@ -1,8 +1,8 @@
 ---
 title: "Standard 四色傳奇"
 date: "2024-01-29 18:57:36"
-cover: "https://i.imgur.com/ZDETBXZ.jpg"
-thumbnail: "https://i.imgur.com/ZDETBXZ.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-4C-Legends/9ba4df510f99-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-4C-Legends/9ba4df510f99-cover.jpg"
 excerpt: "標準賽制？多色？生物牌？你以為是domain嗎？NO，是四色傳奇！"
 categories:
   - "Construct"

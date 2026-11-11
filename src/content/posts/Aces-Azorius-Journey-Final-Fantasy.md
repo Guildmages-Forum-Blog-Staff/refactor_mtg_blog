@@ -2,8 +2,8 @@
 
 title: "白藍玩家 Ace 的千葉之旅"
 date: "2025-07-16 12:41:28"
-cover: "https://i.meee.com.tw/Ik1wSbh.png"
-thumbnail: "https://i.meee.com.tw/Ik1wSbh.png"
+cover: "https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/fa73d7166df2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/fa73d7166df2-cover.jpg"
 excerpt: "記載一切的記血紙，述說著第一次的千葉賽事體驗。從賽場中坐最久的對局視角，與大家一同回味久違的亞洲大型賽事。"
 authors:
   - "Ace"

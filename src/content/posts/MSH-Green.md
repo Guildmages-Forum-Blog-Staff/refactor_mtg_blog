@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/JU1nWRw.png"
-thumbnail: "https://i.meee.com.tw/JU1nWRw.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Green/9e5475308507-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Green/9e5475308507-cover.jpg"
 excerpt: "在超級英雄的世界也是拳頭大的說話！用體質傲人的生物輾壓戰場！"
 
 ---

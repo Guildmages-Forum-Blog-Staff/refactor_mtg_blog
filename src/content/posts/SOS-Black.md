@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/p0MDHFa.png"
-thumbnail: "https://i.meee.com.tw/p0MDHFa.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-Black/ea8f550aa472-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-Black/ea8f550aa472-cover.jpg"
 excerpt: "這次的黑色能給個ㄇ級分"
 ---
 

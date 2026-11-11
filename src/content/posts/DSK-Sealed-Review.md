@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://i.meee.com.tw/V2oREoE.jpg"
-thumbnail: "https://i.meee.com.tw/V2oREoE.jpg"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Sealed-Review/c9d5c61b2fa8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Sealed-Review/c9d5c61b2fa8-cover.jpg"
 excerpt: "強力新人硬闖暮悲邸！這時入坑的你很勇喔？並分享在這經常由牌庫頂決勝負的系列中，能帶領玩家探索深處的被低估 CU 卡。"
 ---
 

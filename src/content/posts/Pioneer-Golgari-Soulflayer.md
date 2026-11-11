@@ -1,8 +1,8 @@
 ---
 title: "葛加理掠魂魔"
 date: "2024-06-05 19:56:34"
-cover: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
-thumbnail: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Golgari-Soulflayer/211c718f1a27-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Golgari-Soulflayer/211c718f1a27-cover.jpg"
 excerpt: "掠魂魔Bros. Season 2突襲賽場啦！"
 categories:
   - "Construct"

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Tournaments"
   - "MIT"
-cover: "https://i.meee.com.tw/ITHyNjF.webp"
-thumbnail: "https://i.meee.com.tw/ITHyNjF.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/4900789564d7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/4900789564d7-cover.jpg"
 excerpt: "藍黑中速進化——艾斯波忍者！！！"
 ---
 

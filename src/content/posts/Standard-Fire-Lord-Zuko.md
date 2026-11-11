@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/jIBBLhK.png"
-thumbnail: "https://i.meee.com.tw/jIBBLhK.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Fire-Lord-Zuko/65082354a648-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Fire-Lord-Zuko/65082354a648-cover.jpg"
 excerpt: "烈火國王家的宿命就是戰。"
 ---
 

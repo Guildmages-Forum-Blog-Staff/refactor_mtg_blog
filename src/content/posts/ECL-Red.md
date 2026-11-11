@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/MewZrKz.png"
-thumbnail: "https://i.meee.com.tw/MewZrKz.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Red/5815a3fc0a31-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Red/5815a3fc0a31-cover.jpg"
 excerpt: "紅色有我最愛的鬼怪，最容易做壞的元素，以及本系列的空中霸主，真不愧是最能體現暴力的顏色呢。"
 ---
 

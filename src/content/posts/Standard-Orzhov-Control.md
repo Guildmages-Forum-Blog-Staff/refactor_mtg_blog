@@ -2,8 +2,8 @@
 
 title: "黑白控制：吸血鬼房間"
 date: "2026-03-19 19:28:32"
-cover: "https://i.meee.com.tw/XMlNEU9.jpg"
-thumbnail: "https://i.meee.com.tw/XMlNEU9.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Control/36686ac6e79d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Orzhov-Control/36686ac6e79d-cover.jpg"
 excerpt: "我只是想活下去"
 authors:
   - "ZHAN"

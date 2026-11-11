@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/R51oo54.png"
-thumbnail: "https://i.meee.com.tw/R51oo54.png"
+cover: "https://images.guildmagesforum.tw/posts/TMT-mechanism/b5f5b7dfcbe7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TMT-mechanism/b5f5b7dfcbe7-cover.jpg"
 excerpt: "來看看忍者龜中出現了哪些機制吧！"
 ---
 

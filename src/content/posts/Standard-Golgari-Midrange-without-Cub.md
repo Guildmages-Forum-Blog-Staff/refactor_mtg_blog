@@ -2,8 +2,8 @@
 
 title: "黑綠中速：不獾贏你"
 date: "2026-03-13 09:45:25"
-cover: "https://i.meee.com.tw/cmHR0D5.jpg"
-thumbnail: "https://i.meee.com.tw/cmHR0D5.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/668430e69d1c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/668430e69d1c-cover.jpg"
 excerpt: "你的報償邪術比我的爛。"
 authors:
   - "faintmama"

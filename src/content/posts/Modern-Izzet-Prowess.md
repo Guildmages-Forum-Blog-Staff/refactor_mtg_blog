@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.meee.com.tw/DFbMb1b.png"
-thumbnail: "https://i.meee.com.tw/DFbMb1b.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Izzet-Prowess/da7f150d8c01-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Izzet-Prowess/da7f150d8c01-cover.jpg"
 excerpt: "爆發還有……閃避"
 ---
 

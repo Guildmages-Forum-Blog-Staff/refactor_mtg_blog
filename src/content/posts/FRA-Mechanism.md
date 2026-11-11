@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "JruMTG"
-cover: "https://i.meee.com.tw/zSrSbdF.png"
-thumbnail: "https://i.meee.com.tw/zSrSbdF.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Mechanism/1b59b0fcad3f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Mechanism/1b59b0fcad3f-cover.jpg"
 excerpt: "來看看現實碎片中出現了哪些機制吧！"
 ---
 

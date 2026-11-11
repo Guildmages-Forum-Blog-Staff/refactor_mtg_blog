@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/Zh1Z05V.jpg"
-thumbnail: "https://i.meee.com.tw/Zh1Z05V.jpg"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Blue/c4b501f29ddd-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Blue/c4b501f29ddd-cover.jpg"
 excerpt: "升起水幕、攻擊對手——水槍！熱水！泡沫光線！ 再來是干擾的潮漩、壓制的水流尾，最後用加農水炮收尾——！ ……啊應該說截水神通才對，這裡是魔風！"
 ---
 

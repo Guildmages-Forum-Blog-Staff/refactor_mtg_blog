@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/mDbFCjM.png"
-thumbnail: "https://i.meee.com.tw/mDbFCjM.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-White/0b09470187df-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-White/0b09470187df-cover.jpg"
 excerpt: "超究武神霸斬！！！讓克勞德帶著他的Buster Sword斬斷與賽菲羅斯的孽緣吧！"
 ---
 

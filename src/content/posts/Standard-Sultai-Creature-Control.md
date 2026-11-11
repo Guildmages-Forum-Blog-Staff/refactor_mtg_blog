@@ -8,8 +8,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/pQGDLMW.png"
-thumbnail: "https://i.meee.com.tw/pQGDLMW.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/6613ee377e6a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/6613ee377e6a-cover.jpg"
 excerpt: "控制玩家在節奏暴走環境的絕地求生"
 ---
 

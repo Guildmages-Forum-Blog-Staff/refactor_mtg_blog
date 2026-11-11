@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "EOE"
-cover: "https://i.meee.com.tw/ipqMWST.png"
-thumbnail: "https://i.meee.com.tw/ipqMWST.png"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Mechanism/cab6a9274f6e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Mechanism/cab6a9274f6e-cover.jpg"
 excerpt: "來看看虛空邊域中出現了哪些機制吧！"
 ---
 

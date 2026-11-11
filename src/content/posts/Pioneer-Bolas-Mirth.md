@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Pioneer"
-cover: "https://i.imgur.com/5sohdMj.png"
-thumbnail: "https://i.imgur.com/5sohdMj.png"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/d2314ba8b388-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Bolas-Mirth/d2314ba8b388-cover.jpg"
 excerpt: "波波套有很多種，你有看過結界型的嗎？"
 ---
 

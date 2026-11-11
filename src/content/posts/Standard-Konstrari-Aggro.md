@@ -7,8 +7,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/chxGNxZ.png"
-thumbnail: "https://i.meee.com.tw/chxGNxZ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/010f98f5565f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/010f98f5565f-cover.jpg"
 excerpt: "種樹蓋巨像的快樂心材農場。"
 ---
 

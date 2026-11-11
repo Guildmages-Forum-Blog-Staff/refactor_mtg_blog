@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/lPUR9QM.png"
-thumbnail: "https://i.imgur.com/lPUR9QM.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Saw/d2e4ab85e79b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Saw/d2e4ab85e79b-cover.jpg"
 excerpt: "I wanna play a game..."
 ---
 

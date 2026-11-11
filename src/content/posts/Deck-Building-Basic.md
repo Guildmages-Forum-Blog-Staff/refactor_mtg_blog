@@ -1,8 +1,8 @@
 ---
 title: "套牌構築基礎入門"
 date: "2023-10-29 23:06:20"
-cover: "https://i.imgur.com/1xH08bF.png"
-thumbnail: "https://i.imgur.com/1xH08bF.png"
+cover: "https://images.guildmagesforum.tw/posts/Deck-Building-Basic/c2327e6a3d35-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Deck-Building-Basic/c2327e6a3d35-cover.jpg"
 excerpt: "套牌要怎麼組才會順？其實是有訣竅的。"
 categories:
   - "Beginner"

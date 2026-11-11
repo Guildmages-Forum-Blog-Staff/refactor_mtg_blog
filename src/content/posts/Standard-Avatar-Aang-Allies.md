@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/FPWFKca.png"
-thumbnail: "https://i.meee.com.tw/FPWFKca.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Avatar-Aang-Allies/9a6b140bc36b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Avatar-Aang-Allies/9a6b140bc36b-cover.jpg"
 excerpt: "古有四色歐納斯，今有四色神通王。"
 ---
 

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/NIpoURE.webp"
-thumbnail: "https://i.meee.com.tw/NIpoURE.webp"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Multicolors/38f049c618bb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Multicolors/38f049c618bb-cover.jpg"
 excerpt: "與橫跨 FF 16 代的傳奇人物們，一同譜寫在 MTG 世界的全新篇章吧！"
 ---
 

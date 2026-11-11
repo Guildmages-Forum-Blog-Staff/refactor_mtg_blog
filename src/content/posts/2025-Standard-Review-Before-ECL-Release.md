@@ -2,8 +2,8 @@
 
 title: "豬鼻子看2025年末的標準環境—寫於ECL發售前"
 date: "2026-01-05 09:55:33"
-cover: "https://i.meee.com.tw/ZNCACR0.jpg"
-thumbnail: "https://i.meee.com.tw/ZNCACR0.jpg"
+cover: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
 excerpt: "藍綠稱霸主，白黑陪榜中。殺棄恨短小，四回對局終。後浪推前浪，禁牌無盡重。飛踢連思緒，黑陽再當空。"
 authors:
   - "cephille"

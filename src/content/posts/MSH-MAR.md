@@ -9,8 +9,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/6DX9qMa.jpg"
-thumbnail: "https://i.meee.com.tw/6DX9qMa.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MSH-MAR/c5832346a733-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-MAR/c5832346a733-cover.jpg"
 excerpt: "漫威宇宙的經典場景與角色登場的極致饗宴，請各位好好體驗。"
 
 ---

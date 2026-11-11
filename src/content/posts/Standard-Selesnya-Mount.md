@@ -1,8 +1,8 @@
 ---
 title: "羈絆合一：標準白綠坐騎"
 date: "2024-06-04 21:17:13"
-cover: "https://i.postimg.cc/44PRcJKD/thumb.png"
-thumbnail: "https://i.postimg.cc/44PRcJKD/thumb.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/eaa5e81adb4e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Selesnya-Mount/eaa5e81adb4e-cover.jpg"
 excerpt: "給熾淨駒一對翅膀～"
 categories:
   - "Construct"

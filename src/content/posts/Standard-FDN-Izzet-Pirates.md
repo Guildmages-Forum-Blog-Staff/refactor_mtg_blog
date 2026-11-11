@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/G72vt6u.png"
-thumbnail: "https://i.imgur.com/G72vt6u.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-FDN-Izzet-Pirates/068103921efa-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-FDN-Izzet-Pirates/068103921efa-cover.jpg"
 excerpt: "2024年末的標準環境中，有沒有機會帶領海盜種族出航呢？"
 ---
 

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/X8qqjos.png"
-thumbnail: "https://i.meee.com.tw/X8qqjos.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Colorless/0d84ced49dd2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Colorless/0d84ced49dd2-cover.jpg"
 excerpt: "我只記得鋼鐵人有幫蜘蛛人做過一套機器蜘蛛裝，不知道會不會出現在這個系列的神器裡……"
 ---
 

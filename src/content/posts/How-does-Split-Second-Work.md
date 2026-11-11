@@ -6,8 +6,8 @@ categories:
   - "MTG Rules"
 authors:
   - "JruMTG"
-cover: "https://i.meee.com.tw/0MtxFiZ.png"
-thumbnail: "https://i.meee.com.tw/0MtxFiZ.png"
+cover: "https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/d2e90a53a802-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-does-Split-Second-Work/d2e90a53a802-cover.jpg"
 excerpt: "沒想到能看到轉瞬重回標準的一天"
 ---
 

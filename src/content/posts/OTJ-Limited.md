@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的光雷驛鏢客限制賽分析（寫在PT OTJ之前）"
 date: "2024-04-23 13:59:29"
-cover: "https://i.postimg.cc/BvXT0L8J/viko-menezes-horse-wisperer.jpg"
-thumbnail: "https://i.postimg.cc/BvXT0L8J/viko-menezes-horse-wisperer.jpg"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-Limited/691b279c11cf-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Limited/691b279c11cf-cover.jpg"
 excerpt: "PT OTJ即將於本周末登場，來看看限制賽有趣的搭配以及可能要注意的重點吧！"
 categories:
   - "Limited"

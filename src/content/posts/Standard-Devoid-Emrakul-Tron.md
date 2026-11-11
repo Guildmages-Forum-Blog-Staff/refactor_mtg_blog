@@ -7,8 +7,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/FR5iAzZ.png"
-thumbnail: "https://i.meee.com.tw/FR5iAzZ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/df8a9ef47fa2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/df8a9ef47fa2-cover.jpg"
 excerpt: "這個世界的扭曲——就由伊莫庫來矯正！"
 ---
 

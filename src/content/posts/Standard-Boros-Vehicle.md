@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/2r6lVMJ.png"
-thumbnail: "https://i.imgur.com/2r6lVMJ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Boros-Vehicle/16fddb353ab4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Boros-Vehicle/16fddb353ab4-cover.jpg"
 excerpt: "來尬車辣！"
 ---
 

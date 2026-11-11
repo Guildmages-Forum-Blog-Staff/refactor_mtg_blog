@@ -1,8 +1,8 @@
 ---
 title: "Modern 環境考察 post 12/4 BnR & LCI"
 date: "2023-12-19 13:22:21"
-cover: "https://i.imgur.com/XxE3KJ3.jpg"
-thumbnail: "https://i.imgur.com/XxE3KJ3.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-20231219/d07b2adfd429-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-20231219/d07b2adfd429-cover.jpg"
 excerpt: "回應你的戒指抽牌：康掉"
 categories:
   - "Construct"

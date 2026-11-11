@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/mHtgfm4.png"
-thumbnail: "https://i.meee.com.tw/mHtgfm4.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Blue/35fefde54286-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Blue/35fefde54286-cover.jpg"
 excerpt: "藍色各種謎因卡圖邊看邊笑"
 ---
 

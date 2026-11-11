@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/M67HbBh.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Quandrix-Arthropod/781aa38c2bcc-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/M67HbBh.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Quandrix-Arthropod/781aa38c2bcc-cover.jpg"
 
 excerpt: "全部都成為X。"
 

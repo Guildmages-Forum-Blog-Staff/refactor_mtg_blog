@@ -1,8 +1,8 @@
 ---
 title: "近代的法力魔術師 - 泰坦護身符"
 date: "2024-06-13 16:49:21"
-cover: "https://i.postimg.cc/KZ4L3gpL/Primeval-Titan.png"
-thumbnail: "https://i.postimg.cc/KZ4L3gpL/Primeval-Titan.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/08131c5a2a3d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/08131c5a2a3d-cover.jpg"
 excerpt: "馬上帶你深入近代最神奇的經典套牌！"
 categories:
   - "Construct"

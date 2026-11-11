@@ -1,8 +1,8 @@
 ---
 title: "帶領新手認識MTG的一點個人心得"
 date: 2023-10-05 14:15:24
-cover: "https://i.imgur.com/Puc6gJz.png"
-thumbnail: "https://i.imgur.com/ISsvq5u.png"
+cover: "https://images.guildmagesforum.tw/posts/New-Players-Guide/a0cf14a5b6b3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/New-Players-Guide/3bf0e023fa74-cover.jpg"
 excerpt: "關於筆者近年來在帶領新人上的經驗總結"
 categories:
   - "Beginner"

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/Io3mpSJ.png"
-thumbnail: "https://i.imgur.com/Io3mpSJ.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mishra-Delirium/4163a5cf92f1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mishra-Delirium/4163a5cf92f1-cover.jpg"
 excerpt: "和非瑞克西亞簽訂契約，成為惡魔鋼彈吧！"
 ---
 

@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
   
-cover: "https://i.meee.com.tw/C7ipB5G.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Daretti-Battleship/8201d3f8d757-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/C7ipB5G.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Daretti-Battleship/8201d3f8d757-cover.jpg"
 
 excerpt: "我可以修理任何東西，如果這可惡的東西沒有支離破碎的話……瞭嗎？寶貝。沒有支離破碎。"
 

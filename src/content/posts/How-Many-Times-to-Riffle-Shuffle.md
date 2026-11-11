@@ -5,8 +5,8 @@ authors:
   - "mm"
 categories:
   - "Deep Dive"
-cover: "https://hackmd.io/_uploads/HJnVhMLFkx.jpg"
-thumbnail: "https://hackmd.io/_uploads/HJnVhMLFkx.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-Many-Times-to-Riffle-Shuffle/93e1b9ddd3e2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Many-Times-to-Riffle-Shuffle/93e1b9ddd3e2-cover.jpg"
 excerpt: "你不洗亂牌，遊戲就不好玩"
 ---
 

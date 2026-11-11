@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/GTKQrSw.png"
-thumbnail: "https://i.meee.com.tw/GTKQrSw.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-TLE/23835bf78372-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-TLE/23835bf78372-cover.jpg"
 excerpt: "有老熟人，也有舊愛，什麼居然還有貂蟬，讓我們看看TLE出了哪些單卡吧"
 ---
 

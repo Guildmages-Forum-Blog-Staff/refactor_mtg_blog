@@ -6,8 +6,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/fynM53L.png"
-thumbnail: "https://i.meee.com.tw/fynM53L.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-5C-Niv-Mizzet-Guildpact/fcd108df2d5b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-5C-Niv-Mizzet-Guildpact/fcd108df2d5b-cover.jpg"
 excerpt: "沒有十會盟地脈？那就讓十會盟本人來吧。"
 ---
 

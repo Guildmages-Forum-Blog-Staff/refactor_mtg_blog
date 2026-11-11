@@ -8,8 +8,8 @@ categories:
   - "Interview"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/hs6fb95.jpg"
-thumbnail: "https://i.meee.com.tw/hs6fb95.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT11-Champion-Interview/a6da8fdac344-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT11-Champion-Interview/a6da8fdac344-cover.jpg"
 excerpt: "MIT第十一輪跟歷屆相比較為特別，第一次是由台灣以外的選手奪冠。很高興有這次機會讓我們訪問到李詩天！"
 ---
 ## Let's get started!

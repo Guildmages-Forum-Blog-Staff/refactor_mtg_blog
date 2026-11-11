@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/Zcr3M3g.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Silverquill-Squall/6523b7989025-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/Zcr3M3g.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Silverquill-Squall/6523b7989025-cover.jpg"
 
 excerpt: "連辭是不是一種連續劍呢？"
 

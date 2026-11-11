@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "T1BloodMoon"
-cover: "https://i.meee.com.tw/tRwy4El.png"
-thumbnail: "https://i.meee.com.tw/tRwy4El.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Multicolors/7eeadf2f9237-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Multicolors/7eeadf2f9237-cover.jpg"
 excerpt: "逆聲宇宙來臨，許多老朋友成對出現，但好像不是結伴而是對立呢"
 ---
 

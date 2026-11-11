@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/HPbgQ9Y.png"
-thumbnail: "https://i.meee.com.tw/HPbgQ9Y.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Blue/9d6b3b2937b5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Blue/9d6b3b2937b5-cover.jpg"
 excerpt: "你這招有四費嗎？"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "獺球技藝：標準紅藍水獺"
 date: "2024-09-02 11:50:34"
-cover: "https://i.imgur.com/n1nmOry.png"
-thumbnail: "https://i.imgur.com/n1nmOry.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/a0c3595a12ec-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/a0c3595a12ec-cover.jpg"
 excerpt: "靈技？召集？還是...？"
 categories:
   - "Construct"

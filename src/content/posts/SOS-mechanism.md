@@ -8,8 +8,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/Ph2kzLJ.png"
-thumbnail: "https://i.meee.com.tw/Ph2kzLJ.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-mechanism/6f3eb618320b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-mechanism/6f3eb618320b-cover.jpg"
 excerpt: "來看看斯翠海文的祕密機制解析中出現了哪些機制吧！"
 ---
 

@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/bLFqnPQ.png"
-thumbnail: "https://i.meee.com.tw/bLFqnPQ.png"
+cover: "https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/72c3f4c745b3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Sylvan-Library-Works/72c3f4c745b3-cover.jpg"
 excerpt: "你或許很常用森林圖書館，但你還記得森林圖書館的運作效果是怎麼描述的嗎？"
 ---
 

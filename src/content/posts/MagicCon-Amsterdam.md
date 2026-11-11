@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的MagicCon:Amsterdam記行"
 date: "2024-07-04 19:10:12"
-cover: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
-thumbnail: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/44cb2867cfd7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/44cb2867cfd7-cover.jpg"
 excerpt: "第一次參加MagicCon就上手？來看看吧！"
 categories:
   - "Tournaments"

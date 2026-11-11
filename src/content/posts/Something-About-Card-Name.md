@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/gBA9prQ.png"
-thumbnail: "https://i.meee.com.tw/gBA9prQ.png"
+cover: "https://images.guildmagesforum.tw/posts/Something-About-Card-Name/f590869befc0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Something-About-Card-Name/f590869befc0-cover.jpg"
 excerpt: "我用渦心鼓動拆了一個兩邊都開門過的惡魔房間，隔壁那個只開了左半邊的惡魔房間會不會被炸阿？"
 ---
 

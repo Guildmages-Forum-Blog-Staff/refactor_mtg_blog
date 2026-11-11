@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/oFd9yco.png"
-thumbnail: "https://i.imgur.com/oFd9yco.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Mindskinn/51905c97f1f3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Mindskinn/51905c97f1f3-cover.jpg"
 excerpt: "我知道你牌庫還有牌。"
 ---
 

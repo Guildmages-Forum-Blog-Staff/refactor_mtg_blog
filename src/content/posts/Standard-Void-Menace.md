@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/1y78EK0.png"
-thumbnail: "https://i.meee.com.tw/1y78EK0.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Void-Menace/0bac8e70c695-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Void-Menace/0bac8e70c695-cover.jpg"
 excerpt: "難道……我就是蜘蛛人？！"
 ---
 

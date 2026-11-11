@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "Card Lore"
-cover: "https://i.meee.com.tw/AjU1LSl.jpg"
-thumbnail: "https://i.meee.com.tw/AjU1LSl.jpg"
+cover: "https://images.guildmagesforum.tw/posts/2024-Set-Review/4ee51dc23d5a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/2024-Set-Review/4ee51dc23d5a-cover.jpg"
 excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶氣氛濃烈的年末時分，魔風集會所想和大家一同回顧2024年，瞧瞧魔法風雲會給了玩家哪些新東西~~玩具~~。"
 ---
 

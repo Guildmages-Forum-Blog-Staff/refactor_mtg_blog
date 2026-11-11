@@ -1,8 +1,8 @@
 ---
 title: "五色元素傳：MH2五元素的發展簡評"
 date: "2023-12-11 14:00:58"
-cover: "https://i.imgur.com/8BIokGB.jpg"
-thumbnail: "https://i.imgur.com/8BIokGB.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/2dcbdae51fa5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MH2-Mythics-Elementals/2dcbdae51fa5-cover.jpg"
 excerpt: "大江東去浪淘盡，千古風雲元素"
 categories:
   - "Others"

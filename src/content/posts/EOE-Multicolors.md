@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "EOE"
-cover: "https://i.meee.com.tw/rYYgMxW.webp"
-thumbnail: "https://i.meee.com.tw/rYYgMxW.webp"
+cover: "https://images.guildmagesforum.tw/posts/EOE-Multicolors/814c6de528b3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/EOE-Multicolors/814c6de528b3-cover.jpg"
 excerpt: "太空系列來臨，大家準備好翱翔於宇宙間，駕駛太空船來場精彩的探險了嗎"
 ---
 

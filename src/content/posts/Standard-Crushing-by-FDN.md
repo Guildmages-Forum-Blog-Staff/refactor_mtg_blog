@@ -2,8 +2,8 @@
 
 title: "論 Foundation 基石構築對標準賽制的衝擊"
 date: "2024-11-14 20:15:24"
-cover: "https://i.imgur.com/vOe19f1.jpeg"
-thumbnail: "https://i.imgur.com/vOe19f1.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Crushing-by-FDN/356a60c25efe-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Crushing-by-FDN/356a60c25efe-cover.jpg"
 excerpt: "又是核心系列嗎？老威又變不出新把戲了？不不，至少對標準賽而言，這次是玩真的！！！"
 authors:
   - "cephille"

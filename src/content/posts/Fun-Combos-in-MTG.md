@@ -1,8 +1,8 @@
 ---
 title: "魔風路上的好玩組合技"
 date: "2024-05-29 14:59:14"
-cover: "https://i.imgur.com/2Ehfp2c.png"
-thumbnail: "https://i.imgur.com/2Ehfp2c.png"
+cover: "https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/11c3b4c15b6e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Fun-Combos-in-MTG/11c3b4c15b6e-cover.jpg"
 excerpt: "終曲魔風路上的好玩組合技"
 categories:
   - "Construct"

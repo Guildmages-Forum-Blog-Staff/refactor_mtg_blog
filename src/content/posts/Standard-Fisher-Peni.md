@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/Q9GRy9C.png"
-thumbnail: "https://i.meee.com.tw/Q9GRy9C.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Fisher-Peni/cb75eb533f28-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Fisher-Peni/cb75eb533f28-cover.jpg"
 excerpt: "釣魚小公主潘妮"
 ---
 

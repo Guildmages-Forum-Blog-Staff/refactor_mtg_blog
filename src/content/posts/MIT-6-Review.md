@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的MIT#6準備與賽報：蘇勒台中速"
 date: "2024-05-29 18:54:07"
-cover: "https://i.postimg.cc/BZFs1QT9/Master-of-Waves-Mt-G-Art.jpg"
-thumbnail: "https://i.postimg.cc/BZFs1QT9/Master-of-Waves-Mt-G-Art.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT-6-Review/4d9392c41dc9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT-6-Review/4d9392c41dc9-cover.jpg"
 excerpt: "如何嘗試在控制與快攻夾殺的環境中，以自組的蘇勒台中速殺出重圍？"
 categories:
   - "Tournaments"

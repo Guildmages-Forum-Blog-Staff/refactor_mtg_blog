@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/VKOfEhk.jpg"
-thumbnail: "https://i.meee.com.tw/VKOfEhk.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/0858a2aabf25-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/0858a2aabf25-cover.jpg"
 excerpt: "標準的一費黑色去除究竟該如何選擇呢？"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "克撒傳怎麼自爆了"
 date: 2023-09-05 17:42:48
-cover: "https://i.meee.com.tw/qzVEuiz.png"
-thumbnail: "https://i.meee.com.tw/qzVEuiz.png"
+cover: "https://images.guildmagesforum.tw/posts/Saga-and-Moon/d7b70bbb498e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Saga-and-Moon/d7b70bbb498e-cover.jpg"
 categories:
   - "MTG Rules"
 authors:

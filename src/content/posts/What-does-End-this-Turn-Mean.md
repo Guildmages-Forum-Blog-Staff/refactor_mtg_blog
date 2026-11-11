@@ -5,8 +5,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/3UCgcK2.png"
-thumbnail: "https://i.meee.com.tw/3UCgcK2.png"
+cover: "https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/9f29d942bd73-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-does-End-this-Turn-Mean/9f29d942bd73-cover.jpg"
 excerpt: "為甚麼被Ultima消滅的心火勇士不會對對手造成傷害？"
 ---
 

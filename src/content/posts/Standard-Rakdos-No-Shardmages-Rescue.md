@@ -2,8 +2,8 @@
 
 title: "好的菲哥帶紅黑骷髏妖上天堂"
 date: "2025-07-20 12:05:55"
-cover: "https://i.meee.com.tw/Wm37hmY.png"
-thumbnail: "https://i.meee.com.tw/Wm37hmY.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/dbf560ab1e07-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/dbf560ab1e07-cover.jpg"
 excerpt: "據臺灣某玩家研究指出：賽菲羅斯冰冷的外表下，藏著E人的外向交友之心，和一眾骷髏妖雜魚們處得不差。"
 authors:
   - "faintmama"

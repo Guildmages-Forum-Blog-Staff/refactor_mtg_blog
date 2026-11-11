@@ -3,8 +3,8 @@ title: "什麼是時間印記"
 date: "2024-03-23 13:25:27"
 categories:
   - "MTG Rules"
-cover: "https://i.postimg.cc/pxbqm3Mb/Diminish.jpg"
-thumbnail: "https://i.postimg.cc/pxbqm3Mb/Diminish.jpg"
+cover: "https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/86567de5401c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/86567de5401c-cover.jpg"
 authors:
   - "JruMTG"
 excerpt: "十會盟地脈 vs 腥紅之月，誰勝誰負？"

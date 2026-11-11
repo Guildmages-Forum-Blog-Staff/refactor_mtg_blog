@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/rL6v5EJ.jpeg"
-thumbnail: "https://i.imgur.com/rL6v5EJ.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mono-Green-Gigantosaurus/c4db5b2de6e7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mono-Green-Gigantosaurus/c4db5b2de6e7-cover.jpg"
 excerpt: "巨大就是正義！"
 ---
 

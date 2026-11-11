@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛限制賽初探"
 date: "2024-07-22 13:10:38"
-cover: "https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg"
-thumbnail: "https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg"
+cover: "https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/19bfd7515bde-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-Limited-Preliminary/19bfd7515bde-cover.jpg"
 excerpt: "BLB限制賽的十種雙色主題以及其他值得留意的主題在這邊~"
 categories:
   - "Limited"

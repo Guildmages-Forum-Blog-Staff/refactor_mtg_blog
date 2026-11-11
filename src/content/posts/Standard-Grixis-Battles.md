@@ -1,8 +1,8 @@
 ---
 date: 2023-10-11 19:30:00
 title: "標準套牌推薦 : 格利極戰役"
-cover: "https://i.imgur.com/vHmZ67s.png"
-thumbnail: "https://i.imgur.com/vHmZ67s.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/97908a28412f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Battles/97908a28412f-cover.jpg"
 excerpt: "寫作戰役讀作賺牌狂魔"
 categories:
   - "Construct"

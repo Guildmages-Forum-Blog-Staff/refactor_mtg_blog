@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/CKj72zC.png"
-thumbnail: "https://i.meee.com.tw/CKj72zC.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Black/c777baa2d707-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Black/c777baa2d707-cover.jpg"
 excerpt: "殺戮、墳墓，極致的黑導向勝利的路，從此刻起讓人們為黑色駐足"
 ---
 

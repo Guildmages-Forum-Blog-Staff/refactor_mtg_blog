@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/re0I5t5.png"
-thumbnail: "https://i.meee.com.tw/re0I5t5.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Mechanism/a5521e1c45f7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Mechanism/a5521e1c45f7-cover.jpg"
 excerpt: "模式雙面牌出現重大規則變更"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/8DJ500j.png"
-thumbnail: "https://i.meee.com.tw/8DJ500j.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Mechanism/097c4f6bff4e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Mechanism/097c4f6bff4e-cover.jpg"
 excerpt: "來看看降世神通中出現了哪些機制吧！"
 ---
 

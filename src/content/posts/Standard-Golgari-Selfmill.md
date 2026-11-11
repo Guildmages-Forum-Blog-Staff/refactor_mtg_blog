@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/vK7WP6z.png"
-thumbnail: "https://i.meee.com.tw/vK7WP6z.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/d98034b1dc12-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/d98034b1dc12-cover.jpg"
 excerpt: "手牌怎麼越打越多"
 ---
 

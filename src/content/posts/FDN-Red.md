@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/kAH97k3.png"
-thumbnail: "https://i.meee.com.tw/kAH97k3.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Red/784aabd62150-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Red/784aabd62150-cover.jpg"
 excerpt: "結算傷害剩下十滴血，突然感受到一股寒意，我是不是要被四費打十了"
 ---
 

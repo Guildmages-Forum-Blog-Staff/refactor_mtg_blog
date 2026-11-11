@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/TfdqIB3.png"
-thumbnail: "https://i.meee.com.tw/TfdqIB3.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Red/949af6b1450c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Red/949af6b1450c-cover.jpg"
 excerpt: "紅色是燒燬的顏色，像極了愛情，也像在愛人鋒刃下消逝的生命。"
 ---
 

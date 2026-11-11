@@ -5,8 +5,8 @@ categories:
   - "Standard"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/oDzG450.jpg"
-thumbnail: "https://i.meee.com.tw/oDzG450.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/5baea14254a4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/5baea14254a4-cover.jpg"
 excerpt: "妙語說書人咕嚕"
 ---
 

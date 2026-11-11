@@ -1,8 +1,8 @@
 ---
 title: "我在指揮官賽制裡學到的事情"
 date: "2024-08-22 22:34:25"
-cover: "https://i.imgur.com/HFPq96G.jpeg"
-thumbnail: "https://i.imgur.com/HFPq96G.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/My-Learning-from-EDH/af335e96c0eb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/My-Learning-from-EDH/af335e96c0eb-cover.jpg"
 excerpt: "休閒又競爭的指揮官戰起來！這其實像極了非瑞克西亞發起的大戰役，爾虞我詐且充滿深度。說到底，「玩家」才是左右勝負的關鍵。"
 categories:
   - "Beginner"

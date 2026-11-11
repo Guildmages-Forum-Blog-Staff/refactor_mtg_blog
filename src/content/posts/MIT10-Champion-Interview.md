@@ -8,8 +8,8 @@ categories:
   - "Interview"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/raEmFW1.jpg"
-thumbnail: "https://i.meee.com.tw/raEmFW1.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT10-Champion-Interview/8e25d59bf6a5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT10-Champion-Interview/8e25d59bf6a5-cover.jpg"
 excerpt: "打斷手骨顛倒勇，愛拚才會贏！！！"
 ---
 ## Let's get started!

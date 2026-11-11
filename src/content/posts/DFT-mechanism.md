@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://i.meee.com.tw/nlPeGmz.png"
-thumbnail: "https://i.meee.com.tw/nlPeGmz.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-mechanism/7c278b353d86-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-mechanism/7c278b353d86-cover.jpg"
 excerpt: "來看看乙太飄移中出現了哪些機制吧！"
 ---
 

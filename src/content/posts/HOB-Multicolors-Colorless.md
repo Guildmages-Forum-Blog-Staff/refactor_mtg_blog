@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/ONgfLBe.png"
-thumbnail: "https://i.meee.com.tw/ONgfLBe.png"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/d833fbaaf271-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Multicolors-Colorless/d833fbaaf271-cover.jpg"
 excerpt: "哈比人電影中壯闊的五軍之戰，將在魔法風雲會的世界中如何呈現呢？一起來看看吧！"
 
 ---

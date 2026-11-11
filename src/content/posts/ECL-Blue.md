@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/sASoZSp.png"
-thumbnail: "https://i.meee.com.tw/sASoZSp.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Blue/3d00b3a2621d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Blue/3d00b3a2621d-cover.jpg"
 excerpt: "人魚仙靈四處跑，還有我們最熟悉的辣個四界禁牌霸主回歸，在此為你帶來藍色評分"
 ---
 

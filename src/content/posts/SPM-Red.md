@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/bfpBZp7.png"
-thumbnail: "https://i.meee.com.tw/bfpBZp7.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Red/58f175c44c04-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Red/58f175c44c04-cover.jpg"
 excerpt: "惡人瘋亂還要遵守時機，就是不夠瘋魔的證明。"
 ---
 

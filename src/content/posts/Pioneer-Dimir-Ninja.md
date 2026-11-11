@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Pioneer"
-cover: "https://i.imgur.com/hDToXSU.png"
-thumbnail: "https://i.imgur.com/hDToXSU.png"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/0dfb1ae736c3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Dimir-Ninja/0dfb1ae736c3-cover.jpg"
 excerpt: "夢魘剋星魁渡的主場？"
 ---
 

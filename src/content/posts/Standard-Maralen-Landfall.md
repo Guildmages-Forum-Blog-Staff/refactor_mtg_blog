@@ -8,8 +8,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/14SP4EC.png"
-thumbnail: "https://i.meee.com.tw/14SP4EC.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d05fff05ccf8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d05fff05ccf8-cover.jpg"
 excerpt: "馬拉蘭與瑟蘭督伊的夢幻共舞。"
 ---
 

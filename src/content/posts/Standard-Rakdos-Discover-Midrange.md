@@ -1,8 +1,8 @@
 ---
 title: "紅黑 Discover：中速之王"
 date: "2024-01-29 16:43:58"
-cover: "https://i.imgur.com/zglSUzP.jpg"
-thumbnail: "https://i.imgur.com/zglSUzP.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/53906044d498-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange/53906044d498-cover.jpg"
 excerpt: "來看看紅黑Discover如何在標準賽季中成為各路中速的王者吧！"
 categories:
   - "Construct"

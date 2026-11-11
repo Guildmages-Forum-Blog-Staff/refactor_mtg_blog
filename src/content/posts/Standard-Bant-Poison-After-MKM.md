@@ -1,8 +1,8 @@
 ---
 title: "MKM後Bant Poison的新構築嘗試"
 date: "2024-02-16 13:48:04"
-cover: "https://i.imgur.com/UdndA4z.jpg"
-thumbnail: "https://i.imgur.com/UdndA4z.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Bant-Poison-After-MKM/acb4ea70daae-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Bant-Poison-After-MKM/acb4ea70daae-cover.jpg"
 excerpt: "來看看標準班特毒套牌在MKM發售後的小更動大升級吧！"
 categories:
   - "Construct"

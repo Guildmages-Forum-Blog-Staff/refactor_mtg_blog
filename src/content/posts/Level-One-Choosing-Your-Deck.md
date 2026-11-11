@@ -6,8 +6,8 @@ categories:
   - "Level One"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/zrZb9Fk.webp"
-thumbnail: "https://i.meee.com.tw/zrZb9Fk.webp"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Choosing-Your-Deck/2ad00a3c374e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Choosing-Your-Deck/2ad00a3c374e-cover.jpg"
 excerpt: "Level One: Choosing Your Deck"
 ---
 

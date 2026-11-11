@@ -9,8 +9,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/tERb5Gd.png"
-thumbnail: "https://i.meee.com.tw/tERb5Gd.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/afdb0b718eb8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/afdb0b718eb8-cover.jpg"
 excerpt: "FDN 是收錄牌張數最多的一個系列，並且會在標準待五年，本系列對環境的長期影響估計是史上最大了"
 ---
 

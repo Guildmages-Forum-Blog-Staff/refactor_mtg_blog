@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/HEpGEwK.png"
-thumbnail: "https://i.meee.com.tw/HEpGEwK.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Black/f9e8cfe70deb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Black/f9e8cfe70deb-cover.jpg"
 excerpt: "賽菲羅斯：「我不想消失，也不想消滅你，我需要你的力量，克勞德。跟我一起對抗命運吧？」"
 ---
 

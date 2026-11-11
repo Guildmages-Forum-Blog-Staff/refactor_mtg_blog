@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/GMxUfIn.png"
-thumbnail: "https://i.meee.com.tw/GMxUfIn.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-Green/bea7e7fde93f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-Green/bea7e7fde93f-cover.jpg"
 excerpt: "大怪物與他們的產地"
 ---
 

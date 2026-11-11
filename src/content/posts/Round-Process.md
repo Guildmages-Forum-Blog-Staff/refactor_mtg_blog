@@ -7,8 +7,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/vpjZjS4.png"
-thumbnail: "https://i.meee.com.tw/vpjZjS4.png"
+cover: "https://images.guildmagesforum.tw/posts/Round-Process/604a02661ce7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Round-Process/604a02661ce7-cover.jpg"
 excerpt: "回合結構大部分解開始！"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Beginner"
-cover: "https://i.meee.com.tw/hJKsOYq.png"
-thumbnail: "https://i.meee.com.tw/hJKsOYq.png"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/d8e15f65859e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/d8e15f65859e-cover.jpg"
 excerpt: "Sign is F."
 ---
 

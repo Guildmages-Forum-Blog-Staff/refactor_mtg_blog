@@ -8,8 +8,8 @@ categories:
   - "Beginner"
   - "Level One"
 
-cover: "https://i.meee.com.tw/Vs1wQRH.jpg"
-thumbnail: "https://i.meee.com.tw/Vs1wQRH.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/16f0e3f2a5d7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Playing-in-a-Grand-Prix-Part-I/16f0e3f2a5d7-cover.jpg"
 excerpt: "Level One: Playing in a Grand Prix: Part I"
 
 ---

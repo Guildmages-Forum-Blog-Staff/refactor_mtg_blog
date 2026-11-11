@@ -4,8 +4,8 @@ date: 2023-09-19 16:23:42
 excerpt: '想正面擊破啟示天災希歐蕊嗎？
 喜歡神裝割草的無雙快感嗎？
 經濟實惠的紅白武具推薦給入門標準的玩家'
-cover: "https://i.imgur.com/k7KGwmH.jpg"
-thumbnail: "https://i.imgur.com/k7KGwmH.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Boros-Equipment-Standard/dd955b02e1d5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Boros-Equipment-Standard/dd955b02e1d5-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

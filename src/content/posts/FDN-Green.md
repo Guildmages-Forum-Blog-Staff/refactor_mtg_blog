@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/TLlXa7z.png"
-thumbnail: "https://i.meee.com.tw/TLlXa7z.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Green/83777ebb5783-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Green/83777ebb5783-cover.jpg"
 excerpt: "爛寶回歸了，好想念這可愛小傢伙，爛寶可愛，要愛爛寶。"
 ---
 

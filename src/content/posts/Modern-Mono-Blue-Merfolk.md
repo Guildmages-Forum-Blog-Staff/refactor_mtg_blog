@@ -1,8 +1,8 @@
 ---
 title: "讓對手康不了的閃現套牌：純藍人魚"
 date: 2023-12-06 14:52:22
-cover: "https://i.imgur.com/qL4J3xX.jpg"
-thumbnail: "https://i.imgur.com/qL4J3xX.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/f23e1a3a116b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Mono-Blue-Merfolk/f23e1a3a116b-cover.jpg"
 excerpt: "近代種族套牌的中流砥柱"
 categories:
   - "Construct"

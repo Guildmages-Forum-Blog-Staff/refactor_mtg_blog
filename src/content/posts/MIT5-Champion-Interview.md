@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/EQePnAo.jpg"
-thumbnail: "https://i.meee.com.tw/EQePnAo.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT5-Champion-Interview/f4e7b33e2c6d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT5-Champion-Interview/f4e7b33e2c6d-cover.jpg"
 excerpt: "約訪當天，兩位筆者先是和 David Yeh 大大在桃園一刻館參加了限制賽的 MITQ 賽事。對局的過程中，我們已隱約感受到 David Yeh 大大有別於其他選手的氣質。"
 ---
 

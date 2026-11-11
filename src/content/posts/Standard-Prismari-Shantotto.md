@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/bZwDGtF.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Prismari-Shantotto/aa08a4f0dc09-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/bZwDGtF.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Prismari-Shantotto/aa08a4f0dc09-cover.jpg"
 
 excerpt: "粹麗學院客座教授香托托老師的藝術課程。"
 

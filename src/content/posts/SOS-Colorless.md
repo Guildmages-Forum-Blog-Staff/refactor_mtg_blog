@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/z2Q3cXG.png"
-thumbnail: "https://i.meee.com.tw/z2Q3cXG.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-Colorless/1ebb0a53d095-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-Colorless/1ebb0a53d095-cover.jpg"
 excerpt: "巫術瞬間滿天飛，怎麼可以不邀請知名魔法師做為特別來賓登場，來看看有誰來了"
 ---
 

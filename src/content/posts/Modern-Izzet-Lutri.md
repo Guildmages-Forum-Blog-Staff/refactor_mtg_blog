@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.meee.com.tw/0g3ukZH.jpg"
-thumbnail: "https://i.meee.com.tw/0g3ukZH.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Izzet-Lutri/6f9d93d168df-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Izzet-Lutri/6f9d93d168df-cover.jpg"
 excerpt: "九月三十號星期一，臺北的卡店中流傳著一段耳語：「欸昨天 MagicStar 十週年賽有個水獺人打進八強耶很酷。」魔風集會所找出了這位拉風的水獺人！並邀請他浮上水面登臺分享。"
 ---
 

@@ -8,8 +8,8 @@ categories:
   - "FRA"
 authors:
   - "jeffchen"
-cover: "https://i.meee.com.tw/zDC7HIb.png"
-thumbnail: "https://i.meee.com.tw/zDC7HIb.png"
+cover: "https://images.guildmagesforum.tw/posts/FRA-Blue/7e695ada81c1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Blue/7e695ada81c1-cover.jpg"
 excerpt: "藍色是心智的泉源，象徵無窮的資源"
 ---
 

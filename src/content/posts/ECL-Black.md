@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/eK4A05n.png"
-thumbnail: "https://i.meee.com.tw/eK4A05n.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Black/28790c05286f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Black/28790c05286f-cover.jpg"
 excerpt: "+1/+1指示物？那是什麼？總之跟我們黑色不熟。"
 ---
 

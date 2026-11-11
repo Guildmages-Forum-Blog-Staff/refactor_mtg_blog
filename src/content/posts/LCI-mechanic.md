@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟機制解析"
 date: "2023-10-25 17:19:50"
-cover: "https://i.imgur.com/szsk2tj.png"
-thumbnail: "https://i.imgur.com/szsk2tj.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-mechanic/eb96130c3166-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-mechanic/eb96130c3166-cover.jpg"
 excerpt: "來看看依夏蘭迷窟中出現了哪些新機制吧！"
 categories:
   - "Limited"

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "MTG Anecdote"
-cover: "https://i.meee.com.tw/q1ADOpF.jpg"
-thumbnail: "https://i.meee.com.tw/q1ADOpF.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Uncles-Diary/d821ad5eb00a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Uncles-Diary/d821ad5eb00a-cover.jpg"
 excerpt: "第十一名的夜晚，有點意思，但也不全然好受。在競爭的框架之下，敗者的數量永遠多於贏家，又或者說，最終的贏家也就那麼一位而已，既然如此，其他人的存在究竟有什麼意義呢？"
 ---
 

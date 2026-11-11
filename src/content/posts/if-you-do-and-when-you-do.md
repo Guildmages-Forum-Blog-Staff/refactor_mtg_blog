@@ -1,8 +1,8 @@
 ---
 title: "If you do 與 When you do"
 date: 2023-09-12 19:31:13
-cover: "https://i.imgur.com/KqhdXXK.png"
-thumbnail: "https://i.imgur.com/zgTvE56.png"
+cover: "https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/0855b4c08d88-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/if-you-do-and-when-you-do/66f3f24e8bf2-cover.jpg"
 excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差異"
 categories:
   - "MTG Rules"

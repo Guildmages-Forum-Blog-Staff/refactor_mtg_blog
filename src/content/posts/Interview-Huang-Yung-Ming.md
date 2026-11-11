@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/jiaF1Ha.jpg"
-thumbnail: "https://i.meee.com.tw/jiaF1Ha.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Interview-Huang-Yung-Ming/1991ee414812-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Interview-Huang-Yung-Ming/1991ee414812-cover.jpg"
 excerpt: "在訪問各路好手的過程裡，「黃永銘」這名字不斷出現在對談中，而這次很榮幸能邀請到永銘大大跟我們分享選手歷程、以及他於世界征戰的點點滴滴。讓我們一起了解這名長年活躍於賽場前段的玩家、以及他在臺灣魔風圈的風雲事蹟吧！"
 ---
 

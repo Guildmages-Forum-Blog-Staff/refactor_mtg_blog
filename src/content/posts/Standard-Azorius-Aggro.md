@@ -2,8 +2,8 @@
 
 title: "不叫Convoke叫Aggro：標準藍白快攻分享"
 date: "2025-01-16 15:15:30"
-cover: "https://i.meee.com.tw/ChKe51Y.webp"
-thumbnail: "https://i.meee.com.tw/ChKe51Y.webp"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/bb9cba736a20-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Azorius-Aggro/bb9cba736a20-cover.jpg"
 excerpt: "標準藍白不一定要玩控制，帶生物也是一種選擇"
 authors:
   - "Weihow"

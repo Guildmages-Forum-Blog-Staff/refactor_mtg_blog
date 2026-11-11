@@ -7,8 +7,8 @@ authors:
 categories:
   - "Beginner"
   - "Construct"
-cover: "https://i.meee.com.tw/EE9HJXr.png"
-thumbnail: "https://i.meee.com.tw/EE9HJXr.png"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/499c97643223-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/499c97643223-cover.jpg"
 excerpt: "工欲善其事，必先占卜落。"
 ---
 

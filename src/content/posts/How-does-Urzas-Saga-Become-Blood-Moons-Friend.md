@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/Kp73t7c.png"
-thumbnail: "https://i.meee.com.tw/Kp73t7c.png"
+cover: "https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/275a7a8f8da0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-does-Urzas-Saga-Become-Blood-Moons-Friend/275a7a8f8da0-cover.jpg"
 excerpt: "FIN系列的傳紀規則究竟改了啥？"
 ---
 

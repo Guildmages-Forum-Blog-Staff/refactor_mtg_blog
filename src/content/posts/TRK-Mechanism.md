@@ -8,8 +8,8 @@ categories:
   - "TRK"
 authors:
   - "JruMTG"
-cover: "https://i.meee.com.tw/Y2FYRAu.png"
-thumbnail: "https://i.meee.com.tw/Y2FYRAu.png"
+cover: "https://images.guildmagesforum.tw/posts/TRK-Mechanism/3458bb14313e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TRK-Mechanism/3458bb14313e-cover.jpg"
 excerpt: "來看看星艦迷航記出現了哪些機制吧！"
 ---
 

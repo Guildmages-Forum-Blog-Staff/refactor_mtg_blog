@@ -1,8 +1,8 @@
 ---
 title: "鐵木爾犀牛：強攻與控制的完美融合"
 date: "2023-11-03 21:09:12"
-cover: "https://i.imgur.com/yDv5Oty.png"
-thumbnail: "https://i.imgur.com/yDv5Oty.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Temur-Crashing-Footballs/0c3fdfa545bf-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Temur-Crashing-Footballs/0c3fdfa545bf-cover.jpg"
 excerpt: "三回犀牛，康康康康康康…結束，好玩遊戲每天玩"
 
 categories:

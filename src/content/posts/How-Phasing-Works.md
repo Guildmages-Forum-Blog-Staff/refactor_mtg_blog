@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/0PYLB5a.png"
-thumbnail: "https://i.meee.com.tw/0PYLB5a.png"
+cover: "https://images.guildmagesforum.tw/posts/How-Phasing-Works/81fff9652533-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Phasing-Works/81fff9652533-cover.jpg"
 excerpt: "我躍離了你的縛潮師，那我的生物異能回來了嗎？"
 ---
 

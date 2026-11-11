@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "HOB"
 
-cover: "https://i.meee.com.tw/5igV1zg.jpg"
-thumbnail: "https://i.meee.com.tw/5igV1zg.jpg"
+cover: "https://images.guildmagesforum.tw/posts/HOB-Red/2f986014dd33-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/HOB-Red/2f986014dd33-cover.jpg"
 excerpt: "矮人勇士拿起你們的戰鎚！衝鋒！"
 
 ---

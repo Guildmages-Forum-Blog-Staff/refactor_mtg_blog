@@ -2,8 +2,8 @@
 
 title: "暮悲邸：鬼屋驚魂（DSK）輪抽分享"
 date: "2024-10-06 18:10:05"
-cover: "https://i.meee.com.tw/uACP7WK.jpg"
-thumbnail: "https://i.meee.com.tw/uACP7WK.jpg"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Draft-Report/e4d6aa4a8d7d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Draft-Report/e4d6aa4a8d7d-cover.jpg"
 excerpt: "DSK 輪抽真好玩…… 咦？怎麼上秘稀了！"
 authors:
   - "cephille"

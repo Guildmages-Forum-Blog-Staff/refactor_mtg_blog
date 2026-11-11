@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/dZ3ztCK.png"
-thumbnail: "https://i.meee.com.tw/dZ3ztCK.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Red/919e321804f1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Red/919e321804f1-cover.jpg"
 excerpt: "誰有資格，可以在限制賽拿起Mjölnir呢？"
 
 ---

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/qraBu1Y.png"
-thumbnail: "https://i.meee.com.tw/qraBu1Y.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-Blue/ec15800291d0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-Blue/ec15800291d0-cover.jpg"
 excerpt: "請謹慎翻閱此間書籍，你手中的知識，蘊含無窮力量。也可能轉瞬化作形體，向你襲來。"
 ---
 

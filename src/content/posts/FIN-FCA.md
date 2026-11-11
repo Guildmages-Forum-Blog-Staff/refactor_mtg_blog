@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/X3yf4Pj.png"
-thumbnail: "https://i.meee.com.tw/X3yf4Pj.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-FCA/d0854efabb1c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-FCA/d0854efabb1c-cover.jpg"
 excerpt: "裘達：歡迎大家來到MTG的世界！本次我將Cos光之戰士，為各位介紹我們派出的傳奇伙伴們！"
 ---
 

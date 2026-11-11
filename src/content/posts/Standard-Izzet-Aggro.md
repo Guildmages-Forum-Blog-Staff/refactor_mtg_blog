@@ -8,8 +8,8 @@ categories:
   - "Standard"
 authors:
   - "CIXS"
-cover: "https://i.meee.com.tw/AERTL9a.jpg"
-thumbnail: "https://i.meee.com.tw/AERTL9a.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/088f6bb3bfa0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/088f6bb3bfa0-cover.jpg"
 excerpt: "8月禁限牌後，標準環境重新洗牌，本文帶你解析Izzet Aggro如何憑藉速度、節奏與靈活互動嶄露頭角。"
 ---
 

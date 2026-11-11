@@ -2,8 +2,8 @@
 
 title: "約力昂大叔的世冠賽 30 賽報"
 date: "2024-11-01 10:18:07"
-cover: "https://i.imgur.com/GkMbNzU.jpeg"
-thumbnail: "https://i.imgur.com/GkMbNzU.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/421e5022cf06-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/421e5022cf06-cover.jpg"
 excerpt: "世冠賽 30 落幕啦！恭喜 David Yeh 在本屆世冠賽取得 23 名的佳績，來看看他為我們帶來的精彩的賽事記錄吧！"
 authors:
   - "david-yeh"

@@ -1,8 +1,8 @@
 ---
 title: "菜鳥的MIT#9回顧"
 date: "2025-10-06 11:31:44"
-cover: "https://i.meee.com.tw/PbSTDGn.webp"
-thumbnail: "https://i.meee.com.tw/PbSTDGn.webp"
+cover: "https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/887de5163d54-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/887de5163d54-cover.jpg"
 excerpt: "PT EOE打完了，讓我們來回顧一下菜鳥的MIT#9歷程吧！"
 authors:
   - "SamuelChang"

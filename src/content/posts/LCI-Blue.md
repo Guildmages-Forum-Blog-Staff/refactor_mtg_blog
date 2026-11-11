@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 藍色"
 date: "2023-11-15 13:13:42"
-cover: "https://i.imgur.com/sjtcFUD.png"
-thumbnail: "https://i.imgur.com/sjtcFUD.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Blue/97b77283fc47-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Blue/97b77283fc47-cover.jpg"
 excerpt: "藍色是友誼的魔法...等等，怎麼都是神器！？"
 categories:
   - "Limited"

@@ -7,8 +7,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/i99FcrX.png"
-thumbnail: "https://i.meee.com.tw/i99FcrX.png"
+cover: "https://images.guildmagesforum.tw/posts/Layer/58e10aa6385e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Layer/58e10aa6385e-cover.jpg"
 excerpt: "謙卑+蛋白石光輝該如何處理？（可能是處理規則，也可能是處理玩這個的人）"
 ---
 

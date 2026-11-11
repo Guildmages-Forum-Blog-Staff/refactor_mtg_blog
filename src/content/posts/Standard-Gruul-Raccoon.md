@@ -1,8 +1,8 @@
 ---
 title: "囤物滿溢：標準紅綠浣熊"
 date: "2024-09-15 16:25:40"
-cover: "https://i.imgur.com/B2LGUrF.png"
-thumbnail: "https://i.imgur.com/B2LGUrF.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Raccoon/406d994df6a9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Raccoon/406d994df6a9-cover.jpg"
 excerpt: "浣熊滾雪球～"
 categories:
   - "Construct"

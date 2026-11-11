@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/u4dSxJs.png"
-thumbnail: "https://i.meee.com.tw/zZE1glu.png"
+cover: "https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/43bf383a5518-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/085cb3fab893-cover.jpg"
 excerpt: "拜託別再把墳場當手牌玩了"
 ---
 

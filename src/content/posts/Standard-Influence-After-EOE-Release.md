@@ -2,8 +2,8 @@
 
 title: "關於虛空邊域（EOE）發售後標準輪替的二三事"
 date: "2025-07-17 17:13:03"
-cover: "https://i.meee.com.tw/4xXTPGS.jpg"
-thumbnail: "https://i.meee.com.tw/4xXTPGS.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/7776fea73619-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/7776fea73619-cover.jpg"
 excerpt: "輪替是什麼？可以吃嗎？"
 authors:
   - "cephille"

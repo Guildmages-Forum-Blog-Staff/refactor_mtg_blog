@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/UbSHo2P.png"
-thumbnail: "https://i.meee.com.tw/UbSHo2P.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Green/88cefe887696-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Green/88cefe887696-cover.jpg"
 excerpt: "俺是耕田滴～看到那張12/12、帶踐踏、只能被一隻生物阻擋的地了嗎？他要進戰階了～"
 ---
 

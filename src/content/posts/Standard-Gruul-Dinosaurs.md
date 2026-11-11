@@ -2,8 +2,8 @@
 title: "蠻野重跺：標準古魯恐龍"
 date: "2023-11-20 18:45:45"
 excerpt: "依夏蘭要先組什麼套牌？當然是恐龍阿！"
-cover: "https://i.imgur.com/7ApwCck.png"
-thumbnail: "https://i.imgur.com/7ApwCck.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Dinosaurs/b6467b176dd2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Gruul-Dinosaurs/b6467b176dd2-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

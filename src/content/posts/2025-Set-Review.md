@@ -2,8 +2,8 @@
 
 title: "回顧 2025 年的魔法風雲會"
 date: "2025-12-15 23:46:18"
-cover: "https://i.meee.com.tw/AjK5GK2.png"
-thumbnail: "https://i.meee.com.tw/AjK5GK2.png"
+cover: "https://images.guildmagesforum.tw/posts/2025-Set-Review/f6a2837532c7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/2025-Set-Review/f6a2837532c7-cover.jpg"
 excerpt: "來回顧一下2025年魔法風雲會六個系列，順便吐槽一下XD。"
 authors:
   - "manamagic"

@@ -4,8 +4,8 @@ date: "2024-09-17 14:13:54"
 categories:
   - "Limited"
   - "DSK"
-cover: "https://i.imgur.com/d2budTa.jpeg"
-thumbnail: "https://i.imgur.com/d2budTa.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/f2f47b14873b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/f2f47b14873b-cover.jpg"
 excerpt: "當我和班隆洛的可愛小動物們度過一個快樂的暑假後，開學後來到暮悲邸卻看見...貞子、恰吉、安娜貝爾說你好！！！"
 authors:
   - "cephille"

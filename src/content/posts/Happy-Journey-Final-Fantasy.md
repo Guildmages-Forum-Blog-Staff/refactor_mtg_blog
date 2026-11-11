@@ -1,8 +1,8 @@
 ---
 title: "當魔風與最終幻想共伴，觸發了我們此生第一次自由行"
 date: "2025-07-09 11:36:21"
-cover: "https://i.meee.com.tw/e74MDB4.jpg"
-thumbnail: "https://i.meee.com.tw/e74MDB4.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/f460ba1c9352-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/f460ba1c9352-cover.jpg"
 excerpt: "人生第一次MTG團自由行就遇到颱風想跟你一起在東京會合，試問玩家是否接受挑戰？"
 authors:
   - "Requiem_Black"

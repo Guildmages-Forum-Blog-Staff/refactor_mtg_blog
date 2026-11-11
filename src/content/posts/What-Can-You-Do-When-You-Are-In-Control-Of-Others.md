@@ -6,8 +6,8 @@ authors:
   - "JruMTG"
 categories:
   - "MTG Rules"
-cover: "https://i.meee.com.tw/a7rScJ7.png"
-thumbnail: "https://i.meee.com.tw/a7rScJ7.png"
+cover: "https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/802836f783b2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-Can-You-Do-When-You-Are-In-Control-Of-Others/802836f783b2-cover.jpg"
 excerpt: "裁判！我可以操控我的對手喊投降嗎？"
 ---
 

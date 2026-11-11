@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/lWATVgO.png"
-thumbnail: "https://i.meee.com.tw/lWATVgO.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-SOA/0d21023226fb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-SOA/0d21023226fb-cover.jpg"
 excerpt: "塵封於過往的力量，如今再度現世，你該如何駕馭？"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/gpMAE8E.png"
-thumbnail: "https://i.meee.com.tw/gpMAE8E.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Mechanism/ca3944341216-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Mechanism/ca3944341216-cover.jpg"
 excerpt: "來看看洛溫：闇影籠罩中出現了哪些機制吧！"
 ---
 

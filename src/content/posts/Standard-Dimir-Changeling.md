@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/Cit20LE.png"
-thumbnail: "https://i.meee.com.tw/Cit20LE.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Changeling/ad17daa03581-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Changeling/ad17daa03581-cover.jpg"
 excerpt: "藍黑仙靈龍忍者惡魔麋鹿……總結就是甌柯。"
 ---
 

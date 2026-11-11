@@ -2,8 +2,8 @@
 
 title: "哩哩扣扣的賽前準備和MIT#8隨想"
 date: "2025-04-10 13:40:12"
-cover: "https://i.meee.com.tw/ceYbXI5.webp"
-thumbnail: "https://i.meee.com.tw/ceYbXI5.webp"
+cover: "https://images.guildmagesforum.tw/posts/MIT-8-Review/6d469969847a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT-8-Review/6d469969847a-cover.jpg"
 excerpt: "打造最強之矛 — 紅白能量之路"
 authors:
   - "Weihow"

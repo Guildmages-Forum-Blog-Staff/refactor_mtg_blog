@@ -1,8 +1,8 @@
 ---
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 紅色"
 date: "2023-11-16 14:22:08"
-cover: "https://i.imgur.com/8Nf0OgA.png"
-thumbnail: "https://i.imgur.com/8Nf0OgA.png"
+cover: "https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553-cover.jpg"
 excerpt: "不管你缺恐龍還缺神器，來找紅色就對了！"
 categories:
   - "Limited"

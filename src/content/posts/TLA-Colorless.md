@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/NTo2QDt.png"
-thumbnail: "https://i.meee.com.tw/NTo2QDt.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Colorless/ce8c0aa4ff41-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Colorless/ce8c0aa4ff41-cover.jpg"
 excerpt: "值得重修的好課、限制賽最強的R卡地，還有那堵傳說中最高的牆。"
 ---
 

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.meee.com.tw/jOJxR4C.png"
-thumbnail: "https://i.meee.com.tw/jOJxR4C.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-colorless/36a9fbe79f86-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-colorless/36a9fbe79f86-cover.jpg"
 excerpt: "閃現鞍燼鋒，連擊踐踏打一拳，操縱時序多一回合，請問你還有氣嗎？"
 ---
 

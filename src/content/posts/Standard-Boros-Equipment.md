@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/wlTqrbY.png "
-thumbnail: "https://i.meee.com.tw/wlTqrbY.png "
+cover: "https://images.guildmagesforum.tw/posts/Standard-Boros-Equipment/d3721c3ce2f4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Boros-Equipment/d3721c3ce2f4-cover.jpg"
 excerpt: "極限技：超究武神霸斬"
 ---
 

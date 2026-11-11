@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SPM"
-cover: "https://i.meee.com.tw/88OWXrw.png"
-thumbnail: "https://i.meee.com.tw/88OWXrw.png"
+cover: "https://images.guildmagesforum.tw/posts/SPM-Multicolors/8b1df6a1bc4c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SPM-Multicolors/8b1df6a1bc4c-cover.jpg"
 excerpt: "蛛絲甩蕩蕩蕩down……咦？為什麼我的蜘蛛人叫不下來？啊！我的生物還沒橫置！"
 ---
 

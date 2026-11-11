@@ -9,8 +9,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/o7hhmfT.jpg"
-thumbnail: "https://i.meee.com.tw/HFFblD6.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT2-Champion-Interview/40bb7035fba3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT2-Champion-Interview/634ca13915c6-cover.jpg"
 excerpt: "「要知道在你看不見的地方，別人也在努力著。」某位選手曾經這麼告訴承翰。從敬重旁人的付出開始，近兩年承翰突破了一道道心中的囹圄。相信對於一些玩家而言，這會是段近乎感動的真誠分享。"
 ---
 

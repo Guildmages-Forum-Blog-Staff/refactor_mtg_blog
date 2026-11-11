@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/4DTaqya.png"
-thumbnail: "https://i.meee.com.tw/4DTaqya.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mayhem-2099/fe458dab3508-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mayhem-2099/fe458dab3508-cover.jpg"
 excerpt: "瘋亂的盡頭是未來的蜘蛛英雄。"
 ---
 

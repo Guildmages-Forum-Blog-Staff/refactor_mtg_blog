@@ -2,8 +2,8 @@
 
 title: "降世神通：2025年最後也最完美的輪抽推廣"
 date: "2025-12-03 07:41:12"
-cover: "https://i.meee.com.tw/wFZOBGR.jpg"
-thumbnail: "https://i.meee.com.tw/wFZOBGR.jpg"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/5091d0b215b1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/5091d0b215b1-cover.jpg"
 excerpt: "喔氣氣氣氣氣……這系列未免也太強太香太好玩了吧？（動畫還很好看）"
 authors:
   - "faintmama"

@@ -2,8 +2,8 @@
 title: "寫給輪抽的讚歌 — 為什麼輪抽值得玩？"
 date: "2025-12-08 10:52:29"
 udpated: "2026-03-16 13:56:19"
-cover: "https://i.meee.com.tw/YUabzfm.jpg"
-thumbnail: "https://i.meee.com.tw/YUabzfm.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Why-Draft-is-Worthy-Play/63e71762bad3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Why-Draft-is-Worthy-Play/63e71762bad3-cover.jpg"
 excerpt: "如果有什麼事是一場輪抽無法解決的，那就再打一場。"
 authors:
   - "cephille"

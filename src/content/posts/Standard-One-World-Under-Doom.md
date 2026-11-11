@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/FJ0nMUl.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/606a522e9f70-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/FJ0nMUl.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/606a522e9f70-cover.jpg"
 
 excerpt: "你們這些英雄總是太過短視。你們在拯救今天，而我們，在籌劃明天。"
 

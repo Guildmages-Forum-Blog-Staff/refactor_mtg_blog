@@ -2,8 +2,8 @@
 title: "滿月呼喚：先驅古魯狼人"
 date: "2024-01-23 11:10:18"
 excerpt: "兩個依尼翠環境是否足夠撐起先驅狼人種族呢？"
-cover: "https://i.imgur.com/Sv9G5Pm.jpg"
-thumbnail: "https://i.imgur.com/Sv9G5Pm.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Gruul-Werewolf/772d2aa936bc-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Gruul-Werewolf/772d2aa936bc-cover.jpg"
 categories:
   - "Construct"
   - "Pioneer"

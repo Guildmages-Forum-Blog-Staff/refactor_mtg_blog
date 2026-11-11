@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/CbNRcag.png"
-thumbnail: "https://i.meee.com.tw/CbNRcag.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/b2ad3c1e4685-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Izzet-Control/b2ad3c1e4685-cover.jpg"
 excerpt: "對手：說書完了叫我"
 ---
 

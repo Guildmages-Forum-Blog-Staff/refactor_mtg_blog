@@ -1,8 +1,8 @@
 ---
 title: "關於新手如何在限制賽中進步 — 現開賽篇"
 date: "2024-07-30 13:50:01"
-cover: "https://i.postimg.cc/W3PwqTFT/Spike-Tournament-Grinder-by-Zoltan-Boros.avif"
-thumbnail: "https://i.postimg.cc/W3PwqTFT/Spike-Tournament-Grinder-by-Zoltan-Boros.avif"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/4531bd3eb895-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/4531bd3eb895-cover.jpg"
 mathjax: "true"
 excerpt: "聽店家說限制賽很好玩，售前時店裡老手們也很用心地指導我，但我打完我還是不知道我是誰我在哪我在做什麼..."
 categories:

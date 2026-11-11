@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/FVucZh4.png "
-thumbnail: "https://i.meee.com.tw/FVucZh4.png "
+cover: "https://images.guildmagesforum.tw/posts/Standard-Jeskai-Shantotto/ebd04aa0d3d2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Jeskai-Shantotto/ebd04aa0d3d2-cover.jpg"
 excerpt: "阿啦！本小姐阿，可是暴怒了呢。"
 ---
 

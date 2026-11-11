@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "FDN"
-cover: "https://i.postimg.cc/Y9BQHM43/MTG-write-a1.png"
-thumbnail: "https://i.postimg.cc/Y9BQHM43/MTG-write-a1.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Draft-Review/628de3273278-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Draft-Review/628de3273278-cover.jpg"
 excerpt: "現在抽塊地就行了…幹怎麼是地脈斧？永遠不會起手來的嗎？爛遊戲！充滿來錯時機的FDN限制賽！ 初嘗試翻譯文章，來看看日本玩家用箱形圖分析FDN限制賽的「爛」！"
 ---
 

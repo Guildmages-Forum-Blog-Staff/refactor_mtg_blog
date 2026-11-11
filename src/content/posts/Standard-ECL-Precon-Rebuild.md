@@ -7,8 +7,8 @@ authors:
 categories:
   - "Beginner"
   - "Standard"
-cover: "https://i.meee.com.tw/77JXiYk.png"
-thumbnail: "https://i.meee.com.tw/77JXiYk.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-ECL-Precon-Rebuild/bf55185b7030-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-ECL-Precon-Rebuild/bf55185b7030-cover.jpg"
 excerpt: "用小小的花費大大改善預組體驗"
 ---
 

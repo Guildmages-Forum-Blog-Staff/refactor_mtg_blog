@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/M2zW8kI.png"
-thumbnail: "https://i.meee.com.tw/M2zW8kI.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-Green/d3a3f6cc92d2-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Green/d3a3f6cc92d2-cover.jpg"
 excerpt: "說到洛溫就是妖精啦！來看看老朋友們有甚麼新花樣！"
 ---
 

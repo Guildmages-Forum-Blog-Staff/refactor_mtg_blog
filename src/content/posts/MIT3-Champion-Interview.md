@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/zTR6JNR.jpg"
-thumbnail: "https://i.meee.com.tw/zTR6JNR.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b-cover.jpg"
 excerpt: "魔風集會所來到陽光普照但風還是好大的新竹，訪問為人低調內斂的余弘毅（丈丈）選手。丈丈將分享自己從 2013 年「持續」投入這款遊戲的心路歷程。除此之外，大方的丈丈也提供了珍貴的世界賽桌布，將於未來的活動中讓讀者們抽獎，款式請見文末唷！"
 ---
 

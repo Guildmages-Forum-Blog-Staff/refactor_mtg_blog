@@ -2,8 +2,8 @@
 
 title: "一時失志不免怨嘆，愛拚才會提冠軍 — MIT第十輪回顧"
 date: "2025-11-17 09:16:17"
-cover: "https://i.meee.com.tw/01yluV4.jpg"
-thumbnail: "https://i.meee.com.tw/01yluV4.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/3776c43b7ab6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Fight-for-Victory-MIT10-Izzet-Affinity/3776c43b7ab6-cover.jpg"
 excerpt: "人生可比是海上的波浪，有時起有時落落落落。來看曾經在MIT八強摔了四次的男人如何克服心魔拿冠軍。"
 authors:
   - "Sekun"

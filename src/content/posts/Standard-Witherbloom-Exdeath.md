@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/5iBLOUX.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Witherbloom-Exdeath/1ce6b65a55e9-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/5iBLOUX.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Witherbloom-Exdeath/1ce6b65a55e9-cover.jpg"
 
 excerpt: "加拉夫，我又回來了。哼哈哈哈～"
 

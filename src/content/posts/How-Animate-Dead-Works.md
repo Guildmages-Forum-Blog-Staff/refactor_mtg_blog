@@ -3,8 +3,8 @@ title: "屍變是如何運作的？"
 date: "2023-12-04 13:40:18"
 categories:
   - "MTG Rules"
-cover: "https://i.imgur.com/oOPExz6.jpg"
-thumbnail: "https://i.imgur.com/oOPExz6.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/48a58e0e11a3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/48a58e0e11a3-cover.jpg"
 excerpt: "屍變+吞世龍的Combo大家都很熟，但問起屍變的運作原理時或許就沒那麼熟了。"
 authors:
   - "JruMTG"

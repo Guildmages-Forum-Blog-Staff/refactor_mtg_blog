@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/Lo0rdzi.png"
-thumbnail: "https://i.meee.com.tw/Lo0rdzi.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/618e5c92ca4a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Control/618e5c92ca4a-cover.jpg"
 excerpt: "跟霸主豆莖交朋友的好選項"
 ---
 

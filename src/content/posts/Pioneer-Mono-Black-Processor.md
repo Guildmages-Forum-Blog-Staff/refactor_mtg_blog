@@ -6,8 +6,8 @@ categories:
   - "Pioneer"
 authors:
   - "JruMTG"
-cover: "https://i.postimg.cc/SNFSqyrr/Wasteland-Strangler.jpg"
-thumbnail: "https://i.postimg.cc/SNFSqyrr/Wasteland-Strangler.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/eabf8454b014-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Mono-Black-Processor/eabf8454b014-cover.jpg"
 excerpt: "2024/5/11 卡士多先驅MITQ#1"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/pUSc9hS.png"
-thumbnail: "https://i.imgur.com/pUSc9hS.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Kotis/1770acb8b0b1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Kotis/1770acb8b0b1-cover.jpg"
 excerpt: "SHOW ME THE DECK"
 ---
 

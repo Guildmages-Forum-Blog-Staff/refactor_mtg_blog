@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://i.meee.com.tw/EWPnbVS.png"
-thumbnail: "https://i.meee.com.tw/EWPnbVS.png"
+cover: "https://images.guildmagesforum.tw/posts/TDM-mechanism/71d4a42095b5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-mechanism/71d4a42095b5-cover.jpg"
 excerpt: "來看看韃契：龍襲風暴中出現了哪些機制吧！"
 ---
 

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Others"
   - "Card Lore"
-cover: "https://i.meee.com.tw/c2osvmu.jpg"
-thumbnail: "https://i.meee.com.tw/c2osvmu.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Do-You-Know-A-Basic-Land-includes-More-Than-150-Words/99646c3763d3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Do-You-Know-A-Basic-Land-includes-More-Than-150-Words/99646c3763d3-cover.jpg"
 excerpt: "你以為現在的 MTG 牌很囉嗦？那是你沒見過設計師把整本規則塞進一張卡的時候。"
 ---
 

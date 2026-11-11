@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "ECL"
-cover: "https://i.meee.com.tw/dYxkM3l.png"
-thumbnail: "https://i.meee.com.tw/dYxkM3l.png"
+cover: "https://images.guildmagesforum.tw/posts/ECL-White/16429cabfe91-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/ECL-White/16429cabfe91-cover.jpg"
 excerpt: "總之瘋狂鋪場"
 ---
 

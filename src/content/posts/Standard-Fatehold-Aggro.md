@@ -7,8 +7,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/kYt9AvX.png"
-thumbnail: "https://i.meee.com.tw/kYt9AvX.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Fatehold-Aggro/19b6f8135d85-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Fatehold-Aggro/19b6f8135d85-cover.jpg"
 excerpt: "賢者瑪托雅的時代來臨了。"
 ---
 

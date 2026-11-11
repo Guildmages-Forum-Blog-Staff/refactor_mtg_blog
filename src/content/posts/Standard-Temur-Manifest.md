@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/sEcT3St.png"
-thumbnail: "https://i.imgur.com/sEcT3St.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Temur-Manifest/a3773bb13df9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Temur-Manifest/a3773bb13df9-cover.jpg"
 excerpt: "我覆蓋一張牌在戰場上，它是2/2生物，結束這回合。"
 ---
 

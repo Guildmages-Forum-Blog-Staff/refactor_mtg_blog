@@ -8,8 +8,8 @@ authors:
 categories:
   - "Tournaments"
   - "MIT"
-cover: "https://i.meee.com.tw/tarl2xT.png"
-thumbnail: "https://i.meee.com.tw/tarl2xT.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/2c26767063d1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Esper-Murktide-w-Echo/2c26767063d1-cover.jpg"
 excerpt: "沒放大眼睛跟黑白神，龍侯與亙古回聲是否還能起舞？"
 ---
 

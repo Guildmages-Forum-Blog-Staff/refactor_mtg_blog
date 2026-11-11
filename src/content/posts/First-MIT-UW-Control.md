@@ -1,8 +1,8 @@
 ---
 title: "台灣黑熊MIT#9的初次登板 — 白藍控制"
 date: "2025-05-30 11:01:22"
-cover: "https://i.meee.com.tw/jb85npy.jpg"
-thumbnail: "https://i.meee.com.tw/jb85npy.jpg"
+cover: "https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/68bdf8ef4c43-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/68bdf8ef4c43-cover.jpg"
 excerpt: "想知道藍白控制是如何在標準賽制MIT殺出重圍的嗎？歡迎來看看這篇！"
 authors:
   - "Chiyou"

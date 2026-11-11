@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/OBIcPdD.png"
-thumbnail: "https://i.meee.com.tw/OBIcPdD.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Cave-Bend/43bbdee9eed3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Cave-Bend/43bbdee9eed3-cover.jpg"
 excerpt: "傳說中，只要相愛的兩人一起進入情人洞，就能習得運土神通喔！"
 ---
 

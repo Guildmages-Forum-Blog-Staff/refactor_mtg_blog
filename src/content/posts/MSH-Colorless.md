@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/5xiGWJt.png"
-thumbnail: "https://i.meee.com.tw/5xiGWJt.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Colorless/19d47c5a2adb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Colorless/19d47c5a2adb-cover.jpg"
 excerpt: "小子，你對我說話尊重一點。我吃的鹽比你吃的飯多。——《尚氣》"
 
 ---

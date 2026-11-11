@@ -8,9 +8,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/oeYkXUb.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Lorehold-Equipment/ab957523c67c-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/oeYkXUb.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Lorehold-Equipment/ab957523c67c-cover.jpg"
 
 excerpt: "以歷史為明鏡，揮劍披荊斬棘。"
 

@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/GI5Zqbb.jpg"
-thumbnail: "https://i.meee.com.tw/PvB1laq.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/c6dc73333aa5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT1-Champion-Interview/4ca4f4e10d90-cover.jpg"
 excerpt: "曾為臺灣帶來世界賽第一手情報的JT大大來囉！近期稍微淡出賽事的他，如今看待魔法風雲會的視角又有些不同了。讓我們一起了解這位來自高雄的玩家，究竟是如何準備及看待「比賽」這項事情呢？"
 ---
 

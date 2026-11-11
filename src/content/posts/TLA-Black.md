@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TLA"
-cover: "https://i.meee.com.tw/PCeZfu6.png"
-thumbnail: "https://i.meee.com.tw/PCeZfu6.png"
+cover: "https://images.guildmagesforum.tw/posts/TLA-Black/17b53ed91cd8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TLA-Black/17b53ed91cd8-cover.jpg"
 excerpt: "光與影、善與惡，人與世界的連結只在一念之間。"
 ---
 

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.meee.com.tw/iByjZQR.png"
-thumbnail: "https://i.meee.com.tw/iByjZQR.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/cb2d188edd4f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/cb2d188edd4f-cover.jpg"
 excerpt: "正編不計地牌，只有 5 張牌不是來自魔戒或者 MH3！享受用 1,000 美金打對方臉的金錢暴力快感！"
 ---
 

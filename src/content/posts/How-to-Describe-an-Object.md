@@ -3,8 +3,8 @@ title: "如何描述一個物件？"
 date: "2023-11-30 23:48:43"
 categories:
   - "MTG Rules"
-cover: "https://i.imgur.com/rlgVpG8.jpg"
-thumbnail: "https://i.imgur.com/rlgVpG8.jpg"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/5533f87b0545-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/5533f87b0545-cover.jpg"
 excerpt: "詛咒圖騰像跟抑制力場，誰可以對忍術生效呢？"
 authors:
   - "JruMTG"

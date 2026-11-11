@@ -7,8 +7,8 @@ categories:
   - "Beginner"
 authors:
   - "cephille"
-cover: "https://i.meee.com.tw/slzxoQh.jpg"
-thumbnail: "https://i.meee.com.tw/slzxoQh.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Solo-Drafting-FRA/60c023817866-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Solo-Drafting-FRA/60c023817866-cover.jpg"
 excerpt: "你有玩過孤獨輪抽嗎？一起來享受自我拉扯、獨自升級的虐痛感吧XD"
 ---
 

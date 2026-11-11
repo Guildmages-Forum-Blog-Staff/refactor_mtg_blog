@@ -1,8 +1,8 @@
 ---
 title: "什麼是可複製特徵"
 date: "2023-12-28 21:54:27"
-cover: "https://i.imgur.com/cggbVm7.jpg"
-thumbnail: "https://i.imgur.com/cggbVm7.jpg"
+cover: "https://images.guildmagesforum.tw/posts/What-is-Copiable-Value/95def540c293-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-Copiable-Value/95def540c293-cover.jpg"
 excerpt: "Kiki-Jiki複製一塊成為生物的變身地會得到什麼？"
 categories:
   - "MTG Rules"

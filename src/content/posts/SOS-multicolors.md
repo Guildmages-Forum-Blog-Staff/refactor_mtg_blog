@@ -7,8 +7,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/oHZv8Si.png"
-thumbnail: "https://i.meee.com.tw/oHZv8Si.png"
+cover: "https://images.guildmagesforum.tw/posts/SOS-multicolors/bb913851f019-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-multicolors/bb913851f019-cover.jpg"
 excerpt: "這次有77張牌，應該是WOE以來多色最多張的多色系列吧？"
 ---
 

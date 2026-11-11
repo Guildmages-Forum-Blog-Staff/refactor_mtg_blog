@@ -5,8 +5,8 @@ date: "6/22/2026, 9:18:29 PM"
 updated: "2026-06-22 22:19:26"
 authors:
   - "Patrick"
-cover: "https://i.meee.com.tw/8fqR4Uy.jpg"
-thumbnail: "https://i.meee.com.tw/8fqR4Uy.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/5d48d276a2b7-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Sultai-Control-Chiba/5d48d276a2b7-cover.jpg"
 excerpt: "從 MIT 12 Top 9 到千葉 Spotlight Top 64，這篇文章記錄的不只是一次賽事成績，更是一個蘇勒台玩家與自己色組之間的故事"
 categories:
   - "Construct"

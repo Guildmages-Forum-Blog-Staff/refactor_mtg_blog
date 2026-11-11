@@ -9,9 +9,9 @@ categories:
   - "Construct"
   - "Standard"
 
-cover: "https://i.meee.com.tw/6VD7Dy6.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/54f71817b94a-cover.jpg"
 
-thumbnail: "https://i.meee.com.tw/6VD7Dy6.png"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/54f71817b94a-cover.jpg"
 
 excerpt: "Avengers——Assemble!"
 

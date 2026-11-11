@@ -8,8 +8,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/JZuxjMU.jpg"
-thumbnail: "https://i.meee.com.tw/JZuxjMU.jpg"
+cover: "https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/aaca5f4cbf47-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/aaca5f4cbf47-cover.jpg"
 excerpt: "在認識石頭這名選手以前，筆者揣測他是位相對寡言、格外專注的選手，但在面對面訪談過後，發覺石頭體內蘊藏著極大的熱忱，而那真的非常亮眼。同時，他的崛起也說明了「友情」的重要性。且讓我們一起看下去吧！"
 ---
 

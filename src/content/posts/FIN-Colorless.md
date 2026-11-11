@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "FIN"
-cover: "https://i.meee.com.tw/041peoy.png"
-thumbnail: "https://i.meee.com.tw/041peoy.png"
+cover: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
 excerpt: "我按照我的想法生活，所以你應該按照你的想法生活（布蘭），用多變的法力基礎加上各式神器武具來建立你想要的遊戲方式吧!"
 ---
 

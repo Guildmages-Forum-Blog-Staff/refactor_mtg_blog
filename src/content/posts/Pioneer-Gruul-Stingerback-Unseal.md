@@ -1,8 +1,8 @@
 ---
 title: "猛烈轟炸：先驅蠍龍解印"
 date: "2024-05-01 16:24:14"
-cover: "https://i.postimg.cc/Jzvds8nx/thumb.jpg"
-thumbnail: "https://i.postimg.cc/Jzvds8nx/thumb.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Gruul-Stingerback-Unseal/4f3028f53b98-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Gruul-Stingerback-Unseal/4f3028f53b98-cover.jpg"
 excerpt: "刺針背懼龍在先驅有搞頭？！"
 categories:
   - "Construct"

@@ -2,8 +2,8 @@
 title: "旅法演進史：茜卓納拉"
 date: "2023-12-25 19:18:53"
 excerpt: "Lets Fight Fire with Fire."
-cover: "https://i.imgur.com/GfQlTbB.jpg"
-thumbnail: "https://i.imgur.com/GfQlTbB.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Chandra-History/2bd2bf97a476-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Chandra-History/2bd2bf97a476-cover.jpg"
 categories:
   - "Others"
   - "Card Lore"

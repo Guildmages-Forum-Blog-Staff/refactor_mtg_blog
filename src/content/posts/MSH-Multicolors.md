@@ -9,8 +9,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/NEgyrlb.png"
-thumbnail: "https://i.meee.com.tw/NEgyrlb.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Multicolors/34b406ec3d11-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Multicolors/34b406ec3d11-cover.jpg"
 excerpt: "歡迎來到漫威超級英雄的世界！你心中最具代表性的英雄是哪一位呢？讓我們從多色篇先看起吧！"
 
 ---

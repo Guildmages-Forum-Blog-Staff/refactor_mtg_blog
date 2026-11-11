@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.imgur.com/yykOf6l.png"
-thumbnail: "https://i.imgur.com/yykOf6l.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Red-Dragon-Wins/e3597cd04ac5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Red-Dragon-Wins/e3597cd04ac5-cover.jpg"
 excerpt: "RDW = Red Dragon Wins"
 ---
 

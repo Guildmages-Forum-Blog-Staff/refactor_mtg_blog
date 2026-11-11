@@ -7,8 +7,8 @@ authors:
 categories:
   - "Others"
   - "Interview"
-cover: "https://i.meee.com.tw/sCyylqr.jpg"
-thumbnail: "https://i.meee.com.tw/sCyylqr.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/12cef7dc55e1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/12cef7dc55e1-cover.jpg"
 excerpt: "「2012年世界賽冠軍臺灣隊長」、「遊戲平方的創辦人」、「臺灣魔風史上參加過最多次專業賽、最多次大獎賽八強、最多次臺灣冠軍紀錄保持者」……雖有那麼多的頭銜與身分，但仍只是我們對郭子敬的有限認識。目前的他，除了身為櫃檯內側的Watcher，依然對魔風這款遊戲有著龐大的熱忱、獨特的見解和切入點。"
 ---
 

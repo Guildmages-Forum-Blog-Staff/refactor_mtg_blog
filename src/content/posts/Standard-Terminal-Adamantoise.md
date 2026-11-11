@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/5rp8mlC.png"
-thumbnail: "https://i.meee.com.tw/5rp8mlC.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Terminal-Adamantoise/189b4a0b7906-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Terminal-Adamantoise/189b4a0b7906-cover.jpg"
 excerpt: "快用你那無敵的白金之龜想想辦法啊！"
 ---
 

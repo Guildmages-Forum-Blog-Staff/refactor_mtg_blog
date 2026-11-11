@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/yoZG6nP.png"
-thumbnail: "https://i.meee.com.tw/yoZG6nP.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-4C-Shrine-Lesson/e3f425cb7814-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-4C-Shrine-Lesson/e3f425cb7814-cover.jpg"
 excerpt: "奶奶的參拜日常。"
 ---
 

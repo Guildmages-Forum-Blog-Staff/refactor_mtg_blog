@@ -1,8 +1,8 @@
 ---
 title: "飛馳之刃：再論艾斯波忍者"
 date: "6/2/2026, 11:24:02 PM"
-cover: "https://i.meee.com.tw/v33clJQ.jpg"
-thumbnail: "https://i.meee.com.tw/v33clJQ.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Revisit/98386f40f3b5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Revisit/98386f40f3b5-cover.jpg"
 excerpt: "不假良史之辭，不託飛馳之勢，而聲名自傳於後。"
 authors:
   - "cephille"

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/8QO55P1.png"
-thumbnail: "https://i.meee.com.tw/8QO55P1.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Umbral-Goldkeeper/5b31142e446e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Umbral-Goldkeeper/5b31142e446e-cover.jpg"
 excerpt: "坐吧，孩子。我來跟你說個苦命礦工的故事……"
 ---
 

@@ -6,8 +6,8 @@ categories:
   - "Standard"
 authors:
   - "JerobaMTG"
-cover: "https://i.meee.com.tw/ksF5aVO.png"
-thumbnail: "https://i.meee.com.tw/ksF5aVO.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Mountain-King/ebb7a83c4ca6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Mountain-King/ebb7a83c4ca6-cover.jpg"
 excerpt: "看孤山遠征隊如何以武具橫掃戰場。"
 ---
 

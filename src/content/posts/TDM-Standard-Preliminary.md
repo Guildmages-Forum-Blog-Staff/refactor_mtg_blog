@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/SfzHOn8.png"
-thumbnail: "https://i.meee.com.tw/SfzHOn8.png"
+cover: "https://images.guildmagesforum.tw/posts/TDM-Standard-Preliminary/7a4c3e57f1e1-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-Standard-Preliminary/7a4c3e57f1e1-cover.jpg"
 excerpt: "讓龍族再次偉大"
 ---
 

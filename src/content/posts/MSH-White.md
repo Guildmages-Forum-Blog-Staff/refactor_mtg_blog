@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/bcAGhGL.png"
-thumbnail: "https://i.meee.com.tw/bcAGhGL.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-White/6c8bf526b7b6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-White/6c8bf526b7b6-cover.jpg"
 excerpt: "白色就是正義！神盾局、美國隊長、驚奇隊長齊聚，讓惡勢力（你的對手）沒有抗衡之力！"
 
 ---

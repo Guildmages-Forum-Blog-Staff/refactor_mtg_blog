@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "SOS"
-cover: "https://i.meee.com.tw/kexf5K1.jpg"
-thumbnail: "https://i.meee.com.tw/kexf5K1.jpg"
+cover: "https://images.guildmagesforum.tw/posts/SOS-Post-release/da6e59f74f9f-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/SOS-Post-release/da6e59f74f9f-cover.jpg"
 excerpt: "心流！我要進入心流！！！"
 ---
 

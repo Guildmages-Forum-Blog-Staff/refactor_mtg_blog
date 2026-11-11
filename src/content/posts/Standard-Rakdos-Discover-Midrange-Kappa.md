@@ -1,8 +1,8 @@
 ---
 title: "標準紅黑Discover"
 date: "2024-01-29 19:23:07"
-cover: "https://i.imgur.com/taDVdGm.jpg"
-thumbnail: "https://i.imgur.com/taDVdGm.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/453170833418-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/453170833418-cover.jpg"
 excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個咒語一帶三更是過分！來看看Kappa對紅黑中速的理解以及賽報吧！"
 categories:
   - "Construct"

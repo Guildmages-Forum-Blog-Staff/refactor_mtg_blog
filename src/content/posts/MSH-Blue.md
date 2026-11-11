@@ -8,8 +8,8 @@ categories:
   - "Limited"
   - "MSH"
 
-cover: "https://i.meee.com.tw/kPSFyDm.png"
-thumbnail: "https://i.meee.com.tw/kPSFyDm.png"
+cover: "https://images.guildmagesforum.tw/posts/MSH-Blue/a3f4452bbf86-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MSH-Blue/a3f4452bbf86-cover.jpg"
 excerpt: "被知識所詛咒的人不只你一個。"
 
 ---

@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/RkL2bMO.png"
-thumbnail: "https://i.meee.com.tw/RkL2bMO.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-5C-Web-Warriors/1bc44ba209b8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-5C-Web-Warriors/1bc44ba209b8-cover.jpg"
 excerpt: "蜘蛛網戰士們，集結！"
 ---
 

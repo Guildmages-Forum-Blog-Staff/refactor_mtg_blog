@@ -8,8 +8,8 @@ categories:
   - "Beginner"
   - "Level One"
 
-cover: "https://i.meee.com.tw/B3rNGsf.jpg"
-thumbnail: "https://i.meee.com.tw/B3rNGsf.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Level-One-Sequencing/ccfe87d725ac-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Level-One-Sequencing/ccfe87d725ac-cover.jpg"
 excerpt: "Level One: Sequencing"
 
 ---

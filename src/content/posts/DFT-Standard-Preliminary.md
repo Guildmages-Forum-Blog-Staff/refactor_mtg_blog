@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://i.meee.com.tw/KHVR0Ux.png"
-thumbnail: "https://i.meee.com.tw/KHVR0Ux.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-Standard-Preliminary/8be827844085-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Standard-Preliminary/8be827844085-cover.jpg"
 excerpt: "這個爛寶看起來好香，不如把牠丟進鍋子裡煮了吧"
 ---
 

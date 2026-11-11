@@ -2,8 +2,8 @@
 title: "妖精狼伴：標準樂舞會沃亞"
 date: "2024-03-02 11:49:39"
 excerpt: "狼與妖精的輪舞。"
-cover: "https://i.imgur.com/smiq7Iq.png"
-thumbnail: "https://i.imgur.com/smiq7Iq.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Cabaretti-Voia/25be2aaca81e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Cabaretti-Voia/25be2aaca81e-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

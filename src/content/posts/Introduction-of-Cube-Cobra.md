@@ -3,8 +3,8 @@
 title: 'Cube設計 - Cube Cobra介紹'
 date: 2025-04-08 21:30:00
 
-cover: "https://i.meee.com.tw/z5P3HxZ.jpg"
-thumbnail: "https://i.meee.com.tw/DKFwWNc.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/36544209840c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Introduction-of-Cube-Cobra/63f3efd9136e-cover.jpg"
 excerpt: "萬能的Cube Cobra，請賜給我神奇的力量！"
 authors:
   - "dalance"

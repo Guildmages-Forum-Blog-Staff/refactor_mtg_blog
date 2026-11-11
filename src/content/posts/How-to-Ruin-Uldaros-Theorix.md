@@ -6,8 +6,8 @@ categories:
   - "MTG Rules"
 authors:
   - "JruMTG"
-cover: "https://i.meee.com.tw/zfQDrIW.png"
-thumbnail: "https://i.meee.com.tw/zfQDrIW.png"
+cover: "https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/a6be8d2f073a-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/How-to-Ruin-Uldaros-Theorix/a6be8d2f073a-cover.jpg"
 excerpt: "老威還記得究極蜘蛛人在標準內嗎"
 ---
 

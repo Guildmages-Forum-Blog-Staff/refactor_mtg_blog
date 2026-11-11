@@ -1,8 +1,8 @@
 ---
 title: "呱叫反身：標準藍綠青蛙"
 date: "2024-08-15 19:32:52"
-cover: "https://i.imgur.com/5SnDVW9.jpeg"
-thumbnail: "https://i.imgur.com/5SnDVW9.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Simic-Frog/cd7b8a8bcfe9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Simic-Frog/cd7b8a8bcfe9-cover.jpg"
 excerpt: "好KERO球不打嗎？"
 categories:
   - "Construct"

@@ -1,8 +1,8 @@
 ---
 title: "豬鼻子的 FDN 售前現開分享"
 date: "2024-11-11 21:26:45"
-cover: "https://i.meee.com.tw/rOlco3W.png"
-thumbnail: "https://i.meee.com.tw/rOlco3W.png"
+cover: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
 excerpt: "Foundation 基石構築？那不就是核心系列嗎？打習慣一般標準限制賽，打核心系列會有趣嗎？讓豬鼻子以實際體驗來告訴大家吧！"
 authors:
   - "cephille"

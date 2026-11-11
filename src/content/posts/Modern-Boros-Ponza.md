@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Modern"
-cover: "https://i.meee.com.tw/4uJmL8g.png"
-thumbnail: "https://i.meee.com.tw/1es8TrP.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/be90f3aa058c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Boros-Ponza/31500b256453-cover.jpg"
 excerpt: "友誼的小船說炸就炸"
 ---
 

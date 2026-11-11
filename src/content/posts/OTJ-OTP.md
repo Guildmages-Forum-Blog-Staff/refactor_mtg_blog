@@ -1,8 +1,8 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 號外新聞（OTP）"
 date: "2024-04-12 18:34:46"
-cover: "https://i.postimg.cc/QNzc61f7/image.png"
-thumbnail: "https://i.postimg.cc/QNzc61f7/image.png"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-OTP/c3c1051917d6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-OTP/c3c1051917d6-cover.jpg"
 excerpt: "號外！我的對手用攫取思緒棄掉了我的峰頂懼龍，然後用活屍法把牠挖回來！太無情了！"
 categories:
   - "Limited"

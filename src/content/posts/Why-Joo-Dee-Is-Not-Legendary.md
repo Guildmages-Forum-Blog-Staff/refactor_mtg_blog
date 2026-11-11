@@ -6,8 +6,8 @@ authors:
 categories:
   - "Others"
   - "Card Lore"
-cover: "https://i.meee.com.tw/7IVDvjD.png"
-thumbnail: "https://i.meee.com.tw/7IVDvjD.png"
+cover: "https://images.guildmagesforum.tw/posts/Why-Joo-Dee-Is-Not-Legendary/1380f283acd8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Why-Joo-Dee-Is-Not-Legendary/1380f283acd8-cover.jpg"
 excerpt: "Hello! My name is Joo Dee. You’re in Ba Sing Se now. Everyone is safe here."
 ---
 

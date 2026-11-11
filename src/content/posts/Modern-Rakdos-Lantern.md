@@ -11,8 +11,8 @@ categories:
   - "Construct"
   - "Modern"
 
-cover: "https://i.meee.com.tw/JSHdUNY.png"
-thumbnail: "https://i.meee.com.tw/JSHdUNY.png"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/0c69ccc0bc9b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/0c69ccc0bc9b-cover.jpg"
 
 excerpt: "建議多上健身房做為配套措施（預防對局轉為真人格鬥）"
 

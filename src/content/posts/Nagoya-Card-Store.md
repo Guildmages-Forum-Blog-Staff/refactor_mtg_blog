@@ -1,8 +1,8 @@
 ---
 title: "名古屋卡店巡禮"
 date: "2024-09-23 13:03:34"
-cover: "https://i.imgur.com/HFPq96G.jpeg"
-thumbnail: "https://i.imgur.com/HFPq96G.jpeg"
+cover: "https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/af335e96c0eb-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/af335e96c0eb-cover.jpg"
 excerpt: "金魚網、晴屋還有台灣實體環境，在套牌環境以及構築上都有很明顯的不同，為了滿足我的好奇心，於是決定去國外朝聖看看。"
 authors:
   - "yu-chen"

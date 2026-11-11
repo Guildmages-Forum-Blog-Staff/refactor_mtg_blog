@@ -2,8 +2,8 @@
 title: "十會碎盟：標準至尊再起"
 date: "2024-02-26 13:05:49"
 excerpt: "既然回到拉尼卡，那就是現世十會盟的回合了！"
-cover: "https://i.imgur.com/EyPlJ9j.png"
-thumbnail: "https://i.imgur.com/EyPlJ9j.png"
+cover: "https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/7b3a232a8cc0-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-5C-Supreme-Jump-Start/7b3a232a8cc0-cover.jpg"
 categories:
   - "Construct"
   - "Standard"
