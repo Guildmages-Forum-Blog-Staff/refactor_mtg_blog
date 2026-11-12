@@ -1,4 +1,12 @@
 ---
+import type { Lang } from '../i18n';
+import { useTranslations } from '../i18n/ui';
+
+interface Props {
+  lang: Lang;
+}
+
+const t = useTranslations(Astro.props.lang);
 const year = new Date().getFullYear();
 ---
 
@@ -7,11 +15,8 @@ const year = new Date().getFullYear();
     class="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-4 py-8 text-sm text-gray-500 sm:flex-row dark:text-gray-400"
   >
     <div class="text-center leading-relaxed sm:text-left">
-      <p class="font-medium text-gray-700 dark:text-gray-300">Guildmages' Forum 魔風集會所</p>
-      <p class="mt-1 text-xs">
-        本網站所提供之魔法風雲會 (Magic the Gathering) 文字和圖形資訊版權均為威世智 (Wizards of the
-        Coast) 所有。
-      </p>
+      <p class="font-medium text-gray-700 dark:text-gray-300">{t.siteTitle}</p>
+      <p class="mt-1 text-xs">{t.footerCopyright}</p>
     </div>
     <p class="shrink-0">© {year} Guildmages' Forum</p>
   </div>

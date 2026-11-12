@@ -2,7 +2,9 @@
 import Footer from '../components/Footer.astro';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import { ClientRouter } from 'astro:transitions';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../config/site';
+import { HTML_LANG, langFromPath, localePath } from '../i18n';
+import { useTranslations } from '../i18n/ui';
+import { getLangSwitch } from '../utils/collections';
 import '../styles/global.css';
 
 interface Props {
@@ -14,38 +16,53 @@ interface Props {
   /** true keeps the page out of search indexes (e.g. preview posts). */
   noindex?: boolean;
 }
+const lang = langFromPath(Astro.url.pathname);
+const t = useTranslations(lang);
 const {
   title,
-  description = SITE_DESCRIPTION,
+  description = t.siteDescription,
   ogImage,
   canonical = true,
   noindex = false,
 } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+
+// hreflang alternates: only languages that have this exact page. The other
+// language's twin (or its fallback) is also where the Navbar toggle points.
+const langSwitch = await getLangSwitch(Astro.url.pathname);
+const alternates =
+  canonical && langSwitch.exact
+    ? [
+        { lang, href: canonicalUrl.href },
+        { lang: langSwitch.otherLang, href: new URL(langSwitch.href, Astro.site).href },
+      ]
+    : [];
 // Both optional: set at build time (CI repo variables); unset = tag omitted.
 const gaId = import.meta.env.PUBLIC_GA_ID;
 const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
 ---
 
 <!doctype html>
-<html lang="zh-TW">
+<html lang={HTML_LANG[lang]}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/webp" href={`${import.meta.env.BASE_URL}images/logo.webp`} />
     <meta name="description" content={description} />
     {canonical && <link rel="canonical" href={canonicalUrl} />}
+    {alternates.map((a) => <link rel="alternate" hreflang={HTML_LANG[a.lang]} href={a.href} />)}
+    <meta name="gmf:lang-switch" content={langSwitch.href} />
     {noindex && <meta name="robots" content="noindex" />}
     <slot name="head" />
     {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
     {gaId && <GoogleAnalytics id={gaId} />}
     {ogImage && <meta property="og:image" content={ogImage} />}
-    <title>{title} | {SITE_TITLE}</title>
+    <title>{title} | {t.siteTitle}</title>
     <link
       rel="alternate"
       type="application/rss+xml"
-      title={SITE_TITLE}
-      href={`${import.meta.env.BASE_URL}rss.xml`}
+      title={t.siteTitle}
+      href={localePath(lang, 'rss.xml')}
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -74,7 +91,7 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
     <div class="flex-1">
       <slot />
     </div>
-    <Footer />
+    <Footer lang={lang} />
     <script>
       // Scryfall card hover — imgUrl sourced from server-side remark plugin attributes only.
       // ClientRouter swaps <body> wholesale on internal navigation (no transition:persist
