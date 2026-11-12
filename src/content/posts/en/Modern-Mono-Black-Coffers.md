@@ -36,7 +36,7 @@ For a detailed tournament report, see the [post](https://www.facebook.com/photo/
 
 ## Deck List
 
-![](/images/Modern-Mono-Black-Coffers/decklist.png)
+![](/images/Modern-Mono-Black-Coffers/decklist.webp)
 
 [Deck link](https://www.mtggoldfish.com/deck/5907901#paper)
 
@@ -64,7 +64,7 @@ And since we mentioned the toolbox, let me write about it here too.
 
 #### Karn's Toolbox
 
-![](/images/Modern-Mono-Black-Coffers/Karns-Toolbox.jpg)
+![](/images/Modern-Mono-Black-Coffers/Karns-Toolbox.webp)
 
 The toolbox contents and their functions are:
 Engineered Explosives: sweeps tokens, especially for playing against Rhinos.

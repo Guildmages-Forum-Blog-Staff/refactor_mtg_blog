@@ -76,7 +76,7 @@ Rakdos Scam 除了有一回 {% mtglink "Grief" %} scamming 以外，還有 {% mt
 然後發現 {% mtglink "The One Ring" %} 打內戰超強，可以用海量的資源差壓死對手，沒有 {% mtglink "The One Ring" %} 的那一方會輸；同時打 Jeskai Control 之類會進入長盤對局時也很有用，咒語點數都很小，能拍戒指了不可能拍不出其他東西吧。
 
 > 而目前最新進度，是 WRx Energy 在正編開始帶 {% mtglink "Exorcise" %} 這種 hater 了 = =
-> ![](/images/Why-The-One-Ring-Should-Die/energy-decklist.png)
+> ![](/images/Why-The-One-Ring-Should-Die/energy-decklist.webp)
 
 同時也是因為這是 LTR 後第一次出現費用曲線這麼低的中速套牌，我覺得這是當初在設計時沒有想到的。
 

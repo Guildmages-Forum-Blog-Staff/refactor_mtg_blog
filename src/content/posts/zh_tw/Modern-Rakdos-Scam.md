@@ -41,7 +41,7 @@ authors:
 
 先上一下我的 Decklist 好了，[金魚連結](https://www.mtggoldfish.com/deck/5855475#paper)。
 
-![](/images/Modern-Rakdos-Scam/decklist.png)
+![](/images/Modern-Rakdos-Scam/decklist.webp)
 
 正編的東西幾乎都不能動，所以這邊改成列哪些牌可以動/可以選擇好了：
 
@@ -75,7 +75,7 @@ authors:
 一回 Scam 可以說是套牌的主要目標，藉由 Grief 和 Fury 用 evoke 費用（放逐一張同色手牌）進場會馬上犧牲（死掉）的特性，搭配假死術可以直接回場。
 除了生物會回場以外，更重要的是還會重新觸發一次進場異能。
 
-> ![](/images/Modern-Rakdos-Scam/undying.jpg)
+> ![](/images/Modern-Rakdos-Scam/undying.webp)
 > 這邊的 `假死術` 指的是這幾張牌（因為有太多張了所以都統稱假死術）：
 >
 > - Undying Evil

@@ -23,7 +23,7 @@ Add the Dec 4 BnR on top of that and the metagame has changed quite a bit. For t
 As usual, here is the metagame list at the time of writing, with data from MTG Goldfish.
 Because lists containing banned cards have already been removed, and to avoid skewing the usage rate of some decks (for example, Golgari Yawgmoth has the highest usage over the last 30 days simply because none of its lists were removed), I only used data from the last seven days, which should be a bit more accurate (?
 
-![](/images/Modern-Meta-12-13.png)
+![](/images/Modern-Meta-12-13.webp)
 
 Rhinos are now undoubtedly the leader of the meta. Murktide and Mono-Green Tron, which used to have a hard time against Scam, have seen much higher usage. It's possible that this is just the first week after the banned list update, and some people who didn't know what to play picked Murktide and Tron, two decks that weren't touched much and have answers for most matchups.
 

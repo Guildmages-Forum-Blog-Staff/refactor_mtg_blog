@@ -32,7 +32,7 @@ Nadu is arguably the most hated deck in the current format, bar none. You could 
 > For the actual odds of a turn-one Scam, see the article I wrote last year: [What's Wrong with Modern Lately?](https://guildmagesforum.tw/en/Whats-Wrong-Modern/).
 
 Especially these two fine charts, the meta breakdown and the win rate table:
-![](/images/Why-Nadu-Should-Die/meta.png)
+![](/images/Why-Nadu-Should-Die/meta.webp)
 ![](/images/Why-Nadu-Should-Die/win-rate.png)
 
 From the win rate table we can see that Nadu Combo is basically favored against every deck in the format, with an overall win rate of 59%, and among the main meta decks only Jeskai Control is slightly unfavorable.
@@ -43,7 +43,7 @@ Besides the combo, the deck has many flex slots that can hold all sorts of creat
 
 First, we need to understand what the Nadu deck is doing. A Nadu deck looks roughly like this:
 
-![](/images/Why-Nadu-Should-Die/bant-nadu-deck.png)
+![](/images/Why-Nadu-Should-Die/bant-nadu-deck.webp)
 
 > I copied this deck from a top-eight finisher at a recent Modern Challenge. Don't ask me why the sideboard has only 14 cards. I'd like to ask why only 14 as well...
 
@@ -84,7 +84,7 @@ Hey, it might really not be able to. It's true that banning {% mtgcard "Shuko" t
 
 And in the early MH3 environment, there was already a build that didn't need {% mtgcard "Shuko" tooltip=true %}:
 
-![](/images/Why-Nadu-Should-Die/neoform-nadu-deck.png)
+![](/images/Why-Nadu-Should-Die/neoform-nadu-deck.webp)
 
 Not to mention there's another card in the format, {% mtgcard "Lightning Greaves" tooltip=true %}, which is also a zero-mana targeting source, with the downside that it can't target the creature it was originally equipped to.
 
@@ -189,7 +189,7 @@ That leaves Pioneer to look at.
 Pioneer, I also think, is still fairly balanced. The one that probably messes with your head the most is Abzan Amalia Combo. Although according to a writer on a certain site it's a bad deck, that doesn't change the despair this deck brings. Sometimes it's not that you don't want to remove it, it's that you can't: for example, when Izzet Phoenix sees a {% mtgcard "Selfless Savior" tooltip=true %} on the battlefield and has only one removal spell in hand that can't remove {% mtgcard "Amalia Benavides Aguirre" tooltip=true %}, and after the opponent finishes the combo it still can't kill her; or when you see a {% mtgcard "Aetherflux Reservoir" tooltip=true %} left on top of the opponent's library, which is as despairing as it gets...
 I think the other decks are within the normal range of power, but is that Rakdos Vampires meta share really okay...?
 
-![](/images/Why-Nadu-Should-Die/pioneer-meta-rate.png)
+![](/images/Why-Nadu-Should-Die/pioneer-meta-rate.webp)
 
 ## Last of All: Personal Hopes
 

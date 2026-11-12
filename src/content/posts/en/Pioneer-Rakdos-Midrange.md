@@ -113,7 +113,7 @@ I used to also bring one Unlicensed Hearse, but recently it has hardly had a cha
 
 Finally, here's the [decklist link](https://www.mtggoldfish.com/deck/5713356#paper).
 
-![](/images/Rakdos_Midrange-min.png)
+![](/images/Rakdos_Midrange-min.webp)
 
 ## Starting Hands, Countermeasures and Mulligan
 

@@ -2,8 +2,8 @@
 title: "Pioneer 80 Four-Color Enigmatic Incarnation"
 date: "2023-11-03 12:21:02"
 excerpt: "Want to summon big monsters but don't want to pay for them properly?"
-cover: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.jpg"
-thumbnail: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.jpg"
+cover: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.webp"
+thumbnail: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.webp"
 categories:
   - "Construct"
   - "Pioneer"

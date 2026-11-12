@@ -24,7 +24,7 @@ The metagame information will mainly be based on mtggoldfish, with MITQ deck dis
 
 First, the meta table at the time of writing.
 
-![](/images/Modern-Meta-23-9-11.png)
+![](/images/Modern-Meta-23-9-11.webp)
 
 Below I'll do a rough survey deck by deck. If a deck isn't mentioned, it doesn't mean it isn't strong, just that it may not have changed or performed especially well in this week's inspection, so it wasn't brought up.
 

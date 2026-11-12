@@ -42,7 +42,7 @@ Murktide Regent 是現在唯一的大打點，以前還有 Ledger Shredder，不
 
 ### Spells
 
-![](/images/Izzet-Murktide/Spells.jpg)
+![](/images/Izzet-Murktide/Spells.webp)
 
 巫術瞬間蠻直觀的，Lightning Bolt 以及 Unholy Heat 是點燒，用來解場面用的。
 而 Consider, Preordain, Expressive Iteration 就是濾牌。
@@ -58,7 +58,7 @@ Murktide Regent 是現在唯一的大打點，以前還有 Ledger Shredder，不
 
 ### Sideboard
 
-![](/images/Izzet-Murktide/Sideboard.jpg)
+![](/images/Izzet-Murktide/Sideboard.webp)
 
 Sideboard 的部分跟之前沒差（也沒什麼好調整的，環境還是長得差不多），所以以下的內容為複製貼上（我就懶）。
 
@@ -92,7 +92,7 @@ Sideboard 的部分跟之前沒差（也沒什麼好調整的，環境還是長�
 1x Counterspell
 1x Lightning Bolt
 
-![](/images/Izzet-Murktide/Sample-hands-01.png)
+![](/images/Izzet-Murktide/Sample-hands-01.webp)
 
 算是很舒服，打什麼都能接的起手。
 
@@ -103,7 +103,7 @@ Sideboard 的部分跟之前沒差（也沒什麼好調整的，環境還是長�
 2x Consider
 1x Spell Pierce
 
-![](/images/Izzet-Murktide/Sample-hands-02.png)
+![](/images/Izzet-Murktide/Sample-hands-02.webp)
 
 也都能接，只是會稍微痛苦一點，而且會有一些細節上的差異等等會提到。
 

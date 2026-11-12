@@ -30,7 +30,7 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 > 關於一回 Scam 的機率究竟有多少，可以參考我去年寫的文章：[最近的近代怎麼了？](https://guildmagesforum.tw/Whats-Wrong-Modern/)。
 
 特別是這兩張精美的 meta 表和勝率表：
-![](/images/Why-Nadu-Should-Die/meta.png)
+![](/images/Why-Nadu-Should-Die/meta.webp)
 ![](/images/Why-Nadu-Should-Die/win-rate.png)
 
 從勝率表上我們可以發現，Nadu Combo 對上環境中所有套牌基本上都是優開的，overall 有 59% 的勝率，對上主要的 meta deck 中只有 Jeskai Control 稍微劣勢一點點。
@@ -41,7 +41,7 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 
 首先，我們需要先了解 Nadu 這套牌在做什麼，一套 Nadu 套牌大概會長這樣：
 
-![](/images/Why-Nadu-Should-Die/bant-nadu-deck.png)
+![](/images/Why-Nadu-Should-Die/bant-nadu-deck.webp)
 
 > 這個套牌是我從最近一場 Modern Challenge 中的八強抄來的，別問我為什麼備牌只有 14 張，我也想問為什麼只有 14 張⋯⋯
 
@@ -82,7 +82,7 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 
 而且在 MH3 環境初期就已經有了這套不需要 {% mtgcard "Shuko" tooltip=true %} 的構築：
 
-![](/images/Why-Nadu-Should-Die/neoform-nadu-deck.png)
+![](/images/Why-Nadu-Should-Die/neoform-nadu-deck.webp)
 
 更別說環境中還有另一張牌 {% mtgcard "Lightning Greaves" tooltip=true %}，同樣也是零費啟動的指定源，缺點是不能指在原本配戴的生物上。
 
@@ -187,7 +187,7 @@ Finally, we've also heard from many players that the repeated triggers caused by
 先驅目前我也覺得還算是平衡，可能真的比較搞心態的就是 Abzan Amalia Combo，雖然按照網站中某寫手的說法這是一套爛套牌，不過沒有改變這套帶來的絕望感，有時候不是不想解而是解不掉，例如 Izzet Phoenix 看到場上有 {% mtgcard "Selfless Savior" tooltip=true %} 時手上只有一張解牌無法解掉 {% mtgcard "Amalia Benavides Aguirre" tooltip=true %}、等到對面做完後也點不死，或者是看到對手牌庫頂留了一張 {% mtgcard "Aetherflux Reservoir" tooltip=true %}，要有多絕望有多絕望⋯⋯
 其他套牌我認為屬於正常強度範圍，不過 Rakdos Vampires 辣個 meta 使用率是沒問題的嗎⋯⋯？
 
-![](/images/Why-Nadu-Should-Die/pioneer-meta-rate.png)
+![](/images/Why-Nadu-Should-Die/pioneer-meta-rate.webp)
 
 ## 最後的最後：個人希望
 

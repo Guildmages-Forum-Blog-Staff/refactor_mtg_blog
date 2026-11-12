@@ -92,7 +92,7 @@ authors:
 
 ## 找地的時機
 
-![](https://guildmagesforum.tw/images/memes/tishanas-tidebinder-is-stone-rain.png)
+![](https://guildmagesforum.tw/images/memes/tishanas-tidebinder-is-stone-rain.webp)
 
 通常在使用找地地的時候，會喜歡在對手的回合末找——這樣可以保留找躺地的彈性，省電震地要付的兩點血。
 但這件事情在 LCI 後改變了，如果對手有帶藍還需要留意對手的費用使否足夠閃現 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)，為了省那兩點血被炸一塊地可說是得不償失。

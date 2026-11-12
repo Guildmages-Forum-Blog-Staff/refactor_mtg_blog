@@ -53,7 +53,7 @@ excerpt: "我要把你的丹丹康回牌庫頂，下回合再抽起來"
 一套標準的牌表會長這樣：
 [牌表連結](https://www.mtggoldfish.com/deck/7709229)
 
-![](https://guildmagesforum.tw/images/dandan-list.jpeg)
+![](https://guildmagesforum.tw/images/dandan-list.webp)
 
 ```
 10x Dandân

@@ -22,7 +22,7 @@ The meta data is again mainly from mtggoldfish, since there aren't many Pioneer 
 
 As usual, here is the meta table at the time of writing.
 
-![](/images/Pioneer-Meta-23-9-18.png)
+![](/images/Pioneer-Meta-23-9-18.webp)
 
 Below I'll discuss each deck separately, focusing only on changes in the environment and not going into too much detail (unless necessary).
 
