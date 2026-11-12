@@ -35,9 +35,9 @@ function introFor(data: AuthorEntryData, lang: Lang): string[] {
   return lang === 'en' && data.intro_en.length > 0 ? data.intro_en : spaceIntro(data.intro_zh);
 }
 
-function toAuthor(id: string, data: AuthorEntryData, lang: Lang) {
-  const { intro_zh: _zh, intro_en: _en, ...rest } = data;
-  return { id, ...rest, intro: introFor(data, lang) };
+function toAuthor(id: string, data: AuthorEntryData, lang: Lang): AuthorData & { id: string } {
+  const { username, name, avatar, url } = data;
+  return { id, username, name, avatar, url, intro: introFor(data, lang) };
 }
 
 export async function getAllAuthors(lang: Lang = DEFAULT_LANG) {
