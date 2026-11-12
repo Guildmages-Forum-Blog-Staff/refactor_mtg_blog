@@ -53,7 +53,7 @@ const gaId = import.meta.env.PUBLIC_GA_ID;
 const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
 // Shared by the async <link> and its <noscript> fallback.
 const GOOGLE_FONTS_HREF =
-  'https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap';
+  'https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap';
 ---
 
 <!doctype html>
@@ -102,7 +102,7 @@ const GOOGLE_FONTS_HREF =
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- Non-render-blocking: the CJK css is ~70 KB of @font-face rules and used to delay LCP. -->
+    <!-- Non-render-blocking: the CJK css is a long list of @font-face rules and used to delay LCP. -->
     <link href={GOOGLE_FONTS_HREF} rel="stylesheet" media="print" onload="this.media='all'" />
     <noscript>
       <link href={GOOGLE_FONTS_HREF} rel="stylesheet" />
