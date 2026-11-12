@@ -48,7 +48,7 @@ The best one-mana removal in the environment.
 4x Thoughtseize
 The best discard in the environment.
 4x Fable of the Mirror-Breaker
-A card so strong in Standard that it got banned; there's no reason not to run the full four. It filters, makes a Goblin, makes Treasure, and is also a win con.
+A card so strong in Standard that it got banned; there's no reason not to run the full four. It filters, makes a Goblin, makes Treasure, and is also a win con (and a "how to lose").
 25x ~ 26x Lands
 I'll write more about the lands later.
 
