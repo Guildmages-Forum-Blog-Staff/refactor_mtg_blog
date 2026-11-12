@@ -65,14 +65,14 @@
     position: fixed;
     inset: 0;
     z-index: -1;
-    background-image: url('/images/bg-lotus-plains.jpg');
+    background-image: url('/images/bg-lotus-plains.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
 
   html.dark::before {
-    background-image: url('/images/bg-lotus-swamp.jpg');
+    background-image: url('/images/bg-lotus-swamp.webp');
   }
 
   body {
