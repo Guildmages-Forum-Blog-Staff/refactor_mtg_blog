@@ -15,7 +15,7 @@ authors:
 
 ## Before We Start
 
-After MIT Season 2's Standard event ended in March 2023, I saw champion SamuelChang's [UW Soldiers journey](https://www.facebook.com/permalink.php?story_fbid=pfbid02m9mJC4oy9RGqtnPnEbXLTNBnr7WKHdC5mjxNoZkvCzQuRnZ5egYx5pR6b5Sg4uSMl&id=100063848411689) posted on his Facebook page [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689) and was deeply inspired. Anyone interested is very welcome to go back and read it too, since its reasoning about deckbuilding and its understanding of individual cards basically still apply today. Since then I have mainly played UW Soldiers in Standard, for half a year now.
+After MIT Season 2's Standard event ended in March 2023, I saw champion Lin Cheng-Han's [UW Soldiers journey](https://www.facebook.com/permalink.php?story_fbid=pfbid02m9mJC4oy9RGqtnPnEbXLTNBnr7WKHdC5mjxNoZkvCzQuRnZ5egYx5pR6b5Sg4uSMl&id=100063848411689) posted on his Facebook page [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689) and was deeply inspired. Anyone interested is very welcome to go back and read it too, since its reasoning about deckbuilding and its understanding of individual cards basically still apply today. Since then I have mainly played UW Soldiers in Standard, for half a year now.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-UW-Solider/41411959bcfb.webp)
 
