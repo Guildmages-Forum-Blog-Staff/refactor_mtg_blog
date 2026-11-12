@@ -55,7 +55,8 @@ function headingsInBlocks(body: string): number {
   return count;
 }
 
-const posts = readdirSync(POSTS_DIR)
+// Recursive: posts live under per-language dirs (zh_tw/, en/).
+const posts = readdirSync(POSTS_DIR, { recursive: true, encoding: 'utf8' })
   .filter((name) => name.endsWith('.md'))
   .sort()
   .map(loadPost)
