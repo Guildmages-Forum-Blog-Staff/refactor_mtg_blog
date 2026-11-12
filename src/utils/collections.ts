@@ -13,13 +13,29 @@ export async function getListedPosts(lang: Lang) {
   return excludePreviewPosts(await getPosts(lang));
 }
 
-/** Which posts and category pages exist in `lang` (see counterpartPath). */
-export async function getLangIndex(lang: Lang): Promise<LangIndex> {
-  const posts = await getPosts(lang);
+async function buildLangIndex(lang: Lang): Promise<LangIndex> {
+  // Listed posts only: the toggle and hreflang must never point at a
+  // `preview: true` draft in the other language.
+  const posts = await getListedPosts(lang);
   return {
     slugs: new Set(posts.map((p) => postSlug(p.id))),
-    categories: new Set(excludePreviewPosts(posts).flatMap((p) => p.data.categories)),
+    categories: new Set(posts.flatMap((p) => p.data.categories)),
   };
+}
+
+// Built once per language per production build (every page asks, twice:
+// BaseLayout and Navbar). Not cached in dev, so added posts show up live.
+const langIndexCache = new Map<Lang, Promise<LangIndex>>();
+
+/** Which listed posts and category pages exist in `lang` (see counterpartPath). */
+export function getLangIndex(lang: Lang): Promise<LangIndex> {
+  if (!import.meta.env.PROD) return buildLangIndex(lang);
+  let index = langIndexCache.get(lang);
+  if (!index) {
+    index = buildLangIndex(lang);
+    langIndexCache.set(lang, index);
+  }
+  return index;
 }
 
 /**
