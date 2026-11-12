@@ -1,5 +1,6 @@
 // Per-category <meta description> and intro text for /categories/<cat>/.
 // Set names follow the ones used in this site's own post titles.
+import type { Lang } from '../i18n';
 
 /** Set code → set name as written on this site. */
 export const SET_NAMES: Record<string, string> = {
@@ -23,6 +24,30 @@ export const SET_NAMES: Record<string, string> = {
   TMT: '忍者龜',
   TRK: '星艦迷航',
   WOE: '艾卓荒野',
+};
+
+/** Set code → official English set name. */
+const SET_NAMES_EN: Record<string, string> = {
+  BLB: 'Bloomburrow',
+  DFT: 'Aetherdrift',
+  DSK: 'Duskmourn: House of Horror',
+  ECL: 'Lorwyn Eclipsed',
+  EOE: 'Edge of Eternities',
+  FDN: 'Foundations',
+  FIN: 'Final Fantasy',
+  FRA: 'Reality Fracture',
+  HOB: 'The Hobbit',
+  LCI: 'The Lost Caverns of Ixalan',
+  MKM: 'Murders at Karlov Manor',
+  MSH: 'Marvel Super Heroes',
+  OTJ: 'Outlaws of Thunder Junction',
+  SOS: 'Secrets of Strixhaven',
+  SPM: "Marvel's Spider-Man",
+  TDM: 'Tarkir: Dragonstorm',
+  TLA: 'Avatar: The Last Airbender',
+  TMT: 'Teenage Mutant Ninja Turtles',
+  TRK: 'Star Trek',
+  WOE: 'Wilds of Eldraine',
 };
 
 const DESCRIPTIONS: Record<string, string> = {
@@ -53,13 +78,63 @@ const DESCRIPTIONS: Record<string, string> = {
   'GMF Staff': "Guildmages' Forum 魔風集會所營運公告與週年報告。",
 };
 
-/** Heading text: set codes get their name, e.g. "暮悲邸（DSK）". */
-export function categoryLabel(cat: string): string {
+const DESCRIPTIONS_EN: Record<string, string> = {
+  Limited:
+    'Magic: The Gathering Limited (Draft and Sealed) guides: colour-by-colour card reviews, mechanics breakdowns and draft/sealed notes for every new set.',
+  Construct:
+    'Magic: The Gathering constructed articles: deck techs, deckbuilding ideas, metagame analysis and tournament notes for Standard, Pioneer, Modern and Legacy.',
+  Standard:
+    'Magic: The Gathering Standard guides: top decks, deckbuilding ideas, sideboard guides and metagame analysis for every set.',
+  Pioneer:
+    'Magic: The Gathering Pioneer guides: deck techs, deckbuilding ideas, metagame analysis and tournament decklists.',
+  Modern:
+    'Magic: The Gathering Modern guides: deck techs, deckbuilding ideas, metagame analysis and tournament decklists.',
+  Legacy: 'Magic: The Gathering Legacy decks and gameplay articles.',
+  Beginner:
+    'Magic: The Gathering (MTG) beginner guides: getting started, deckbuilding basics and how to improve at Limited.',
+  'Level One':
+    "Reid Duke's Level One series: foundational lessons on aggro, midrange, control and other archetypes, plus a glossary of terms.",
+  'MTG Rules':
+    'Magic: The Gathering rules explained: card interactions, ability rulings and common rules questions, with clear examples.',
+  Tournaments:
+    "Magic: The Gathering tournament articles: event records, recaps and reports from Taiwan's MIT series and major events abroad.",
+  MIT: "MIT, Taiwan's Magic: The Gathering tournament series: past event records, recaps and champion interviews.",
+  Overseas:
+    'Taiwanese players at Magic: The Gathering events abroad: MagicCon, the World Championship and other major tournaments.',
+  Interview:
+    'Magic: The Gathering interviews with Taiwanese players, World Championship competitors and community figures.',
+  Others:
+    'Magic: The Gathering articles beyond rules and competition: interviews, card stories, player essays and casual play.',
+  'Card Lore':
+    'Magic: The Gathering cards and lore: yearly retrospectives, the evolution of planeswalkers and changes in card design.',
+  'MTG Anecdote':
+    'Magic: The Gathering musings: thoughts on product and rules changes, community event records and player essays.',
+  'Deep Dive':
+    'Magic: The Gathering deep dives: deck strategy breakdowns and quantitative looks at game mechanics.',
+  'Playing Skills': 'Magic: The Gathering gameplay tips: the small details that decide games.',
+  Casual: 'Magic: The Gathering casual formats and fun decks.',
+  Cube: 'Magic: The Gathering Cube: what a Cube is, and how to design and maintain your own.',
+  'GMF Staff': "Guildmages' Forum announcements and anniversary reports.",
+};
+
+/** Heading text: set codes get their name, e.g. "暮悲邸（DSK）" / "Duskmourn: House of Horror (DSK)". */
+export function categoryLabel(cat: string, lang: Lang = 'zh-tw'): string {
+  if (lang === 'en') {
+    const name = SET_NAMES_EN[cat];
+    return name ? `${name} (${cat})` : cat;
+  }
   const name = SET_NAMES[cat];
   return name ? `${name}（${cat}）` : cat;
 }
 
-export function categoryDescription(cat: string): string {
+export function categoryDescription(cat: string, lang: Lang = 'zh-tw'): string {
+  if (lang === 'en') {
+    if (DESCRIPTIONS_EN[cat]) return DESCRIPTIONS_EN[cat];
+    const name = SET_NAMES_EN[cat];
+    if (name)
+      return `${name} (${cat}) articles: Limited colour-by-colour card reviews, mechanics breakdowns and draft/sealed notes.`;
+    return `Magic: The Gathering articles in the "${cat}" category on Guildmages' Forum.`;
+  }
   if (DESCRIPTIONS[cat]) return DESCRIPTIONS[cat];
   const name = SET_NAMES[cat];
   if (name) return `${name}（${cat}）系列文章：限制賽分色卡牌介紹、機制解析與輪抽／現開心得。`;

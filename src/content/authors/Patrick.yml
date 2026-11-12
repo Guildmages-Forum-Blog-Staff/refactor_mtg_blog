@@ -1,6 +1,10 @@
 username: Patrick
 name: "子丞"
+name_en: "Patrick"
 avatar: "/images/patrick.jpeg"
-intro: [
+intro_zh: [
   "從卡拉德許開始加入的微競爭玩家，喜歡享受大賽的感覺。基本上只打標準賽制，蘇勒台信徒，無論環境如何輪替蘇勒台之魂一直都在。"
+]
+intro_en: [
+  "A semi-competitive player since Kaladesh who loves the feel of big events. Plays Standard almost exclusively. A Sultai devotee — no matter how the format rotates, the spirit of Sultai lives on.",
 ]

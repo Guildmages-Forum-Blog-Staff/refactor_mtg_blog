@@ -1,8 +1,14 @@
 username: Requiem_Black
 name: "阿殘"
+name_en: "Requiem_Black"
 avatar: "/images/Requiem_Black-avatar.jpg"
-intro: [
+intro_zh: [
   "魔風業餘玩家，從M14新手教學入門到現在，成長緩慢。",
   "受到新竹新世紀主場玩家前輩與同期們的照顧，每場都不放水很 tough，即使近乎被當沙包打，也要朝著不要被直落 2 的目標前進！",
   "常態輪抽與現開，偶爾標準與活動新手教學擔當。",
+]
+intro_en: [
+  "An amateur Magic player who started with the M14 tutorial and has been growing slowly ever since.",
+  "Looked after by the seniors and peers at my home store in Hsinchu, who never go easy on me and are very tough. Even when I'm basically their punching bag, I keep aiming not to lose 0-2!",
+  "Regularly plays draft and sealed, occasionally Standard, and helps out with newcomer tutorials at events.",
 ]

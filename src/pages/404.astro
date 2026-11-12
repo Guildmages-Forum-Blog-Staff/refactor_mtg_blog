@@ -5,7 +5,8 @@ import Navbar from '../components/Navbar.astro';
 const base = import.meta.env.BASE_URL;
 ---
 
-<BaseLayout title="404 找不到頁面" canonical={false}>
+<!-- GitHub Pages serves this single 404.html for every language, so it is bilingual. -->
+<BaseLayout title="404 找不到頁面 / Page Not Found" canonical={false}>
   <Navbar />
   <main class="mx-auto max-w-4xl px-4 py-10">
     <div
@@ -14,12 +15,26 @@ const base = import.meta.env.BASE_URL;
       <h1 class="text-primary text-6xl font-bold">404</h1>
       <p class="mt-4 text-xl text-gray-900 dark:text-gray-100">找不到這個頁面</p>
       <p class="mt-2 text-gray-500 dark:text-gray-400">可能是連結有誤，或頁面已被移除。</p>
-      <a
-        href={base}
-        class="bg-primary mt-8 rounded-full px-6 py-2 font-medium text-white transition hover:opacity-90"
-      >
-        回首頁
-      </a>
+      <p class="mt-6 text-xl text-gray-900 dark:text-gray-100" lang="en">Page not found</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400" lang="en">
+        The link may be wrong, or the page has been removed.
+      </p>
+      <div class="mt-8 flex gap-3">
+        <a
+          href={base}
+          class="bg-primary rounded-full px-6 py-2 font-medium text-white transition hover:opacity-90"
+        >
+          回首頁
+        </a>
+        <a
+          href={`${base}en/`}
+          lang="en"
+          data-astro-reload
+          class="border-primary text-primary rounded-full border px-6 py-2 font-medium transition hover:opacity-90"
+        >
+          English Home
+        </a>
+      </div>
     </div>
   </main>
 </BaseLayout>

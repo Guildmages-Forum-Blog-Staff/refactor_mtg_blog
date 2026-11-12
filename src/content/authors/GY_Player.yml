@@ -1,9 +1,16 @@
 username: GY_Player
 name: "GY_Player"
+name_en: "GY_Player"
 avatar: "/images/GY-avatar.jpg"
-intro: [
+intro_zh: [
   "標準、先驅、近代、PAUPER、指揮官（官禁多人、法禁、破誓者、CEDH、PEDH）都有接觸。",
   "樣樣通樣樣鬆型玩家。",
   "永遠喜歡墳場套牌，但實際上最常打的則是節奏套牌。",
   "最近在做CUBE。"
+]
+intro_en: [
+  "Has dabbled in Standard, Pioneer, Modern, Pauper and Commander (multiplayer, Duel Commander, Oathbreaker, cEDH, PEDH).",
+  "Jack of all trades, master of none.",
+  "Forever in love with graveyard decks, though what I actually play most is tempo.",
+  "Building a Cube lately.",
 ]

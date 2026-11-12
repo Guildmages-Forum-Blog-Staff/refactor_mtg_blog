@@ -23,9 +23,12 @@ const authors = defineCollection({
   schema: z.object({
     username: z.string(),
     name: z.string(),
+    /** Display name on English pages; falls back to `name`. */
+    name_en: z.string().optional(),
     avatar: z.string(),
     url: z.string().optional(),
-    intro: z.array(z.string()).default([]),
+    intro_zh: z.array(z.string()).default([]),
+    intro_en: z.array(z.string()).default([]),
   }),
 });
 

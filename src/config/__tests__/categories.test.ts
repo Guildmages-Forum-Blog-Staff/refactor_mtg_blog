@@ -17,7 +17,7 @@ describe('categoryDescription', () => {
   });
 
   it('has a specific (non-fallback) description for every category used by posts', () => {
-    const dir = 'src/content/posts';
+    const dir = 'src/content/posts/zh_tw';
     const cats = new Set(
       readdirSync(dir)
         .filter((f) => /\.mdx?$/.test(f))
@@ -31,7 +31,18 @@ describe('categoryDescription', () => {
         })
         .filter(Boolean),
     );
+    expect(cats.size).toBeGreaterThan(0);
     const missing = [...cats].filter((c) => categoryDescription(c).includes(`「${c}」`));
     expect(missing).toEqual([]);
+    // Every category with a zh description and every set needs an English one too.
+    const missingEn = [...cats].filter((c) => categoryDescription(c, 'en').includes(`"${c}"`));
+    expect(missingEn).toEqual([]);
+  });
+
+  it('labels and describes in English', () => {
+    expect(categoryLabel('DSK', 'en')).toBe('Duskmourn: House of Horror (DSK)');
+    expect(categoryLabel('Standard', 'en')).toBe('Standard');
+    expect(categoryDescription('DSK', 'en')).toContain('Duskmourn: House of Horror (DSK)');
+    expect(categoryDescription('XYZ', 'en')).toContain('"XYZ"');
   });
 });

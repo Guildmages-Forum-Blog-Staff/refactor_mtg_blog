@@ -1,5 +1,9 @@
 username: gmf-staff
 name: "Guildmages' Forum Staff"
+name_en: "Guildmages' Forum Staff"
 avatar: "/images/logo.jpg"
 url: "/"
-intro: [ "Guildmages' Forum Staff" ]
+intro_zh: [ "Guildmages' Forum Staff" ]
+intro_en: [
+  "Guildmages' Forum Staff",
+]

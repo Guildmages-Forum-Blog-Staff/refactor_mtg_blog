@@ -1,0 +1,11 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import CategoryPage from '../../../../views/CategoryPage.astro';
+import { categoryPaths } from '../../../../utils/static-paths';
+
+export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  return categoryPaths(paginate, 'en');
+}
+---
+
+<CategoryPage {...Astro.props} />

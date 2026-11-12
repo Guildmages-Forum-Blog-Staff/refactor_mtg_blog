@@ -8,19 +8,19 @@
 
 <!-- AUTO-GENERATED from package.json scripts -->
 
-| Command                                   | Description                        |
-| ----------------------------------------- | ---------------------------------- |
-| `npm run dev`                             | Dev server at localhost:4321       |
-| `npm run build`                           | Production build + pagefind index  |
-| `npm run preview`                         | Preview production build locally   |
-| `npm run check`                           | Astro type-check                   |
-| `npm run lint` / `lint:fix`               | ESLint                             |
-| `npm run lint:tags`                       | Lint MTG card tags                 |
-| `npm run format` / `format:check`         | Prettier                           |
-| `npm run test`                            | Run tests once                     |
-| `npm run test:watch`                      | Watch mode                         |
-| `npm run test:coverage`                   | Coverage report                    |
-| `npm run post -- <hackmd-url> <filename>` | Import a HackMD note as a new post |
+| Command                                               | Description                        |
+| ----------------------------------------------------- | ---------------------------------- |
+| `npm run dev`                                         | Dev server at localhost:4321       |
+| `npm run build`                                       | Production build + pagefind index  |
+| `npm run preview`                                     | Preview production build locally   |
+| `npm run check`                                       | Astro type-check                   |
+| `npm run lint` / `lint:fix`                           | ESLint                             |
+| `npm run lint:tags`                                   | Lint MTG card tags                 |
+| `npm run format` / `format:check`                     | Prettier                           |
+| `npm run test`                                        | Run tests once                     |
+| `npm run test:watch`                                  | Watch mode                         |
+| `npm run test:coverage`                               | Coverage report                    |
+| `npm run post -- <hackmd-url> <filename> [--lang en]` | Import a HackMD note as a new post |
 
 <!-- END AUTO-GENERATED -->
 
@@ -36,17 +36,30 @@ npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts  # single plugin te
 
 ## Content Collections (`src/content/`)
 
-- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`, `preview?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
+- `posts/zh_tw/` and `posts/en/` — MDX, one dir per language (see **i18n**). The slug is the path below the language dir. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`, `preview?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
 - `preview: true` hides a post from the home/category/author listings, RSS feed, related-posts, sitemap, and pagefind search index (via `excludePreviewPosts` in `src/utils/posts.ts` and `getPreviewSlugs` in `src/utils/sitemap-filter.ts`) — the post's own page still builds and is reachable by direct URL
-- `authors/` — YAML. Schema: `username`, `name`, `avatar`, `url?`, `intro[]`
+- `authors/` — YAML. Schema: `username`, `name`, `name_en?` (English display name; username when `name` is Chinese), `avatar`, `url?`, `intro_zh[]`, `intro_en[]` (English translation; falls back to `intro_zh` when empty)
 
-Author slugs in frontmatter must match YAML filename in `src/content/authors/`. Author loaders in `src/utils/authors.ts` run each `intro[]` line through `pangu.spacingText` at load time so YAML intros get the same CJK↔ASCII spacing as post bodies (which go through `rehype-pangu`).
+Author slugs in frontmatter must match YAML filename in `src/content/authors/`. Author loaders in `src/utils/authors.ts` run each `intro_zh[]` line through `pangu.spacingText` at load time so YAML intros get the same CJK↔ASCII spacing as post bodies (which go through `rehype-pangu`).
 
 ## Routing
+
+Route files in `src/pages/` are thin: they pick a language and render a view from `src/views/*.astro`. `getStaticPaths` builders live in `src/utils/static-paths.ts`.
 
 - `[slug].astro` — post pages
 - `[...page].astro` — paginated home
 - `categories/[cat]/[...page].astro` — paginated category pages
+- `authors/[username]/[...page].astro` — author pages (every author gets one in every language)
+- `en/...` — the same routes for English
+
+## i18n
+
+- zh-TW lives at the site root (pre-i18n URLs unchanged); English under `/en/`. Helpers in `src/i18n/index.ts` (`localePath`, `langFromPath`, `stripLang`).
+- Views get their language from `langFromPath(Astro.url.pathname)`; UI strings come from `useTranslations(lang)` in `src/i18n/ui.ts` (both dictionaries share one type).
+- Post language comes from its dir (`postLang`); listings, categories, related posts and RSS (`/rss.xml`, `/en/rss.xml`) only use the page's language (`getPosts` / `getListedPosts` in `src/utils/collections.ts`).
+- The navbar toggle and `hreflang` alternates use `counterpartPath` (`src/i18n/counterpart.ts`): same page if it exists in the other language, else that language's home (or category index). The persisted header is keyed per language and re-reads `<meta name="gmf:lang-switch">` after each swap.
+- Waline thread key: zh posts `/<slug>/` (unchanged), en posts `/en/<slug>/`.
+- Category labels/descriptions take a `lang` (`src/config/categories.ts`); calendar date formatting too (`src/utils/calendar.ts`).
 
 ## Markdown Plugins (`src/plugins/`)
 
@@ -82,7 +95,7 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 
 ## Post Import
 
-`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/<filename>.md`, overwriting the file if it already exists. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it.
+`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/zh_tw/<filename>.md` (or `posts/en/` with `--lang en`), overwriting the file if it already exists. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it.
 
 When `IMAGES_DIR` points at a clone of the `images` repo (post-bot sets it), `scripts/localize-images.ts` copies images from imgur / meee / postimg / `hackmd.io/_uploads` into `<IMAGES_DIR>/posts/<filename>/` (body → 1200px WebP, cover/thumbnail → 1200px JPEG, GIF untouched) and rewrites the URLs to `images.guildmagesforum.tw`. A failed image keeps its original URL and prints an `[images] WARN` line; it never fails the import.
 
@@ -97,5 +110,5 @@ Tailwind v4 CSS-first config — no `tailwind.config.{js,ts}`. Theme tokens live
 ## Vue Components
 
 - `TableOfContents.vue` — sticky TOC, `IntersectionObserver`, fixed back-to-top button aligned to sidebar right edge
-- `ArticleAuthorHeader.vue` / `ArticleAuthorFooter.vue` — author display
-- `WalineComments.vue` — comments (`client:only="vue"`)
+- `ArticleAuthorHeader.vue` / `ArticleAuthorFooter.vue` — author display (take a `lang` prop)
+- `WalineComments.vue` — comments (`client:only="vue"`, `path` + `lang` props)

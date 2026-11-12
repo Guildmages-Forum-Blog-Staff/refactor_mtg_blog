@@ -1,6 +1,10 @@
 username: "Sekun"
 name: "Khó͘ Se̍k-un"
+name_en: "Khó͘ Se̍k-un"
 avatar: "/images/Sekun-avatar.jpg"
-intro: [
+intro_zh: [
   "台灣人，嘉義人，在傷害還會上堆疊的時代開始打輪抽，DCI號碼七位數，現為不時打MO跟MTGA的中年大叔。"
+]
+intro_en: [
+  "Taiwanese, from Chiayi. Started drafting back when damage still used the stack, with a seven-digit DCI number. Now a middle-aged guy who plays MTGO and MTGA from time to time.",
 ]

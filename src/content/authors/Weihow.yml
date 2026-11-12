@@ -1,6 +1,10 @@
 username: Weihow
 name: "哩哩扣扣"
+name_en: "Weihow"
 avatar: "/images/weihow-avatar.jpg"
-intro: [
+intro_zh: [
   "MKM時期加入的玩家。構築和限制賽有時間就會參與，但沒打過指揮官跟薪傳。沒有特定愛好色組，每個色組都會想嘗試。"
+]
+intro_en: [
+  "Joined during Murders at Karlov Manor. Plays constructed and limited when I have time, but has never played Commander or Legacy. No favourite colour pair — I want to try every one.",
 ]

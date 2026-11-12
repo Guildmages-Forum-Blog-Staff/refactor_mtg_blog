@@ -11,7 +11,7 @@ import { localizeImages, type CoverFields } from './localize-images';
 const POSTS_DIR = path.join(
   path.dirname(fileURLToPath(import.meta.url)),
   '..',
-  'src/content/posts',
+  'src/content/posts/zh_tw',
 );
 
 /** Replaces URLs inside the front-matter block only, leaving formatting and the body untouched. */

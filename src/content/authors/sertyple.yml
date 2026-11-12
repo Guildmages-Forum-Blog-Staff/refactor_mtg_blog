@@ -1,7 +1,11 @@
 username: "sertyple"
 name: "老曹"
+name_en: "sertyple"
 avatar: "/images/sertyple-avatar.webp"
 links: "/tags/sertyple"
-intro: [
+intro_zh: [
   "峰會拉尼卡入坑的前EDH玩家，現在在認真學打構築當中",
+]
+intro_en: [
+  "A former EDH player who joined during Ravnica Allegiance, now seriously learning to play constructed.",
 ]

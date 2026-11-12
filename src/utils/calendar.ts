@@ -1,4 +1,21 @@
+import type { Lang } from '../i18n';
+
 const WEEKDAY_SHORT = ['週日', '週一', '週二', '週三', '週四', '週五', '週六'];
+const WEEKDAY_EN = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+const MONTH_EN = [
+  'Jan',
+  'Feb',
+  'Mar',
+  'Apr',
+  'May',
+  'Jun',
+  'Jul',
+  'Aug',
+  'Sep',
+  'Oct',
+  'Nov',
+  'Dec',
+];
 const TAIPEI_OFFSET_MS = 8 * 60 * 60 * 1000;
 
 function pad2(n: number): string {
@@ -35,12 +52,21 @@ function sameDay(a: Date, b: Date): boolean {
   return dayStart(a) === dayStart(b);
 }
 
-/** Compose e.g. "2026年11月13日週五", optionally dropping the leading year/month. */
+/**
+ * Compose e.g. "2026年11月13日週五", optionally dropping the leading year/month.
+ * English renders "Fri, Nov 13, 2026"; it only ever drops the year (a bare
+ * "Sun 15" reads oddly in English), so `month` is ignored there.
+ */
 function ymd(
   d: Date,
   { year = true, month = true }: { year?: boolean; month?: boolean } = {},
+  lang: Lang = 'zh-tw',
 ): string {
   const t = toTaipei(d);
+  if (lang === 'en') {
+    const s = `${WEEKDAY_EN[t.getUTCDay()]}, ${MONTH_EN[t.getUTCMonth()]} ${t.getUTCDate()}`;
+    return year ? `${s}, ${t.getUTCFullYear()}` : s;
+  }
   let s = '';
   if (year) s += `${t.getUTCFullYear()}年`;
   if (month) s += `${t.getUTCMonth() + 1}月`;
@@ -57,9 +83,14 @@ function time(d: Date): string {
  * Render an event's date as display text. Multi-day events become a range with
  * repeated leading components (year, then month) collapsed onto the end date.
  */
-export function formatEventDate(start: Date, end: Date, allDay: boolean): string {
+export function formatEventDate(
+  start: Date,
+  end: Date,
+  allDay: boolean,
+  lang: Lang = 'zh-tw',
+): string {
   const last = inclusiveEnd(start, end, allDay);
-  const startStr = ymd(start);
+  const startStr = ymd(start, {}, lang);
 
   if (sameDay(start, last)) {
     return allDay ? startStr : `${startStr} ${time(start)} – ${time(end)}`;
@@ -68,10 +99,11 @@ export function formatEventDate(start: Date, end: Date, allDay: boolean): string
   const startT = toTaipei(start);
   const lastT = toTaipei(last);
   const crossYear = lastT.getUTCFullYear() !== startT.getUTCFullYear();
-  const endStr = ymd(last, {
-    year: crossYear,
-    month: crossYear || lastT.getUTCMonth() !== startT.getUTCMonth(),
-  });
+  const endStr = ymd(
+    last,
+    { year: crossYear, month: crossYear || lastT.getUTCMonth() !== startT.getUTCMonth() },
+    lang,
+  );
 
   if (allDay) return `${startStr} – ${endStr}`;
   return `${startStr} ${time(start)} – ${endStr} ${time(end)}`;
@@ -92,12 +124,17 @@ export interface EventBadge {
  * duration; multi-day events are distinguished purely by style (see the bottom
  * bar in calendar.astro), with `spanDays` feeding an accessible "共 N 天" title.
  */
-export function eventBadge(start: Date, end: Date, allDay: boolean): EventBadge {
+export function eventBadge(
+  start: Date,
+  end: Date,
+  allDay: boolean,
+  lang: Lang = 'zh-tw',
+): EventBadge {
   const last = inclusiveEnd(start, end, allDay);
   const spanDays = Math.round((dayStart(last) - dayStart(start)) / 86_400_000) + 1;
   const startT = toTaipei(start);
   return {
-    month: `${startT.getUTCMonth() + 1}月`,
+    month: lang === 'en' ? MONTH_EN[startT.getUTCMonth()] : `${startT.getUTCMonth() + 1}月`,
     day: String(startT.getUTCDate()),
     multiDay: spanDays > 1,
     spanDays,

@@ -14,9 +14,11 @@ const mockAuthors = [
     data: {
       username: 'MiohitoKiri5474',
       name: '台南猴王的耍猴日常',
+      name_en: 'MiohitoKiri5474',
       avatar: '/images/mio-avatar.JPG',
       url: '/tags/miohitokiri5474/',
-      intro: ['intro line 1', 'intro line 2'],
+      intro_zh: ['intro line 1', 'intro line 2'],
+      intro_en: ['en line 1', 'en line 2'],
     },
   },
   {
@@ -26,7 +28,8 @@ const mockAuthors = [
       name: 'Jeroba',
       avatar: '/images/jeroba-avatar.jpg',
       url: '/tags/jerobamtg/',
-      intro: ['jeroba intro'],
+      intro_zh: ['jeroba intro'],
+      intro_en: [],
     },
   },
 ];
@@ -191,7 +194,8 @@ describe('intro spacing', () => {
         username: 'PanguAuthor',
         name: 'Pangu Tester',
         avatar: '/images/x.jpg',
-        intro: ['畢業於MIT', '常駐於Taipei市', 'already spaced line'],
+        intro_zh: ['畢業於MIT', '常駐於Taipei市', 'already spaced line'],
+        intro_en: [],
       },
     },
   ];
@@ -213,5 +217,49 @@ describe('intro spacing', () => {
   it('getPostAuthors spaces CJK<>ASCII boundaries in intro lines', async () => {
     const authors = await getPostAuthors(['PanguAuthor']);
     expect(authors[0].intro).toEqual(['畢業於 MIT', '常駐於 Taipei 市', 'already spaced line']);
+  });
+});
+
+describe('intro language', () => {
+  it('defaults to the zh intro and drops the raw intro_* fields', async () => {
+    const author = await getAuthorById('MiohitoKiri5474');
+    expect(author?.intro).toEqual(['intro line 1', 'intro line 2']);
+    expect(author).not.toHaveProperty('intro_zh');
+    expect(author).not.toHaveProperty('intro_en');
+  });
+
+  it('returns intro_en for en', async () => {
+    const authors = await getPostAuthors(['MiohitoKiri5474'], 'en');
+    expect(authors[0].intro).toEqual(['en line 1', 'en line 2']);
+  });
+
+  it('falls back to the zh intro when intro_en is empty', async () => {
+    const all = await getAllAuthors('en');
+    expect(all.find((a) => a.id === 'JerobaMTG')?.intro).toEqual(['jeroba intro']);
+  });
+});
+
+describe('name language', () => {
+  it('uses name on zh pages and name_en on en pages', async () => {
+    expect((await getAuthorById('MiohitoKiri5474'))?.name).toBe('台南猴王的耍猴日常');
+    expect((await getAuthorById('MiohitoKiri5474', 'en'))?.name).toBe('MiohitoKiri5474');
+  });
+
+  it('falls back to name when name_en is missing', async () => {
+    expect((await getAuthorById('JerobaMTG', 'en'))?.name).toBe('Jeroba');
+  });
+});
+
+describe('avatar base path', () => {
+  it('prefixes site-relative avatars in every loader under a sub-path base', async () => {
+    vi.stubEnv('BASE_URL', '/blog/');
+    vi.resetModules();
+    const { getAuthorById: byIdFresh, getAllAuthors: allFresh } = await import('../authors');
+    const { getCollection: freshGetCollection } = await import('astro:content');
+    vi.mocked(freshGetCollection).mockResolvedValue(mockAuthors as never);
+
+    expect((await byIdFresh('MiohitoKiri5474'))?.avatar).toBe('/blog/images/mio-avatar.JPG');
+    expect((await allFresh())[0].avatar).toBe('/blog/images/mio-avatar.JPG');
+    vi.unstubAllEnvs();
   });
 });

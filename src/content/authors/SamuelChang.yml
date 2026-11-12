@@ -1,6 +1,10 @@
 username: "SamuelChang"
 name: "菜鳥"
+name_en: "SamuelChang"
 avatar: "/images/Samuel-avatar.png"
-intro: [
+intro_zh: [
   "aka <a href='https://www.facebook.com/profile.php?id=100063848411689'>鳥不喇基</a>"
+]
+intro_en: [
+  "aka <a href='https://www.facebook.com/profile.php?id=100063848411689'>鳥不喇基</a>",
 ]

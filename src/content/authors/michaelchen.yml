@@ -1,7 +1,11 @@
 
 username: "michaelchen"
 name: "思源 豬Card"
+name_en: "michaelchen"
 avatar: "/images/michaelchen-avatar.jpg"
-intro: [
+intro_zh: [
   "喜歡自創套牌的搞笑玩家，再戰贊迪卡入坑，比較擅長快攻/中速，還在努力學習怎麼贏牌Magic真的太難了",
+]
+intro_en: [
+  "A goofy player who loves brewing original decks. Joined during Zendikar Rising, more comfortable with aggro/midrange, and still learning how to win — Magic is really hard.",
 ]

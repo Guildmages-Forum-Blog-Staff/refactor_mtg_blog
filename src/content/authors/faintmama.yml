@@ -1,8 +1,14 @@
 username: faintmama
 name: "王靖"
+name_en: "faintmama"
 avatar: "/images/faintmama-avatar.jpeg"
-intro: [
+intro_zh: [
   "本名  <a href='https://www.facebook.com/loudsidewang/'>王靖</a>，最近喜歡在小粉專 <a href='https://www.facebook.com/faintmama'>FaintmamaのTCG實驗室</a> 寫日記文。",
   "魔風集會所詩意賦予專員、臺北征服EDH愛好團自由長工；時報出版、鏡文學授權作者。",
   "近代、純普、指揮官玩家，熱中於自創Budget Deck，然後帶到賽場上引起騷動，想像自己能推廣怪套牌的無聊大叔。",
+]
+intro_en: [
+  "Real name <a href='https://www.facebook.com/loudsidewang/'>王靖 (Wang Jing)</a>. Lately enjoys writing diary-style posts on the small page <a href='https://www.facebook.com/faintmama'>FaintmamaのTCG實驗室</a>.",
+  "Guildmages' Forum's resident poet, unpaid farmhand of the Taipei Conquest EDH crew; published author with China Times Publishing and Mirror Fiction.",
+  "A Modern, Pauper and Commander player who loves brewing budget decks and then causing a stir with them at events — a bored middle-aged guy who imagines he can popularise weird decks.",
 ]

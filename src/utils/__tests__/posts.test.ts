@@ -1,5 +1,12 @@
 import { describe, it, expect } from 'vitest';
-import { postSlug, sortByDateDesc, excludePreviewPosts } from '../posts';
+import {
+  postSlug,
+  postLang,
+  postUrl,
+  postsInLang,
+  sortByDateDesc,
+  excludePreviewPosts,
+} from '../posts';
 
 describe('postSlug', () => {
   it('strips a .md extension', () => {
@@ -24,6 +31,39 @@ describe('postSlug', () => {
 
   it('does not strip a non-md extension such as .markdown', () => {
     expect(postSlug('notes.markdown')).toBe('notes.markdown');
+  });
+
+  it('strips the zh_tw/ and en/ locale directories', () => {
+    expect(postSlug('zh_tw/hello-world.md')).toBe('hello-world');
+    expect(postSlug('en/hello-world.md')).toBe('hello-world');
+  });
+
+  it('keeps nested paths below the locale directory', () => {
+    expect(postSlug('en/series/part-1.mdx')).toBe('series/part-1');
+  });
+
+  it('only strips a leading locale directory', () => {
+    expect(postSlug('series/en/part-1.md')).toBe('series/en/part-1');
+  });
+});
+
+describe('postLang', () => {
+  it('maps en/ to en and zh_tw/ to zh-tw', () => {
+    expect(postLang('en/a.md')).toBe('en');
+    expect(postLang('zh_tw/a.md')).toBe('zh-tw');
+  });
+
+  it('defaults ids outside a locale directory to zh-tw', () => {
+    expect(postLang('a.md')).toBe('zh-tw');
+    expect(postLang('english-guide.md')).toBe('zh-tw');
+  });
+});
+
+describe('postsInLang', () => {
+  it('keeps same-slug posts apart by language', () => {
+    const posts = [{ id: 'zh_tw/same.md' }, { id: 'en/same.md' }, { id: 'zh_tw/other.md' }];
+    expect(postsInLang(posts, 'en').map((p) => p.id)).toEqual(['en/same.md']);
+    expect(postsInLang(posts, 'zh-tw').map((p) => postSlug(p.id))).toEqual(['same', 'other']);
   });
 });
 
@@ -74,5 +114,12 @@ describe('excludePreviewPosts', () => {
     const snapshot = [...input];
     excludePreviewPosts(input);
     expect(input).toEqual(snapshot);
+  });
+});
+
+describe('postUrl', () => {
+  it('puts zh posts at the root and en posts under /en/', () => {
+    expect(postUrl('zh_tw/a.md')).toBe('/a/');
+    expect(postUrl('en/a.md')).toBe('/en/a/');
   });
 });

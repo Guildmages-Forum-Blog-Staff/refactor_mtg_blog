@@ -1,6 +1,10 @@
 username: "ZengZengZeng"
 name: "曾曾曾"
+name_en: "ZengZengZeng"
 avatar: "/images/Zeng-avatar.jpeg"
-intro: [
+intro_zh: [
   "喜歡魔法的玩家，遊戲平方跟ALG出沒"
+]
+intro_en: [
+  "A player who loves Magic; can be found at 遊戲平方 and ALG.",
 ]

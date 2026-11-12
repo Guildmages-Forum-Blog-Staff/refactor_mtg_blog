@@ -1,8 +1,14 @@
 username: MiohitoKiri5474
 name: "台南猴王的耍猴日常"
+name_en: "MiohitoKiri5474"
 avatar: "/images/mio-avatar.JPG"
-intro: [
+intro_zh: [
   "aka <a href='http://facebook.com/TainanMonkeyKin'> 台南猴王的耍猴日常</a>，為網站共同創辦人之一、網站技術人員。",
   "前 cEDH 老害， 現為認份的構築賽玩家，最喜歡的賽制是近代和純普。",
   "永遠打不好快攻和組合技，要湊組合的套牌無論如何總是缺一個組件。",
+]
+intro_en: [
+  "aka <a href='http://facebook.com/TainanMonkeyKin'>台南猴王的耍猴日常</a>, one of the site's co-founders and its tech person.",
+  "Former cEDH grumpy old-timer, now a resigned constructed player. Favourite formats are Modern and Pauper.",
+  "Can never play aggro or combo well; any deck that needs to assemble a combo is always missing one piece.",
 ]

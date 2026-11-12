@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+import TeamMemberCard from '../components/TeamMemberCard.astro';
+import team from '../data/team.json';
+import { langFromPath } from '../i18n';
+import { useTranslations } from '../i18n/ui';
+import { getAllAuthors } from '../utils/authors';
+
+const lang = langFromPath(Astro.url.pathname);
+const t = useTranslations(lang);
+const allAuthors = await getAllAuthors(lang);
+const authorMap = new Map(allAuthors.map((a) => [a.id, a]));
+
+function resolveAuthors(ids: string[]) {
+  const resolved = ids.map((id) => ({ id, data: authorMap.get(id) }));
+  for (const { id, data } of resolved) {
+    if (data === undefined)
+      console.warn(`[AboutPage.astro] team.json references unknown author id: ${id}`);
+  }
+  return resolved.filter((a) => a.data !== undefined) as {
+    id: string;
+    data: NonNullable<ReturnType<typeof authorMap.get>>;
+  }[];
+}
+
+const currentMembers = resolveAuthors(team.currentMembers);
+const hallOfFame = resolveAuthors(team.hallOfFame);
+---
+
+<BaseLayout title={t.aboutTitle}>
+  <Navbar />
+  <main class="mx-auto max-w-4xl px-4 py-10">
+    <div class="dark:bg-dark-bg/80 rounded-2xl bg-white/80 p-6 backdrop-blur-sm">
+      <h1 class="mb-6 text-3xl font-bold text-gray-900 dark:text-gray-100">{t.aboutTitle}</h1>
+
+      <div class="prose dark:prose-invert mb-12 max-w-none">
+        {t.aboutIntro.map((line) => <p set:html={line} />)}
+      </div>
+
+      <section aria-labelledby="current-members-heading" class="mb-12">
+        <h2
+          id="current-members-heading"
+          class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100"
+        >
+          {t.currentMembers}
+        </h2>
+        <div class="flex flex-col gap-10">
+          {currentMembers.map(({ id, data }) => <TeamMemberCard id={id} data={data} lang={lang} />)}
+        </div>
+      </section>
+
+      <section aria-labelledby="hall-of-fame-heading">
+        <h2
+          id="hall-of-fame-heading"
+          class="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100"
+        >
+          {t.hallOfFame}
+        </h2>
+        <div class="flex flex-col gap-10">
+          {
+            hallOfFame.map(({ id, data }) => (
+              <TeamMemberCard id={id} data={data} lang={lang} former />
+            ))
+          }
+        </div>
+      </section>
+    </div>
+  </main>
+</BaseLayout>

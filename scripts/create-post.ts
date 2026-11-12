@@ -6,6 +6,8 @@ import yaml from 'js-yaml';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = path.join(__dirname, '..', 'src', 'content', 'posts');
+/** Locale subdirectories of POSTS_DIR (see POST_DIR in src/i18n). */
+const POST_LANG_DIRS = ['zh_tw', 'en'];
 const AUTHORS_DIR = path.join(__dirname, '..', 'src', 'content', 'authors');
 
 interface HackmdFrontmatter {
@@ -51,7 +53,7 @@ interface PostFrontmatter {
   updated?: string;
 }
 
-/** True if `filename` is a bare slug that cannot escape `src/content/posts/` via `path.join`. */
+/** True if `filename` is a bare slug that cannot escape `src/content/posts/<lang>/` via `path.join`. */
 export function isValidPostFilename(filename: string): boolean {
   return /^[A-Za-z0-9._-]+$/.test(filename);
 }
@@ -202,9 +204,14 @@ async function fetchNote(noteId: string, token: string): Promise<string> {
 }
 
 async function main(): Promise<void> {
-  const [, , hackmdUrl, filename] = process.argv;
-  if (!hackmdUrl || !filename) {
-    console.error('Usage: npm run post -- <hackmd-url> <filename-without-extension>');
+  const args = process.argv.slice(2);
+  const langFlag = args.indexOf('--lang');
+  const lang = langFlag === -1 ? 'zh_tw' : args[langFlag + 1];
+  const [hackmdUrl, filename] = langFlag === -1 ? args : args.toSpliced(langFlag, 2);
+  if (!hackmdUrl || !filename || !POST_LANG_DIRS.includes(lang)) {
+    console.error(
+      'Usage: npm run post -- <hackmd-url> <filename-without-extension> [--lang zh_tw|en]',
+    );
     process.exitCode = 1;
     return;
   }
@@ -223,7 +230,7 @@ async function main(): Promise<void> {
     process.exitCode = 1;
     return;
   }
-  const outputPath = path.join(POSTS_DIR, `${filename}.md`);
+  const outputPath = path.join(POSTS_DIR, lang, `${filename}.md`);
 
   const noteId = extractNoteId(hackmdUrl);
   const cleaned = cleanMarkdown(await fetchNote(noteId, token));
@@ -243,7 +250,8 @@ async function main(): Promise<void> {
     const result = await localizeImages(frontmatter, body, {
       imagesDir,
       baseUrl: process.env.IMAGES_BASE_URL ?? 'https://images.guildmagesforum.tw',
-      subdir: `posts/${filename}`,
+      // en posts get their own folder so a translation can't clobber the zh images.
+      subdir: lang === 'zh_tw' ? `posts/${filename}` : `posts/${lang}/${filename}`,
     });
     frontmatter = result.frontmatter;
     finalBody = result.body;
