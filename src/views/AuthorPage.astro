@@ -56,9 +56,7 @@ const authorName = resolved?.name ?? author.data.name;
 ---
 
 <BaseLayout
-  title={page.currentPage === 1
-    ? `${authorName} | Guildmages' Forum`
-    : `${authorName} — ${t.page(page.currentPage)} | Guildmages' Forum`}
+  title={page.currentPage === 1 ? authorName : `${authorName} — ${t.page(page.currentPage)}`}
 >
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">
