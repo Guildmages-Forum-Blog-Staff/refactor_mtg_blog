@@ -13,6 +13,7 @@ import { remarkBasePath } from './src/plugins/remark-base-path';
 import { remarkNotel } from './src/plugins/remark-notel';
 import { remarkFolding } from './src/plugins/remark-folding';
 import { rehypePangu } from './src/plugins/rehype-pangu';
+import { rehypeLazyImages } from './src/plugins/rehype-lazy-images';
 import { externalLinksOptions } from './src/plugins/external-links';
 import { getPreviewSlugs } from './src/utils/sitemap-filter';
 import { getAuthorTagRedirects } from './src/utils/legacy-redirects';
@@ -111,7 +112,7 @@ export const search = async () => ({ results: [] });`;
       remarkNotel,
       remarkFolding,
     ],
-    rehypePlugins: [rehypePangu, [rehypeExternalLinks, externalLinksOptions]],
+    rehypePlugins: [rehypePangu, rehypeLazyImages, [rehypeExternalLinks, externalLinksOptions]],
     shikiConfig: {
       theme: 'github-dark',
     },
