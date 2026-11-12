@@ -40,7 +40,8 @@ function introFor(data: AuthorEntryData, lang: Lang): string[] {
 }
 
 function toAuthor(id: string, data: AuthorEntryData, lang: Lang): AuthorData & { id: string } {
-  const { username, avatar, url } = data;
+  const { username, url } = data;
+  const avatar = withBase(data.avatar);
   const name = lang === 'en' ? (data.name_en ?? data.name) : data.name;
   return { id, username, name, avatar, url, intro: introFor(data, lang) };
 }
@@ -49,7 +50,6 @@ export async function getAllAuthors(lang: Lang = DEFAULT_LANG) {
   const collection = await getCollection('authors');
   return collection.map((entry) => ({
     ...toAuthor(entry.id.replace(/\.ya?ml$/, ''), entry.data, lang),
-    avatar: withBase(entry.data.avatar),
   }));
 }
 

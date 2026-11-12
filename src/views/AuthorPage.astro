@@ -47,29 +47,18 @@ function getPaginationItems(current: number, last: number): (number | '...')[] {
 }
 
 const paginationItems = getPaginationItems(page.currentPage, page.lastPage);
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const avatar = author.data.avatar.startsWith('/')
-  ? `${base}${author.data.avatar}`
-  : author.data.avatar;
 const authorBase = localePath(lang, `authors/${username}`);
 const authorId = author.id.replace(/\.ya?ml$/, '');
+// Resolved through utils/authors: localized name/intro, base-prefixed avatar.
 const resolved = await getAuthorById(authorId, lang);
-const authorCard = [
-  {
-    id: authorId,
-    username: author.data.username,
-    name: resolved?.name ?? author.data.name,
-    avatar,
-    url: author.data.url,
-    intro: resolved?.intro ?? [],
-  },
-];
+const authorCard = resolved ? [resolved] : [];
+const authorName = resolved?.name ?? author.data.name;
 ---
 
 <BaseLayout
   title={page.currentPage === 1
-    ? `${authorCard[0].name} | Guildmages' Forum`
-    : `${authorCard[0].name} — ${t.page(page.currentPage)} | Guildmages' Forum`}
+    ? `${authorName} | Guildmages' Forum`
+    : `${authorName} — ${t.page(page.currentPage)} | Guildmages' Forum`}
 >
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">

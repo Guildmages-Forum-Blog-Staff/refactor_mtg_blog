@@ -249,3 +249,17 @@ describe('name language', () => {
     expect((await getAuthorById('JerobaMTG', 'en'))?.name).toBe('Jeroba');
   });
 });
+
+describe('avatar base path', () => {
+  it('prefixes site-relative avatars in every loader under a sub-path base', async () => {
+    vi.stubEnv('BASE_URL', '/blog/');
+    vi.resetModules();
+    const { getAuthorById: byIdFresh, getAllAuthors: allFresh } = await import('../authors');
+    const { getCollection: freshGetCollection } = await import('astro:content');
+    vi.mocked(freshGetCollection).mockResolvedValue(mockAuthors as never);
+
+    expect((await byIdFresh('MiohitoKiri5474'))?.avatar).toBe('/blog/images/mio-avatar.JPG');
+    expect((await allFresh())[0].avatar).toBe('/blog/images/mio-avatar.JPG');
+    vi.unstubAllEnvs();
+  });
+});
