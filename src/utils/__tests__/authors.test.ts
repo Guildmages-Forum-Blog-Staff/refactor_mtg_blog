@@ -14,6 +14,7 @@ const mockAuthors = [
     data: {
       username: 'MiohitoKiri5474',
       name: '台南猴王的耍猴日常',
+      name_en: 'MiohitoKiri5474',
       avatar: '/images/mio-avatar.JPG',
       url: '/tags/miohitokiri5474/',
       intro_zh: ['intro line 1', 'intro line 2'],
@@ -235,5 +236,16 @@ describe('intro language', () => {
   it('falls back to the zh intro when intro_en is empty', async () => {
     const all = await getAllAuthors('en');
     expect(all.find((a) => a.id === 'JerobaMTG')?.intro).toEqual(['jeroba intro']);
+  });
+});
+
+describe('name language', () => {
+  it('uses name on zh pages and name_en on en pages', async () => {
+    expect((await getAuthorById('MiohitoKiri5474'))?.name).toBe('台南猴王的耍猴日常');
+    expect((await getAuthorById('MiohitoKiri5474', 'en'))?.name).toBe('MiohitoKiri5474');
+  });
+
+  it('falls back to name when name_en is missing', async () => {
+    expect((await getAuthorById('JerobaMTG', 'en'))?.name).toBe('Jeroba');
   });
 });

@@ -58,7 +58,7 @@ const authorCard = [
   {
     id: authorId,
     username: author.data.username,
-    name: author.data.name,
+    name: resolved?.name ?? author.data.name,
     avatar,
     url: author.data.url,
     intro: resolved?.intro ?? [],
@@ -68,8 +68,8 @@ const authorCard = [
 
 <BaseLayout
   title={page.currentPage === 1
-    ? `${author.data.name} | Guildmages' Forum`
-    : `${author.data.name} — ${t.page(page.currentPage)} | Guildmages' Forum`}
+    ? `${authorCard[0].name} | Guildmages' Forum`
+    : `${authorCard[0].name} — ${t.page(page.currentPage)} | Guildmages' Forum`}
 >
   <Navbar />
   <main class="mx-auto max-w-3xl px-4 py-10">

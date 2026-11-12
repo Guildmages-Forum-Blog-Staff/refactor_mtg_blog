@@ -11,7 +11,11 @@ export type AuthorData = {
   intro: string[];
 };
 
-type AuthorEntryData = Omit<AuthorData, 'intro'> & { intro_zh: string[]; intro_en: string[] };
+type AuthorEntryData = Omit<AuthorData, 'intro'> & {
+  name_en?: string;
+  intro_zh: string[];
+  intro_en: string[];
+};
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
@@ -36,7 +40,8 @@ function introFor(data: AuthorEntryData, lang: Lang): string[] {
 }
 
 function toAuthor(id: string, data: AuthorEntryData, lang: Lang): AuthorData & { id: string } {
-  const { username, name, avatar, url } = data;
+  const { username, avatar, url } = data;
+  const name = lang === 'en' ? (data.name_en ?? data.name) : data.name;
   return { id, username, name, avatar, url, intro: introFor(data, lang) };
 }
 

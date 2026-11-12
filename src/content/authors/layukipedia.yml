@@ -1,5 +1,6 @@
 username: layukipedia
 name: "Peter"
+name_en: "Peter"
 avatar: "/images/peter.jpg"
 intro_zh: [
   "<a href='https://linktr.ee/sparkdouble'>Spark Double</a> 的主持人之一。",
