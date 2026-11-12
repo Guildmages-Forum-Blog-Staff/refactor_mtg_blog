@@ -63,6 +63,11 @@ const blogPosting = {
   noindex={post.data.preview === true}
 >
   <JsonLd slot="head" data={blogPosting} />
+  {
+    coverImage && (
+      <link slot="head" rel="preload" as="image" href={coverImage} fetchpriority="high" />
+    )
+  }
   <Navbar />
 
   {
@@ -116,7 +121,9 @@ const blogPosting = {
         <img
           src={coverImage}
           alt={post.data.title}
-          loading="lazy"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
           class="mb-8 h-64 w-full rounded-xl object-cover md:h-80"
         />
       )
