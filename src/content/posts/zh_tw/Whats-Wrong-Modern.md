@@ -23,7 +23,7 @@ authors:
 
 而 Cascade 則是另一個極端，找出最暴力的場面（Shardless Agent 轉出 Crashing Footfalls）或是找出大量抽牌的元件（轉出 Up the Beanstalk），靠對手沒辦法追上的場面差/資源差壓死對手。
 
-![](/images/Whats-Wrong-Modern/cascade.jpg)
+![](/images/Whats-Wrong-Modern/cascade.webp)
 
 最後則是自閉套牌，反正我做我的事，被你影響那就被你影響吧，反正我繼續拚 top deck（例如綠創、泰坦護身符），摸到對的東西就是要搞死你。
 
@@ -49,7 +49,7 @@ _對手一回丟 Grief + 假死術丟了我兩張手牌，然後多拍一隻猴�
 
 一直以來免費咒語都是薪傳的權利，縱使近代中還是有免費咒語，但依舊是少部分牌組才有辦法使用的牌。
 
-![](/images/Whats-Wrong-Modern/MH1_Forces.jpg)
+![](/images/Whats-Wrong-Modern/MH1_Forces.webp)
 
 直到 Modern Horizon 1 (MH1) 發售之後，一個強力的免費咒語循環加入到環境之中。
 這些咒語之強力（特別是 [Force of Negation](https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298) 和 [Force of Vigor](https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072)），連薪傳環境中都可以看到他們的身影。
@@ -57,7 +57,7 @@ _對手一回丟 Grief + 假死術丟了我兩張手牌，然後多拍一隻猴�
 
 但老威在免費咒語的路上越走越歪，MH2 中除了將 [Shardless Agent](https://cards.scryfall.io/large/front/b/0/b0824e77-c84b-464a-aa0c-44af5f6faa50.jpg?1626100788) 下放到近代中使得 cascade 的系統更加完整、還加入了另一個更加強力的免費咒語循環：呼魂元素。
 
-![](/images/Whats-Wrong-Modern/MH2_Elementals.jpg)
+![](/images/Whats-Wrong-Modern/MH2_Elementals.webp)
 
 這些元素們是生物只能在自己的回合施放，感覺沒有很差吧。
 老威 RD：知道了，我們給其中三張加上閃現異能。
@@ -76,7 +76,7 @@ _對手一回丟 Grief + 假死術丟了我兩張手牌，然後多拍一隻猴�
 > 1x Counterspell
 > 1x any other card
 
-![](/images/Whats-Wrong-Modern/Dimir-Control-Sample-Hand.png)
+![](/images/Whats-Wrong-Modern/Dimir-Control-Sample-Hand.webp)
 
 以控制來說算是很好的起手應該要 keep 吧，但如果現在跟你說這是備牌局、對手是紅黑 Scam 呢？如果對手一回 Grief + 假死術呢？
 如果是我會想說：吃一回 Grief + 假死術就完了，我可能會硬著頭皮調度找 Subtlety。
@@ -107,7 +107,7 @@ _對手一回丟 Grief + 假死術丟了我兩張手牌，然後多拍一隻猴�
 刀劍基本上是沒辦法正面打贏槍砲的，要嘛也加入葦名劍法的行列大家一起不講武德、要嘛出招更陰險暗著來每次出手都往要害伸去。
 最終紅白燒只能往後者走去，大家都在用力的前期付血做事、後期再補血，那我只好把不能補血的牌放滿；既然中後期打不贏，那我只好讓對局沒辦法發展到中後期。如果不是環境所逼，我也不想要這麼病態。
 
-![](/images/Whats-Wrong-Modern/Burn_decklist.png)
+![](/images/Whats-Wrong-Modern/Burn_decklist.webp)
 
 許多套牌都為了追上環境犧牲了套牌的某一部分，除了套牌主軸可能也犧牲了一些互動的彈性，導致對局的上下限拉的更大且更不好玩。
 
@@ -119,7 +119,7 @@ _對手一回丟 Grief + 假死術丟了我兩張手牌，然後多拍一隻猴�
 
 Decklist 一樣採用我之前寫的 Scam 文章中的牌表。
 
-![](/images/Modern-Rakdos-Scam/decklist.png)
+![](/images/Modern-Rakdos-Scam/decklist.webp)
 
 其中 Grief 有四張、假死術有六張、其餘黑色牌有 15 張。
 然後我們可以把一回 Scam 的起手定義為：
@@ -129,7 +129,7 @@ Decklist 一樣採用我之前寫的 Scam 文章中的牌表。
 3. 至少一張地牌
 4. 至少一張其他黑色手牌（可以是 Grief/假死術，或是其他任意的牌）
 
-![](/images/Whats-Wrong-Modern/Rakdos-Scam-Sample-Hand.png)
+![](/images/Whats-Wrong-Modern/Rakdos-Scam-Sample-Hand.webp)
 
 然後因為把條件四放在一起算有點複雜，所以這邊再細分成四種狀態（當然所有起手都包含一塊地，我不相信有魔風玩家會在一個正常套牌裡接 0 地起手）：
 

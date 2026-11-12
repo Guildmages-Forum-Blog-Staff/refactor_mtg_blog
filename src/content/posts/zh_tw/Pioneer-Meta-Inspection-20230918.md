@@ -20,7 +20,7 @@ authors:
 
 一樣先上個撰文當下的 meta 表。
 
-![](/images/Pioneer-Meta-23-9-18.png)
+![](/images/Pioneer-Meta-23-9-18.webp)
 
 下面也會按照套牌做不同的討論，也只關注環境的變化，不會提及太多細節上的內容（除非有必要）。
 

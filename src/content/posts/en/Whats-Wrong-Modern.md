@@ -25,7 +25,7 @@ Let's start with Scam. After LTR brought [Orcish Bowmasters](https://cards.scryf
 
 Cascade, on the other hand, is the other extreme: find the most brutal board (Shardless Agent into Crashing Footfalls) or find a pile of draw engines (into Up the Beanstalk), and crush the opponent with a board/resource gap they can't catch up to.
 
-![](/images/Whats-Wrong-Modern/cascade.jpg)
+![](/images/Whats-Wrong-Modern/cascade.webp)
 
 Finally there are the turtle decks: I do my own thing, and if you affect me, so be it; I'll keep going for my topdecks (like Green Tron and Amulet Titan), and when I draw the right thing, I'm going to kill you.
 
@@ -51,7 +51,7 @@ To put it in more detail: today's cards all have too much margin for error, so t
 
 Free spells have always been Legacy's privilege. Although Modern still has free spells, they're still only usable by a small number of decks.
 
-![](/images/Whats-Wrong-Modern/MH1_Forces.jpg)
+![](/images/Whats-Wrong-Modern/MH1_Forces.webp)
 
 Until Modern Horizons 1 (MH1) was released, when a powerful cycle of free spells joined the environment.
 These spells are so powerful (especially [Force of Negation](https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298) and [Force of Vigor](https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072)) that you can see them even in the Legacy environment.
@@ -59,7 +59,7 @@ But at best these cards are defensive: they can't proactively do anything, and t
 
 But WotC went further and further astray on the road of free spells. In MH2, besides trickling [Shardless Agent](https://cards.scryfall.io/large/front/b/0/b0824e77-c84b-464a-aa0c-44af5f6faa50.jpg?1626100788) down into Modern to make the cascade system more complete, they also added another, even more powerful free spell cycle: the Elemental Incarnations.
 
-![](/images/Whats-Wrong-Modern/MH2_Elementals.jpg)
+![](/images/Whats-Wrong-Modern/MH2_Elementals.webp)
 
 These Elementals are creatures that can only be cast on your own turn, which doesn't sound that bad.
 WotC R&D: Got it, we'll give three of them flash.
@@ -78,7 +78,7 @@ But not every deck joined this trend. Let's take Dimir Control as an example, wi
 > 1x Counterspell
 > 1x any other card
 
-![](/images/Whats-Wrong-Modern/Dimir-Control-Sample-Hand.png)
+![](/images/Whats-Wrong-Modern/Dimir-Control-Sample-Hand.webp)
 
 For a control deck this is a good hand and you should keep it, but what if I told you this is a sideboard game and the opponent is Rakdos Scam? What if the opponent has Grief + Feign Death on turn one?
 If it were me, I'd think: once I eat a turn-one Grief + Feign Death it's over, and I'd probably bite the bullet and mulligan looking for Subtlety.
@@ -109,7 +109,7 @@ It's not just Boros Burn; many more decks have likewise vanished into the tide o
 Swords basically can't beat guns head-on; you either join the Ashina swordsmanship crowd and everyone abandons martial ethics together, or you strike more insidiously and in the dark, reaching for the vital points with every move.
 In the end Boros Burn could only go the latter route: everyone is paying life to do things early and healing back later, so I have no choice but to stuff in cards that can't gain life; if I can't win the mid to late game, I have no choice but to keep the game from reaching it. If the environment didn't force me, I wouldn't want to be this twisted either.
 
-![](/images/Whats-Wrong-Modern/Burn_decklist.png)
+![](/images/Whats-Wrong-Modern/Burn_decklist.webp)
 
 Many decks have sacrificed some part of their lists to keep up with the environment; besides the deck's main axis, they may also have sacrificed some interactive flexibility, making the floor and ceiling of games further apart and less fun.
 
@@ -121,7 +121,7 @@ Here we take the probability part from an article on [CIXS's MTG Diary](https://
 
 The decklist is the same as the one in my earlier Scam article.
 
-![](/images/Modern-Rakdos-Scam/decklist.png)
+![](/images/Modern-Rakdos-Scam/decklist.webp)
 
 It has four Grief, six Feign Death, and 15 other black cards.
 Then we can define a turn-one Scam opening hand as having:
@@ -131,7 +131,7 @@ Then we can define a turn-one Scam opening hand as having:
 3. At least one land
 4. At least one other black card in hand (this can be Grief/Feign Death, or any other card)
 
-![](/images/Whats-Wrong-Modern/Rakdos-Scam-Sample-Hand.png)
+![](/images/Whats-Wrong-Modern/Rakdos-Scam-Sample-Hand.webp)
 
 Because counting condition four together is a bit complicated, we break it down into four states (of course every opening hand contains a land; I don't believe any Magic player would keep a zero-land hand in a normal deck):
 

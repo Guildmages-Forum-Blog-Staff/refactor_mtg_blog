@@ -34,7 +34,7 @@ authors:
 
 ## Deck List
 
-![](/images/Modern-Mono-Black-Coffers/decklist.png)
+![](/images/Modern-Mono-Black-Coffers/decklist.webp)
 
 [套牌連結](https://www.mtggoldfish.com/deck/5907901#paper)
 
@@ -62,7 +62,7 @@ authors:
 
 #### Karn's Toolbox
 
-![](/images/Modern-Mono-Black-Coffers/Karns-Toolbox.jpg)
+![](/images/Modern-Mono-Black-Coffers/Karns-Toolbox.webp)
 
 工具箱和功能分別有：
 Engineered Explosives：掃 token 用，特別是打 Rhinos 用的。

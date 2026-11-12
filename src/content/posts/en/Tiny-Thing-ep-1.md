@@ -94,7 +94,7 @@ And in the mid to late game, whether to fetch a Triome or keep it to cycle when 
 
 ## When to Fetch
 
-![](https://guildmagesforum.tw/images/memes/tishanas-tidebinder-is-stone-rain.png)
+![](https://guildmagesforum.tw/images/memes/tishanas-tidebinder-is-stone-rain.webp)
 
 Usually when using a fetchland, people like to crack it at the end of the opponent's turn, which preserves the flexibility to fetch a tapped land and saves the two life a shockland costs.
 But this changed after LCI. If your opponent plays blue, you also need to watch whether your opponent has enough mana to flash in [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder), and getting a land blown up to save those two life is hardly worth it.

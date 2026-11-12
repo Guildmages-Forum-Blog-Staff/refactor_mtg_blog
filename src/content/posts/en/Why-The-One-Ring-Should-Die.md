@@ -78,7 +78,7 @@ Second, to be more stable, WRx Energy gradually evolved from aggro into midrange
 Then they found that {% mtglink "The One Ring" %} is super strong in mirror matches: you can crush the opponent with a massive resource gap, and the side without {% mtglink "The One Ring" %} loses. It is also very useful when you go into long games against something like Jeskai Control. The spells all have small mana values, so if you can slam the Ring, surely you can also cast something else.
 
 > And the latest development is that WRx Energy has started running hate cards like {% mtglink "Exorcise" %} main deck = =
-> ![](/images/Why-The-One-Ring-Should-Die/energy-decklist.png)
+> ![](/images/Why-The-One-Ring-Should-Die/energy-decklist.webp)
 
 It is also because this is the first time since LTR that a midrange deck with such a low curve has appeared, which I think was not anticipated when the card was designed.
 

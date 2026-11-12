@@ -44,7 +44,7 @@ Murktide Regent is the only big threat now. We used to have Ledger Shredder too,
 
 ### Spells
 
-![](/images/Izzet-Murktide/Spells.jpg)
+![](/images/Izzet-Murktide/Spells.webp)
 
 The instants and sorceries are pretty straightforward. Lightning Bolt and Unholy Heat are burn spells, used to clear the board.
 Consider, Preordain, and Expressive Iteration are the cantrips.
@@ -60,7 +60,7 @@ Filtering + extra information + peeking with DRC + enabling delirium. Strong car
 
 ### Sideboard
 
-![](/images/Izzet-Murktide/Sideboard.jpg)
+![](/images/Izzet-Murktide/Sideboard.webp)
 
 The sideboard is no different from last time (and there isn't much to adjust, since the format still looks about the same), so the following is copy-pasted (I'm lazy).
 
@@ -94,7 +94,7 @@ For example:
 1x Counterspell
 1x Lightning Bolt
 
-![](/images/Izzet-Murktide/Sample-hands-01.png)
+![](/images/Izzet-Murktide/Sample-hands-01.webp)
 
 Very comfortable, a hand that can handle anything.
 
@@ -105,7 +105,7 @@ Or something more extreme:
 2x Consider
 1x Spell Pierce
 
-![](/images/Izzet-Murktide/Sample-hands-02.png)
+![](/images/Izzet-Murktide/Sample-hands-02.webp)
 
 You can keep this too, it's just a bit more painful, and there are some small differences I'll mention later.
 

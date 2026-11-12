@@ -43,7 +43,7 @@ On the other hand, this deck is **not a good fit** for these people:
 
 Let me start with my decklist, [MTGGoldfish link](https://www.mtggoldfish.com/deck/5855475#paper).
 
-![](/images/Modern-Rakdos-Scam/decklist.png)
+![](/images/Modern-Rakdos-Scam/decklist.webp)
 
 Almost nothing in the main deck can be changed, so here I'll list which cards can be changed/chosen instead:
 
@@ -77,7 +77,7 @@ But in the current metagame you rarely need enchantment removal, and the matchup
 A turn-one Scam is the deck's main goal. Grief and Fury, when put onto the battlefield with their evoke cost (exiling a card of the same color from your hand), are sacrificed immediately (die), and combined with Feign Death-style cards they can come right back.
 Besides the creature coming back, more importantly its enter-the-battlefield ability triggers again.
 
-> ![](/images/Modern-Rakdos-Scam/undying.jpg)
+> ![](/images/Modern-Rakdos-Scam/undying.webp)
 > Here "Feign Death" refers to these cards (since there are too many of them, I call them all Feign Death):
 >
 > - Undying Evil

@@ -55,7 +55,7 @@ As for how to win, it's basically hitting your opponent five times with {% mtgli
 A standard decklist looks like this:
 [Decklist link](https://www.mtggoldfish.com/deck/7709229)
 
-![](https://guildmagesforum.tw/images/dandan-list.jpeg)
+![](https://guildmagesforum.tw/images/dandan-list.webp)
 
 ```
 10x Dandân
