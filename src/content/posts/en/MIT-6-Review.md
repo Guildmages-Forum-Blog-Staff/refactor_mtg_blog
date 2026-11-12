@@ -52,7 +52,7 @@ My original plan of using plenty of Merfolk in Dimir to keep pace with all the m
 
 ### Trying Golgari Midrange, and a Change of Heart
 
-On 荒野騎士's suggestion I used [Reid Duke's PT-OTJ version of Golgari Midrange](https://www.channelfireball.com/article/Golgari-Midrange-is-Back-in-Standard-MTG/9db29908-3b4c-4feb-9642-66a85f252391/) and climbed to Mythic ranked on MTGA. However, while playing the deck there were several matchups that were very hard to win, such as Dimir Control, Gruul Big Creatures, and even Temur Fireball, which is basically impossible to stop and only ever loses to itself. These very bad matchups made me hesitant about entering with Golgari Midrange, and that was when I thought of the Merfolk. It's always so good. [Old flames are always the most beautiful](https://youtu.be/Q9pKqz_rfiw?si=ZBiKgvfF7AX_tG1i), right?
+On ClarkShih's suggestion I used [Reid Duke's PT-OTJ version of Golgari Midrange](https://www.channelfireball.com/article/Golgari-Midrange-is-Back-in-Standard-MTG/9db29908-3b4c-4feb-9642-66a85f252391/) and climbed to Mythic ranked on MTGA. However, while playing the deck there were several matchups that were very hard to win, such as Dimir Control, Gruul Big Creatures, and even Temur Fireball, which is basically impossible to stop and only ever loses to itself. These very bad matchups made me hesitant about entering with Golgari Midrange, and that was when I thought of the Merfolk. It's always so good. [Old flames are always the most beautiful](https://youtu.be/Q9pKqz_rfiw?si=ZBiKgvfF7AX_tG1i), right?
 
 ## Pre-Tournament Preparation: Iterating on Sultai Midrange
 

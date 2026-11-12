@@ -1,5 +1,5 @@
 ---
-title: "Fractured Reality (FRA) Limited Review — Black"
+title: "Reality Fracture (FRA) Limited Review — Black"
 date: "9/22/2026, 8:52:46 PM"
 updated: "2026-09-23 09:21:11"
 preview: false
@@ -15,9 +15,9 @@ excerpt: "Black that can be fast and slow is the best black."
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-Black/).
 
-Fractured Reality (FRA) has its prerelease events on September 25, 2026, and officially releases a week later on October 2, 2026. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of FRA Limited reviews!
+Reality Fracture (FRA) has its prerelease events on September 25, 2026, and officially releases a week later on October 2, 2026. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of FRA Limited reviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Explained](https://guildmagesforum.tw/en/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fracture Mechanics Explained](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 

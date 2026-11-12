@@ -15,7 +15,7 @@ authors:
 
 ## Introduction
 
-Hi everyone, I'm Clark Shih (施兆恩), aka [荒野騎士](https://www.facebook.com/DreamOnStudio1560). I played "Temur Rhinos" at the Season 5 U.S. RC, went 11-3, finished 28th, and qualified for the Seattle PT.
+Hi everyone, I'm [ClarkShih](https://www.facebook.com/DreamOnStudio1560). I played "Temur Rhinos" at the Season 5 U.S. RC, went 11-3, finished 28th, and qualified for the Seattle PT.
 
 In this article I'll try to give players who are interested in playing Temur Rhinos at this RC a comprehensive guide. Whether you are new to the deck or have been playing it for a long time, I hope to help you find the build and strategy that suit you best.
 
@@ -23,7 +23,7 @@ I'll start with a brief look at how the Modern metagame has shifted over the pas
 
 > Guildmage's Forum editor's note:
 >
-> Here is the [link](https://guildmagesforum.tw/en/Modern-Temur-Crashing-Footballs/) to 荒野騎士's previous Rhinos article. Readers are welcome to go back and see what changed between the two versions ~~Fury is gone~~.
+> Here is the [link](https://guildmagesforum.tw/en/Modern-Temur-Crashing-Footballs/) to ClarkShih's previous Rhinos article. Readers are welcome to go back and see what changed between the two versions ~~Fury is gone~~.
 
 ---
 
