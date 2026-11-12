@@ -20,7 +20,7 @@ Investing carries risk. If you make money, remember to share the profits ~~and i
 
 ## Before We Start
 
-With the release of MH3, many new cards with Modern-level power were added. Besides shoring up existing decks in the format (for example, Dimir Tempo and Azorius Control turning into Jeskai Control and Goryo's Reanimator), there are also quite a few new decks, such as Boros/Mardu Energy and Ruby Storm.
+With the release of MH3, many new cards with Modern-level power were added. Besides shoring up existing decks in the format (for example, Dimir Tempo, Azorius Control becoming Jeskai Control, and Goryo's Reanimator), there are also quite a few new decks, such as Boros/Mardu Energy and Ruby Storm.
 ... and Bant Nadu Combo.
 
 ![](/images/Why-Nadu-Should-Die/nadu-comic.jpg)
