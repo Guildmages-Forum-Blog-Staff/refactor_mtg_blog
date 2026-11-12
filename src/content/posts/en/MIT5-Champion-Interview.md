@@ -76,7 +76,7 @@ A: I definitely have to thank my wife for her support. During our school years, 
 
 #### Q11: Can you name three players who have influenced you, and tell us what you learned from them?
 
-A: In my student days, 李俊廷, 蘇昱禎, and 黃永銘 were all strong players from the south, and I learned quite a lot about constructed and Limited from them. 吳俊賢 aka 瓜瓜 (owner of [CardMaster](https://www.facebook.com/cardmaster.tw)) I met while studying in the north. He worked very hard to promote this game, whether running tournaments, building websites, or even getting us to write Chinese promotional articles. The last one is [陳柏宏 aka 蹦蹦 aka Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund). He's the one who made me believe a dad-type player can still win big tournaments. The hero 蹦蹦 turned everything I thought impossible into possible! He's my Himmel!
+A: In my student days, 李俊廷, 蘇昱禎, and 黃永銘 were all strong players from the south, and I learned quite a lot about constructed and Limited from them. 吳俊賢 aka 瓜瓜 (owner of [CardMaster](https://www.facebook.com/cardmaster.tw)) I met while studying in the north. He worked very hard to promote this game, whether running tournaments, building websites, or even getting us to write Chinese promotional articles. The last one is [陳柏宏 aka 蹦蹦 aka Jund Uncle's Daily Life](https://www.facebook.com/UncleJund). He's the one who made me believe a dad-type player can still win big tournaments. The hero 蹦蹦 turned everything I thought impossible into possible! He's my Himmel!
 
 ![](https://images.guildmagesforum.tw/posts/MIT5-Champion-Interview/4bd3ef07d459.webp)
 

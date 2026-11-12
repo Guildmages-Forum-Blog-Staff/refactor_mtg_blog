@@ -76,7 +76,7 @@ I couldn't help recalling the tournament at [Magic Star](https://www.facebook.co
 
 Even so, that day I had plenty of exchange with Allen, whom I'd met briefly once before, and 老曹 (sertyple), whom I met on site. The two even helped watch my games, and I'm truly grateful. Looking back, it's exactly these friendly-rival relationships that shifted the center of Magic exchange from some BBS board to the real world. I truly believe the environment now really is much better and much more fun.
 
-When I came to my senses, I had followed 子安 and 柏宇's footsteps to [牌塔](https://www.facebook.com/totarmory). Fine, I really should find out just how terrifying [牌塔](https://www.facebook.com/totarmory) is (the "牌塔 is really scary" meme can be found on the fan page [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund)).
+When I came to my senses, I had followed 子安 and 柏宇's footsteps to [牌塔](https://www.facebook.com/totarmory). Fine, I really should find out just how terrifying [牌塔](https://www.facebook.com/totarmory) is (the "牌塔 is really scary" meme can be found on the fan page [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund)).
 
 子安 has always had a habit: once he gets his paycheck, he starts thinking about how to reward himself. He seemed to be seeking a thrill when we arrived at [牌塔](https://www.facebook.com/totarmory). I couldn't be bothered with him and didn't want to persuade him anymore, so I wandered around by myself. I accidentally glimpsed the box art of BUILE DIVIDE's "My Dress-Up Darling" and my gaze lingered a little longer than it should, just a little. That anime really is great, and so is the heroine.
 

@@ -40,7 +40,7 @@ _The opponent plays Grief + Feign Death on turn one and takes two cards from my 
 
 Although not every Scam or Rhinos match is this extreme, it reflects a problem from the side: single-card value has inflated too much, and as a result "whether you have the hate card" matters more than "the resource gap" and "playing correctly".
 
-Back when midrange Yawgmoth was dominant, you won by a card or half a card of advantage through various plays and board trades; now you might casually crack a The One Ring to draw once, or get a single Up the Beanstalk trigger, and that's already made up, never mind the even greater resources every turn after.
+Back when Jund midrange was dominant, you won by a card or half a card of advantage through various plays and board trades; now you might casually crack a The One Ring to draw once, or get a single Up the Beanstalk trigger, and that's already made up, never mind the even greater resources every turn after.
 
 > For a while there was a joke in our friend circle: building a deck nowadays means first stuffing in four Up the Beanstalk, then thinking about which cheat-y expensive cards you could fit in.
 

@@ -9,14 +9,14 @@ categories:
   - "Interview"
 cover: "https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/0489ab6b8d8c-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/3178be45cb35-cover.jpg"
-excerpt: "Before I ever met 蹦蹦 in person, I was already a lurking fan of his. The [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund) page is full of middle-aged-guy everyday jokes, and while being fun it also reveals the player's values and charm. Let's see what sparks fly when one uncle talks with another!"
+excerpt: "Before I ever met 蹦蹦 in person, I was already a lurking fan of his. The [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund) page is full of middle-aged-guy everyday jokes, and while being fun it also reveals the player's values and charm. Let's see what sparks fly when one uncle talks with another!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../MIT4-Champion-Interview/).
 
 ## Let's get started!
 
-Before I ever met 蹦蹦 in person, I was already a lurking fan of his. The [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund) page is full of middle-aged-guy everyday jokes, and while being fun it also reveals the player's values and charm. Let's see what sparks fly when one uncle talks with another!
+Before I ever met 蹦蹦 in person, I was already a lurking fan of his. The [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund) page is full of middle-aged-guy everyday jokes, and while being fun it also reveals the player's values and charm. Let's see what sparks fly when one uncle talks with another!
 A spoiler up front: this was certainly going to be a fun exchange, because... we cracked packs.
 
 ![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/a85475d1108f.webp)
@@ -40,17 +40,17 @@ In the last few seasons of MIT and MITQ, I played this Rakdos Midrange deck ever
 #### Q3: How did you first come across Magic: The Gathering?
 
 A: I think it was around high school when a classmate dragged me in to play. As I remember, the environment then was the [Tempest](https://scryfall.com/sets/tmp) block. But by the time of [Apocalypse](https://scryfall.com/sets/apc), I was starting university and didn't have anyone around to play with, so I stopped touching the game for a while. I only came back during [Innistrad](https://scryfall.com/sets/isd?as=grid&order=set), first playing EDH with old friends, and then slowly moving toward competitive play, up to now.
-Along the way I met a lot of good friends. When I stepped into Modern, [Thoughtseize](https://scryfall.com/card/ths/107/thoughtseize) was still a card worth over two thousand NT dollars, and I saw some decks put four of them in the sideboard... and thought, maybe I shouldn't play this deck for now. Blue Tron was my first Modern deck, because it doesn't need to hunt for dual lands and is cheaper XD. Then I personally opened a foil [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf), the whole shop cheered, and that started me down the path of Uncle Yawgmoth (?).
-Sometimes I go back and look at the first post on [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund) to recall my state of mind back then ~~Himmel the Hero would definitely have done the same~~.
+Along the way I met a lot of good friends. When I stepped into Modern, [Thoughtseize](https://scryfall.com/card/ths/107/thoughtseize) was still a card worth over two thousand NT dollars, and I saw some decks put four of them in the sideboard... and thought, maybe I shouldn't play this deck for now. Blue Tron was my first Modern deck, because it doesn't need to hunt for dual lands and is cheaper XD. Then I personally opened a foil [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf), the whole shop cheered, and that started me down the path of Jund Uncle (?).
+Sometimes I go back and look at the first post on [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund) to recall my state of mind back then ~~Himmel the Hero would definitely have done the same~~.
 
 #### Q4: The driving force behind greatness is often purer and more childish than you'd imagine. Magic: The Gathering is a card game, and cards extend our will and imagination; simply put, cracking packs is just so much fun and so exciting. What is the single most important card to you? Please share your bond with it.
 
-A: It should be [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf)! Once the king of Modern card prices. When Modern Masters was reprinted, I opened a foil [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf). Packs back then didn't have a guaranteed foil yet, so I was really happy and excited. Together with [Liliana of the Veil](https://scryfall.com/card/mm3/76/liliana-of-the-veil) and [Dark Confidant](https://scryfall.com/card/mma/75/dark-confidant), it should count as the origin point of my becoming Uncle Yawgmoth.
+A: It should be [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf)! Once the king of Modern card prices. When Modern Masters was reprinted, I opened a foil [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf). Packs back then didn't have a guaranteed foil yet, so I was really happy and excited. Together with [Liliana of the Veil](https://scryfall.com/card/mm3/76/liliana-of-the-veil) and [Dark Confidant](https://scryfall.com/card/mma/75/dark-confidant), it should count as the origin point of my becoming Jund Uncle.
 Later I upgraded to the Future Sight version of foil [Tarmogoyf](https://scryfall.com/card/fut/153/tarmogoyf), and then during the Theros era I opened four foil [Thoughtseize](https://scryfall.com/card/ths/107/thoughtseize) on my own, which is another story...
 
 ![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/ae9179a8d47a.webp)
 
-> During the interview's halftime break, we went back to the [CardMaster](https://www.facebook.com/cardmaster.tw) scene and opened [Flare of Malice](https://scryfall.com/card/mh3/95/flare-of-malice) ~~worthy of the name Uncle Yawgmoth~~! 蹦蹦 murmured in a low voice: "Great, it doesn't count as junk..."
+> During the interview's halftime break, we went back to the [CardMaster](https://www.facebook.com/cardmaster.tw) scene and opened [Flare of Malice](https://scryfall.com/card/mh3/95/flare-of-malice) ~~worthy of the name Jund Uncle~~! 蹦蹦 murmured in a low voice: "Great, it doesn't count as junk..."
 
 ![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/1275a48196e2.webp)
 
@@ -66,7 +66,7 @@ As for the broader environment, Taiwanese players are still lucky in some ways. 
 A: My favorite format is probably still Modern, which actually has nothing to do with what's being played at this Worlds XD. For me, Modern has plenty of card power and many deck types, and having played it for a long time I've built up some insight.
 As for Worlds, I've prepared for draft and Standard mainly on MTGA, especially draft, where I've played relatively little, but I still haven't decided which Standard deck to play, which is a headache... Fortunately 承翰, [SamuelChang](https://www.facebook.com/profile.php?id=100063848411689), and [David Yeh](https://www.facebook.com/profile.php?id=100068751771443) gave me quite a lot of advice during preparation, and recently I've finally started to see a bit of a direction for the deck.
 
-> Editor's note: 蹦蹦 often used the Modern format as an example during the interview. After actual verification this time, he really is "an uncle who likes playing Modern Yawgmoth." Readers, be sure to visit [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund) to experience the fun and the addictive charm.
+> Editor's note: 蹦蹦 often used the Modern format as an example during the interview. After actual verification this time, he really is "an uncle who likes playing Modern Jund." Readers, be sure to visit [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund) to experience the fun and the addictive charm.
 
 #### Q7: What type of player do you consider yourself? Which kind of game plan are you better at? Is there a simple but classic turn you can share with readers?
 
@@ -90,7 +90,7 @@ On one day of the weekend I might go out to a tournament, and the other day my w
 
 #### Q11: Can you name a few players who have influenced you, and say what you learned from them?
 
-A: From abroad, it's [Reid Duke](https://www.channelfireball.com/author/Reid-Duke), a player who is extremely good at Yawgmoth, with excellent results, sportsmanship, and character; his skill and his physical and mental state are all worth studying.
+A: From abroad, it's [Reid Duke](https://www.channelfireball.com/author/Reid-Duke), a player who is extremely good at Jund, with excellent results, sportsmanship, and character; his skill and his physical and mental state are all worth studying.
 David Yeh, the three-kid dad of the Magic scene, aka [約力昂大叔](https://www.facebook.com/profile.php?id=100068751771443), is a player I've known for a long time, and I'm really happy we could go to Worlds together. He's a dad like me, so we can exchange ideas on all kinds of levels.
 SamuelChang aka [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689), founder of 及殺隊, is a player with a lot of ideas, and I learned a great many concepts from him.
 永銘大大, a very skilled veteran player I've known for a long time, whom I also often ask for playing tips.
@@ -102,7 +102,7 @@ A: On weeknights when I'm free, I pick one or two days to play weekly events for
 On weekends when I'm free I look for MITQs, mostly showing up at Taipei events. Back when I kept failing to qualify, I went to [貓腳印桃園店](https://www.facebook.com/CatFootPrintTaoyuan.tw/) a few times XD.
 In the two weeks before the main MIT event I practice a bit more intensively, mostly playing at [CardMaster](https://www.facebook.com/cardmaster.tw). Honestly, compared to many young people, my recent amount of practice isn't actually that much. I think I've simply been playing for a longer time, so I've accumulated some experience... though I actually also had a very long gap in the middle XD.
 On the work side, I keep work and leisure fairly separate, with little influence on each other. I normally work at the Ministry of Labor, handling international affairs-related business. If I had to say, it's my English ability that has made reading cards easier for me all along.
-When I play MITQs, I occasionally also bust out in the Top 8 or even the preliminaries XD. At those times I vent my feelings on my fan page [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund) and give everyone a laugh, and then I can keep playing afterward. It's a way of keeping myself balanced.
+When I play MITQs, I occasionally also bust out in the Top 8 or even the preliminaries XD. At those times I vent my feelings on my fan page [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund) and give everyone a laugh, and then I can keep playing afterward. It's a way of keeping myself balanced.
 
 #### Q13: This is a card game with great depth but also relatively hard to pick up. If you were to briefly introduce the charm of Magic: The Gathering, how would you describe it to a newcomer?
 

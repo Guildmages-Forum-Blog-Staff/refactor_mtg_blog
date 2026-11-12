@@ -71,7 +71,7 @@ After seven preliminary rounds, these eight players finally made the top eight:
 
 In the end, the Rakdos Midrange piloted by 蹦蹦 took the championship, and the Lotus Field Combo piloted by another Taipei player, zhi-mao, took second place. Both earned entry to the 2024 Pro Tour, and the champion also earned entry to the 30th World Championship. Let's wish both players continued success in international events!
 
-蹦蹦 also shared his MIT tournament report on his personal Facebook fan page, [Uncle Yawgmoth's Daily Life](https://www.facebook.com/UncleJund). Interested readers are welcome to take a look; I'm sure you'll learn a lot whether or not you play Rakdos!
+蹦蹦 also shared his MIT tournament report on his personal Facebook fan page, [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund). Interested readers are welcome to take a look; I'm sure you'll learn a lot whether or not you play Rakdos!
 
 [蹦蹦's Season 4 MIT tournament report link](https://www.facebook.com/UncleJund/posts/pfbid02MzjMXXhFry1RRaioHPRa3YPFrFNccUQMnorMYQS2tDSAaJezGym8CLGsa7WeUC5Fl)
 ![Rakdos Midrange decklist link](https://images.guildmagesforum.tw/posts/MIT-4-Review/090791daaf4a.webp)
