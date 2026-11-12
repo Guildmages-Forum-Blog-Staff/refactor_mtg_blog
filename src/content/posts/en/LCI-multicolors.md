@@ -407,7 +407,7 @@ Although other Caves can become [Mana Confluence](https://cards.scryfall.io/larg
 **cephille**: 2.5
 These five Caves are identical except for the colors they can produce. Mid-to-late game you can also pay five and tap and sacrifice it at sorcery speed to Discover 4, which is a mid-to-late-game way to generate card advantage. Play it if the color is right.
 
-![278](https://cards.scryfall.io/large/front/b/c/bc4a65de-23b5-48f0-b8b7-94608eaced3e.jpg?1698446627)
+![278](https://cards.scryfall.io/large/front/b/c/bc7d3957-b483-4a1f-a244-293c90032f5e.jpg?1698446627)
 
 **cephille**: 3.0
 A graveyard-hate card for the Cave theme: the more colors of cards it eats, the more colors it can produce itself, which should be a very nice mid-game fixing land. When needed, it can also exile three permanent cards from the opponent's graveyard to stop their Descend 4 or Descend 8. A land that is useful in both main deck and sideboard games is great; if you get one, try not to play it too early, because mid-to-late game it can earn you more resources!
