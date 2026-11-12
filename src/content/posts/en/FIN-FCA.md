@@ -162,7 +162,7 @@ Comment: The king has many powerful activated abilities, worth using dual lands 
 <!---24--->
 {% mtgpick "fca" 24 %}
 Score: 4.0
-Comment: It can destroy both an Equipment and a legendary creature on entering; in this set it is a creature with a very powerful enters-the-battlefield ability.
+Comment: It can destroy both an Equipment and a Saga creature on entering; in this set it is a creature with a very powerful enters-the-battlefield ability.
 
 <!---25--->
 {% mtgpick "fca" 25 %}
@@ -298,7 +298,7 @@ Comment: A quality creature for all-out aggro decks; the life gap is easily pull
 <!---51--->
 {% mtgpick "fca" 51 %}
 Score: 2.5
-Comment: In Limited it is mostly a heavily colored dud, and being uncounterable is a freebie.
+Comment: In Limited it is mostly a heavily colored Negate, and being uncounterable is a freebie.
 
 <!---52--->
 {% mtgpick "fca" 52 %}

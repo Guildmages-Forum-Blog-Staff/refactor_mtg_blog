@@ -24,15 +24,15 @@ Around August 2023, I, a.k.a. [cephille](https://www.facebook.com/Pignosemtgworl
 
 Since we had such an opportunity, what were we waiting for? Say it and do it, let's go!
 
-The site uses Hexo as its framework, is written in Markdown, and is hosted on GitHub; the whole site was built single-handedly by Monkey King (Tainan Monkey King), which was truly no easy feat. After about a month of preparation, the site finally went live on August 20, 2023, and [the Facebook page of the same name](https://www.facebook.com/guildmagesforumtw) went public on September 7, 2023. And just like that, Guildmages' Forum (GF for short below) was born.
+The site uses Hexo as its framework, is written in Markdown, and is hosted on GitHub; the whole site was built single-handedly by MiohitoKiri5474, which was truly no easy feat. After about a month of preparation, the site finally went live on August 20, 2023, and [the Facebook page of the same name](https://www.facebook.com/guildmagesforumtw) went public on September 7, 2023. And just like that, Guildmages' Forum (GF for short below) was born.
 
-After the site opened, we gradually began recruiting, and the articles we published became more diverse; basically we spent our days playing cards and making friends, and whenever we met other players we would give them the Amway pitch XD
+After the site opened, we gradually began recruiting, and the articles we published became more diverse; basically we spent our days playing cards and making friends, and whenever we met other players we would pitch the site to them XD
 
 During this period, the site's important third collaborator [Jru](/en/authors/JruMTG/) also joined the team. His solid grounding in the rules and all-around ability have made him an extremely important partner in running the site to this day. About three months after the site opened, a friend kindly provided this promotional logo image. It looks small when shown on Facebook, but the actual image looks like this, so let us show it off here.
 
 ![](https://guildmagesforum.tw/images/logo.jpg)
 
-> The three animals should need no special explanation. As for why the five colors are arranged counterclockwise, it is mainly to avoid any worries about infringing on the Old Wizards' patent. If you care, grab a mirror and look at it that way.
+> The three animals should need no special explanation. As for why the five colors are arranged counterclockwise, it is mainly to avoid any worries about infringing on Wizards' patent. If you care, grab a mirror and look at it that way.
 
 As of the time this post is uploaded, the site has a total of 137 published articles (including this one), of which Limited articles are the most numerous at 41 in total, which is a considerable achievement. Judging from the overall completeness and depth of the articles, you can imagine the effort the team members and authors have put in.
 
@@ -58,7 +58,7 @@ As an editing member of GF, the most important thing is to serve as the bridge b
 
 ### Web Administration Members
 
-As mentioned at the start, Monkey King is the site's main administrator, but as the site's workload has grown, so has the load of maintaining a website, and we had to look for more web administration members. We are very happy that, a few months after launch, professional programmers were willing to join the team and even helped develop some new features. Many thanks! We have to say the MTG world really is full of hidden talent!
+As mentioned at the start, MiohitoKiri5474 is the site's main administrator, but as the site's workload has grown, so has the load of maintaining a website, and we had to look for more web administration members. We are very happy that, a few months after launch, professional programmers were willing to join the team and even helped develop some new features. Many thanks! We have to say the MTG world really is full of hidden talent!
 
 ### Readers
 

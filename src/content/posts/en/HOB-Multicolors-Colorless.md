@@ -192,7 +192,7 @@ Comment: A 3-mana flash 2/2 reach may not be very impressive, but the extra tapp
 
 {% mtgpick "hob" 2 %}
 Rating: 2.5
-Comment: A two-mana 1/2 flying bird that draws 2 on entering and lets you choose whether to put a basic land on top of your library. So versatile!
+Comment: A two-mana 1/2 flying bird that gains 2 life on entering and lets you choose whether to put a basic land on top of your library. So versatile!
 
 {% mtgpick "hob" 3 %}
 Rating: 3.0
@@ -272,6 +272,6 @@ Comment: Paired with Equipment it reliably creates 2/2 Dwarves, which is quite g
   
 ## Conclusion
 
-Because the set has fewer cards this time, I tried putting colorless and multicolor cards in the same article, but as I wrote, I actually got the feeling of touring the Hobbit's Middle-earth for a week! From the legendary characters and the various inhabitants they met on their journey in the multicolor section, to the important treasures of the story and the protagonists' signature weapons in the colorless section, and finally revisiting the story's key scenes again in the lands section.
+Because the set has fewer cards this time, I tried putting colorless and multicolor cards in the same article, but as I wrote, I actually got the feeling of taking a grand tour around the Hobbit's Middle-earth! From the legendary characters and the various inhabitants they met on their journey in the multicolor section, to the important treasures of the story and the protagonists' signature weapons in the colorless section, and finally revisiting the story's key scenes again in the lands section.
 
 Writing this felt like reading a Hobbit setting book, with Magic: The Gathering cards as the vehicle for unfolding the look of Middle-earth in front of players once more. The only regret is probably that there really are too few cards this time. Why not make it a big set of 260-plus cards?

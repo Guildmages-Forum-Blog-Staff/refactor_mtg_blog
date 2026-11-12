@@ -1,5 +1,5 @@
 ---
-title: "Fractured Reality (FRA) Limited Review — White"
+title: "Reality Fracture (FRA) Limited Review — White"
 date: "9/22/2026, 10:22:22 AM"
 preview: false
 categories:
@@ -14,9 +14,9 @@ excerpt: "White is healing and order. May all things in the world find peace and
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-White/).
 
-Fractured Reality (FRA) has its prerelease events on September 25, 2026, and officially releases a week later on October 2, 2026. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of FRA Limited reviews!
+Reality Fracture (FRA) has its prerelease events on September 25, 2026, and officially releases a week later on October 2, 2026. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of FRA Limited reviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Explained](https://guildmagesforum.tw/en/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fracture Mechanics Explained](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 
@@ -109,7 +109,7 @@ Comment: Pity it can only dig up permanents from your own graveyard, and white i
 
 {% mtgpick "fra" 21 %}
 Rating: 2.5
-Comment: A curve creature with a good body and trample, and its team-wide pump ability is also useful in the late game.
+Comment: A curve creature with a good body and evasion, and its team-wide pump ability is also useful in the late game.
 
 {% mtgpick "fra" 22 %}
 Rating: 3.0

@@ -41,13 +41,13 @@ Comment: Can be used to fix your colors and enable delirium, and it's a decent t
 <!---126--->
 {% mtgpick "dsk" 126 %}
 Score: 3.0
-Comment: Even paying five for a four-drop is well worth it, but the enchantment cost is rather heavy, so I recommend treating it as a four-drop on the curve. Changing "dies" to "exile" can occasionally wreck your opponent's game plan.
+Comment: Even at four mana to deal 5 damage it's well worth playing, but sacrificing an enchantment is a rather steep cost, so I recommend just treating it as a four-mana spell on the curve. Changing "dies" to "exile" can occasionally wreck your opponent's game plan.
 
 
 <!---127--->
 {% mtgpick "dsk" 127 %}
 Score: 2.5
-Comment: Same as above. The cost of eating an enchantment/creature is not small, and if you can't do it, the ETB body fails to make the grade.
+Comment: Same as above. The cost of sacrificing an enchantment/creature is not small, and if you can't do it, the ETB body fails to make the grade.
 
 
 <!---128--->
@@ -72,7 +72,7 @@ Comment: A great creature to sacrifice, and it has a chance to bring resources b
 <!---131--->
 {% mtgpick "dsk" 131 %}
 Score: 2.0
-Comment: Passing with nothing on turn four is a weakness. Copying two or more spells is a big gain, but given how many enchantments there are to answer in this set, you may not have that many instants / sorceries to use it on.
+Comment: Passing with nothing on turn four is a weakness. Copying two or more spells is a big gain, but given that much of this set's removal comes as enchantments, you may not have that many instants / sorceries to use it on.
 
 Author's extra comment:
 Score: 3.0
@@ -83,7 +83,7 @@ Comment: The team's average score is 2.0, but I think its value is higher and it
 <!---132--->
 {% mtgpick "dsk" 132 %}
 Score: 3.0
-Comment: Great body, has trample, and can refill your resources. Everything red wants is on this creature.
+Comment: Great body, has evasion, and can refill your resources. Everything red wants is on this creature.
 
 
 
@@ -126,7 +126,7 @@ Comment: Rummaging matters more in this set than usual (for delirium), but it's 
 <!---139--->
 {% mtgpick "dsk" 139 %}
 Score: 3.0
-Comment: Early on it's a vanilla body, but in the mid to late game it transforms into a high-power attacker with trample, putting heavy pressure on your opponent without needing to force delirium.
+Comment: Early on it's a vanilla body, but in the mid to late game it transforms into a high-power attacker with built-in evasion, putting heavy pressure on your opponent without needing to force delirium.
 
 
 <!---140--->
@@ -221,7 +221,7 @@ Comment: At first glance it looks a bit like {% mtgcard "Diversion Specialist" t
 <!---155--->
 {% mtgpick "dsk" 155 %}
 Score: 4.0
-Comment: Its value as repeatable board removal alone earns a high score. There are plenty of red burn spells in this set, and once you meet the delirium condition, it transforms them into something qualitatively better.
+Comment: Its value as removal that can hit multiple creatures alone earns a high score. There are plenty of red burn spells in this set, and once you meet the delirium condition, it transforms them into something qualitatively better.
 
 
 

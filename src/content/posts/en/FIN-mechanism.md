@@ -20,7 +20,7 @@ excerpt: "Let's see what mechanics appear in Final Fantasy!"
 
 Transform double-faced cards (TDFCs) have two faces: the front has an upward-pointing arrow symbol in the top left corner, and the back has a downward-pointing arrow symbol in the top right corner.
 
-A TDFC has only its front-face characteristics in any zone other than the battlefield and the stack. On the battlefield or the stack, if it is face up, it has only its front-face characteristics; if it is face down, it has only its back-face characteristics. However, since a TDFC's back face has no mana cost, there are two special cases:
+A TDFC has only its front-face characteristics in any zone other than the battlefield and the stack. On the battlefield or the stack, if it is front face up, it has only its front-face characteristics; if it is back face up, it has only its back-face characteristics. However, since a TDFC's back face has no mana cost, there are two special cases:
 - A TDFC on its back face calculates its mana value (Mana Value) based on the front face's mana cost.
 - A TDFC on its back face determines its color characteristics from the leftmost color indicator in the back face's type line.
 > Take the example card [Cecil](https://scryfall.com/card/fin/91/cecil-dark-knight-cecil-redeemed-paladin): the front is a black creature with mana value 1, named Cecil, Dark Knight. The back is a white creature with mana value 1, named Cecil, Redeemed Paladin.

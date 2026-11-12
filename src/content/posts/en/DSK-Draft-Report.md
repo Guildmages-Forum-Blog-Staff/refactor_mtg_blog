@@ -198,7 +198,7 @@ There was also a WG 5-3 run at Platinum rank whose photo I didn't save. As I rec
 
 UG splashing B, 5-3 (Platinum rank)
 
-I opened [Overlord of the Balemurk](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk), in the third pack and couldn't resist the temptation to take it. But in fact I shouldn't have taken it, and even having taken it I didn't need to play it; I should have just focused on UG. The penalty for playing it was running two more [Moldering Gym//Weight Room](https://scryfall.com/card/dsk/190/moldering-gym-weight-room) that got in the way of my own tempo.
+I opened [Overlord of the Balemurk](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk) in the third pack and couldn't resist the temptation to take it. But in fact I shouldn't have taken it, and even having taken it I didn't need to play it; I should have just focused on UG. The penalty for playing it was running two more [Moldering Gym//Weight Room](https://scryfall.com/card/dsk/190/moldering-gym-weight-room) that got in the way of my own tempo.
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Draft-Report/58d89e2748a0.webp)
 
@@ -256,7 +256,7 @@ One more thing: earlier I had a UG 1-3 run, and my only win came from coincident
 
 No photo recorded, 0-3 (Silver rank)
 
-This was my very first draft. I kept trying to draft the UB style from [that article](https://guildmagesforum.tw/en/DSK-Prerelease-Experience-Cephille/) about my prerelease opening, so I took two three-mana combo cards [Twist Reality](https://scryfall.com/card/dsk/77/twist-reality), lots of removal, [Island](https://scryfall.com/card/dsk/48/daggermaw-megalodon)/[Swamp cycling](https://scryfall.com/card/dsk/116/spectral-snatcher), and [Live or Die](https://scryfall.com/card/dsk/107/live-or-die) planning to dig the lands back out of the cycle for the late game. It turned out playing like that was terrible: black-based creatures defend poorly, and trading removal one-for-one against aggro is a huge loss. In one game I played against RW and remember it vividly: I had four or five lands on the battlefield, played two creatures to block one of the opponent's, then used two removal spells to kill one creature each, and then I had no hand while the RW opponent still had 4 cards in hand! Seriously? How am I supposed to win playing UB with no resources!?
+This was my very first draft. I kept trying to draft the UB style from [that article](https://guildmagesforum.tw/en/DSK-Prerelease-Experience-Cephille/) about my prerelease opening, so I took two copies of the three-mana counterspell [Twist Reality](https://scryfall.com/card/dsk/77/twist-reality), lots of removal, [Island](https://scryfall.com/card/dsk/48/daggermaw-megalodon)/[Swamp cycling](https://scryfall.com/card/dsk/116/spectral-snatcher), and [Live or Die](https://scryfall.com/card/dsk/107/live-or-die) planning to bring the landcyclers back from the graveyard for the late game. It turned out playing like that was terrible: black-based creatures defend poorly, and trading removal one-for-one against aggro is a huge loss. In one game I played against RW and remember it vividly: I had four or five lands on the battlefield, played two creatures to block one of the opponent's, then used two removal spells to kill one creature each, and then I had no hand while the RW opponent still had 4 cards in hand! Seriously? How am I supposed to win playing UB with no resources!?
 
 Here is a response to [the black win rate problem I mentioned earlier](#dsk-color-pair-strength). It was basically all reflected in these matches:
 

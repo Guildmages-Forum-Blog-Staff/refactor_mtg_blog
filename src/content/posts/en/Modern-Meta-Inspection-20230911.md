@@ -74,7 +74,7 @@ Still, some people play white-blue for [The Reality Chip](https://cards.scryfall
 
 Omnath is a deck I'm quite bullish on recently, mainly because of this new card:
 ![](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184)
-For one mana I now make a [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500): it presses down one of your cards and I draw a card. So unfair, I love it.
+For one mana I now make a [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500): it locks away one of your cards and I draw a card. So unfair, I love it.
 Or I can discard [Solitude](https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105) to gain an extra card. The resource volume feels staggering, and with [The One Ring](https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1690817875), a hand overflowing with cards should be the norm.
 I expect the win rate against Scam to go up a lot. What all red-black-based decks fear most is this kind of one-for-many card.
 

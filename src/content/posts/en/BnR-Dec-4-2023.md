@@ -65,15 +65,15 @@ The scope of this ban is quite broad. Here again I'll explain by format.
 ### Pioneer, Explorer
 
 1. Mono-Green Devotion is probably dead. The combo is gone, so it may switch to Stompy or need to find another mana outlet
-2. Discover 3 Combo is dead, and its moving parts are gone
+2. Discover 3 Combo is dead, and its key engine piece is gone
 3. Rakdos Midrange is estimated to firmly hold the top spot in the metagame. One hard-to-beat mainstream deck is gone, and it gains Smuggler's Copter as reinforcement
 4. Rakdos Sacrifice will also return to dominance, for the same reason, though it has more bad matchups than the midrange version (control, Phoenix)
 
 Rakdos Midrange was already comfortable in the LCI environment, because green devotion was being suppressed by the Discover Combo and so lowered in numbers, and control also increased to counter the Discover Combo, which is a rather comfortable midrange matchup to begin with.
 Other hard matchups like Convoke, Greasefang, and Gruul Midrange also dropped in numbers because of the Discover Combo.
-Not to mention that with Smuggler's Copter unbanned, I believe the play rate of [Reckoner Bankbuster](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706) should drop. Playing a two-drop to draw two cards is still not as good as looting outright without a hype-train. Although Bankbuster gains cards and Copter only loots, in terms of tempo Copter should still be smoother, and if you discard a permanent card it can also pair with [Molten Collapse](https://cards.scryfall.io/large/front/2/4/2487d124-210b-4808-888c-cd0a78aebd90.jpg?1699044556).
+Not to mention that with Smuggler's Copter unbanned, I believe the play rate of [Reckoner Bankbuster](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706) should drop. Paying two mana to cast it and two more to draw is still not as good as just attacking and looting. Although Bankbuster gains cards and Copter only loots, in terms of tempo Copter should still be smoother, and if you discard a permanent card it can also pair with [Molten Collapse](https://cards.scryfall.io/large/front/2/4/2487d124-210b-4808-888c-cd0a78aebd90.jpg?1699044556).
 So should we call it a pity? The MIT didn't wait for LCI to be released, but thinking about that disgusting tournament distribution, never mind.
-Similarly, the numbers of Rakdos Scarifice will also increase, but since it already struggles against control or Phoenix, its play rate should not be as high as Rakdos Midrange.
+Similarly, the numbers of Rakdos Sacrifice will also increase, but since it already struggles against control or Phoenix, its play rate should not be as high as Rakdos Midrange.
 
 #### Is Discover Really That Damn Bad?
 

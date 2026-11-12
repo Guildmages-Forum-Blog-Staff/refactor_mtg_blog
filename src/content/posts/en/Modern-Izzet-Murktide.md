@@ -69,7 +69,7 @@ Two Flusterstorm to fight cascade.
 Two Cast into the Fire to fight artifacts (especially The One Ring).
 Two Dress Down to fight Elementals + Urza's Saga.
 One Unlicensed Hearse is just for graveyard decks (like Living End / Grinding Station).
-One Blood Moon + one Magus of the Moon to fight Urza's Saga, multicolor decks, green Titan decks, Creativity, and so on. I chose to bring one Magus for games where the opponent doesn't board in their hate cards: Murktide opponents usually don't bring many removal spells (some even take a few out), so the creature version of Blood Moon is a bit better than the regular one, since it dodges counters and removal.
+One Blood Moon + one Magus of the Moon to fight Urza's Saga, multicolor decks, green Titan decks, Creativity, and so on. I chose to bring one Magus to surprise opponents in closed-decklist events: Murktide opponents usually don't bring many removal spells (some even take a few out), so the creature version of Blood Moon is a bit better than the regular one, since it dodges counters and removal.
 One Force of Negation + one Mystical Dispute \more counters/
 One Fury to fight small-creature decks like Boros Burn or mirror matches.
 One Commandeer to fight high-value decks like Creativity. Against Creativity, grabbing the opponent's Karns and The One Ring feels great (in the mirror, whoever lands the small Karn first wins), and green Titan decks run The One Ring now too, so taking it and drawing cards off it feels great as well.
@@ -81,7 +81,7 @@ One Commandeer to fight high-value decks like Creativity. Against Creativity, gr
 
 ### Starting Hands & Mulligan
 
-By my understanding, Murktide opening hands are usually quite loose (in games where the opponent isn't bringing hate cards):
+By my understanding, Murktide opening hands are usually quite loose (in closed-decklist events):
 1 ~ 2x Lands (not color-screwed)
 1 ~ 2x One Drop Creatures
 3 ~ 4x Cantrip or Removal or Counters (one of each is best)
@@ -116,7 +116,7 @@ The only hands you truly can't keep are:
 3. One land with no cantrip
 
 The reason you can't keep no-land or one-land-no-cantrip hands is obvious: no follow-up resources, and the land is likely to die halfway down the road.
-A notable exception: against Boros Burn, Hammer, and other near-aggro decks that force Murktide to play almost like a control deck, you might consider keeping those hands on the draw (usually in sideboard games or matches with hate cards).
+A notable exception: against Boros Burn, Hammer, and other near-aggro decks that force Murktide to play almost like a control deck, you might consider keeping those hands on the draw (usually in sideboard games or open-decklist events).
 
 > Yes, that's right! Izzet Murktide is a control deck that meets the bare minimum of support: cheap removal (Lightning Bolt, Unholy Heat), hard counters (Counterspell, Subtlety, Force of Negation) plus some soft counters (Spell Pierce, Mystical Dispute), a powerful finisher (two swings from Murktide), and cheap resource engines (Consider, Preordain, Expressive Iteration). It's only missing sustained resources and a powerful sweeper (though putting a sweeper in a tempo deck is a weird idea in the first place).
 
@@ -161,7 +161,7 @@ Most of the time you look at the top of the opponent's library, and only occasio
 Also, when I have Ragavan, I wait until Ragavan's combat damage trigger has resolved before activating Bauble, unless damage/resources/the board are really tight, in which case I decide whether to dash Ragavan to steal a card based on the opponent's top card.
 
 > The best example here is the Boros Burn matchup: if the opponent will have lethal on board next turn and is tapped out now, I'd consider dashing Ragavan if stealing that card gives me a chance to counter-kill or stabilize, but if it's just a land I'd consider casting it normally and keeping it as a blocker.
-> Another example is when the opponent is on white Hammer with no cards in hand and Sigarda's Aid on board: if I see the top card won't give them Colossus Hammer, I won't dash Ragavan, but if it will, I'll dash and steal it to see if I get another turn of beats.
+> Another example is when the opponent is on white Hammer with no cards in hand and Sigarda's Aid on board: if I see the top card won't give them Colossus Hammer, I won't dash Ragavan, but if it's a combo piece, I'll dash and steal it to see if I can scrape by for another turn.
 
 ### Sideboarding Guild
 
@@ -314,7 +314,7 @@ Not too hard a matchup. Time your small creatures or your Murktide well, and if 
 
 #### Death's Shadow
 
-It gets much easier once you kill their creatures and survive the early pressure, so only the small cards come in here.
+It gets much easier once you kill their creatures and survive the early pressure, so only cheap removal comes in here.
 
 |       Side Out       |        Side In        |
 | :------------------: | :-------------------: |

@@ -1,5 +1,5 @@
 ---
-title: "Fractured Reality (FRA) Limited Overview: Green"
+title: "Reality Fracture (FRA) Limited Overview: Green"
 date: "9/23/2026, 11:27:19 PM"
 updated: "2026-09-24 23:43:36"
 preview: false
@@ -15,9 +15,9 @@ excerpt: "Use trampling creatures to beat the heck out of the scumbag blue plane
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-Green/).
 
-Fractured Reality (FRA) prerelease events take place on September 25, 2026, with the official release a week later on October 2, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of FRA Limited overviews!
+Reality Fracture (FRA) prerelease events take place on September 25, 2026, with the official release a week later on October 2, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of FRA Limited overviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fracture Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 
@@ -38,7 +38,7 @@ Comment: Deathtouch guarantees at least a one-for-one trade on offense and defen
 
 {% mtgpick "fra" 98 %}
 Rating: 2.5
-Comment: One card that can be used twice also counts as gaining card advantage. A 4/4 trampler for four mana is a perfectly acceptable curve. Trample is important for planeswalker offense and defense in this set, since it forces the opponent to block with more creature toughness.
+Comment: One card that can be used twice also counts as gaining card advantage. A 4/4 trampler for four mana is a perfectly acceptable curve. Trample is important for planeswalker offense and defense in this set, since it forces the opponent to commit bigger or more creatures to block.
 
 {% mtgpick "fra" 99 %}
 Rating: 3.0
@@ -70,7 +70,7 @@ Comment: One card that provides a large amount of mana. Although the mana produc
 
 {% mtgpick "fra" 106 %}
 Rating: 4.0
-Comment: The color requirements are too heavy for the rating to go higher, though this set's Heartwood token theme can ease the pressure of those requirements a little. The toughness is tremendous, and the triggered ability can find any land, not limited to basics.
+Comment: The color requirements are too heavy for the rating to go higher, though this set's Heartwood token theme can ease the pressure of those requirements a little. The body is tremendous, and the triggered ability can find any land, not limited to basics.
 
 {% mtgpick "fra" 107 %}
 Rating: 3.5
@@ -82,7 +82,7 @@ Comment: Garruk's axe. The power boost is large, letting small creatures trade u
 
 {% mtgpick "fra" 109 %}
 Rating: 3.0
-Comment: This set has a lot of planeswalkers, so the toughness growth is not to be underestimated. In the late game it is also a very strong mana sink, converting excess mana into card resources while continuing to grow its toughness.
+Comment: This set has a lot of planeswalkers, so its growth is not to be underestimated. In the late game it is also a very strong mana sink, converting excess mana into card resources while continuing to grow its body.
 
 {% mtgpick "fra" 110 %}
 Rating: 0.0
@@ -111,7 +111,7 @@ Comment: A very good curve filler; using the ability to remove the opponent's fl
 {% mtgpick "fra" 116 %}
 Rating: 2.5
 Comment: The former king is back. This set has quite a few surveil and mill spells, so growing to 4/5 shouldn't be hard.
-Also, Tarmogoyf checks the card types in all players' graveyards! Please double-check when counting toughness. If there is no instant in the graveyards and the opponent casts [No Admittance](https://scryfall.com/card/fra/89/no-admittance) targeting a 2/3 Tarmogoyf, Tarmogoyf won't die! For the detailed rules, see [this article](https://guildmagesforum.tw/en/What-is-SBA/).
+Also, Tarmogoyf checks the card types in all players' graveyards! Please double-check when calculating its power and toughness. If there is no instant in the graveyards and the opponent casts [No Admittance](https://scryfall.com/card/fra/89/no-admittance) targeting a 2/3 Tarmogoyf, Tarmogoyf won't die! For the detailed rules, see [this article](https://guildmagesforum.tw/en/What-is-SBA/).
 
 {% mtgpick "fra" 117 %}
 Rating: 2.0
@@ -147,7 +147,7 @@ Comment: As long as you cast a creature with power four on turn four, it comes d
 
 {% mtgpick "fra" 261 %}
 Rating: 3.0
-Comment: Four mana gets you 5/5 worth of toughness in total; although both creatures have rather small toughness, it is acceptable. At end of turn, besides resetting Mowu, it also resets the Heartwood token.
+Comment: Four mana gets you 5/5 worth of stats in total; although both creatures are on the small side, it is acceptable. At end of turn, besides resetting Mowu, it also resets the Heartwood token.
 
 {% mtgpick "fra" 262 %}
 Rating: 3.0
@@ -155,7 +155,7 @@ Comment: Producing any color is a big plus. If you can produce four or more mana
 
 {% mtgpick "fra" 263 %}
 Rating: 3.0
-Comment: Good toughness that can trade up, and in the late game you can activate the ability at instant speed to pick up the lands you surveilled or milled away, much stronger than an ordinary curve filler.
+Comment: A good body that can trade up, and in the late game you can activate the ability at instant speed to pick up the lands you surveilled or milled away, much stronger than an ordinary curve filler.
 
 {% mtgpick "fra" 264 %}
 Rating: 3.0

@@ -56,7 +56,7 @@ Marvel Super Heroes (MSH) will hold its prerelease events on June 19, 2026, and 
  
  {% mtgpick "MSH" 248 %}
  Score: 3.0
- Comment: As mentioned before, the high proportion of flyers in this set means the flying this Equipment grants adds little, while the ability becoming a creature ability is a big plus in the artifact theme. In other color pairs, it can be equipped directly on entering to give +2/+1 and flying, a card worth playing.
+ Comment: As mentioned before, the high proportion of flyers in this set means the flying this Equipment grants adds little, while its ability to become a creature is a big plus in the artifact theme. In other color pairs, it can be equipped directly on entering to give +2/+1 and flying, a card worth playing.
         
  
  {% mtgpick "MSH" 249 %}
@@ -102,7 +102,7 @@ Marvel Super Heroes (MSH) will hold its prerelease events on June 19, 2026, and 
  
  {% mtgpick "MSH" 257 %}
  Score: 2.5
- Comment: This set's common two-color lands are lifegain lands. Unlike the scry lands or surveil lands, they can be played as long as you have one of the colors, so they should be used once your deck colors are settled. Worth mentioning: past sets' common two-color lands came in only five, while this set has the full cycle of ten, which also makes three-color decks more stable in Limited.
+ Comment: This set's common two-color lands are lifegain lands. Unlike the scry lands or surveil lands, which you can play as long as you touch one of their colors, these should only be used once your deck colors are settled. Worth mentioning: past sets' common two-color lands came in only five, while this set has the full cycle of ten, which also makes three-color decks more stable in Limited.
  
  A.I.M. Labs is the lab where George Tarleton worked before becoming M.O.D.O.K. At the time, the A.I.M. scientists wanted to create a "biological computer" to analyze the mysterious artifact the "Cosmic Cube" ( {% mtglink "Cosmic Cube" %} ), and George, an honest, easily bullied technician with no background, was forcibly strapped to an operating table for genetic and neural modification.
  Unexpectedly, the experiment was "too successful". His brain mutated beyond human limits and his intelligence soared. But the first thing he did with his superhuman intellect was not to crunch data for his boss, but to realize: "I'm this smart, so why am I still listening to these fools?" He immediately used psychic power to kill every scientist who had modified him, seized supreme control of A.I.M., and jumped from a low-level employee to the organization's "chairman".

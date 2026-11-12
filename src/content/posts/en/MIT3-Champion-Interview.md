@@ -10,7 +10,7 @@ categories:
   - "Interview"
 cover: "https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/e80dac8dad3b-cover.jpg"
-excerpt: "Guildmages' Forum traveled to Hsinchu, sunny but still very windy, to interview the low-key and reserved 余弘毅 (丈丈). 丈丈 shares his journey of 'persisting' in this game since 2013. On top of that, the generous 丈丈 also provided a precious World Championship wallpaper, which will be given away to readers in a future event. See the end of the article for the designs!"
+excerpt: "Guildmages' Forum traveled to Hsinchu, sunny but still very windy, to interview the low-key and reserved 余弘毅 (丈丈). 丈丈 shares his journey of 'persisting' in this game since 2013. On top of that, the generous 丈丈 also provided a precious World Championship playmat, which will be given away to readers in a future event. See the end of the article for the designs!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../MIT3-Champion-Interview/).
@@ -71,7 +71,7 @@ As for draft, I put in more than usual, and simulated the cards and strategies o
 
 A: I feel I am more of a player with a "big-picture view." For example, with control decks, the key is to widen the resource gap, so two or three less points of life lost are not necessarily crucial.
 I have never pushed the details to the extreme myself, so "damage math" decks such as UB Murktide and aggro are relatively my weaker areas.
-Rather than my own turns, what I would like to share is the playstyle of [八十岡翔太](https://mtg.fandom.com/wiki/Shota_Yasooka). He is very good at grabbing the timing to "sneak in" attacks, applying and building pressure at the right moments. I highly recommend that readers watch more of 八十岡's videos. Whether it is the timing of attacking with manlands while tapped out, or his attacking choices against aggro decks, I believe you can learn something from them.
+Rather than my own turns, what I would like to share is the playstyle of [Shota Yasooka](https://mtg.fandom.com/wiki/Shota_Yasooka). He is very good at grabbing the timing to "sneak in" attacks, applying and building pressure at the right moments. I highly recommend that readers watch more of Yasooka's videos. Whether it is the timing of attacking with manlands while tapped out, or his attacking choices against aggro decks, I believe you can learn something from them.
 
 #### Q9: I have always been curious that competitive players surely have unique habits when playing. Could you share something beyond the "cards"? Do you have any near-superstitious habits? Or any little tricks for hinting at or misleading your opponent?
 
@@ -116,4 +116,4 @@ A: A pretty good game. Through this game you can get to know different people, w
 
 ![](https://images.guildmagesforum.tw/posts/MIT3-Champion-Interview/5763c57da12f.webp)
 
-> Thanks to 丈丈 for his support and sponsorship. At Guildmages' Forum's second anniversary event, we will additionally give away the Wilds of Eldraine wallpapers that 丈丈 shared with readers. This is a precious souvenir 丈丈 brought back from the World Championship, so please keep following and supporting Guildmages' Forum, and happy New Year to everyone!
+> Thanks to 丈丈 for his support and sponsorship. At Guildmages' Forum's second anniversary event, we will additionally give away the Wilds of Eldraine playmat that 丈丈 shared with readers. This is a precious souvenir 丈丈 brought back from the World Championship, so please keep following and supporting Guildmages' Forum, and happy New Year to everyone!

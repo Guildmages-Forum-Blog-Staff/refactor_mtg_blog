@@ -8,7 +8,7 @@ categories:
   - "DFT"
 cover: "https://images.guildmagesforum.tw/posts/DFT-Green/bc7a04a35bdd-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Green/bc7a04a35bdd-cover.jpg"
-excerpt: "In a set where speed is everything, what does a color that's bad at trample and combat tricks do? Just crush them with card quantity and big bodies!"
+excerpt: "In a set where speed is everything, what does a color that's bad at evasion and combat tricks do? Just crush them with card quantity and big bodies!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../DFT-Green/).
@@ -258,7 +258,7 @@ Comment: A removal spell that doesn't lose resources, can't be countered, and is
 
 
 ## Conclusion
-Because of the set's mechanics (mainly the speed mechanic), I think the pace of this set leans toward the early game, using combat tricks and creatures with trample to reach max speed, and green isn't very good at either. But if it comes down to competing on bodies and resource quantity, green is very competitive!
+Because of the set's mechanics (mainly the speed mechanic), I think the pace of this set leans toward the early game, using combat tricks and evasive creatures to reach max speed, and green isn't very good at either. But if it comes down to competing on bodies and resource quantity, green is very competitive!
 
 This last part has nothing to do with the Limited environment; it's just something I felt like saying.
 I got into Magic: The Gathering during the Aether Revolt era, and coming back after so long to the time I started, I suddenly feel a bit sentimental. As a high schooler when I got into the game, I never would have imagined that one day I'd run a website together with a group of like-minded fellow players (and even work in the related industry), making even the tiniest contribution to the game I love. Looking back over these eight years of playing Magic, I've met so many people along the way, and I'm truly grateful to everyone for their company! We're going to play Magic for the rest of our lives!

@@ -33,12 +33,12 @@ Aetherdrift (DFT) prerelease events run on February 7, 2025, and the set is offi
 <!---187--->
 {% mtgpick "dft" 187 %}
 Score: 3.5
-Comment: Cast it at six mana and you should get at least three 1/1 Insects, which is a huge board advantage. If the ground is stalled, those 1/1 Insects can also make suicide attacks or blocks to chip away at your opponent's life while fattening themselves up. I believe this is a strong card in grindy matchups!
+Comment: Cast it at six mana and you should get at least three 1/1 Insects, which is a huge board advantage. If the ground is stalled, those 1/1 Insects can also make suicide attacks or blocks to chip away at your opponent's life while fattening up this card itself. I believe this is a strong card in grindy matchups!
 
 <!---188--->
 {% mtgpick "dft" 188 %}
 Score: 2.0
-Comment: Having to tap itself to activate the ability is a bit inefficient. You may need to check whether Rakdos has any creatures with power 2 or less that would be a real problem for you; if not, this is probably the score it deserves.
+Comment: Having to tap itself to activate the ability is a bit inefficient. You may need to check whether there are creatures with power 2 or less that cause real trouble when they connect; if not, this is probably the score it deserves.
 Of course, if you are ahead on board, a small creature that gains you life as it attacks is also very strong.
 
 <!---189--->
@@ -49,7 +49,7 @@ Comment: Exhaust only reduces the cost by two for permanents other than itself. 
 <!---190--->
 {% mtgpick "dft" 190 %}
 Score: 3.5
-Comment: It does not even need to be cast to do its job. Just attacking lets you loot, and both crew 1 and menace make you want it in Izzet. Early on, when your small creatures cannot get through, it attacks for you; in the mid to late game, when it cannot get through either, you swap in better creatures and keep attacking. The efficient card filtering that happens along the way should not be underestimated.
+Comment: It does not even need to connect. Just attacking lets you loot, and both crew 1 and menace make you want it in Izzet. Early on, when your small creatures cannot get through, it attacks for you; in the mid to late game, when it cannot get through either, you swap in better creatures and keep attacking. The efficient card filtering that happens along the way should not be underestimated.
 
 
 <!---191--->
@@ -57,7 +57,7 @@ Comment: It does not even need to be cast to do its job. Just attacking lets you
 Score: 3.0
 Comment: The allied-color heavy hitters this time have very demanding color requirements, so from that angle, to cast it in Limited you may need to add a mana or two to the estimate. Under that assumption, a six-mana 4/4 with first strike and trample is still a very strong card for combat, and the searching is great, but in Limited it only finds a creature, artifact, or enchantment with mana value one or less. Unless you have {% mtglink "Marketback Walker" %}, by the time you can cast it, whatever you find will not matter much.
 
-> Note: On an unrelated topic, being able to find two copies of [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) in modern-era formats is so good...
+> Note: On an unrelated topic, being able to find two copies of [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) in Modern is so good...
 
 <!---192--->
 {% mtgpick "dft" 192 %}
@@ -84,7 +84,7 @@ Comment: Reasonable stats with a bit of self-protection. Its discard ability can
 Score: 4.0
 Comment: The 4/4/2 stats are a bit off, but when it enters it finds a Vehicle or Mount to make up for the card disadvantage. While it is on the battlefield, it will basically eat a removal spell; otherwise, paired with some effects that put counters, you should be able to wear your opponent down in a few turns.
 
-> Note: Counters put on it also go onto itself, with one extra counter!
+> Note: When you put counters on it, it gets one extra too!
 
 
 <!---196--->
@@ -254,7 +254,7 @@ Readers are welcome to share the tricks you use to make a killing with Simic in 
 <!---222--->
 {% mtgpick "dft" 222 %}
 Score: 4.0
-Comment: This version of Samut is strong on her own, though there are some bombs that make the board even stronger before she lands. A six-mana 4/5 with first strike, vigilance, and haste is hard to handle. On entry she gives your creatures at least +1/+0, and once she deals first-strike damage and puts the player at speed 2, your other creatures get +2/+0 instead. As for the noncreature cost reduction, it may not matter much by the time you can cast her for six, but if you have some X spells, you can try going big for once.
+Comment: This version of Samut is strong on her own, and is a bomb that gets even stronger if you already have some board when she lands. A six-mana 4/5 with first strike, vigilance, and haste is hard to handle. On entry she gives your creatures at least +1/+0, and once she deals first-strike damage and your speed goes up to 2, your other creatures get +2/+0 instead. As for the noncreature cost reduction, it may not matter much by the time you can cast her for six, but if you have some X spells, you can try going big for once.
 
 > Although she is a three-color legend, she is strong enough to be worth lightly splashing a third color for, so if your colors line up, give it a try!
 
@@ -270,7 +270,7 @@ Comment: Before exhausting, it is very ordinary, and if the exhaust X is not big
 <!---224--->
 {% mtgpick "dft" 224 %}
 Score: 3.5
-Comment: A flying deathtouch Snake can basically trade for a creature, and four-mana exhaust is very powerful: pass for four turns, activate exhaust on your opponent's turn, and on turn five you should have seven mana to play with.
+Comment: A flying deathtouch Snake can basically trade for a creature, and four-mana exhaust is very powerful: pass on turn four, activate exhaust on your opponent's turn, and on turn five you should have seven mana to play with.
 
 
 <!---225--->

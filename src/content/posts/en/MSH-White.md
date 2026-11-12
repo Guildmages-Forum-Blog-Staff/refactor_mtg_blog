@@ -32,7 +32,7 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  {% mtgpick "MSH" 1 %}
  Score: 2.5
- Comment: A decent three-drop. Although the 3/2 body is slightly worse than a Standard 3/3, it is after all a card that generates value. The black-white theme this time is "Attacks Alone," so if you have a powerful or trampling lone attacker, this is a very good value engine.
+ Comment: A decent three-drop. Although the 3/2 body is slightly worse than a standard 3/3, it is after all a card that generates value. The black-white theme this time is "Attacks Alone," so if you have a powerful or evasive lone attacker, this is a very good value engine.
 
 > Sharon Carter, also known as Agent 13, is, as the name suggests, S.H.I.E.L.D. agent number 13. In the cinematic universe she's mostly referred to by her real name, and had a brief romance with Cap in *Captain America: The Winter Soldier*. In the comics she's the younger sister of Cap's true love Peggy Carter, changed to a niece in the films, and later in *The Falcon and the Winter Soldier* she apparently turned bad and became an underground broker.
 
@@ -86,7 +86,7 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  {% mtgpick "MSH" 10 %}
  Score: 3.5
- Comment: Although its toughness is only 1, flying, first strike, two trample-granting abilities, and ward 1 leave nothing to criticize about its frame. The strong trample also makes it one of the best attackers in the black-white theme, and even when not attacking alone, its triggered ability makes the whole board bigger. A very versatile, good creature.
+ Comment: Although its toughness is only 1, flying and first strike, two abilities that help it get through, plus ward 1, leave nothing to criticize about its body. Its strong evasion also makes it one of the best attackers in the black-white theme, and even when not attacking alone, its triggered ability makes the whole board bigger. A very versatile, good creature.
 
  > If you only watched Marvel films up to Endgame you may be confused about who this is. He's the second Captain America who took up the shield, the original Falcon. As the second-generation spiritual leader, making all the heroes on the board stronger together is also quite faithful.
 
@@ -98,7 +98,7 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  {% mtgpick "MSH" 12 %}
  Score: 3.5
- Comment: A very strong uncommon. Flying, vigilance, and trample let it defend, and the flash effect can be treated as a freebie, since waiting on flash and then having the opponent do nothing is awkward, but occasionally it works wonders.
+ Comment: A very strong uncommon. Flying and vigilance make it evasive while still able to defend, and the flash effect can be treated as a freebie, since waiting on flash and then having the opponent do nothing is awkward, but occasionally it works wonders.
 
  > His real name is actually Mar-Vell. He was actually the first Captain Marvel, and his name is derived from Marvel. In the comics he's male; in the films, he appears only in Captain Marvel's origin story, changed to female, but in both cases the character is a mentor to the second Captain Marvel.
 
@@ -134,13 +134,13 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  ![](https://images.guildmagesforum.tw/posts/MSH-White/b10a6704c625.webp)
  Score: 4.0
- Comment: The double-faced cards in this set are all of the type where either face can be cast, so you can also look at this card from the back. The front alone, a 2/3 for 2, is already very good, and the effect of the opponent being unable to cast spells on their own turn shuts out all combat tricks and instant-speed removal. The back, in addition to its original abilities, becomes a powerful 6-mana 6/6 with reach and trample, and the key is that her triggered ability gains a huge advantage in combat and can also be used to avoid direct-damage removal.
+ Comment: The double-faced cards in this set are all of the type where either face can be cast, so you can also look at this card from the back. The front alone, a 2/3 for 2, is already very good, and the effect of the opponent being unable to cast spells during your turn shuts out all combat tricks and instant-speed removal. The back, in addition to its original abilities, becomes a powerful 6-mana 6/6 with reach and trample, and the key is that her triggered ability gains a huge advantage in combat and can also be used to avoid direct-damage removal.
 
  > Jennifer Walters, She-Hulk, is a lawyer by profession and the cousin of the well-known Hulk, Bruce Banner. She gained her transformation ability through accidental exposure to his blood, and because of her special identity, as She-Hulk she often serves as defense attorney for superheroes.
 
  {% mtgpick "MSH" 19 %}
  Score: 2.5
- Comment: Flying and vigilance add a lot of points to this card, and trample is especially valuable in this set because of the black-white color pair. As before, prowess is best treated as a freebie.
+ Comment: Flying and vigilance add a lot of points to this card, and evasion is especially valuable in this set because of the black-white color pair. As before, prowess is best treated as a freebie.
 
  > The Kree are the race of both Captain Marvels. If you've seen the films, they're the race commanded by Ronan the Accuser.
 
@@ -160,11 +160,11 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
  Score: 2.5
  Comment: Double strike is such a powerful ability that her stats are compressed to be quite ordinary, but double strike and her triggered ability both suit pump-style combat tricks, so watch out if you see her in limited.
 
- > This Mockingbird is not that {% mtglink "Mockingbird" %}. Her Chinese translation is 「仿聲鳥」. She's one of S.H.I.E.L.D.'s very powerful agents, number 19, so she's also called Agent 19, and one of the few superheroes without superhuman powers. In the comics she was at one point married to {% mtglink "Hawkeye, Master Marksman" %}.
+ > This Mockingbird is not that {% mtglink "Mockingbird" %}. She's one of S.H.I.E.L.D.'s very powerful agents, number 19, so she's also called Agent 19, and one of the few superheroes without superhuman powers. In the comics she was at one point married to {% mtglink "Hawkeye, Master Marksman" %}.
 
  ![](https://images.guildmagesforum.tw/posts/MSH-White/a0124da87dea.webp)
  Score: 4.0
- Comment: Like {% mtglink "Jennifer Walters//The Sensational She-Hulk" %}, you need to consider the strength of both faces. The front is pretty good, a 3/3 flying prowess creature for 3, with solid stats and trample that grows. The back is somewhat terrifying: hexproof appearing on a limited-bomb-level card is extremely powerful, not to mention that her back-face prowess also puts counters on other creatures.
+ Comment: Like {% mtglink "Jennifer Walters//The Sensational She-Hulk" %}, you need to consider the strength of both faces. The front is pretty good, a 3/3 flying prowess creature for 3, with solid stats, evasion, and the ability to grow. The back is somewhat terrifying: hexproof appearing on a limited-bomb-level card is extremely powerful, not to mention that her back-face prowess also puts counters on other creatures.
 
  > Monica Rambeau: if you've seen *The Marvels*, you should have a strong impression of her. Her spectrum-manipulation ability is even stronger in the comics, and she once took on the title of Captain Marvel, and later operated under names like Photon and Spectrum.
 
@@ -200,7 +200,7 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  {% mtgpick "MSH" 29 %}
  Score: 2.5
- Comment: A very versatile combat trick. When attacking it can grant trample, when defending it can reset, and creating the Clue is separate from the trick's target, so you basically always get it, which also nets a card. A very good instant.
+ Comment: A very versatile combat trick. When attacking it helps your creature get through, when defending it can untap, and creating the Clue is separate from the trick's target, so you basically always get it, which also nets a card. A very good instant.
 
  > In the art is the second Black Panther, T'Challa, whom everyone knows best. One of Black Panther's most common combat moves is the pounce.
 
@@ -236,7 +236,7 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  {% mtgpick "MSH" 35 %}
  Score: 3.0
- Comment: This card looks very strong, but there are some awkward points in practice. Intuitively, the Token given to the opponent must be attacked, and its body has vigilance so it can block after attacking. Under those conditions it's of course very strong, and if it can perform like that reliably it could even be a bomb rated 4 or higher. But in this set white has a full three common-uncommon exile removal spells and black has one too, so if you run into those two colors, having the body removed is awkward. In other words, in a Bo3 limited match, it's a good card when the opponent has neither black nor white.
+ Comment: This card looks very strong, but there are some awkward points in practice. Intuitively, the Token it gives the opponent must attack, and its body has vigilance so it can block after attacking. Under those conditions it's of course very strong, and if it can perform like that reliably it could even be a bomb rated 4 or higher. But in this set white has a full three common-uncommon exile removal spells and black has one too, so if you run into those two colors, having the body removed is awkward. In other words, in a Bo3 limited match, it's a good card when the opponent has neither black nor white.
 
  > The Sentry could be called Marvel's most powerful hero, a character Marvel created in response to DC's Superman. On the surface the Sentry is glamorous and powerful, with nearly perfect abilities and even immortality, but he actually has an evil alter ego called "The Void," and is often caught in a tug-of-war between the two personalities. In the films he appears as the main villain of *Thunderbolts*.
 

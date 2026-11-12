@@ -62,7 +62,7 @@ Some people suggest starting beginners with the "Standard" format, because the e
 
 > Most of the game descriptions in the following article come from my experience in the Conquest format.
 
-Nearly two years ago, by a twist of fate I decided to muster the courage to walk into a card shop, with the aim of joining the Commander world I had long yearned for. At that time I didn't even understand mulligan-and-keep, and fortunately I met my first benefactor, Jeff, who guided me and helped me find a suitable community.
+Nearly two years ago, by a twist of fate I decided to muster the courage to walk into a card shop, with the aim of joining the Commander world I had long yearned for. At that time I didn't even understand untap, upkeep, and draw, and fortunately I met my first benefactor, Jeff, who guided me and helped me find a suitable community.
 
 Recalling the situation of my first real battle, I brought a "doggy blocks and also drains life combo" deck with [Yoshimaru, Ever Faithful](https://scryfall.com/card/nec/32/yoshimaru-ever-faithful) + [Sengir, the Dark Baron](https://scryfall.com/card/cmr/149/sengir-the-dark-baron), and took second place despite being unfamiliar with the rules and the environment. In the following eight gatherings, I got four more second places, two third places, and two fourth places, all within the finalists; I think the results were decent.
 
@@ -126,7 +126,7 @@ I no longer force myself to play green, and the player of [Laelia, the Blade Ref
 
 ## A Graduation Without Graduating
 
-From not understanding mulligans, to goading the whole table using my rookie standing, to resisting a blue-playing opponent and winning squarely, to now having some grasp of the rhythm of each of the five colors, I've begun to fall in love with **Limited**.
+From not understanding untap, upkeep, and draw, to goading the whole table using my rookie standing, to resisting a blue-playing opponent and winning squarely, to now having some grasp of the rhythm of each of the five colors, I've begun to fall in love with **Limited**.
 
 Constructed has its own beauty, with every card choice an extension of the player's will. That said, there is still one deciding factor besides luck in it, and that is **the player themselves**. Give the same deck to players with completely different habits, and it will show different aspects of its charm. In this game, we really are beings in the same dimension as planeswalkers, and every match can be a top-tier showdown between players, making the most difficult and most brilliant decisions again and again in the most difficult TCG world.
 

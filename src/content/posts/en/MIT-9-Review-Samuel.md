@@ -176,7 +176,7 @@ Finally, with no other choice, I had to start practicing Izzet Prowess (definite
 
 ![](https://images.guildmagesforum.tw/posts/MIT-9-Review-Samuel/dd025b3e067a.webp)
 
-Friends who have known me for a long time know that I really dislike playing mainstream decks, and I don't buy the line from 八十岡翔太 that you should have a 55% win rate in the mirror. With card power as high as it is now, unless a build has enough little clever touches, the mirror is, in my view, a matchup with a high luck component that can't be controlled. Unless I personally don't have time to prepare, I basically don't bring mainstream decks.
+Friends who have known me for a long time know that I really dislike playing mainstream decks, and I don't buy the line from Shota Yasooka that you should have a 55% win rate in the mirror. With card power as high as it is now, unless a build has enough little clever touches, the mirror is, in my view, a matchup with a high luck component that can't be controlled. Unless I personally don't have time to prepare, I basically don't bring mainstream decks.
 But it seemed the time had come when I had no choice. Luckily, after the Beijing RC I had a chat with Ji, Zihao, the top 4 finisher, and got Jiao, hongchen's little sideboard tips, and I also exchanged a few words with 小徐, who hadn't played much Standard, which let me quickly understand Izzet Prowess's game plan in each matchup and some things to watch out for in a very short time:
 
 1.	Don't put more than 1 [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke) in the sideboard; it's too inefficient
@@ -216,7 +216,7 @@ The impact of the lack of paper practice was actually quite big. On tournament d
 
 ## Conclusion
 By now you'll see that if I hadn't known players from other regions, I could not have reached such a high level of understanding of Izzet Prowess in such a short time, and the vast majority of these people I met at the PT.
-Reading this far, you might think: but I don't know these people and don't have these resources, so can't I not go play at the PT? And if I can't go play at the PT, I can't meet these people, so can't I get stronger???
+Reading this far, you might think: but I don't know these people and don't have these resources, then I can't go play at the PT? And if I can't go play at the PT, I can't meet these people, so I can't get stronger???
 It's fine! Besides the PT, we have other places to play. Besides the Chiba Spotlight at the end of June, the 睿卡杯 to be held in Shanghai in November is also an excellent choice for you!
 What are the benefits of going to Shanghai to play?
 1.	You might leave a deep impression on Zhi, Yimin, which gives you a chance to ask him a few small questions before future tournaments

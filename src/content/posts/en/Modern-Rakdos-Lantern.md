@@ -101,7 +101,7 @@ Our lock plan is to keep the opponent from drawing useful cards, but often those
 
 - **[Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) (4):**
 
-The power of [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) needs no further explanation. Although playing a few basic lands to guard against [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) is common sense in Modern, its pressure is still strong. What's more, sometimes the opponent isn't familiar with our deck and doesn't realize they need to play around [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon), or they're forced to find multicolor lands because of early-game color requirements, so a resolved [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) is still deadly.
+The power of [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) needs no further explanation. Although playing a few basic lands to guard against [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) is common sense in Modern, the pressure [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) applies is still strong. What's more, sometimes the opponent isn't familiar with our deck and doesn't realize they need to play around [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon), or they're forced to find multicolor lands because of early-game color requirements, so a resolved [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) is still deadly.
 
 In addition, in this deck [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) isn't just a lock that wrecks the opponent's mana base; paired with our own [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga), it can also become an important Plan B for winning.
 
@@ -298,7 +298,7 @@ Lantern has been around for more than ten years. Its distinctive lock and win lo
 
 But since MTG entered the MH era, the environment has accelerated like crazy, while Lantern's efficiency at establishing its lock hasn't improved much. For a Lantern deck whose defensive plan lacks removal, if the opponent's first two turns are explosive enough, it can very likely get run over before the defense is set up. After MH3 printed [Wrath of the Skies](https://scryfall.com/card/mh3/49/wrath-of-the-skies) and [Meltdown](https://scryfall.com/card/mh3/282/meltdown), the problem only got worse, so today Lantern is basically a Fun Deck. <font color="#A6A6A6">(Perhaps it's because it sucks all the smiles off the opponents' faces. Never mind whether the opponent has fun; at least I have quite a lot of fun myself.)</font>
 
-In practice, perhaps 1/3 of my wins come from [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) + [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga), not really from winning with Lantern control, and that's also why I'm so aggressive as to splash red for just one [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon).
+In practice, perhaps 1/3 of my wins come from [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) + [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga), not really from winning with [Lantern](https://scryfall.com/card/5dn/135/lantern-of-insight) control, and that's also why I'm so aggressive as to splash red for just one [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon).
 
 ![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/451693c831d4.webp)
 

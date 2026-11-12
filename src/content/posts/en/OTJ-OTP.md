@@ -277,7 +277,7 @@ If you can cast it on time it is certainly a game-reversing card, but the color 
 
 **cephille:** 2.0
 
-Four mana to destroy one target each: artifact, creature, enchantment, and land. If you can use it, it's a big profit, but not even one target in hand won't do, and assembling four targets on the battlefield is really not easy. But in this set white has many enchantment-only removal spells, so you can consider bringing it in for sideboard games against white, and when it works out it's explosive. But to make sure you can use this trick, you may need to give away one of your own Treasures to fill out the targets.
+Four mana to destroy one target each: artifact, creature, enchantment, and land. If you can use it, it's a big profit, but it doesn't work if even one target is missing, and assembling four targets on the battlefield is really not easy. But in this set white has many enchantment-only removal spells, so you can consider bringing it in for sideboard games against white, and when it works out it's explosive. But to make sure you can use this trick, you may need to give away one of your own Treasures to fill out the targets.
 
 ![042](https://cards.scryfall.io/large/front/5/4/54ee0802-62c1-46ac-907e-82ace59fbddb.jpg?1712100737)
 
@@ -295,7 +295,7 @@ An Oblivion Ring with a higher ceiling, with a chance to exile a bunch of tokens
 
 **cephille:** 2.5
 
-A very flexible card: it can serve as a soft counter by bouncing a targeted spell, or bounce a nonland permanent, and at worst can pick up something from the graveyard. Apart from the heavy color requirement there are no drawbacks. Don't forget you can respond to your opponent fetching a land by shuffling the menace on their battlefield back in too.
+A very flexible card: it can serve as a soft counter by bouncing a targeted spell, or bounce a nonland permanent, and at worst can pick up something from the graveyard. Apart from the heavy color requirement there are no drawbacks. Don't forget you can respond to your opponent fetching a land by shuffling the threat on their battlefield back in too.
 
 ![045](https://cards.scryfall.io/large/front/b/d/bd1db186-dd74-4e05-905c-34321fb3d641.jpg?1711982146)
 
@@ -423,7 +423,7 @@ A graveyard-hate sideboard card, but in Limited you need targets or to be able t
 
 **cephille:** 1.5
 
-A sideboard card; if your opponent plays five colors, just swap in a bunch of dual lands.
+A sideboard card; if your opponent plays five colors with a bunch of dual lands, just bring it in.
 
 ## Conclusion
 

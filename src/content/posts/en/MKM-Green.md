@@ -41,7 +41,7 @@ The activated ability can have a very high payoff in certain deck types.
 
 **GY_Player:** 2.5
 
-The cost is high for a combat trick, but the upside is that it permanently adds toughness, and removing the suspected status has both good (it can block) and bad (it loses menace) sides. It will be stronger in sealed.
+The cost is high for a combat trick, but the upside is that it permanently boosts stats, and removing the suspected status has both good (it can block) and bad (it loses menace) sides. It will be stronger in sealed.
 
 ![150](https://cards.scryfall.io/large/front/5/5/5563967f-09fd-4ccf-8892-4dd0c2544c98.jpg?1705423087)
 
@@ -66,7 +66,7 @@ Casting it right after [A Killer Among Us](https://cards.scryfall.io/large/front
 **GY_Player:** 4.0
 
 ~~Questing Beast's cousin~~
-Passable toughness, two handy abilities built in, and even ward to protect itself. The best of the strong cards.
+Passable body, two handy abilities built in, and even ward to protect itself. The best of the strong cards.
 
 ![154](https://cards.scryfall.io/large/front/2/9/29bbfe93-8225-444c-835b-33ffa006ef66.jpg?1705429524)
 
@@ -98,7 +98,7 @@ Unless you can collect evidence very often, it's just here to cost you tempo.
 
 **GY_Player:** 2.5
 
-It pulls one of the opponent's creatures out to block when it enters and when it's turned face up, and the toughness is OK too.
+It pulls one of the opponent's creatures out to block when it enters and when it's turned face up, and the body is OK too.
 
 ![159](https://cards.scryfall.io/large/front/4/9/4941fa74-c7b9-4468-8080-de8057d3d27b.jpg?1701810630)
 
@@ -116,13 +116,13 @@ When turned face up for five mana, it instantly ramps two lands and gives +2/+2.
 
 **GY_Player:** 2.5
 
-This feels like an environment where creatures often stand around staring at each other, so it should add quite a lot of toughness, and the cost is low and it can stop fliers.
+This feels like an environment where creatures often stand around staring at each other, so it should add quite a lot of stats, and the cost is low and it can stop fliers.
 
 ![162](https://cards.scryfall.io/large/front/c/8/c8eff4d0-67ad-4900-b33d-605659b59161.jpg?1705953862)
 
 **GY_Player:** 3.0
 
-The floor is a seven-mana 6/6 that gains 6 life. Toughness in this set is generally not large, so that's plenty.
+The floor is a seven-mana 6/6 that gains 6 life. Creatures in this set are generally not large, so that's plenty.
 
 ![163](https://cards.scryfall.io/large/front/8/8/88e62346-cc62-4938-970c-b56beeb79fa6.jpg?1705953897)
 
@@ -250,7 +250,7 @@ Although this set has many targets it can destroy, the cost to turn it face up i
 
 **GY_Player:** 2.0
 
-Collect evidence 6 is a bit expensive for this effect, and the toughness is only just enough to block 1-toughness fliers like [Mistway Spy](https://cards.scryfall.io/large/front/e/8/e8578839-046f-4afd-a0e7-4737ded9e6eb.jpg?1705954148), [Perimeter Enforcer](https://cards.scryfall.io/large/front/1/f/1f88d077-5082-4a67-91e4-97aafb9a5e91.jpg?1706225422) and 1/1 Thopter tokens.
+Collect evidence 6 is a bit expensive for this effect, and the body is only just enough to block 1-toughness fliers like [Mistway Spy](https://cards.scryfall.io/large/front/e/8/e8578839-046f-4afd-a0e7-4737ded9e6eb.jpg?1705954148), [Perimeter Enforcer](https://cards.scryfall.io/large/front/1/f/1f88d077-5082-4a67-91e4-97aafb9a5e91.jpg?1706225422) and 1/1 Thopter tokens.
 
 ## Conclusion
 

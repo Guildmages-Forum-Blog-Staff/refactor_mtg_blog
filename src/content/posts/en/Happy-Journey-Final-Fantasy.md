@@ -181,9 +181,9 @@ For tournament pairings and table numbers, in the past they were posted on paper
 
 ![42](https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/5feeb6589644.webp)
 
-Below is a visual report of rookie Requiem_Black's first time back in a big tournament with Izzet Prowess:
+Below is a visual report of rookie Requiem_Black's first time in a big tournament with Izzet Prowess:
 Round 1 Won 2-1, opponent Izzet Cauldron (Izzet Cauldron)
-Round 2 Won 2-0, opponent Golgari Overlord (Glogari Beanstalk)
+Round 2 Won 2-0, opponent Golgari Overlord (Golgari Beanstalk)
 Round 3 Drew 1-1, opponent Izzet Prowess (Izzet Prowess) [mirror match]
 Round 4 Lost 0-2, opponent Four-Color Zur Domain (W-U-B-G Aggro)
 Round 5 Lost 1-2, opponent Izzet Cauldron (Izzet Cauldron)
@@ -201,7 +201,7 @@ Perhaps because we got rained on the day before, we both gradually showed cold s
 ![43](https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/f6c22cca647b.webp)
 ![44](https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/1ae213e15685.webp)
 
-I recalled the words on a playmat from a certain Taiwanese store, "Play cards by the tournament, easy and carefree," which should be a portrait of my day. I went one win and two losses in three BO1 games, and the so-called prize draw was a scratch card, revealing the result right away: [プロモあたり! You won Promo!] 
+I recalled the words on a playmat from a certain Taiwanese store, "Win at cards by pure luck, easy and carefree," which should be a portrait of my day. I went one win and two losses in three BO1 games, and the so-called prize draw was a scratch card, revealing the result right away: [プロモあたり! You won Promo!] 
 
 ![45](https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/15f645c91865.webp)
 ![46](https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/cf22c06cbc6a.webp)

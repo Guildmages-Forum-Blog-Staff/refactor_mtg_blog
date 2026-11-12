@@ -57,7 +57,7 @@ Comment: Although it's a vanilla creature, those stats are high enough to be wor
 <!---41--->
 {% mtgpick "dft" 41 %}
 Score: 3.5
-Comment: A candidate for a first-pick blue card. A two-mana 2/1 flyer has top-tier destructive power in Limited, and its extra ability will give the opponent a big headache, and can even stop the opponent's high-cost Vehicle bombs.
+Comment: An uncommon that can be a first pick. A two-mana 2/1 flyer has top-tier destructive power in Limited, and its extra ability will give the opponent a big headache, and can even stop the opponent's high-cost Vehicle bombs.
 
 
 <!---42--->
@@ -121,7 +121,7 @@ Comment: The only merfolk in this set is this card itself. The body contributes 
 
 
 Team Score: 3.0
-Comment: Early on you bluff, kill, and drive vehicles; in the mid to late game, once you can draw three or four cards, it becomes a resource engine that must be answered. Its strength lies in the big draw at high cost, so you needn't worry much about the weak body.
+Comment: Early on it draws out removal and crews vehicles; in the mid to late game, once you can draw three or four cards, it becomes a resource engine that must be answered. Its strength lies in the big draw at high cost, so you needn't worry much about the weak body.
 
 
 
@@ -130,7 +130,7 @@ Comment: Early on you bluff, kill, and drive vehicles; in the mid to late game, 
 Score: 5.0
 Comment: It spreads out the board, contributes on both offense and defense, and can generate value the turn it enters; if the opponent has no answer, it ends the game outright.
 
-> Note: I suddenly wonder whether the [Enduring Curiosity](https://scryfall.com/card/dsk/51/enduring-curiosity) was designed wrong?
+> Note: I suddenly wonder whether [Enduring Curiosity](https://scryfall.com/card/dsk/51/enduring-curiosity) was designed wrong?
 
 
 <!---53--->
@@ -160,7 +160,7 @@ Comment: It costs 3 mana + 2 mana to sacrifice one artifact to find an artifact 
 <!---57--->
 {% mtgpick "dft" 57 %}
 Score: 1.5
-Comment: Past good mill strategies in Limited were built on high-quality uncommons; if you only pick one red-aligned card and make it the deck's core, you face the problem of never drawing it, but in Sealed it can be a way to win.
+Comment: Past good mill strategies in Limited were built on high-quality uncommons; if you pick only one rare and make it the deck's core, you face the problem of never drawing it, but in Sealed it can be a way to win.
 
 Team Score: 3.0
 Comment: One of the core cards that makes me want to focus on a turtle-defense plan; as long as you can stall the game, this kind of out-of-dimension attack on the library is quite deadly in Limited.

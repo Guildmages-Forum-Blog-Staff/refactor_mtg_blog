@@ -119,7 +119,7 @@ The conclusion is that Progenitus's owner can decide whether it is exiled or shu
 > ● **[Say Its Name](https://scryfall.com/card/dsk/197/say-its-name)**:
 > Mill three cards. Then you may return a creature or land card from your graveyard to your hand.
 > ● **[Dredger's Insight](https://scryfall.com/card/dft/159/dredgers-insight)**:
-> When this Aura enters, mill four cards. You may put an artifact, creature, or land card from among the milled cards into your hand.
+> When this enchantment enters, mill four cards. You may put an artifact, creature, or land card from among the milled cards into your hand.
 
 Suppose the graveyard is currently empty and RIP is on the battlefield. Can using Say Its Name or Dredger's Insight add a card to your hand?
 
@@ -204,11 +204,11 @@ When a madness card is discarded, it is exiled by its own replacement effect, wh
 
 ![](https://images.guildmagesforum.tw/posts/How-does-Rest-in-Peace-Work/763342e76045.webp)
 > ● **[Wasteland Strangler](https://scryfall.com/card/bfz/102/wasteland-strangler)**:
-> When Wasteland Strangler enters the battlefield, you may put a card you own from exile into its owner's graveyard. If you do, target creature gets -3/-3 until end of turn.
+> When Wasteland Strangler enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn.
 
 With RIP on the battlefield, can Wasteland Strangler use its ETB to give a target creature -3/-3?
 
-The answer is yes. Although the card you try to put from exile into the graveyard ends up exiled anyway, it becomes a new object, and you can use this trick to make an [Bonecrusher Giant](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp) on an adventure lose its on-an-adventure status.
+The answer is yes. Although the card you try to put from exile into the graveyard ends up exiled anyway, it becomes a new object, and you can use this trick to make a [Bonecrusher Giant](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp) on an adventure lose its on-an-adventure status.
 
 - 406.7. If an object that's exiled would be exiled, it doesn't change zones, but it becomes a new object that has just been exiled.
 

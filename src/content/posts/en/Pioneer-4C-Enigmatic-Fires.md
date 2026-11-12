@@ -87,7 +87,7 @@ Three abilities can trigger on entering, and each additional green mana paid let
 ![](https://images.guildmagesforum.tw/posts/Pioneer-4C-Enigmatic-Fires/91b9e4680e24.webp)
 The clone shapeshifter, used to copy a creature on the battlefield and trigger its removal/card-advantage ability again.
 Usually used to copy a 3-mana creature for removal or a 7-mana big guy.
-Sometimes it just sits at the bottom of the deck.
+Sometimes it just gets played as a tapped land.
 
 #### What you can find by sacrificing a 3-mana enchantment...
 
@@ -95,7 +95,7 @@ Sometimes it just sits at the bottom of the deck.
 This is the [Heliod, the Radiant Dawn](https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse) mentioned above, usually found by using [Enigmatic Incarnation](https://scryfall.com/card/thb/215/zht/%E7%A7%98%E6%85%8B%E8%BD%89%E7%94%9F) to sacrifice [Fable of the Mirror-Breaker](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki).
 On entering, it can grab an enchantment from the graveyard (most of the time [Fable of the Mirror-Breaker](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki)).
 We play it because it is an enchantment itself, which lets us recover resources while helping us jump up a level: using [Enigmatic Incarnation](https://scryfall.com/card/thb/215/zht/%E7%A7%98%E6%85%8B%E8%BD%89%E7%94%9F) to go from 3 to 4, and from 4 to 5 to fetch a 5-mana creature.
-Another point worth mentioning is that its flipped side's ability makes spells have flash, so if you want to cast a sweeper-type spell on the opponent's turn, you can respond by casting [Yorion, Sky Nomad](https://scryfall.com/card/iko/232/zht/%E9%81%8A%E7%A9%BA%E7%89%A7%E9%B3%A5%E7%B4%84%E5%8A%9B%E6%98%82) and blinking your permanents out to save the board.
+Another point worth mentioning is that its flipped side's ability makes spells have flash, so if the opponent wants to cast a sweeper-type spell on their turn, you can respond by casting [Yorion, Sky Nomad](https://scryfall.com/card/iko/232/zht/%E9%81%8A%E7%A9%BA%E7%89%A7%E9%B3%A5%E7%B4%84%E5%8A%9B%E6%98%82) and blinking your permanents out to save the board.
 
 #### What you can find by sacrificing a 4-mana enchantment...
 
@@ -117,7 +117,7 @@ A card fetched in creature matchups: summon a 3/3 that fights an opposing creatu
 ![](https://images.guildmagesforum.tw/posts/Pioneer-4C-Enigmatic-Fires/e2a1e5953c73.webp)
 A card with one copy in the main deck and one in the companion slot. The deck has an extreme number of enter-the-battlefield abilities that earn cards, so blinking with it to earn again effectively widens the resource gap.
 Note that if you fetch it with [Enigmatic Incarnation](https://scryfall.com/card/thb/215/zht/%E7%A7%98%E6%85%8B%E8%BD%89%E7%94%9F), it blinks at the end of your own turn and does not return to the battlefield immediately, but only at the next end step.
-Also worth mentioning: if [Fires of Invention](https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0) is on the battlefield, you can cast it as the second free spell and, when triggering its enter ability, blink [Fires of Invention](https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0) away. That removes Fires of Invention's two-spell limit, and you can cast other spells by paying costs normally to continue developing.
+Also worth mentioning: if [Fires of Invention](https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0) is on the battlefield, you can cast it as the second free spell and, when triggering its enter ability, blink [Fires of Invention](https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0) away. That removes [Fires of Invention](https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0)'s two-spell limit, and you can cast other spells by paying costs normally to continue developing.
 
 #### What you can find by sacrificing a 6-mana enchantment...
 
@@ -137,7 +137,7 @@ This is a sideboard card for dealing with most of today's aggro decks.
 Its main targets are White Humans, Azorius Spirits, and Greasefang; basically the core cards of these decks all get hit by it.
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-4C-Enigmatic-Fires/dfdae64736c8.webp)
-A card played to disrupt blue-heavy decks, or to regain life so your important spells resolve.
+A card played to disrupt blue-heavy decks, or to counter back so your important spells resolve.
 Its main targets are Azorius Spirits, Azorius Control, the Lotus Field combo, and Phoenix, and it also comes in against Mono-Green.
 If you bring this one in, you take out the four [Fires of Invention](https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0), because while Fires of Invention is on the battlefield you can't cast spells on the opponent's turn, which would leave this card stuck in your hand as a dead card.
 

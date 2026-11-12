@@ -175,7 +175,7 @@ Comment: A weakened [Sneak Attack](https://scryfall.com/card/dmr/139/sneak-attac
 
 {% mtgpick "ECL" 152 %}
 Score: 2.0
-Comment: A common combat trick, but it only adds toughness with no other abilities and can only be used for trading, which is also why it gives you a Treasure back.
+Comment: A common combat trick, but it only adds stats with no other abilities and can only be used for trading, which is also why it gives you a Treasure back.
         
 
 {% mtgpick "ECL" 153 %}
@@ -195,7 +195,7 @@ Comment: A versatile three-mana Changeling that nets you a card even if it dies,
 
 {% mtgpick "ECL" 156 %}
 Score: 4.0
-Comment: The X damage is already decided when this is cast and won't shrink due to the opponent's responses, and the sweep is one-sided, so it has a high chance of collapsing the board and winning on the spot. Remember that although the amount of Blight is based on your highest-toughness creature, you can stuff those counters onto other single small creatures, and you don't need to force a big monster to pay the cost.
+Comment: The X damage is already decided when this is cast and won't shrink due to the opponent's responses, and the sweep is one-sided, so it has a high chance of collapsing the board and winning on the spot. Remember that although the amount of Blight is based on your biggest creature, you can stuff those counters onto other single small creatures, and you don't need to force a big monster to pay the cost.
         
 
 {% mtgpick "ECL" 157 %}
@@ -230,7 +230,7 @@ Comment: Burn that filters your cards as you attack, and being able to go to the
 
 {% mtgpick "ECL" 163 %}
 Score: 2.5
-Comment: The benefit of reducing toughness is that it can hit people on entering. It may be acceptable in big-creature decks, and at least you can put the first counter on it yourself.
+Comment: The benefit of shrinking its stats is that it can hit people on entering. It may be acceptable in big-creature decks, and at least you can put the first counter on it yourself.
 
 
 ## Conclusion

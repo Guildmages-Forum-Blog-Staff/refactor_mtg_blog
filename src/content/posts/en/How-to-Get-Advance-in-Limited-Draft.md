@@ -123,7 +123,7 @@ With the preparation done, we now move into hands-on practice, making picks base
 
 If the first card you pick from your first booster pack pushes you too early into a two-color or even multicolor theme, then even if that card is very strong, it also limits your freedom in the rest of the draft. You would only have a chance to assemble a deck of reasonable strength if that color pair is lightly contested and your cards have enough payoff cards for that color pair; otherwise, you may have to keep taking cards of only passable strength for the rest of the draft, or even be forced to abandon your original colors and play other colors midway.
 
-However, in a case like [Cruel Ultimatum](https://scryfall.com/card/otp/40/cruel-ultimatum) being the strongest card in your first pack, although its colors are very restrictive and demanding and there is a considerable chance that you take it and never play it, if you can't bear the consequences of being beaten by it, then hate-drafting it is a reasonable choice. Maybe you'll even get a chance to make it your opponent's final ultimatum with Cruel Finality!
+However, in a case like [Cruel Ultimatum](https://scryfall.com/card/otp/40/cruel-ultimatum) being the strongest card in your first pack, although its colors are very restrictive and demanding and there is a considerable chance that you take it and never play it, if you can't bear the consequences of being beaten by it, then hate-drafting it is a reasonable choice. Maybe you'll even get a chance to make it the final ultimatum of your opponent's cruel end!
 
 The two paragraphs above seem contradictory but are actually compatible; we will analyze this further in the [pick strategies section](#optimization-of-choices-pick-strategies) below.
 
@@ -138,7 +138,7 @@ Even so, we have prepared a few small questions that may help readers understand
 - Have I already picked this card?
 - Is this a card where the more of it the better? --> _Example: bombs you can actually cast_
 - Is this a card my deck still lacks? --> _Example: a black-based deck short on removal is passed a [Nocturnal Hunger](https://scryfall.com/card/blb/102/nocturnal-hunger)_
-- Is this a card that could punish me heavily if I play against it? --> _Example: while you are drafting Rakdos Lizards you are passed a [Starfall Invocation](https://scryfall.com/card/blb/34/starfall-invocation)_
+- Is this a card that could punish me heavily if I pass it? --> _Example: while you are drafting Rakdos Lizards you are passed a [Starfall Invocation](https://scryfall.com/card/blb/34/starfall-invocation)_
 
 Choosing means trade-offs, and priority is the ultimate basis on which your scale of taking and leaving swings. You may choose wrong once, or twice, but you will always learn so that you don't get it wrong a third time.
 

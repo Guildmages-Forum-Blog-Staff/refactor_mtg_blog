@@ -196,7 +196,7 @@ This lets you observe the [ELO](#elo) distribution of each color. ELO is a score
 Used to evaluate the speed of the environment. It depends on whether you prefer a game of small creatures trading blows and the board gradually changing, or a game where the situation suddenly shifts and a huge army arrives to bring pressure.
 
 **Color / Toughness**
-It can be used to evaluate the role of removal. If every creature in the entire Cube has only 1/2 defense, then {% mtglink "Shock" %} and {% mtglink "Murder" %} are actually equivalent, and when designing removal it is worth considering this point to think about the removal's range.
+It can be used to evaluate the role of removal. If every creature in the entire Cube has only 1 or 2 toughness, then {% mtglink "Shock" %} and {% mtglink "Murder" %} are actually equivalent, and when designing removal it is worth considering this point to think about the removal's range.
 
 ---
 ### ELO

@@ -74,7 +74,7 @@ A 1/1 that gets a land card on entering, or a [Grizzly Bears](https://scryfall.c
 ![179](https://cards.scryfall.io/large/front/d/2/d2c70d86-1764-487d-a415-15ae79ba570c.jpg?1698351587)
 
 **cephille**: 3.0
-The immortal witness Raccoon! One more power and toughness each, but you have to wait until descend 4 to get permanent cards back, so it is actually much weaker. But at worst it is still a three-mana 3/2, and in curve-is-king Limited you sometimes have to slam it down as a 3/2 vanilla. Drawn in the mid-to-late game it is a very strong topdeck that lets one of your threats enter again, or picks up a common Cave to do another discover 4, which is lovely too.
+The Eternal Witness raccoon! One more power and toughness each, but you have to wait until descend 4 to get permanent cards back, so it is actually much weaker. But at worst it is still a three-mana 3/2, and in curve-is-king Limited you sometimes have to slam it down as a 3/2 vanilla. Drawn in the mid-to-late game it is a very strong topdeck that lets one of your threats enter again, or picks up a common Cave to do another discover 4, which is lovely too.
 
 ![180](https://cards.scryfall.io/large/front/8/7/8702e776-be2c-48a9-9bc5-bb8ea514333b.jpg?1698698742)
 
@@ -110,7 +110,7 @@ By the time you can slam it at eight mana, the Dinosaurs in your hand should all
 ![186](https://cards.scryfall.io/large/front/d/e/de7d6aed-3dc8-417d-a190-1660cfc8ee4a.jpg?1698700673)
 
 **cephille**: 2.5
-Early on it is a [Into the North](https://cards.scryfall.io/large/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405) that can only find Forests; in the mid-to-late game it can return to the battlefield a Cave you've already used, but only finding Forests still can't solve color-screw in extreme situations. If you are playing green and need acceleration, you can run one.
+Early on it is an [Into the North](https://cards.scryfall.io/large/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405) that can only find Forests; in the mid-to-late game it can return to the battlefield a Cave you've already used, but only finding Forests still can't solve color-screw in extreme situations. If you are playing green and need acceleration, you can run one.
 
 ![187](https://cards.scryfall.io/large/front/b/a/bafde87c-743d-4307-93e0-fbd30f5d92f6.jpg?1698702316)
 
@@ -125,7 +125,7 @@ A reprint. Entering for three mana and looking at four to take a creature can st
 ![189](https://images.guildmagesforum.tw/posts/LCI-Green/c873ab116b34.webp)
 
 **cephille**: 4.0
-When Vaultley enters, first finding a basic land to hand means you probably won't be color-screwed and it doesn't cost you a card. The three-mana 2/3 body isn't of much use, but at five mana you can then flip it into a Saga, which is very strong: chapter I makes two 3/3 Dinosaurs, chapter II makes your creatures able to produce the color needed to cast Dinosaurs, chapter III finds a Dinosaur card to hand, and chapter IV gives your Dinosaurs double strike and trample, and you should win by attacking.
+When Huatli enters, first finding a basic land to hand means you probably won't be color-screwed and it doesn't cost you a card. The three-mana 2/3 body isn't of much use, but at five mana you can then flip it into a Saga, which is very strong: chapter I makes two 3/3 Dinosaurs, chapter II makes your creatures able to produce the color needed to cast Dinosaurs, chapter III finds a Dinosaur card to hand, and chapter IV gives your Dinosaurs double strike and trample, and you should win by attacking.
 
 ![190](https://cards.scryfall.io/large/front/1/2/1247a5fa-b50a-4ab1-96ca-dbeb45bd0b56.jpg?1699044417)
 
@@ -253,7 +253,7 @@ A variant of [The Great Henge](https://cards.scryfall.io/large/front/8/0/8069ab5
 
 **Kappa**: 1.0
 
-This set has a total of 13 lands that enter tapped, 8 of which are Caves, and there are 13 Caves in total that can trigger the life gain on entering. As expected, in a draft the five-color Cave strategy will have this as the one core card for pulling back the tapped-land tempo. Conversely, unless you are playing this theme, this card will very likely turn into a super bad enchantment that draws one card for three mana and is done. In addition, this card gives no help to combat on the board (a more extreme example is slamming it on a standing creature to help defend, but that situation is a bit rare). I don't recommend it before your own strategy is established. In short, it is a support card that depends heavily on the deck.
+This set has a total of 13 lands that enter tapped, 8 of which are Caves, and there are 13 Caves in total that can trigger the life gain on entering. As expected, in a draft the five-color Cave strategy will have this as the one core card for pulling back the tapped-land tempo. Conversely, unless you are playing this theme, this card will very likely turn into a super bad enchantment that draws one card for three mana and is done. In addition, this card gives no help to combat on the board (a rather extreme example is letting a creature land enter untapped to help on defense, but that situation is a bit rare). I don't recommend it before your own strategy is established. In short, it is a support card that depends heavily on the deck.
 
 ![214](https://cards.scryfall.io/large/front/e/3/e34c4946-6c21-4ae1-9595-35933d38da52.jpg?1699044491)
 

@@ -60,7 +60,7 @@ Comment: For a one-drop the body is really very good, and having deathtouch mean
 <!---92--->
 {% mtgpick "fin" 92 %}
 Score: 3.0
-Comment: A plain-and-simple draw two lose two. Although it can't filter the top of the library, the 0/1 it gives you is okay. On turn one, pumping a Wizard and giving it lifelink gives you a chance to directly gain back the life you lost, and if you drain, it is nearly four mana to draw two cards and also make a creature. With the Wizard theme it is very strong, being both a team-wide boost and a means of drawing cards.
+Comment: A plain-and-simple draw two lose two. Although it can't filter the top of the library, the 0/1 it gives you is okay. Pumping your Wizards and giving them lifelink for a turn gives you a chance to directly gain back the life you lost, and if you drain, it is nearly four mana to draw two cards and also make a creature. With the Wizard theme it is very strong, being both a team-wide boost and a means of drawing cards.
 
 <!---93--->
 {% mtgpick "fin" 93 %}
@@ -70,7 +70,7 @@ Comment: Three mana to let the opponent choose a creature to sacrifice is a bit 
 <!---94--->
 {% mtgpick "fin" 94 %}
 Score: 0.5
-Comment: A 2/1 body without any evasion can't race the opponent, and the pain effect of putting it in your deck far outweighs the effect of drawing a card. Plus this set has a lot of expensive cards, so the opponent will burn you to death with it before they even need to hit you. Not recommended; the only one who would want this card in your deck is your opponent.
+Comment: A 2/1 body without any evasion can't race the opponent, and the pain effect of putting it in your deck far outweighs the effect of drawing a card. Plus this set has a lot of expensive cards, so it will burn you to death before the opponent even needs to hit you. Not recommended; the only one who would want this card in your deck is your opponent.
 
 <!---95--->
 {% mtgpick "fin" 95 %}
@@ -121,7 +121,7 @@ Comment: An ordinary curve filler; after discarding on entering, it can be fed t
 <!---104--->
 ![104](https://images.guildmagesforum.tw/posts/FIN-Black/e2d8a4a13c9c.webp)
 Score: 4.5
-Comment: It has a solid body with menace, and is fairly easy to transform. After transforming, the first and second chapters are each opponent discards one, you draw one; each trigger is a back-and-forth that creates a two-card difference, and the final chapter making the opponent sacrifice two creatures is extremely powerful, with a ceiling of trading one for six. Not to mention that after transforming its toughness grows to 7/7 with menace too, so if you hit the opponent both before and after transforming, half their life is gone. A thoroughly legitimate super bomb.
+Comment: It has a solid body with menace, and is fairly easy to transform. After transforming, the first and second chapters are each opponent discards one, you draw one; each trigger is a back-and-forth that creates a two-card difference, and the final chapter making the opponent sacrifice two creatures is extremely powerful, with a ceiling of trading one for six. Not to mention that after transforming its body grows to 7/7 with menace too, so if you hit the opponent both before and after transforming, half their life is gone. A thoroughly legitimate super bomb.
 
 <!---105--->
 {% mtgpick "fin" 105 %}
@@ -228,7 +228,7 @@ Comment: Without Kicker it costs 1 more than [Disfigure](https://scryfall.com/ca
 <!---125--->
 ![125](https://images.guildmagesforum.tw/posts/FIN-Black/6a78511c7fe9.webp)
 Score: 4.0
-Comment: The new generation of hard-to-kill king! When opponent creatures die it starts putting +1/+1 counters equal to that creature's power, and it can transform as soon as it attacks, hitting harder with trample and lifelink, so the opponent can't chump block it with small creatures, and at the same time it drains a huge amount for life gain. If it dies while transformed it returns transformed to the battlefield, and next turn it can attack again. Even if it can't break the opponent's creature line, gaining 3 life every turn is super disgusting. The drawback is that before transforming it is only a 2/2 and is easily removed by all kinds of kill spells.
+Comment: The new generation of hard-to-kill king! When opponent creatures die it starts putting +1/+1 counters equal to that creature's power, and it can transform as soon as it attacks, hitting harder with trample and lifelink, so the opponent can't chump block it with small creatures, and at the same time it drains a huge amount for life gain. If it dies while transformed it returns to the battlefield front face up, and next turn it can attack again. Even if it can't break the opponent's creature line, gaining 3 life every turn is super disgusting. The drawback is that before transforming it is only a 2/2 and is easily removed by all kinds of kill spells.
 
 <!---126--->
 {% mtgpick "fin" 126 %}
@@ -245,7 +245,7 @@ Comment: It comes with a -2/-2 mini sweeper on entering, but note it also sweeps
 <!---128--->
 {% mtgpick "fin" 128 %}
 Score: 3.5
-Comment: The abandon-ship effect it brings on entering hurts your own creatures too: both sides sacrifice half of their nonGod creatures, but the restriction that you must unconditionally discard is a bit awkward, and if on entering each side has only one other nonGod creature, nothing happens. It has indestructible and is hard to deal with, its own body is a huge 5/5, and each creature sacrificed by either side lets it put a +1/+1 counter on itself and grow, so after a few turns the opponent won't be able to take it. But the five-black color requirement is still very hard in Limited, so it loses a few points; it is a card that gets stronger the higher the purity of black in your build.
+Comment: The abandon-ship effect it brings on entering hurts your own creatures too: both sides sacrifice half of their nonGod creatures, but the rounding down is a bit awkward, and if on entering each side has only one other nonGod creature, nothing happens. It has indestructible and is hard to deal with, its own body is a huge 5/5, and each creature sacrificed by either side lets it put a +1/+1 counter on itself and grow, so after a few turns the opponent won't be able to take it. But the five-black color requirement is still very hard in Limited, so it loses a few points; it is a card that gets stronger the higher the purity of black in your build.
 
 ## Conclusion
 This time black has relatively few early creatures, so when building the early curve it often needs to pair with other colors. But its highlight is its large and varied set of removal options, including outright kills, opponent-sacrifice effects, and -X/-X effects. In addition, most of the high-rarity black cards perform extremely well in Limited, needing no extra support and carrying near-bomb-level threats on their own. Even among commons and uncommons you can find plenty of quality standalone cards that bring steady returns in the mid to late game. As long as you survive the early game, black has a chance to gradually take over the match with these powerful standalone cards.

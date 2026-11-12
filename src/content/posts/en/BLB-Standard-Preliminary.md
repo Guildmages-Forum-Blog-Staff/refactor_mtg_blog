@@ -107,7 +107,7 @@ I said above that this set's cheap quality Lizards are almost all Outlaws, but b
 
 [The Infamous Cruelclaw](https://scryfall.com/card/blb/219/the-infamous-cruelclaw) doesn't directly gain cards. What it gains is mana, so how do you reasonably raise the expected value of what it gains? The answer is to include cards whose bodies are powerful high-cost cards but come with cheap-curve options, like [Phyrexian Fleshgorger](https://scryfall.com/card/bro/121/phyrexian-fleshgorger) with prototype, [Virtue of Persistence // Locthwain Scorn](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn) with adventure, the pseudo-channel [Trumpeting Carnosaur](https://scryfall.com/card/lci/171/trumpeting-carnosaur) & [Harvester of Misery](https://scryfall.com/card/big/9/harvester-of-misery), and the split card [Push // Pull](https://scryfall.com/card/mkm/250/push-pull). Reusing [Phyrexian Fleshgorger](https://scryfall.com/card/bro/121/phyrexian-fleshgorger) also has another benefit: it perfectly dodges black's mainstream cheap removal [Cut Down](https://scryfall.com/card/dmu/89/cut-down) & [Go for the Throat](https://scryfall.com/card/bro/102/go-for-the-throat).
 
-Finally, there's one more interesting topic: should the two-drop slot include [Caustic Bronco](https://scryfall.com/card/otj/82/caustic-bronco)? If you can crew it consistently, it can indeed likely blow open the opponent's main artery with a single punch, but conversely, when it isn't saddled, attacking may blow yourself up. Judging from this deck's creature count, saddling consistency is probably not going to be ideal.
+Finally, there's one more interesting topic: should the two-drop slot include [Caustic Bronco](https://scryfall.com/card/otj/82/caustic-bronco)? If you can saddle it consistently, it can indeed likely blow open the opponent's main artery with a single punch, but conversely, when it isn't saddled, attacking may blow yourself up. Judging from this deck's creature count, saddling consistency is probably not going to be ideal.
 
 ![Key cards](https://images.guildmagesforum.tw/posts/BLB-Standard-Preliminary/5dff624b000f.webp)
 
@@ -143,7 +143,7 @@ Just mixing in a small discard package is already annoying enough, so why not tr
 [Dimir Flying decklist link](https://www.mtggoldfish.com/deck/6539755#paper)
 ![DeckList](https://images.guildmagesforum.tw/posts/BLB-Standard-Preliminary/3f80decffb77.webp)
 
-Previously the two-drop slot included [Zephyr Sentinel](https://scryfall.com/card/bro/74/zephyr-sentinel) as a pseudo-protection spell. Although there was a chance to repeatedly get its ETB, it could also break your own tempo, and now it has been swapped for [Plumecreed Escort](https://scryfall.com/card/blb/65/plumecreed-escort), which gives ward more directly.
+Previously the two-drop slot included [Zephyr Sentinel](https://scryfall.com/card/bro/74/zephyr-sentinel) as a pseudo-protection spell. Although there was a chance to repeatedly get its ETB, it could also break your own tempo, and now it has been swapped for [Plumecreed Escort](https://scryfall.com/card/blb/65/plumecreed-escort), which gives hexproof more directly.
 
 ![Key cards](https://images.guildmagesforum.tw/posts/BLB-Standard-Preliminary/86b6a227c95d.webp)
 

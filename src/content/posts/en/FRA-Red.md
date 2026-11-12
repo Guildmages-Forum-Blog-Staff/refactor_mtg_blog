@@ -1,5 +1,5 @@
 ---
-title: "Reality Fragments (FRA) Limited Overview — Red"
+title: "Reality Fracture (FRA) Limited Overview — Red"
 date: "9/22/2026, 10:21:38 PM"
 updated: "2026-09-23 09:48:38"
 preview: false
@@ -15,9 +15,9 @@ excerpt: "Red is the color of burning, much like love, and like a life fading aw
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-Red/).
 
-Reality Fragments (FRA) will hold its prerelease events on September 25, 2026, and officially release one week later on October 2, 2026. Want to learn more about individual card ratings and advice for Limited? Then check out this series of FRA Limited overviews!
+Reality Fracture (FRA) will hold its prerelease events on September 25, 2026, and officially release one week later on October 2, 2026. Want to learn more about individual card ratings and advice for Limited? Then check out this series of FRA Limited overviews!
 
-- For the mechanics, see this article: [Reality Fragments Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fracture Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 
@@ -56,7 +56,7 @@ Comment: This rate is too costly in the current Limited format. Playing it on cu
 
 {% mtgpick "fra" 77 %}
 Rating: 3.0
-Comment: In the red-black archetype it can frequently trigger noncombat damage and has a chance to be recovered multiple times. It also has a chance in the blue-red archetype, and blue has more cards that can produce Wizard tokens. The first cast loses toughness, the second one roughly breaks even or may come out ahead, and the third is quite impressive.
+Comment: In the red-black archetype it can frequently trigger noncombat damage and has a chance to be recovered multiple times. It also has a chance in the blue-red archetype, and blue has more cards that can produce Wizard tokens. The first cast is a loss on stats, the second one roughly breaks even or may come out ahead, and the third is quite impressive.
 
 {% mtgpick "fra" 78 %}
 Rating: 3.0 / 4.0

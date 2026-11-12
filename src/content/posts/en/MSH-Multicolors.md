@@ -148,7 +148,7 @@ Grow your creatures big and crush your opponent from on high! Use instants, sorc
  
  {% mtgpick "MSH" 209 %}
  Score: 2.5
- Comment: A 3-mana 2/3 is an ordinary body, and both entering and activating require paying extra resources. Sacrificing an artifact or discarding is not a small cost in Limited, and in the vast majority of cases you'll use Connive to meet the discard trigger. Without spare artifact tokens, low-value cards to discard, or graveyard synergies, this card easily ends up as an ordinary body with an expensive 2-power attack.
+ Comment: A 3-mana 2/3 is an ordinary body, and both entering and activating require paying extra resources. Sacrificing an artifact or discarding is not a small cost in Limited, and in the vast majority of cases you'll use Connive to meet the discard trigger. Without spare artifact tokens, low-value cards to discard, or graveyard synergies, this card easily ends up as an ordinary body with an expensive deal-2 effect.
         
  
  {% mtgpick "MSH" 210 %}
@@ -203,7 +203,7 @@ Grow your creatures big and crush your opponent from on high! Use instants, sorc
  
  {% mtgpick "MSH" 220 %}
  Score: 2.5
- Comment: In a long game it can slowly widen the life-total gap through Extort, and it can also make some high-toughness creatures into attacking threats. However, the body's offense is unreliable: paying 2 life to have a creature deal damage using its toughness looks explosive, but without trample it's easily blocked. Overall it's more of a playable utility card, suited to slow White-Black decks or decks with lots of high-toughness synergy, but not strong enough to make people eagerly put it in the main deck.
+ Comment: In a long game it can slowly widen the life-total gap through Extort, and it can also make some high-toughness creatures into attacking threats. However, the body's offense is unreliable: paying 2 life to have a creature deal damage using its toughness looks explosive, but without evasion it's easily blocked. Overall it's more of a playable utility card, suited to slow White-Black decks or decks with lots of high-toughness synergy, but not strong enough to make people eagerly put it in the main deck.
         
  
  {% mtgpick "MSH" 221 %}
@@ -283,7 +283,7 @@ Grow your creatures big and crush your opponent from on high! Use instants, sorc
  
  {% mtgpick "MSH" 236 %}
  Score: 2.5
- Comment: This is basically a four-mana 4/4 curve creature, with a solid body but nothing especially outstanding. The nicer part is that the Equipment it leaves behind doesn't disappear along with the creature and can keep being attached to other creatures, giving a bit more board utility in the mid to late game. If the deck has artifact or Equipment synergies, the rating rises slightly. On its own, though, it has no trample, no removal on entering, and no card draw, so it is mainly a card that steadily fills the curve.
+ Comment: This is basically a four-mana 4/4 curve creature, with a solid body but nothing especially outstanding. The nicer part is that the Equipment it leaves behind doesn't disappear along with the creature and can keep being attached to other creatures, giving a bit more board utility in the mid to late game. If the deck has artifact or Equipment synergies, the rating rises slightly. On its own, though, it has no evasion, no removal on entering, and no card draw, so it is mainly a card that steadily fills the curve.
         
  
  {% mtgpick "MSH" 237 %}
@@ -303,7 +303,7 @@ Grow your creatures big and crush your opponent from on high! Use instants, sorc
  
  {% mtgpick "MSH" 240 %}
  Score: 4.0
- Comment: This is a powerful creature-combat bomb in Red-Green. On entering it has a chance to directly fight and kill one of the opponent's creatures, and since damage doesn't easily accumulate on it, it's hard for ordinary creatures to trade with it in combat. The opponent usually needs to deal 5 or more damage at once, or use hard kill, exile, or -X/-X removal, to handle it relatively cleanly. The downside is it has no trample and still dies to hard removal, but once the game enters creature combat, it puts huge pressure on the opponent.
+ Comment: This is a powerful creature-combat bomb in Red-Green. On entering it has a chance to directly fight and kill one of the opponent's creatures, and since damage doesn't easily accumulate on it, it's hard for ordinary creatures to trade with it in combat. The opponent usually needs to deal 5 or more damage at once, or use hard kill, exile, or -X/-X removal, to handle it relatively cleanly. The downside is it has no evasion and still dies to hard removal, but once the game enters creature combat, it puts huge pressure on the opponent.
         
  
  {% mtgpick "MSH" 241 %}

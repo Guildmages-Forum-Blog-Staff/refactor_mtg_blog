@@ -91,7 +91,7 @@ I considered playing one [Zur, Eternal Schemer](https://scryfall.com/card/dmu/22
 
 Or other excellent multicolor cards such as [Omnath, Locus of Creation](https://scryfall.com/card/znr/312/omnath-locus-of-creation), [Aragorn, the Uniter](https://scryfall.com/card/ltr/192/aragorn-the-uniter) and [Nahiri, the Harbinger](https://scryfall.com/card/cmm/929/nahiri-the-harbinger). In any case, I spent several days daydreaming, trying to make the deck less monotonous. Afterwards I also tried building Domain [Scapeshift](https://scryfall.com/card/m19/201/scapeshift) and 4C Omnath with Scion.....
 
-Three days before the tournament, I happened to see that [施兆恩aka荒野騎士](/en/authors/ClarkShih/) had posted an article on [Guildmages' Forum](http://guildmagesforum.tw), [Temur Rhinos RC Deck Building Guide](https://guildmagesforum.tw/en/Modern-Temur-Rhinos-for-RC/). I learned a lot from reading it and made up my mind to go back to Temur Rhinos.
+Three days before the tournament, I happened to see that [ClarkShih](/en/authors/ClarkShih/) had posted an article on [Guildmages' Forum](http://guildmagesforum.tw), [Temur Rhinos RC Deck Building Guide](https://guildmagesforum.tw/en/Modern-Temur-Rhinos-for-RC/). I learned a lot from reading it and made up my mind to go back to Temur Rhinos.
 
 ## Analysis of the Temur Rhinos Build Used at MIT#5
 
@@ -211,7 +211,7 @@ I don't remember the details of the matches clearly, so please bear with me, opp
 
 ### Round 2: Green Tron 2-1
 
-- In game one, I was talked out of it by a quick [Ulamog, the Ceaseless Hunger](https://scryfall.com/card/cmm/5/ulamog-the-ceaseless-hunger).
+- In game one, a quickly assembled [Ulamog, the Ceaseless Hunger](https://scryfall.com/card/cmm/5/ulamog-the-ceaseless-hunger) made me concede.
 - After siding in, with counters and removal it was easy to play against, and I even summoned [Generous Ent](https://scryfall.com/card/ltr/169/generous-ent) to beat down.
 
 ### Round 3: Azorius Control 1-1
@@ -254,7 +254,7 @@ Looking at the Open List, I hadn't seen Company in a long time and it was differ
 The Open List looked like a typical Yawgmoth deck.
 
 - Game one, on the play, turn-two Bonecrusher on [Delighted Halfling](https://scryfall.com/card/ltr/158/delighted-halfling), Rhinos on turns three and four, [Subtlety](https://scryfall.com/card/mh2/67/subtlety) pushed Yawgmoth back once, and finally Yawgmoth arrived, but my creatures and life total couldn't hold up against four Rhinos.
-- Game two, the opponent had turn-one and turn-two plays that were both creatures; I made a Rhino on turn three and kept [Endurance](https://scryfall.com/card/mh2/157/endurance) in hand. The opponent's turn-three Yawgmoth threw -1/-1 and drew a ton of cards, my Rhinos all died next turn, and after [Hapatra, Vizier of Poisons](https://scryfall.com/card/akh/199/hapatra-vizier-of-poisons) entered none of my creatures could stay on the board.
+- Game two, the opponent played mana dorks on turns one and two; I made a Rhino on turn three and kept [Endurance](https://scryfall.com/card/mh2/157/endurance) in hand. The opponent's turn-three Yawgmoth threw -1/-1 and drew a ton of cards, my Rhinos all died next turn, and after [Hapatra, Vizier of Poisons](https://scryfall.com/card/akh/199/hapatra-vizier-of-poisons) entered none of my creatures could stay on the board.
 - Game three, my opening hand was two [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute), [Brazen Borrower](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft), [Endurance](https://scryfall.com/card/mh2/157/endurance), [Violent Outburst](https://scryfall.com/card/arb/63/violent-outburst) and two lands. The opponent [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize)d away [Violent Outburst](https://scryfall.com/card/arb/63/violent-outburst), then kept developing with [Wall of Roots](https://scryfall.com/card/tsb/89/wall-of-roots), Halfling and [Young Wolf](https://scryfall.com/card/dka/134/young-wolf). I played [Endurance](https://scryfall.com/card/mh2/157/endurance) to hold off the ground offense, and the opponent kept drawing lands and mana sources. Along the way they played an [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) and, after two activations on Wall of Roots, neither graveyard had creatures. I drew a [Flame of Anor](https://scryfall.com/card/ltr/406/flame-of-anor) and a [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed), jumped in with [Brazen Borrower](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft), and attacked for four turns to win.
   After the game, the opponent flipped over [Chord of Calling](https://scryfall.com/card/rvr/134/chord-of-calling) off the top of their library, but in my hand I had two [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute), [Brazen Borrower](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft), [Endurance](https://scryfall.com/card/mh2/157/endurance), [Tishana's Tidebinder](https://scryfall.com/card/lci/335/tishanas-tidebinder), [Flame of Anor](https://scryfall.com/card/ltr/406/flame-of-anor) and [Ertai's Scorn](https://scryfall.com/card/dmu/48/ertais-scorn).....
 
@@ -266,6 +266,6 @@ I looked over the Open List first: both main deck and sideboard had [Dauthi](htt
 
 Some people say that what Taiwanese players do best is copy a Top 8 deck and then ruin it with their own tinkering before they're willing to take it to a tournament 😆
 
-I don't think so. In a national team qualifier Standard event I once played [Basilisk Collar](https://scryfall.com/card/wwk/122/basilisk-collar) in Jund, going 6-0 in the constructed rounds; and in White-Blue Spirits I played [Loxodon Warhammer](https://scryfall.com/card/mrd/201/loxodon-warhammer) and beat up a bunch of mirror matches. Spending more time testing and fine-tuning a deck is definitely better than copying a deck while only half understanding it.
+I don't think so. In a national team qualifier Standard event I once played [Basilisk Collar](https://scryfall.com/card/wwk/122/basilisk-collar) in Jund, going 6-0 in the constructed rounds; and in White-Blue Lark I played [Loxodon Warhammer](https://scryfall.com/card/mrd/201/loxodon-warhammer) and beat up a bunch of mirror matches. Spending more time testing and fine-tuning a deck is definitely better than copying a deck while only half understanding it.
 
 I got into Magic in high school, and twenty years have gone by like one day. I've played in plenty of the old national team qualifiers, but I never imagined I'd win a championship during the busiest time of life with three little ones. I've taken this Rhino deck to tournaments only three times, which is truly very lucky. I hope to keep winning glory for Taiwan at Worlds!

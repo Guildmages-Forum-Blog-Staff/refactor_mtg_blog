@@ -101,7 +101,7 @@ The object Cursed Totem describes is "creatures," which likewise means it only a
 ![Wicked](https://images.guildmagesforum.tw/posts/How-to-Describe-an-Object/1de6cd550257.webp)
 
 > **[Ao, the Dawn Sky](https://scryfall.com/card/neo/2/ao-the-dawn-sky)**:
-> When Ao, the Dawn Sky dies, trigger ability~ (rest omitted)
+> When Ao, the Dawn Sky dies, ... (rest omitted)
 > **[Wicked Role (Aura token)](https://scryfall.com/card/twoe/17/wicked-cursed)**:
 > Enchanted creature gets +1/+1. When this Aura is put into a graveyard from the battlefield, each opponent loses 1 life.
 > **[Dauthi Voidwalker](https://scryfall.com/card/mh2/81/dauthi-voidwalker)**:
@@ -120,7 +120,7 @@ Dauthi Voidwalker's replacement effect of "exile instead of dying" essentially r
 > **[Torbran, Thane of Red Fell](https://scryfall.com/card/eld/147/torbran-thane-of-red-fell)**:
 > If a red source you control would deal **damage** to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
 > **[Search for Glory](https://scryfall.com/card/khm/27/search-for-glory)**:
-> Search your library for a snow permanent card or a legendary card, reveal it, put it into your hand, then shuffle. You gain 1 life **for each {S} spent to cast this spell**. ({S} is mana from a snow source.)
+> Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle. You gain 1 life **for each {S} spent to cast this spell**. ({S} is mana from a snow source.)
 
 - 109.2c If a spell or ability describes an object using the word "source," it means a source matching that description in any zone, including sources of abilities, damage, or mana.
 

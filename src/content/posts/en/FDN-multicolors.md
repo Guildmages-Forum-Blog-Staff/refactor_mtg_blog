@@ -66,12 +66,12 @@ Comment: Once this card goes on the stack, the game basically enters a countdown
 <!---122--->
 {% mtgpick "fdn" 122 %}
 Score: 3.0
-Comment: A 3/4 flier for four is a passable ability. With non-creature spells limited in Limited, its second ability is hard to trigger. Making a 1/1 flier might add more trample damage, but its impact on the game is limited, and unless you pair it with a good enters-the-battlefield ability, it is hard to gain a significant advantage from this card.
+Comment: A 3/4 flier for four is a passable ability. With non-creature spells limited in Limited, its second ability is hard to trigger. Making a 1/1 flier might add more evasive damage, but its impact on the game is limited, and unless you pair it with a good enters-the-battlefield ability, it is hard to gain a significant advantage from this card.
 
 <!---123--->
 {% mtgpick "fdn" 123 %}
 Score: 3.0
-Comment: A powerful late-game trample threat; its card advantage efficiency is so low it can be nearly ignored.
+Comment: A powerful late-game evasive threat; its card advantage efficiency is so low it can be nearly ignored.
 
 <!---124--->
 {% mtgpick "fdn" 124 %}

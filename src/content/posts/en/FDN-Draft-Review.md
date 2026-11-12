@@ -144,7 +144,7 @@ Let's add Khans of Tarkir (KTK), widely known as "Showa MTG," to the chart.
 ![5](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/96f8bbfa6ec0.webp)
 
 Just as predicted, we got a box plot of a width similar to FDN's.
-In so-called basic-style environments that easily turn into long games, how you deal with mana flood or expensive cards is very important, but since you don't want to draw those cards in your opening hand, I infer that this FDN-like result appears.
+In so-called core-set environments that easily turn into long games, how you deal with mana flood or expensive cards is very important, but since you don't want to draw those cards in your opening hand, I infer that this FDN-like result appears.
 
 ## Application
 
@@ -202,7 +202,7 @@ After a certain set was added, the largest number on the right side of the chart
 
 {% folding blue :: Hint 2 %}
 
-It's a mythic rare, and a card that makes its presence felt on turn one! (The translator felt an urge to shovel cards into the graveyard
+It's a mythic rare, and a card that makes its presence felt on turn one! (The translator felt a bit of an urge to concede
 
 {% endfolding %}
 

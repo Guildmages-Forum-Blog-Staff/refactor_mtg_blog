@@ -142,7 +142,7 @@ The more common one is using single cards like {% mtgcard "Shepherding Spirits" 
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Limited-Preliminary/8af5bd5b8fe3.webp)
 
-Of course, thinking more outside the box, you can also put those big demons that cost too much, or have side effects when cast, into the graveyard in any feasible way and reanimate them, creating a situation where only we benefit. [Excellence at any cost](https://scryfall.com/card/rav/81/dark-confidant) is the romance of black players, don't you agree?
+Of course, thinking more outside the box, you can also put those big demons that cost too much, or have side effects when cast, into the graveyard in any feasible way and reanimate them, creating a situation where only we benefit. [Greatness, at any cost](https://scryfall.com/card/rav/81/dark-confidant): that is the romance of black players, don't you agree?
 
 **Takeaways**
 

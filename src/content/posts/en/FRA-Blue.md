@@ -1,5 +1,5 @@
 ---
-title: "Fractured Reality (FRA) Limited Overview — Blue"
+title: "Reality Fracture (FRA) Limited Overview — Blue"
 date: "9/22/2026, 5:27:35 PM"
 updated: "2026-09-22 18:02:20"
 preview: false
@@ -15,9 +15,9 @@ excerpt: "Blue is the wellspring of the mind, symbolizing boundless resources"
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-Blue/).
 
-Fractured Reality (FRA) prerelease events run on September 25, 2026, with the official release one week later on October 2, 2026. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of FRA Limited overviews!
+Reality Fracture (FRA) prerelease events run on September 25, 2026, with the official release one week later on October 2, 2026. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of FRA Limited overviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fracture Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 
@@ -34,7 +34,7 @@ Fractured Reality (FRA) prerelease events run on September 25, 2026, with the of
 
 {% mtgpick "fra" 25 %}
 Score: 2.5
-Comment: Watch out for this card when blue's three-drop slot is open. It gives empower Jace, letting you surveil 1 to trigger the white-blue theme. Since this set has the three-mana flash creature {% mtglink "Divining Duelist" %}, which easily makes the opponent misjudge, this card's usefulness goes up.
+Comment: Watch out for this card when a blue player leaves three mana open. It gives empower Jace, letting you surveil 1 to trigger the white-blue theme. Since this set has the three-mana flash creature {% mtglink "Divining Duelist" %}, which easily makes the opponent misjudge, this card's usefulness goes up.
 
 {% mtgpick "fra" 26 %}
 Score: 0.0 / 2.0
@@ -59,7 +59,7 @@ Comment: A counterspell and a combat trick in one, but it is a rather reactive c
 
 {% mtgpick "fra" 31 %}
 Score: 3.0
-Comment: An upgraded version of a reskin that can also remove the opponent's prepared state.
+Comment: An upgraded version of the usual lockdown Aura that can also remove the opponent's prepared state.
 
 {% mtgpick "fra" 32 %}
 Score: 3.5
@@ -103,7 +103,7 @@ Comment: An instant that draws two is passable, but you cannot play many, and th
 
 {% mtgpick "fra" 42 %}
 Score: 3.0
-Comment: As a Wall it is already very good, and it has its own way to trigger surveil, an important card in the white-blue theme.
+Comment: As a defender it is already very good, and it has its own way to trigger surveil, an important card in the white-blue theme.
 
 {% mtgpick "fra" 43 %}
 Score: 4.5
@@ -164,7 +164,7 @@ Comment: A top-tier big creature that can reap the game at six mana, and you do 
 
 {% mtgpick "fra" 220 %}
 Score: 2.0
-Comment: It makes almost all your instants unable to be responded to, but the body actually has no combat value and cannot affect the board much.
+Comment: It makes almost all your instants and sorceries unable to be responded to, but the body actually has no combat value and cannot affect the board much.
 
 {% mtgpick "fra" 221 %}
 Score: 3.0
@@ -191,4 +191,4 @@ Score: 3.0
 Comment: A creature-based combat trick that can also trigger surveil effects.
 
 ## Conclusion
-Blue this time gives many good card-draw and tempo cards. I think in draft, white-blue and blue-red tempo decks built around small creatures and counterspells will perform well; in sealed you can treat blue as a looting support color, and also use the surveil mechanic to find the bombs in your deck as early as possible. If you have taken a lot of removal, using blue's resources to control the opponent until you win is also a way to play.
+Blue this time gives many good card-draw and tempo cards. I think in draft, white-blue and blue-red tempo decks built around small creatures, counterspells and removal will perform well; in sealed you can treat blue as a looting support color, and also use the surveil mechanic to find the bombs in your deck as early as possible. If you have taken a lot of removal, using blue's resources to control the opponent until you win is also a way to play.

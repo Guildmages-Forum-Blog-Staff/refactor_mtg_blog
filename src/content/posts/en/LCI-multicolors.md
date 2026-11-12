@@ -142,7 +142,7 @@ Aside from not being able to attack the turn it enters, as long as you can keep 
 ![228](https://cards.scryfall.io/large/front/c/7/c7c7fb87-8448-49f4-a9ed-db97f6a41d98.jpg?1699044538)
 
 **cephille**: 3.5
-A 4-mana 4/4 that can explore at the beginning of your combat is already great, and on top of that it can become a copy of another creature you control. It's also a Merfolk, so against blue-green you'll want this in your deck.
+A 4-mana 4/4 that can explore at the beginning of your combat is already great, and on top of that it can become a copy of another creature you control. It's also a Merfolk, so when playing blue-green you'll want this in your deck.
 
 ![229](https://cards.scryfall.io/large/front/b/c/bc4a65de-23b5-48f0-b8b7-94608eaced3e.jpg?1698263171)
 
@@ -175,12 +175,12 @@ A 5-mana 5/3 that gives other Dinosaurs haste reminds me of [Regisaur Alpha](htt
 ![238](https://cards.scryfall.io/large/front/4/3/4382fa49-9e34-45b3-8495-4916dcd995ec.jpg?1698263830)
 
 **cephille**: 5.0
-Quintorius's passive ability should be the core of your build: simply casting spells from exile drains your opponent for 2, producing a 4-point life swing, which is very strong. As a 5-mana planeswalker, [+1] making a 3/2 Elemental token shows he can protect himself; [-3] does Discover 4, letting him keep generating more resources once he sticks around, but Discover is usually an unstable way to generate resources in Limited, so using [+1] two or more times and heading toward the ultimate [-6] is probably the safer line. The ultimate lets you exile any number of cards from your graveyard, adding one red mana for each, and then you may play those exiled cards this turn. You'd basically only want to ultimate when you have at least two worthwhile cards in your graveyard. If Quintorius survives after [-6], combining the passive ability to gain card advantage and a life swing at the same time is just wonderful to think about!
+Quintorius's passive ability should be the core of your build: simply casting spells from exile drains your opponent for 2, producing a 4-point life swing, which is very strong. As a 5-mana planeswalker, [+1] making a 3/2 Spirit token shows he can protect himself; [-3] does Discover 4, letting him keep generating more resources once he sticks around, but Discover is usually an unstable way to generate resources in Limited, so using [+1] two or more times and heading toward the ultimate [-6] is probably the safer line. The ultimate lets you exile any number of cards from your graveyard, adding one red mana for each, and then you may play those exiled cards this turn. You'd basically only want to ultimate when you have at least two worthwhile cards in your graveyard. If Quintorius survives after [-6], combining the passive ability to gain card advantage and a life swing at the same time is just wonderful to think about!
 
 ![239](https://cards.scryfall.io/large/front/0/b/0ba99b60-c7d0-4041-a065-f2c510745223.jpg?1698263877)
 
 **cephille**: 3.5
-As long as you have other creatures and artifacts she is a very strong [Fable of the Mirror-Breaker](https://cards.scryfall.io/large/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103), and she can even copy artifacts and legendary creatures/artifacts. Remember that the token she makes is also an artifact, so although it's not directly related, it still connects with the Pirate theme designated for blue-red.
+As long as you have other creatures and artifacts she is a very strong [Reflection of Kiki-Jiki](https://cards.scryfall.io/large/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103), and she can even copy artifacts and legendary creatures/artifacts. Remember that the token she makes is also an artifact, so although it's not directly related, it still connects with the Pirate theme designated for blue-red.
 
 > Our silk-and-metal master Saheeli also lost her spark after the great Phyrexian invasion, but that's fine: after crossing the Omenpaths she arrived on Ixalan and found her lover, the battle poet Huatli, and the two of them are living happily on Ixalan.
 
@@ -254,7 +254,7 @@ A 2-mana 2/1 is just filler. Sacrificing it exiles up to four cards from a singl
 
 > Wait, this set has Gnomes and Golems everywhere. Is it really not just cards left over from The Brothers' War, given new life on Ixalan ~~recycled and reused~~?
 >
-> Old Wizards: "I hate players with sharp instincts like you the most."
+> Wizards: "I hate players with sharp instincts like you the most."
 
 ![253](https://cards.scryfall.io/large/front/7/8/7802ca61-6fcc-4965-9f8f-dd58fe82c6bf.jpg?1699044608)
 
@@ -269,7 +269,7 @@ A 5-mana 2/5 flyer with ward {2} that, for just two mana, puts cards from your o
 ![255](https://cards.scryfall.io/large/front/3/3/3348abe7-6aa3-47f7-8203-a15f75007e33.jpg?1699044614)
 
 **cephille**: 2.0
-Deathtouch on your own turn encourages you to put it on a little guy and go for the head, and reach on the opponent's turn lets your ground creatures block the opponent's flyers. It's an Equipment that balances offense and defense, and a 2-mana equip cost is acceptable.
+Deathtouch on your own turn encourages you to put it on a little guy and send it in to trade off, and reach on the opponent's turn lets your ground creatures block the opponent's flyers. It's an Equipment that balances offense and defense, and a 2-mana equip cost is acceptable.
 
 ![256](https://images.guildmagesforum.tw/posts/LCI-multicolors/1766c13bcbac.webp)
 
@@ -321,7 +321,7 @@ Acceleration early, then in the mid-to-late game it exiles one or more colored c
 ![263](https://cards.scryfall.io/large/front/2/4/24a85c52-e5b5-4d65-931c-eacc0cf0fb31.jpg?1699044641)
 
 **cephille**: 1.5
-A very interesting card: cast for one, equip for one, and if you want to tap a creature/artifact you pay two more. As a layabout or as a way to stop the opponent's artifacts from using their abilities, it should be fairly efficient. And don't forget it gives your creatures reach; plenty of Limited players will probably overlook it and have their flyers blocked and killed. Oh, and the eight-mana tap-and-Discover 10? Of course there's a chance to do it, and it could be very strong if you do, but it's too late in the game to earn extra points for that.
+A very interesting card: cast for one, equip for one, and if you want to tap a creature/artifact you pay two more. As a tapper that keeps creatures lying down, or as a way to stop the opponent's artifacts from using their abilities, it should be fairly efficient. And don't forget it gives your creatures reach; plenty of Limited players will probably overlook it and have their flyers blocked and killed. Oh, and the eight-mana tap-and-Discover 10? Of course there's a chance to do it, and it could be very strong if you do, but it's too late in the game to earn extra points for that.
 
 ![264](https://cards.scryfall.io/large/front/9/9/99413817-1218-4947-b12f-9a952b095a89.jpg?1698704416)
 
@@ -384,7 +384,7 @@ A Cave color-fixing land that you only play in Limited when you need it, but it 
 ![269](https://cards.scryfall.io/large/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg?1695463236)
 
 **cephille**: 1.5
-The Pioneer-era favorite welcomes Cavern of Souls! But that's not the point of this article. In Limited, if you draft a tribal deck or open a cohesive one, Cavern of Souls is a very nice land for blue, or you need to be in a three-plus color tribal deck to use it. In most situations it is a land that might get your other creatures or noncreature spells stuck, so be careful when using it.
+Pioneer welcomes Cavern of Souls! But that's not the point of this article. In Limited, if you draft a tribal deck or open a cohesive one, Cavern of Souls is a very nice land against blue, or you need to be in a three-plus color tribal deck to use it. In most situations it is a land that might get your other creatures or noncreature spells stuck, so be careful when using it.
 One idea: if you open a creature bomb in a color your deck can't use, you could consider having the Cave name that creature's type to fix for it, but that's still very unstable.
 
 ![270](https://cards.scryfall.io/large/front/2/a/2a51ebf6-a465-42e2-82b7-d2cb928ca632.jpg?1698175451)
@@ -395,7 +395,7 @@ A land creature that becomes a 3/3 for two mana looks good at first, but it addi
 ![271](https://cards.scryfall.io/large/front/2/4/244c06b3-532d-426e-8bee-ee9461d092a6.jpg?1698704228)
 
 **cephille**: 1.0
-For mana, please use basic lands; this card shouldn't have been designed for Limited.
+For mana, please use basic lands; this card probably wasn't designed for Limited.
 
 ![272](https://cards.scryfall.io/large/front/d/e/de8c1c02-e533-46b2-a3eb-91dff561854b.jpg?1698704662)
 

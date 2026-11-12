@@ -8,7 +8,7 @@ categories:
   - "ECL"
 cover: "https://images.guildmagesforum.tw/posts/ECL-Multicolors/604379a8cd38-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/ECL-Multicolors/604379a8cd38-cover.jpg"
-excerpt: "'I want to go back to Lorwyn~ try to keep the story going~ at least Evoke should be cast for two mana~' — 周杰倫, \"Back to Lorwyn\" (this song does not exist)"
+excerpt: "'I want to go back to Lorwyn~ try to keep the story going~ at least Evoke should be cast for two mana~' — Jay Chou, \"Back to Lorwyn\" (this song does not exist)"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../ECL-Multicolors/).

@@ -30,7 +30,7 @@ Anyway, here is my Modern journey over the past half year:
 5. I hadn't practiced Scam enough and still got pinged all over my head.
 6. At 11 PM the night before the 紙牌屋 MITQ, I made a last-minute decision to play Mono-Black Cabal Coffers the next day.
 
-And that's how it turned out. In the end I was lucky enough to reach the finals at the 紙牌屋 MITQ with Mono-Black Coffers and got the qualification.
+And that's how it turned out. In the end I was lucky enough to finish as runner-up at the 紙牌屋 MITQ with Mono-Black Coffers and got the qualification.
 
 For a detailed tournament report, see the [post](https://www.facebook.com/photo/?fbid=302281939240147&set=a.121378810663795) on my personal fan page.
 
@@ -46,7 +46,7 @@ It produces mana from the many Swamps, but on its own it doesn't feel that stron
 So here another card to pair with it comes in:
 ![](https://cards.scryfall.io/large/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1619399578)
 This card makes every land on the battlefield a Swamp, **in other words every land can tap for black, and every land is seen by Coffers, making Coffers produce a bit more black**.
-This becomes our mana-burst engine, and we crush the opponent with a huge amount of mana. You can basically think of it as a slower big-mana deck.
+This becomes our mana-burst engine, and we crush the opponent with a huge amount of mana. You can basically think of it as a slower version of Creativity.
 
 ### Creatures
 
@@ -59,7 +59,7 @@ Finally I chose three Swampcycling [Troll of Khazad-dûm](https://cards.scryfall
 ### Karn, the Great Creator and His Toolbox
 
 ![](https://cards.scryfall.io/large/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1566819742)
-Since we've called it a slower big-mana deck, bringing a little Karn to fetch a toolbox from the sideboard should be fine, right?
+Since we've called it a slower Creativity, bringing a little Karn to fetch a toolbox from the sideboard should be fine, right?
 And since we mentioned the toolbox, let me write about it here too.
 
 #### Karn's Toolbox

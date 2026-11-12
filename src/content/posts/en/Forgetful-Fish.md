@@ -42,7 +42,7 @@ The format was created by Nick Floyd in 1997, but it wasn't widely known until R
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Otdgj8fBQxc?si=x29_faesj8l1VKme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-A `Forgetful Fish` deck is basically made up of 10 {% mtglink "Dandân" %} and 8 {% mtglink "Memory Lapse" %}, which is also where the name `Forgetful Fist` comes from, plus many blue instants, aiming to beat your opponent using the top of the library, the stack, and {% mtglink "Dandân" %}.
+A `Forgetful Fish` deck is basically made up of 10 {% mtglink "Dandân" %} and 8 {% mtglink "Memory Lapse" %}, which is also where the name `Forgetful Fish` comes from, plus many blue instants, aiming to beat your opponent using the top of the library, the stack, and {% mtglink "Dandân" %}.
 
 The rules are the same as most Magic constructed formats: starting at 20 life, seven-card hands, the player on the play doesn't draw, maximum hand size of seven, drawing from an empty library loses the game, and so on. Besides the shared library and graveyard, in `Forgetful Fish` you can mulligan repeatedly until your opening hand contains at least two lands and two spells (you do have to reveal your hand to your opponent, of course), or mulligan following the standard mulligan procedure.
 
@@ -133,7 +133,7 @@ In theory `Forgetful Fish` could be extended to any color, but I think none of t
 
 Although I've (more or less) finished the deck, I still feel it's a pity I didn't get that SLD set, and I really want that playmat too (curling up under the blanket biting my pillow). UG sells it, but they only ship to addresses in Europe.
 
-And that set of Islands really smells good. As an Island fanboy (?), not collecting a set would be letting myself down.
+And that set of Islands is really tempting. As an Island fanboy (?), not collecting a set would be letting myself down.
 ![](https://images.guildmagesforum.tw/posts/Forgetful-Fish/0ad8f97aa7f4.webp)
 
 ...That said, I've seen quite a few people on Twitter and Reddit run into misprints or shipping mishaps, and then I feel like not having ordered it is kind of fine.

@@ -25,13 +25,13 @@ I was fortunate to have competed in the tournaments where SamuelChang is active!
 ![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/e35455efa625.webp)
 > Many thanks to SamuelChang for taking the interview despite being short on sleep ~~still handsome~~. Besides the originally planned content, we also took the chance to chat about all sorts of topics, from Magic to life.
 
-#### Q1: Before we begin, I'd like to congratulate SamuelChang on qualifying for the World Championship! Let's go back to the scene of the MIT Round 9 finals first. How did you feel in that final decisive stage?
+#### Q1: Before we begin, I'd like to congratulate SamuelChang on qualifying for the World Championship! Let's go back to the scene of the MIT Round 9 Championship first. How did you feel in that final decisive stage?
 
 A: In the top 4, my match ended earlier, so I took the chance to go watch the other side, the match between [博源](https://guildmagesforum.tw/en/MIT-9-Review-sertyple/) and Rich郭沐儒. While watching I had a feeling: their decks should both be hard to play against me, so at the time I thought I had a bigger edge in the matchups. Facing [博源](https://guildmagesforum.tw/en/MIT-9-Review-sertyple/) in the finals, I actually got a bit tired from that mindset; after all, I had already played nine rounds of Constructed, and my stamina dips a little by the end. My computing power is probably lower than before and I didn't calculate everything perfectly, but luckily the deck was strong enough, and my big-picture sense and experience are probably a bit better than before.
 
-Before the MIT Round 9 finals, I mostly treated the tournament with a calm mind, thinking, as long as I keep participating, maybe one day I'll naturally take first place?
+Before the MIT Round 9 Championship, I mostly treated the tournament with a calm mind, thinking, as long as I keep participating, maybe one day I'll naturally take first place?
 
-I used to have the habit of **always sleeping well before a big tournament**, because I once won an event after sleeping well, so subconsciously I cared about it more; but for the MIT Round 9 finals I didn't push myself especially hard, and rested close to three or four in the morning, a bit too excited to sleep. When I got up I felt a little tired, but I told myself to relax and not to care too much, **after all, I'd already done everything I could**.
+I used to have the habit of **always sleeping well before a big tournament**, because I once won an event after sleeping well, so subconsciously I cared about it more; but for the MIT Round 9 Championship I didn't push myself especially hard, and rested close to three or four in the morning, a bit too excited to sleep. When I got up I felt a little tired, but I told myself to relax and not to care too much, **after all, I'd already done everything I could**.
 
 ![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/49b48629428b.webp)
 > All in all, congratulations to SamuelChang on lifting the MIT Round 9 championship ⊙⊙ ~~For that nickname we can't mention, please head over to [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689) yourselves~~ .
@@ -43,16 +43,16 @@ A: Izzet Prowess. My goal is to find a deck that wins.
 
 As for deck building, early on I was like everyone else, mostly copying the meta decklists, but later I came to prefer building my own decks. It's not because the building process makes me happy; it's fun, but also a bit painful, and people who've been through it will probably understand the real appeal. Building a deck that can win isn't easy; it takes repeated testing and a correct mathematical foundation. Doing so costs a player a great deal of time early on, because each time a single card changes, the lands likely have to change with it, and you go through countless calculations before the build is finished.
 
-During my school years, and when I went to Barcelona for the Pro Tour, I happened to meet some strong card players from China. For the Izzet Prowess build at the MIT Round 9 finals, they helped me settle the main deck's sixty cards.
+During my school years, and when I went to Barcelona for the Pro Tour, I happened to meet some strong card players from China. For the Izzet Prowess build at the MIT Round 9 Championship, they helped me settle the main deck's sixty cards.
 
-(For SamuelChang's preparation process and thoughts on the MIT Round 9 finals, see the article [SamuelChang's MIT#9 Review](https://guildmagesforum.tw/en/MIT-9-Review-Samuel/))
+(For SamuelChang's preparation process and thoughts on the MIT Round 9 Championship, see the article [SamuelChang's MIT#9 Review](https://guildmagesforum.tw/en/MIT-9-Review-Samuel/))
 
 ![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/332cd9cb28bc.webp)
-> First, here is a simple copy of SamuelChang's decklist from the MIT Round 9 finals. Before finishing this article, you may want to look over this build yourself and guess at SamuelChang's thinking at the time ~~especially that [Get Out](https://scryfall.com/card/dsk/60/get-out) in the sideboard~~ .
+> First, here is a simple copy of SamuelChang's decklist from the MIT Round 9 Championship. Before finishing this article, you may want to look over this build yourself and guess at SamuelChang's thinking at the time ~~especially that [Get Out](https://scryfall.com/card/dsk/60/get-out) in the sideboard~~ .
 
 #### Q3: Everyone who improves has surely been inspired by someone. Do you still remember the origin of your first contact with this game? Under what circumstances did you meet Magic: The Gathering?
 
-A: When I was in high school, the first card game I touched was Yu-Gi-Oh!, then World of Warcraft, which I played for a year or two. Along the way I won a Chinese national championship, an Australia-New Zealand championship, and also won all of Shanghai's festival tournaments (similar to Magic's store championships), and I found it fun to earn pocket money this way. At that time I hadn't touched Magic: The Gathering at all, but egged on by people around me, I often spent my tournament prize money on cracking Magic packs.
+A: When I was in high school, the first card game I touched was Yu-Gi-Oh!, then the World of Warcraft TCG, which I played for a year or two. Along the way I won a Chinese national championship, an Australia-New Zealand championship, and also won all of Shanghai's festival tournaments (similar to Magic's store championships), and I found it fun to earn pocket money this way. At that time I hadn't touched Magic: The Gathering at all, but egged on by people around me, I often spent my tournament prize money on cracking Magic packs.
 
 As for the real process of getting into Magic: The Gathering, to some extent I have to thank Mr. 任建明 and 瓜瓜 (the owner of [CardMaster](https://www.facebook.com/cardmaster.tw)). I used to come back to Taiwan on holidays now and then, and when I had nothing to do, 瓜瓜 invited me to play a tournament and Mr. 任建明 lent me a Delver deck; that was my first time in a competitive-level Magic event. Thanks to that experience, I was able to join the big Magic family.
 
@@ -135,7 +135,7 @@ I used to attend Soochow University, where a senior I'd met in my World of Warcr
 This senior later joined Magic: The Gathering too. Since I keep my championship trophy in [CardMaster](https://www.facebook.com/cardmaster.tw)'s display case, when I run into him playing there lately, I tell him: "I won't argue with you about bridge, but on Magic you always have to listen to me." He says OK, no problem XD.
 
 ![](https://images.guildmagesforum.tw/posts/MIT9-Champion-Interview/5cb94d907c3c.webp)
->Although this is a photo from the MIT Round 10 finals, SamuelChang and his comrade [承翰](https://guildmagesforum.tw/en/MIT2-Champion-Interview/) both advanced to the top 4 again and played a match that was exciting in every sense. According to SamuelChang, [承翰](https://guildmagesforum.tw/en/MIT2-Champion-Interview/) is the Taiwanese player who gives him the most stimulating discussion and feedback, and I believe everyone will continue to see them active in the future.
+>Although this is a photo from the MIT Round 10 Championship, SamuelChang and his comrade [承翰](https://guildmagesforum.tw/en/MIT2-Champion-Interview/) both advanced to the top 4 again and played a match that was exciting in every sense. According to SamuelChang, [承翰](https://guildmagesforum.tw/en/MIT2-Champion-Interview/) is the Taiwanese player who gives him the most stimulating discussion and feedback, and I believe everyone will continue to see them active in the future.
 
 #### Q11: Could you list a few players who have influenced you, and tell us what you learned from them?
 
@@ -157,6 +157,6 @@ This is how I feel about playing cards, and Magic: The Gathering especially: bei
 
 #### Q13: Lastly, please describe what Magic: The Gathering is to you.
 
-A: This is the same as the words left after the MIT Round 9 finals: "Play games, make friends, see the world."
+A: This is the same as the words left after the MIT Round 9 Championship: "Play games, make friends, see the world."
 
 Making friends is the element I think is most important. Because of Magic: The Gathering, I've been able to practice all three of these things.

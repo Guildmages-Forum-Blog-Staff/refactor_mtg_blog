@@ -93,7 +93,7 @@ Comment: In a five-color build, this artifact can fill in the permanent colors y
 <!---260--->
 {% mtgpick "ECL" 260 %}
 Score: 2.5
-Comment: Springleaf Drum was once a component of ancient artifact synergy decks. It reappearing in this set will mostly be used as the tap-a-creature side effect in the Merfolk theme. Not to mention that early-game acceleration in Limited is already good enough.
+Comment: Springleaf Drum was once a component of Vintage artifact synergy decks. It reappearing in this set will mostly be used as the tap-a-creature side effect in the Merfolk theme. Not to mention that early-game acceleration in Limited is already good enough.
 
 
 <!---261--->
@@ -214,7 +214,7 @@ Comment: The effect is decent, continually strengthening itself when you cast cr
 <!---147--->
 {% mtgpick "spg" 147 %}
 Score: 2.0
-Comment: A classic combo component. In this set it can help you assemble five colors, but beyond that it offers little value.
+Comment: A classic Legacy combo component. In this set it can help you assemble five colors, but beyond that it offers little value.
 
 <!---148--->
 {% mtgpick "spg" 148 %}

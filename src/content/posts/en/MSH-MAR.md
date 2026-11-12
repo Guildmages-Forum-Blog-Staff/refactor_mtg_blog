@@ -123,7 +123,7 @@ Marvel Universe ([MAR](https://scryfall.com/sets/mar)) is a subset attached to t
  
  {% mtgpick "MAR" 60 %}
  Rating: 1.0
- Comment: You and the opponent both discard, so unless you guarantee that what you discard is certainly stronger than the opponent's, I don't recommend putting it in a constructed deck.
+ Comment: You and the opponent both discard, so unless you guarantee that what you discard is certainly stronger than the opponent's, I don't recommend putting it in your deck.
         
  
  {% mtgpick "MAR" 61 %}
@@ -238,7 +238,7 @@ Marvel Universe ([MAR](https://scryfall.com/sets/mar)) is a subset attached to t
  
  {% mtgpick "MAR" 85 %}
  Rating: 3.5
- Comment: A low-cost Hymn deserves a high rating.
+ Comment: A low-cost anthem deserves a high rating.
         
  
  {% mtgpick "MAR" 86 %}
@@ -293,7 +293,7 @@ Marvel Universe ([MAR](https://scryfall.com/sets/mar)) is a subset attached to t
  
  {% mtgpick "MAR" 96 %}
  Rating: 4.0
- Comment: A powerful bomb for red-white, with extra toughness and continuous damage. If it enters on time, you are most likely going to win.
+ Comment: A powerful bomb for red-white, with extra stats and continuous damage. If it enters on time, you are most likely going to win.
         
  
  {% mtgpick "MAR" 97 %}

@@ -8,7 +8,7 @@ categories:
   - "FIN"
 cover: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
-excerpt: "I live by my own ideas, so you should live by yours (布蘭): use a flexible mana base and all sorts of artifact Equipment to build the game plan you want!"
+excerpt: "I live by my own ideas, so you should live by yours (as a certain Final Fantasy character put it): use a flexible mana base and all sorts of artifact Equipment to build the game plan you want!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FIN-Colorless/).
@@ -115,7 +115,7 @@ Comment: A 2/1 for two mana is a below-average body. Being able to redistribute 
 <!---266--->
 {% mtgpick "fin" 266 %}
 Rating: 3.0
-Comment: A 0/4 flier can be seen as a decent wall, but it is not a defender: if you pump it or equip it, you can still attack with trample. Also, in a blue-green town ramp deck, you can activate its ability early to speed up your mana, and later pay 3 mana to start putting life-total pressure on your opponent.
+Comment: A 0/4 flier can be seen as a decent wall, but it is not a defender: if you pump it or equip it, you can still attack with evasion. Also, in a blue-green town ramp deck, you can activate its ability early to speed up your mana, and later pay 3 mana to start putting life-total pressure on your opponent.
 
 <!---267--->
 {% mtgpick "fin" 267 %}

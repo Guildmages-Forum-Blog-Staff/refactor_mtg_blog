@@ -60,7 +60,7 @@ If the "circle lands" were only a matter of immature layout and systems, the nex
 On this card's early version, the enchant type read "Enchant Dead Creature."
 But under modern rules, something that is not on the battlefield can only be called a "creature card," which meant an already complicated effect had to be re-described rigorously.
 The result is the "**official essay**" we see today.
-But in fact, its core effect is very simple: **efficient two-mana graveyard digging**.
+But in fact, its core effect is very simple: **efficient two-mana reanimation**.
 Even though the creature enters tapped and needs extra mana to untap, in the singleton EDH format this is still a quite useful pick.
 
 ### 3. The Pinnacle of Official Shenanigans

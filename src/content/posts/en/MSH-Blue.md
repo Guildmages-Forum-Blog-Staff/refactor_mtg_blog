@@ -76,7 +76,7 @@ Marvel Super Heroes (MSH) will hold its Prerelease events on June 19, 2026, and 
  
  {% mtgpick "MSH" 53 %}
  Score: 3.0
- Comment: It gives a little of everything: +1/+1 to grow, flying and trample, and ward for protection. A solid piece of Equipment.
+ Comment: It gives a little of everything: +1/+1 to grow, flying for evasion, and ward for protection. A solid piece of Equipment.
         
  
  {% mtgpick "MSH" 54 %}
@@ -116,7 +116,7 @@ Marvel Super Heroes (MSH) will hold its Prerelease events on June 19, 2026, and 
  
  {% mtgpick "MSH" 61 %}
  Score: 3.0
- Comment: Bouncing something when it enters is smooth for tempo. If you bounce your own stuff later it also grows, and it has flying, making it a good source of trample damage.
+ Comment: Bouncing something when it enters is smooth for tempo. If you bounce your own stuff later it also grows, and it has flying, making it a good source of evasive damage.
         
  
  {% mtgpick "MSH" 62 %}

@@ -58,7 +58,7 @@ Comment: A classic horror doll whose ability fits this set's red-white aggro the
 <!---209--->
 {% mtgpick "dsk" 209 %}
 Score: 3.0
-Comment: It grows the body while giving a way to break through on offense. Besides putting it on a survivor to raise its survivability, when the opponent has an empty board you can also tap your own survivor in reverse, or even a creature played that turn, and immediately gain a survival value in your second main phase!
+Comment: It grows the body while giving a way to break through on offense. Besides putting it on a survivor to raise its survivability, when the opponent has an empty board you can also tap your own survivor in reverse, or even a creature played that turn, and immediately get survival value in your second main phase!
 
 <!---210--->
 {% mtgpick "dsk" 210 %}
@@ -158,7 +158,7 @@ Comment: An important card for white-green; whenever survival triggers, it looks
 <!---229--->
 {% mtgpick "dsk" 229 %}
 Score: 3.0
-Comment: White-green's important card; it can dig twice, but the color requirements are heavy, and its exact strength depends on how strong the creature you dig up is.
+Comment: It can dig twice, but the color requirements are heavy, and its exact strength depends on how strong the creature you dig up is.
 
 <!---230--->
 ![230](https://images.guildmagesforum.tw/posts/DSK-multicolors/bb23592171a4.webp)
@@ -178,7 +178,7 @@ Comment: White-green can grow it steadily every turn, which is pretty good.
 <!---233--->
 {% mtgpick "dsk" 233 %}
 Score: 2.5
-Comment: The color requirements are a bit too heavy; black-white might do better with digging instead.
+Comment: The color requirements are a bit too heavy; in black-white it's probably better to reanimate it instead.
 
 <!---234--->
 {% mtgpick "dsk" 234 %}
@@ -224,4 +224,4 @@ Comment: Cast on time it's a 1/1 + 3/3, and later it grows bigger, though 7/7 is
 
 This is my first time trying to write about multicolor. Multicolor cards are all closely tied to their color pair's theme, so you need to look a bit more to give more accurate ratings. By the way, the card I most want to play in Limited in this new set is the UUU 10/1 mill guy {% mtgcard "The Mindskinner" tooltip=true %}.
 
-One month after the new set comes out is round seven of MIT, and one month after that I'm going to Shanghai for the 睿卡杯, so best wishes for me and my comrades, and I wish all the GF fans smooth play, with no flood or screw!
+One month after the new set comes out is MIT 7, and one month after that I'm going to Shanghai for the 睿卡杯, so best wishes for me and my comrades, and I wish all the GF fans smooth play, with no flood or screw!

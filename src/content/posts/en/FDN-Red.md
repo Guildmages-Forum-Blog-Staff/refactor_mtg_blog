@@ -57,7 +57,7 @@ Comment: A solid creature. In red-green decks it has a higher chance of triggeri
 <!---83--->
 {% mtgpick "fdn" 83 %}
 Score: 2.0
-Comment: In constructed you can run more noncreature spells to boost its pump, and paired with combat tricks like the power-doubling one you may get a big swing, but in the vast majority of games you'll be happy to trigger it once per turn.
+Comment: When building your deck, you can run more noncreature spells to boost its pump, and paired with combat tricks like the power-doubling one you may get a big swing, but in the vast majority of games you'll be happy to trigger it once per turn.
 
 <!---84--->
 {% mtgpick "fdn" 84 %}

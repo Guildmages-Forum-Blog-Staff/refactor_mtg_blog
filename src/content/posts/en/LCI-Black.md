@@ -111,13 +111,13 @@ I don't know if it has the soul of [Ravenous Chupacabra](https://scryfall.com/ca
 
 The body can be seen as a three-mana 3/2 haste creature, and once you descend once it's a gain, and it can create board pressure that is extremely uncomfortable for the opponent. Plus enchantments are not easy to deal with in this set, making it a payoff card worth actively fighting for continuous descending.
 
-One of the biggest prizes in this Limited format's descend system, a semi-permanent generator of 3/2 haste creatures. If you can descend steadily, you can produce a 3/3/2 harasser every turn; even if it can't get through, you can keep casting this and descending each turn, slowly raising a large army of 3/2 skeletons. Not to mention that with two or more copies, each skeleton's clock gets higher and higher. A semi-infinite resource with simple conditions is absolutely a bomb in this Limited format.
+One of the biggest prizes in this Limited format's descend system, a semi-permanent generator of 3/2 haste creatures. If you can descend steadily, you can produce a 3/2 harasser every turn; even if it can't get through, you can keep casting this and descending each turn, slowly raising a large army of 3/2 skeletons. Not to mention that with two or more copies, each skeleton's clock gets higher and higher. A semi-infinite resource with simple conditions is absolutely a bomb in this Limited format.
 
 ![099](https://cards.scryfall.io/large/front/8/2/82e6b971-3f5b-47e7-8209-98d72ee781fc.jpg?1699044112)
 
 **Jru**: 2.5
 
-A reprint card with a heavy cost; although its range as removal is short, being a permanent that triggers **descend** after removal is a plus in this set.
+This one is also a reprint; although its range as removal is short, being a permanent that triggers **descend** after removal is a plus in this set.
 
 ![100](https://cards.scryfall.io/large/front/c/c/ccc9d22c-dfce-4136-aed8-a5fe9bb852f2.jpg?1699044113)
 
@@ -125,7 +125,7 @@ A reprint card with a heavy cost; although its range as removal is short, being 
 
 The familiar deathtouch guy who stands there lounging and watches which creature the opponent wants to send as the suicide squad, a decent blocker for the graveyard approach that hopes to stretch the game out, and the controllable self-mill of 2 also has no small value in this set.
 
-[Mire Triton](https://scryfall.com/card/cmm/174/mire-triton) is the worse one (the only point in which this one wins in comparison is that you can choose not to mill when your own deck is running low), but in this set it is a creature that can complete descend tasks and fill the graveyard, and at the very least, used as the front face of [Aetherblade Agent // Gitaxian Mindstinger](https://scryfall.com/card/mom/88/aetherblade-agent-gitaxian-mindstinger), it is a high-quality defensive two-drop.
+A worse [Mire Triton](https://scryfall.com/card/cmm/174/mire-triton) (the only point in which this one wins in comparison is that you can choose not to mill when your own deck is running low), but in this set it is a creature that can complete descend tasks and fill the graveyard, and at the very least, used as the front face of [Aetherblade Agent // Gitaxian Mindstinger](https://scryfall.com/card/mom/88/aetherblade-agent-gitaxian-mindstinger), it is a high-quality defensive two-drop.
 
 ![101](https://cards.scryfall.io/large/front/0/b/0b24bb7c-6b34-48b6-af94-f312ebdbb759.jpg?1699044120)
 
@@ -137,7 +137,7 @@ One of the descend payoff cards, but its starting body is feeble, and it takes a
 
 **Kappa**: 3.5
 
-A two-mana flying creature that also comes with two extra upfront abilities? And it can hold up one of the opponent's cards in hand? For the opponent to get it back they have to cast a removal spell at it? If the opponent has no forces that can block flyers, you can keep draining the opponent and trading life? That's broken... Seriously, unless the opposing deck is mainly all-flying forces, this is an excellent two-mana option.
+A two-mana flying creature that also comes with two extra beneficial abilities? And it can hold up one of the opponent's cards in hand? For the opponent to get it back they have to cast a removal spell at it? If the opponent has no forces that can block flyers, you can keep draining the opponent and trading life? That's broken... Seriously, unless the opposing deck is mainly all-flying forces, this is an excellent two-mana option.
 
 ![103](https://cards.scryfall.io/large/front/3/d/3d9abaec-af72-4399-b162-5e62e7487242.jpg?1699044122)
 
@@ -207,7 +207,7 @@ A card-draw piece doubling as fodder, but for this card to draw a second time it
 
 **Jru**: 4.0
 
-As long as it attacks it's a gain. Once played, a 2/4 deathtouch body relatively easily survives, or it forces the opponent to double-block and then uses its 2 deathtouch damage to trade one for two. In the early game it can put great blocking pressure on the opponent, and in the mid to late game, even if it's no longer easy to attack with, a 2/4 deathtouch standing there is equally hard for the opponent to attack into.
+As long as it attacks it's a gain. After attacking, a 2/4 deathtouch body relatively easily survives, or it forces the opponent to double-block and then uses its 2 deathtouch damage to trade one for two. In the early game it can put great blocking pressure on the opponent, and in the mid to late game, even if it's no longer easy to attack with, a 2/4 deathtouch standing there is equally hard for the opponent to attack into.
 
 ![114](https://cards.scryfall.io/large/front/a/1/a18f5ad0-e9c1-4e45-b245-2946e29baecb.jpg?1699044162)
 
@@ -295,7 +295,7 @@ Also, creatures recurred by the back face get a finality counter, and a creature
 
 **Kappa**: 4.0
 
-An AOE sweeper needs no explanation, but it is rated under 5.0 because this card is harder to use. In Limited the number of permanents in the graveyard isn't that controllable, so it's hard to control your own firepower to kill only the opponent's creatures and leave yours, or the firepower may kill the opponent's biggest creature, or the opponent may even just exile your graveyard, and then this card becomes a joke. But in the vast majority of cases it is a powerful sweeper, very much worth a first pick.
+An AOE sweeper needs no explanation, but it is rated under 5.0 because this card is harder to use. In Limited the number of permanents in the graveyard isn't that controllable, so it's hard to control your own firepower to kill only the opponent's creatures and leave yours, or to make it just big enough to kill the opponent's biggest creature, or the opponent may even just exile your graveyard, and then this card becomes a joke. But in the vast majority of cases it is a powerful sweeper, very much worth a first pick.
 
 ![128](https://images.guildmagesforum.tw/posts/LCI-Black/fef67ee873a5.webp)
 

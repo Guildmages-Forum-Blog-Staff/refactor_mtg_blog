@@ -78,7 +78,7 @@ A 3/3 vigilance for three that comes with a Clue token is no loss, and if it can
 
 **cephille:** 4.5
 
-Following [Ilharg, the Raze-Boar](https://cards.scryfall.io/large/front/c/0/c0109b60-09aa-4a03-92e7-0c651d976d51.jpg?1559959377), here comes Gruul's Mole God! An absurd 8/4 body for four mana, paired with its effect that when it is blocked, it comes back and fights again; when your board is ahead, you can even add the seven-mana ability so the Mole God must be blocked this turn, giving you a chance to attack again and again, rapidly lowering your opponent's defenses and life total. If you can make the Mole God indestructible and forced to be blocked, couldn't you attack until the end of time? Awesome!
+Following [Ilharg, the Raze-Boar](https://cards.scryfall.io/large/front/c/0/c0109b60-09aa-4a03-92e7-0c651d976d51.jpg?1559959377), here comes Gruul's Mole God! An absurd 8/4 body for four mana, paired with its effect that when it becomes blocked, your whole team untaps and gets to fight again; when your board is ahead, you can even add the seven-mana ability so the Mole God must be blocked this turn, giving you a chance to attack again and again, rapidly lowering your opponent's defenses and life total. If you can make the Mole God indestructible and forced to be blocked, couldn't you attack until the end of time? Awesome!
 
 OK, let's be serious. Basically, when the opponent's defensive creatures are too weak to kill the god, it is extremely painful for them: either don't block and take 8, which is no fun, or block, fail to kill it, and keep getting punched again and again. I recommend that at the start of combat you first attack with the Mole God and your other creatures that can attack profitably. If the opponent blocks your Mole God, your remaining weaker creatures can follow up with a second wave or more. If they don't block, you at least deal 8 damage to the opponent.
 
@@ -236,7 +236,7 @@ Time to farm! This enchantment turns your creature tokens into [Birds of Paradis
 
 **cephille:** 5.0
 
-Cards that can build an army all by themselves deserve high grades in Limited, since creatures are the main win condition. The new Izoni is already a decent beater as a 5/4 menace for six, and whenever she enters or attacks you can collect evidence 4, which lets you create two 2/1 menace reach Spiders! So if I lock her in with four or more mana worth of cards in my graveyard, I can get 9 points of menace power on board for six mana!?
+Cards that can build an army all by themselves deserve high grades in Limited, since creatures are the main win condition. The new Izoni is already a decent beater as a 5/4 menace for six, and whenever she enters or attacks you can collect evidence 4, which lets you create two 2/1 menace reach Spiders! So if I cast her with four or more mana worth of cards in my graveyard, I can get 9 points of menace power on board for six mana!?
 
 I have to say this is truly outrageous. Basically, by the time you can reach six mana, having cards with total mana value 4 or more in the graveyard won't be hard, and if you can make Izoni attack successfully and trigger the second ability, you can even build 13 points of menace power on board! Oh, and we haven't even talked about her second ability yet: you can sacrifice four tokens at any time to surveil 2, draw 2, gain 2... This is truly outrageous! And you don't have to sacrifice the Spider tokens you worked hard to make; a few Clues or other tokens can activate it just as well.
 

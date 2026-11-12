@@ -1,5 +1,5 @@
 ---
-title: "Fractured Reality Mechanics Breakdown"
+title: "Reality Fracture Mechanics Breakdown"
 date: "9/14/2026, 1:38:52 PM"
 updated: "2026-09-21 08:41:20"
 preview: false
@@ -10,7 +10,7 @@ authors:
   - "JruMTG"
 cover: "https://images.guildmagesforum.tw/posts/FRA-Mechanism/1b59b0fcad3f-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FRA-Mechanism/1b59b0fcad3f-cover.jpg"
-excerpt: "Let's see which mechanics appear in Fractured Reality!"
+excerpt: "Let's see which mechanics appear in Reality Fracture!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-Mechanism/).

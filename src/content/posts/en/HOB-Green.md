@@ -55,7 +55,7 @@ Comment: It can strengthen creatures through landfall and is a big creature itse
 
 {% mtgpick "hob" 121 %}
 Score: 3.0
-Comment: It relies heavily on the other cost-skipping cards in the deck, so that you can put out creatures without losing card advantage.
+Comment: It relies heavily on the other ramp cards in the deck, so that you can put out creatures without losing card advantage.
 
 {% mtgpick "hob" 122 %}
 Score: 2.0
@@ -83,7 +83,7 @@ Comment: A rather poor filler, only play it if you truly lack two-mana tempo pla
 
 {% mtgpick "hob" 128 %}
 Score: 3.0
-Comment: It can reset at instant speed to block, and if it is a bear it grows bigger; now even green opening up at three mana needs to be watched out for.
+Comment: It can reset at instant speed to block, and if it is a bear it grows bigger; now you even have to watch out when green leaves three mana open.
 
 {% mtgpick "hob" 129 %}
 Score: 3.5
@@ -149,4 +149,4 @@ Comment: The tribal pump only lasts for that turn and it can only ramp into Elve
   
 ## Conclusion
 
-While the neighbors are still pecking at each other with Humans, Elves and Hobbits, green has already slammed down one huge beast after another; look at these giant bears, wolves and spiders, any of which could make up an expedition to set off for Mordor! Green is definitely the most stable creature-battle choice this time, and whether you follow the curve or skip costs to land big creatures, it gives the opponent a lot of headaches; the only problem is a lack of flexibility, so you need to pair it with other colors for removal or card draw.
+While the neighbors are still pecking at each other with Humans, Elves and Hobbits, green has already slammed down one huge beast after another; look at these giant bears, wolves and spiders, any of which could make up an expedition to set off for Mordor! Green is definitely the most stable creature-battle choice this time, and whether you follow the curve or ramp into big creatures, it gives the opponent a lot of headaches; the only problem is a lack of flexibility, so you need to pair it with other colors for removal or card draw.

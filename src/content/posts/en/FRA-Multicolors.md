@@ -1,5 +1,5 @@
 ---
-title: "Fractured Reality (FRA) Limited Guide: Multicolor"
+title: "Reality Fracture (FRA) Limited Guide: Multicolor"
 date: "9/21/2026, 2:12:31 PM"
 updated: "2026-09-22 09:05:12"
 preview: false
@@ -15,9 +15,9 @@ excerpt: "The Echoverse has arrived. Many old friends appear in pairs, but they 
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FRA-Multicolors/).
 
-Fractured Reality (FRA) will hold its prerelease events on September 25, 2026, and officially launches one week later on October 2, 2026. Want to learn more about individual card ratings and advice for Limited? Then check out this series of FRA Limited guides!
+Reality Fracture (FRA) will hold its prerelease events on September 25, 2026, and officially launches one week later on October 2, 2026. Want to learn more about individual card ratings and advice for Limited? Then check out this series of FRA Limited guides!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fracture Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Color Pair Themes
 
@@ -144,7 +144,7 @@ Comment: If you have a powerful planeswalker, you can trade a Jace token for it.
 
 {% mtgpick "fra" 132 %}
 Score: 3.5
-Comment: Draw one, give surveil one: it can dig past an expensive opposing spell or save your own creature, and it can also work as a top-end, so it is very versatile.
+Comment: Draw one, give surveil one: it can bounce an expensive opposing permanent or save your own creature, and it can also work as a top-end, so it is very versatile.
 
 {% mtgpick "fra" 133 %}
 Score: 2.5
@@ -158,7 +158,7 @@ Comment: Besides giving your creature two lives, it can also guarantee a trade w
 
 {% mtgpick "fra" 135 %}
 Score: 3.0
-Comment: You need to deal combat damage to a player to draw two. Given its stats, which count as a [Divination](https://scryfall.com/card/m19/51/divination), it may not connect, so it depends on the board.
+Comment: You need to deal combat damage to a player to draw two. Considering its stats, and that the payoff is only a [Divination](https://scryfall.com/card/m19/51/divination), it may not always connect, so it depends on the board.
 
 {% mtgpick "fra" 136 %}
 Score: 3.0
@@ -258,7 +258,7 @@ Comment: A six-mana 5/5 flyer. On entering, exile one nonland card of each type,
 
 {% mtgpick "fra" 160 %}
 Score: 3.5
-Comment: Putting down a bean and fighting is probably the most commonly used option, and back in the day it took two modes of a [Dromoka's Command](https://scryfall.com/card/moc/323/dromokas-command) to do it. It can also protect a card, and when you have nothing to do you can use it to draw one and discard three.
+Comment: Putting down a bean and fighting is probably the most commonly used option, and back in the day it took two modes of a [Dromoka's Command](https://scryfall.com/card/moc/323/dromokas-command) to do it. It can also protect a card, and when you have nothing to do you can use it to draw one and gain 3 life.
 
 {% mtgpick "fra" 161 %}
 Score: 3.0
@@ -314,7 +314,7 @@ Comment: If you are in red-blue or white-blue and see it passed to you, consider
 
 {% mtgpick "fra" 278 %}
 Score: 3.5
-Comment: Great build, but the color requirements are heavy, so it feels like a strong card to splash. Good early and late.
+Comment: Great body, but the color requirements are heavy, so it feels like a strong card to splash. Good early and late.
 
 ## Conclusion
 In this Echoverse we get to see a different side of many old friends, which must be quite interesting. The set's power level is obviously super strong too, and Constructed is bound to see big changes as well. I even want to call back some of my old playing friends to play this very fun new set.

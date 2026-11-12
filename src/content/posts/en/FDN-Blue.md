@@ -8,7 +8,7 @@ categories:
   - "FDN"
 cover: "https://images.guildmagesforum.tw/posts/FDN-Blue/f45f0d087245-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Blue/f45f0d087245-cover.jpg"
-excerpt: "Yeah, we finally got a reprint of Cancel! Refute opens a new era of three-mana hard counters!"
+excerpt: "Yeah, we finally stopped reprinting Cancel! Refute opens a new era of three-mana hard counters!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FDN-Blue/).

@@ -233,7 +233,7 @@ Hammer Time, Affinity, Amulet Titan, Indomitable Creativity
 
 ![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/e2c5c046ae84.webp)
 Casting it triggers the second ability, letting you gain control of the opponent's next turn.
-Mainly used against control and the mirror, making the controlling opponent empty out their resources and hand as much as possible.
+Mainly used against control and the mirror, taking control of the opponent to make them empty out their own resources and hand as much as possible.
 
 **Suggested matchups:**
 UW/UB Control, Four-Color Elementals.

@@ -32,7 +32,7 @@ In the finals I faced Mono-Black Vault. I roughly knew how to handle it, but for
 #### Q2: Why did you choose the Rhino deck back then?
 
 A: There are too many Modern decks to cover every base, so I just filter out the noise and focus on doing my own thing.
-I think Rhinos is an easy-to-pick-up deck with enough power, suitable for dad-type players who don't have time to practice much. [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed) and [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) really boosted this deck a lot. Although with [Fury](https://scryfall.com/card/mh2/126/fury) banned it's harder to deal with go-wide decks of Humans, Spirits, Faeries, Merfolk, Infect, and so on, Scam and four-color decks are also harder-pressed to beat Rhinos without [Fury](https://scryfall.com/card/mh2/126/fury), so it has pros and cons. My other considerations were already covered in my [earlier article
+I think Rhinos is an easy-to-pick-up deck with enough power, suitable for dad-type players who don't have time to practice much. [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed) and [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) really boosted this deck a lot. Although with [Fury](https://scryfall.com/card/mh2/126/fury) banned it's harder to deal with go-wide decks of Humans, Goblins, Elves, Merfolk, Infect, and so on, Scam and four-color decks are also harder-pressed to beat Rhinos without [Fury](https://scryfall.com/card/mh2/126/fury), so it has pros and cons. My other considerations were already covered in my [earlier article
 ](https://guildmagesforum.tw/en/Modern-Temur-Rhinos-LD/), so I won't repeat them here~
 
 > A murmur from David: Rhinos, banned twice, is already nearly extinct XD
@@ -47,7 +47,7 @@ A: When I was in my second year at 高師大附中, it should have been the Odys
 
 #### Q4: Is that excitement and emotion still there? Can you talk about how Magic today differs from the past?
 
-A: Spells used to be stronger and creatures weaker. Back then, a one-mana red 2/1 Goblin definitely had a drawback; now look at how outrageous [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer) is. Or look at how [Masticore](https://scryfall.com/card/uds/134/masticore) used to be expensive and good, while the Masticores printed afterward are never played. If you took [Steel Hellkite](https://scryfall.com/card/som/205/steel-hellkite) back in time 20 years, it could probably sell for two thousand too.
+A: Spells used to be stronger and creatures weaker. Back then, a one-mana red 2/1 Goblin definitely had a drawback; now look at how outrageous [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer) is. Or look at how [Masticore](https://scryfall.com/card/uds/134/masticore) used to be expensive and good, while the [Masticores](https://scryfall.com/card/uds/134/masticore) printed afterward are never played. If you took [Steel Hellkite](https://scryfall.com/card/som/205/steel-hellkite) back in time 20 years, it could probably sell for two thousand too.
 Nowadays there's a lot of interaction on the table, with every color having creatures, Vehicles, Equipment, and planeswalkers fighting over attack and defense, so it's more like playing a board game, and the new mulligan also reduces the risk of land screw.
 
 #### Q5: The driving force behind greatness is often purer and more childish than we imagine. Magic: The Gathering is a card game, and cards extend our will and imagination. Simply put, cracking packs is just so much fun and so exciting. What is the most important card to you? Please share your bond with it.
@@ -68,7 +68,7 @@ A: I think being able to see the clock and the judge when I look up is quite imp
 
 #### Q9: Competitive-level events always go through multiple preliminary rounds, at least a full day of continuous play. A good player must combine correct concepts, focused spirit, and ample stamina... Which trait do you think made you stand out this time?
 
-A: I eat chocolate and bananas and drink coffee to stay hyped, avoid starches because they make me sleepy, don't drink soda because it goes flat, and definitely don't drink milk tea because it'll milk-tea me into the ground. Also, watch out for the Special Grade Cursed Spirit 廖宜楠 aka [TOT](https://www.facebook.com/totarmory).
+A: I eat chocolate and bananas and drink coffee to stay hyped, avoid starches because they make me sleepy, don't drink soda because it saps your energy, and definitely don't drink milk tea because it'll milk-tea me into the ground. Also, watch out for the Special Grade Cursed Spirit 廖宜楠 aka [TOT](https://www.facebook.com/totarmory).
 
 #### Q10: Although it's the player standing on the stage, the team, family, and friends around the player surely take part too. Have you experienced any memorable support or arguments in your life? And how were they finally resolved?
 

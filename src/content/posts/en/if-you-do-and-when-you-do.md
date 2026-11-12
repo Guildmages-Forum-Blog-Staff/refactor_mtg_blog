@@ -56,7 +56,7 @@ The ability now on the stack is **"You may exile Kozilek's Return from your grav
 
 - Wording: 1. You may perform action A. **When** you do, effect B happens. 2. Perform action A. **When** you do, effect B happens.
 
-- Result: 1. **The option to perform A** goes on the stack. When that ability resolves on the stack, you choose whether to perform A, and **when** you choose to perform A, a new ability B is created and put on the stack, and ability B can be responded to. 2. **Performing A** goes on the stack. If A can be performed, it must be, and **when** you performed A, a new ability B is created and put on the stack.
+- Result: 1. **The option to perform A** goes on the stack. When that ability resolves on the stack, you choose whether to perform A, and **when** you choose to perform A, a new ability B is created and put on the stack, and ability B can be responded to. 2. **Performing A** goes on the stack. If A can be performed, it must be, and **when** you performed A, a new ability B is created and put on the stack, and ability B can be responded to.
 
 - Examples:
   [Halo Forager](https://scryfall.com/card/mom/227/halo-forager): You may pay {X}. **When** you do, you may cast target instant or sorcery card with mana value X from a graveyard without paying its mana cost.
@@ -67,7 +67,7 @@ The ability now on the stack is **"You may exile Kozilek's Return from your grav
 
 The main difference between "When you do" and "If you do" is whether the follow-up effect B creates a new stack object that can be responded to. If you think this is just a word game that's easy to mix up, remember that in MTG, whenever you see "When", it is often accompanied by a triggered ability that goes on the stack.
 
-This isn't just a memory trick, though; it's how the game actually works. These effects really do create a new triggered ability, or, more precisely, a [reflexive triggered abilities](https://mtg.fandom.com/wiki/Triggered_ability). For the rule on it, see [rule 603.12](https://mtg.fandom.com/wiki/Triggered_ability).
+This isn't just a memory trick, though; it's how the game actually works. These effects really do create a new triggered ability, or, more precisely, a [reflexive triggered ability](https://mtg.fandom.com/wiki/Triggered_ability). For the rule on it, see [rule 603.12](https://mtg.fandom.com/wiki/Triggered_ability).
 
 Let's look at another scenario to cement the idea.
 

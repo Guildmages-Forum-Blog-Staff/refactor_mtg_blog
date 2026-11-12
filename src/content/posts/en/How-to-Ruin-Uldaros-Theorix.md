@@ -15,7 +15,7 @@ excerpt: "Does Wizards still remember that Superior Spider-Man is in Standard?"
 
 ## Introduction
 
-Of the five great Sphinx Elders in the Reality Fracture series, the one generating the most discussion has to be [Uldaros Theorix](https://scryfall.com/card/fra/159/uldaros-theorix). After all, how good its ETB ability is, is immediately obvious, and with [Superior Spider-Man](https://scryfall.com/card/spm/155/superior-spider-man) currently in Standard, the two together add up to far more than the sum of their parts.
+Of the five great Sphinx Elders in the Reality Fracture set, the one generating the most discussion has to be [Uldaros Theorix](https://scryfall.com/card/fra/159/uldaros-theorix). After all, how good its ETB ability is, is immediately obvious, and with [Superior Spider-Man](https://scryfall.com/card/spm/155/superior-spider-man) currently in Standard, the two together add up to far more than the sum of their parts.
 
 That said, I have noticed that while the community discusses how to pair [Uldaros Theorix](https://scryfall.com/card/fra/159/uldaros-theorix) with other cards, many players are also confused about how the ability checks its conditions, especially for cards with multiple parts such as split cards, Adventure cards, and double-faced cards. I hope this article clears up how the ability of [Uldaros Theorix](https://scryfall.com/card/fra/159/uldaros-theorix) works.
 

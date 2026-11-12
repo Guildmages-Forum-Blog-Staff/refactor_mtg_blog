@@ -200,7 +200,7 @@ Comment: Even without other artifacts, a 4/4 for six that gives your target crea
 <!---111--->
 {% mtgpick "eoe" 111 %}
 Score: 2.0
-Comment: This guard looks like it is meant for the Station theme; if you do not have it, I do not really recommend using it. A tempo-losing card that is bad is one thing, but if you face a swarm of 1/1 chaff attacking, you may not really want to use it to block either.
+Comment: This guard looks like it is meant for the Station theme; if you do not have it, I do not really recommend using it. Losing tempo and card advantage is one thing, but if you face a swarm of 1/1 chaff attacking, you may not really want to use it to block either.
 
 
 
@@ -259,7 +259,7 @@ Comment: Besides actively attacking, becoming tapped in this set also means you 
 <!---120--->
 {% mtgpick "eoe" 120 %}
 Score: 2.0
-Comment: Although triggering Void makes it a {% mtglink "Thoughtseize" %} without the life loss, you do not need to build a deck specially for it; just bring it when you have three-drops to drop, and it is still more of a sideboard card.
+Comment: Although triggering Void makes it a {% mtglink "Thoughtseize" %} without the life loss, you do not need to build a deck specially for it; just play it when you would want a three-mana discard spell anyway, and it is still more of a sideboard card.
 
 
 <!---121--->

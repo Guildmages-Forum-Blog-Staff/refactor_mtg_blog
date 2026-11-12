@@ -3,7 +3,7 @@ title: "Modern Meta Inspection Post-MKM"
 date: "2024-02-25 22:42:26"
 cover: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/ddb4267b9ddc-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PostMKM/ddb4267b9ddc-cover.jpg"
-excerpt: "My Rhinos now have vigilance, hexproof, first strike, lifelink, and trample. Are you going to dig up some sideboard cards?"
+excerpt: "My Rhinos now have vigilance, hexproof, first strike, lifelink, and trample. Ready to concede yet?"
 categories:
   - "Construct"
   - "Modern"
@@ -23,7 +23,7 @@ So which new cards made it into the format? Let's find out.
 
 [Melee link](https://melee.gg/Tournament/View/54549)
 
-Let's start with the US RC. First, congratulations to [荒野騎士 ClarkShih](/en/authors/ClarkShih/) for finishing 28th with Temur Rhinos and qualifying for PT Seattle!
+Let's start with the US RC. First, congratulations to [ClarkShih](/en/authors/ClarkShih/) for finishing 28th with Temur Rhinos and qualifying for PT Seattle!
 
 There were 1,331 players, again split over two days: nine Swiss rounds on day 1, then four Swiss rounds plus a top-8 single-elimination on day 2. Only players at 6-3 (18 points) or better after day 1 advanced to day 2.
 The event was streamed on Twitch again, but it was so late that I only watched a little bit.
@@ -112,7 +112,7 @@ You could call it the breakout star of this RC (?). If I remember correctly, Lui
 The key card is the five-color Leyline [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact), and it is probably one of the few Leylines you actually want to cast from hand (provided, of course, you have [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco) on the battlefield or in hand). Besides giving every land every basic land type and making all nonland permanents five-colored, it also lets [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco) reliably come down on turn 2.
 That alone might not sound like much, but don't forget that [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco) gives creatures of the matching colors extra abilities, and being five-colored means you get all five abilities.
 In other words, every creature has vigilance, hexproof, first strike, lifelink, and trample. Turn 2 [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco), turn 3 cascade into Rhinos, and the board is a wall of first-strike lifelink creatures with 12 power. This game is so hard...
-It also chooses to run [Drannith Magistrate](https://scryfall.com/card/iko/11/drannith-magistrate) to fight the cascade mirror. With a hexproof [Drannith Magistrate](https://scryfall.com/card/iko/11/drannith-magistrate) plus [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco), you will basically win just by stonewalling the opponent.
+It also chooses to run [Drannith Magistrate](https://scryfall.com/card/iko/11/drannith-magistrate) to fight the cascade mirror. With a hexproof [Drannith Magistrate](https://scryfall.com/card/iko/11/drannith-magistrate) plus [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco), you will basically win just by attacking the opponent relentlessly.
 
 ### 4C Omnath
 

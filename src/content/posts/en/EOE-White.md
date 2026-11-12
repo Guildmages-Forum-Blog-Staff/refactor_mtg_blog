@@ -89,7 +89,7 @@ Just one Flurry is a big board win, but in Limited, improving the consistency of
 {% mtgpick "eoe" 10 %}
 Score: 3.0
 Comment:
-When you have station or a trampling damage source that survives after attacking, you can roll the board into something terrifying. Being a 4/5 lifelinker itself also compensates for the risk of getting its head blown off with no blockers.
+When you have station or an evasive attacker that survives after attacking, you can roll the board into something terrifying. Being a 4/5 lifelinker itself also compensates for the risk of getting its head blown off with no blockers.
 
 <!---11--->
 {% mtgpick "eoe" 11 %}

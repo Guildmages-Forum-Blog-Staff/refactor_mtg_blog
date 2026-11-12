@@ -67,7 +67,7 @@ Another recent problem for Scion of Draco is [Consign to Memory](https://scryfal
 
 ### Where Domain Zoo Stands in the Dragonstorm Metagame
 
-From my own feel, aside from Orzhov Blink and Affinity, Domain Zoo is 55-45 against everything, and 46-54 at worst. It has no glaring bad matchups, because Leyline + Draco is just that strong.
+From my own feel, aside from Orzhov Blink and Affinity, Domain Zoo is about 50-50 against everything, and 40-60 at worst. It has no glaring bad matchups, because Leyline + Draco is just that strong.
 Orzhov Blink has plenty of creature and enchantment removal in its main deck, so even a Leyline + Draco opening struggles against it. Against Affinity, you cannot keep up with their speed, and [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) brings both Construct tokens and a [Shadowspear](https://scryfall.com/card/thb/236/shadowspear) that gains them life, which makes finishing them off difficult.
 
 ## Deck Construction
@@ -97,7 +97,7 @@ Also, to make up for the weak card selection, versions with [Winternight Stories
 The second is the Thrull version. It was born when Energy ran rampant in Modern. Some people developed Orzhov Blink to counter Energy, and Zoo got hurt by it as well, so Zoo adjusted its builds by adding [Doorkeeper Thrull](https://scryfall.com/card/mkm/13/doorkeeper-thrull) and replacing Stubborn Denial with [Consign to Memory](https://scryfall.com/card/mh3/54/consign-to-memory). The aim is to negate all the ETB (enter-the-battlefield) effects of Orzhov Blink's creatures. Many of Orzhov Blink's removal effects are tied to creatures, such as [Solitude](https://scryfall.com/card/mh2/32/solitude) and [Skyclave Apparition](https://scryfall.com/card/znr/39/skyclave-apparition), so a main-deck Thrull is a real headache for them.
 Yes, this is an anti-anti-meta build.
 The Thrull also benefits you. In the original builds there was a version that included [Nulldrifter](https://scryfall.com/card/mh3/13/nulldrifter): flash in the Thrull at the end of the opponent's second turn, then on your turn Nulldrifter draws two and leaves you a 4/4 flier with Annihilator 1, or a [Phlage, Titan of Fire's Fury](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury) that does not need to be sacrificed.
-Especially with Phlage: if you use Consign to Memory, it is like giving the opponent a Lightning Helix and getting a 6/6 for three mana as a bonus, which is just too strong.
+Especially with Phlage: if you use Consign to Memory, it is like hitting the opponent with a Lightning Helix and getting a 6/6 for three mana as a bonus, which is just too strong.
 However, Nulldrifter's cost is a bit hefty, and without the synergy it is inefficient as plain card selection, so it has dropped out of the Thrull builds.
 
 ![](https://images.guildmagesforum.tw/posts/Modern-Domain-Zoo/61172239865a.webp)
@@ -156,6 +156,7 @@ Although you will usually use a triome plus a dual land to complete Domain withi
 ## How to Play the Deck Well
 First, you do not always need to rush to attack.
 Telling an aggro deck not to rush to attack sounds odd, but many players new to aggro decks like Zoo have a misconception: since the deck is full of creatures and burn, they assume they should always be the beatdown. Aggression is indeed the main way to win, and in most matchups it really is, but that does not mean it is the only plan. What matters is developing judgment: knowing in which matchups, or against which board states, you need to ease off the pressure and adopt a more defensive, even control-oriented, strategy.
+### Judging Your Role in the Matchup
 Figuring out and playing your role well in a specific matchup is the key to raising your win rate. This takes time to evaluate the whole situation correctly, including the following aspects:
 - Matchup: What kind of deck are you facing? Aggro? Midrange? Control? Combo?
 - Play/draw: Being on the play usually favors attacking, while being on the draw may require you to stabilize first.
@@ -500,7 +501,7 @@ Since the sideboard brings in sweepers like Pyroclasm, you will almost always ta
 Overall you can play a bit more controlling, since the opponent has a hard time dealing with our big creatures. After that, just watch out for [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon).
 
 ### Eldrazi
-Unfavorable in the main deck, even after sideboarding. In the main deck it is purely a race: see whether you can get their life as low as possible before they ramp to six mana, and look for a chance to finish with burn.
+Unfavorable in game one, roughly even after sideboarding. In the main deck it is purely a race: see whether you can get their life as low as possible before they ramp to six mana, and look for a chance to finish with burn.
 In the sideboard you undoubtedly bring in Consign to Memory and take out Leyline of the Guildpact. Life total is basically fake in this matchup. If you run Obsidian Charmaw or Damping Sphere, you can swap out Phlage.
 After sideboarding, the plan is to slow the opponent down and let the big creatures beat them. So unless your opening hand is an excellent Ragavan + Kavu + burn hand, I recommend mulliganing to find your sideboard cards, especially Consign to Memory.
 Tip: Consign to Memory's Replicate makes a copy rather than casting it, so even if the opponent has a [Chalice of the Void](https://scryfall.com/card/a25/222/chalice-of-the-void) set to X=1, if you Replicate, only the original gets countered by Chalice.
@@ -533,7 +534,7 @@ The main deck should be even or slightly unfavorable. The main thing is to stop 
 Another day of Leyline + Draco not helping. Similar to Jeskai Ascendancy, take out Leyline of the Guildpact and Phlage, then bring in Consign to Memory, Wear // Tear, Mystical Dispute, Clarion Conqueror, and graveyard hate.
 
 ### Ruby Storm
-Yet another day of Leyline + Draco not helping. In the main deck, as long as you stop the opponent's cost reduction in time, they will soon complete the combo on turn two or three. Deal with the cost reducers first rather than building threats. In sideboard games, you gain an edge as the hate cards come in.
+Yet another day of Leyline + Draco not helping. In the main deck, if you fail to stop the opponent's cost reduction in time, they will quickly complete the combo on turn two or three. Deal with the cost reducers first rather than building threats. In sideboard games, you gain an edge as the hate cards come in.
 Without a doubt, what you need are Consign to Memory, Wear // Tear, Damping Sphere, and Deafening Silence, while Leyline of the Guildpact, Phlage, and Tribal Flames, which are not fast enough, come out. As long as the Storm engine does not get going, killing the opponent with creatures is just a matter of time.
 
 ### Affinity

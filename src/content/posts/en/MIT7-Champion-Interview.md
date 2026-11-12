@@ -1,10 +1,10 @@
 ---
 
-title: "Worlds Player Interview: MIT 7th Champion 陳思源"
+title: "Worlds Player Interview: MIT 7th Champion michaelchen"
 date: "2025-12-01 08:21:19"
 cover: "https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/602a051d7bc2-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/602a051d7bc2-cover.jpg"
-excerpt: "思源's road in Magic is a very special one, remarkably brave and steadfast. Even before I truly knew him, I already knew there was a formidable player in Taipei who was passionate about black-red."
+excerpt: "michaelchen's road in Magic is a very special one, remarkably brave and steadfast. Even before I truly knew him, I already knew there was a formidable player in Taipei who was passionate about black-red."
 authors:
   - "faintmama"
 categories:
@@ -16,20 +16,20 @@ categories:
 
 ## Let's get started!
 
-I haven't been playing Magic: The Gathering for very long. When I first got into Standard at the end of last year, I became interested in black-red, and I happened to come across a build that broadened my horizons, designed by 思源. We weren't in the same group chat back then, but that's how I learned there was another black-red enthusiast in Taipei.
+I haven't been playing Magic: The Gathering for very long. When I first got into Standard at the end of last year, I became interested in black-red, and I happened to come across a build that broadened my horizons, designed by michaelchen. We weren't in the same group chat back then, but that's how I learned there was another black-red enthusiast in Taipei.
 
-Later, we got to exchange ideas ~~beat each other up~~ at events a few times and gradually got to know each other better, and this time we finally had the chance to sit down for a deep conversation. 思源's road in Magic is very special and exceptionally brave, and I hope this interview can serve as a reference for our readers. I'm also really looking forward to hearing 思源 share his experiences after Worlds. I wish him the best in enjoying the journey ahead!
+Later, we got to exchange ideas ~~beat each other up~~ at events a few times and gradually got to know each other better, and this time we finally had the chance to sit down for a deep conversation. michaelchen's road in Magic is very special and exceptionally brave, and I hope this interview can serve as a reference for our readers. I'm also really looking forward to hearing michaelchen share his experiences after Worlds. I wish him the best in enjoying the journey ahead!
 
 ![](https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/602a051d7bc2.webp)
 >The interview begins! A red player naturally has to sit next to Chandra.
 
-#### Q1: First of all, congratulations to 思源 on qualifying for Worlds! Let's go back to the scene of the 7th MIT Championship. How did you feel being in the final decisive stretch?
+#### Q1: First of all, congratulations to michaelchen on qualifying for Worlds! Let's go back to the scene of the 7th MIT Championship. How did you feel being in the final decisive stretch?
 
 A: The 7th MIT Championship was actually not the period when I had prepared most intensively, so my mindset at the time was mainly to do what I could, believe in myself, and leave no regrets. Compared with the past, there was more of an element of **hoping to enjoy the tournament**.
 
 Compared with myself in earlier seasons, my drive to win was relatively strong in the past, but it actually put me in an unhealthy mental state. In preparing for one season's MIT, I spent a whole month glued to MO. As soon as I woke up I was practicing, and I played MO even while eating and sleeping, and I made the top eight of a Standard Challenge. I felt I was well prepared, but at the MIT Championship I made mistakes out of nervousness and got eliminated early. That experience made me realize something was off with my mindset, so I changed the way I prepared so that I wouldn't fall into anxiety about gains and losses.
 
-(Addition from 思源: After going through that failure, I also stayed away from Magic: The Gathering for a short while. But after getting enough rest, a game this fun still draws players back onto the tournament track, to keep digging into it and enjoy it in a different way.)
+(Addition from michaelchen: After going through that failure, I also stayed away from Magic: The Gathering for a short while. But after getting enough rest, a game this fun still draws players back onto the tournament track, to keep digging into it and enjoy it in a different way.)
 
 As for what impressed me most at the 7th MIT Championship, it was the opening hand of the last game. My hand was short on lands, but it had [Extinction Event](https://scryfall.com/card/iko/88/extinction-event), the most critical card of that matchup, along with spot removal and [Fable of the Mirror-Breaker](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki). In the end I trusted the bet I had chosen and kept the hand. The point is not to have regrets. Of course this decision isn't necessarily completely right, but even if the choice was wrong, it was my own choice.
 
@@ -71,7 +71,7 @@ Nowadays I don't practice or play in tournaments as often as before, but in exch
 I'm going to this Worlds from the perspective of enjoying the game; having fun matters most. For draft practice I'll follow along on Arena, and for constructed I'll discuss with the teammates I'll be traveling with, then look for decks I have more of a bond with.
 
 ![](https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/31d816da7dbf.webp)
-> A photo of 思源 battling at Pro Tour March of the Machine. Here's to 思源 shining at this Worlds too and enjoying every moment.
+> A photo of michaelchen battling at Pro Tour March of the Machine. Here's to michaelchen shining at this Worlds too and enjoying every moment.
 
 #### Q7: I've always been curious that competitive players surely have their own particular habits at the table. Could you share something beyond the "cards"? Do you have any near-superstitious habits? Or little tricks for hinting at or misleading your opponent?
 
@@ -82,7 +82,7 @@ Also, I think the Magic gods can get angry. If you don't truly want to win, they
 
 #### Q8: Competitive-level events always go through multiple preliminary rounds, at least a full day of continuous play. A good player must combine correct concepts, focused spirit, and ample stamina... Which trait do you think is the key to your standing out?
 
-A: A healthy mindset, I think (思源 modestly says he's just a scrub with nothing to lose XD).
+A: A healthy mindset, I think (michaelchen modestly says he's just a scrub with nothing to lose XD).
 
 Being able to believe in every one of your choices and carry your plan through to the end. Enjoying the tournament and learning from it; sometimes the point isn't winning or losing, but what you gain.
 
@@ -110,7 +110,7 @@ A: Although I'm no longer a card shop clerk, I'm still passionate about promotin
 Rather than saying the two influence each other, I'd say I've always just been burning my own spark XD.
 
 ![](https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/ad9e26fbf399.webp)
-> 思源 with his friends from 遊戲平方. Quite a few of these players are still active at tournaments of all kinds, continuing to enjoy the deep charm of Magic: The Gathering.
+> michaelchen with his friends from 遊戲平方. Quite a few of these players are still active at tournaments of all kinds, continuing to enjoy the deep charm of Magic: The Gathering.
 
 #### Q12: As a competitive player, what is the most valuable advice you've ever received?
 
@@ -126,7 +126,7 @@ A: Red is usually the more proactive, more direct color. Rather than taking pres
 
 Black is good at disrupting the opponent's game plan, especially hand disruption. Combined, the two give double pressure and slowly crush the opponent.
 
-#### Q15 (question from faintmama): Although I'm a player who loves playing homebrew decks, on the competitive stage I also often see 思源 bringing out decks fewer people choose and usually getting good results. What's your main focus when choosing a deck? Preference or power? And how does 思源 usually gauge whether a deck is viable?
+#### Q15 (question from faintmama): Although I'm a player who loves playing homebrew decks, on the competitive stage I also often see michaelchen bringing out decks fewer people choose and usually getting good results. What's your main focus when choosing a deck? Preference or power? And how does michaelchen usually gauge whether a deck is viable?
 
 A: I treat it as a kind of challenge. If I can win with a deck I really like, in some sense it means I've truly improved and gotten stronger. But getting back to basics, a constructed deck must go through constant tuning before it reaches the level of being ready for the tournament stage.
 
@@ -139,7 +139,7 @@ I feel players nowadays don't dare to experiment like this, because it's easier 
 A: I started playing Standard as soon as I got into the game. Personally I have a rather strong drive to win, and since I'd put in the effort I wanted something in return, and I simply didn't want to lose every match, so naturally I headed down the competitive player route.
 
 ![](https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/cdd2aa8a2b9c.webp)
-> A record of 思源 practicing at a local card shop before Pro Tour March of the Machine. Passion led 思源 all the way onto the world stage, where he made friends with fellow players of different cultures and temperaments.
+> A record of michaelchen practicing at a local card shop before Pro Tour March of the Machine. Passion led michaelchen all the way onto the world stage, where he made friends with fellow players of different cultures and temperaments.
 
 #### Q17: Finally, how would you describe what Magic: The Gathering means to you?
 

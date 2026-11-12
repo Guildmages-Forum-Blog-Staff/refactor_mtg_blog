@@ -50,7 +50,7 @@ Comment: Giving the opponent a -1/-1 when it dies is actually not bad, but its b
 
 {% mtgpick "ECL" 88 %}
 Rating: 4.0
-Comment: You'll know how strong a flyer is once you use it. If it comes down on turn 2 and the opponent doesn't remove it, letting it live two or three more turns, you're the god of a new world (just kidding); but its life payment is a bit low and it may hurt you to death, so keep an eye on that when you use it.
+Comment: You'll know how strong a flyer is once you use it. If it comes down on turn 2 and the opponent doesn't remove it, letting it live two or three more turns, you're the god of a new world (just kidding); but if your life total gets too low it may hurt you to death, so keep an eye on that when you use it.
         
 
 {% mtgpick "ECL" 89 %}
@@ -220,7 +220,7 @@ Comment: There are still some doubts about whether multicolor is viable in this 
 
 {% mtgpick "ECL" 121 %}
 Rating: 3.0
-Comment: There's a chance to take a sorcery the opponent has been hiding and use it instantly, which is funny just to think about. At worst it's still a card lost, and anyone who can take this is surely going red-black Goblins, so you'll probably only look at two or three cards.
+Comment: There's a chance to take an instant or sorcery the opponent has been hiding and use it yourself, which is funny just to think about. At worst it's still a card lost, and anyone who can take this is surely going red-black Goblins, so you'll probably only look at two or three cards.
         
 
 {% mtgpick "ECL" 122 %}

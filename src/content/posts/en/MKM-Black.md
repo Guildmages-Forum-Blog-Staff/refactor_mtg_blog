@@ -39,7 +39,7 @@ A sacrifice outlet for the Rakdos archetype. A 5-mana 3/6 body is well suited to
 
 **bruce1235566:** 2.5
 
-A 3-mana 3/3 that enters tapped is slow, but creatures in this set generally have low toughness, so on curve it has a chance to get in a kick or two, and a turn later on defense it can hold off plenty of disguised creatures.
+A 3-mana 3/3 that enters tapped is slow, but creatures in this set are generally small, so on curve it has a chance to get in a kick or two, and a turn later on defense it can hold off plenty of disguised creatures.
 
 ![077](https://cards.scryfall.io/large/front/1/c/1c34e4ae-9bf3-4098-88f1-267e7d6cfa35.jpg?1706241668)
 
@@ -100,7 +100,7 @@ An early tempo removal spell, and in the late game it can still kill the creatur
 
 **bruce1235566:** 1.0
 
-Mills yourself to make collect evidence easier to trigger, but the body is too weak and has no trample. If you want to collect evidence, surveil cards are still safer.
+Mills yourself to make collect evidence easier to trigger, but the body is too weak and has no evasion. If you want to collect evidence, surveil cards are still safer.
 
 > Before you know it all your bombs are in the graveyard, and when you're short on lands you also worry about milling lands.
 
@@ -132,13 +132,13 @@ A common 5-mana reanimation spell, but because the creature you bring back gets 
 
 **bruce1235566:** 2.5
 
-Only adds attack, not defense, making it easier for your small creatures to trade with the opponent's 3- and 4-mana creatures or making creatures with trample hit harder. With Clue as a subtype, there may be some small surprising synergies.
+Only adds attack, not defense, making it easier for your small creatures to trade with the opponent's 3- and 4-mana creatures or making evasive creatures hit harder. With Clue as a subtype, there may be some small surprising synergies.
 
 ![091](https://cards.scryfall.io/large/front/d/c/dc687588-9c57-411d-b666-b9699949d48f.jpg?1706201179)
 
 **bruce1235566:** 3.5
 
-A 2-mana 1/3 flier, very sturdy and with trample, and it has extra value after going to the graveyard. Far too good.
+A 2-mana 1/3 flier, very sturdy and evasive, and it has extra value after going to the graveyard. Far too good.
 
 ![092](https://cards.scryfall.io/large/front/c/3/c3896705-bbd2-4ffb-a590-ee78e0eabdc5.jpg?1705429606)
 
@@ -176,7 +176,7 @@ A 4-mana 4/2 flier. In aggro you can cast it on curve to pressure the opponent, 
 
 **bruce1235566:** 4.0
 
-A card that gets stronger the later the game goes, for slow decks. Loves stealing other people's cards to play in Limited, and instantly makes a deck that fits its game plan much better.
+A card that gets stronger the later the game goes, for slow decks. I love stealing other people's cards to play in Limited, and it fits decks running lots of instants.
 
 ![098](https://cards.scryfall.io/large/front/f/0/f0713025-581f-451b-97a3-97d891285dcc.jpg?1705567109)
 
@@ -262,4 +262,4 @@ A 6-mana 6/5 flier. To target it, the opponent must first sacrifice a creature. 
 
 Hi everyone, I'm bruce1235566. I'm fortunate to have been invited by **cephille** to write this Limited overview. This is my first time doing a card rating overview like this, and I hope everyone likes it.
 
-I'll also stream a few drafts of this new set on MTGA, so if you're bored, come take a look. [中二紳士想會打牌](https://www.facebook.com/bruce1235566) is my fan page, where I post notes from in-person tournaments and good decks I've drafted on MTGA. If you pass by, feel free to give it a like uwub
+I'll also stream a few drafts of this new set on MTGA, so if you're bored, come take a look. My fan page is [bruce1235566 Wants to Get Good at Magic](https://www.facebook.com/bruce1235566), where I post notes from in-person tournaments and good decks I've drafted on MTGA. If you pass by, feel free to give it a like uwub

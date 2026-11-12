@@ -53,7 +53,7 @@ Comment: A relatively rare non-spell form of removal that can turn the game arou
 <!---3--->
 {% mtgpick "eos" 3 %}
 Score: 2.0
-Comment: A creature land with trample that is resistant to sorcery-speed removal, but its power is low and its impact on the game is limited.
+Comment: An evasive creature land that is resistant to sorcery-speed removal, but its power is low and its impact on the game is limited.
 
 
 <!---4--->
@@ -159,7 +159,7 @@ Comment: A fairly average dual-color creature land. A three-mana 2/2 deathtouch 
 <!---20--->
 {% mtgpick "eos" 20 %}
 Score: 3.0
-Comment: A decent creature land. Infect ignores your opponent's life total and deals damage the opponent cannot make up for through lifegain. Together with its low activation cost and flying trample, if your deck doesn't have too many specific colors, you can consider taking it early.
+Comment: A decent creature land. Infect ignores your opponent's life total and deals damage the opponent cannot make up for through lifegain. Together with its low activation cost and evasive flying, if your deck doesn't have too many specific colors, you can consider taking it early.
 
 
 <!---21--->
@@ -225,7 +225,7 @@ Comment: Another creature land with a passable body. A four-mana 2/1 double stri
 <!---31--->
 {% mtgpick "eos" 31 %}
 Score: 2.0
-Comment: Moving counters is not a practical ability in Limited. Most of the time the likeliest use is moving +1/+1 counters onto a creature with trample, and beyond that it is hard to make it effective.
+Comment: Moving counters is not a practical ability in Limited. Most of the time the likeliest use is moving +1/+1 counters onto an evasive creature, and beyond that it is hard to make it effective.
 
 
 <!---32--->

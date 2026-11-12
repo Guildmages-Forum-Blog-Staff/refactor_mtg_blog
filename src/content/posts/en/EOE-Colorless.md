@@ -75,7 +75,7 @@ Comment: As one of the few efficient graveyard-removal options, it also throws i
 <!---238--->
 {% mtgpick "eoe" 238 %}
 Score: 4.0
-Comment: Although it may not do anything right away when it first comes down, once Station reaches 10, simply declaring an attack instantly kills any one of your opponent's creatures. As long as you have a creature that can attack reliably, your opponent's creatures are meaningless no matter how big they are. At Station 20 it turns into a huge one-hit-kill starship. It suits every color's decks and is a must-play in constructed.
+Comment: Although it may not do anything right away when it first comes down, once Station reaches 10, simply declaring an attack instantly kills any one of your opponent's creatures. As long as you have a creature that can attack reliably, your opponent's creatures are meaningless no matter how big they are. At Station 20 it turns into a huge one-hit-kill starship. It suits every color's decks and is a must-include in any build.
 
 
 <!---239--->
@@ -161,7 +161,7 @@ Comment: Shock lands, you are back! But unlike the earlier [surveil lands](https
 <!---252--->
 {% mtgpick "eoe" 252 %}
 Score: 2.0
-Comment: If your deck is only going to three colors before you consider it, the drawback is too big.
+Comment: Only worth considering if your deck goes to three colors; the drawback is too big.
 
 
 <!---253--->
@@ -281,7 +281,7 @@ Comment: A very good filler. This card is effectively +1 to all the green creatu
 <!---128--->
 {% mtgpick "spg" 128 %}
 Score: 0.5
-Comment: A 5-color 7/7 vanilla. Fifteen years ago [Conflux](https://scryfall.com/sets/con) already had a 5-color vanilla creature, [Fusion Elemental](https://scryfall.com/card/con/107/fusion-elemental), whose body should be 8/8, and this one is smaller than that.
+Comment: A 5-color 7/7 vanilla. Fifteen years ago [Conflux](https://scryfall.com/sets/con) already had a 5-color vanilla creature, [Fusion Elemental](https://scryfall.com/card/con/107/fusion-elemental), which was an 8/8, and this one is smaller than that.
 
 
 ## Conclusion

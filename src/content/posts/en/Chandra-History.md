@@ -93,7 +93,7 @@ The six-mana big Chandra, empowered by Nissa's ley line power during the fight b
 > -3: Chandra, Torch of Defiance deals 4 damage to target creature.
 > −7: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."
 
-Chandra, who after fighting the Eldrazi went home to visit family on Kaladesh, is the second red planeswalker after [Jace, the Mind Sculptor](https://cards.scryfall.io/large/front/0/e/0e606072-a3aa-4300-ba90-ec92a721fa76.jpg), and the first in history, to have four abilities: the treatment of a true favorite daughter. Combining direct damage, ramp, removal and card advantage, her overall strength is the best of all versions, and since she was also printed in a gift box set sold directly, her price is quite friendly. In Dominaria, a rules change about damage targets made Torch of Defiance lose her ability to hit planeswalkers directly, but this is a minor flaw in an otherwise great card.
+Chandra, who after fighting the Eldrazi went home to visit family on Kaladesh, is the second planeswalker after [Jace, the Mind Sculptor](https://cards.scryfall.io/large/front/0/e/0e606072-a3aa-4300-ba90-ec92a721fa76.jpg), and the first red one in history, to have four abilities: the treatment of a true favorite daughter. Combining direct damage, ramp, removal and card advantage, her overall strength is the best of all versions, and since she was also printed in Signature Spellbook and sold directly, her price is quite friendly. In Dominaria, a rules change about damage targets made Torch of Defiance lose her ability to hit planeswalkers directly, but this is a minor flaw in an otherwise great card.
 
 ## Chandra, Fire Artisan
 
@@ -173,7 +173,7 @@ The Chandra who, in the story of March of the Machine, went with [Wrenn and Seve
 > +1: Add {R} for each planeswalker you control.
 > 0: Remove a loyalty counter from each of any number of permanents you control. Exile that many cards from the top of your library. Until end of turn, you may play them.
 
-The Chandra in Commander Masters, packed with spirits and designed for planeswalker-tribal decks. Her activated abilities are impulse draw or ramp combined with passive direct damage, with the count based on the number of planeswalkers you control. Because she was built for a specific purpose, she performs far worse than the other versions outside of a planeswalker-tribal commander deck.
+The Chandra in Commander Masters, with a crowd of spectral figures behind her, designed for planeswalker-tribal decks. Her activated abilities are impulse draw or ramp combined with passive direct damage, with the count based on the number of planeswalkers you control. Because she was built for a specific purpose, she performs far worse than the other versions outside of a planeswalker-tribal commander deck.
 
 ## Conclusion
 

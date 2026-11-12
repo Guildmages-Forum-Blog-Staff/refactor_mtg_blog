@@ -53,7 +53,7 @@ Extra rating: 3.5. It would be the first-pick core card if you lean toward a lif
 <!---5--->
 {% mtgpick "fdn" 5 %}
 Score: 4.0
-Comment: A simple and brutal effect: it protects one creature, then gives all your following creatures the chance to get trample. Worth a first pick.
+Comment: A simple and brutal effect: it protects one creature, then gives all your following creatures the chance to get through (evasion). Worth a first pick.
 
 
 <!---6--->
@@ -287,4 +287,4 @@ Comment: There are a lot of Angels in this set, and as long as you pair it with 
 ## Conclusion
 
 
-This time white has the most powerful lifegain theme in Limited, and once built it will definitely be the strongest archetype! You can go the creature go-wide route, or pair it with other color pairs to suppress with air power, and you have the ability to handle any bomb your opponent has. White's uncommon creatures are all excellent, and the seemingly plain two- and three-drops will be the solid fighting force of your deck!
+This time white has the most powerful lifegain theme in Limited, and once built it will definitely be the strongest archetype! You can go the creature go-wide route, or pair it with other color pairs to suppress with air power, and you have the ability to handle any bomb your opponent has. White's uncommon and common creatures are all excellent, and the seemingly plain two- and three-drops will be the solid fighting force of your deck!

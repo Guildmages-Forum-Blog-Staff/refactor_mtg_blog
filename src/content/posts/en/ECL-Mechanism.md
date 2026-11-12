@@ -46,7 +46,7 @@ Kindred is a card type (on the same level as instant, sorcery, land, and so on, 
 
 Every Kindred card has another card type, and that card's timing and rules depend on its non-Kindred type.
 
-Kindred cards are never creature cards, but they have a creature subtype. Suppose an effect lets you search your library for a Faerie card and put it into your hand (without requiring a creature card). Then [Morcant's Eyes](https://scryfall.com/card/ecl/185/morcants-eyes), a Kindred enchantment with the Faerie subtype, is also a valid search target.
+Kindred cards are never creature cards, but they have a creature subtype. Suppose an effect lets you search your library for an Elf card and put it into your hand (without requiring a creature card). Then [Morcant's Eyes](https://scryfall.com/card/ecl/185/morcants-eyes), a Kindred enchantment with the Elf subtype, is also a valid search target.
 
 > PS: Kindred was formerly called Tribal, but it was renamed for [political correctness](https://magic.wizards.com/en/news/announcements/card-updates-coming-with-khans-of-tarkir-on-mtg-arena). All cards that use the word Tribal are automatically treated as having been changed to Kindred.
 
@@ -57,7 +57,7 @@ Kindred cards are never creature cards, but they have a creature subtype. Suppos
 ## Changeling
 ![Changeling](https://images.guildmagesforum.tw/posts/ECL-Mechanism/a8d67cbd6ca9.webp)
 
-Changeling is a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/). An object with changeling has every creature type, and this effect works in all zones. Suppose an effect lets you search your library for a Faerie creature card and put it into your hand. Then you can also find a changeling creature card and put it into your hand.
+Changeling is a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/). An object with changeling has every creature type, and this effect works in all zones. Suppose an effect lets you search your library for an Elf creature card and put it into your hand. Then you can also find a changeling creature card and put it into your hand.
 
 
 
