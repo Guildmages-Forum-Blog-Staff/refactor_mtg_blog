@@ -1,7 +1,11 @@
 username: XSBeeble
 name: "象山嗶寶精"
 avatar: "/images/XSBeeble-avatar.jpg"
-intro: [
+intro_zh: [
   "愛吃的人，打完牌第一件事就是想吃什麼。致力於開發各卡店周邊的隱藏美食，讓疲憊的身心不再被速食、超商、Sukiya餵養。",
   "CEDH、近代、先驅玩家。喜歡把所有Meta都玩過一遍，導致家裡該整理的卡條一大堆，MTGA R卡庫存永遠為0。"
+]
+intro_en: [
+  "A foodie whose first thought after playing is what to eat. Dedicated to finding hidden gems near every card store so tired bodies no longer have to live on fast food, convenience stores and Sukiya.",
+  "A cEDH, Modern and Pioneer player who likes to play every meta deck at least once, leaving piles of cards at home to sort and a permanent zero balance of rare wildcards on MTGA.",
 ]

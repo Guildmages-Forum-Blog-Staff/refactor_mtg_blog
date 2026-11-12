@@ -1,4 +1,7 @@
 username: zhi-mao
 name: "何志懋"
 avatar: "/images/logo.jpg"
-intro: [ "喜歡構築賽以及限制賽的玩家，只有指揮官不太玩，常駐在台北，有看到都能一起玩牌～" ]
+intro_zh: [ "喜歡構築賽以及限制賽的玩家，只有指揮官不太玩，常駐在台北，有看到都能一起玩牌～" ]
+intro_en: [
+  "A player who enjoys constructed and limited — just not much Commander. Based in Taipei; if you see me, let's play!",
+]

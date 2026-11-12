@@ -1,4 +1,7 @@
 username: bruce1235566
 name: "中二紳士"
 avatar: "/images/bruce1235566-avatar.jpg"
-intro: [ "aka <a href='https://www.facebook.com/bruce1235566'>中二紳士想會打牌</a>，很喜歡輪抽賽制，混亂輪抽、cube 都愛玩，偶爾也能在構築賽見到我的身影，希望這圈子的大家能喜歡輪抽，能看到越來越多人在店裡玩輪抽的身影。" ]
+intro_zh: [ "aka <a href='https://www.facebook.com/bruce1235566'>中二紳士想會打牌</a>，很喜歡輪抽賽制，混亂輪抽、cube 都愛玩，偶爾也能在構築賽見到我的身影，希望這圈子的大家能喜歡輪抽，能看到越來越多人在店裡玩輪抽的身影。" ]
+intro_en: [
+  "aka <a href='https://www.facebook.com/bruce1235566'>中二紳士想會打牌</a>. Loves draft: Chaos Draft, Cube, all of it. You can occasionally spot me at constructed events too. I hope more people in our community come to love draft, and that I'll see more and more people drafting at their local stores.",
+]

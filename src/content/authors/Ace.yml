@@ -1,6 +1,9 @@
 username: "Ace"
 name: "Ace"
 avatar: "/images/ace-avatar.png"
-intro: [
+intro_zh: [
   "aka <a href='https://www.facebook.com/profile.php?id=61578212540588'>艾斯的棋牌雜談</a>，喜歡構築賽制，標準、先驅、近代都有一套白藍控和一些腦內風暴的套牌。努力和各位大大學習不要亂打牌。"
+]
+intro_en: [
+  "aka <a href='https://www.facebook.com/profile.php?id=61578212540588'>艾斯的棋牌雜談</a>. Loves constructed formats and has a UW Control deck plus some Brainstorm decks in Standard, Pioneer and Modern. Working hard to learn from everyone and stop misplaying.",
 ]

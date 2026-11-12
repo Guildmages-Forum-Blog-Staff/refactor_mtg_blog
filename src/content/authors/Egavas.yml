@@ -1,7 +1,11 @@
 username: Egavas
 name: "偉特"
 avatar: "/images/death-shadow-avatar.jpeg"
-intro: [
+intro_zh: [
   "<a href='https://linktr.ee/sparkdouble'>Spark Double</a> 的主持人之一。",
   "aka <a href='https://www.facebook.com/egavasmtg'>特別亂打</a>，努力不要亂打的魔風業餘玩家，常居競爭級賽制（標準、先驅、近代、CEDH），本命是近代格利極死影＆先驅艾莉霸權（雖然兩個現在墳上的草都很高），喜歡打高操作套牌跟Fair Deck，魔風生涯最大的危機是記憶力爛到常常亂打。"
+]
+intro_en: [
+  "One of the hosts of <a href='https://linktr.ee/sparkdouble'>Spark Double</a>.",
+  "aka <a href='https://www.facebook.com/egavasmtg'>特別亂打</a>, an amateur Magic player trying hard not to misplay. Lives in the competitive formats (Standard, Pioneer, Modern, cEDH). Signature decks are Modern Grixis Death's Shadow and Pioneer 艾莉霸權 (though the grass on both their graves has grown tall). Loves high-skill decks and fair decks. The biggest threat to my Magic career is a memory so bad that I keep misplaying.",
 ]

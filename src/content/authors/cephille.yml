@@ -1,8 +1,13 @@
 username: cephille
 name: "豬鼻子的mtg世界"
 avatar: "/images/cephille-avatar.png"
-intro: [
+intro_zh: [
   "aka <a href='https://www.facebook.com/Pignosemtgworld'>豬鼻子的mtg世界</a>，為網站共同創辦人之一。",
   "喜歡所有MTG的競爭級別賽制，構築與限制賽都打。",
   "希望能透過這個網站讓更多喜歡 MTG 的玩家們一同聚集並分享各自的想法。"
+]
+intro_en: [
+  "aka <a href='https://www.facebook.com/Pignosemtgworld'>豬鼻子的mtg世界</a>, one of the site's co-founders.",
+  "Enjoys every competitive MTG format, both constructed and limited.",
+  "Hopes this site brings MTG lovers together to share their ideas.",
 ]

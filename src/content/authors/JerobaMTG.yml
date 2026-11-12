@@ -1,8 +1,13 @@
 username: JerobaMTG
 name: "跳鼠"
 avatar: "/images/JerobaMTG-avatar.jpeg"
-intro: [
+intro_zh: [
   "休閒玩家，喜歡構築娛樂主題套牌，再拿它們參加比賽，享受被META洗臉的過程。",
   "構築限制皆有接觸，構築有玩賽制︰標準、先驅、近代、指揮官（多人休閒官禁、單人海怪禁）",
   "構築傾向上偏好中速及種族套牌，著重有來有往的互動遊戲體驗。"
+]
+intro_en: [
+  "A casual player who loves building fun themed decks and then taking them to events to enjoy being crushed by the meta.",
+  "Plays both constructed and limited. Constructed formats: Standard, Pioneer, Modern, Commander (casual multiplayer, 1v1 Duel Commander).",
+  "Prefers midrange and tribal decks, with an emphasis on interactive back-and-forth games.",
 ]

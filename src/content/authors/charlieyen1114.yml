@@ -2,4 +2,7 @@ username: charlieyen1114
 name: "龍尊"
 avatar: "/images/charlieyen1114-avatar.png"
 url: "/"
-intro: [ "目前還沒有文章，等有文章再說" ]
+intro_zh: [ "目前還沒有文章，等有文章再說" ]
+intro_en: [
+  "No articles yet — more to come once there are.",
+]

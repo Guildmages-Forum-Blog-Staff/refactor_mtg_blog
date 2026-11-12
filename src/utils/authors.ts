@@ -1,13 +1,17 @@
 import { getCollection } from 'astro:content';
 import pangu from 'pangu';
+import { DEFAULT_LANG, type Lang } from '../i18n';
 
 export type AuthorData = {
   username: string;
   name: string;
   avatar: string;
   url?: string;
+  /** Intro lines in the requested language (see {@link introFor}). */
   intro: string[];
 };
+
+type AuthorEntryData = Omit<AuthorData, 'intro'> & { intro_zh: string[]; intro_en: string[] };
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
@@ -23,32 +27,37 @@ function spaceIntro(intro: string[]): string[] {
   return intro.map((line) => pangu.spacingText(line));
 }
 
-export async function getAllAuthors() {
+/**
+ * Intro lines for `lang`. English falls back to the (spaced) Chinese intro
+ * when `intro_en` is empty, so a newly added author never renders blank.
+ */
+function introFor(data: AuthorEntryData, lang: Lang): string[] {
+  return lang === 'en' && data.intro_en.length > 0 ? data.intro_en : spaceIntro(data.intro_zh);
+}
+
+function toAuthor(id: string, data: AuthorEntryData, lang: Lang) {
+  const { intro_zh: _zh, intro_en: _en, ...rest } = data;
+  return { id, ...rest, intro: introFor(data, lang) };
+}
+
+export async function getAllAuthors(lang: Lang = DEFAULT_LANG) {
   const collection = await getCollection('authors');
   return collection.map((entry) => ({
-    id: entry.id.replace(/\.ya?ml$/, ''),
-    ...entry.data,
-    intro: spaceIntro(entry.data.intro),
+    ...toAuthor(entry.id.replace(/\.ya?ml$/, ''), entry.data, lang),
     avatar: withBase(entry.data.avatar),
   }));
 }
 
-export async function getAuthorById(username: string) {
+export async function getAuthorById(username: string, lang: Lang = DEFAULT_LANG) {
   const collection = await getCollection('authors');
   const entry = collection.find(
     (a) => a.id.replace(/\.ya?ml$/, '') === username || a.data.username === username,
   );
-  return entry
-    ? {
-        id: entry.id.replace(/\.ya?ml$/, ''),
-        ...entry.data,
-        intro: spaceIntro(entry.data.intro),
-      }
-    : null;
+  return entry ? toAuthor(entry.id.replace(/\.ya?ml$/, ''), entry.data, lang) : null;
 }
 
-export async function getPostAuthors(usernames: string[]) {
-  const all = await getAllAuthors();
+export async function getPostAuthors(usernames: string[], lang: Lang = DEFAULT_LANG) {
+  const all = await getAllAuthors(lang);
   return usernames
     .map((u) => {
       const normalizedU = u.replace(/\.ya?ml$/, '');

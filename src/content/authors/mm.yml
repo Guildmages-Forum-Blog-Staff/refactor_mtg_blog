@@ -1,6 +1,9 @@
 username: mm
 name: "在魔風迷路的資料科學家"
 avatar: "/images/mm-avatar.png"
-intro: [
+intro_zh: [
   "在卡牌遊戲中遊走，想要讓最多的朋友一起玩，常常覺得單純開卡包很浪費，沉迷於限制賽與牌組數學運算的快攻玩家。"
+]
+intro_en: [
+  "Wanders through card games wanting to play with as many friends as possible. Often feels that just opening packs is a waste; an aggro player hooked on limited and deck math.",
 ]

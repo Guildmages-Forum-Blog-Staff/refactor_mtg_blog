@@ -25,7 +25,8 @@ const authors = defineCollection({
     name: z.string(),
     avatar: z.string(),
     url: z.string().optional(),
-    intro: z.array(z.string()).default([]),
+    intro_zh: z.array(z.string()).min(1),
+    intro_en: z.array(z.string()).default([]),
   }),
 });
 

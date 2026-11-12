@@ -1,8 +1,13 @@
 username: Kappa
 name: Kappa
 avatar: "/images/kappa-avatar.jpg"
-intro: [
+intro_zh: [
   "aka <a href='https://www.facebook.com/profile.php?id=61558862427620'>Kappa The Gathering</a>，拉麵型玩家（？），比賽可以輸，但打完一定要去吃拉麵（謎）。",
   "標準、先驅、近代、娛樂向的指揮官以及認真向的指揮官、到薪傳、papuer 也有卡組（雖然後兩者問題是找不到人），不過最擅長還是限制賽，可以選一定優先打輪抽。",
   "只要那個卡組可以抽牌就懂得打魔風了，還有偏愛墳場卡組，最愛的卡是掠魂魔及殘酷統領。"
+]
+intro_en: [
+  "aka <a href='https://www.facebook.com/profile.php?id=61558862427620'>Kappa The Gathering</a>, a ramen-type player (?) — I can lose the event, but I must go eat ramen afterwards (mystery).",
+  "Has decks for Standard, Pioneer, Modern, casual and competitive Commander, Legacy and Pauper (though for the last two I can't find anyone to play with). Still best at limited, and given the choice, draft always comes first.",
+  "As long as the deck draws cards, I know how to play Magic. Also partial to graveyard decks; favourite cards are Soulflayer and Archon of Cruelty.",
 ]

@@ -1,16 +1,17 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import type { AuthorData } from '../utils/authors';
 
 interface Props {
   id: string;
-  data: CollectionEntry<'authors'>['data'];
+  /** Author from utils/authors (avatar already carries the base path). */
+  data: AuthorData;
   base: string;
   former?: boolean;
 }
 
 const { id, data, base, former = false } = Astro.props;
 const href = data.url || `${base}/authors/${id}/`;
-const avatarSrc = data.avatar.startsWith('/') ? `${base}${data.avatar}` : data.avatar;
+const avatarSrc = data.avatar;
 ---
 
 <div class="flex items-start gap-6">
