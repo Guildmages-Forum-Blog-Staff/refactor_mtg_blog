@@ -1,26 +1,17 @@
 import { visit } from 'unist-util-visit';
-import type { Root, Element } from 'hast';
+import type { Root } from 'hast';
 
-// Matches an opening <img ...> tag in raw HTML that does not already set loading.
-const RAW_IMG_RE = /<img\b(?![^>]*\sloading\s*=)/gi;
-
-// Marks every content <img> as lazy + async-decoded unless the author set
-// `loading` explicitly. Covers hast elements (markdown images, scryfall/mtg
-// plugin output) and raw HTML nodes (inline <img> that Astro keeps as `raw`).
+// Marks every content <img> element (markdown images, scryfall/mtg plugin
+// output) as lazy + async-decoded, keeping any value the author set.
+// ponytail: raw inline HTML <img> is not handled — no post uses it; add
+// rehype-raw-based handling if one ever does.
 export function rehypeLazyImages() {
   return (tree: Root) => {
-    visit(tree, (node) => {
-      if (node.type === 'element') {
-        const el = node as Element;
-        if (el.tagName !== 'img') return;
-        const props = el.properties ?? (el.properties = {});
-        if (props.loading !== undefined) return;
-        props.loading = 'lazy';
-        props.decoding = 'async';
-      } else if (node.type === 'raw') {
-        const raw = node as unknown as { value: string };
-        raw.value = raw.value.replace(RAW_IMG_RE, '<img loading="lazy" decoding="async"');
-      }
+    visit(tree, 'element', (el) => {
+      if (el.tagName !== 'img') return;
+      const props = (el.properties ??= {});
+      props.loading ??= 'lazy';
+      props.decoding ??= 'async';
     });
   };
 }
