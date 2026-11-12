@@ -24,22 +24,22 @@ This article is written for complete beginners with zero experience. It helps ne
 
 ## Table of Contents
 
-- [Basic Rules of the Game](#遊戲基本規則介紹)	
-	- [Parts of a Card](#牌張各部分說明)
-	- [The Five Colors](#五色系統說明)	
-	- [Card Types](#類別說明)	
-	- [Producing Mana and Casting Spells](#產出魔法力與施放咒語)	
-	- [Battlefield Layout](#戰場擺設)	
-	- [Starting and Ending the Game](#遊戲開始與結束)
-	- [Turn Structure](#回合流程)	
-	- [Timing, Responses, and the Stack](#時機、回應與堆疊)	
-	- [Common Terms and Keywords](#常見術語與關鍵字介紹)	
-- [Formats](#賽制介紹)	
-	- [Limited](#限制賽)	
-	- [Constructed](#構築賽)	
-	- [Constructed (MTGA-Exclusive Formats)](#構築賽（MTGA專屬賽制）)	
-	- [Other Special Formats](#其他特殊賽制)	
-- [Resources](#資源連結)	
+- [Basic Rules of the Game](#basic-rules-of-the-game)	
+	- [Parts of a Card](#parts-of-a-card)
+	- [The Five Colors](#the-five-colors)	
+	- [Card Types](#card-types)	
+	- [Producing Mana and Casting Spells](#producing-mana-and-casting-spells)	
+	- [Battlefield Layout](#battlefield-layout)	
+	- [Starting and Ending the Game](#starting-and-ending-the-game)
+	- [Turn Structure](#turn-structure)	
+	- [Timing, Responses, and the Stack](#timing-responses-and-the-stack)	
+	- [Common Terms and Keywords](#common-terms-and-keywords)	
+- [Formats](#formats)	
+	- [Limited](#limited)	
+	- [Constructed](#constructed)	
+	- [Constructed (MTGA-Exclusive Formats)](#constructed-mtga-exclusive-formats)	
+	- [Other Special Formats](#other-special-formats)	
+- [Resources](#resources)	
     - [MTGGoldfish](https://www.mtggoldfish.com/)
     - [Scryfall](https://scryfall.com/)
     - [Traditional Chinese MTG Card Search Site](https://www.mtgct.com/)
@@ -187,7 +187,7 @@ Also, lands are always colorless, unless the card's text states what color it is
 
 Creatures are the main units of offense and defense between players. Each creature has its power/toughness printed in the bottom right corner: the left number is the creature's power (how much damage it can deal), and the right number is its toughness (how much damage it takes to die). As long as the damage accumulated on the creature is greater than or equal to its toughness, it dies. If a creature has been dealt damage but has not died when the turn ends, all damage on it is removed (put simply, it returns to full health).
 
-Also, if a creature entered the battlefield this turn, that creature cannot be declared as an attacker, nor can it activate abilities whose cost includes the tap symbol on itself. This rule is called "summoning sickness," and some special abilities let a creature ignore this rule (for example [haste](#常見術語與關鍵字介紹)).
+Also, if a creature entered the battlefield this turn, that creature cannot be declared as an attacker, nor can it activate abilities whose cost includes the tap symbol on itself. This rule is called "summoning sickness," and some special abilities let a creature ignore this rule (for example [haste](#common-terms-and-keywords)).
 
 
 - Sorcery

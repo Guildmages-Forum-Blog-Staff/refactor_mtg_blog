@@ -189,7 +189,7 @@ This is what I use when organizing a Cube. When it is time to produce the playte
 If you prepared tags beforehand, here you receive the design benefits tags bring, as mentioned in the first article: "If you can't find your two-color theme in the Cube, then it is not your theme." With tags you can check the distribution of a theme across colors and confirm the theme is really supported, and I will introduce better tools for analyzing tags later.
 
 **Color / ELO**
-This lets you observe the [ELO](###ELO) distribution of each color. ELO is a score left by predecessors after testing; although cards have different power in different environments, having a baseline reference is always more convenient, and I look forward to the day when, on seeing a low-ELO card, we can say with confidence:
+This lets you observe the [ELO](#elo) distribution of each color. ELO is a score left by predecessors after testing; although cards have different power in different environments, having a baseline reference is always more convenient, and I look forward to the day when, on seeing a low-ELO card, we can say with confidence:
 > "This card is fine, learn to play"
 
 **Color / Power**

@@ -21,7 +21,7 @@ excerpt: "Without Abhorrent Oculus or Ketramose, can Murktide and Echo of Eons s
 
 After qualifying for Standard MIT#9 at the end of last year, I started preparing for the Modern MIT#8 a month before the event. Special thanks to [Jeff Chen](/en/authors/jeffchen/), [faintmama](/en/authors/faintmama/), and [MiohitoKiri5474](/en/authors/MiohitoKiri5474/); to the No Miss Trigger team put together by [荒野騎士](/en/authors/ClarkShih/); to everyone who practiced for the big event with me at [Game Square](https://www.facebook.com/GameSquareTCG); and to the friends who lent me cards. Every discussion and exchange with you was an important driving force behind improving my deck. This article is dedicated to all of you.
 
-> Note: If you are only interested in the deck construction, feel free to jump straight to [Deck Construction Breakdown](#%E5%A5%97%E7%89%8C%E6%A7%8B%E7%AF%89%E8%A7%A3%E6%9E%90). That said, the next section, [The Road to Preparation](#%E6%BA%96%E5%82%99%E7%9A%84%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B), should also offer some useful advice and methodology for anyone who wants to know how to prepare for a big tournament and what challenges you may run into along the way.
+> Note: If you are only interested in the deck construction, feel free to jump straight to [Deck Construction Breakdown](#deck-construction-breakdown). That said, the next section, [The Road to Preparation](#the-road-to-preparation), should also offer some useful advice and methodology for anyone who wants to know how to prepare for a big tournament and what challenges you may run into along the way.
 
 ## The Road to Preparation
 
@@ -173,7 +173,7 @@ Bowmasters is the kind of card that feels like a given when you have it, but you
 
 {% mtgcard "Murktide Regent" %}
 
-It's MH3 already, and you're still using Murktide? As I mentioned earlier in [The Road to Preparation](#%E6%BA%96%E5%82%99%E7%9A%84%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B), choosing the Oculus shell costs you fear of graveyard hate, deck rigidity, and weaker filtering, all far from the traditional Murktide tempo-counter plan; and in today's meta, where hitting the Oculus on turn two does not necessarily mean victory, sticking to the Oculus's proactive plan no longer appeals to me. With Murktide, you keep interacting with the opponent in the early to mid game while building your graveyard, and then in the mid game a Murktide comes crashing down, and victory is usually not far off. Choosing Murktide or Oculus, or even some other win condition, is in my opinion not a binary of right and wrong. It is about knowing how you want to play the match and making the choice that best fits your game plan.
+It's MH3 already, and you're still using Murktide? As I mentioned earlier in [The Road to Preparation](#the-road-to-preparation), choosing the Oculus shell costs you fear of graveyard hate, deck rigidity, and weaker filtering, all far from the traditional Murktide tempo-counter plan; and in today's meta, where hitting the Oculus on turn two does not necessarily mean victory, sticking to the Oculus's proactive plan no longer appeals to me. With Murktide, you keep interacting with the opponent in the early to mid game while building your graveyard, and then in the mid game a Murktide comes crashing down, and victory is usually not far off. Choosing Murktide or Oculus, or even some other win condition, is in my opinion not a binary of right and wrong. It is about knowing how you want to play the match and making the choice that best fits your game plan.
 
 As for playing only 2 Murktide, that is simply what repeated testing showed to be the best result. Although sometimes you don't draw one, we have other ways to win.
 
@@ -241,7 +241,7 @@ Let me also mention why I did not play other one-mana counters such as {% mtglin
 
 {% mtgcard "Pest Control" %}
 
-This is the main reason for the white splash, but it is not itself the reason you would want to play this type of deck. It is more a necessary card forced upon us by the environment, so I don't think it belongs in the "core cards" section. The reason I chose this card was already explained in [Week 2](#Week-2-%EF%BC%8820250120-%EF%BD%9E-20250126%EF%BC%89) above. Here I will explain why I chose 2 main / 1 side.
+This is the main reason for the white splash, but it is not itself the reason you would want to play this type of deck. It is more a necessary card forced upon us by the environment, so I don't think it belongs in the "core cards" section. The reason I chose this card was already explained in [Week 2](#week-2-20250120--20250126) above. Here I will explain why I chose 2 main / 1 side.
 
 The main reason is that I predicted Eldrazi Ramp would be the biggest share of the field, and drawing two or more of this card in that matchup is something you really would not want (just as I said about the Eldrazi matchup when discussing FoN), so I put the third copy in the sideboard. ~~Then in round 5 of the main event I got paired against Scales Affinity, woe is me.~~
 
