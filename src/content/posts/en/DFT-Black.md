@@ -15,7 +15,7 @@ excerpt: "You play your deck, I play your deck. There shouldn't be much differen
 
 Aetherdrift (DFT) has its prerelease events on February 7, 2025, and officially releases a week later on February 14, 2025. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of DFT Limited reviews!
 
-- For the mechanics, see this article: [Aetherdrift Mechanics Explained](https://guildmagesforum.tw/DFT-mechanism/)
+- For the mechanics, see this article: [Aetherdrift Mechanics Explained](https://guildmagesforum.tw/en/DFT-mechanism/)
 
 ## Rating Scale
 

@@ -17,7 +17,7 @@ categories:
 
 ## Build Update
 
-Hello readers, long time no see. I am [faintmama](/authors/faintmama/), a poor old guy who has had little chance to play lately. When the [TMT](https://scryfall.com/sets/tmt) set had just been released, I already shared [Golgari Midrange: Won't Badger You to Win](https://guildmagesforum.tw/Standard-Golgari-Midrange-without-Cub/) with everyone. Now at the end of the [SOS](https://scryfall.com/sets/sos) season, nearly two and a half months have passed, so what has this build been modified into?
+Hello readers, long time no see. I am [faintmama](/en/authors/faintmama/), a poor old guy who has had little chance to play lately. When the [TMT](https://scryfall.com/sets/tmt) set had just been released, I already shared [Golgari Midrange: Won't Badger You to Win](https://guildmagesforum.tw/en/Standard-Golgari-Midrange-without-Cub/) with everyone. Now at the end of the [SOS](https://scryfall.com/sets/sos) season, nearly two and a half months have passed, so what has this build been modified into?
 
 Of course, reheating leftovers always has its reasons, so let me first introduce the recent fortunes of this build:
 
@@ -76,7 +76,7 @@ And then... there are no other new cards from the [SOS](https://scryfall.com/set
 
 [Overgrown Tomb](https://scryfall.com/card/ecl/266/overgrown-tomb) x4: Anyway, a super great land ~~unless you are in a sudden-death match where changes in your life total make you lose~~.
 
-[Multiversal Passage](https://scryfall.com/card/spm/180/multiversal-passage) x4: After a reminder from [cephille](/authors/cephille/), I chose to max it out. In the tightly paced [SOS](https://scryfall.com/sets/sos) season it supports us in clashing at the right time. When mana is plentiful late in the game, you can name white, or even blue or red (white first, because the build has a [Mikey & Leo, Chaos & Order](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order); of course, naming blue at random to scare the opponent is also quite fun), expanding the effect of [Wildgrowth Archaic](https://scryfall.com/card/sos/297/wildgrowth-archaic).
+[Multiversal Passage](https://scryfall.com/card/spm/180/multiversal-passage) x4: After a reminder from [cephille](/en/authors/cephille/), I chose to max it out. In the tightly paced [SOS](https://scryfall.com/sets/sos) season it supports us in clashing at the right time. When mana is plentiful late in the game, you can name white, or even blue or red (white first, because the build has a [Mikey & Leo, Chaos & Order](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order); of course, naming blue at random to scare the opponent is also quite fun), expanding the effect of [Wildgrowth Archaic](https://scryfall.com/card/sos/297/wildgrowth-archaic).
 
 [Wastewood Verge](https://scryfall.com/card/dft/268/wastewood-verge) x4: Its floor is that it can only produce green, but in a build that applies early pressure with green creatures first, that is perfectly acceptable.
 

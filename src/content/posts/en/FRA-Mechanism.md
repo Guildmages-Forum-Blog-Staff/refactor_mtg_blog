@@ -49,7 +49,7 @@ Even though the Heartwood token is printed with a colorless artifact frame, acco
 
 ![Prepare](https://images.guildmagesforum.tw/posts/FRA-Mechanism/35b17d7bd423.webp)
 
-Prepare is a mechanic that appeared not long ago in [Secrets of Strixhaven](https://guildmagesforum.tw/SOS-mechanism/), and this time it returns as a key mechanic of the set.
+Prepare is a mechanic that appeared not long ago in [Secrets of Strixhaven](https://guildmagesforum.tw/en/SOS-mechanism/), and this time it returns as a key mechanic of the set.
 
 Each Prepare card has two card frames. The left side of the rules text box holds the creature card's own abilities, and the right side is its Prepare spell, which has its own name, cost, type, and rules text box.
 

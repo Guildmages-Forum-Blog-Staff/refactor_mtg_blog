@@ -14,7 +14,7 @@ excerpt: "Sign is F."
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../How-to-Distribute-Land-Color/).
 
-This article is a sequel to [Deck Building Basics](https://guildmagesforum.tw/Deck-Building-Basic/). New players are welcome to click the link and read that one first.
+This article is a sequel to [Deck Building Basics](https://guildmagesforum.tw/en/Deck-Building-Basic/). New players are welcome to click the link and read that one first.
 
 ## Introduction
 
@@ -24,7 +24,7 @@ This article is a sequel to [Deck Building Basics](https://guildmagesforum.tw/De
 
 ## Counting Colors and Quantities
 
-In [Deck Building Basics](https://guildmagesforum.tw/Deck-Building-Basic/), I briefly covered the average number of copies you draw, the mana curve, and the baseline nonland-to-land ratio for a 60-card deck (6:4), but I did not touch on how to split lands by color. For decks with two colors or fewer, the color split of your lands is not a big problem. A mono-color deck never gets color-screwed, and you can even fill it with basic lands. A two-color deck just runs the matching dual lands and then splits the basics 1:1; unless you have a lot of cards with heavy single-color requirements, you will rarely get color-screwed. So, can a deck with three or more colors just do the same, according to each color's proportion?
+In [Deck Building Basics](https://guildmagesforum.tw/en/Deck-Building-Basic/), I briefly covered the average number of copies you draw, the mana curve, and the baseline nonland-to-land ratio for a 60-card deck (6:4), but I did not touch on how to split lands by color. For decks with two colors or fewer, the color split of your lands is not a big problem. A mono-color deck never gets color-screwed, and you can even fill it with basic lands. A two-color deck just runs the matching dual lands and then splits the basics 1:1; unless you have a lot of cards with heavy single-color requirements, you will rarely get color-screwed. So, can a deck with three or more colors just do the same, according to each color's proportion?
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/90ed968d0b21.webp)
 
@@ -44,7 +44,7 @@ Going by the cards above alone, we find that the main colors are red and green, 
 
 ## The Magic Number Is "Fifteen"
 
-Do you remember that in [Deck Building Basics](https://guildmagesforum.tw/Deck-Building-Basic/), when I discussed how many cards costing two or less to play, I mentioned the minimum number needed to reliably hold two cards costing two or less after your opening hand plus one draw?
+Do you remember that in [Deck Building Basics](https://guildmagesforum.tw/en/Deck-Building-Basic/), when I discussed how many cards costing two or less to play, I mentioned the minimum number needed to reliably hold two cards costing two or less after your opening hand plus one draw?
 
 **The answer is 15.**
 
@@ -82,7 +82,7 @@ With the basic principles of color allocation down, let's look at an actual exam
 ![](https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/07c997d438c9.webp)
 [Sultai Umbral Goldkeeper deck list](https://www.mtggoldfish.com/deck/7339607#paper)
 
-Let's start with the easier case, three colors, using the deck I recently published on this site, [Umbral Goldkeeper](https://guildmagesforum.tw/Standard-Umbral-Goldkeeper/), as the example. Basically, in a Standard card pool that has tri-lands and above, the three-color mana base can be handled in a formulaic way: take one set of tri-lands plus one set of each of the three dual lands and you reach 12 sources for each color. For the Sultai colors, that is [Starting Town](https://scryfall.com/card/fin/289/starting-town)/[Opulent Palace](https://scryfall.com/card/tdm/264/opulent-palace) + [Blooming Marsh](https://scryfall.com/card/otj/266/blooming-marsh)/[Wastewood Verge](https://scryfall.com/card/dft/268/wastewood-verge) + [Breeding Pool](https://scryfall.com/card/eoe/251/breeding-pool)/[Botanical Sanctum](https://scryfall.com/card/otj/267/botanical-sanctum) + [Undercity Sewers](https://scryfall.com/card/mkm/270/undercity-sewers)/[Watery Grave](https://scryfall.com/card/eoe/261/watery-grave), and so on, which settles 80% of the baseline number in one go; the rest is fine-tuned by each color's share of mana symbols. In the example deck, all remaining slots go to the main colors black and green, bringing them up to 16, slightly above the baseline. The blue has only 8 cards and is needed on turn three at the earliest, so the blue lands stay at 12, enough to be drawn within three turns.
+Let's start with the easier case, three colors, using the deck I recently published on this site, [Umbral Goldkeeper](https://guildmagesforum.tw/en/Standard-Umbral-Goldkeeper/), as the example. Basically, in a Standard card pool that has tri-lands and above, the three-color mana base can be handled in a formulaic way: take one set of tri-lands plus one set of each of the three dual lands and you reach 12 sources for each color. For the Sultai colors, that is [Starting Town](https://scryfall.com/card/fin/289/starting-town)/[Opulent Palace](https://scryfall.com/card/tdm/264/opulent-palace) + [Blooming Marsh](https://scryfall.com/card/otj/266/blooming-marsh)/[Wastewood Verge](https://scryfall.com/card/dft/268/wastewood-verge) + [Breeding Pool](https://scryfall.com/card/eoe/251/breeding-pool)/[Botanical Sanctum](https://scryfall.com/card/otj/267/botanical-sanctum) + [Undercity Sewers](https://scryfall.com/card/mkm/270/undercity-sewers)/[Watery Grave](https://scryfall.com/card/eoe/261/watery-grave), and so on, which settles 80% of the baseline number in one go; the rest is fine-tuned by each color's share of mana symbols. In the example deck, all remaining slots go to the main colors black and green, bringing them up to 16, slightly above the baseline. The blue has only 8 cards and is needed on turn three at the earliest, so the blue lands stay at 12, enough to be drawn within three turns.
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/7ccb7480c7db.webp)
 ![](https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/79670cae727a.webp)

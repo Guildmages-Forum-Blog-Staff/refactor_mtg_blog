@@ -100,7 +100,7 @@ On the Limited side, 大葉 (owner of [魔窟](https://www.facebook.com/profile.
 
 On the constructed side, there used to be a player called [陳亮](https://www.facebook.com/profile.php?id=100064026876224). His understanding of the Magic meta benefited me greatly. In his eyes, a tournament wasn't just a tournament; it had many more tiny details.
 
-For in-game concepts, I have to mention [郭老闆](https://guildmagesforum.tw/Interview-Kuo-Tzu-Ching/) of [遊戲平方](https://www.facebook.com/GameSquareTCG). [郭老闆](https://guildmagesforum.tw/Interview-Kuo-Tzu-Ching/) is very good at analyzing board states and at mind games. He's shared many situations verbally, and I learned a lot from his **choices at critical moments**.
+For in-game concepts, I have to mention [郭老闆](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/) of [遊戲平方](https://www.facebook.com/GameSquareTCG). [郭老闆](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/) is very good at analyzing board states and at mind games. He's shared many situations verbally, and I learned a lot from his **choices at critical moments**.
 
 
 #### Q11: Besides being a Magic player, you were also once a card shop clerk. Do the two have any influence on or spark with each other?

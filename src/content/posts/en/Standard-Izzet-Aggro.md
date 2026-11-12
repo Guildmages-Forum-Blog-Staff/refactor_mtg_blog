@@ -21,7 +21,7 @@ excerpt: "After the August bans, Standard got reshuffled. This article breaks do
 
 It all started on August 15.
 
-At the MITQ at ALG, I first lost to Momo, then beat three Dimir-based midrange decks in a row, and then died in the deciding game after misplaying against Izzet Spellementals. Afterward I got to talking with [cephille](https://guildmagesforum.tw/authors/cephille/) about sleeving up a deck in My Little Pony sleeves and running the opponent over with a [Colorstorm Stallion](https://scryfall.com/card/sos/180/colorstorm-stallion), and about whether they would be interested in writing an aggro article if I qualified with Izzet aggro at the MITQ.
+At the MITQ at ALG, I first lost to Momo, then beat three Dimir-based midrange decks in a row, and then died in the deciding game after misplaying against Izzet Spellementals. Afterward I got to talking with [cephille](https://guildmagesforum.tw/en/authors/cephille/) about sleeving up a deck in My Little Pony sleeves and running the opponent over with a [Colorstorm Stallion](https://scryfall.com/card/sos/180/colorstorm-stallion), and about whether they would be interested in writing an aggro article if I qualified with Izzet aggro at the MITQ.
 I happily agreed, and then the next week I switched to Jeskai Burn (everything but [Boros Charm](https://scryfall.com/card/fdn/721/boros-charm) is Izzet anyway, right...). Then I lost the deciding game to Esper Ninjas, figured switching decks had wasted the Bless that came with promising to write the article, and quickly switched back. That is how this article came to be.
 
 ## Is There Any Reason to Play Aggro in This Environment?

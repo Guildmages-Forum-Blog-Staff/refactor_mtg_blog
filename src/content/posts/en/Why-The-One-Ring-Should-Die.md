@@ -141,7 +141,7 @@ It would be disgusting if they really did this, but Wizards has killed the golde
 
 If {% mtglink "The One Ring" %} is simply banned, I think the environment will still be dominated by WRx Energy, which just swaps back to {% mtglink "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki" %}.
 Even with {% mtglink "Suncleanser" %}, it still can't effectively suppress WRx Energy. After all, it is still a white card, and forcing white into your deck for this one matchup is a bit excessive, not to mention it can be removed by {% mtglink "Lightning Bolt" %}, {% mtglink "Static Prison" %}, or {% mtglink "Goblin Bombardment" %}.
-So I think WRx Energy also needs a card banned. As I mentioned in the [earlier article about the Nadu ban](/Why-Nadu-Should-Die/#Ban-%E4%BA%86-Nadu-%E4%B9%8B%E5%BE%8C), Energy has no particularly good key card to ban. If I had to say, {% mtglink "Guide of Souls" %} should be the best target, removing both the lifegain and a source of energy.
+So I think WRx Energy also needs a card banned. As I mentioned in the [earlier article about the Nadu ban](/en/Why-Nadu-Should-Die/#after-banning-nadu), Energy has no particularly good key card to ban. If I had to say, {% mtglink "Guide of Souls" %} should be the best target, removing both the lifegain and a source of energy.
 Another suitable target is {% mtglink "Amped Raptor" %}, removing a well-built creature and also more resources. At worst that cut just swaps the same slot for {% mtglink "Unstable Amulet" %}, which is slower but earns more resources.
 
 As for the other decks, none look like they need changes right now, and they are generally still healthy (?
@@ -154,7 +154,7 @@ Otherwise look at {% mtglink "Kroxa, Titan of Death's Hunger" %} from the same p
 
 ## The Seniors Released on Time Served
 
-As in the previous article, I still think {% mtglink "Umezawa's Jitte" %} and {% mtglink "Glimpse of Nature" %} are very safe now and could be considered for unbanning. I won't repeat the reasons; those interested can [look through them yourself](/Why-Nadu-Should-Die/#%E6%94%BE%E5%88%91%E6%9C%9F%E5%B7%B2%E6%BB%BF%E7%9A%84%E5%A4%A7%E5%AD%B8%E9%95%B7%E5%80%91%E5%87%BA%E7%8D%84).
+As in the previous article, I still think {% mtglink "Umezawa's Jitte" %} and {% mtglink "Glimpse of Nature" %} are very safe now and could be considered for unbanning. I won't repeat the reasons; those interested can [look through them yourself](/en/Why-Nadu-Should-Die/#releasing-the-seniors-who-have-served-their-time).
 
 {% mtgcard "Splinter Twin" %}
 

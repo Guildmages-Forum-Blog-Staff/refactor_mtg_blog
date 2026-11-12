@@ -49,7 +49,7 @@ Okay, let's set aside the bunch of Rakdos Waste Not lists that appeared out of n
 Rakdos Midrange now has no cookie-cutter build. Quite a few people have added a fourth [Sheoldred, the Apocalypse](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568), maxed out on [Graveyard Trespasser](https://cards.scryfall.io/large/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903), or added the new WOE card Decadent Dragon; in any case, all kinds of builds that differ from before.
 ![](https://cards.scryfall.io/large/front/3/1/315cbbf7-a2ad-4565-9877-1e903d7fd797.jpg?1692939586)
 
-The sideboard is like previous Rakdos Midrange lists: everyone brings different things according to their own understanding of the deck and the environment. I covered the sideboard in my [previous article](/Pioneer-Rakdos-Midrange/#Decklist), and it's mostly still generally applicable, but you should still adjust it to your own habits and read of the environment.
+The sideboard is like previous Rakdos Midrange lists: everyone brings different things according to their own understanding of the deck and the environment. I covered the sideboard in my [previous article](/en/Pioneer-Rakdos-Midrange/#decklist), and it's mostly still generally applicable, but you should still adjust it to your own habits and read of the environment.
 Also, if Phoenix keeps running rampant like this, I'd consider swapping the two [Invoke Despair](https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727) for Damping Sphere.
 
 ### Hidden String/Lotus Field Combo

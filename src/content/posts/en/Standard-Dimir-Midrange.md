@@ -83,7 +83,7 @@ Dimir Midrange decks now all choose [Spyglass Siren](https://cards.scryfall.io/l
 
 But once LCI printed the Tidebinder, all of that changed. Except that it can't interact with spells directly, any activated or triggered ability, with three blue-producing lands in front of it, must first ask the Tidebinder whether it's allowed to resolve. And if a creature's, planeswalker's, or artifact's ability gets countered this way, that permanent is a vanilla blank for as long as the Tidebinder stays on the battlefield.
 
-If you'd like to know more about the interactions the Tidebinder brings to the table, come read this article on the site: [The Flash Deck the Opponent Can't Counter: Mono-Blue Merfolk](https://guildmagesforum.tw/Modern-Mono-Blue-Merfolk/). I must say, the Tidebinder is a very skill-intensive card, with a floor and ceiling far wider than any other single card in Standard. The more you understand it, the more you see its depth and endless potential!
+If you'd like to know more about the interactions the Tidebinder brings to the table, come read this article on the site: [The Flash Deck the Opponent Can't Counter: Mono-Blue Merfolk](https://guildmagesforum.tw/en/Modern-Mono-Blue-Merfolk/). I must say, the Tidebinder is a very skill-intensive card, with a floor and ceiling far wider than any other single card in Standard. The more you understand it, the more you see its depth and endless potential!
 
 #### 3. More Interference
 

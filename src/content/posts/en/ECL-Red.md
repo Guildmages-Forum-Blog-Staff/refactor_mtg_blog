@@ -15,7 +15,7 @@ excerpt: "Red has my favorite Goblins, the Elementals that are easiest to build 
 
 Lorwyn Eclipsed (ECL) will hold its prerelease events on January 16, 2026, and officially launch a week later on January 23, 2026. Want to learn more about how each card rates in Limited, with recommendations? Then check out this series of ECL Limited reviews!
 
-- For an introduction to the mechanics, see this article: [Lorwyn Eclipsed Mechanics Explained](https://guildmagesforum.tw/ECL-Mechanism/)
+- For an introduction to the mechanics, see this article: [Lorwyn Eclipsed Mechanics Explained](https://guildmagesforum.tw/en/ECL-Mechanism/)
 
 ## Rating Scale
 

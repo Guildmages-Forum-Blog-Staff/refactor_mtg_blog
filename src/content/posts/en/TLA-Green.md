@@ -15,7 +15,7 @@ excerpt: "I'm a farmer~ Did you see that 12/12 land with trample that can only b
 
 Avatar: The Last Airbender will hold its prerelease events on November 14, 2025. Want to learn more about single-card ratings and recommendations in Limited? Then check out this TLA Limited primer series!
 
-- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Breakdown](https://guildmagesforum.tw/TLA-Mechanism/)
+- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Breakdown](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 ## Rating Scale
 

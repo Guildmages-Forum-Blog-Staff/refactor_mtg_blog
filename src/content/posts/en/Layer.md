@@ -24,10 +24,10 @@ In earlier rules articles, we have already touched on some of the layer rules he
 
 {% folding blue :: Previous Articles %}
 
-- [Copiable Values](https://guildmagesforum.tw/What-is-Copiable-Value/)
-- [Characteristic-Defining Abilities](https://guildmagesforum.tw/Characteristic-Defining-Ability/)
-- [Timestamps](https://guildmagesforum.tw/What-is-Time-Stamp/)
-- [Dependency](https://guildmagesforum.tw/What-is-Dependency/)
+- [Copiable Values](https://guildmagesforum.tw/en/What-is-Copiable-Value/)
+- [Characteristic-Defining Abilities](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/)
+- [Timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/)
+- [Dependency](https://guildmagesforum.tw/en/What-is-Dependency/)
 
 {% endfolding %}
 
@@ -53,7 +53,7 @@ Before discussing how continuous effects apply, we first need to determine the o
 
 There are seven layers in total (numbered 1 to 7), and some of them can be further divided into sublayers (labeled a, b, ...)
 
-- Layer 1: Rules and effects that affect [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/) are applied.
+- Layer 1: Rules and effects that affect [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/) are applied.
     - Layer 1a: Copy effects are applied.
     - Layer 1b: Face-down spells' and permanents' characteristic-related rules are applied.
 - Layer 2: Control-changing effects are applied.
@@ -62,7 +62,7 @@ There are seven layers in total (numbered 1 to 7), and some of them can be furth
 - Layer 5: Color-changing effects are applied.
 - Layer 6: Effects that add abilities, keyword counters, effects that remove abilities, and effects that say an object can't have certain abilities are applied.
 - Layer 7: Effects that change power and/or toughness are applied.
-    - Layer 7a: Effects from [characteristic-defining abilities](https://guildmagesforum.tw/Characteristic-Defining-Ability/) that define power and toughness are applied.
+    - Layer 7a: Effects from [characteristic-defining abilities](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) that define power and toughness are applied.
     - Layer 7b: Effects that set power and/or toughness to a specific number or value are applied. Effects that refer to a creature's base power and toughness are applied in this layer.
     - Layer 7c: Effects and counters that modify power and/or toughness (but don't set power and/or toughness to a specific number or value) are applied.
     - Layer 7d: Effects that switch a creature's power and toughness are applied.
@@ -118,9 +118,9 @@ Besides the basic definitions of the layers above, there are also the following 
 
 - 613.6 If an effect should be applied in different layers and/or sublayers, the parts of the effect apply in each relevant layer or sublayer. If an effect starts to apply in one layer and/or sublayer, it will continue to be applied to the same set of objects in other layers and/or sublayers, even if the ability generating the effect is removed during this process.
 
-- 613.7 Within a layer or sublayer, determining which order effects are applied in is usually done using a [timestamp](https://guildmagesforum.tw/What-is-Time-Stamp/) system. An effect with an earlier timestamp is applied before an effect with a later timestamp.
+- 613.7 Within a layer or sublayer, determining which order effects are applied in is usually done using a [timestamp](https://guildmagesforum.tw/en/What-is-Time-Stamp/) system. An effect with an earlier timestamp is applied before an effect with a later timestamp.
 
-- 613.8 Within a layer or sublayer, determining which order effects are applied in is sometimes done using a [dependency](https://guildmagesforum.tw/What-is-Dependency/) system. If a dependency exists, it will override the timestamp system.
+- 613.8 Within a layer or sublayer, determining which order effects are applied in is sometimes done using a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) system. If a dependency exists, it will override the timestamp system.
 
 - 613.9 One continuous effect can override another. Sometimes the results of one effect determine whether another effect applies or what another effect does.
 
@@ -180,7 +180,7 @@ Let me also introduce how later layer problems will be explained. For each probl
 
 ### Within the Same Layer, Effects Apply in Timestamp Order
 
-Sometimes multiple effects apply in the same layer at once, and then you need to compare the [timestamps](https://guildmagesforum.tw/What-is-Time-Stamp/) of those effects. A timestamp is, plainly speaking, the point in time when the effect started to apply. The earlier an effect started, the earlier it applies, but that also means it gets overwritten by effects that started later.
+Sometimes multiple effects apply in the same layer at once, and then you need to compare the [timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/) of those effects. A timestamp is, plainly speaking, the point in time when the effect started to apply. The earlier an effect started, the earlier it applies, but that also means it gets overwritten by effects that started later.
 
 ![Timestamps](https://images.guildmagesforum.tw/posts/Layer/6761eb04af2d.webp)
 > ● **[Diminish](https://scryfall.com/card/ima/50/diminish)**:
@@ -197,7 +197,7 @@ Take Diminish & Square Up: both are effects that set power and toughness in laye
 
 ### Within the Same Layer, Dependency Sometimes Overrides Timestamp
 
-Sometimes multiple effects in the same layer don't operate independently. After one effect applies, the "objects it affects, what it does, its text, or its existence" of another effect changes as a result. In such cases, there is a [dependency](https://guildmagesforum.tw/What-is-Dependency/) between those two effects. Simply put, if B would be affected after A applies, then A is applied first and then B.
+Sometimes multiple effects in the same layer don't operate independently. After one effect applies, the "objects it affects, what it does, its text, or its existence" of another effect changes as a result. In such cases, there is a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) between those two effects. Simply put, if B would be affected after A applies, then A is applied first and then B.
 
 ![Dependency](https://images.guildmagesforum.tw/posts/Layer/153ddf57899b.webp)
 > ● **[Mycosynth Lattice](https://scryfall.com/card/bbd/241/mycosynth-lattice)**:
@@ -212,7 +212,7 @@ Sometimes multiple effects in the same layer don't operate independently. After 
 
 In this example you can see that although both are type-changing effects in layer 4, Mycosynth Lattice changes the objects March of the Machines affects, so there is a dependency between the two effects. Regardless of timestamp order, Mycosynth Lattice first gives every permanent the artifact type, and then March of the Machines turns those noncreature artifacts into artifact creatures.
 
-[Dependency](https://guildmagesforum.tw/What-is-Dependency/) can indeed be called the hardest part of layers. If you can't follow this section, it does no harm to just skip it.
+[Dependency](https://guildmagesforum.tw/en/What-is-Dependency/) can indeed be called the hardest part of layers. If you can't follow this section, it does no harm to just skip it.
 
 ### Try It Yourself
 
@@ -229,7 +229,7 @@ A situation anyone who has played WOE Limited has probably experienced to some e
 | 7a | ★ is the number of nonland permanents |  |
 | 7b | | Becomes 1/1 |
 
-You can see that the effects defining power and toughness are in different layers. Regal Bunnicorn's is a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/Characteristic-Defining-Ability/) in layer 7a, while the Cursed Role's is in layer 7b. Processing in layer order, the last one to apply is the Cursed Role, so no matter what ★ is at the moment, Regal Bunnicorn ends up a 1/1 creature.
+You can see that the effects defining power and toughness are in different layers. Regal Bunnicorn's is a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) in layer 7a, while the Cursed Role's is in layer 7b. Processing in layer order, the last one to apply is the Cursed Role, so no matter what ★ is at the moment, Regal Bunnicorn ends up a 1/1 creature.
 
 
 ![Example 2](https://images.guildmagesforum.tw/posts/Layer/9ab866aa5ee7.webp)
@@ -282,7 +282,7 @@ I have a Subterranean Schooner that has already become a creature by crewing, an
 | 6 |  |  | Hexproof |
 | 7c |  |  | +2/+2 |
 
-You can see that crew only applies in layer 4, giving it the creature type in addition, and Blossoming Defense is in an even later layer. A copy effect, however, only sees the [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/) from layer 1, so even though the original Subterranean Schooner is a creature, the Mirror Image copy is still noncreature. To make it a creature, you need to activate the crew ability again. The effect of Blossoming Defense isn't copied at all, either.
+You can see that crew only applies in layer 4, giving it the creature type in addition, and Blossoming Defense is in an even later layer. A copy effect, however, only sees the [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/) from layer 1, so even though the original Subterranean Schooner is a creature, the Mirror Image copy is still noncreature. To make it a creature, you need to activate the crew ability again. The effect of Blossoming Defense isn't copied at all, either.
 (If you replace Mirror Image with a token-making copy effect, and the Vehicle with a manland, you'll get the same result in this scenario.)
 
 
@@ -383,7 +383,7 @@ Suppose I let Lazotep Convert enter as a copy of Inspiring Overseer, and then us
 | :-: | :-: | :-: |
 | 1a | Copies a creature, except it's a 4/4 black Zombie and still has its original types | Copies a creature |
 
-This seems similar to the first two copy problems, but this time the situation is a bit different. Lazotep Convert's modifications to types, color, and power and toughness do not apply in layers 4, 5, and 7b; instead, in layer 1 they directly modify this object's [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/). So when Mirror Image later copies Lazotep Convert, it will also use these modified copiable values.
+This seems similar to the first two copy problems, but this time the situation is a bit different. Lazotep Convert's modifications to types, color, and power and toughness do not apply in layers 4, 5, and 7b; instead, in layer 1 they directly modify this object's [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/). So when Mirror Image later copies Lazotep Convert, it will also use these modified copiable values.
 
 So Mirror Image will be a creature named Inspiring Overseer, a 4/4 black Zombie Angel Cleric with flying, and upon entering it still triggers the draw-a-card, gain-1-life effect.
 
@@ -396,7 +396,7 @@ So Mirror Image will be a creature named Inspiring Overseer, a 4/4 black Zombie 
 
 ![Face-down](https://images.guildmagesforum.tw/posts/Layer/5ff8107a4ed5.webp)
 > ● **[Pyrotechnic Performer](https://scryfall.com/card/mkm/140/pyrotechnic-performer)**:
-> [Disguise](https://guildmagesforum.tw/MKM-mechanism/#%E5%81%BD%E8%A3%9D%EF%BC%88Disguise%EF%BC%89) <font color="#FF0000">{R}</font> (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+> [Disguise](https://guildmagesforum.tw/en/MKM-mechanism/#disguise) <font color="#FF0000">{R}</font> (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
 > ● **[Metamorphic Alteration](https://scryfall.com/card/m19/60/metamorphic-alteration)**:
 > As Metamorphic Alteration enters the battlefield, choose a creature. Enchanted creature is a copy of the chosen creature.
 > ● **[Archfiend of the Dross](https://scryfall.com/card/one/82/archfiend-of-the-dross)**:
@@ -478,7 +478,7 @@ When I have both Leyline of the Guildpact and Thief of Existence on my side of t
 | :-: | :-: | :-: |
 | 5 | Nonland permanents are all colors | Devoid (This card has no color) |
 
-Both of these effects are color-changing effects in layer 5, so it seems like we'd compare timestamps? But note that devoid is a type of [characteristic-defining ability (CDA)](https://guildmagesforum.tw/Characteristic-Defining-Ability/) that defines color. Among effects in the same layer, a CDA takes effect before ordinary effects, so regardless of the order in which they entered (or rather, the timestamp order), Thief of Existence ends up being five colors.
+Both of these effects are color-changing effects in layer 5, so it seems like we'd compare timestamps? But note that devoid is a type of [characteristic-defining ability (CDA)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) that defines color. Among effects in the same layer, a CDA takes effect before ordinary effects, so regardless of the order in which they entered (or rather, the timestamp order), Thief of Existence ends up being five colors.
 
 > - 613.3 Within layers 2-6, apply effects from characteristic-defining abilities first, and then apply all other effects in timestamp order.
 
@@ -525,7 +525,7 @@ One of the most classic examples of Blood Moon: when Blood Moon and Urborg are o
 | :-: | :-: | :-: |
 | 4 | Nonbasic lands are Mountains | Lands are also Swamps |
 
-Although both are type-changing effects in layer 4, Urborg itself is also affected by Blood Moon, and once Blood Moon's effect applies, it makes Urborg's original effect disappear. So there is a [dependency](https://guildmagesforum.tw/What-is-Dependency/) between these two effects: Urborg depends on Blood Moon, so Blood Moon's effect is processed first, and after Blood Moon applies, Urborg's ability is gone, so lands do not additionally get the Swamp type.
+Although both are type-changing effects in layer 4, Urborg itself is also affected by Blood Moon, and once Blood Moon's effect applies, it makes Urborg's original effect disappear. So there is a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) between these two effects: Urborg depends on Blood Moon, so Blood Moon's effect is processed first, and after Blood Moon applies, Urborg's ability is gone, so lands do not additionally get the Swamp type.
 
 > - 613.8a An effect is said to "depend on" another if (a) it's applied in the same layer (and sublayer, if applicable) as the other effect; (b) applying the other would change the text or the existence of the first effect, what it applies to, or what it does to any of the things it applies to; and (c) neither effect is from a characteristic-defining ability or both effects are. Otherwise, the effects are independent of each other.
 
@@ -658,7 +658,7 @@ Zur's ability grants Overlord deathtouch, lifelink, and hexproof, while Tidebind
 > ● **[Dress Down](https://scryfall.com/card/mh2/39/dress-down)**:
 > Creatures lose all abilities.
 
-Let's see what happens when a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/Characteristic-Defining-Ability/) that defines power/toughness as ★, like Regal Bunnicorn's, meets an effect that makes creatures lose abilities.
+Let's see what happens when a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) that defines power/toughness as ★, like Regal Bunnicorn's, meets an effect that makes creatures lose abilities.
 
 | Layer | Regal Bunnicorn | Dress Down |
 | :-: | :-: | :-: |
@@ -688,7 +688,7 @@ First, some background knowledge: a leveler's level ability is a kind of static 
 | 6 | Protection from everything | Loses all abilities |
 | 7b | Becomes 6/6 |  |
 
-In layer 6 there are two effects that add or remove abilities acting on Hexdrinker, and there is a [dependency](https://guildmagesforum.tw/What-is-Dependency/) between them. The conclusion is that Dress Down's "loses all abilities" effect wins out. Regardless of the timestamps of the two effects, Hexdrinker ends up losing all abilities, and that includes the effect that sets power and toughness in layer 7b that would apply afterward. So once Dress Down enters the battlefield, Hexdrinker is doomed to be a 2/1 creature with no abilities.
+In layer 6 there are two effects that add or remove abilities acting on Hexdrinker, and there is a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) between them. The conclusion is that Dress Down's "loses all abilities" effect wins out. Regardless of the timestamps of the two effects, Hexdrinker ends up losing all abilities, and that includes the effect that sets power and toughness in layer 7b that would apply afterward. So once Dress Down enters the battlefield, Hexdrinker is doomed to be a 2/1 creature with no abilities.
 
 
 
@@ -718,7 +718,7 @@ Dash actually comprises three abilities. One is its own alternative-cost casting
 
 After filling these effects into the table, doesn't the problem look much simpler? 
 
-First, the haste granted by dash and Dress Down's loss of abilities are both in layer 6, and the two have a [dependency](https://guildmagesforum.tw/What-is-Dependency/). No matter whether the dashed Ragavan or Dress Down entered first, Ragavan will lose haste.
+First, the haste granted by dash and Dress Down's loss of abilities are both in layer 6, and the two have a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/). No matter whether the dashed Ragavan or Dress Down entered first, Ragavan will lose haste.
 
 What about the "return to hand at the beginning of the end step" effect? In fact, when you cast with dash, you create a **delayed triggered ability** that returns the permanent to hand at the end step. This effect is not Ragavan's own ability, and doesn't even belong to the effects governed by the seven layers, so it is completely unaffected by Dress Down.
 
@@ -764,7 +764,7 @@ After reading the table, I trust you've noticed that Magus of the Moon's ability
 > Ashaya, Soul of the Wild's power and toughness are each equal to the number of lands you control.
 Nontoken creatures you control are Forest lands in addition to their other types.
 
-This example already appeared once in the [dependency](https://guildmagesforum.tw/What-is-Dependency/) article, but back then only the conclusion was given without a full explanation. This time, let's explain it thoroughly.
+This example already appeared once in the [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) article, but back then only the conclusion was given without a full explanation. This time, let's explain it thoroughly.
 
 | Layer | Blood Moon | Ashaya, Soul of the Wild |
 | :-: | :-: | :-: |
@@ -819,7 +819,7 @@ Now there are three type-changing effects in layer 4, and they all depend on one
 2. Rootpath Purifier: because your creatures are lands now, it can affect them, giving them the basic supertype in addition.
 3. Blood Moon: because all your lands have the basic supertype, they fall outside Blood Moon's scope.
 
-> If you want to ask why the final order comes out this way, you can review the rule definition in the [dependency](https://guildmagesforum.tw/What-is-Dependency/) article: if applying effect A first would change what effect B applies to, then effect B depends on effect A.
+> If you want to ask why the final order comes out this way, you can review the rule definition in the [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) article: if applying effect A first would change what effect B applies to, then effect B depends on effect A.
 
 So in the end your nontoken creatures additionally gain the basic land type Forest and gain Forest's ability to tap for green mana, while Blood Moon, because of your Rootpath Purifier, can hardly do anything to you.
 
@@ -878,7 +878,7 @@ I currently have a [Bear Cub](https://scryfall.com/card/fdn/552/bear-cub) with a
 | 7c |  | -2/-0 |
 | Other | Draw a card when it mutates |  |
 
-When mutating changes a creature's characteristics, it applies in layer 1a, changing this object's [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/). That means any effect that applies in the layers afterward will certainly overwrite the characteristics it got from mutating.
+When mutating changes a creature's characteristics, it applies in layer 1a, changing this object's [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/). That means any effect that applies in the layers afterward will certainly overwrite the characteristics it got from mutating.
 
 For this problem, the result of the mutation is a 1/4 Dreamtail Heron with no abilities at all, and the draw ability won't trigger on mutating, either.
 
@@ -968,7 +968,7 @@ Currently my side of the battlefield has no creatures and no Forest lands, only 
 | 5 |  | Becomes green | 
 | 7b |  | Becomes 1/1 | 
 
-Conspiracy & Life and Limb are both effects that apply in layer 4, but look closely: if Conspiracy's effect is applied first, changing Savannah Lions' creature type to Saproling, Savannah Lions then also becomes something Life and Limb affects. So there is a [dependency](https://guildmagesforum.tw/What-is-Dependency/) between the two effects (Life and Limb depends on Conspiracy), and Conspiracy's effect applies first, then Life and Limb.
+Conspiracy & Life and Limb are both effects that apply in layer 4, but look closely: if Conspiracy's effect is applied first, changing Savannah Lions' creature type to Saproling, Savannah Lions then also becomes something Life and Limb affects. So there is a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) between the two effects (Life and Limb depends on Conspiracy), and Conspiracy's effect applies first, then Life and Limb.
 
 After layer 4, Savannah Lions is: Land Creature - Saproling / Forest. Afterward it is turned green in layer 5 and becomes 1/1 in layer 7b.
 
@@ -1004,7 +1004,7 @@ In the previous solution we learned that Life and Limb depends on Conspiracy, bu
 Now each of the two effects depends on the other. How do we solve this infinite-loop-like situation? This is where the following rule comes in:
 > - 613.8b An effect dependent on one or more other effects waits to apply until just after all of those effects have been applied. If multiple dependent effects would apply simultaneously in this way, they do so in timestamp order. If dependent effects form a dependency loop, then this rule is ignored and the effects in the dependency loop are applied in timestamp order.
 
-This situation is exactly the **"dependency loop"** mentioned in 613.8b. When a dependency loop occurs, the dependency disappears, and the two effects determine their order of application only by [timestamp](https://guildmagesforum.tw/What-is-Time-Stamp/). Let's solve it by assuming each of the two timestamp orders in turn:
+This situation is exactly the **"dependency loop"** mentioned in 613.8b. When a dependency loop occurs, the dependency disappears, and the two effects determine their order of application only by [timestamp](https://guildmagesforum.tw/en/What-is-Time-Stamp/). Let's solve it by assuming each of the two timestamp orders in turn:
 
 - **Scenario 1. Conspiracy -> Life and Limb**
 
@@ -1056,7 +1056,7 @@ When Heliod and Opalescence are on the battlefield at the same time, does Heliod
 | 7b |  | Becomes N/N |
 
 
-Heliod's "isn't a creature when devotion < 5" and Opalescence's "enchantments are also creatures" are both type-changing effects in layer 4, and there is no [dependency](https://guildmagesforum.tw/What-is-Dependency/) between them. Which effect applies first doesn't affect the other, so these two effects simply compare [timestamps](https://guildmagesforum.tw/What-is-Time-Stamp/): the one with the earlier timestamp applies first but gets overridden by the one that applies later.
+Heliod's "isn't a creature when devotion < 5" and Opalescence's "enchantments are also creatures" are both type-changing effects in layer 4, and there is no [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) between them. Which effect applies first doesn't affect the other, so these two effects simply compare [timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/): the one with the earlier timestamp applies first but gets overridden by the one that applies later.
 
 If Heliod entered the battlefield first, Opalescence's effect wins, and Heliod is bound to be a creature.
 If Opalescence entered first, Heliod's "isn't a creature when devotion < 5" effect wins, and when your white devotion is < 5, Heliod loses the creature type.
@@ -1204,7 +1204,7 @@ Because of rule 613.6 described earlier, the abilities that set power/toughness 
 
 To close out the layers, let's finish with this most vexing case~
 
-Suppose these three things are on the battlefield, and the [timestamp](https://guildmagesforum.tw/What-is-Time-Stamp/) order is Humility -> Opalescence -> Enchanted Evening. How are the permanents across the whole battlefield affected?
+Suppose these three things are on the battlefield, and the [timestamp](https://guildmagesforum.tw/en/What-is-Time-Stamp/) order is Humility -> Opalescence -> Enchanted Evening. How are the permanents across the whole battlefield affected?
 
 | Layer | Humility | Opalescence | Enchanted Evening |
 | :-: | :-: | :-: | :-: |
@@ -1212,7 +1212,7 @@ Suppose these three things are on the battlefield, and the [timestamp](https://g
 | 6 | Creatures lose all abilities |  |  |
 | 7b |  Becomes 1/1 | Becomes N/N |  |
 
-The first to apply are the layer 4 type-changing effects. After Enchanted Evening's "permanents are also enchantments" applies, it changes what Opalescence's "other non-Aura enchantments are also creatures" effect applies to, so there is a [dependency](https://guildmagesforum.tw/What-is-Dependency/) between these two effects, and regardless of timestamps, Enchanted Evening always applies first. After layer 4 is processed, **all non-Aura permanents are additionally enchantment creatures**.
+The first to apply are the layer 4 type-changing effects. After Enchanted Evening's "permanents are also enchantments" applies, it changes what Opalescence's "other non-Aura enchantments are also creatures" effect applies to, so there is a [dependency](https://guildmagesforum.tw/en/What-is-Dependency/) between these two effects, and regardless of timestamps, Enchanted Evening always applies first. After layer 4 is processed, **all non-Aura permanents are additionally enchantment creatures**.
 
 What happens after that is the same as in the earlier examples, except that this time we've assumed Opalescence has the newer timestamp, so the last effect to apply in layer 7b is "base power and toughness each equal to its mana value."
 
@@ -1248,6 +1248,6 @@ Layer 7d: Switching power and toughness
 {% endfolding %}
 
 
-After finishing the previous article on [dependency](https://guildmagesforum.tw/What-is-Dependency/), I planned to finish the Layers column within a month, but once I actually started writing I found it far more daunting than I had imagined. Understanding it myself is one thing, and figuring out how to explain it is another. On top of that, Standard was updating at a high frequency during that time, and as a heavy Standard player, I poured almost all my free time into the endless cycle of building decks, testing decks, and tweaking decks, so in the end I shelved it for half a year before finishing this article.
+After finishing the previous article on [dependency](https://guildmagesforum.tw/en/What-is-Dependency/), I planned to finish the Layers column within a month, but once I actually started writing I found it far more daunting than I had imagined. Understanding it myself is one thing, and figuring out how to explain it is another. On top of that, Standard was updating at a high frequency during that time, and as a heavy Standard player, I poured almost all my free time into the endless cycle of building decks, testing decks, and tweaking decks, so in the end I shelved it for half a year before finishing this article.
 
 I actually have quite a few rules article topics stockpiled, but I didn't really want to let other topics cut in line before Layers was done. My plan for rules articles from now on is to raise the update frequency again, with each article focusing on a smaller range of rules. If readers are curious about a particular rules question, you're welcome to suggest it on the [Guildmages' Forum Facebook page](https://www.facebook.com/guildmagesforumtw), and it might become inspiration for a rules article one day.

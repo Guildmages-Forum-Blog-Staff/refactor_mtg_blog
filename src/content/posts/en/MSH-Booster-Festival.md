@@ -220,7 +220,7 @@ The detailed table is below:
 
 ## Conclusion
 
-Opening 180 packs to practice Limited is an extravagant practice. I hope this article gives readers something beyond just opening packs to see what cool stuff is inside, and that occasionally, through Limited, you can experience the gift the design team carefully prepared for players. [MSH](https://scryfall.com/sets/msh) is probably the Limited set in which, since [DSK](https://guildmagesforum.tw/DSK-Draft-Report/), I feel almost every color pair and almost every card has a reason to exist. If real cards feel too expensive to play, you might try opening MTGA or MO first.
+Opening 180 packs to practice Limited is an extravagant practice. I hope this article gives readers something beyond just opening packs to see what cool stuff is inside, and that occasionally, through Limited, you can experience the gift the design team carefully prepared for players. [MSH](https://scryfall.com/sets/msh) is probably the Limited set in which, since [DSK](https://guildmagesforum.tw/en/DSK-Draft-Report/), I feel almost every color pair and almost every card has a reason to exist. If real cards feel too expensive to play, you might try opening MTGA or MO first.
 
 The right set, the right people; what could be a better way to have fun than this?
 

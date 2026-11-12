@@ -21,7 +21,7 @@ Next, in this operations address, we will walk you through the [key operations o
 
 ## Reviewing the Key Operations of 2024-2025
 
-The following key points were all written in the [Guildmage's Forum First Anniversary Operations Address](https://guildmagesforum.tw/First-Anniversary/), and it is time to review them!
+The following key points were all written in the [Guildmage's Forum First Anniversary Operations Address](https://guildmagesforum.tw/en/First-Anniversary/), and it is time to review them!
 
 ### More Beginner-Oriented Tutorial Articles
 
@@ -61,14 +61,14 @@ In addition, besides players on the competitive stage, we are also actively seek
 
 {% folding blue :: Interviews on Guildmages' Forum %}
 
-- [World Championship Player Interview: MIT Round 1 Champion 李俊廷](https://guildmagesforum.tw/MIT1-Champion-Interview/)
-- [World Championship Player Interview: MIT Round 2 Champion 林承翰](https://guildmagesforum.tw/MIT2-Champion-Interview/)
-- [World Championship Player Interview: MIT Round 3 Champion 余弘毅](https://guildmagesforum.tw/MIT3-Champion-Interview/)
-- [World Championship Player Interview: MIT Round 4 Champion 陳柏宏 (蹦蹦)](https://guildmagesforum.tw/MIT4-Champion-Interview/)
-- [World Championship Player Interview: MIT Round 5 Champion 葉永丞 (David Yeh)](https://guildmagesforum.tw/MIT5-Champion-Interview/)
-- [World Championship Player Interview: MIT Round 6 Champion 石惟中 (石頭)](https://guildmagesforum.tw/MIT6-Champion-Interview/)
-- [Taiwanese Player Feature: 郭子敬](https://guildmagesforum.tw/Interview-Kuo-Tzu-Ching/)
-- [Taiwanese Player Feature: 黃永銘](https://guildmagesforum.tw/Interview-Huang-Yung-Ming/)
+- [World Championship Player Interview: MIT Round 1 Champion 李俊廷](https://guildmagesforum.tw/en/MIT1-Champion-Interview/)
+- [World Championship Player Interview: MIT Round 2 Champion 林承翰](https://guildmagesforum.tw/en/MIT2-Champion-Interview/)
+- [World Championship Player Interview: MIT Round 3 Champion 余弘毅](https://guildmagesforum.tw/en/MIT3-Champion-Interview/)
+- [World Championship Player Interview: MIT Round 4 Champion 陳柏宏 (蹦蹦)](https://guildmagesforum.tw/en/MIT4-Champion-Interview/)
+- [World Championship Player Interview: MIT Round 5 Champion 葉永丞 (David Yeh)](https://guildmagesforum.tw/en/MIT5-Champion-Interview/)
+- [World Championship Player Interview: MIT Round 6 Champion 石惟中 (石頭)](https://guildmagesforum.tw/en/MIT6-Champion-Interview/)
+- [Taiwanese Player Feature: 郭子敬](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/)
+- [Taiwanese Player Feature: 黃永銘](https://guildmagesforum.tw/en/Interview-Huang-Yung-Ming/)
 
 {% endfolding %}
 

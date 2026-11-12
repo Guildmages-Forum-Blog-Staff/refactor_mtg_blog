@@ -101,9 +101,9 @@ A: I interact more often with the players 丈丈, 蹦蹦, 小葉, and SamuelChan
 I am closest to the Hsinchu crew. They are all (or used to be) very strong players, and quite a few have made the GP Top 8 or the national team qualifier Top 8, and several have PT experience. It is only that as they have aged, most have gone from professional players to armchair trash-talkers. Although everyone rarely takes part in today's tournaments, continuing to chat with old friends about life and trash-talk Magic is an important factor supporting my competitive mindset.
 
 > Guildmages' Forum has previously interviewed 丈丈, 蹦蹦, and 小葉; the article links are below. This year we will also interview SamuelChang, who just won Season 9. Stay tuned!
-> - [World Championship Player Interview: MIT Season 3 Champion 余弘毅](https://guildmagesforum.tw/MIT3-Champion-Interview/)）
-> - [World Championship Player Interview: MIT Season 4 Champion 陳柏宏（蹦蹦）](https://guildmagesforum.tw/MIT4-Champion-Interview/)）
-> - [World Championship Player Interview: MIT Season 5 Champion 葉永丞（David Yeh）](https://guildmagesforum.tw/MIT5-Champion-Interview/)）
+> - [World Championship Player Interview: MIT Season 3 Champion 余弘毅](https://guildmagesforum.tw/en/MIT3-Champion-Interview/)）
+> - [World Championship Player Interview: MIT Season 4 Champion 陳柏宏（蹦蹦）](https://guildmagesforum.tw/en/MIT4-Champion-Interview/)）
+> - [World Championship Player Interview: MIT Season 5 Champion 葉永丞（David Yeh）](https://guildmagesforum.tw/en/MIT5-Champion-Interview/)）
 
 ![](https://images.guildmagesforum.tw/posts/Interview-Huang-Yung-Ming/32f1cc74b26b.webp)
 >Near the end of the interview, of course we had to take a photo with his origin! Thank you to the shy 永銘 for enduring one question after another ~~interrogation~~ and the requests for photo records.

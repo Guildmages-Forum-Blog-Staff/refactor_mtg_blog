@@ -23,7 +23,7 @@ At the end of 2023, [The Lost Caverns of Ixalan](https://scryfall.com/sets/lci?a
 
 ## Deck Evolution
 
-When [The Lost Caverns of Ixalan](https://scryfall.com/sets/lci?as=grid&order=set) was released, I published a Dinosaur deck on this site; see [Wild Awakening: Standard Gruul Dinosaurs](https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/). As Standard rotated, the Dinosaurs from [March of the Machine](https://scryfall.com/sets/mom?as=grid&order=set) and [March of the Machine: The Aftermath](https://scryfall.com/sets/mat?as=grid&order=set) left us, but later sets still gave the tribe some reinforcements. The new list is below:
+When [The Lost Caverns of Ixalan](https://scryfall.com/sets/lci?as=grid&order=set) was released, I published a Dinosaur deck on this site; see [Wild Awakening: Standard Gruul Dinosaurs](https://guildmagesforum.tw/en/Standard-Gruul-Dinosaurs/). As Standard rotated, the Dinosaurs from [March of the Machine](https://scryfall.com/sets/mom?as=grid&order=set) and [March of the Machine: The Aftermath](https://scryfall.com/sets/mat?as=grid&order=set) left us, but later sets still gave the tribe some reinforcements. The new list is below:
 
 [**Decklist**](https://www.mtggoldfish.com/deck/7556044#paper)
 ![](https://images.guildmagesforum.tw/posts/Standard-Gruul-Dinos-SP2/d02212d49ce5.webp)

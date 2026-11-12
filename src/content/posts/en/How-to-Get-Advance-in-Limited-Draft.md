@@ -14,7 +14,7 @@ authors:
 
 ## Before We Start
 
-This article is a sequel to [How Beginners Can Improve at Limited: Sealed Edition](https://guildmagesforum.tw/How-to-Get-Advance-in-Limited-Sealed/). Many basic Limited concepts were already covered in the previous article and will not be repeated here, so I hope readers will read it first before coming back to this one.
+This article is a sequel to [How Beginners Can Improve at Limited: Sealed Edition](https://guildmagesforum.tw/en/How-to-Get-Advance-in-Limited-Sealed/). Many basic Limited concepts were already covered in the previous article and will not be repeated here, so I hope readers will read it first before coming back to this one.
 
 ## Why Is Draft Hard?
 
@@ -22,7 +22,7 @@ This article is a sequel to [How Beginners Can Improve at Limited: Sealed Editio
 
 Although Draft and Sealed are both part of Limited, they are very different in how you build a deck. In terms of the goal of deck building, Sealed asks you to find the best way to build from limited resources; Draft asks you to find the best-fitting build from limited resources through **a series of conscious choices**.
 
-Let me quote once more the definition of Draft from [the previous article](https://guildmagesforum.tw/How-to-Get-Advance-in-Limited-Sealed/):
+Let me quote once more the definition of Draft from [the previous article](https://guildmagesforum.tw/en/How-to-Get-Advance-in-Limited-Sealed/):
 
 {% folding red :: Definition of Draft %}
 
@@ -62,8 +62,8 @@ Articles on set themes, color pairs, mechanics, and the like are relatively easy
 
 > Readers are welcome to read these two articles to better understand what this subsection is actually talking about:
 >
-> - [Bloomburrow Mechanics Explained](https://guildmagesforum.tw/BLB-mechanism/)
-> - [A First Look at Bloomburrow Limited](https://guildmagesforum.tw/BLB-Limited-Preliminary/)
+> - [Bloomburrow Mechanics Explained](https://guildmagesforum.tw/en/BLB-mechanism/)
+> - [A First Look at Bloomburrow Limited](https://guildmagesforum.tw/en/BLB-Limited-Preliminary/)
 
 #### 2. Understand How Friendly the Environment Is to Multicolor Decks
 
@@ -101,7 +101,7 @@ Strength is a subjective concept, but by working backwards from the average win 
 
 Based on the objective data above, you can identify important information such as bombs, key cards, and duds. But don't forget that the data above was compiled from MTGA only after the set was released. From the spoiler season until the prerelease begins, well-known overseas sites such as [Channelfireball](https://www.channelfireball.com/) and [Draftsim](https://draftsim.com/) also publish their expected evaluations of the cards in the environment. Of course, compared with the objective information from big data, subjective ratings inevitably deviate somewhat from real testing, but this bias also provides a more human point of view beyond the cold data, and may hide special uses that haven't yet been developed by the mainstream!
 
-> Since Guildmages' Forum began operating, we have not been absent from any Standard Limited format. If you need card rating information in Traditional Chinese, you are welcome to look through the rating articles in [Limited](/categories/Limited/).
+> Since Guildmages' Forum began operating, we have not been absent from any Standard Limited format. If you need card rating information in Traditional Chinese, you are welcome to look through the rating articles in [Limited](/en/categories/Limited/).
 
 #### 5. Understand Which Color Pairs Are Strong and Weak
 

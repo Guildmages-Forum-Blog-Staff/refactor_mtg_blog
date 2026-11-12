@@ -88,5 +88,5 @@ In [Game 1](https://youtu.be/P9-9fqdO6vA?t=01s) we faced a Phoenix deck, and the
 In the demonstrations above, we can see the advantage brought by [Corsair Captain](https://scryfall.com/card/fdn/506/corsair-captain)'s [Treasure](https://scryfall.com/card/tfdn/23/treasure): that one mana of key interference often steers the wind in my direction, and as a proper three-mana lord it also gives Pirates the go-wide striking power they lacked, letting a bunch of little scrubs deal damage effectively. Although the design is simple and unremarkable, it's a solid card that significantly improves Pirate decks' strength.
 
 ## Further Reading
-[Foundations Standard Preliminary Look](https://guildmagesforum.tw/FDN-Standard-Preliminary/)
-[Storm Fleet: Standard Izzet Pirates](https://guildmagesforum.tw/Standard-Izzet-Pirates/)
+[Foundations Standard Preliminary Look](https://guildmagesforum.tw/en/FDN-Standard-Preliminary/)
+[Storm Fleet: Standard Izzet Pirates](https://guildmagesforum.tw/en/Standard-Izzet-Pirates/)

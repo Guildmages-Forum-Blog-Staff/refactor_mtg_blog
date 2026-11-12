@@ -15,7 +15,7 @@ excerpt: "Write a brand-new chapter in the world of MTG alongside legendary char
 
 FINAL FANTASY (FIN) holds its Prerelease on June 6, 2025. Want to know more about how each card rates in Limited and what to pick? Then check out this series of FIN Limited guides!
 
-- For the mechanics, see this article: [FINAL FANTASY Mechanics Breakdown](https://guildmagesforum.tw/FIN-mechanism/)
+- For the mechanics, see this article: [FINAL FANTASY Mechanics Breakdown](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Rating Scale
 

@@ -19,7 +19,7 @@ With the release of Outlaws of Thunder Junction and The Big Score, the Standard 
 
 ## Boros Equipment
 
-[Original article](https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/)
+[Original article](https://guildmagesforum.tw/en/Standard-Boros-Equipment-Standard/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Deck-Revise-After-OTJ/7a5e86db7edf.webp)
 
@@ -31,7 +31,7 @@ The five enemy-color fastlands reprinted in Outlaws of Thunder Junction gave all
 
 ## Dimir Ninjas
 
-[Original article](https://guildmagesforum.tw/Standard-Dimir-Ninja/)
+[Original article](https://guildmagesforum.tw/en/Standard-Dimir-Ninja/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Deck-Revise-After-OTJ/6daaa8b4c0c6.webp)
 
@@ -43,13 +43,13 @@ Honestly, since The Lost Caverns of Ixalan came out, Ninja decks have become ver
 
 ## Jeskai Meld
 
-[Original article](https://guildmagesforum.tw/Standard-Jeskai-Mechtitan-Core/)
+[Original article](https://guildmagesforum.tw/en/Standard-Jeskai-Mechtitan-Core/)
 
 This is essentially a joke-themed mana-rock ramp deck. Although many new artifact-related cards came out in the last three sets, the cards that suit this theme feel rather subtle. To adjust it, I'd probably have to first remove fun cards like [Invasion of Kaladesh](https://scryfall.com/card/mom/234/invasion-of-kaladesh-aetherwing-golden-scale-flagship) and [Mechtitan Core](https://scryfall.com/card/neo/249/mechtitan-core), replace them with more stable removal like [Get Lost](https://scryfall.com/card/lci/14/get-lost), and narrow the game plan down to making the [Skitterbeam Battalion](https://scryfall.com/card/bro/165/skitterbeam-battalion) / [Urza, Planeswalker](https://scryfall.com/card/bro/238b/urza-planeswalker) meld to end the game.
 
 ## Gruul Dinosaurs
 
-[Original article](https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/)
+[Original article](https://guildmagesforum.tw/en/Standard-Gruul-Dinosaurs/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Deck-Revise-After-OTJ/1b6c9e2f954a.webp)
 
@@ -61,7 +61,7 @@ The original Gruul version had a rather low ceiling, and in the current Standard
 
 ## Mono-Green Stompy
 
-[Original article](https://guildmagesforum.tw/Standard-Mono-Green-Stompy/)
+[Original article](https://guildmagesforum.tw/en/Standard-Mono-Green-Stompy/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Deck-Revise-After-OTJ/3138a0fe6cc1.webp)
 
@@ -73,7 +73,7 @@ Mono-green gets some degree of reinforcement in every set. For this ramp-focused
 
 ## Izzet Pirates
 
-[Original article](https://guildmagesforum.tw/Standard-Izzet-Pirates/)
+[Original article](https://guildmagesforum.tw/en/Standard-Izzet-Pirates/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Deck-Revise-After-OTJ/e554550db308.webp)
 
@@ -85,7 +85,7 @@ Outlaws of Thunder Junction brought us the red-blue fastland [Spirebluff Canal](
 
 ## Cabaretti Voja
 
-[Original article](https://guildmagesforum.tw/Standard-Cabaretti-Voia/)
+[Original article](https://guildmagesforum.tw/en/Standard-Cabaretti-Voia/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Deck-Revise-After-OTJ/0fb6fc66c957.webp)
 

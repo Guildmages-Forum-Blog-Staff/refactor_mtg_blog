@@ -15,7 +15,7 @@ excerpt: "Red has many cards that look tempo-losing at first glance but gain an 
 
 Aetherdrift (DFT) will hold its prerelease events on February 7, 2025, and be officially released a week later on February 14, 2025. Want to know more about how individual cards rate in Limited, with recommendations? Then check out this series of DFT Limited introductions!
 
-- For a mechanics breakdown, see this article: [Aetherdrift Mechanics Breakdown](https://guildmagesforum.tw/DFT-mechanism/)
+- For a mechanics breakdown, see this article: [Aetherdrift Mechanics Breakdown](https://guildmagesforum.tw/en/DFT-mechanism/)
 
 ## Rating Scale
 

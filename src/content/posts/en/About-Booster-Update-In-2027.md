@@ -25,7 +25,7 @@ Super important. Compared with the price adjustment three years ago when Play Bo
 
 However, "the price stays the same" doesn't mean nothing changes in what players actually get. Collector Boosters will go from 15 cards down to 12, and Boosters will also have their foil contents adjusted. So this is more like Wizards redistributing the value structure of boosters while keeping the retail price.
 
-> Interested readers can look back at this article, but note that when it was written, the collaborative Universe Beyond (UB) sets had not yet joined Standard, so the price expectations in it are limited to Magic's own sets: [What I Want to Say About Play Boosters...](https://guildmagesforum.tw/About-Play-Boosters/)
+> Interested readers can look back at this article, but note that when it was written, the collaborative Universe Beyond (UB) sets had not yet joined Standard, so the price expectations in it are limited to Magic's own sets: [What I Want to Say About Play Boosters...](https://guildmagesforum.tw/en/About-Play-Boosters/)
 
 **2. Play Boosters will go back to being called Boosters in 2027**
 When the two kinds of boosters were merged in 2024, the name should really have been changed straight back to "Booster". Delaying it until 2027 only made the product name take an extra detour. Judging by the product line reconverging into a single "Booster", Wizards probably isn't inclined to split booster products again in the future. Of course, this is just a guess from the naming strategy, and doesn't mean the official side has ruled out releasing other special boosters in the future.

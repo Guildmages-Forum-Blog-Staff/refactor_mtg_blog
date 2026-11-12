@@ -30,7 +30,7 @@ The format follows the usual eight-player draft rules: pack one passes left, pac
 
 ### Pack 1: First pick
 
-When each player opens their first pack, they pick what they consider the best first pick. What would you take? Don't rush on. Settle on your answer first, then continue to the [next section](https://guildmagesforum.tw/Solo-Drafting-FRA/#pack-1-the-picks).
+When each player opens their first pack, they pick what they consider the best first pick. What would you take? Don't rush on. Settle on your answer first, then continue to the [next section](https://guildmagesforum.tw/en/Solo-Drafting-FRA/#pack-1-the-picks).
 
 ![FRA_1-1](https://images.guildmagesforum.tw/posts/Solo-Drafting-FRA/5fcde4072c8f.webp)
 <p style="text-align: center;"><a class="small">Player 1, pack 1, pick 1</a></p>

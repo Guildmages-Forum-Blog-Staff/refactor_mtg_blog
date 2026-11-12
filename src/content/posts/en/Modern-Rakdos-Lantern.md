@@ -105,7 +105,7 @@ The power of [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) needs no
 
 In addition, in this deck [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) isn't just a lock that wrecks the opponent's mana base; paired with our own [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga), it can also become an important Plan B for winning.
 
-> Further reading: [How Blood Moon Went from Urza's Saga's Natural Enemy to Its Teammate](https://guildmagesforum.tw/How-does-Urzas-Saga-Become-Blood-Moons-Friend/)
+> Further reading: [How Blood Moon Went from Urza's Saga's Natural Enemy to Its Teammate](https://guildmagesforum.tw/en/How-does-Urzas-Saga-Become-Blood-Moons-Friend/)
 
 
 
@@ -302,7 +302,7 @@ In practice, perhaps 1/3 of my wins come from [Blood Moon](https://scryfall.com/
 
 ![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/451693c831d4.webp)
 
-In fact, before [the Saga rules change](https://guildmagesforum.tw/How-does-Urzas-Saga-Become-Blood-Moons-Friend/), Lantern was basically always Sultai. With the deep filtering and tutoring of [Ancient Stirrings](https://scryfall.com/card/2xm/151/ancient-stirrings) and [Whir of Invention](https://scryfall.com/card/aer/49/whir-of-invention), it really did feel much smoother, so I built it with that structure for my first half year too.
+In fact, before [the Saga rules change](https://guildmagesforum.tw/en/How-does-Urzas-Saga-Become-Blood-Moons-Friend/), Lantern was basically always Sultai. With the deep filtering and tutoring of [Ancient Stirrings](https://scryfall.com/card/2xm/151/ancient-stirrings) and [Whir of Invention](https://scryfall.com/card/aer/49/whir-of-invention), it really did feel much smoother, so I built it with that structure for my first half year too.
 
 ![](https://images.guildmagesforum.tw/posts/Modern-Rakdos-Lantern/08754bf63578.webp)
 

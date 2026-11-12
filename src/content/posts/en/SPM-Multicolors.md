@@ -17,7 +17,7 @@ Marvel's Spider-Man (SPM) holds its prerelease events on September 19, 2025, and
 
 Also, because of licensing issues, the physical cards and the digital cards online (MTGA, MO) in this series have different card names and different art, but the same rules text (with a few proper nouns still differing). So this Limited primer shows both versions of the card art side by side for readers to compare.
 
-- For the mechanics, see this article: [Marvel's Spider-Man Mechanics Breakdown](https://guildmagesforum.tw/SPM-Mechanism/)
+- For the mechanics, see this article: [Marvel's Spider-Man Mechanics Breakdown](https://guildmagesforum.tw/en/SPM-Mechanism/)
 - The physical set is named Marvel's Spider-Man ([SPM](https://scryfall.com/sets/spm))
 - The online set is named Through the Omenpaths (tentative translation; [OM1](https://scryfall.com/sets/om1))
 
@@ -57,7 +57,7 @@ The black-red pair's new mechanic, Mayhem, relies heavily on discarding as the t
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/057cc2864bfc.webp)
 
-This refers to spells with mana value four or higher (does it remind you of the [blue-red mechanic in FIN](https://guildmagesforum.tw/FIN-Multicolors/#%E8%97%8D%E7%B4%85-%E2%80%94-%E5%9B%9B%E8%B2%BB%E6%88%96%E4%BB%A5%E4%B8%8A%E9%9D%9E%E7%94%9F%E7%89%A9%E5%92%92%E8%AA%9E%EF%BC%88Big-Noncreatures%EF%BC%89)?). Since the focus is on large spells, mana accelerants are naturally indispensable, and the red-green hybrid common {% mtglink "Spider Manifestation" %} is an important little helper for this pair. The uncommon {% mtglink "Kraven, Proud Predator" %} can cash in on large spells to boost its attack. Another uncommon, {% mtglink "Rhino, Barreling Brute" %}, is a capable finisher for this pair.
+This refers to spells with mana value four or higher (does it remind you of the [blue-red mechanic in FIN](https://guildmagesforum.tw/en/FIN-Multicolors/#blue-red--big-noncreatures)?). Since the focus is on large spells, mana accelerants are naturally indispensable, and the red-green hybrid common {% mtglink "Spider Manifestation" %} is an important little helper for this pair. The uncommon {% mtglink "Kraven, Proud Predator" %} can cash in on large spells to boost its attack. Another uncommon, {% mtglink "Rhino, Barreling Brute" %}, is a capable finisher for this pair.
 
 ### <span style="color:#4A8A3D">Green</span><span style="color:#C3B270">White</span> — Web-Slinging
 

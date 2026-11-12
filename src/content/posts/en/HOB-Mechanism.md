@@ -62,7 +62,7 @@ When you amass, it works as follows: if you don't control an Army creature, firs
 
 In the case of this example card, its amass subtype is Wraith. Past examples include amass Zombies ([Enter the God-Eternals](https://scryfall.com/card/war/196/enter-the-god-eternals)) and amass Orcs ([Orcish Bowmasters](https://scryfall.com/card/ltr/103/orcish-bowmasters)).
 
-Army is itself a creature subtype, so even if you haven't amassed before, you may find an Army because you control a [Changeling](https://guildmagesforum.tw/ECL-Mechanism/#changeling) creature. If you control multiple Army creatures at once, you can choose any one Army creature to amass.
+Army is itself a creature subtype, so even if you haven't amassed before, you may find an Army because you control a [Changeling](https://guildmagesforum.tw/en/ECL-Mechanism/#changeling) creature. If you control multiple Army creatures at once, you can choose any one Army creature to amass.
 
 > PS: Some older cards are printed with "amass N" that doesn't include a subtype. The rules text of those cards has been errata'd to "amass Zombies N".
 

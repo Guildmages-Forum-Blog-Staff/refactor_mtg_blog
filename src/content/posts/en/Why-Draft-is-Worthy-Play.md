@@ -72,7 +72,7 @@ Draft is not just about luck, nor is it simply opening packs and picking by curv
 
 If new players have no experience or do not do their homework, it is easy to fall into traps and misconceptions. So for people who are unfamiliar with the new set, or who dislike making lots of decisions on the spot, the barrier to draft really is higher.
 
-> But this is also one of the things Guildmages' Forum is working on. Since [WOE](/categories/WOE/), every Standard set has had a Limited primer article, and readers are welcome to click [Limited](/categories/Limited/) to look them up.
+> But this is also one of the things Guildmages' Forum is working on. Since [WOE](/en/categories/WOE/), every Standard set has had a Limited primer article, and readers are welcome to click [Limited](/en/categories/Limited/) to look them up.
 
 ### 3. The time cost is less friendly than Constructed
 

@@ -24,12 +24,12 @@ excerpt: "Let's see which mechanics appear in Marvel Super Heroes!"
 
 ![MDFC](https://images.guildmagesforum.tw/posts/MSH-mechanism/050a0d09cf11.webp)
 
-Modal double-faced cards are abbreviated as MDFC, and their rules differ slightly from the more familiar [transforming double-faced cards (TDFC)](https://guildmagesforum.tw/FIN-mechanism/#transform-double-faced-cards).
+Modal double-faced cards are abbreviated as MDFC, and their rules differ slightly from the more familiar [transforming double-faced cards (TDFC)](https://guildmagesforum.tw/en/FIN-mechanism/#transform-double-faced-cards-tdfc).
 
 When you want to play a modal double-faced card, you can choose which face to play and pay the corresponding mana cost.
 
 Modal double-faced cards can also transform. For the specific way they transform, see the transform ability description on the card.
-> For a period in the past, modal double-faced cards couldn't transform. This rule was changed with [Marvel's Spider-Man](https://guildmagesforum.tw/SPM-Mechanism/).
+> For a period in the past, modal double-faced cards couldn't transform. This rule was changed with [Marvel's Spider-Man](https://guildmagesforum.tw/en/SPM-Mechanism/).
 
 
 A modal double-faced card has only its front face's characteristics in any zone other than the battlefield and the stack. On the battlefield and the stack, if it is face up on its front, it has only the front face's characteristics. If it is face up on its back, it has only the back face's characteristics. If you put a modal double-faced card directly onto the battlefield without casting it, it enters front face up by default.

@@ -33,7 +33,7 @@ This weekend I played a total of 4 prerelease Sealed events, plus 12 packs of pr
 This was a pool that went 3 wins, but I think there was some luck in it; otherwise it should be a build worth about two wins, and it would need a little tuning to amplify its strength.
 
 #### Main Deck Introduction and Discussion
-Although there is only one [Terramorphic Expanse](https://scryfall.com/card/dsk/269/terramorphic-expanse), green has two super strong fixers, [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) and [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot), so I still went into a three-color Jund (black, red, green) build. With red-black removal and green's excellent creature bodies, there was a chance early on to quickly blow out the opponent with two-mana creatures with 3 power. Against Dimir Control, which is heavy on the late game, early high-power creatures are extremely valuable, and they force the opponent to use removal at an uncomfortable pace, making it easier for our later threats to land. This was greatly highlighted in game two against a Dimir opponent! I still have to say, [Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) is, as 中二紳士 said in the article [DSK — Green](https://guildmagesforum.tw/DSK-Green/), truly a good doggy!
+Although there is only one [Terramorphic Expanse](https://scryfall.com/card/dsk/269/terramorphic-expanse), green has two super strong fixers, [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) and [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot), so I still went into a three-color Jund (black, red, green) build. With red-black removal and green's excellent creature bodies, there was a chance early on to quickly blow out the opponent with two-mana creatures with 3 power. Against Dimir Control, which is heavy on the late game, early high-power creatures are extremely valuable, and they force the opponent to use removal at an uncomfortable pace, making it easier for our later threats to land. This was greatly highlighted in game two against a Dimir opponent! I still have to say, [Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) is, as 中二紳士 said in the article [DSK — Green](https://guildmagesforum.tw/en/DSK-Green/), truly a good doggy!
 
 Worth mentioning is that the mythic rare [Hauntwoods Shrieker](https://scryfall.com/card/dsk/182/hauntwoods-shrieker) is not very suitable in a midrange-leaning build like this. If it comes down on turn three, attacks, manifests dread, and then gets traded off, it is actually losing out on body size; it might perform better in a purer Gruul aggro deck, paired with more tricks and removal to keep generating value.
 
@@ -90,7 +90,7 @@ Although it went 2 wins, I built this pool wrong! White wasn't worth splashing. 
 
 #### Main Deck Introduction and Discussion
 
-Setting aside the strength of the three blue-black R/MR cards, I actually didn't use [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares) well in games, and was reminded by the [Silver-Fur Master](https://scryfall.com/card/neo/236/zht/%E9%8A%80%E6%AF%9B%E5%B8%AB%E7%88%B6) of 卡士多, aka [JerobaMTG](/authors/JerobaMTG/). I'll share these points with everyone:
+Setting aside the strength of the three blue-black R/MR cards, I actually didn't use [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares) well in games, and was reminded by the [Silver-Fur Master](https://scryfall.com/card/neo/236/zht/%E9%8A%80%E6%AF%9B%E5%B8%AB%E7%88%B6) of 卡士多, aka [JerobaMTG](/en/authors/JerobaMTG/). I'll share these points with everyone:
 > 1. When the opponent has creatures on the battlefield, put [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares) in with ninjutsu, and after attacking use [-2] to stun the creature that could attack, to protect Kaito;
 > 2. And when necessary, just cast Kaito for four mana and use [-2] to stun one attacker; you don't need to think only about putting him out with three-mana ninjutsu.
 
@@ -181,7 +181,7 @@ The sideboard is above; if you take a look and have different ideas, feel free t
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/88ed288f6a7d.webp)
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/85a4197efba5.webp)
 
-This is the main/sideboard configuration given to me by [faintmama](/authors/faintmama/), another editor on the GF team, but after discussing we felt that building it this way really wasn't very strong, and the difficulty of this pool is also boss level. That is, until we re-examined the main and sideboard and saw the five-color legend [Marina Vendrell](https://scryfall.com/card/dsk/221/marina-vendrell), [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality), [Ghostly Keybearer](https://scryfall.com/card/dsk/61/ghostly-keybearer), and... all sorts of Rooms!
+This is the main/sideboard configuration given to me by [faintmama](/en/authors/faintmama/), another editor on the GF team, but after discussing we felt that building it this way really wasn't very strong, and the difficulty of this pool is also boss level. That is, until we re-examined the main and sideboard and saw the five-color legend [Marina Vendrell](https://scryfall.com/card/dsk/221/marina-vendrell), [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality), [Ghostly Keybearer](https://scryfall.com/card/dsk/61/ghostly-keybearer), and... all sorts of Rooms!
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/0f88651b73c4.webp)
 
@@ -215,16 +215,16 @@ Every person is different and every deck is different; that is exactly the charm
 
 ## Reference
 
-I'm continuing to advertise the Limited introduction articles written on [Guildmages' Forum](https://guildmagesforum.tw/). The links are in the Reference, and everyone is welcome to come to our [website](https://guildmagesforum.tw/) and [fan page](https://www.facebook.com/guildmagesforumtw) to read the articles and discuss in the comments!
+I'm continuing to advertise the Limited introduction articles written on [Guildmages' Forum](https://guildmagesforum.tw/en/). The links are in the Reference, and everyone is welcome to come to our [website](https://guildmagesforum.tw/en/) and [fan page](https://www.facebook.com/guildmagesforumtw) to read the articles and discuss in the comments!
 
 Guildmages' Forum DSK Limited article links
 
-0. [DSK Mechanics Explained](https://guildmagesforum.tw/DSK-mechanism/)
-1. [A First Look at DSK Limited](https://guildmagesforum.tw/DSK-Limited-Preliminary/)
-2. [DSK — White](https://guildmagesforum.tw/DSK-White/)
-3. [DSK — Blue](https://guildmagesforum.tw/DSK-Blue/)
-4. [DSK — Black](https://guildmagesforum.tw/DSK-Black/)
-5. [DSK — Red](https://guildmagesforum.tw/DSK-Red/)
-6. [DSK — Green](https://guildmagesforum.tw/DSK-Green/)
-7. [DSK — Multicolor](https://guildmagesforum.tw/DSK-multicolors/)
-8. [DSK — Colorless & Lands & SPG](https://guildmagesforum.tw/DSK-colorless/)
+0. [DSK Mechanics Explained](https://guildmagesforum.tw/en/DSK-mechanism/)
+1. [A First Look at DSK Limited](https://guildmagesforum.tw/en/DSK-Limited-Preliminary/)
+2. [DSK — White](https://guildmagesforum.tw/en/DSK-White/)
+3. [DSK — Blue](https://guildmagesforum.tw/en/DSK-Blue/)
+4. [DSK — Black](https://guildmagesforum.tw/en/DSK-Black/)
+5. [DSK — Red](https://guildmagesforum.tw/en/DSK-Red/)
+6. [DSK — Green](https://guildmagesforum.tw/en/DSK-Green/)
+7. [DSK — Multicolor](https://guildmagesforum.tw/en/DSK-multicolors/)
+8. [DSK — Colorless & Lands & SPG](https://guildmagesforum.tw/en/DSK-colorless/)

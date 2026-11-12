@@ -15,7 +15,7 @@ authors:
 
 The Lost Caverns of Ixalan (LCI) has its prerelease on November 10, 2023, and officially launches a week later on November 17, 2023. Want to know more about how each card rates in Limited, and some fun possible combos? Then check out this LCI Limited review series!
 
-For the mechanics, see this article: [The Lost Caverns of Ixalan Mechanics Explained](https://guildmagesforum.tw/LCI-mechanic/)
+For the mechanics, see this article: [The Lost Caverns of Ixalan Mechanics Explained](https://guildmagesforum.tw/en/LCI-mechanic/)
 
 ## Rating Scale
 
@@ -65,7 +65,7 @@ The black-white legend's ability is **sacrificing a creature or artifact to get 
 **cephille**: 3.5
 The red-white faction is the Sun Empire. What the Empire has plenty of is **Humans** and **Soldiers**, and its signature set theme is **Discover**. When it attacks, you can tap two untapped artifacts and/or creatures to Discover 3. A 4-mana 4/4 body lets it attack steadily, and if your board meets the conditions you gain extra value from Discover 3 as your board keeps spreading wider and wider. It looks like red-white in LCI Limited is about going wide and generating resources.
 
-> For a detailed explanation of the Discover ability, see this article: [The Lost Caverns of Ixalan Mechanics Explained](/LCI-mechanic/)
+> For a detailed explanation of the Discover ability, see this article: [The Lost Caverns of Ixalan Mechanics Explained](/en/LCI-mechanic/)
 > The flavor of Discover feels just like archaeologists digging up ancient artifacts: the more you Discover, the deeper you dug, and the bigger the reward may be! No wonder this set's planeswalker is Quintorius Kand, the newly sparked archaeology major from Strixhaven, so well suited to go investigate Ixalan!
 
 ![227](https://cards.scryfall.io/large/front/1/4/14c65f5a-10bd-4f9b-b816-46c2240b11ff.jpg?1698446586)

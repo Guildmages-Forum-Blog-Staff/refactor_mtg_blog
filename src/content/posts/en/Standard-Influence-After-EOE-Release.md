@@ -28,7 +28,7 @@ Starting from the Edge of Eternities (EOE) prerelease on July 25, 2025, we will 
 
 ![Rotating sets](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/5bb9c35b2754.webp)
 
-> A friendly reminder for new players: to check a set code, see the image below. At the lower left of the card, directly below the number, there is a three-letter uppercase code, which is its set code. To learn more essential MTG knowledge, check out this article: [MTG Beginner's Guide](https://guildmagesforum.tw/Beginners-Guide/)
+> A friendly reminder for new players: to check a set code, see the image below. At the lower left of the card, directly below the number, there is a three-letter uppercase code, which is its set code. To learn more essential MTG knowledge, check out this article: [MTG Beginner's Guide](https://guildmagesforum.tw/en/Beginners-Guide/)
 
 ![Set code](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/5509968e631d.webp)
 
@@ -192,6 +192,6 @@ An important answer card against certain special decks in the environment, espec
 
 Although it is sad to see old friends leave, the arrival of new friends also brings new ways to play and chemistry between decks. You wouldn't want Standard to be forever dominated by a single deck, and if that really happens, the [June 30, 2025 bans](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025) are a recent warning. The unchanging face of Standard is always the limited experience that comes with rotation, and the unforgettable memories we accumulate as players as the seasons change. And don't forget, Foundations (FDN) will accompany us in the Standard seasons for a full five years! Change or no change, we will keep playing just the same!
 
-> Editor's note: For new players unfamiliar with FDN, you are welcome to read: [How Foundations Impacts Standard](https://guildmagesforum.tw/Standard-Crushing-by-FDN/)
+> Editor's note: For new players unfamiliar with FDN, you are welcome to read: [How Foundations Impacts Standard](https://guildmagesforum.tw/en/Standard-Crushing-by-FDN/)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/dbe6962ee4d1.webp)

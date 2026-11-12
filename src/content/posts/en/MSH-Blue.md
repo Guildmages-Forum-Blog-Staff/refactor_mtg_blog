@@ -18,7 +18,7 @@ excerpt: "You are not the only one cursed by knowledge."
 
 Marvel Super Heroes (MSH) will hold its Prerelease events on June 19, 2026, and officially launch one week later on June 26, 2026. Want a better understanding of individual card ratings and advice for Limited? Then check out this series of MSH Limited overviews!
 
-- For an introduction to the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/MSH-mechanism/)
+- For an introduction to the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/en/MSH-mechanism/)
 
 
 ## Ratings

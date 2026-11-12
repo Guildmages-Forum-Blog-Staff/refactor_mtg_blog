@@ -15,7 +15,7 @@ excerpt: "I live by my own ideas, so you should live by yours (布蘭): use a fl
 
 FINAL FANTASY (FIN) prerelease events kick off on June 6, 2025. Want to know more about how each card rates in Limited and what to pick? Then check out this series of FIN Limited guides!
 
-- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/FIN-mechanism/)
+- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Rating Scale
 

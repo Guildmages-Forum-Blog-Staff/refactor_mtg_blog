@@ -18,7 +18,7 @@ categories:
 
 Professor 崔宗勳 of Seoul National University put it well: "When you're considering whether to buy or not, don't buy!"
 
-Since I chose [Jeskai Energy Control](https://guildmagesforum.tw/Modern-Jeskai-Miracles-Control/) at the 10th Championship in Modern, once that event wrapped up I somehow gave myself a challenge: for the Standard events that follow, I would play black-green ~~why on earth did I talk myself into this~~. My playstyle gets along terribly with green, so I figured I'd take the chance to play it lightly.
+Since I chose [Jeskai Energy Control](https://guildmagesforum.tw/en/Modern-Jeskai-Miracles-Control/) at the 10th Championship in Modern, once that event wrapped up I somehow gave myself a challenge: for the Standard events that follow, I would play black-green ~~why on earth did I talk myself into this~~. My playstyle gets along terribly with green, so I figured I'd take the chance to play it lightly.
 
 It didn't go very well at first, and right after that, [Avatar: The Last Airbender (TLA)](https://scryfall.com/sets/tla) was released. One card in it, [Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub), looked extremely powerful and seemed almost certain to change the metagame, but it isn't a card I like, for two reasons:
 
@@ -33,23 +33,23 @@ So I had to find a way to **win without the badger**. From [Tarkir: Dragonstorm 
 
 ## No Rambling, On to the Decklist
 
-The 11th Taiwan Championship has just wrapped up, and thanks to the effort of the pilot, [ZHAN](/authors/ZHAN/), this deck earned a rather respectable 20th place at 4-3-0. First, a simple tournament report:
+The 11th Taiwan Championship has just wrapped up, and thanks to the effort of the pilot, [ZHAN](/en/authors/ZHAN/), this deck earned a rather respectable 20th place at 4-3-0. First, a simple tournament report:
 
-R1 Mono-Green Landfall（[shun yu Chuang](/authors/T1BloodMoon/)）LL
+R1 Mono-Green Landfall（[shun yu Chuang](/en/authors/T1BloodMoon/)）LL
 R2 Simic Rhythm（bonba Dala）ＷＷ
 R3 Temur Prowess（Wei_Hao_Huang） WLW
 R4 U-B-R-G Reanimator（家豪 郭）ＷＷ
 R5 Temur Otters（Eason271） LWW
-R6 Mono-White（[Chiyou](/authors/Chiyou/)） LL
-R7 Bant Omniscience（[Ho Zhi Mao](/authors/zhi-mao/)） LL
+R6 Mono-White（[Chiyou](/en/authors/Chiyou/)） LL
+R7 Bant Omniscience（[Ho Zhi Mao](/en/authors/zhi-mao/)） LL
 
 I won't go into the game-by-game records in this article. If you want to know more, feel free to head [here](https://www.facebook.com/share/p/1HWVTLf24Y/) after reading this one ~~but finish this one first~~.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/b5cf4dad18d9.webp)
-> The pilot, [ZHAN](/authors/ZHAN/), sat at the feature match table in round 5 and had a fierce battle with the runner-up, [Chiyou](/authors/Chiyou/).
+> The pilot, [ZHAN](/en/authors/ZHAN/), sat at the feature match table in round 5 and had a fierce battle with the runner-up, [Chiyou](/en/authors/Chiyou/).
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/ae1fcc96c730.webp)
->The deck list on the day. If you want to know why [ZHAN](/authors/ZHAN/) and I swapped decks, feel free to read the [reasons](https://www.facebook.com/share/p/1F8KgGoR9n/) after finishing this article ~~but finish this one first~~.
+>The deck list on the day. If you want to know why [ZHAN](/en/authors/ZHAN/) and I swapped decks, feel free to read the [reasons](https://www.facebook.com/share/p/1F8KgGoR9n/) after finishing this article ~~but finish this one first~~.
 
 Still, after the event we both felt it wasn't quite perfect. I think it was because the new set, [Teenage Mutant Ninja Turtles (TMT)](https://scryfall.com/sets/tmt), came out only one week before the Championship (which should count as a rare situation), so every player had to face time pressure in every respect, and naturally the shortcomings showed up very nakedly afterward.
 
@@ -64,7 +64,7 @@ First I have to explain to readers that because Magic has the legend rule, playe
 
 The advantage of this approach is a higher ceiling and more room for players to use the mulligan to piece together a correct opening hand (especially when you know your opponent's information and your deck holds a powerful card to punish them, so you can think in terms of expected value); the downside is that it is harder to pilot and takes a certain amount of practice and understanding. If newer players want to use the list as a reference, you might first consolidate some of the fiddly settings into your favorite two- and three-mana spells, and once you're familiar, fine-tune a version that suits you.
 
-I also want to praise [ZHAN](/authors/ZHAN/) here; through this Championship he proved he is absolutely a powerful pilot. Now on to the main deck breakdown:
+I also want to praise [ZHAN](/en/authors/ZHAN/) here; through this Championship he proved he is absolutely a powerful pilot. Now on to the main deck breakdown:
 
 [Llanowar Elves](https://scryfall.com/card/m12/182/zht/%E7%BE%85%E5%A0%B0%E5%A6%96%E7%B2%BE-(llanowar-elves)) x4: Nothing much to say, a regular at tournaments. If the opponent doesn't deal with it right away, get ready to ramp and apply pressure, and if it eats removal, it may indirectly protect late-game creatures ~~but usually I'd still very much like it to live~~.
 
@@ -94,7 +94,7 @@ In a race against the [Mono-White](https://www.mtggoldfish.com/archetype/standar
 [Hollowmurk Siege](https://scryfall.com/card/tdm/192/hollowmurk-siege) x3: **The core of the deck**. Sultai or Abzan are both options, testing the player's understanding of the current board, and of course casting two in a row and choosing one mode each is also a very strong decision. After discovering [Mikey & Leo, Chaos & Order](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order) before the Championship, I dropped from the original four copies to three; after all, an enchantment without creatures is useless.
 The most important detail is that when the opponent puts a stun counter on our creature, **we can draw a card**. This is something [Mikey & Leo, Chaos & Order](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order) can't do.
 
-[Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) x1: [ZHAN](/authors/ZHAN/) and I also love this card in casual Commander XD. In a metagame with enough [Izzet Prowess](https://www.mtggoldfish.com/archetype/standard-izzet-prowess-woe#paper), I think it deserves a main deck slot.
+[Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) x1: [ZHAN](/en/authors/ZHAN/) and I also love this card in casual Commander XD. In a metagame with enough [Izzet Prowess](https://www.mtggoldfish.com/archetype/standard-izzet-prowess-woe#paper), I think it deserves a main deck slot.
 
 [Requiting Hex](https://scryfall.com/card/ecl/116/requiting-hex) x3: It was precisely because [Lorwyn Eclipsed (ECL)](https://scryfall.com/sets/ecl) came out with this removal spell that I decided to stick with this unique route. Early on it is an instant-speed one-mana removal spell, and in the mid-to-late game you can use the Blight ability to put -1/-1 counters, gain life, and then draw cards; its ceiling in this build is extremely high. Whenever and however you use it, it is an instant for a single black mana, so good that in extreme cases, killing your own creature to put -1/-1 counters and draw cards is still a profit ~~I can say that because I really did it~~.
 
@@ -104,7 +104,7 @@ The most important detail is that when the opponent puts a stun counter on our c
 
 [Bitter Triumph](https://scryfall.com/card/sch/42/bitter-triumph) x1: With the escort of [Scavenging Ooze](https://scryfall.com/card/m21/204/zht/%E8%85%90%E9%A3%9F%E6%B5%81%E6%BC%BF-(scavenging-ooze)) in this deck, I think it can fit one copy. Better range, but the cost isn't small.
 
-[Origin of Metalbending](https://scryfall.com/card/tla/187/origin-of-metalbending) x1: A clever idea from [cephille](/authors/cephille/) after [Avatar: The Last Airbender (TLA)](https://scryfall.com/sets/tla) was released. At its best it gives one creature indestructible and a +1/+1 counter, greatly reducing the damage from a sweeper (survive with one, draw one). And it can also be a removal spell; as the old saying goes, flexibility is strength.
+[Origin of Metalbending](https://scryfall.com/card/tla/187/origin-of-metalbending) x1: A clever idea from [cephille](/en/authors/cephille/) after [Avatar: The Last Airbender (TLA)](https://scryfall.com/sets/tla) was released. At its best it gives one creature indestructible and a +1/+1 counter, greatly reducing the damage from a sweeper (survive with one, draw one). And it can also be a removal spell; as the old saying goes, flexibility is strength.
 
 [Strategic Betrayal](https://scryfall.com/card/tdm/94/strategic-betrayal) x1: A sorcery-speed card for game 1 that hates graveyards and also deals with a creature. It's a jack of all trades, master of none, and in some matchups it gets cast first.
 
@@ -150,7 +150,7 @@ The most important detail is that when the opponent puts a stun counter on our c
 
 Though this is a somewhat heavy section, let me still go over the cards I cut after the event.
 
-Cut 1 [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) from the main deck: [ZHAN](/authors/ZHAN/) and I both have a bond with this card. Before the event, using keyword search, I found that with [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) on the battlefield, if a Mutant dies during my turn, I draw cards equal to that Mutant's power ~~ooh, I love drawing cards, my eyes lit up immediately~~.
+Cut 1 [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) from the main deck: [ZHAN](/en/authors/ZHAN/) and I both have a bond with this card. Before the event, using keyword search, I found that with [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) on the battlefield, if a Mutant dies during my turn, I draw cards equal to that Mutant's power ~~ooh, I love drawing cards, my eyes lit up immediately~~.
 Since [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) triggers at the beginning of combat to turn another creature into a Mutant and put a +1/+1 counter on it, with too much information in the mid-game, I thought the opponent might overlook the detail that nearly all creatures in the new set, [Teenage Mutant Ninja Turtles (TMT)](https://scryfall.com/sets/tmt), have the Mutant type; if they played by their usual habits and misjudged and killed one on my turn, we'd get a big boost in hand resources (and the sting of the mistake would eat away at them). However, this never played out at a real tournament, and [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) was just an inefficient expensive card that didn't meet the standard of a four-drop that has to win.
 Interestingly, MTGGoldfish also discovered this funny situation after us (mixing Final Fantasy and Turtles together like a pissing beef meatball), and [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) has a [build](https://www.mtggoldfish.com/articles/much-abrew-jenova-mutants-standard) where it is better suited to shine, so readers who love it might want to build it and play. In any case, [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) is the culprit that made me overlook [Leatherhead, Swamp Stalker](https://scryfall.com/card/tmt/117/leatherhead-swamp-stalker) XD I don't like it anymore.
 
@@ -159,7 +159,7 @@ Cut 1 [Scavenging Ooze](https://scryfall.com/card/m21/204/zht/%E8%85%90%E9%A3%9F
 Cut 1 [Tokka & Rahzar, Terrible Twos](https://scryfall.com/card/tmt/252/tokka-&-rahzar-terrible-twos) from the main deck, keeping 1 in the sideboard: Now that [Jenova, Ancient Calamity](https://scryfall.com/card/fin/228/jenova-ancient-calamity) is gone, the Mutant-type bonus no longer exists, so we can adopt a main deck plan with steadier range and payoff.
 
 Cut 1 [Disruptive Stormbrood // Petty Revenge](https://scryfall.com/card/tdm/178/disruptive-stormbrood-petty-revenge) from the main deck: The chance of destroying artifacts and enchantments from the main deck rose sharply because of adding [Leatherhead, Swamp Stalker](https://scryfall.com/card/tmt/117/leatherhead-swamp-stalker), so I reluctantly cut it.
-I can actually accept the flexibility of [Disruptive Stormbrood // Petty Revenge](https://scryfall.com/card/tdm/178/disruptive-stormbrood-petty-revenge), but [jeffchen](/authors/jeffchen/) doesn't like this choice very much.
+I can actually accept the flexibility of [Disruptive Stormbrood // Petty Revenge](https://scryfall.com/card/tdm/178/disruptive-stormbrood-petty-revenge), but [jeffchen](/en/authors/jeffchen/) doesn't like this choice very much.
 
 Cut 1 [Origin of Metalbending](https://scryfall.com/card/tla/187/origin-of-metalbending) from the sideboard: Because the current metagame calls for it. After the build adjustments, we need not play so passively.
 
@@ -167,14 +167,14 @@ Finally, here is also the sideboard plan I wrote for the 11th Championship. Alth
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/0b18862039a5.webp)
 ![](https://images.guildmagesforum.tw/posts/Standard-Golgari-Midrange-without-Cub/4ebd03e57ea1.webp)
->The sideboard plan that [ZHAN](/authors/ZHAN/) turned his nose up at; I hereby condemn his ungrateful attitude.
+>The sideboard plan that [ZHAN](/en/authors/ZHAN/) turned his nose up at; I hereby condemn his ungrateful attitude.
 
 ## Conclusion
 
 Every time I score some results with an off-meta deck, I steel myself and share it publicly on Guildmages' Forum, but more than **recommending my own build**, what I really want to convey is **the joy of building your own**. The sense of achievement and the experience points are hard for other forms to match.
 
-Admittedly, in the era of big data, a self-created deck doesn't necessarily stand up easily against the mainstream, but [ZHAN](/authors/ZHAN/) and I pulled it off once with passion and ingenuity. We have also felt frustrated; right now we're just wandering at the edge of the tournament scene without time to devote ourselves fully, but long accumulation has made us better at living with this game.
+Admittedly, in the era of big data, a self-created deck doesn't necessarily stand up easily against the mainstream, but [ZHAN](/en/authors/ZHAN/) and I pulled it off once with passion and ingenuity. We have also felt frustrated; right now we're just wandering at the edge of the tournament scene without time to devote ourselves fully, but long accumulation has made us better at living with this game.
 
 This time we again got the name Golgari Midrange into the upper-middle of [MTG Tournaments](https://mtgdecks.net/Standard/tournaments), and whether this old-bottle-new-wine homebrew build will shake the meta a little, I will keep watching with a small hope.
 
-I invite readers to enjoy and savor Constructed formats from different angles. You can also look forward to [ZHAN](/authors/ZHAN/) bringing his self-made Standard deck **White-Black Control: Vampire Rooms** soon: the man who will pilot two decks in a single season and destroy the room with both is on his way, but please wait until he is done working overtime.
+I invite readers to enjoy and savor Constructed formats from different angles. You can also look forward to [ZHAN](/en/authors/ZHAN/) bringing his self-made Standard deck **White-Black Control: Vampire Rooms** soon: the man who will pilot two decks in a single season and destroy the room with both is on his way, but please wait until he is done working overtime.

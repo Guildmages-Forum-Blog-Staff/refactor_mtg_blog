@@ -134,7 +134,7 @@ If a Painter's Servant on the battlefield has declared blue, then Eldrazi Obliga
 
 ### CDAs and Copy Effects
 
-The most troublesome thing about handling CDAs is when they meet copy effects that modify characteristics, which can also be seen as a supplement to the previous installment, [What Is Copiable Value](https://guildmagesforum.tw/What-is-Copiable-Value/). When a copy effect meets a CDA, there is a particularly convoluted rule:
+The most troublesome thing about handling CDAs is when they meet copy effects that modify characteristics, which can also be seen as a supplement to the previous installment, [What Is Copiable Value](https://guildmagesforum.tw/en/What-is-Copiable-Value/). When a copy effect meets a CDA, there is a particularly convoluted rule:
 
 - 707.9d When a copy effect (1) doesn't copy a specified characteristic, (2) keeps one or more original values for a specified characteristic, or (3) provides a specific set of values for a specified characteristic, any characteristic-defining ability on the copied object that defines that specified characteristic **is not copied**. If that characteristic is color, the object's color indicator is also not copied. This rule doesn't apply to copy effects that have an exception stating "except it's also" certain card types, supertypes, and/or subtypes. In that case, any characteristic-defining ability that defines card types, supertypes, and/or subtypes is copied.
 

@@ -26,7 +26,7 @@ If you add all the other kinds of answers, white is undoubtedly the color with t
 - Splashing **black** gives 2, [Vanishing Verse](https://scryfall.com/card/otp/57/vanishing-verse?utm_source=api) and [Anguished Unmaking](https://scryfall.com/card/otp/35/anguished-unmaking?utm_source=api), whose restrictions and costs are both heavy, so they are not so good compared with other colors, or even mono-white;
 - Splashing <font color="#FD0214">**red**</font>, [Ride Down](https://scryfall.com/card/otp/52/ride-down?utm_source=api) is even narrower in use and less attractive than the answers above.
 
-Such a lopsided ratio made me wonder: why on earth design so many answers for white? Isn't that too unfair? But after reviewing the [OTJ Limited articles](/categories/OTJ/) we have published on the [Guildmages' Forum](https://guildmagesforum.tw/), I seem to have sensed something.
+Such a lopsided ratio made me wonder: why on earth design so many answers for white? Isn't that too unfair? But after reviewing the [OTJ Limited articles](/en/categories/OTJ/) we have published on the [Guildmages' Forum](https://guildmagesforum.tw/en/), I seem to have sensed something.
 
 White has no obvious bombs.
 

@@ -29,7 +29,7 @@ With the release of MH3, many new cards with Modern-level power were added. Besi
 
 Nadu is arguably the most hated deck in the current format, bar none. You could even say it's more hated than last year's Scam.
 
-> For the actual odds of a turn-one Scam, see the article I wrote last year: [What's Wrong with Modern Lately?](https://guildmagesforum.tw/Whats-Wrong-Modern/).
+> For the actual odds of a turn-one Scam, see the article I wrote last year: [What's Wrong with Modern Lately?](https://guildmagesforum.tw/en/Whats-Wrong-Modern/).
 
 Especially these two fine charts, the meta breakdown and the win rate table:
 ![](/images/Why-Nadu-Should-Die/meta.png)

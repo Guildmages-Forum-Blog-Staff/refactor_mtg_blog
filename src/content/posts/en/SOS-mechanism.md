@@ -18,7 +18,7 @@ excerpt: "Let's see which mechanics appear in the Secrets of Strixhaven mechanic
 ## Prepare
 ![Prepare](https://images.guildmagesforum.tw/posts/SOS-mechanism/92da26bade99.webp)
 
-Every prepare card has two card frames, just like past [Adventure](https://guildmagesforum.tw/FIN-mechanism/#%E6%AD%B7%E9%9A%AA%EF%BC%88Adventure%EF%BC%89) and [Omen](https://guildmagesforum.tw/TDM-mechanism/#%E9%A0%90%E5%85%86%EF%BC%88Omen%EF%BC%89) cards. The left rules text box holds the creature card's own abilities, and the right holds its prepare spell, which has its own name, cost, type, and rules text box.
+Every prepare card has two card frames, just like past [Adventure](https://guildmagesforum.tw/en/FIN-mechanism/#adventure) and [Omen](https://guildmagesforum.tw/en/TDM-mechanism/#omen) cards. The left rules text box holds the creature card's own abilities, and the right holds its prepare spell, which has its own name, cost, type, and rules text box.
 
 A permanent can become **prepared** in some way. Whenever a permanent becomes prepared, a copy of its prepare spell is created in exile, and that copy stays in exile until any of the following happens:
 
@@ -127,9 +127,9 @@ When you copy a spell, the copy wasn't cast, so naturally no mana was spent to c
 ## Paradigm
 ![Paradigm](https://images.guildmagesforum.tw/posts/SOS-mechanism/838cd55e6cac.webp)
 
-Paradigm is a keyword ability that appears on a cycle of sorceries, and all paradigm cards in this set have the [Lesson](https://guildmagesforum.tw/TLA-Mechanism/#%E8%AA%B2%E7%A8%8B%EF%BC%88Lesson%EF%BC%89) subtype. However, Lesson isn't the headline mechanic this time, so this set has no supporting mechanics that make use of the Lesson subtype.
+Paradigm is a keyword ability that appears on a cycle of sorceries, and all paradigm cards in this set have the [Lesson](https://guildmagesforum.tw/en/TLA-Mechanism/#lesson) subtype. However, Lesson isn't the headline mechanic this time, so this set has no supporting mechanics that make use of the Lesson subtype.
 
-A spell with paradigm is exiled as it resolves, and then, if this is the first time you've resolved a paradigm spell with that name, at the beginning of each of your [first main phases](https://guildmagesforum.tw/Round-Process/#%E7%AC%AC%E4%B8%80%E8%A1%8C%E5%8B%95%E9%9A%8E%E6%AE%B5%EF%BC%88First-Main-Phase%EF%BC%89) afterward, you may cast a copy of that spell without paying its mana cost. Whether to cast the copy is entirely your choice.
+A spell with paradigm is exiled as it resolves, and then, if this is the first time you've resolved a paradigm spell with that name, at the beginning of each of your [first main phases](https://guildmagesforum.tw/en/Round-Process/#first-main-phase) afterward, you may cast a copy of that spell without paying its mana cost. Whether to cast the copy is entirely your choice.
 
 Because each copy is independent, even if the spell copied by paradigm this turn is countered, a new copy will still be created next turn.
 

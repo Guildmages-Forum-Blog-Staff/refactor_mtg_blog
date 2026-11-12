@@ -166,7 +166,7 @@ Suppose I attack my opponent with Skithiryx, the Blight Dragon, and before damag
 
 Even if the opponent gets 10 poison counters from this hit, they won't lose right away, and they still have a chance to do something at instant speed, because Everybody Lives! stops all players from losing until end of turn, and the exact moment such "until end of turn" effects end is in the **cleanup step of the end phase**. Only when the turn reaches this step will this opponent really lose the game.
 
-For a detailed introduction to the turn structure, see this article: [Turn structure explained](https://guildmagesforum.tw/Round-Process/#%E6%B8%85%E7%A9%BA%E6%AD%A5%E9%A9%9F%EF%BC%88Cleanup-Step%EF%BC%89).
+For a detailed introduction to the turn structure, see this article: [Turn structure explained](https://guildmagesforum.tw/en/Round-Process/#cleanup-step).
 
 ![Infect and lifelink](https://images.guildmagesforum.tw/posts/Rule-Damage-and-Lose-Life/3b87ab0b2341.webp)
 

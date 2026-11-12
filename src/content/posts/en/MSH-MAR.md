@@ -19,7 +19,7 @@ excerpt: "A feast of classic scenes and characters from the Marvel universe. Ple
 
 Marvel Super Heroes (MSH) prerelease events take place on June 19, 2026, with the official release a week later on June 26, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of MSH Limited overviews!
 
-- For the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/MSH-mechanism/)
+- For the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/en/MSH-mechanism/)
 
 Marvel Universe ([MAR](https://scryfall.com/sets/mar)) is a subset attached to the main set [MSH](https://scryfall.com/sets/msh). It contains 60 borderless American-comic versions called Source Material<sup>[Note 1](#quote1)</sup>, and 1 non-foil one can be found in every 24 regular boosters. They can be used in MSH Limited and in the formats where the card is originally legal.
 
@@ -322,4 +322,4 @@ MAR cards are all classic scenes or characters from the Marvel universe, and the
  
  
  
- <sup><span id="quote1">**Note 1:**</span>The MSH accompaniment is the 60 cards numbered 41 to 100. Numbers 1 to 40 already appeared earlier in SPM; see the previously published "[Marvel's Spider-Man (SPM) Limited Overview — MAR](https://guildmagesforum.tw/SPM-MAR/)". This also foreshadows that the Marvel universe will likely keep expanding in the future, and the MAR set code will probably continue to be used!</sup>
+ <sup><span id="quote1">**Note 1:**</span>The MSH accompaniment is the 60 cards numbered 41 to 100. Numbers 1 to 40 already appeared earlier in SPM; see the previously published "[Marvel's Spider-Man (SPM) Limited Overview — MAR](https://guildmagesforum.tw/en/SPM-MAR/)". This also foreshadows that the Marvel universe will likely keep expanding in the future, and the MAR set code will probably continue to be used!</sup>

@@ -17,7 +17,7 @@ excerpt: "On the day of the interview, the two of us first played in a Limited M
 
 ## Let's get started!
 
-On the day of the interview, the two of us first played in a DSK Limited MITQ with [David Yeh](/authors/david-yeh/) at 桃園一刻館, and we were lucky enough to both make the top eight and play a timed draft ~~and then ascended one after another orz~~. During the matches, we had already vaguely sensed that [David Yeh](/authors/david-yeh/) has a temperament different from other players. So, let's get into the content of the interview!
+On the day of the interview, the two of us first played in a DSK Limited MITQ with [David Yeh](/en/authors/david-yeh/) at 桃園一刻館, and we were lucky enough to both make the top eight and play a timed draft ~~and then ascended one after another orz~~. During the matches, we had already vaguely sensed that [David Yeh](/en/authors/david-yeh/) has a temperament different from other players. So, let's get into the content of the interview!
 
 #### Q1: First of all, congratulations on qualifying for this Worlds! Let's go back to the scene of the MIT 5 championship. How did you feel being in the final decisive stretch?
 
@@ -33,7 +33,7 @@ In the finals I faced Mono-Black Vault. I roughly knew how to handle it, but for
 
 A: There are too many Modern decks to cover every base, so I just filter out the noise and focus on doing my own thing.
 I think Rhinos is an easy-to-pick-up deck with enough power, suitable for dad-type players who don't have time to practice much. [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed) and [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) really boosted this deck a lot. Although with [Fury](https://scryfall.com/card/mh2/126/fury) banned it's harder to deal with go-wide decks of Humans, Spirits, Faeries, Merfolk, Infect, and so on, Scam and four-color decks are also harder-pressed to beat Rhinos without [Fury](https://scryfall.com/card/mh2/126/fury), so it has pros and cons. My other considerations were already covered in my [earlier article
-](https://guildmagesforum.tw/Modern-Temur-Rhinos-LD/), so I won't repeat them here~
+](https://guildmagesforum.tw/en/Modern-Temur-Rhinos-LD/), so I won't repeat them here~
 
 > A murmur from David: Rhinos, banned twice, is already nearly extinct XD
 
@@ -56,7 +56,7 @@ A: For the most important one, of course it's [Crashing Footfalls](https://scryf
 
 #### Q6: At Worlds, Day 1 and Day 2 will feature three rounds of Duskmourn draft and four rounds of Standard respectively. Please share with readers which formats you personally like and are good at, and how you prepared this time.
 
-A: I like Modern and Limited. In college, my best Limited result was third place in Taiwan. This time, Standard and draft can both be practiced on MTGA. Although it's still different from MO, since I can't often go to the card shop right now, being able to practice Standard matches with friends at home is already very convenient. For Limited, I study set card reviews from [your site](https://guildmagesforum.tw/) and from [ChannelFireball](https://www.channelfireball.com/), and analyses like [17lands](https://www.17lands.com/).
+A: I like Modern and Limited. In college, my best Limited result was third place in Taiwan. This time, Standard and draft can both be practiced on MTGA. Although it's still different from MO, since I can't often go to the card shop right now, being able to practice Standard matches with friends at home is already very convenient. For Limited, I study set card reviews from [your site](https://guildmagesforum.tw/en/) and from [ChannelFireball](https://www.channelfireball.com/), and analyses like [17lands](https://www.17lands.com/).
 
 #### Q7: What type of player do you consider yourself to be? Which type of game plan are you better at? Is there a simple but classic turn that comes to mind that you could share with readers?
 
@@ -88,18 +88,18 @@ A: Family and work come first, of course. I talk with my family in advance, and 
 
 A: This game has a very low return on investment. You can practice for a year and still die to land screw, or die to an opponent who drops a pile of bombs. Just keep a calm mind; what's meant to be yours will eventually come to you, like how I've played for 20 years. Lots of practice can certainly improve your sensitivity to the meta, correct sideboarding, mulligan timing, the information passed by the players to your left and right in draft, and so on, but family, school, work, and health come first in everything, so never put the cart before the horse. This sounds a lot like a cliché, and the old me never imagined the current me would say this, but that's how it is.
 
-#### Q14 (impromptu question from [cephille](/authors/cephille/)): The Mystic Zone that you and your friends founded between 2012 and 2014 brought Taiwanese players a lot of important MTG information, including to me, a little newbie at the time. As a veteran, do you have any thoughts you'd be willing to offer us? Thank you very much!
+#### Q14 (impromptu question from [cephille](/en/authors/cephille/)): The Mystic Zone that you and your friends founded between 2012 and 2014 brought Taiwanese players a lot of important MTG information, including to me, a little newbie at the time. As a veteran, do you have any thoughts you'd be willing to offer us? Thank you very much!
 
 A: The site is still there, so everyone can go check out [Mystic Zone](https://mysticzonetw.blogspot.com/).
 That was right around the time of the Taipei GP, and 瓜老闆 wanted to push Traditional Chinese Magic hard. At first it was 陳亮 aka REX who came to find me, and then we found many old and new friends, and together we wrote Limited, constructed, commander, and other articles. During that period we were always busy translating good articles from overseas, creating commander content, and traveling all over the north and south to make tournament reports. Looking back ten years ago, what I miss most is still the tournament reports, and I occasionally still go back to the site to look at the matches and top ten strongest cards from back then. Ten years have passed, and social media is different now. There are no big events like the GP, and many new card games have appeared, so there should be far fewer Magic players in Taiwan. You've worked really hard promoting it so devotedly!
 
-#### Q15 (impromptu question from [faintmama](/authors/faintmama/)): When we played together today, I noticed that you're a very approachable player, generous in sharing your own insights and happy to listen to others' opinions. I could almost picture you and your friends exchanging ideas and continuing to get stronger. Could you analyze the relationship between your personality and your career as a player?
+#### Q15 (impromptu question from [faintmama](/en/authors/faintmama/)): When we played together today, I noticed that you're a very approachable player, generous in sharing your own insights and happy to listen to others' opinions. I could almost picture you and your friends exchanging ideas and continuing to get stronger. Could you analyze the relationship between your personality and your career as a player?
 
 A: When I was young, especially as a student, of course I cared a lot about winning and losing, and I treated others in a more domineering way than I do now. After growing up, I let go of that outlook somewhat.
 For example, when I go out to tournaments now, I always think about being nicer to friends and opponents, at least giving myself a chance to broaden friendships, which is probably also a habit I developed from running the website. Once I enter the tournament hall now, I first greet quite a few people, whether it's 郭子敬 the shop owner, the judges, or players. Personally I don't think there's any need to face others with a confrontational attitude.
 This attitude makes it easier to get advice from others, and that advice may spark better ideas in me, so influencing each other positively is, I think, much better than fighting alone.
 
-> Editor's note: David's insight is very infectious, and it reminds us of the [Ubuntu](https://zh.wikipedia.org/zh-tw/%E4%B9%8C%E7%8F%AD%E5%9B%BE) culture mentioned in the [DSK Sealed Review](https://guildmagesforum.tw/DSK-Sealed-Review/). David may well be the player who best embodies this spirit in this land.
+> Editor's note: David's insight is very infectious, and it reminds us of the [Ubuntu](https://zh.wikipedia.org/zh-tw/%E4%B9%8C%E7%8F%AD%E5%9B%BE) culture mentioned in the [DSK Sealed Review](https://guildmagesforum.tw/en/DSK-Sealed-Review/). David may well be the player who best embodies this spirit in this land.
 
 #### Q16: This is a deep card game, but also relatively hard to get into. If you had to briefly introduce the charm of Magic: The Gathering, how would you describe it to a newcomer?
 

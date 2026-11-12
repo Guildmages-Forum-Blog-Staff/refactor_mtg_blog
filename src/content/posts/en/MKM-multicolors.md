@@ -30,7 +30,7 @@ When it comes to Ravnica, the plane is best known not only as the second most fr
 
 Karlov, the set's namesake, is a famous and prominent family in the Orzhov Syndicate, and the family that Teysa Karlov, a character we know well, comes from. The set revolves around a series of murders at Karlov Manor. Besides a story with a strong whodunit flavor, it brings back mechanics like investigate and Clue tokens, and introduces new ones such as the Case enchantment subtype, suspect, collect evidence, disguise, and cloak.
 
-For the mechanics, see this article: [Murders at Karlov Manor Mechanics Explained](https://guildmagesforum.tw/MKM-mechanism/)
+For the mechanics, see this article: [Murders at Karlov Manor Mechanics Explained](https://guildmagesforum.tw/en/MKM-mechanism/)
 
 ## Grading Scale
 

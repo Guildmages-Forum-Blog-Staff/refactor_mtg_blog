@@ -17,16 +17,16 @@ excerpt: "Flow state! I want to enter the flow state!!!"
 
 Secrets of Strixhaven (SOS) was officially released on April 24, 2026. Readers are welcome to look back at the articles we have already published:
 
-- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Explained](https://guildmagesforum.tw/SOS-mechanism/)
+- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Explained](https://guildmagesforum.tw/en/SOS-mechanism/)
 - Published SOS rating articles
-  - [Secrets of Strixhaven (SOS) Limited Introduction: Multicolor](https://guildmagesforum.tw/SOS-multicolors/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: White](https://guildmagesforum.tw/SOS-White/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: Blue](https://guildmagesforum.tw/SOS-Blue/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: Black](https://guildmagesforum.tw/SOS-Black/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: Red](https://guildmagesforum.tw/SOS-Red/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: Green](https://guildmagesforum.tw/SOS-Green/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: Colorless, Lands, SPG](https://guildmagesforum.tw/SOS-Colorless/)
-  - [Secrets of Strixhaven (SOS) Limited Introduction: SOA](https://guildmagesforum.tw/SOS-SOA/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: Multicolor](https://guildmagesforum.tw/en/SOS-multicolors/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: White](https://guildmagesforum.tw/en/SOS-White/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: Blue](https://guildmagesforum.tw/en/SOS-Blue/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: Black](https://guildmagesforum.tw/en/SOS-Black/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: Red](https://guildmagesforum.tw/en/SOS-Red/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: Green](https://guildmagesforum.tw/en/SOS-Green/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: Colorless, Lands, SPG](https://guildmagesforum.tw/en/SOS-Colorless/)
+  - [Secrets of Strixhaven (SOS) Limited Introduction: SOA](https://guildmagesforum.tw/en/SOS-SOA/)
 
 ## SOS Post-Release Observations
 

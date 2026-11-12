@@ -16,7 +16,7 @@ excerpt: "There are 77 cards this time, probably the most multicolor cards in a 
 
 Secrets of Strixhaven (SOS) has its prerelease on April 17, 2026, and officially launches a week later on April 24, 2026. Want to know more about card ratings and recommendations for Limited? Then check out this SOS Limited review series!
 
-- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Explained](https://guildmagesforum.tw/SOS-mechanism/)
+- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Explained](https://guildmagesforum.tw/en/SOS-mechanism/)
 
 ## Archetype Themes
 

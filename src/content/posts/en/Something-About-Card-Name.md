@@ -194,7 +194,7 @@ Take Bonecrusher Giant as an example: its Adventure "Stomp" is indeed recorded i
 
 <font color="#B0B0B0">(Although the official Chinese translation of "Room" is a word meaning "compartment", I'll still use the nickname players are used to, "room")</font>
 
-[Room](https://guildmagesforum.tw/DSK-mechanism/) is a kind of split card, so it's also a card with two names, but its rules on the battlefield are a bit more troublesome: a Room on the battlefield only has the characteristics of its unlocked doors, including the name.
+[Room](https://guildmagesforum.tw/en/DSK-mechanism/) is a kind of split card, so it's also a card with two names, but its rules on the battlefield are a bit more troublesome: a Room on the battlefield only has the characteristics of its unlocked doors, including the name.
 
 Suppose the Demon Room has only unlocked the left side; then its current name is "Unholy Annex". If only the right side is unlocked, the name is "Ritual Chamber". If both sides are unlocked, it has both names at once. And when an effect checks whether things share a name, for a card that has multiple names, having any one name in common counts as having the same name.
 

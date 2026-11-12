@@ -17,7 +17,7 @@ categories:
 
 ## Before We Start
 
-I had already [used this deck at MIT#11](https://guildmagesforum.tw/Standard-Esper-Ninjas-Preliminary/), but at the time both the meta and my positioning were poor, and I only came away with a dismal result. While preparing for MIT#12, I picked a mainstream deck and went with [Izzet Spellementals](https://melee.gg/Decklist/View/e4a7b90d-fb39-45fa-be8a-b44d00d00dfe), but I still went home empty-handed that day. The very next week was the [Magic Spotlight: Secrets](https://ssl.bigmagic.net/spotlight_series/) I had signed up for long ago, and I had the feeling of not knowing what to play.
+I had already [used this deck at MIT#11](https://guildmagesforum.tw/en/Standard-Esper-Ninjas-Preliminary/), but at the time both the meta and my positioning were poor, and I only came away with a dismal result. While preparing for MIT#12, I picked a mainstream deck and went with [Izzet Spellementals](https://melee.gg/Decklist/View/e4a7b90d-fb39-45fa-be8a-b44d00d00dfe), but I still went home empty-handed that day. The very next week was the [Magic Spotlight: Secrets](https://ssl.bigmagic.net/spotlight_series/) I had signed up for long ago, and I had the feeling of not knowing what to play.
 
 Coincidentally, that week on Tuesday 菜鳥 held a Sultai Demons sharing session at CardMaster, and I figured I would go listen, and maybe just netdeck and play the Spotlight. Many thanks to 菜鳥 for sharing his insights. That day I deeply realized how much preparation he had put in for this big event, and his determination to qualify for Worlds.
 
@@ -51,9 +51,9 @@ I referenced 曾宥均's Esper Ninjas that finished 10th at MIT#12 and made the 
 
 However, putting in the black-white fast lands means white on turn one is in surplus, while on turn two we may get stuck on blue and fail to cast {% mtglink "Floodpits Drowner" %}, or even get stuck without a second blue mana and fail to jump into {% mtglink "Enduring Curiosity" %} on turn four. What should we do about this?
 
-Thanks to [跳鼠](/authors/JerobaMTG/)'s earlier sharing, Ninjas built on a black-white base inherently have a mana base advantage, so why not be bold and use more white creatures to make the whole deck run more smoothly? According to the land configuration, as long as we can get Ninjutsu {% mtglink "Kaito, Bane of Nightmares" %} and Aang out on time on turn three, we will gain a huge tempo advantage!
+Thanks to [跳鼠](/en/authors/JerobaMTG/)'s earlier sharing, Ninjas built on a black-white base inherently have a mana base advantage, so why not be bold and use more white creatures to make the whole deck run more smoothly? According to the land configuration, as long as we can get Ninjutsu {% mtglink "Kaito, Bane of Nightmares" %} and Aang out on time on turn three, we will gain a huge tempo advantage!
 
-> Reference deck: [Shadow of the Evil Foe: Standard Stealthy Sneak](https://guildmagesforum.tw/Standard-Orzhov-Sneak/)
+> Reference deck: [Shadow of the Evil Foe: Standard Stealthy Sneak](https://guildmagesforum.tw/en/Standard-Orzhov-Sneak/)
 
 - {% mtglink "Leonardo, Sewer Samurai" %}: if Kaito comes down first and you activate [+1] two turns in a row, the attack on turn four could be a deadly 10 points of double strike damage! This is a huge and important upgrade for Esper Ninjas, which pursue high burst! And its static ability can help the allies that were removed in the first few turns, and even {% mtglink "Dark Leo & Shredder" %}, return to the fight! Don't forget, when you have Leonardo on the battlefield and Dark Leo in the graveyard, once the Sneak conditions are met, you can even cast Dark Leo from the graveyard with Sneak! Leonardo's presence also slightly eases our mana requirements for jumping into Enduring Curiosity on turn four. Although Enduring Curiosity helps us draw more cards, if we can use Leonardo to widen our board advantage, that actually fits the development Esper Ninjas hope for better.
 - {% mtglink "Spectacular Spider-Man" %}: it is really just the stand-in for the 4th Drowner, and in testing getting stuck on blue on turn two is a real possibility. But we still need a tempo fill-in after passing with Pierce mana up, so that we can land Kaito on turn three or activate Sneak. And after it's sacrificed it gives all creatures hexproof and indestructible, which gives us better resistance to sweepers. If the opponent spends their removal on Spider-Man first, the survival rate of our later threats goes up greatly. In addition, against decks that may main deck {% mtglink "Fire Magic" %} or {% mtglink "Prismari Charm" %}, having 2 toughness avoid being one-for-two'd or worse is also a small hidden advantage.
@@ -78,9 +78,9 @@ If you can go creature on turn one, Sneak on turn two, Kaito on turn three, very
 5. **Why play 61 cards?**
 This is actually a 23-land deck, but at 23 lands testing showed it got stuck too often, and always stuck on blue (even though the number of blue-producing lands isn't the lowest), so I referenced 宥均's version and added 1 Island ~~anyway every day I get hit by Erode or land destruction~~
 5. **Decks that are very aggressive or have direct damage are still at a significant disadvantage**
-See [Esper Ninjas First Look](https://guildmagesforum.tw/Standard-Esper-Ninjas-Preliminary/) for details. You can also watch the [video record](https://www.youtube.com/live/MBDasOCyGPg?si=c9UsrEFjAaucX8ZW&t=6039) of me playing Mardu discard at the Spotlight.
+See [Esper Ninjas First Look](https://guildmagesforum.tw/en/Standard-Esper-Ninjas-Preliminary/) for details. You can also watch the [video record](https://www.youtube.com/live/MBDasOCyGPg?si=c9UsrEFjAaucX8ZW&t=6039) of me playing Mardu discard at the Spotlight.
 7. **If the environment is momo paradise, don't take this deck**
-See [Esper Ninjas First Look](https://guildmagesforum.tw/Standard-Esper-Ninjas-Preliminary/) for details.
+See [Esper Ninjas First Look](https://guildmagesforum.tw/en/Standard-Esper-Ninjas-Preliminary/) for details.
 
 ## Sideboard Plans
 

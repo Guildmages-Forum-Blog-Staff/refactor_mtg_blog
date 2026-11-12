@@ -28,7 +28,7 @@ The site uses Hexo as its framework, is written in Markdown, and is hosted on Gi
 
 After the site opened, we gradually began recruiting, and the articles we published became more diverse; basically we spent our days playing cards and making friends, and whenever we met other players we would give them the Amway pitch XD
 
-During this period, the site's important third collaborator [Jru](/authors/JruMTG/) also joined the team. His solid grounding in the rules and all-around ability have made him an extremely important partner in running the site to this day. About three months after the site opened, a friend kindly provided this promotional logo image. It looks small when shown on Facebook, but the actual image looks like this, so let us show it off here.
+During this period, the site's important third collaborator [Jru](/en/authors/JruMTG/) also joined the team. His solid grounding in the rules and all-around ability have made him an extremely important partner in running the site to this day. About three months after the site opened, a friend kindly provided this promotional logo image. It looks small when shown on Facebook, but the actual image looks like this, so let us show it off here.
 
 ![](https://guildmagesforum.tw/images/logo.jpg)
 

@@ -70,7 +70,7 @@ Take the black creature on the right of the example: although a red mana symbol 
 
 Earthbend is followed by a number N. When you earthbend N, choose a target land you control. When earthbend resolves, that land becomes a 0/0 creature with haste that's still a land, and then you put N +1/+1 counters on it. When that land dies or is exiled, return it to the battlefield tapped under **your** control. It should be emphasized that **your** here doesn't refer to the land's controller or owner, but to the controller of that earthbend ability.
 
->PS: **"When that land dies or is exiled, return it to the battlefield tapped under its controller's control."** This doesn't give the land creature this ability (a Layer 6 effect: ability adding and removing effects, see [Layer](https://guildmagesforum.tw/Layer/)), but is a delayed triggered ability created by an effect acting externally on this object. So even if you somehow make the earthbent land creature lose all abilities, it will still return when it dies or is exiled.
+>PS: **"When that land dies or is exiled, return it to the battlefield tapped under its controller's control."** This doesn't give the land creature this ability (a Layer 6 effect: ability adding and removing effects, see [Layer](https://guildmagesforum.tw/en/Layer/)), but is a delayed triggered ability created by an effect acting externally on this object. So even if you somehow make the earthbent land creature lose all abilities, it will still return when it dies or is exiled.
 
 {% folding blue :: Earthbend Synergies %}
 
@@ -98,7 +98,7 @@ Many individual cards in this set have effects related to Lessons, but there is 
 ## Exhaust
 ![Exhaust](https://images.guildmagesforum.tw/posts/TLA-Mechanism/f1ed6a107f25.webp)
 
-Exhaust is an ability that appeared recently in [Aetherdrift](https://guildmagesforum.tw/DFT-mechanism/#exhaust), and it returns in small numbers in this set.
+Exhaust is an ability that appeared recently in [Aetherdrift](https://guildmagesforum.tw/en/DFT-mechanism/#exhaust), and it returns in small numbers in this set.
 
 Exhaust is an activated ability with an additional restriction: the same exhaust ability on the same object can be activated only once, and different objects don't affect each other. If you make a permanent that has activated its exhaust ability leave the battlefield and re-enter, it is a new, separate object and can activate its exhaust ability.
 

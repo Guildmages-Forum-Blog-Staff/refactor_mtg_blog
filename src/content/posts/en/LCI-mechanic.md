@@ -23,7 +23,7 @@ The [Lost Caverns of Ixalan mechanics introduction](https://magic.wizards.com/en
 
 ![Transforming double-faced cards](https://images.guildmagesforum.tw/posts/LCI-mechanic/c4cec38bc548.webp)
 
-I honestly do not know whether to call this a returning mechanic or a semi-evergreen mechanic. Transforming double-faced cards were one of the set's hallmarks back in Ixalan, and they are not absent from The Lost Caverns of Ixalan either, with an even richer variety of card types after transforming. However, no rules about transforming double-faced cards have changed this time, so I will not belabor them. Readers interested in more rules about transforming double-faced cards can see this article: [Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/DFC-Copy/).
+I honestly do not know whether to call this a returning mechanic or a semi-evergreen mechanic. Transforming double-faced cards were one of the set's hallmarks back in Ixalan, and they are not absent from The Lost Caverns of Ixalan either, with an even richer variety of card types after transforming. However, no rules about transforming double-faced cards have changed this time, so I will not belabor them. Readers interested in more rules about transforming double-faced cards can see this article: [Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/en/DFC-Copy/).
 
 ## Returning Mechanic: Explore
 
@@ -79,7 +79,7 @@ For instance, [Valki, God of Lies](https://scryfall.com/card/khm/114/valki-god-o
 
 ![Cheating](https://images.guildmagesforum.tw/posts/LCI-mechanic/feb059183709.webp)
 
-The combo of [Invasion of Alara](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom) + [Bramble Familiar](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest) is a standard present-day example. For details, see the article [How Lier Interacts with Adventure Cards](https://guildmagesforum.tw/Adventure-and-Lier/).
+The combo of [Invasion of Alara](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom) + [Bramble Familiar](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest) is a standard present-day example. For details, see the article [How Lier Interacts with Adventure Cards](https://guildmagesforum.tw/en/Adventure-and-Lier/).
 
 [Bring to Light](https://scryfall.com/card/2x2/188/bring-to-light) + [Valki, God of Lies](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor) is not rare in Pioneer. Bring to Light likewise only checks the cost of the "card" and does not care what mana value of "spell" you end up casting.
 

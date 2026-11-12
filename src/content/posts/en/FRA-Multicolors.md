@@ -17,7 +17,7 @@ excerpt: "The Echoverse has arrived. Many old friends appear in pairs, but they 
 
 Fractured Reality (FRA) will hold its prerelease events on September 25, 2026, and officially launches one week later on October 2, 2026. Want to learn more about individual card ratings and advice for Limited? Then check out this series of FRA Limited guides!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/FRA-Mechanism/)
+- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Color Pair Themes
 

@@ -15,7 +15,7 @@ excerpt: "The Fire Nation will bring order and prosperity to the world"
 
 Avatar: The Last Airbender prerelease events kick off on November 14, 2025. Want to know more about how each card rates in Limited, with some advice? Then check out this series of TLA Limited guides!
 
-- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/TLA-Mechanism/)
+- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 ## Rating Scale
 

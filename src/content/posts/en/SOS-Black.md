@@ -16,7 +16,7 @@ excerpt: "This time, black earns a solid ㄇ-tier grade"
 
 Secrets of Strixhaven (SOS) prerelease events run on April 17, 2026, with the official release one week later on April 24, 2026. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of SOS Limited overviews!
 
-- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Breakdown](https://guildmagesforum.tw/SOS-mechanism/)
+- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Breakdown](https://guildmagesforum.tw/en/SOS-mechanism/)
 
 ## Rating Scale
 

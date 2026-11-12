@@ -95,7 +95,7 @@ Because Auras only count if you control them, when you put debuff Auras on an op
 
 ![Modal Double Faced Card](https://images.guildmagesforum.tw/posts/SPM-Mechanism/6173e02149c2.webp)
 
-Modal double-faced cards (MDFCs) are another kind of double-faced card mechanic distinct from [transform double-faced cards (TDFCs)](https://guildmagesforum.tw/FIN-mechanism/#transform-double-faced-cards-tdfc). They first appeared in the [Zendikar Rising (ZNR)](https://scryfall.com/sets/znr) set, and this set brings a major rules change.
+Modal double-faced cards (MDFCs) are another kind of double-faced card mechanic distinct from [transform double-faced cards (TDFCs)](https://guildmagesforum.tw/en/FIN-mechanism/#transform-double-faced-cards-tdfc). They first appeared in the [Zendikar Rising (ZNR)](https://scryfall.com/sets/znr) set, and this set brings a major rules change.
 
 When you want to use a modal double-faced card, you can choose which face to use and pay the corresponding mana cost.
 

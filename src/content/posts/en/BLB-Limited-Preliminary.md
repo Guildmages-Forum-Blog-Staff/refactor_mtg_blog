@@ -19,7 +19,7 @@ authors:
 
 In recent set designs, each two-color pair gets a cycle of ten uncommons and commons (one set per pair), plus a rare legendary creature to reinforce that pair's theme. In Limited we won't always open or draft the rare for a given pair, but building or drafting around the uncommons and commons is perfectly viable. So in the sections below, I will focus on how each pair's uncommons and commons develop, and offer some initial deckbuilding directions along with a few useful individual cards and combinations.
 
-If you need a rules rundown of the Bloomburrow mechanics, you can read this article: [Bloomburrow Mechanics Explained](http://guildmagesforum.tw/BLB-mechanism/)
+If you need a rules rundown of the Bloomburrow mechanics, you can read this article: [Bloomburrow Mechanics Explained](http://guildmagesforum.tw/en/BLB-mechanism/)
 
 > The content of this article is adapted and expanded from the [Bloomburrow](https://mtg.fandom.com/wiki/Bloomburrow) entry on the MTG wiki. It was also written before BLB prerelease events began, so it is only meant as a first understanding of the set. If later Limited practice shows that some statements are wrong or need adjusting, readers are welcome to leave a comment or send a message with suggestions on the [Guildmages' Forum Facebook page](https://www.facebook.com/guildmagesforumtw). Thank you!
 

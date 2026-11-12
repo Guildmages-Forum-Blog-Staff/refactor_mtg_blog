@@ -144,7 +144,7 @@ The biggest hallmark of FF is probably the summons, and the most famous summon i
 
 Designing the summons as Saga creatures this time truly fits the flavor of summons, but the rules were slightly modified for it: a Saga doesn't die immediately when it loses its abilities, which lets [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) pick up a bargain XD, no longer afraid of [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon).
 
-> Editor's note: Interested readers are welcome to go back and read this article: [How Blood Moon Went from Urza's Saga's Natural Enemy to Its Teammate](https://guildmagesforum.tw/How-does-Urzas-Saga-Become-Blood-Moons-Friend/)
+> Editor's note: Interested readers are welcome to go back and read this article: [How Blood Moon Went from Urza's Saga's Natural Enemy to Its Teammate](https://guildmagesforum.tw/en/How-does-Urzas-Saga-Become-Blood-Moons-Friend/)
 
 {% mtgcard "Stay with Me" %} 
 <p style="text-align: center;">《最後まで・・・/リスティックの研究》</p>

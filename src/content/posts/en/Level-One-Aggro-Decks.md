@@ -17,7 +17,7 @@ excerpt: "Level One: Aggro Decks"
 > Note 1: **This is a translated article. The actual author is Magic: The Gathering Hall of Fame player and Channel Fireball member Reid Duke, and the copyright belongs to Wizards of the Coast.** Although the authors field lists me, in this series I am only the translator, and I would not dare take credit for another's work.
 > Note 2: This article and the following articles in the series were produced by translating the original with Gemini 3 Pro and then polishing the result. Every article includes a link to the original, and readers are very welcome to read the original on the official site!
 > Note 3: Since the original was published more than ten years ago, the translator will, where appropriate, add annotations explaining situations that differ between the original and the time of translation.
-> Note 4: The first 7 articles already have official Traditional Chinese translations. Before reading this one, we recommend checking the previous article, [Article Translation — Reid Duke's "Level One": The Full Course & Glossary of Terms](https://guildmagesforum.tw/Level-One-The-Full-Course-Glossary-of-Terms/).
+> Note 4: The first 7 articles already have official Traditional Chinese translations. Before reading this one, we recommend checking the previous article, [Article Translation — Reid Duke's "Level One": The Full Course & Glossary of Terms](https://guildmagesforum.tw/en/Level-One-The-Full-Course-Glossary-of-Terms/).
 > Note 5: To view articles on the official site that have been translated into Traditional Chinese, remember to change the language preference to "繁體中文" at the very bottom of the page, then click the article link again.
 
 ## Article Translation — "Level One": Aggro Decks

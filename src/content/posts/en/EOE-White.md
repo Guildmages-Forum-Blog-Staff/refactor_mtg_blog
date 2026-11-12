@@ -20,7 +20,7 @@ excerpt: "The all-purpose choice that handles both aggro and control"
 
 Edge of Eternities holds its prerelease events on July 25, 2025. Want to know more about individual card ratings and advice for Limited? Then check out this series of EOE Limited introductions!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 ## Rating Scale
 
@@ -309,4 +309,4 @@ Used well, it can make the opponent miscalculate and explode instantly, but the 
 
 This time, white is as all-purpose as ever, able to handle both racing for speed and grinding long-game resources. If you want to play a fast-paced build, you can focus especially on the +1/+1 counter themes. Although these cards individually aren't rated highly, they can combine into a complete aggro system.
 
-In addition, this set's white-blue theme, though not written on the cards, truly runs on the same rules as TDM's [Flurry](https://guildmagesforum.tw/TDM-mechanism/#%E9%80%A3%E5%92%92%EF%BC%88Flurry%EF%BC%89), the only difference being that no ability reminder text is written on the cards.
+In addition, this set's white-blue theme, though not written on the cards, truly runs on the same rules as TDM's [Flurry](https://guildmagesforum.tw/en/TDM-mechanism/#flurry), the only difference being that no ability reminder text is written on the cards.

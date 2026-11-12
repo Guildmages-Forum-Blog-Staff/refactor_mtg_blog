@@ -15,7 +15,7 @@ excerpt: "Some old familiar faces, some old flames, and what, even Diaochan is h
 
 Avatar: The Last Airbender holds its prerelease events on November 14, 2025. Want to learn more about card ratings and advice for Limited? Then check out this series of TLA Limited overviews!
 
-- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/TLA-Mechanism/)
+- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 Avatar: The Last Airbender Eternal (TLE) is a supplementary subset of the main set TLA. It contains 61 borderless non-foil cards called Source Material, made from anime screenshots, and you can open one in every 26 regular Play Boosters. They can be used in TLA Limited, as well as in the corresponding formats where the card was originally legal.
 

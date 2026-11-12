@@ -14,7 +14,7 @@ excerpt: "Why is Blood Moon the Urza's Saga killer?"
 
 ## <font color="#FF0000">Major Rules Change</font>
 
-The FIN set made a major change to the Saga rules. The new rules change how a Saga is handled after it loses its abilities, so the rules analysis in this article of Sagas that have lost their abilities no longer applies. For the current rules, please see the new article: [How Blood Moon Went from Urza's Saga's Natural Enemy to Its Teammate](https://guildmagesforum.tw/How-does-Urzas-Saga-Become-Blood-Moons-Friend/).
+The FIN set made a major change to the Saga rules. The new rules change how a Saga is handled after it loses its abilities, so the rules analysis in this article of Sagas that have lost their abilities no longer applies. For the current rules, please see the new article: [How Blood Moon Went from Urza's Saga's Natural Enemy to Its Teammate](https://guildmagesforum.tw/en/How-does-Urzas-Saga-Become-Blood-Moons-Friend/).
 
 
 

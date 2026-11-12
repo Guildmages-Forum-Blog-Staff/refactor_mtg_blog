@@ -22,7 +22,7 @@ After the June 30, 2025 B&R announcement, the Standard environment saw its large
 
 If we only look at the week of June 30 to July 6, it seems to be the biggest blight in this Standard environment! But this deck did not enjoy such a scene from the very start. With Standard about to rotate, readers may not be very interested in this topic, but I still want to try to organize the thread of this process, as a summary of my year and a half of journey.
 
-While writing, I often thought of the [player interviews](/categories/Interview/) that [faintmama](/authors/faintmama/) and I published on the Forum. We focused on players who have already proven themselves, but what about the times before they were "seen", and the many more players who are still working hard? Do those moments have anything worth looking at? How do we view and feel about "winning" and "losing"?
+While writing, I often thought of the [player interviews](/en/categories/Interview/) that [faintmama](/en/authors/faintmama/) and I published on the Forum. We focused on players who have already proven themselves, but what about the times before they were "seen", and the many more players who are still working hard? Do those moments have anything worth looking at? How do we view and feel about "winning" and "losing"?
 
 This article is dedicated to the [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse) in my deck. Thank you for accompanying me these two years, and congratulations on graduating XD ~~but what do I do when my draws no longer gain life~~ 
 
@@ -46,13 +46,13 @@ Behind the glittering major tournaments, how many such crystals in the dark are 
 
 #### [20240113 Magic Star MITQ](https://www.facebook.com/share/p/1BBs6oUjoM/)
 
-In the 2023 season I used UW Soldiers, a tempo deck that I have always liked and habitually used. During the Forum's early days I also wrote this piece, [The Evolution and Outlook of Standard UW Soldiers](https://guildmagesforum.tw/Standard-UW-Solider/), to briefly describe my own understanding. However, at the end of 2023, after witnessing black-based decks with a double dose of Sheoldred, the overwhelming force of playing on turns two, three, and four in a row and making Magic look so easy, plus the weakness of the Soldier tribe not getting enough support after LCI, I decided to switch to Dimir midrange for the following Standard seasons.
+In the 2023 season I used UW Soldiers, a tempo deck that I have always liked and habitually used. During the Forum's early days I also wrote this piece, [The Evolution and Outlook of Standard UW Soldiers](https://guildmagesforum.tw/en/Standard-UW-Solider/), to briefly describe my own understanding. However, at the end of 2023, after witnessing black-based decks with a double dose of Sheoldred, the overwhelming force of playing on turns two, three, and four in a row and making Magic look so easy, plus the weakness of the Soldier tribe not getting enough support after LCI, I decided to switch to Dimir midrange for the following Standard seasons.
 
 Although I didn't play this MITQ very well, I came to appreciate more deeply the power of [Gix, Yawgmoth Praetor](https://scryfall.com/card/tdc/181/gix-yawgmoth-praetor) and of Sheoldred.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/7af814cd9868.webp)
 
-#### [20240127 ALG MITQ - 豬鼻子's Standard Dimir Midrange Analysis and Tournament Report (Qualified for MIT#6)](https://guildmagesforum.tw/Standard-Dimir-Midrange/)
+#### [20240127 ALG MITQ - 豬鼻子's Standard Dimir Midrange Analysis and Tournament Report (Qualified for MIT#6)](https://guildmagesforum.tw/en/Standard-Dimir-Midrange/)
 
 Fortunately, I earned my MIT#6 qualification without playing too many rounds, and I therefore confirmed the outstanding disruptive strength of [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) in the Standard environment. For the following seasons, Tidebinder was always an important member I would not take out of my 75 cards.
 
@@ -64,13 +64,13 @@ Fortunately, I earned my MIT#6 qualification without playing too many rounds, an
 
 This period was basically a process of repeated testing and constantly cutting the deck's original core, [Gix, Yawgmoth Praetor](https://scryfall.com/card/tdc/181/gix-yawgmoth-praetor), down to zero copies. With the rise of Convoke decks, the meta made me more and more anxious the more I played, and my win rate was basically under forty percent. By early May, the original Dimir midrange build, with Convoke blocking the road ahead and control/Ramp evolving behind us to also bring [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) as anti-counterspell tech, fell into a dilemma, caught between advancing and retreating and nearly ready to give up and switch to playing Convoke...
 
-#### [20240529 豬鼻子's MIT#6 Preparation and Tournament Report: Sultai Midrange](https://guildmagesforum.tw/MIT-6-Review/)
+#### [20240529 豬鼻子's MIT#6 Preparation and Tournament Report: Sultai Midrange](https://guildmagesforum.tw/en/MIT-6-Review/)
 
 In the end it still wasn't tuned well. Three colors was a nice change, but it still didn't respect the meta's Convoke enough, and I was thoroughly punished in the win-and-in-for-top-eight match. If I fast-forward to now, a year later, I would say that one main, two sideboard [The Filigree Sylex](https://scryfall.com/card/one/227/the-filigree-sylex) was necessary. I did see similar builds back then, but I let it pass without studying the usage scenarios in depth.
 
 {% mtgcard "The Filigree Sylex" "one" %}
 
-Although I missed out on the top eight, I still [traveled to Amsterdam by myself to attend Magic Con](https://guildmagesforum.tw/MagicCon-Amsterdam/), and [rethought the meaning of this journey amid the European summer scenery and the company of friends](https://hackmd.io/@cephille/Hy_FaTDwA). That is also what led to the new chapter of the story at Magic Spotlight: Final Fantasy a year later.
+Although I missed out on the top eight, I still [traveled to Amsterdam by myself to attend Magic Con](https://guildmagesforum.tw/en/MagicCon-Amsterdam/), and [rethought the meaning of this journey amid the European summer scenery and the company of friends](https://hackmd.io/@cephille/Hy_FaTDwA). That is also what led to the new chapter of the story at Magic Spotlight: Final Fantasy a year later.
 
 #### [20240914 桌遊侍 Standard Store Championship](https://www.facebook.com/share/p/1C3LmpEXsZ/)
 
@@ -101,7 +101,7 @@ Takeaway this time: [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-t
 
 From this event on, I entered an inner-demon state of "I don't lose much against anything else, but I never win against Domain Ramp". Looking back, my mindset had probably cracked a bit, and I wasn't aware of this state at the time. I still enjoyed the process of iterating and refining the deck very much, but as I kept failing at MITQs, my self-doubt grew more and more serious.
 
-#### [20241129 Deep Dive: Learning Dimir Midrange from Reid Duke](https://guildmagesforum.tw/Deep-Dive-Reid-Duke-Dimir-Midrange/)
+#### [20241129 Deep Dive: Learning Dimir Midrange from Reid Duke](https://guildmagesforum.tw/en/Deep-Dive-Reid-Duke-Dimir-Midrange/)
 
 Looking back to this point, I am still quite proud that I tried to write this Deep Dive. As for why I wanted to write this article, mainly I needed to watch others' games and, through the advice RD gave, establish a baseline in my own mind. After writing this article, I also rebuilt my confidence in my understanding of Dimir midrange.
 

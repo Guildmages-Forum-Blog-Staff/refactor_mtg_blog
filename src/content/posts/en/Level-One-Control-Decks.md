@@ -26,7 +26,7 @@ Wizards of the Coast column: Feature
 Date: October 6, 2014
 Author: Reid Duke
 
-Magic: The Gathering is a complex game, with many battles to face and many opportunities to gain an advantage. Last week we explored [aggro decks](https://guildmagesforum.tw/Level-One-Aggro-Decks/), which excel at using tempo to win games. In the world of Constructed, however, there are countless possible strategies, each focused on a different aspect of the game and gaining an advantage by different means.
+Magic: The Gathering is a complex game, with many battles to face and many opportunities to gain an advantage. Last week we explored [aggro decks](https://guildmagesforum.tw/en/Level-One-Aggro-Decks/), which excel at using tempo to win games. In the world of Constructed, however, there are countless possible strategies, each focused on a different aspect of the game and gaining an advantage by different means.
 
 Control decks are the polar opposite of aggro decks. Aggro pursues speed, while control is built for the long game. While the aggro deck is busy executing its own plan to win, the control deck works to hold the opponent in check and win the game later at a suitable moment. We call them "control decks" because their goal is not to kill the opponent quickly but simply to dominate the game. Their first priority is to stop the opponent from executing their game plan. It is a very effective strategy, and especially appeals to players who enjoy long and often more complex games.
 

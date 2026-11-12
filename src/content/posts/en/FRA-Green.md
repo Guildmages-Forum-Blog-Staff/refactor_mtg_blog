@@ -17,7 +17,7 @@ excerpt: "Use trampling creatures to beat the heck out of the scumbag blue plane
 
 Fractured Reality (FRA) prerelease events take place on September 25, 2026, with the official release a week later on October 2, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of FRA Limited overviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/FRA-Mechanism/)
+- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 
@@ -111,7 +111,7 @@ Comment: A very good curve filler; using the ability to remove the opponent's fl
 {% mtgpick "fra" 116 %}
 Rating: 2.5
 Comment: The former king is back. This set has quite a few surveil and mill spells, so growing to 4/5 shouldn't be hard.
-Also, Tarmogoyf checks the card types in all players' graveyards! Please double-check when counting toughness. If there is no instant in the graveyards and the opponent casts [No Admittance](https://scryfall.com/card/fra/89/no-admittance) targeting a 2/3 Tarmogoyf, Tarmogoyf won't die! For the detailed rules, see [this article](https://guildmagesforum.tw/What-is-SBA/).
+Also, Tarmogoyf checks the card types in all players' graveyards! Please double-check when counting toughness. If there is no instant in the graveyards and the opponent casts [No Admittance](https://scryfall.com/card/fra/89/no-admittance) targeting a 2/3 Tarmogoyf, Tarmogoyf won't die! For the detailed rules, see [this article](https://guildmagesforum.tw/en/What-is-SBA/).
 
 {% mtgpick "fra" 117 %}
 Rating: 2.0

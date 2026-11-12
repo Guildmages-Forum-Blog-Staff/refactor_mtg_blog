@@ -15,7 +15,7 @@ excerpt: "裘達: Welcome everyone to the world of MTG! This time I will be cosp
 
 FINAL FANTASY (FIN) holds its Prerelease events on June 6, 2025. Want to know more about how each card rates in Limited, along with some recommendations? Then check out this series of FIN Limited reviews!
 
-- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/FIN-mechanism/)
+- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Grading Scale
 

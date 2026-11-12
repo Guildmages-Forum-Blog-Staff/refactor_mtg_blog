@@ -38,7 +38,7 @@ Please allow me to be lazy for a moment and cite an earlier article, [How Newbie
 Friday, June 13, 2025 ~~Friday the 13th, no less~~ . Thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for generously providing the venue, which let us hold this offline reader gathering. The event officially started at 18:30~
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/630f5ffd9064.webp)
->First, a group photo ~~while we happened to be waiting for two members stuck in traffic~~ . Taking the chance to give special thanks to [cephille](/authors/cephille/), [ZHAN](/authors/ZHAN/), and [faintmama](/authors/faintmama/) for their efforts, which made the gathering run smoothly.
+>First, a group photo ~~while we happened to be waiting for two members stuck in traffic~~ . Taking the chance to give special thanks to [cephille](/en/authors/cephille/), [ZHAN](/en/authors/ZHAN/), and [faintmama](/en/authors/faintmama/) for their efforts, which made the gathering run smoothly.
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/350e0e50d6be.webp)
 >Everyone's here and the draft officially begins! The eight players each open their first Play Booster and fall into the struggle and thrill of "Hmm, which card should I take..."
@@ -73,20 +73,20 @@ Maybe the next person playing cards with us will be you?
 >Running out of jokes! Anyway, it's a row of players who have all picked their valuable cards and built seriously, starting their battles!
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/9bcfe7552025.webp)
->In the first round, [T1BloodMoon](/authors/T1BloodMoon/) faced [Jru](/authors/JruMTG/), who hadn't brought sleeves ~~if I'd known, I wouldn't have lent him any, hmph~~ .
+>In the first round, [T1BloodMoon](/en/authors/T1BloodMoon/) faced [Jru](/en/authors/JruMTG/), who hadn't brought sleeves ~~if I'd known, I wouldn't have lent him any, hmph~~ .
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/db764ede6f18.webp)
->Facing Peter's turn-one [Cecil, Dark Knight](https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin) onslaught, [Chennel](/authors/Chennel/) smiled helplessly ~~being handsome is great, even awkwardness looks good~~ .
+>Facing Peter's turn-one [Cecil, Dark Knight](https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin) onslaught, [Chennel](/en/authors/Chennel/) smiled helplessly ~~being handsome is great, even awkwardness looks good~~ .
 
 ## Wrap-Up
 
-The off-table winner of the day was definitely [Chennel](/authors/Chennel/)! He not only opened the Bahamut [Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut), but also [Akroma's Will](https://scryfall.com/card/fca/21/akromas-will) and Yoshitaka Amano's [Dark Ritual](https://scryfall.com/card/fca/8/dark-ritual) ~~that's outrageous, is he driving an armored truck of luck?~~ . Congratulations to everyone for spending an enjoyable evening, and we're also glad to get together with old friends and new ones.
+The off-table winner of the day was definitely [Chennel](/en/authors/Chennel/)! He not only opened the Bahamut [Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut), but also [Akroma's Will](https://scryfall.com/card/fca/21/akromas-will) and Yoshitaka Amano's [Dark Ritual](https://scryfall.com/card/fca/8/dark-ritual) ~~that's outrageous, is he driving an armored truck of luck?~~ . Congratulations to everyone for spending an enjoyable evening, and we're also glad to get together with old friends and new ones.
 As a member of 魔風集會所, I'm very glad to have had this opportunity to try leading newcomers to understand and enjoy draft more deeply. Magic's strengths are definitely its depth and its irreplaceable interactivity, and it's precisely because of these qualities that after falling into the pit, we've been squatting deep inside it for ages, XD. Likewise, we understand how much guidance is needed during the beginner phase, so once again thanks to [睿卡潮玩](https://www.facebook.com/963Ruika) for exploring with us, as we try to share the joy and logic of this game with an ever wider world through repeated online and offline interactions.
 That's the event record for **Final Fantasy: Our First Reader Draft Meetup**. If you're curious about how the picks went that day, please read the players' sharing that follows.
 
 ## Player Feedback
 
-### [Chennel](/authors/Chennel/)'s Sharing:
+### [Chennel](/en/authors/Chennel/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 Definitely seeing the super bomb [Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut) right away in my first pack and taking it without a second thought. After that I started worrying about how to build a deck that could summon Bahamut. After the first round of picks, I found that the Landfall-related pieces had all been taken, so a Blue-Green ramp theme probably wouldn't work. After taking [Syr Konrad, the Grim](https://scryfall.com/card/fca/10/syr-konrad-the-grim) with the fourth pick of the first pack, I started thinking about going Black-Green, but judging by the cards passed from the first pack, black removal was very rare, so starting in pack two I chose to add blue to fill out the deck's removal, and ended up with a Sultai-colored control deck.
@@ -116,7 +116,7 @@ Perhaps this will surprise everyone, but the most important pick was actually [B
 The most critical turns today were nothing other than the first game of Round 2: against Red-White Equipment. For nearly ten turns with my life down to single digits, I blocked with small creatures while continuously building board and hand advantage, and finally found an answer and successfully turned the game around. After the match I chatted with my opponent: that's just how this game is, as long as you haven't truly lost, you can't give up.
 
 #### Do you like draft? Any draft memories worth looking back on?
-I remember one time going to Taoyuan to play a sealed-draft MITQ, and in one round I was paired against [cephille](/authors/cephille/). In the last two turns of game two, he used Treasures to make two mana of a third color, and in a deck mostly Red-Blue he cast the two-black-mana [Gisa, the Hellraiser](https://scryfall.com/card/otj/89/gisa-the-hellraiser) and reaped the win directly. To this day I still have a vivid memory of that match.
+I remember one time going to Taoyuan to play a sealed-draft MITQ, and in one round I was paired against [cephille](/en/authors/cephille/). In the last two turns of game two, he used Treasures to make two mana of a third color, and in a deck mostly Red-Blue he cast the two-black-mana [Gisa, the Hellraiser](https://scryfall.com/card/otj/89/gisa-the-hellraiser) and reaped the win directly. To this day I still have a vivid memory of that match.
 
 #### How would you recommend draft?
 To me, draft is the best medium for building the basic logic of this game, because besides the most basic combat it cares about very limited resource management and deckbuilding. In this format you must know your 40 cards inside out, and every decision has a big effect on winning or losing.
@@ -127,7 +127,7 @@ To me, draft is the best medium for building the basic logic of this game, becau
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/0ec3e571bc3b.webp)
 >Peter's deck for the day.
 
-### [T1BloodMoon](/authors/T1BloodMoon/)'s Sharing:
+### [T1BloodMoon](/en/authors/T1BloodMoon/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 The king [Kenrith, the Returned King](https://scryfall.com/card/fca/23/kenrith-the-returned-king), my first pick of the first pack, helped me gain life like crazy in matches, and his blue ability let me draw the opponent out. Afterward, not many people took the Blue-White artifact route, so I got all of those, including two [White Auracite](https://scryfall.com/card/fin/41/white-auracite), a very strong artifact removal spell.
@@ -147,7 +147,7 @@ Although it doesn't have the higher bomb-count ceiling that sealed does, draft's
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/995cfb0550ea.webp)
 >T1BloodMoon's deck for the day.
 
-### [Jru](/authors/JruMTG/)'s Sharing:
+### [Jru](/en/authors/JruMTG/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 All the removal cards.
@@ -191,7 +191,7 @@ During matches you can observe the opponent's deck logic and make use of your ow
 [Gilgamesh, Master-at-Arms](https://scryfall.com/card/fin/139/gilgamesh-master-at-arms). Thanks to this card's enter and attack abilities, I could call an Equipment with Hero onto the battlefield with a high probability every turn.
 
 #### How did the key turns of today go?
-When playing against [Chennel](/authors/Chennel/), he summoned [Summon: Shiva](https://scryfall.com/card/fin/78/summon:-shiva) and started the first chapter of the Saga, keeping my [Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon) in a tapped + stunned state (and the second chapter was also tap + stun... what a headache). This kept me from attacking with [Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon) and transforming it, so the game couldn't be turned around and I lost in the end.
+When playing against [Chennel](/en/authors/Chennel/), he summoned [Summon: Shiva](https://scryfall.com/card/fin/78/summon:-shiva) and started the first chapter of the Saga, keeping my [Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon) in a tapped + stunned state (and the second chapter was also tap + stun... what a headache). This kept me from attacking with [Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon) and transforming it, so the game couldn't be turned around and I lost in the end.
 
 #### Please share your feelings about taking part in the draft
 As a rookie who's been in the game for half a year, I can count the number of drafts I've played on one hand... I'm very happy to have joined this draft, and thanks also to 魔風集會所 for the careful explanations and the suggestions from the sidelines. The overall play experience was great!
@@ -202,7 +202,7 @@ As a rookie who's been in the game for half a year, I can count the number of dr
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/3fea95f7cf20.webp)
 >怎麼喝都不夠's deck for the day.
 
-### [晉安](/authors/mm/)'s Sharing:
+### [晉安](/en/authors/mm/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 [Firion, Wild Rose Warrior](https://scryfall.com/card/fin/137/firion-wild-rose-warrior). The main reason I chose this card is that when the deck's core has Equipment, it can quickly provide attack opportunities and generate lots of damage. Seeing him as the first card of the first pack basically decided that I'd play the Red-White theme.

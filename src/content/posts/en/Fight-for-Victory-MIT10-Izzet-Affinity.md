@@ -15,7 +15,7 @@ categories:
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Fight-for-Victory-MIT10-Izzet-Affinity/).
 
 ## Foreword
-I'm [許碩恩](https://x.com/KhoSekun), and I'm very grateful to [Guildmage’s Forum](https://guildmagesforum.tw/) for inviting me to write, giving me the chance to share my experience at this MIT. Besides winning MIT Round 10, I'm probably the current record holder for MIT top 8 heartbreak. Starting from the first round, I've played in MIT nine times, losing in the top 8 four of them, and only on the fifth top 8 did I finally earn a Pro Tour invitation. Besides briefly sharing my preparation and the course of the event for MIT Round 10, this article will also talk about what went through my mind during those four top 8 losses and share how I adjusted my mindset for competitive events, in the hope of helping you fellow Spikes.
+I'm [許碩恩](https://x.com/KhoSekun), and I'm very grateful to [Guildmage’s Forum](https://guildmagesforum.tw/en/) for inviting me to write, giving me the chance to share my experience at this MIT. Besides winning MIT Round 10, I'm probably the current record holder for MIT top 8 heartbreak. Starting from the first round, I've played in MIT nine times, losing in the top 8 four of them, and only on the fifth top 8 did I finally earn a Pro Tour invitation. Besides briefly sharing my preparation and the course of the event for MIT Round 10, this article will also talk about what went through my mind during those four top 8 losses and share how I adjusted my mindset for competitive events, in the hope of helping you fellow Spikes.
 
 {% mtgcard "Spike, Tournament Grinder" "ust" %}
 

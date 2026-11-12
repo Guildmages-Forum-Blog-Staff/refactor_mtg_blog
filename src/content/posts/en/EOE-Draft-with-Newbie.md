@@ -41,26 +41,26 @@ No doubt about it, it's that great a game! After the draft, the cards you picked
 
 ## The Event
 
-On Sunday, August 3, 2025, thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for warmly providing the venue, and [郭老闆](https://guildmagesforum.tw/Interview-Kuo-Tzu-Ching/)... is really so cool. The event officially began at 14:00! The troops were assembled and we set off to fly into space!
+On Sunday, August 3, 2025, thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for warmly providing the venue, and [郭老闆](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/)... is really so cool. The event officially began at 14:00! The troops were assembled and we set off to fly into space!
 
 Actually, Guildmages' Forum originally wanted to use this event to tour card stores around Taipei, introducing different stores along the way and meeting more newcomers in person, but... we've been so busy and tired lately. Maybe next time? ~~Organizations that share our goal of promotion are welcome to get in touch and discuss~~ 
 
 Tired or not, draft is too fun not to play. Let the battle begin!
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/64d7c9a38234.webp)
->A group photo first is always the right call. Welcome 小耶, 小熊, 亦麒, and 語桐 to the draft crowd! Thanks also to [Jru](/authors/JruMTG/) for getting me into the group photo and for hosting the event.
+>A group photo first is always the right call. Welcome 小耶, 小熊, 亦麒, and 語桐 to the draft crowd! Thanks also to [Jru](/en/authors/JruMTG/) for getting me into the group photo and for hosting the event.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/abd46cc4ad5b.webp)
 >A man picking cards is at his most handsome ~~though usually with a bit of a double chin~~ ~~can't be helped, we all have one~~.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/cdf4fafcccd7.webp)
->[XSBeeble](/authors/XSBeeble/) checking prices ~~watching the market~~ while grabbing cards. He has apparently forgotten what analysis he wrote himself, and your author boldly suspects he's bluffing us.
+>[XSBeeble](/en/authors/XSBeeble/) checking prices ~~watching the market~~ while grabbing cards. He has apparently forgotten what analysis he wrote himself, and your author boldly suspects he's bluffing us.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/a56e9ff7ef6f.webp)
 >Being unable to decide is both joyful and painful... wait, Skeleton again!? Your author suddenly felt the stirrings of love.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/abb16c184ec0.webp)
->Guildmages' Forum has a famous saying: "When in doubt, ask [Jru](/authors/JruMTG/)." Being able to ask right away when you're confused is the best kind of practice ~~your author often asks him questions too XD~~.
+>Guildmages' Forum has a famous saying: "When in doubt, ask [Jru](/en/authors/JruMTG/)." Being able to ask right away when you're confused is the best kind of practice ~~your author often asks him questions too XD~~.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/ea27cd0e9fe4.webp)
 >Someone's hands are misbehaving, relying on how fast they pick to sneak a peek at the next pack ~~guess who's the cheekiest~~ ~~the answer isn't hard~~.
@@ -69,10 +69,10 @@ Tired or not, draft is too fun not to play. Let the battle begin!
 >Picked and built, ready for real battle! But before that, the gear has to be set up properly ~~Chiikawa, kawaii ne~~.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/fdb357edeec6.webp)
->[XSBeeble](/authors/XSBeeble/) looking all around while shuffling after a mulligan. I figure he doesn't want [cephille](/authors/cephille/) to read any of his thoughts, and a psychological war is clashing fiercely in their minds.
+>[XSBeeble](/en/authors/XSBeeble/) looking all around while shuffling after a mulligan. I figure he doesn't want [cephille](/en/authors/cephille/) to read any of his thoughts, and a psychological war is clashing fiercely in their minds.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/9a30e8abb16e.webp)
->The End Stone is so strong that [XSBeeble](/authors/XSBeeble/) drew his own deck down to a single card ~~truly naughty~~.
+>The End Stone is so strong that [XSBeeble](/en/authors/XSBeeble/) drew his own deck down to a single card ~~truly naughty~~.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/233e06b3104c.webp)
 >OK, officially decked himself, an epic, joyful self-destruct!
@@ -81,7 +81,7 @@ Tired or not, draft is too fun not to play. Let the battle begin!
 
 ## Wrap-Up
 
-The three-win winner of the day was [T1BloodMoon](/authors/T1BloodMoon/), who had two sweepers and even opened the ultimate of [Tezzeret, Cruel Captain](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain) (your author got beaten black and blue)! But beyond that, the winners off the table were even more impressive XD. 小耶 opened [Ancient Tomb](https://scryfall.com/card/eos/1/ancient-tomb) with her very first pick of her very first pack, which is just amazing! The hard-working host [Jru](/authors/JruMTG/) also opened [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler), the poster child of blue. Honestly, it was a really rich Play Booster box, and it's making your author itch to crack more.
+The three-win winner of the day was [T1BloodMoon](/en/authors/T1BloodMoon/), who had two sweepers and even opened the ultimate of [Tezzeret, Cruel Captain](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain) (your author got beaten black and blue)! But beyond that, the winners off the table were even more impressive XD. 小耶 opened [Ancient Tomb](https://scryfall.com/card/eos/1/ancient-tomb) with her very first pick of her very first pack, which is just amazing! The hard-working host [Jru](/en/authors/JruMTG/) also opened [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler), the poster child of blue. Honestly, it was a really rich Play Booster box, and it's making your author itch to crack more.
 
 Guildmages' Forum is delighted to have another chance to spend time with our readers and happily accompany players who had never touched limited through the experience. Every time we see our reader friends say goodbye with smiles, our sense of accomplishment is especially huge: Magic: The Gathering really is so fun, and we're lucky to play the role of guiding newcomers.
 
@@ -93,13 +93,13 @@ That's the event record of **Edge of Eternities: Playing Deep into Space with Ou
 
 ## Players' Thoughts
 
-### [cephille](/authors/cephille/)'s Share:
+### [cephille](/en/authors/cephille/)'s Share:
 
 #### What do you think was the most important pick today, and why? Please give the single card name.
 The sweeper [Beyond the Quiet](https://scryfall.com/card/eoe/7/beyond-the-quiet), first pick of the first pack. Taking a sweeper in the first pack let me head toward a white-based value midrange/control deck, and in matches I also reaped many benefits from opponents holding back because of it. Even when I didn't have a sweeper in hand, it let me survive a few more turns, and maybe I could really top-deck a sweeper to turn the game around.
 
 #### How were the key turns today?
-The key turn was probably game three against [XSBeeble](/authors/XSBeeble/). After I swept the board, he set down [The End Stone](https://scryfall.com/card/eoe/240/the-endstone) and started drawing like mad, locking his life at 10. Later, when he used [Consult the Star Charts](https://scryfall.com/card/eoe/51/consult-the-star-charts) to look at 9 and take 2 (he picked up his whole library, with 9 left), I knew I had won, because he was going to deck himself XD
+The key turn was probably game three against [XSBeeble](/en/authors/XSBeeble/). After I swept the board, he set down [The End Stone](https://scryfall.com/card/eoe/240/the-endstone) and started drawing like mad, locking his life at 10. Later, when he used [Consult the Star Charts](https://scryfall.com/card/eoe/51/consult-the-star-charts) to look at 9 and take 2 (he picked up his whole library, with 9 left), I knew I had won, because he was going to deck himself XD
 
 #### Do you like draft? Do you have any memorable draft memories?
 I love draft, and there are many memorable draft memories. I'll just tell the most recent one: a friend and I both took red-white, and both of us had a creature with [Pain for All](https://scryfall.com/card/eoe/151/pain-for-all) attached. Mine was 6/7, the opponent's was 3/3; I had 3 life left, the opponent had 11. I attacked, the opponent didn't block, and after combat I used [Orbital Plunge](https://scryfall.com/card/eoe/149/orbital-plunge) to deal 6 damage to my 6/7, and [Pain for All](https://scryfall.com/card/eoe/151/pain-for-all) reflected the damage and killed the opponent. In draft you can sometimes win in non-intuitive ways, and pulling it off feels very fulfilling.
@@ -113,7 +113,7 @@ Limited is a game that's fair to all players. As long as you do a bit of homewor
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/be1aeba089e4.webp)
 >cephille's deck for the day.
 
-### [XSBeeble](/authors/XSBeeble/)'s Share:
+### [XSBeeble](/en/authors/XSBeeble/)'s Share:
 
 #### What do you think was the most important pick today, and why? Please give the single card name.
 Fifth pick of the first pack: [Mm'menon, Uthros Exile](https://scryfall.com/card/eoe/221/mmmenon-uthros-exile).
@@ -121,7 +121,7 @@ I could tell that red-blue artifact aggro was an open theme, so heading in that 
 [Nanoform Sentinel](https://scryfall.com/card/eoe/71/nanoform-sentinel) paired with any big Warp creature can quickly turn a spaceship into a creature. Today I paired it with [Mechanozoa](https://scryfall.com/card/eoe/66/mechanozoa), which can tap and put a stun counter, which happened to clear the way for [Nanoform Sentinel](https://scryfall.com/card/eoe/71/nanoform-sentinel).
 
 #### How were the key turns today?
-Game one against [cephille](/authors/cephille/): I used [The End Stone](https://scryfall.com/card/eoe/240/the-endstone) to refill my resources, and then drew myself to death.
+Game one against [cephille](/en/authors/cephille/): I used [The End Stone](https://scryfall.com/card/eoe/240/the-endstone) to refill my resources, and then drew myself to death.
 ~~You two remember each other so well, why not just get together?~~
 
 #### How would you recommend draft?
@@ -133,13 +133,13 @@ Draft costs more in time and in organizing a group, but the money cost is actual
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/2acaaedece45.webp)
 >XSBeeble's deck for the day.
 
-### [faintmama](/authors/faintmama/)'s Share:
+### [faintmama](/en/authors/faintmama/)'s Share:
 
 #### What do you think was the most important pick today, and why? Please give the single card name.
 First pick of the third pack, taking the C-rarity card [Drill Too Deep](https://scryfall.com/card/eoe/133/drill-too-deep) over a money card, which proves I'm a stubborn player whose knees don't buckle in front of valuable cards. [Drill Too Deep](https://scryfall.com/card/eoe/133/drill-too-deep) also showed up repeatedly later and played a key role.
 
 #### How were the key turns today?
-Today's key was that I ate [T1BloodMoon](/authors/T1BloodMoon/)'s [Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad) (and X was 6, which is just outrageous). Even though I tried hard to build around sweepers, what has to be eaten has to be eaten. Sweepers in limited are really strong, so I hope everyone grabs them and cherishes them. As for me, I didn't grab a single one and didn't play fast enough, so all I can do is say I'm toast~
+Today's key was that I ate [T1BloodMoon](/en/authors/T1BloodMoon/)'s [Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad) (and X was 6, which is just outrageous). Even though I tried hard to build around sweepers, what has to be eaten has to be eaten. Sweepers in limited are really strong, so I hope everyone grabs them and cherishes them. As for me, I didn't grab a single one and didn't play fast enough, so all I can do is say I'm toast~
 
 #### Do you like draft? Do you have any memorable draft memories?
 Life doesn't let me invest heavily in formats with a short shelf life, but I still really enjoy drafting with a few friends and talking trash while picking. I'm definitely not the best limited player, but I still enjoy the process of learning each card's ceiling, all while imagining that I'm about to crack a money card and win early through sheer spirit.
@@ -156,14 +156,14 @@ Draft is fun because of the cards, and also because of the people.
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/85ca88baa489.webp)
 >faintmama's deck for the day.
 
-### [T1BloodMoon](/authors/T1BloodMoon/)'s Share:
+### [T1BloodMoon](/en/authors/T1BloodMoon/)'s Share:
 
 #### What do you think was the most important pick today, and why? Please give the single card name.
 For the money pick, it was [Tezzeret, Cruel Captain](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain), first pick of the third pack. I took it right away without even looking at what the other cards were.
 As for the deck's direction, it came from the key green cards in the second pack, like the 4/4 trampler [Icecave Crasher](https://scryfall.com/card/eoe/191/icecave-crasher) and the land-ramping spaceship [Larval Scoutlander](https://scryfall.com/card/eoe/194/larval-scoutlander). I personally think the green creatures in this set are of really high quality, and after noticing nobody was taking green, I slowly moved into it.
 
 #### How were the key turns today?
-The key turns were game three against [faintmama](/authors/faintmama/) and game one against [cephille](/authors/cephille/), where I cast [Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad), turned the game around directly, and took the win.
+The key turns were game three against [faintmama](/en/authors/faintmama/) and game one against [cephille](/en/authors/cephille/), where I cast [Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad), turned the game around directly, and took the win.
 When faintmama had filled the board and was about to finish me next turn, he called out "Sweeper?" for me, and then I drew [Zero Point Ballad](https://scryfall.com/card/eoe/128/zero-point-ballad) and swept with X=6 for the reversal XD.
 
 #### Do you like draft? Do you have any memorable draft memories?

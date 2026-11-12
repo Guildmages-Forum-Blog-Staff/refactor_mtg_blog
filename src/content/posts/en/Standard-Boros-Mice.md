@@ -26,7 +26,7 @@ When I started browsing deck sites like MTGGoldfish, I noticed [Heartfire Hero](
 
 Compared with the Mono-Red aggro deck from before the rotation, the two play quite differently. Mono-Red Mice depends much more on whether you have creatures on board and on the order you play your cards, and its card filtering is weaker than the old red aggro deck. So when I first practiced Mice aggro on MTGA, there was always a wall in front of me: I reached Diamond but could never climb to Mythic, and this went on for two months.
 
-It wasn't until [DSK](https://scryfall.com/sets/dsk) arrived that I finally decided to turn mono-red Mice into Boros Mice. I want to thank Guildmages' Forum for the article [Duskmourn Standard Preliminary](https://guildmagesforum.tw/DSK-Standard-Preliminary/), which showed the [Boros Mouse](https://guildmagesforum.tw/DSK-Standard-Preliminary/#%E7%B4%85%E7%99%BD%E5%AE%B6%E9%BC%A0%EF%BC%88Boros-Mouse%EF%BC%89) list. Without that article as a core, I would never have had the follow-up ideas.
+It wasn't until [DSK](https://scryfall.com/sets/dsk) arrived that I finally decided to turn mono-red Mice into Boros Mice. I want to thank Guildmages' Forum for the article [Duskmourn Standard Preliminary](https://guildmagesforum.tw/en/DSK-Standard-Preliminary/), which showed the [Boros Mouse](https://guildmagesforum.tw/en/DSK-Standard-Preliminary/#boros-mouse) list. Without that article as a core, I would never have had the follow-up ideas.
 
 ## Deck Introduction
 

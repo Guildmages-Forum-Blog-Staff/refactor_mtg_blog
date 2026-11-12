@@ -27,11 +27,11 @@ This article was written by casual Commander player ZHAN. Besides material gathe
 
 ## Major Changes
 ### Booster Changes
-Starting in 2024, with the release of Murders at Karlov Manor, we officially said goodbye to Set Boosters and Draft Boosters. Magic now brings players the Play Booster, a combination of the two. Play Boosters combine the best elements of Draft Boosters and Set Boosters, aiming to deliver an excellent pack-opening experience and to be a great product for Limited (quoted from the [Magic: The Gathering website](https://magic.wizards.com/zh-Hant/products/murders-at-karlov-manor)). Of course all sorts of other products are still around; I am only pointing out the booster change here, and you can find the full product lineup on the Magic website. Guildmages' Forum also wrote an [article](https://guildmagesforum.tw/About-Play-Boosters/) about this change.
+Starting in 2024, with the release of Murders at Karlov Manor, we officially said goodbye to Set Boosters and Draft Boosters. Magic now brings players the Play Booster, a combination of the two. Play Boosters combine the best elements of Draft Boosters and Set Boosters, aiming to deliver an excellent pack-opening experience and to be a great product for Limited (quoted from the [Magic: The Gathering website](https://magic.wizards.com/zh-Hant/products/murders-at-karlov-manor)). Of course all sorts of other products are still around; I am only pointing out the booster change here, and you can find the full product lineup on the Magic website. Guildmages' Forum also wrote an [article](https://guildmagesforum.tw/en/About-Play-Boosters/) about this change.
 
 ### Combat Phase Adjustments
 At the very end of 2024, Wizards announced the biggest news of the year: an [adjustment](https://magic.wizards.com/en/news/feature/foundations-mechanics) to the combat rules (the rules change is covered in the last section, and you can also see the official community's [post](https://www.facebook.com/share/p/19X8iEkY1R/)). In the official words: **combat should be simple**.
-The author thinks this is a considerable change that both the attacker and the defender can use effectively. For details, see the official information, or the [turn structure explainer](https://guildmagesforum.tw/Round-Process/).
+The author thinks this is a considerable change that both the attacker and the defender can use effectively. For details, see the official information, or the [turn structure explainer](https://guildmagesforum.tw/en/Round-Process/).
 
 
 ---
@@ -42,7 +42,7 @@ The author thinks this is a considerable change that both the attacker and the d
 
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/2d5866db676f.webp)
 
-On February 9, 2024, Murders at Karlov Manor was released and we followed the story to Ravnica. Besides the return of older mechanics like investigate, this set added new mechanics such as Disguise and Collect evidence. For the details, you can revisit Guildmages' Forum's [Murders at Karlov Manor mechanics breakdown](https://guildmagesforum.tw/MKM-mechanism/) from back then!
+On February 9, 2024, Murders at Karlov Manor was released and we followed the story to Ravnica. Besides the return of older mechanics like investigate, this set added new mechanics such as Disguise and Collect evidence. For the details, you can revisit Guildmages' Forum's [Murders at Karlov Manor mechanics breakdown](https://guildmagesforum.tw/en/MKM-mechanism/) from back then!
 > After a full year of new set releases, we now know that Standard contains Disguise, Cloak, and Manifest Dread all at once, and these three abilities put many face-down cards on the table (the author is quite puzzled why two different face-down effects appear in the same Standard environment). Besides using tokens to help tell that the face-down cards on the board have ward 2, players also need to keep cards that entered face down through different abilities in two separate zones without overlapping them, and remember to turn the face-down cards up and show them to the opponent after the game ends.
 
 ++**New Mechanics**++
@@ -74,7 +74,7 @@ Overall, the author thinks Murders at Karlov Manor has not many eye-catching car
 ### [Outlaws of Thunder Junction](https://magic.wizards.com/zh-Hant/products/outlaws-of-thunder-junction)
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/6f58c4a5ecae.webp)
 
-On April 19, 2024, Outlaws of Thunder Junction was released. That wicked man Oko brought the Gang of outlaws to the brand-new plane of Thunder Junction, ready to "saddle up and rule the wild west". Speaking of outlaws and saddles, this set's new mechanics are Outlaw, Saddle, and Commit a crime. For detailed mechanic introductions, you can revisit the [Outlaws of Thunder Junction mechanics breakdown](https://guildmagesforum.tw/OTJ-mechanism/).
+On April 19, 2024, Outlaws of Thunder Junction was released. That wicked man Oko brought the Gang of outlaws to the brand-new plane of Thunder Junction, ready to "saddle up and rule the wild west". Speaking of outlaws and saddles, this set's new mechanics are Outlaw, Saddle, and Commit a crime. For detailed mechanic introductions, you can revisit the [Outlaws of Thunder Junction mechanics breakdown](https://guildmagesforum.tw/en/OTJ-mechanism/).
 
 ++**New Mechanics**++
 Outlaw
@@ -102,7 +102,7 @@ In recent years we have seen more and more mechanics dug up and remade. In the a
 ### [Bloomburrow](https://magic.wizards.com/en/products/bloomburrow)
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/966d689818bb.webp)
 
-On August 2, 2024, Magic welcomed a group of cute little animals with the release of Bloomburrow, ~~which I trust left all you beast-lovers unable to control yourselves~~ and shook up the Standard environment. Naturally, Bloomburrow's mechanics are designed around these cute animals. The new mechanics Offspring and Valiant strengthen creature-focused decks. For detailed mechanic introductions, you can revisit the [Bloomburrow mechanics breakdown](https://guildmagesforum.tw/BLB-mechanism/).
+On August 2, 2024, Magic welcomed a group of cute little animals with the release of Bloomburrow, ~~which I trust left all you beast-lovers unable to control yourselves~~ and shook up the Standard environment. Naturally, Bloomburrow's mechanics are designed around these cute animals. The new mechanics Offspring and Valiant strengthen creature-focused decks. For detailed mechanic introductions, you can revisit the [Bloomburrow mechanics breakdown](https://guildmagesforum.tw/en/BLB-mechanism/).
 
 ++**New Mechanics**++
 Offspring
@@ -139,7 +139,7 @@ This set brought players many brand-new mechanics and successfully brought fresh
 ### [Duskmourn: House of Horror](https://magic.wizards.com/en/products/duskmourn-house-of-horror)
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/d3fc0a95fb5e.webp)
 
-On September 27, 2024, Duskmourn: House of Horror, themed on "horror and Cthulhu elements", was released. Besides the various "homages" you can spot in the card art, the new mechanics Impending and Manifest Dread fit the theme, and their powerful effects shook up every format. For detailed mechanic introductions, you can revisit the [Duskmourn mechanics breakdown](https://guildmagesforum.tw/DSK-mechanism/).
+On September 27, 2024, Duskmourn: House of Horror, themed on "horror and Cthulhu elements", was released. Besides the various "homages" you can spot in the card art, the new mechanics Impending and Manifest Dread fit the theme, and their powerful effects shook up every format. For detailed mechanic introductions, you can revisit the [Duskmourn mechanics breakdown](https://guildmagesforum.tw/en/DSK-mechanism/).
 
 ++**New Mechanics**++
 Room
@@ -170,16 +170,16 @@ Although this set is also mainly refreshed old mechanics, the effects of many in
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/4eb9c1c5276a.webp)
 
 On November 15, 2024, the most shocking set of the year came out, and also the author's favorite set of the year: **Foundations**.
-Unlike previous Standard sets, **the cards in this set can be used in Standard for the next five years**, and there are as many as 512 of them. Besides classic cards from Magic's history, there are also new cards. For details, please read [How Foundations Impacts Standard](https://guildmagesforum.tw/Standard-Crushing-by-FDN/).
+Unlike previous Standard sets, **the cards in this set can be used in Standard for the next five years**, and there are as many as 512 of them. Besides classic cards from Magic's history, there are also new cards. For details, please read [How Foundations Impacts Standard](https://guildmagesforum.tw/en/Standard-Crushing-by-FDN/).
 
 ++**Summary**++
 
 So far we have reviewed the five Standard sets of 2024. If you want to know how each of this year's five Standard sets changed Standard, please be sure to read each set's Standard preliminary article:
-[Murders at Karlov Manor Standard Preliminary](https://guildmagesforum.tw/MKM-Standard-Preliminary/)
-[Outlaws of Thunder Junction Standard Preliminary](https://guildmagesforum.tw/OTJ-Standard-Preliminary/)
-[Bloomburrow Standard Preliminary](https://guildmagesforum.tw/BLB-Standard-Preliminary/)
-[Duskmourn Standard Preliminary](https://guildmagesforum.tw/DSK-Standard-Preliminary/)
-[Foundations Standard Preliminary](https://guildmagesforum.tw/FDN-Standard-Preliminary/)
+[Murders at Karlov Manor Standard Preliminary](https://guildmagesforum.tw/en/MKM-Standard-Preliminary/)
+[Outlaws of Thunder Junction Standard Preliminary](https://guildmagesforum.tw/en/OTJ-Standard-Preliminary/)
+[Bloomburrow Standard Preliminary](https://guildmagesforum.tw/en/BLB-Standard-Preliminary/)
+[Duskmourn Standard Preliminary](https://guildmagesforum.tw/en/DSK-Standard-Preliminary/)
+[Foundations Standard Preliminary](https://guildmagesforum.tw/en/FDN-Standard-Preliminary/)
 Or use the [CATEGORIES] menu at the top of Guildmages' Forum and choose [Construct] to read about the formats' environments and decks. New players are recommended to read the articles written for them under [Beginner], and beginners or veterans who want to improve at Limited are recommended to read the Limited-specific content under [Limited].
 
 ---
@@ -188,10 +188,10 @@ Or use the [CATEGORIES] menu at the top of Guildmages' Forum and choose [Constru
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/35509bbbd0c8.webp)
 
 This year's non-Standard releases were four sets in total: "[Ravnica Remastered](https://magic.wizards.com/zh-Hant/products/ravnica-remastered)", "[Fallout](https://magic.wizards.com/zh-Hant/products/fallout)", "[Modern Horizons 3](https://magic.wizards.com/zh-Hant/products/modern-horizons-3)", and "[Magic: The Gathering - Assassin's Creed](https://magic.wizards.com/zh-Hant/products/assassins-creed)" (so many!). Ravnica Remastered brought back the [shock lands](https://scryfall.com/search?q=set%3Arvr+%28oracle%3Apay+oracle%3A2%29+type%3Aland+%28game%3Apaper%29&unique=cards&as=grid&order=name). Magic: The Gathering - Assassin's Creed brought new cards to Modern and below, and many of its equipment shine in Commander. Fallout rarely brought new cards to Pioneer and below, including many reprints of staple cards, offering players a new way to obtain them. And our absolute star, **Modern Horizons 3**, directly affected the Modern environment. Not to mention the slaughter by [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom), which people who do not even play Modern have heard of. Besides the rise of new decks, many old decks were strengthened too, a real hundred schools of thought contending. Guildmages' Forum also has Modern-related articles:
-[Why Nadu Must Die: Aug 26th BnR Prediction](https://guildmagesforum.tw/Why-Nadu-Should-Die/)
-[Blue-Black Murktide's New Tech: Echo of Eons](https://guildmagesforum.tw/Modern-Dimir-Murktide/)
-[Modern Mardu Energy: When Panthers Meet the One Ring](https://guildmagesforum.tw/Modern-Mardu-Energy/)
-[Why (I Think) The One Ring Must Die: Dec 16th BnR Prediction](https://guildmagesforum.tw/Why-The-One-Ring-Should-Die/)
+[Why Nadu Must Die: Aug 26th BnR Prediction](https://guildmagesforum.tw/en/Why-Nadu-Should-Die/)
+[Blue-Black Murktide's New Tech: Echo of Eons](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/)
+[Modern Mardu Energy: When Panthers Meet the One Ring](https://guildmagesforum.tw/en/Modern-Mardu-Energy/)
+[Why (I Think) The One Ring Must Die: Dec 16th BnR Prediction](https://guildmagesforum.tw/en/Why-The-One-Ring-Should-Die/)
 
 ---
 

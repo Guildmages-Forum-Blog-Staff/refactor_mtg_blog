@@ -19,7 +19,7 @@ excerpt: "Out of tricks? How boring."
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Kefka-Unrelenting/bddd6f8f2a3b.webp)
 
-In the previous deck article, [**Crossroads Divination: Standard Fatehold Aggro**](https://guildmagesforum.tw/Standard-Fatehold-Aggro/), we found a job for [Matoya, Archon Elder](https://scryfall.com/card/fin/62/matoya-archon-elder) from *[FINAL FANTASY](https://scryfall.com/sets/fin?as=grid&order=set)*. Of course, the potential of *[Reality Fracture](https://scryfall.com/sets/fra?as=grid&order=set)* goes beyond that. Does [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin), the final boss of FFVI and a mad artificial magitek mage, also have a suitable tech to play? Let's have you readers judge how well they fit together!
+In the previous deck article, [**Crossroads Divination: Standard Fatehold Aggro**](https://guildmagesforum.tw/en/Standard-Fatehold-Aggro/), we found a job for [Matoya, Archon Elder](https://scryfall.com/card/fin/62/matoya-archon-elder) from *[FINAL FANTASY](https://scryfall.com/sets/fin?as=grid&order=set)*. Of course, the potential of *[Reality Fracture](https://scryfall.com/sets/fra?as=grid&order=set)* goes beyond that. Does [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin), the final boss of FFVI and a mad artificial magitek mage, also have a suitable tech to play? Let's have you readers judge how well they fit together!
 
 ## Deck Analysis
 

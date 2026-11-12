@@ -17,7 +17,7 @@ excerpt: "Blue is the wellspring of the mind, symbolizing boundless resources"
 
 Fractured Reality (FRA) prerelease events run on September 25, 2026, with the official release one week later on October 2, 2026. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of FRA Limited overviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/FRA-Mechanism/)
+- For the mechanics, see this article: [Fractured Reality Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 

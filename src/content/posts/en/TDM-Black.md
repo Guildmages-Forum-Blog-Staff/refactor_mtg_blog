@@ -15,7 +15,7 @@ excerpt: "In an instant, the blade of death is thrown at the enemy, yet you will
 
 Tarkir: Dragonstorm (TDM) prerelease events run on April 4, 2025, with the official release one week later on April 11, 2025. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of TDM Limited overviews!
 
-- For the mechanics, see this article: [Tarkir: Dragonstorm Mechanics Breakdown](https://guildmagesforum.tw/TDM-mechanism/)
+- For the mechanics, see this article: [Tarkir: Dragonstorm Mechanics Breakdown](https://guildmagesforum.tw/en/TDM-mechanism/)
 
 ## Rating Scale
 

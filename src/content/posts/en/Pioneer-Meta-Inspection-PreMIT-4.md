@@ -16,14 +16,14 @@ authors:
 ## Before We Start
 
 This week's meta inspection is a roundup of RC data.
-Besides the European and Canadian RCs covered in [the previous post](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/), this time we're adding the results of the Australia/New Zealand RC, and we'll consolidate the data after going through the Australia/New Zealand results.
+Besides the European and Canadian RCs covered in [the previous post](https://guildmagesforum.tw/en/Pioneer-Meta-Inspection-20231007/), this time we're adding the results of the Australia/New Zealand RC, and we'll consolidate the data after going through the Australia/New Zealand results.
 
 ## The Benefits of Open List
 
 Some players may be playing in an open list event for the first time (me, for example), or simply want to understand the advantages open list brings, so before we begin, let's talk about how exactly an open list event differs from an ordinary one.
 The main point is that when mulliganing we know what deck the opponent is playing. For example, if we know the opponent is on aggro, we can keep a hand with plenty of removal, and if we know the opponent is playing combo, we switch to keeping hands with discard and more board pressure. That way you don't keep the wrong hand, get wrecked in game 1, and then have to claw back two games.
 
-Take Pioneer Rakdos Midrange as an example. In one of my earlier articles, [Something About Rakdos Midrange](https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/#Starting-Hands-Countermeasures-and-Mulligan), I mentioned that against slower decks such as combo and control we lean toward playing faster to avoid dragging the game out, while against aggro we have to find a way to stall into the late game and win on board/resource advantage.
+Take Pioneer Rakdos Midrange as an example. In one of my earlier articles, [Something About Rakdos Midrange](https://guildmagesforum.tw/en/Pioneer-Rakdos-Midrange/#starting-hands-countermeasures-and-mulligan), I mentioned that against slower decks such as combo and control we lean toward playing faster to avoid dragging the game out, while against aggro we have to find a way to stall into the late game and win on board/resource advantage.
 
 Or here's an example from a friend. In a previous MIT he played Mono-Green and was in the last-round pairing, sitting at the fourth or fifth table (I forget which). After looking at the decklist he saw his opponent was on Mono-White Humans with four copies of protection spells. Considering Mono-Green has a hard time in that matchup (turn 1 a 2/1, turn 2 Thalia, turn 3 Adeline, Resplendent Cathar, turn 4 Thalia's Lieutenant + Brave the Elements, all pushed in response before blockers by throwing Brave the Elements for protection from green), he intentionally drew with his opponent. He knew a draw might not get him into the top 8, but it was better than playing on, getting crushed and crashing out, with no chance to gamble on making top 8.
 
@@ -264,7 +264,7 @@ The two lists look about 87% alike. The thing to note is that they now play extr
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/cfe86a08d155.webp)
 
-It's much like the earlier European RC list, and you can find the details in [that article](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/#Fire-Color-Combo).
+It's much like the earlier European RC list, and you can find the details in [that article](https://guildmagesforum.tw/en/Pioneer-Meta-Inspection-20231007/#fire-color-combo).
 However, this deck chose to play more removal to resist aggro, and plays neither sweepers nor discard.
 
 ### Abzan Greasefang

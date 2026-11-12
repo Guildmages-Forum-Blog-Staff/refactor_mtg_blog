@@ -17,7 +17,7 @@ excerpt: "Red is the color of burning, much like love, and like a life fading aw
 
 Reality Fragments (FRA) will hold its prerelease events on September 25, 2026, and officially release one week later on October 2, 2026. Want to learn more about individual card ratings and advice for Limited? Then check out this series of FRA Limited overviews!
 
-- For the mechanics, see this article: [Reality Fragments Mechanics Breakdown](https://guildmagesforum.tw/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fragments Mechanics Breakdown](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 

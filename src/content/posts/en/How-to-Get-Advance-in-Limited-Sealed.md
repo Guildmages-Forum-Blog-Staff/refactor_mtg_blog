@@ -26,11 +26,11 @@ Okay, now that we have covered how these two formats work, let's move on to the 
 
 > **Note 2:** Some special draft sets, such as Double Masters (2XM), instead let you pick two cards at once for the first pick of each pack.
 
-## Pre-Game Homework: How Do You Find Limited Information? Using the Outlaws of Thunder Junction Limited Articles on [Guildmages' Forum](https://guildmagesforum.tw/) as an Example
+## Pre-Game Homework: How Do You Find Limited Information? Using the Outlaws of Thunder Junction Limited Articles on [Guildmages' Forum](https://guildmagesforum.tw/en/) as an Example
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Get-Advance-in-Limited-Sealed/af810d39beec.webp)
 
-Taking the Outlaws of Thunder Junction (OTJ) Limited format as a starting point, click the **"[OTJ](/categories/OTJ/)"** tag in the **"[Tag](/categories/)"** menu on [Guildmages' Forum](https://guildmagesforum.tw/) and you can see all the card ratings, initial looks at Limited themes, and mechanic introductions related to this BLB Limited format. Readers interested in earlier Limited formats can click the **"[Limited](/categories/Limited/)"** tag to find all Limited-related articles since Wilds of Eldraine (WOE).
+Taking the Outlaws of Thunder Junction (OTJ) Limited format as a starting point, click the **"[OTJ](/en/categories/OTJ/)"** tag in the **"[Tag](/en/categories/)"** menu on [Guildmages' Forum](https://guildmagesforum.tw/en/) and you can see all the card ratings, initial looks at Limited themes, and mechanic introductions related to this BLB Limited format. Readers interested in earlier Limited formats can click the **"[Limited](/en/categories/Limited/)"** tag to find all Limited-related articles since Wilds of Eldraine (WOE).
 
 For friends who struggle with English, you can also use the [Magic: The Gathering Traditional Chinese Card Search site](https://www.mtgct.com/) to look up the Chinese translations of every card since Traditional Chinese MTG was discontinued with Dominaria United (DMU) in September 2022. Earlier sets can be found on [scryfall](https://scryfall.com/), which has the various languages, including the sets that once had Traditional Chinese versions (Note 3).
 
@@ -53,7 +53,7 @@ One important piece of information up front: **in a 40-card sealed deck, you wil
 
 - Step 1.1 Sort the 84 cards you opened into piles by white, blue, black, red, green, multicolor, artifact, and land. Pull out the basic lands from the land pile and put them with the tokens and art cards.
 - Step 1.2 Line up each pile in order of mana value (Note 4) from lowest to highest, with lower mana value cards toward the top.
-- Step 1.3 Pull your rares / mythic rares out of each pile and quickly review the ratings and descriptions in the articles under the [OTJ](/categories/OTJ/) tag. If you can't understand them, you can ask other players or staff in the store.
+- Step 1.3 Pull your rares / mythic rares out of each pile and quickly review the ratings and descriptions in the articles under the [OTJ](/en/categories/OTJ/) tag. If you can't understand them, you can ask other players or staff in the store.
 - Step 1.4 Based on the initial evaluation in Step 1.3, pick out at most two or three colors that let you use as many of the highly rated rares / mythic rares as possible.
 
   > **Note 4:** That is the sum of the mana symbols in the upper right corner of each card and any numbers payable with any mana. For example, a red card costing 3RR has a total mana value of 3 + R + R = 5; a multicolor card costing WUBRG also has a total mana value of 5; and what about a multicolor card costing 1UURR? That's right, its total mana value is still 5!

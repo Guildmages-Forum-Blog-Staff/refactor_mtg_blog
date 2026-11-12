@@ -15,8 +15,8 @@ authors:
 
 Bloomburrow (BLB) holds its Prerelease on July 26, 2024, and is officially released one week later on August 2, 2024. Want to know more about how each card rates in Limited and what to pick? Then check out this series of BLB Limited guides!
 
-- For the mechanics, see this article: [Bloomburrow Mechanics Breakdown](https://guildmagesforum.tw/BLB-mechanism/)
-- For a first look at the Limited archetypes, see this article: [Bloomburrow Limited Preliminary Look](https://guildmagesforum.tw/BLB-Limited-Preliminary/)
+- For the mechanics, see this article: [Bloomburrow Mechanics Breakdown](https://guildmagesforum.tw/en/BLB-mechanism/)
+- For a first look at the Limited archetypes, see this article: [Bloomburrow Limited Preliminary Look](https://guildmagesforum.tw/en/BLB-Limited-Preliminary/)
 
 > This series of Limited guides is primarily about the ratings; some average cards, or cards with relatively simple abilities, will not get a specific comment.
 

@@ -15,7 +15,7 @@ excerpt: "Lands lay the foundation, artifacts arm the battlefield! Add the heavy
 
 Reality Fragments (FRA) will hold its prerelease events on September 25, 2026, and launch officially a week later on October 2, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of FRA Limited reviews!
 
-- For the mechanics, see this article: [Reality Fragments Mechanics Explained](https://guildmagesforum.tw/FRA-Mechanism/)
+- For the mechanics, see this article: [Reality Fragments Mechanics Explained](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 In addition, this FRA release includes 10 Special Guest ([Special Guest, SPG](https://scryfall.com/search?order=set&q=e%3Aspg+cn%E2%89%A5159+cn%E2%89%A4168&unique=prints)) cards. You can open 1 non-foil copy in every 55 regular Play Boosters, and they can be used in FRA Limited as well as in whichever formats the cards were originally legal in.
 

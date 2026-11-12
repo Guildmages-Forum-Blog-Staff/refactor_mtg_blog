@@ -15,7 +15,7 @@ excerpt: "A good class worth retaking, the best rare land in Limited, and that l
 
 Avatar: The Last Airbender will hold its Prerelease events on November 14, 2025. Want a better understanding of individual card ratings and advice for Limited? Then check out this series of TLA Limited overviews!
 
-- For an introduction to the mechanics, see this article: [Avatar: The Last Airbender Mechanics Breakdown](https://guildmagesforum.tw/TLA-Mechanism/)
+- For an introduction to the mechanics, see this article: [Avatar: The Last Airbender Mechanics Breakdown](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 
 ## Rating Scale

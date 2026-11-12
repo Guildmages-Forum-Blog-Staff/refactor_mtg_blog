@@ -87,7 +87,7 @@ I've played midrange, control, and combo decks. For the deck I decide to enter w
 
 As for classic games I've been through, besides the MIT #1 final mentioned above, with that topdecked [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize), at a Taipei GP one year I played the future world champion [高橋優太](https://mtg.fandom.com/wiki/Yuta_Takahashi), where I stopped his [Juggernaut](https://scryfall.com/card/fdn/255/juggernaut) with [Hornet Nest](https://scryfall.com/card/c21/192/hornet-nest), and 高橋優太 chose to just shovel his cards away; on Day 2 of that GP I got a super strong deck in the draft and beat [Nam Sung Wook](https://mtg.fandom.com/wiki/Sungwook_Nam); and at another Taipei GP, Shards of Alara sealed/draft, on Day 1 I beat players like [李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian) and [Martin Juza](https://mtg.fandom.com/wiki/Martin_J%C5%AFza) in a row, and then on Day 2 in the draft I got thoroughly beaten up by 李詩天 and that event's champion, 小室修... There are far too many matches against great players to tell them all, and they're all important memories burned into my head.
 
-#### Q8 (question from [faintmama](/authors/faintmama/)): Following on from the last question, has JT gained or lost anything from this overthinking trait?
+#### Q8 (question from [faintmama](/en/authors/faintmama/)): Following on from the last question, has JT gained or lost anything from this overthinking trait?
 
 A: I've actually lost quite a bit from it.
 Overthinking often makes me hesitant in how I pace my attacks, which is especially noticeable in limited. But in constructed, thinking more is relatively safe: it's easier to read what cards the opponent might have and play around them instead of falling into their traps.
@@ -95,7 +95,7 @@ Back to the last turn of the MIT #1 final: during the long think, I was imaginin
 
 #### Q9: I've always been curious that competitive players surely have their own particular habits at the table. Could you share something beyond the "cards" themselves? Do you have any near-superstitious habits, or tricks for hinting at things or misleading your opponent?
 
-A: I'm a Christian, so I say a prayer before tournaments (I hear MIT #5 champion [David Yeh](/authors/david-yeh/) does too).
+A: I'm a Christian, so I say a prayer before tournaments (I hear MIT #5 champion [David Yeh](/en/authors/david-yeh/) does too).
 As for the rest of the routine, it's about the same as most players. If I had to name something, I like to place my library sideways. At first it was because I saw 永銘 do it, and then I found it also made drawing smoother and peeking at cards easier XD. After that I always put my library sideways.
 When things feel like they're not going well, I'll try adjusting where the library sits, and there's nothing else particularly special. By the way, I used to see 米仔 (任穎津, PT HOU top 4) habitually tap mana for nothing to hint at having a certain card, or arrange his lands to make some kind of announcement, trying to create the feeling of "I might have that card."
 

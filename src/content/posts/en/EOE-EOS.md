@@ -20,7 +20,7 @@ excerpt: "The space set brings us utility lands in all kinds of planet designs. 
 
 Edge of Eternities prerelease events kick off on July 25, 2025. Want to know more about how each card rates in Limited, with some advice? Then check out this series of EOE Limited guides!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 Edge of Eternities: Stellar Sights (EOS) is a supplementary subset of the main set Edge of Eternities, and on average one appears in every 8 regular Play Boosters. All 45 cards in the EOS subset are reprinted lands, each with a different name, and they can be used in EOE Limited as well as in the formats where each card was originally legal. If you are supporting the main set's subtheme of "when ..., if you control a number of lands with different names, then ...", EOS is sure to be your best partner!
 

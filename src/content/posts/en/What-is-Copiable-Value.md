@@ -311,7 +311,7 @@ Let's review once more: does Lair of the Hydra's ability to become a creature mo
 
 ## Copying Double-Faced Permanents
 
-This topic was already discussed in detail in the article **[Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/DFC-Copy/)**, so here I will only quickly cover the most basic rules. For a more detailed rules analysis, please refer to that article.
+This topic was already discussed in detail in the article **[Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/en/DFC-Copy/)**, so here I will only quickly cover the most basic rules. For a more detailed rules analysis, please refer to that article.
 
 {% notel blue Copying Double-Faced Permanents, Example 1 %}
 ![707.8](https://images.guildmagesforum.tw/posts/What-is-Copiable-Value/da61cafa1efc.webp)
@@ -359,7 +359,7 @@ Suppose you use Dollhouse of Horrors to create a token copy of the black werewol
 > [Olag, Ludevic's Hubris](https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?back): When this creature transforms into Olag, Ludevic's Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic's Hubris, it's 4/4, it's a legendary blue and black Zombie in addition to its other colors and types.
 > [Enduring Angel // Angelic Enforcer](https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer): If you would lose the game, instead transform Enduring Angel and your life total becomes 3. Then if Enduring Angel didn't transform this way, you lose the game.
 
-This is a classic example also mentioned in **[Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/DFC-Copy/)**, so let's quickly review it once more.
+This is a classic example also mentioned in **[Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/en/DFC-Copy/)**, so let's quickly review it once more.
 
 You transform Ludevic, Necrogenius into Olag, Ludevic's Hubris, which becomes a copy of Enduring Angel. Later your life drops to 0, so Enduring Angel's ability applies and your life total becomes 3. What does your Olag look like afterward? Will it cause you to lose the game due to Enduring Angel's ability?
 

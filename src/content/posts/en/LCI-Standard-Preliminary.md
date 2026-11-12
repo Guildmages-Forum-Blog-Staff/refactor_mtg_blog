@@ -52,7 +52,7 @@ The gods of this set all have the ability to "return to the battlefield transfor
 
 ![Dimir Midrange](https://images.guildmagesforum.tw/posts/LCI-Standard-Preliminary/822897bac25b.webp)
 
-For more on the rules of double-faced cards, see this article: [Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/DFC-Copy/)
+For more on the rules of double-faced cards, see this article: [Transforming Double-Faced Cards and Copy Effects](https://guildmagesforum.tw/en/DFC-Copy/)
 
 ### Grixis Midrange
 
@@ -134,7 +134,7 @@ The Lost Caverns of Ixalan is an extremely unfriendly set for Azorius Control. [
 
 Fortunately, such traditional control is already quite rare these days, so even though such efficient hate cards came out, I expect their usage in the metagame won't be too large, and this set also gave Azorius Control two very key reinforcements: the transforming land [Restless Anchorage](https://scryfall.com/card/lci/280/restless-anchorage) and the clean removal [Get Lost](https://scryfall.com/card/lci/14/get-lost). With a transforming land, you effectively add 4 finishers, so some of the existing finisher slots can be swapped for more spells. The side effect of Get Lost giving the opponent two Maps is terrifying in Limited, but in Constructed it isn't much of a problem; Maps' activation being limited to sorcery speed makes the opponent's actions easier to predict, and compared with the Clue from [Fateful Absence](https://scryfall.com/card/mid/18/fateful-absence), which may directly draw an extra threat, exploring is also less likely to give the opponent an extra threat.
 
-This deck is adjusted from the existing list; because of the control-hate cards above, the removal ratio was adjusted. For the original list and explanation, see this article: [Standard Deck Recommendation: Classic Azorius Control](https://guildmagesforum.tw/Standard-UW-Control/).
+This deck is adjusted from the existing list; because of the control-hate cards above, the removal ratio was adjusted. For the original list and explanation, see this article: [Standard Deck Recommendation: Classic Azorius Control](https://guildmagesforum.tw/en/Standard-UW-Control/).
 
 ![Azorius Control](https://images.guildmagesforum.tw/posts/LCI-Standard-Preliminary/077d8f4a665b.webp)
 
@@ -200,7 +200,7 @@ For some reason, [Resplendent Angel](https://cards.scryfall.io/large/front/5/9/5
 
 ![](https://images.guildmagesforum.tw/posts/LCI-Standard-Preliminary/53bfd98d032d.webp)
 
-Please see another article on Guildmages' Forum: [Savage Stomp: Standard Gruul Dinosaurs](https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/)
+Please see another article on Guildmages' Forum: [Savage Stomp: Standard Gruul Dinosaurs](https://guildmagesforum.tw/en/Standard-Gruul-Dinosaurs/)
 
 ---
 

@@ -20,7 +20,7 @@ excerpt: "Red is like an all-purpose engine: it can ignite and it can accelerate
 
 Edge of Eternities will hold its prerelease events on July 25, 2025. Want to learn more about individual card ratings and advice for Limited? Then check out this series of EOE Limited overviews!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Breakdown](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Breakdown](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 ## Rating Scale
 

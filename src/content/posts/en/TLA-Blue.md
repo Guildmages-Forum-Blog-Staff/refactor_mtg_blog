@@ -15,7 +15,7 @@ excerpt: "Raise a wall of water and attack the opponent: Water Gun! Scald! Bubbl
 
 Avatar: The Last Airbender will hold its prerelease events on November 14, 2025. Want to learn more about how each card rates in Limited, with recommendations? Then check out this series of TLA Limited reviews!
 
-- For an introduction to the mechanics, see this article: [Avatar Mechanics Explained](https://guildmagesforum.tw/TLA-Mechanism/)
+- For an introduction to the mechanics, see this article: [Avatar Mechanics Explained](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 
 ## Rating Scale

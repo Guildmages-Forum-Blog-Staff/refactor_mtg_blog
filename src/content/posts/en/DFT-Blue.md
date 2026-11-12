@@ -15,7 +15,7 @@ excerpt: "Speed decides the winner, and blue defines what speed means"
 
 Aetherdrift (DFT) will hold its prerelease events on February 7, 2025, and officially launch one week later on February 14, 2025. Want to learn more about single-card ratings and recommendations in Limited? Then check out this DFT Limited primer series!
 
-- For the mechanics, see this article: [Aetherdrift Mechanics Breakdown](https://guildmagesforum.tw/DFT-mechanism/)
+- For the mechanics, see this article: [Aetherdrift Mechanics Breakdown](https://guildmagesforum.tw/en/DFT-mechanism/)
 
 ## Rating Scale
 

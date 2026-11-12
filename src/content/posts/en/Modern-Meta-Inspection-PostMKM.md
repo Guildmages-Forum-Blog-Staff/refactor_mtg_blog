@@ -23,7 +23,7 @@ So which new cards made it into the format? Let's find out.
 
 [Melee link](https://melee.gg/Tournament/View/54549)
 
-Let's start with the US RC. First, congratulations to [荒野騎士 ClarkShih](/authors/ClarkShih/) for finishing 28th with Temur Rhinos and qualifying for PT Seattle!
+Let's start with the US RC. First, congratulations to [荒野騎士 ClarkShih](/en/authors/ClarkShih/) for finishing 28th with Temur Rhinos and qualifying for PT Seattle!
 
 There were 1,331 players, again split over two days: nine Swiss rounds on day 1, then four Swiss rounds plus a top-8 single-elimination on day 2. Only players at 6-3 (18 points) or better after day 1 advanced to day 2.
 The event was streamed on Twitch again, but it was so late that I only watched a little bit.

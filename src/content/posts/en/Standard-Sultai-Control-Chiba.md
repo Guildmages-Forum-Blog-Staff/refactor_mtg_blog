@@ -18,7 +18,7 @@ categories:
 
 ## Introduction
 
-Hello everyone, I'm Patrick, that [stubborn player who only plays Sultai](https://guildmagesforum.tw/Standard-Sultai-Midrange/). Recently I took 9th place at MIT 12 and 64th place at the Chiba Spotlight, so I want to use this article to share my experience with the deck I used. I will explain the deckbuilding logic of the whole list, the individual cards I especially liked after actually playing them, and the matchups I think are easier to play. Since there is little information about this deck online, it is hard to find accurate enough statistics for reference; but if you want to try a type of control other than 4C or Jeskai, you might take a look.
+Hello everyone, I'm Patrick, that [stubborn player who only plays Sultai](https://guildmagesforum.tw/en/Standard-Sultai-Midrange/). Recently I took 9th place at MIT 12 and 64th place at the Chiba Spotlight, so I want to use this article to share my experience with the deck I used. I will explain the deckbuilding logic of the whole list, the individual cards I especially liked after actually playing them, and the matchups I think are easier to play. Since there is little information about this deck online, it is hard to find accurate enough statistics for reference; but if you want to try a type of control other than 4C or Jeskai, you might take a look.
 
 ## Deck Composition
 

@@ -15,7 +15,7 @@ excerpt: "Does that spell cost four?"
 
 FINAL FANTASY (FIN) will hold its Prerelease events on June 6, 2025. Want a better understanding of individual card ratings and advice for Limited? Then check out this series of FIN Limited overviews!
 
-- For an introduction to the mechanics, see this article: [FINAL FANTASY Mechanics Breakdown](https://guildmagesforum.tw/FIN-mechanism/)
+- For an introduction to the mechanics, see this article: [FINAL FANTASY Mechanics Breakdown](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Rating Scale
 

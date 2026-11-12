@@ -15,7 +15,7 @@ authors:
 
 ## Introduction
 
-> Recommended reading: [A New Approach to Standard Mono-Red Aggro](https://guildmagesforum.tw/Standard-Mono-Red-Aggro/). If you haven't read it yet, I suggest reading that article first and then continuing with this one.
+> Recommended reading: [A New Approach to Standard Mono-Red Aggro](https://guildmagesforum.tw/en/Standard-Mono-Red-Aggro/). If you haven't read it yet, I suggest reading that article first and then continuing with this one.
 
 After Murders at Karlov Manor (MKM) came out, the biggest impact on the Standard environment was of course the new Boros Convoke deck. But I think Mono-Red Aggro also gained three pieces: [Pyrotechnic Performer](https://scryfall.com/card/mkm/140/pyrotechnic-performer), [Fugitive Codebreaker](https://scryfall.com/card/mkm/127/fugitive-codebreaker), and the familiar [Shock](https://scryfall.com/card/mkm/144/shock), which is returning to Standard too!!
 

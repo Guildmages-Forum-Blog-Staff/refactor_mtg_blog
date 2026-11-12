@@ -20,7 +20,7 @@ excerpt: "Big starships for every color! And 10 more alien artifacts join the pa
 
 Edge of Eternities holds its Prerelease events on July 25, 2025. Want to know more about how each card rates in Limited, along with some recommendations? Then check out this series of EOE Limited reviews!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 ## Grading Scale
 

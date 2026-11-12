@@ -69,16 +69,16 @@ That wraps up the recommendation segment. Now let's officially dive into the hig
 >Thanks to [睿卡潮玩](https://www.facebook.com/963Ruika) for promoting limited with us. Of course we have to take the chance to promote them a bit.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/3332bb879f4a.webp)
->[ZHAN](/authors/ZHAN/), the real man who carries all the copy for our SPM limited analysis, seems to be picking extra seriously this time?
+>[ZHAN](/en/authors/ZHAN/), the real man who carries all the copy for our SPM limited analysis, seems to be picking extra seriously this time?
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/f2db9ec6e8e3.webp)
 >Okay, the other side is much more relaxed and cheerful. One long table, two different moods.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/64285dd9a954.webp)
->[T1BloodMoon](/authors/T1BloodMoon/), holding a token, suddenly murmured: "I'm so hungry, I skipped lunch..."
+>[T1BloodMoon](/en/authors/T1BloodMoon/), holding a token, suddenly murmured: "I'm so hungry, I skipped lunch..."
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/080884bc8261.webp)
->[JerobaMTG](/authors/JerobaMTG/), 博升 and [Jru](/authors/JruMTG/) start discussing, and 博升 later pulled off a slick Web-slinging play too.
+>[JerobaMTG](/en/authors/JerobaMTG/), 博升 and [Jru](/en/authors/JruMTG/) start discussing, and 博升 later pulled off a slick Web-slinging play too.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/5d77ce00b2b2.webp)
 >Drafting is done and the battles begin with fervor! It's perfectly normal to glance at what the next table is playing while shuffling.
@@ -91,7 +91,7 @@ That wraps up the recommendation segment. Now let's officially dive into the hig
 
 ## Wrap-Up
 
-The undefeated players that day were [faintmama](/authors/faintmama/), who hard-swept the board every game with [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath), and [Jru](/authors/JruMTG/), who didn't settle on a color in the first pack and picked up the key cards of as many themes as possible. [faintmama](/authors/faintmama/) also earned the title of off-table winner of the day by picking eight red cards (and had even passed three more red cards...). From what we saw that day, the number of rares left everyone thoroughly satisfied.
+The undefeated players that day were [faintmama](/en/authors/faintmama/), who hard-swept the board every game with [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath), and [Jru](/en/authors/JruMTG/), who didn't settle on a color in the first pack and picked up the key cards of as many themes as possible. [faintmama](/en/authors/faintmama/) also earned the title of off-table winner of the day by picking eight red cards (and had even passed three more red cards...). From what we saw that day, the number of rares left everyone thoroughly satisfied.
 
 However, winning and cards aren't necessarily the most important part. After the event, we heard readers say, "Draft is more fun and synergistic than I imagined" and "This is the most fun I've had in a draft so far," and that feedback made the point of the event very clear to us. I have to praise SPM's Web-slinging ability once more: it lets newbies feel that they've made excellent decisions, and it also captures the most classic flavor of Marvel's Spider-Man.
 
@@ -101,7 +101,7 @@ That's the event record for **Marvel's Spider-Man: A Crossover Set That Ages Lik
 
 ## Player Feedback
 
-### [JerobaMTG](/authors/JerobaMTG/)'s Sharing:
+### [JerobaMTG](/en/authors/JerobaMTG/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 [Anti-Venom, Horrifying Healer](https://scryfall.com/card/spm/1/anti-venom-horrifying-healer). My first pick of the day, a super bomb with a very steep casting cost. Opponents today just conceded when they saw it come down.
@@ -121,7 +121,7 @@ Draft is a great format that adds fun to opening packs: you don't just open pack
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/5eda8c7ec8cc.webp)
 >JerobaMTG's deck for the day.
 
-### [Jru](/authors/JruMTG/)'s Sharing:
+### [Jru](/en/authors/JruMTG/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 
@@ -145,7 +145,7 @@ In a newbie's first few drafts, you'll surely have the feeling of "Who am I, whe
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/0148b7eed8ba.webp)
 >Jru's deck for the day.
 
-### [ZHAN](/authors/ZHAN/)'s Sharing:
+### [ZHAN](/en/authors/ZHAN/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 I think it was the two copies of [Spider-Man India](https://scryfall.com/card/spm/151/spider-man-india). I originally thought one was enough, but since I had no other good creatures to stabilize the board, I still took the second. I drew it reliably throughout the matches, but because of matchup dynamics, it couldn't come down and show its advantage every game.
@@ -166,7 +166,7 @@ Draft can be enjoyed casually with a few friends, or you can compete seriously f
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/961d53b211d2.webp)
 >ZHAN's deck for the day.
 
-### [T1BloodMoon](/authors/T1BloodMoon/)'s Sharing:
+### [T1BloodMoon](/en/authors/T1BloodMoon/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 [Silk, Web Weaver](https://scryfall.com/card/spm/145/silk-web-weaver), first pick of pack one, and [Supportive Parents](https://scryfall.com/card/spm/119/supportive-parents), second pick of pack one. Seeing her today, I kept wanting to look for an infinite combo, namely [Silk, Web Weaver](https://scryfall.com/card/spm/145/silk-web-weaver) + [Supportive Parents](https://scryfall.com/card/spm/119/supportive-parents) + two of [Arachne, Psionic Weaver](https://scryfall.com/card/spm/2/arachne-psionic-weaver) / [Spider-Man, Web-Slinger](https://scryfall.com/card/spm/16/spider-man-web-slinger), which would make infinite 1/1 Human Citizens. Sadly I only picked up one of the latter (lol).
@@ -180,7 +180,7 @@ One turn, with [Supportive Parents](https://scryfall.com/card/spm/119/supportive
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/990a4c59d554.webp)
 >T1BloodMoon's deck for the day.
 
-### [faintmama](/authors/faintmama/)'s Sharing:
+### [faintmama](/en/authors/faintmama/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 Definitely [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath), my second pick of pack two, which won me every match. [Shriek, Treblemaker](https://scryfall.com/card/spm/144/shriek-treblemaker), my third pick of pack two, was actually crucial too, but at the time I had no idea how awesome she was, XD.
@@ -209,7 +209,7 @@ I think the most important one today was the first pick of pack two, choosing be
 The key turn was when the opponent successfully resolved [Parker Luck](https://scryfall.com/card/spm/60/parker-luck). By then the opponent's hand was getting a bit dry, and I had finally controlled the board with removal, but my life total was a bit low. The two options were mainly to use [Superior Spider-Man](https://scryfall.com/card/spm/155/superior-spider-man) to copy [Morbius the Living Vampire](https://scryfall.com/card/spm/137/morbius-the-living-vampire), or to remove the two 4/3s on the opponent's side. One was extremely conservative and the other extremely gambling, and working backward from the result, a middle path of killing one plus making a copy might have been better.
 
 #### Please share your feelings about taking part in the draft
-I thought the overall atmosphere was great. Besides getting to experience a fairly new set (I wasn't very interested originally, but after this I'm left wanting more), I also cleared up many blind spots in my picking and deckbuilding through discussion with veterans, and I feel my limited skills went up a notch. Thanks also to [faintmama](/authors/faintmama/) for the invitation, and to [睿卡潮玩](https://www.facebook.com/963Ruika) and [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for sponsoring this event.
+I thought the overall atmosphere was great. Besides getting to experience a fairly new set (I wasn't very interested originally, but after this I'm left wanting more), I also cleared up many blind spots in my picking and deckbuilding through discussion with veterans, and I feel my limited skills went up a notch. Thanks also to [faintmama](/en/authors/faintmama/) for the invitation, and to [睿卡潮玩](https://www.facebook.com/963Ruika) and [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for sponsoring this event.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/18eadbca735f.webp)
 >毓謙's draft picks, left to right, top to bottom.
@@ -223,7 +223,7 @@ I thought the overall atmosphere was great. Besides getting to experience a fair
 It should be the two copies of [Rhino, Barreling Brute](https://scryfall.com/card/spm/140/rhino-barreling-brute) I picked. Although it costs 7, it has Vigilance, Trample and Haste all at once, so as soon as it hits the battlefield it puts huge pressure on the opponent, and it refills your hand too.
 
 #### How did the key turns of today go?
-My last match against [faintmama](/authors/faintmama/). I set up the board smoothly early on, used a few low-cost creatures to cut down the opponent's life, and used the Web-slinging ability to return [Spider-Girl, Legacy Hero](https://scryfall.com/card/spm/149/spider-girl-legacy-hero) to hand to add more creatures to the board. Unfortunately, the opponent's [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath) swept the board directly, and with too few cards left in hand, the game turned around.
+My last match against [faintmama](/en/authors/faintmama/). I set up the board smoothly early on, used a few low-cost creatures to cut down the opponent's life, and used the Web-slinging ability to return [Spider-Girl, Legacy Hero](https://scryfall.com/card/spm/149/spider-girl-legacy-hero) to hand to add more creatures to the board. Unfortunately, the opponent's [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath) swept the board directly, and with too few cards left in hand, the game turned around.
 
 #### Please share your feelings about taking part in the draft
 This was my third time joining a draft, and I still don't really know how to pick cards. I changed the colors I wanted to play midway through the picks, so I had some trouble at the deckbuilding stage. Luckily the other veterans were very willing to give me advice and helped me adjust colors and the ratio of creatures to lands. In the matches, my opponents were also very warm and answered my questions, which let me pull off a nice combo. That made me quite happy!

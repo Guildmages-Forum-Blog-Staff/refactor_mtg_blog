@@ -13,7 +13,7 @@ authors:
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../DSK-Limited-Preliminary/).
 
-The rules introduction for Duskmourn's mechanics will not be repeated in this article. Readers who need it are welcome to go back and read this one: [Duskmourn Mechanics Explained](https://guildmagesforum.tw/DSK-mechanism/)
+The rules introduction for Duskmourn's mechanics will not be repeated in this article. Readers who need it are welcome to go back and read this one: [Duskmourn Mechanics Explained](https://guildmagesforum.tw/en/DSK-mechanism/)
 
 > The content of this article is adapted and expanded from the [Duskmourn: House of Horror](https://mtg.fandom.com/wiki/Duskmourn:_House_of_Horror) entry on the MTG wiki. In addition, this article was written before the DSK prerelease began and is only meant to give readers a preliminary understanding of the set. If some content turns out to be wrong or in need of adjustment during later Limited practice, readers are welcome to leave a comment or send a private message with suggestions on the [Guildmages' Forum 魔風集會所 Facebook page](https://www.facebook.com/guildmagesforumtw). Thank you!
 

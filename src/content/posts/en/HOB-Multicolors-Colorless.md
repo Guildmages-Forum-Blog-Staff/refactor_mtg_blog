@@ -18,7 +18,7 @@ excerpt: "How will the epic Battle of the Five Armies from The Hobbit films be r
 
 The Hobbit (HOB) prerelease events run on August 7, 2026, with the official release a week later on August 14, 2026. Want to know more about how individual cards rate in limited, with recommendations? Then check out this series of HOB limited guides!
 
-- For the mechanics, see this article: [The Hobbit Mechanics Explained](https://guildmagesforum.tw/HOB-Mechanism/)
+- For the mechanics, see this article: [The Hobbit Mechanics Explained](https://guildmagesforum.tw/en/HOB-Mechanism/)
 
 ## Color Pair Themes
 

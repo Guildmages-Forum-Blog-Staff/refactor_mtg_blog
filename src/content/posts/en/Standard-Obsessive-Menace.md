@@ -41,7 +41,7 @@ That's right, our generous newspaper boss, [J. Jonah Jameson](https://scryfall.c
 [Decklist](https://www.mtggoldfish.com/deck/7470148#paper)
 ![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/2692d99bb3e1.webp)
 
-For this deck's basic structure, please refer to the earlier article [Hollow Menace](https://guildmagesforum.tw/Standard-Void-Menace/
+For this deck's basic structure, please refer to the earlier article [Hollow Menace](https://guildmagesforum.tw/en/Standard-Void-Menace/
 ). The original version emphasized offense and expensive reanimation, but after adding [Obsessive Pursuit](https://scryfall.com/card/tla/112/obsessive-pursuit), the deck's makeup had to increase the weight of sacrifice, so in the new version I removed the more aggressive creature picks and added the new one-mana menace creature that gives a [Clue](https://scryfall.com/card/ttla/18/clue) when it dies, [Callous Inspector](https://scryfall.com/card/tla/89/callous-inspector), and the menace slasher [Sawblade Skinripper](https://scryfall.com/card/dsk/231/sawblade-skinripper), which, whenever you sacrifice a permanent on your turn, deals damage to any target at end of turn equal to the number sacrificed. In addition, since [Obsessive Pursuit](https://scryfall.com/card/tla/112/obsessive-pursuit) keeps draining your life, and the condition of sacrificing three or more permanents to gain lifelink has a certain threshold, the two-mana slot keeps the lifelink creature [Nullpriest of Oblivion](https://scryfall.com/card/fdn/611/nullpriest-of-oblivion) to improve the player's survivability.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/ffe6384a1b9a.webp)

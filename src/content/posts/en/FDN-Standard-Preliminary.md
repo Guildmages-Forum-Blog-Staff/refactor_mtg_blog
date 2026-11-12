@@ -47,7 +47,7 @@ According to the current announcements, FDN cards will stay legal in Standard un
 
 ### Combat Rules Change
 
-Starting with FDN, the combat phase gets a major rules change. Previously, after blockers were declared in the declare blockers step, if there were multiple blockers you had to immediately **"order the blockers"** for damage assignment. That process is gone: players no longer declare any damage assignment order, and can divide damage freely when damage is dealt. For more details on the combat rules, see the article: [Turn Structure Explained](https://guildmagesforum.tw/Round-Process/).
+Starting with FDN, the combat phase gets a major rules change. Previously, after blockers were declared in the declare blockers step, if there were multiple blockers you had to immediately **"order the blockers"** for damage assignment. That process is gone: players no longer declare any damage assignment order, and can divide damage freely when damage is dealt. For more details on the combat rules, see the article: [Turn Structure Explained](https://guildmagesforum.tw/en/Round-Process/).
 
 
 ---

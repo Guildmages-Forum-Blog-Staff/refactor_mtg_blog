@@ -15,7 +15,7 @@ excerpt: "Light and shadow, good and evil. The bond between a person and the wor
 
 Avatar: The Last Airbender has its prerelease events on November 14, 2025. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of TLA Limited reviews!
 
-- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/TLA-Mechanism/)
+- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 
 ## Rating Scale

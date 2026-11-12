@@ -16,7 +16,7 @@ categories:
 
 ## Foreword
 
-Thanks to [cephille](/authors/cephille/) for the invitation. Otherwise I would probably never have written an introduction this long in my entire life.
+Thanks to [cephille](/en/authors/cephille/) for the invitation. Otherwise I would probably never have written an introduction this long in my entire life.
 
 ## What Is Domain Zoo?
 

@@ -109,7 +109,7 @@ Back to this article's mono-blue Merfolk: we will first go through all the essen
 - Using Vial well takes real knowledge and experience: can you keep a hand with it? How do you pair it with your lands? These are all important considerations.
   > For example, the ideal case for Merfolk is Vial on turn 1 going up to 3 counters, then smoothly reaching 4 lands. That way Mutavault can be activated, and we still have room to cast a lord or make more combat tricks. With the number and value of three-drops increasing in today's environment, taking Vial up to three counters is the way to go. The benefit: our two-drops include 8-12 copies with flash, while the three-drops are what actually matter in the matchups now (three-mana lords/Mimics also complete a lord trick), so it carries a bigger threat than two counters.
 
-In summary, Vial speeds up the whole deck and gives every creature flash and the ability to not be countered. Note that in paper events, after activating it you should ask the opponent whether they want to respond, and only after confirming should you choose the creature to enter. If the opponent responds by destroying Vial, the ability resolves using the source's last known information. For the detailed rules, see: [When Are Triggered Ability Conditions Checked?](https://guildmagesforum.tw/Trigger-Check/)
+In summary, Vial speeds up the whole deck and gives every creature flash and the ability to not be countered. Note that in paper events, after activating it you should ask the opponent whether they want to respond, and only after confirming should you choose the creature to enter. If the opponent responds by destroying Vial, the ability resolves using the source's last known information. For the detailed rules, see: [When Are Triggered Ability Conditions Checked?](https://guildmagesforum.tw/en/Trigger-Check/)
 
 ![Tide Shaper](https://cards.scryfall.io/large/front/2/f/2ff414bc-6736-428b-bb60-9d62793a5ae5.jpg?1626095197)
 
@@ -117,7 +117,7 @@ In summary, Vial speeds up the whole deck and gives every creature flash and the
 
 - Automatically becomes a 2/2 when the opponent controls an Island, making it a nicely on-curve beater.
 - The kicked enter-the-battlefield ability turns a target land into an Island, which can clear the way for islandwalk or disrupt the opponent's mana. Against [Urza's Saga](https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301), thanks to how lore counters work you can blow up one of the opponent's lands outright; it is also a great answer to lands with special abilities, such as the Tron lands ([Urza's Tower](https://cards.scryfall.io/normal/front/9/b/9bb66579-0840-4ec3-aa6a-731874662dbb.jpg?1562592801), [Urza's Mine](https://cards.scryfall.io/normal/front/6/c/6c6c9f3e-6df7-459c-a1b0-d628f17bb7a6.jpg?1562591367) and [Urza's Power Plant](https://cards.scryfall.io/normal/front/c/9/c9a294bd-e6f6-4b88-b34c-135aff907b17.jpg?1562594234)), [Valakut, the Molten Pinnacle](https://cards.scryfall.io/normal/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1562611305) in Titan decks, [Urborg, Tomb of Yawgmoth](https://cards.scryfall.io/large/front/1/9/19e1224f-82cb-4f41-8739-f880cba61bbb.jpg?1562566720) and [Cabal Coffers](https://cards.scryfall.io/large/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1626101023) in mono-black, [Darksteel Citadel](https://cards.scryfall.io/normal/front/d/d/dd582037-8682-4738-b459-177a9d6e03b6.jpg?1599710411) in Affinity, or [Inkmoth Nexus](https://cards.scryfall.io/large/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1623098818) in Hammer decks.
-  > For the rules interaction between Urza's Saga and cards like Tide Shaper or Blood Moon, see this article: [Why Did Urza's Saga Sacrifice Itself?](https://guildmagesforum.tw/Saga-and-Moon/)
+  > For the rules interaction between Urza's Saga and cards like Tide Shaper or Blood Moon, see this article: [Why Did Urza's Saga Sacrifice Itself?](https://guildmagesforum.tw/en/Saga-and-Moon/)
 - When Vial puts it onto the battlefield, you can't pay the extra Kicker cost; that is only possible when casting it.
 
 ![Rishadan Dockhand](https://cards.scryfall.io/large/front/f/c/fc488a4c-2885-4727-8317-da93aee8fced.jpg?1626094834)
@@ -474,7 +474,7 @@ You probably don't want: FON, Spreading Seas
 - The opponent is also a creature deck that wins through combat, and most of its creatures don't have vigilance. So catching the right moment to race back is how you can turn the game around. Make good use of [Otawara, Soaring City](https://cards.scryfall.io/large/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960) and [Harbinger of the Tides](https://cards.scryfall.io/large/front/9/0/90f648d2-27be-4414-9e0a-5a3e4d5067ce.jpg?1592764587) to wreck the board, and tricks like [Merfolk Trickster](https://cards.scryfall.io/large/front/3/5/359b2f2b-7b58-47b6-b00c-8616f981e3a3.jpg?1562733961) can win you precious tempo differences.
 - Finally, many Rakdos cards, especially creatures, are sorcery-speed. As long as you avoid a few key combat tricks, our information is relatively murkier and our timing for plays more flexible than the opponent's. So if you make good use of this and carefully preserve your resources, you still have a chance to win.
 - In sideboard games, stay fully alert for [Engineered Explosives](https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112) and Fury, and keep countermeasures such as Tishana's Tidebinder.
-- For a detailed deck introduction, see: [Modern Rakdos Midrange Scam: The Overlord of Modern](https://guildmagesforum.tw/Modern-Rakdos-Scam/), where you can study further to work out your own Merfolk game plan against it.
+- For a detailed deck introduction, see: [Modern Rakdos Midrange Scam: The Overlord of Modern](https://guildmagesforum.tw/en/Modern-Rakdos-Scam/), where you can study further to work out your own Merfolk game plan against it.
   > Note: Fury (the red Elemental) was banned on 2023/12/4. The pressure on Merfolk should ease considerably.
 
 #### **Temur Rhinos (Crashing Footfalls)**
@@ -491,7 +491,7 @@ You probably don't want: Dismember, Spreading Seas, Subtlety
 - Merfolk Trickster can't remove tokens, but it can clear the way or buy time while you look for an opening.
 - In sideboard games you can be moderately aggressive about sculpting your hand to get Chalice of the Void; the huge advantage is worth the risk of the sculpting.
 - When the opponent Cascades on turn three, Vodalian Hexcatcher can be used directly as a counterspell.
-- For a detailed deck introduction, see: [Temur Rhinos: The Perfect Fusion of Aggression and Control](https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/).
+- For a detailed deck introduction, see: [Temur Rhinos: The Perfect Fusion of Aggression and Control](https://guildmagesforum.tw/en/Modern-Temur-Crashing-Footballs/).
 
 #### **Golgari Yawgmoth**
 
@@ -509,7 +509,7 @@ You probably don't want: Vodalian Hexcatcher, Tishana's Tidebinder, Subtlety
 - Cursed Totem is a bit clunky at two mana, but because it's the most direct way to disrupt the opponent's strategy, in sideboard games you can sculpt your hand to have at least Grafdigger's Cage or Cursed Totem.
 - Holding Subtlety or FON for Yawgmoth himself or for Chord of Calling may not be a good option, because the opponent can pivot to another direction at any time. So the advice for this matchup is: when your life total is high enough early, use Dismember to remove the acceleration pieces and keep growing the board to apply constant pressure.
 - The persist ability of Young Wolf can be countered by Tishana's, and can be beaten by Merfolk Trickster; pay attention to the fine details of the game.
-- For a detailed deck introduction, see: [A Guide for the Doctor Turned Chef](https://guildmagesforum.tw/Modern-Golgari-Yawgmoth/).
+- For a detailed deck introduction, see: [A Guide for the Doctor Turned Chef](https://guildmagesforum.tw/en/Modern-Golgari-Yawgmoth/).
 - Persist can be beaten by Trickster and Tishana's; make good use of them.
 - Since the format changed on 2024/12/4, Fury's departure may lead to a large resurgence of Yawgmoth decks. It's recommended to bring targeted cards straight into the sideboard.
 
@@ -525,7 +525,7 @@ You probably don't want: Harbinger of the Tides, Vodalian Hexcatcher, FON
 - So the key to the matchup is the same as against any control deck in the past: put the pressure early, go over the top with a more aggressive offense to rush the board, and then save removal for the Elementals and Omnath himself.
 - When we're on the play and have enough lords to rush the board, we usually don't need to deal with the opponent's two planeswalkers. If they cast Teferi, Time Raveler, respond by dropping all your flash Merfolk. If we're on the draw, watch out for Wrenn picking lands back up; with few blockers early, you should be able to push through it easily.
 - Tishana's Tidebinder is very strong in this matchup, with many high-value targets to counter: the Elementals, Wrenn, Omnath, [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500) and [The One Ring](https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1696020224)
-- For a detailed deck introduction, see: [Modern Scene: Four-Color Elementals](https://guildmagesforum.tw/Modern-4C-Elemental/).
+- For a detailed deck introduction, see: [Modern Scene: Four-Color Elementals](https://guildmagesforum.tw/en/Modern-4C-Elemental/).
   > Note: Up the Beanstalk was banned on 2023/12/4. Merfolk are less likely to fall far behind in the resource war from a resolved Beanstalk, and the counterspell in hand or Tishana's Tidebinder can be saved to aim at the opponent's Ring and Omnath, so the matchup should go from even to slightly favored.
 
 #### **Izzet Murktide**
@@ -540,7 +540,7 @@ You probably don't want: FON
 - The only thing that puts huge pressure on you is [Dragon's Rage Channeler](https://cards.scryfall.io/large/front/4/c/4ced112a-e775-4f97-97b3-74877e9dce12.jpg?1626096503), which can easily create one or two 3/3 fliers early. Merfolk have little answer to fliers, and bringing in Dismember feels a bit superfluous. The opponent will definitely have Islands, so push hard on pressure and the opponent will turn conservative.
 - Force the opponent to use their burn on creatures instead of going face.
 - It really is favored; there isn't much that needs pointing out.
-- For a detailed deck introduction, see: [Mio's Izzet Murktide List](https://guildmagesforum.tw/Modern-Izzet-Murktide/).
+- For a detailed deck introduction, see: [Mio's Izzet Murktide List](https://guildmagesforum.tw/en/Modern-Izzet-Murktide/).
 
 #### **Mono Black Coffer**
 
@@ -557,7 +557,7 @@ You probably don't want: Subtlety
 - Engineered Explosives in the sideboard is a major threat; don't let it resolve successfully, or at least keep Tishana's Tidebinder in hand.
 - The opponent's life total drops on its own early, they don't have many blockers, and the main deck usually has only one sweeper. So just keep three creatures on board and charge forward.
 - Attack first, then deploy creatures. If a creature gets killed, so be it; making the opponent spend their removal is an important part of the plan too.
-- For a detailed deck introduction, see: [Mono-Black Cabal Coffers: Play Cards by Lifegain, Easy and Relaxed](https://guildmagesforum.tw/Modern-Mono-Black-Coffers/).
+- For a detailed deck introduction, see: [Mono-Black Cabal Coffers: Play Cards by Lifegain, Easy and Relaxed](https://guildmagesforum.tw/en/Modern-Mono-Black-Coffers/).
 
 #### **Mono Green Tron**
 

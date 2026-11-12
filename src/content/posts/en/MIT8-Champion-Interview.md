@@ -96,7 +96,7 @@ A: After going to the Singapore GP in 2018, I couldn't attend the next month's C
 
 A: The first who comes to mind is 一刀 (洪珣皓), the 2018 national team qualifier champion. When I was gradually getting deeper into the tournament scene in high school, he was my first practice partner. Later he was less often at tournaments because of work, but he is definitely an important player who led me deeper into this game.
 
-And a player 蔡博仁, whom [俊廷](https://guildmagesforum.tw/MIT1-Champion-Interview/) also mentioned last time. I saw some new and different ideas from him, and some of them are worth drawing on.
+And a player 蔡博仁, whom [俊廷](https://guildmagesforum.tw/en/MIT1-Champion-Interview/) also mentioned last time. I saw some new and different ideas from him, and some of them are worth drawing on.
 
 Finally, the owner's wife at [童年往事](https://www.facebook.com/ChildHoodMTG). The first time I went to [童年往事](https://www.facebook.com/ChildHoodMTG) to draft, I felt pressure from the single-elimination format ~~a lot of pressure XD~~, but in such an environment I gradually trained my Limited fundamentals and skills, and so I improved a great deal.
 

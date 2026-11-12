@@ -18,7 +18,7 @@ excerpt: "Dwarf warriors, take up your war hammers! Charge!"
 
 The Hobbit (HOB) prerelease events run on August 7, 2026, with the official release one week later on August 14, 2026. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of HOB Limited overviews!
 
-- For the mechanics, see this article: [The Hobbit Mechanics Breakdown](https://guildmagesforum.tw/HOB-Mechanism/)
+- For the mechanics, see this article: [The Hobbit Mechanics Breakdown](https://guildmagesforum.tw/en/HOB-Mechanism/)
 
 ## Rating Scale
 

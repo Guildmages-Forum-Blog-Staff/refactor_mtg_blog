@@ -80,7 +80,7 @@ Federation is an ability word. It checks the number of creature subtypes among n
 
 Suppose you control only the two creatures in the example image above. Then the Federation value is 3 (Human, Scientist, Officer).
 
-Although [Changeling](https://guildmagesforum.tw/ECL-Mechanism/#changeling) creatures have every creature subtype, that includes Borg, so changeling creatures are ignored by Federation.
+Although [Changeling](https://guildmagesforum.tw/en/ECL-Mechanism/#changeling) creatures have every creature subtype, that includes Borg, so changeling creatures are ignored by Federation.
 
 
 

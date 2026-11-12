@@ -15,7 +15,7 @@ excerpt: "Red is speed, kacha! If you want to play aggro, you should splash at l
 
 Tarkir: Dragonstorm (TDM) prerelease events run on April 4, 2025, with the official release a week later on April 11, 2025. Want to know more about how individual cards rate in limited, with recommendations? Then check out this series of TDM limited guides!
 
-- For the mechanics, see this article: [Tarkir: Dragonstorm Mechanics Explained](https://guildmagesforum.tw/TDM-mechanism/)
+- For the mechanics, see this article: [Tarkir: Dragonstorm Mechanics Explained](https://guildmagesforum.tw/en/TDM-mechanism/)
 
 ## Rating Scale
 
@@ -173,7 +173,7 @@ Comment: This six-mana Dragon has a high casting cost and the conditions to trig
 
 In addition, as a lord for Dragons, it also creates extra synergy value with other Dragons, and it's the finisher many control and midrange decks dream of. Although the cost is high and it isn't as consistent as a top-tier bomb, its ceiling is very high and it fits particular color pairs and themes (such as Jeskai Flurry) extremely well, so it should be treated as an important signal card for moving into the colors.
 
-> For the rules of Storm, see an earlier article: [How Does Storm Work?](https://guildmagesforum.tw/How-does-Storm-Work/)
+> For the rules of Storm, see an earlier article: [How Does Storm Work?](https://guildmagesforum.tw/en/How-does-Storm-Work/)
 
 <!---124--->
 {% mtgpick "tdm" 124 %}

@@ -19,7 +19,7 @@ excerpt: "Speaking of blue you should think of wizards... what do you mean this 
 
 The Hobbit (HOB) will hold its prerelease events on August 7, 2026, and officially launch a week later on August 14, 2026. Want to learn more about how each card rates in Limited, with recommendations? Then check out this series of HOB Limited reviews!
 
-- For an introduction to the mechanics, see this article: [The Hobbit Mechanics Explained](https://guildmagesforum.tw/HOB-Mechanism/)
+- For an introduction to the mechanics, see this article: [The Hobbit Mechanics Explained](https://guildmagesforum.tw/en/HOB-Mechanism/)
 
 ## Rating Scale
 

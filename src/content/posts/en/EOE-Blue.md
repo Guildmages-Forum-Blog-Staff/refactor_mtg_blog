@@ -20,7 +20,7 @@ excerpt: "The universe is a bottle of clear blue, so your dream is the flower an
 
 Edge of Eternities prerelease events kick off on July 25, 2025. Want to know more about how each card rates in Limited, with some advice? Then check out this series of EOE Limited guides!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 ## Rating Scale
 

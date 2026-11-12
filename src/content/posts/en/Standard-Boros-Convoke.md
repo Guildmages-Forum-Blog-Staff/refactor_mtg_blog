@@ -90,5 +90,5 @@ Boros Convoke is a deck that demands aggressive mulliganing. We need to mulligan
 ## Tournament Thoughts
 
 Of the 5 MITs I've entered since I started playing MTG, this is my best result. It's a pity I was so close to qualifying for the PT this time, so I'll have to try again next event, and in the meantime wait for my annual leave to refill. I hope I can get a better result next time. Let's all work hard and get stronger together.
-Here I'd like to thank all my practice partners on 吉殺隊: [阿懋](/authors/zhi-mao/), 阿勳, [阿德](/authors/Enki/), 阿蘇, 阿軍, 蹦蹦, [KULA](/authors/david-yeh/), and everyone else I met at the tournament. Everyone played different decks, which gave me a thorough understanding of almost the entire format.
+Here I'd like to thank all my practice partners on 吉殺隊: [阿懋](/en/authors/zhi-mao/), 阿勳, [阿德](/en/authors/Enki/), 阿蘇, 阿軍, 蹦蹦, [KULA](/en/authors/david-yeh/), and everyone else I met at the tournament. Everyone played different decks, which gave me a thorough understanding of almost the entire format.
 If you'd like to discuss Boros Convoke, feel free to talk to me directly, and let's become top-tier convoke (and life-shortening) players together.

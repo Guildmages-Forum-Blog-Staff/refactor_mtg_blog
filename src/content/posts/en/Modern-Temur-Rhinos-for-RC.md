@@ -23,7 +23,7 @@ I'll start with a brief look at how the Modern metagame has shifted over the pas
 
 > Guildmage's Forum editor's note:
 >
-> Here is the [link](https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/) to 荒野騎士's previous Rhinos article. Readers are welcome to go back and see what changed between the two versions ~~Fury is gone~~.
+> Here is the [link](https://guildmagesforum.tw/en/Modern-Temur-Crashing-Footballs/) to 荒野騎士's previous Rhinos article. Readers are welcome to go back and see what changed between the two versions ~~Fury is gone~~.
 
 ---
 

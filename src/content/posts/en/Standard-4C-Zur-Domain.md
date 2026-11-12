@@ -15,7 +15,7 @@ excerpt: "Do you hit as hard as my Overlord? Do you draw as much as my beanstalk
 
 ## Introduction
 
-Hello everyone~ I'm Clark Shih (施兆恩), aka Wild Knight (荒野騎士). I originally meant to start writing this two or three months ago, but I held off because I didn't want to reveal my strategy before the tournament, and a new set was coming out soon too. But now the tournament is over, and [my Taiwanese teammate has qualified for the Pro Tour](https://guildmagesforum.tw/MIT-9-Review-sertyple/), so there's no reason not to write it, right?
+Hello everyone~ I'm Clark Shih (施兆恩), aka Wild Knight (荒野騎士). I originally meant to start writing this two or three months ago, but I held off because I didn't want to reveal my strategy before the tournament, and a new set was coming out soon too. But now the tournament is over, and [my Taiwanese teammate has qualified for the Pro Tour](https://guildmagesforum.tw/en/MIT-9-Review-sertyple/), so there's no reason not to write it, right?
 
 ## Deck Introduction
 

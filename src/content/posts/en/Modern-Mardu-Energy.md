@@ -406,7 +406,7 @@ I saw two Sorins in the opponent's hand and still no Ripper, so I took Voidwalke
 
 ### R3: VS Mono-Black Reanimator OXO
 
-For some reason I always run into this friend in round 3... (See the [Golgari Soulflayer](https://guildmagesforum.tw/Pioneer-Golgari-Soulflayer/) report for that time.)
+For some reason I always run into this friend in round 3... (See the [Golgari Soulflayer](https://guildmagesforum.tw/en/Pioneer-Golgari-Soulflayer/) report for that time.)
 Game 1, [Thoughtseize](https://scryfall.com/card/tsr/334/thoughtseize) in my opening hand,
 
 Opponent's hand:

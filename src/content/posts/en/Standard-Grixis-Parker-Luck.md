@@ -175,7 +175,7 @@ A blue sideboard is bound to pick up a few counterspells, but when [Geological A
 
 - **[Pyroclasm](https://scryfall.com/card/dsk/149/pyroclasm) (1):**
 
-You always want one burn spell against fast creature floods. Purely on functionality I actually prefer [Fire Magic](https://scryfall.com/card/fin/136/fire-magic), since being instant speed is very important against Dimir, but when [Geological Appraiser](https://scryfall.com/card/lci/150/geological-appraiser) flips a [Tiered](https://guildmagesforum.tw/FIN-mechanism/#%E5%88%86%E7%B4%9A%EF%BC%88Tiered%EF%BC%89) spell, if you want the lower option you have to dutifully pay extra, which is a pretty miserable situation.
+You always want one burn spell against fast creature floods. Purely on functionality I actually prefer [Fire Magic](https://scryfall.com/card/fin/136/fire-magic), since being instant speed is very important against Dimir, but when [Geological Appraiser](https://scryfall.com/card/lci/150/geological-appraiser) flips a [Tiered](https://guildmagesforum.tw/en/FIN-mechanism/#tiered) spell, if you want the lower option you have to dutifully pay extra, which is a pretty miserable situation.
 
 
 - **[Bitter Triumph](https://scryfall.com/card/tdc/173/bitter-triumph) (1) & [Molten Collapse](https://scryfall.com/card/lci/234/molten-collapse) (1):**

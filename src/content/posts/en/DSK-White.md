@@ -15,8 +15,8 @@ excerpt: "Welcome to Duskmourn, where there are maddening eerie sights, people p
 
 Duskmourn: House of Horror (DSK) holds its prerelease events on September 20, 2024, and officially releases a week later on September 27, 2024. Want to learn more about card ratings and advice for Limited? Then check out this series of DSK Limited overviews!
 
-- For the mechanics, see this article: [Duskmourn Mechanics Explained](https://guildmagesforum.tw/DSK-mechanism/)
-- For a first look at the Limited themes, see this article: [Duskmourn Limited Preliminary Look](https://guildmagesforum.tw/DSK-Limited-Preliminary/)
+- For the mechanics, see this article: [Duskmourn Mechanics Explained](https://guildmagesforum.tw/en/DSK-mechanism/)
+- For a first look at the Limited themes, see this article: [Duskmourn Limited Preliminary Look](https://guildmagesforum.tw/en/DSK-Limited-Preliminary/)
 
 ## Rating Scale
 

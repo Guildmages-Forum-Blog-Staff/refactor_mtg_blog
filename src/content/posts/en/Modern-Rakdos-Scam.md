@@ -15,7 +15,7 @@ authors:
 
 ## Before We Start
 
-I mentioned before that after LTR came out, Murktide Regent got pinged into stupidity by Orcish Bowmasters ([the sauce is here](/Modern-Mono-Black-Coffers/)). Following the spirit of "if you can't beat them, join them," I put together a Scam deck too.
+I mentioned before that after LTR came out, Murktide Regent got pinged into stupidity by Orcish Bowmasters ([the sauce is here](/en/Modern-Mono-Black-Coffers/)). Following the spirit of "if you can't beat them, join them," I put together a Scam deck too.
 Originally I wanted to play Death's Shadow, but after fiddling with it a bit it wasn't the feeling I expected. Maybe I've watched too many Legacy matches, but without [Daze](https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1562632115) and [Force of Will](https://cards.scryfall.io/large/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1562769672) I'm useless.
 
 Since I had already put the Bowmasters away, and I was missing The One Ring so I couldn't build Dimir Control or Coffers, I chose the lowest-budget route: joining Scam.

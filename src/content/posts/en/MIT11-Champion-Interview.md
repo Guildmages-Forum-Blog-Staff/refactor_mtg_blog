@@ -77,7 +77,7 @@ As for training camp preparation, in the past the whole team would fly directly 
 
 李詩天: At the beginning, of course, they worried "Can you really make a living playing cards... like this?" Later, as I gradually produced results and won prize money, my family gradually accepted it. By the MPL era, I signed as a full-time esports player with an official contract, and my family felt even more at ease. Although there were still some small frictions along the way, basically they were very supportive.
 
-Interviewer: [When 郭老闆 was interviewed earlier, he said](https://guildmagesforum.tw/Interview-Kuo-Tzu-Ching/) that he told his family neither the good nor the bad, so they didn't know what he was doing and had nothing to worry about.
+Interviewer: [When 郭老闆 was interviewed earlier, he said](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/) that he told his family neither the good nor the bad, so they didn't know what he was doing and had nothing to worry about.
 
 李詩天: Haha, that is also one way to do it, saving the family from constantly worrying.
 

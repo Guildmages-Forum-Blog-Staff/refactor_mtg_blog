@@ -18,11 +18,11 @@ excerpt: "White is justice! S.H.I.E.L.D., Captain America, and Captain Marvel as
 
 Marvel Super Heroes (MSH) will hold its prerelease events on June 19, 2026, and officially release a week later on June 26, 2026. Want to learn more about individual card ratings and recommendations for limited? Then check out this MSH limited review series!
 
-- For the mechanics, see this article: [Marvel Super Heroes Mechanics Explained](https://guildmagesforum.tw/MSH-mechanism/)
+- For the mechanics, see this article: [Marvel Super Heroes Mechanics Explained](https://guildmagesforum.tw/en/MSH-mechanism/)
 
 ## Introduction
 
-Long time no see! I wonder if GF's readers still recognize me xDD. I just checked, and the last time I reviewed a limited set was [FDN](https://guildmagesforum.tw/FDN-Black/), a year and a half ago. As a longtime Marvel fan, with two IPs I love very much, MTG and Marvel, teaming up, there's no way I could miss this one, hehe.
+Long time no see! I wonder if GF's readers still recognize me xDD. I just checked, and the last time I reviewed a limited set was [FDN](https://guildmagesforum.tw/en/FDN-Black/), a year and a half ago. As a longtime Marvel fan, with two IPs I love very much, MTG and Marvel, teaming up, there's no way I could miss this one, hehe.
 
 In this set, white's character selection and positioning is basically the side of justice: the familiar S.H.I.E.L.D., members of the Defenders, and all sorts of "Captains" have a place in white.
 

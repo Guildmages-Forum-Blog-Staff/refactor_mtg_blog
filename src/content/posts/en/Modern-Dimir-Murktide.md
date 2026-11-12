@@ -17,7 +17,7 @@ authors:
 
 ## Before We Start
 
-Hi everyone. Recently I have been entering Modern MITQs with Dimir Murktide, and my results have gone up and down like ocean waves. One day, [jeffchen](/authors/jeffchen/) recommended a super cool piece of tech, [Echo of Eons](https://scryfall.com/card/mh1/46/echo-of-eons), and I felt like I had found a treasure. That's it!!! I can't describe how excited I was at the time. The unpleasantness of losing a match vanished instantly, replaced by the thought that I absolutely had to play this fun combo. Incidentally, when my mindset shifted from pure Spike to Spike with a bit of Timmy mixed in, my attitude suddenly became remarkably healthy and relaxed.
+Hi everyone. Recently I have been entering Modern MITQs with Dimir Murktide, and my results have gone up and down like ocean waves. One day, [jeffchen](/en/authors/jeffchen/) recommended a super cool piece of tech, [Echo of Eons](https://scryfall.com/card/mh1/46/echo-of-eons), and I felt like I had found a treasure. That's it!!! I can't describe how excited I was at the time. The unpleasantness of losing a match vanished instantly, replaced by the thought that I absolutely had to play this fun combo. Incidentally, when my mindset shifted from pure Spike to Spike with a bit of Timmy mixed in, my attitude suddenly became remarkably healthy and relaxed.
 
 > If you are interested in the classic Spike, Johnny, Timmy player classification, check out this translated article, "[Timmy, Johnny and Spike: Player Types as Seen by MTG Card Designers](https://icebolt.pixnet.net/blog/post/27873725)". I am a bit of a Spike + Timmy type myself, no wonder this combo has me so excited XD
 
@@ -27,7 +27,7 @@ I am writing this article partly because I made top 4 at Cardmaster's MITQ#8 on 
 
 ## Changes in Modern
 
-For details, see Monkey King's article: [Why Nadu Must Die: Aug 26th BnR Predictions](https://guildmagesforum.tw/Why-Nadu-Should-Die/)
+For details, see Monkey King's article: [Why Nadu Must Die: Aug 26th BnR Predictions](https://guildmagesforum.tw/en/Why-Nadu-Should-Die/)
 
 The Modern meta over the past 7 days, as of September 9, 2024:
 ![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/e9f78e91d3b0.webp)

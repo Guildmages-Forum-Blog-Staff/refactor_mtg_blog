@@ -26,7 +26,7 @@ Mutagen is a new artifact token. A Mutagen token has the following ability: **"{
 
 How can there be ninjas without Ninjutsu~ Huh!? There really isn't any...? This set has no Ninjutsu, but it does have a variant of it: Sneak.
 
-A spell with sneak has an alternative cost. During the [declare blockers step](https://guildmagesforum.tw/Round-Process/#declare-blockers-step) of the combat phase on your turn, you can cast the sneak spell by paying the mana cost specified by sneak and returning an unblocked attacking creature you control to its owner's hand. If the sneak spell is a creature spell, that creature enters tapped and attacking the player or permanent that the returned creature was attacking <font color="#A6A6A6">(just like Ninjutsu in the past)</font> .
+A spell with sneak has an alternative cost. During the [declare blockers step](https://guildmagesforum.tw/en/Round-Process/#declare-blockers-step) of the combat phase on your turn, you can cast the sneak spell by paying the mana cost specified by sneak and returning an unblocked attacking creature you control to its owner's hand. If the sneak spell is a creature spell, that creature enters tapped and attacking the player or permanent that the returned creature was attacking <font color="#A6A6A6">(just like Ninjutsu in the past)</font> .
 
 A few additional notes about sneak:
 - The timing for casting a sneak spell is, simply put, after blockers are declared and before combat damage.

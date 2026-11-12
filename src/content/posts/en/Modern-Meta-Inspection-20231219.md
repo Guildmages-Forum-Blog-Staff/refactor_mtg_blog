@@ -16,7 +16,7 @@ authors:
 ## Before We Start
 
 Lost Caverns of Ixalan (LCI) is a pretty strong set, which we could already tell back during the previews.
-Add the Dec 4 BnR on top of that and the metagame has changed quite a bit. For the decks affected by the banned list, see the previous article [The Impact of the 2023 Dec 4 Banned and Restricted Announcement on the Metagame](/BnR-Dec-4-2023/).
+Add the Dec 4 BnR on top of that and the metagame has changed quite a bit. For the decks affected by the banned list, see the previous article [The Impact of the 2023 Dec 4 Banned and Restricted Announcement on the Metagame](/en/BnR-Dec-4-2023/).
 
 ## Meta Change
 
@@ -43,7 +43,7 @@ Although three mana looks heavy, that also means it can go into the Rhinos deck,
 
 Finally, its creature types are right (Merfolk Wizard), which are the strongest tribes in Modern right now, and it works with the new LTR card [Flame of Anor](https://cards.scryfall.io/large/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766).
 
-Tidebinder also handles many other situations, such as the triggers of [Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485) or [Void Mirror](https://cards.scryfall.io/large/front/6/f/6f906219-7a6a-427b-93c4-4d958cbd171c.jpg?1626099451), the activation of the Ring, cascade triggers, and so on. For more, see another article, [A Flash Deck That Can't Be Countered: Mono-Blue Merfolk](/Modern-Mono-Blue-Merfolk/#%E6%AD%A3%E7%B7%A8%E5%BF%85%E8%A6%81%E5%96%AE%E5%8D%A1-%E4%B8%80%E5%AE%9A%E8%A6%81%E5%9C%A8%E6%AD%A3%E7%B7%A8%E7%9A%84%E5%8D%A1).
+Tidebinder also handles many other situations, such as the triggers of [Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485) or [Void Mirror](https://cards.scryfall.io/large/front/6/f/6f906219-7a6a-427b-93c4-4d958cbd171c.jpg?1626099451), the activation of the Ring, cascade triggers, and so on. For more, see another article, [A Flash Deck That Can't Be Countered: Mono-Blue Merfolk](/en/Modern-Mono-Blue-Merfolk/#essential-main-deck-cards-must-be-in-the-main-deck).
 
 > Yes, that's right: Tidebinder's ETB can also be used to counter the opponent's Tidebinder ETB, just like we can use [Subtlety](https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059) to counter the opponent's Subtlety.
 > So in the future we'll see Subtlety countering the opponent's Subtlety, Tidebinder countering the opponent's Tidebinder, Subtlety countering the opponent's Tidebinder, Tidebinder countering the opponent's Subtlety... I'm so confused!
@@ -71,7 +71,7 @@ Also, since Scam has decreased, or you could even say vanished (at least you no 
 
 ### Yawgmoth
 
-Yawgmoth is about the same as I said before: with [Agatha's Soul Cauldron](https://cards.scryfall.io/large/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838) added, its usage rate shot straight up, but the diversity of its builds makes the matchups unpredictable. Interested readers are welcome to study it in [A Guide for Yawgmoth Turned Chef](/Modern-Golgari-Yawgmoth/).
+Yawgmoth is about the same as I said before: with [Agatha's Soul Cauldron](https://cards.scryfall.io/large/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838) added, its usage rate shot straight up, but the diversity of its builds makes the matchups unpredictable. Interested readers are welcome to study it in [A Guide for Yawgmoth Turned Chef](/en/Modern-Golgari-Yawgmoth/).
 
 For players who aren't on Yawgmoth, you can consider using [Cursed Totem](https://cards.scryfall.io/large/front/5/d/5dde91a9-7d2d-4a7b-861a-3d1c16ec79d9.jpg?1626100864) in the sideboard to lock the activated abilities of all creatures.
 
@@ -127,7 +127,7 @@ But if we fetch a land that is supposed to enter tapped, there are still two rep
 
 ### Living End
 
-In the [Scam article](/Modern-Rakdos-Scam/) I mentioned before that [Dauthi Voidwalker](https://cards.scryfall.io/large/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1626095427) practically pins [Living End](https://cards.scryfall.io/large/front/b/1/b1eede29-17a4-437f-a5c2-e24cccbc6a33.jpg?1619395625) to the ground. There were even Scam players who, on the draw, would deliberately do nothing and discard Dauthi to the graveyard themselves, leaving the opponent too afraid to cascade at all until they found an answer.
+In the [Scam article](/en/Modern-Rakdos-Scam/) I mentioned before that [Dauthi Voidwalker](https://cards.scryfall.io/large/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1626095427) practically pins [Living End](https://cards.scryfall.io/large/front/b/1/b1eede29-17a4-437f-a5c2-e24cccbc6a33.jpg?1619395625) to the ground. There were even Scam players who, on the draw, would deliberately do nothing and discard Dauthi to the graveyard themselves, leaving the opponent too afraid to cascade at all until they found an answer.
 
 Now that Scam's usage has dropped sharply, Living End runs into this situation much less, so quite a few players have picked Living End up again for tournaments.
 

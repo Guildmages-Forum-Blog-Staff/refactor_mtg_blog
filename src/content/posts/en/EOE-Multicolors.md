@@ -15,7 +15,7 @@ excerpt: "The space set is arriving. Are you all ready to soar through the cosmo
 
 Edge of Eternities prerelease events take place on July 25, 2025. Want to know more about individual card ratings and advice for Limited? Then check out this series of EOE Limited overviews!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Breakdown](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Breakdown](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 ## Color Pair Themes
 
@@ -25,7 +25,7 @@ Edge of Eternities prerelease events take place on July 25, 2025. Want to know m
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/29e5182fda41.webp)
 
-Cast your second spell in a turn (the same as TDM's [Flurry](https://guildmagesforum.tw/TDM-mechanism/#%E9%80%A3%E5%92%92%EF%BC%88Flurry%EF%BC%89) mechanic) and gain extra resources. For example, {% mtglink "Cosmogrand Zenith" %} and {% mtglink "Station Monitor" %} can both make a lot of tokens, or later use +1/+1 to grow creatures and overpower the opponent. Note that casting a second spell on the opponent's turn also triggers it.
+Cast your second spell in a turn (the same as TDM's [Flurry](https://guildmagesforum.tw/en/TDM-mechanism/#flurry) mechanic) and gain extra resources. For example, {% mtglink "Cosmogrand Zenith" %} and {% mtglink "Station Monitor" %} can both make a lot of tokens, or later use +1/+1 to grow creatures and overpower the opponent. Note that casting a second spell on the opponent's turn also triggers it.
 
 
 ### <span style="color:#006DB3">Blue</span><span style="color:#808080">Black</span> — Artifact Control

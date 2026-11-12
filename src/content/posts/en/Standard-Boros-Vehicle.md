@@ -18,7 +18,7 @@ excerpt: "Let's race!"
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Boros-Vehicle/16fddb353ab4.webp)
 
-When reading [this set's Standard preliminary look](https://guildmagesforum.tw/DFT-Standard-Preliminary/), did you feel something was missing? Now that we're back on Kaladesh/Avishkar, how could there not be a red-white-based Vehicle deck? In [Aetherdrift](https://scryfall.com/sets/dft?as=grid&order=set) we have neither [Smuggler's Copter](https://scryfall.com/card/kld/235/smugglers-copter) nor [Heart of Kiran](https://scryfall.com/card/aer/153/heart-of-kiran), and the Pilot structure is quite different too, so how should we build it?
+When reading [this set's Standard preliminary look](https://guildmagesforum.tw/en/DFT-Standard-Preliminary/), did you feel something was missing? Now that we're back on Kaladesh/Avishkar, how could there not be a red-white-based Vehicle deck? In [Aetherdrift](https://scryfall.com/sets/dft?as=grid&order=set) we have neither [Smuggler's Copter](https://scryfall.com/card/kld/235/smugglers-copter) nor [Heart of Kiran](https://scryfall.com/card/aer/153/heart-of-kiran), and the Pilot structure is quite different too, so how should we build it?
 
 ## Card Analysis
 

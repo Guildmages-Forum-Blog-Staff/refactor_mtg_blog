@@ -15,7 +15,7 @@ excerpt: "Airbending and cheerful Allies"
 
 Avatar: The Last Airbender holds its prerelease events on November 14, 2025. Want to know more about individual card ratings and advice for Limited? Then check out this series of TLA Limited introductions!
 
-- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/TLA-Mechanism/)
+- For the mechanics, see this article: [Avatar: The Last Airbender Mechanics Explained](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 
 ## Rating Scale

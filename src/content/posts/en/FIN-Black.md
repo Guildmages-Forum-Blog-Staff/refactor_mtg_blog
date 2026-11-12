@@ -15,7 +15,7 @@ excerpt: "Sephiroth: \"I don't want to disappear, and I don't want to destroy yo
 
 FINAL FANTASY (FIN) will hold its prerelease events on June 6, 2025. Want to know more about individual card ratings and recommendations in Limited? Then check out this series of FIN Limited reviews!
 
-- For the mechanics overview, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/FIN-mechanism/)
+- For the mechanics overview, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Grading Scale
 

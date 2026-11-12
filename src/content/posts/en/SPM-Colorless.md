@@ -17,7 +17,7 @@ Marvel's Spider-Man (SPM) will hold its Prerelease events on September 19, 2025,
 
 In addition, because of licensing issues, this set's physical paper cards and its online (MTGA, MTGO) digital cards will be presented with different card names and different card art, but with the same rules text (a few proper nouns on some cards still differ). Therefore, this Limited overview presents both versions of the card art together for readers to compare.
 
-- For an introduction to the mechanics, see this article: [Marvel's Spider-Man Mechanics Breakdown](https://guildmagesforum.tw/SPM-Mechanism/)
+- For an introduction to the mechanics, see this article: [Marvel's Spider-Man Mechanics Breakdown](https://guildmagesforum.tw/en/SPM-Mechanism/)
 - The physical card set is named Marvel's Spider-Man ([SPM](https://scryfall.com/sets/spm))
 - The online version of the set is named Through the Omenpaths ([OM1](https://scryfall.com/sets/om1))
 

@@ -77,7 +77,7 @@ However, Say Its Name & Altanak are also often the cards swapped out most in sid
 ### Removal
 
 {% mtgcard "Disfigure" %}
-[Disfigure](https://scryfall.com/card/bro/91/disfigure) (2): For why I chose Disfigure over [Cut Down](https://scryfall.com/card/dmu/89/cut-down), see this article: [Analyzing the Shift in Standard Threat Structure Through Cut Down and Disfigure](https://guildmagesforum.tw/Standard-Structure-Evolution/).
+[Disfigure](https://scryfall.com/card/bro/91/disfigure) (2): For why I chose Disfigure over [Cut Down](https://scryfall.com/card/dmu/89/cut-down), see this article: [Analyzing the Shift in Standard Threat Structure Through Cut Down and Disfigure](https://guildmagesforum.tw/en/Standard-Structure-Evolution/).
 
 {% mtgcard "Nowhere to Run" %}
 [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) (1): A permanent-type removal spell, excellent against green and white aggro with protection spells, and it can also shut off the death ability of [Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero).

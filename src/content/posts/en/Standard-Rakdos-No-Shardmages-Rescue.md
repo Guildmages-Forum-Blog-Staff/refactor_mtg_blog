@@ -18,7 +18,7 @@ categories:
 
 Hello everyone, I'm [faintmama](https://www.facebook.com/loudsidewang/), a bored uncle who lately likes writing diary-style posts on my little fan page, [FaintmamaのTCG實驗室](https://www.facebook.com/faintmama). Honestly, I never imagined I would write a Standard deckbuilding article for Guildmages' Forum, and in the past I didn't even think I should touch Standard, which rotates so quickly.
 
-But in the end I played it anyway XD. For my birthday I received a box of [Duskmourn: House of Horror](https://scryfall.com/sets/dsk), and instantly became a rich man in powerful commons and uncommons. Then my friend [cephille](/authors/cephille/) shared a YouTube video about [mono-black Skeletons](https://youtu.be/PXcFrVlx700?si=XdWJUU_frNovJUjR), and I was immediately drawn to this tribe, so bad by design that it is almost funny. I thought, hey, they're cheap, so why not build it for fun.
+But in the end I played it anyway XD. For my birthday I received a box of [Duskmourn: House of Horror](https://scryfall.com/sets/dsk), and instantly became a rich man in powerful commons and uncommons. Then my friend [cephille](/en/authors/cephille/) shared a YouTube video about [mono-black Skeletons](https://youtu.be/PXcFrVlx700?si=XdWJUU_frNovJUjR), and I was immediately drawn to this tribe, so bad by design that it is almost funny. I thought, hey, they're cheap, so why not build it for fun.
 
 Of course, things were not as simple as I first thought, since I am an old newbie who can't be content with copying lists and loves tinkering. After noticing that [勇德大叔的日常](https://www.facebook.com/UncleJund) had played four [Blazemire Verge](https://scryfall.com/card/dsk/256/blazemire-verge) in a Golgari midrange deck, a clever idea, I admired it, copied it, and gradually set off down the road of no return of building my own **Rakdos Skeletons**.
 
@@ -32,7 +32,7 @@ At the end of 2024, I was having a great time with the combination of [Urabrask'
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/d821ad5eb00a.webp)
 
->I have told this story too many times. If you're interested, please see [誤闖競爭級別的大叔年末日記](https://guildmagesforum.tw/Uncles-Diary/) ~~but don't leave yet, finishing this article is more important~~.
+>I have told this story too many times. If you're interested, please see [誤闖競爭級別的大叔年末日記](https://guildmagesforum.tw/en/Uncles-Diary/) ~~but don't leave yet, finishing this article is more important~~.
 
 From knowing nothing about Standard to today, what I would say now is: the biggest reason to splash red is to play four [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower), because black cannot deal with the format's great enemy [Enduring Curiosity](https://scryfall.com/card/dsk/51/enduring-curiosity) in time. As for [Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge), although it is a super favorite card of mine, the current version has no room for it: the Forge has to be played on time as much as possible, getting traded up against an opponent's main-deck [Spell Pierce](https://scryfall.com/card/dft/64/spell-pierce) is brutal, and it is not a good late-game topdeck.
 

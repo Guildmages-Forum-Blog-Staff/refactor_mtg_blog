@@ -18,7 +18,7 @@ categories:
 
 It's no longer a surprise to me XD. After all, in 2025 we collaborated with [睿卡潮玩 (Ruika)](https://www.facebook.com/963Ruika) multiple times to let more players experience the joys of the draft format. But allow me to announce once more: it's time to read an article and play a real in-person draft again~
 
-*Avatar: The Last Airbender* (hereafter [TLA](https://scryfall.com/sets/tla)) is the last set of 2025, and it drew a lot of attention at preview time for its mechanical design; the four classical elements of water, earth, fire, and air in the story are also very close to the spirit of Magic: The Gathering. The art on some cards and the quotes excerpted on them have moved the MTG community, with many people starting to watch the Avatar anime, and I personally find it really good too. As our site partner [cephille](/authors/cephille/) said, Universe Beyond (UB) has brought very good interaction this time; whether you're a Magic fan or an Avatar fan, this collaboration lets you feel what's great about the other work.
+*Avatar: The Last Airbender* (hereafter [TLA](https://scryfall.com/sets/tla)) is the last set of 2025, and it drew a lot of attention at preview time for its mechanical design; the four classical elements of water, earth, fire, and air in the story are also very close to the spirit of Magic: The Gathering. The art on some cards and the quotes excerpted on them have moved the MTG community, with many people starting to watch the Avatar anime, and I personally find it really good too. As our site partner [cephille](/en/authors/cephille/) said, Universe Beyond (UB) has brought very good interaction this time; whether you're a Magic fan or an Avatar fan, this collaboration lets you feel what's great about the other work.
 
 Back to TLA itself: when it comes to Magic drafts, everyone of course looks forward to what they might crack out of the packs, and that sense of surprise is a joy players can never avoid XD. If you like cracking packs, you will definitely want to crack TLA packs! I don't even want to explain further, because [Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub) is super strong! [Wan Shi Tong, Librarian](https://scryfall.com/card/tla/78/wan-shi-tong-librarian) is obviously great too! Players in every format should be glad to see them join, so let's crack some packs with passion.
 
@@ -55,25 +55,25 @@ That wraps up the recommendation segment. Now let's officially get into the even
 >Besides the boosters, what matters even more is of course [睿卡潮玩 (Ruika)](https://www.facebook.com/963Ruika), who we've collaborated with for half a year. Supporting each other, we absolutely have to keep the shelves stocked and full.
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/49b2f3220921.webp)
->[cephille](/authors/cephille/) carefully picking singles.
+>[cephille](/en/authors/cephille/) carefully picking singles.
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/6bbdf93190c7.webp)
 >Invited player Szgu is also picking singles. At this point nobody knew he was about to pull off something big... I genuinely think it was super cool, and I suggest you read to the end.
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/5091d0b215b1.webp)
->During the drafting, I unexpectedly noticed GY_Player's phone case was full of MTG love, so I immediately made him get in the shot. ~~Also thanks to [cephille](/authors/cephille/) for buying everyone drinks.~~
+>During the drafting, I unexpectedly noticed GY_Player's phone case was full of MTG love, so I immediately made him get in the shot. ~~Also thanks to [cephille](/en/authors/cephille/) for buying everyone drinks.~~
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/908285578625.webp)
 >Hm? Why is 凱克, sitting across the table, scrolling on his phone? And why does the page look so familiar? It must be some pretty good website ~~go take that 4.0-rated powerful single already~~ .
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/359e1b4b7e24.webp)
->After drafting comes battling! That's what makes a complete draft... wait a moment, why does [Jru](/authors/JruMTG/)'s battlefield have only lands? Has the man who loves destroying lands become a friend of lands?
+>After drafting comes battling! That's what makes a complete draft... wait a moment, why does [Jru](/en/authors/JruMTG/)'s battlefield have only lands? Has the man who loves destroying lands become a friend of lands?
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/56cb84f96337.webp)
->It turns out the set's Earthbend mechanic can turn lands into creatures that can join combat. [Jru](/authors/JruMTG/) is thinking hard about the game.
+>It turns out the set's Earthbend mechanic can turn lands into creatures that can join combat. [Jru](/en/authors/JruMTG/) is thinking hard about the game.
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/778c28a04759.webp)
->[cephille](/authors/cephille/), sitting across, is also playing cautiously.
+>[cephille](/en/authors/cephille/), sitting across, is also playing cautiously.
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/bc72ac535113.webp)
 >Countdown to Szgu's flashy explosive turn.
@@ -106,7 +106,7 @@ This misreading of the signal left me with very little red material in the next 
 
 #### What were the key turns today like?
 
-The turn where [cephille](/authors/cephille/)'s [Hama, the Bloodbender](https://scryfall.com/card/tla/224/hama-the-bloodbender) stole my [Firebending Lesson](https://scryfall.com/card/tla/138/firebending-lesson) left too deep an impression; I never expected to run into a State Base Action (SBA) interaction in Limited. I highly recommend interested players read the article Jru wrote, [What Are State-Based Actions (SBA)](https://guildmagesforum.tw/What-is-SBA/)!
+The turn where [cephille](/en/authors/cephille/)'s [Hama, the Bloodbender](https://scryfall.com/card/tla/224/hama-the-bloodbender) stole my [Firebending Lesson](https://scryfall.com/card/tla/138/firebending-lesson) left too deep an impression; I never expected to run into a State Base Action (SBA) interaction in Limited. I highly recommend interested players read the article Jru wrote, [What Are State-Based Actions (SBA)](https://guildmagesforum.tw/en/What-is-SBA/)!
 
 #### How would you recommend drafting?
 
@@ -121,7 +121,7 @@ Go find friends and play a draft today!
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/a5967c82a0d8.webp)
 >GY_Player's deck for the day.
 
-### [cephille](/authors/cephille/)'s Thoughts:
+### [cephille](/en/authors/cephille/)'s Thoughts:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 
@@ -143,7 +143,7 @@ I hope more and more players get to experience the fun of drafting, making the w
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/b58d4c533f57.webp)
 >cephille's deck for the day.
 
-### [faintmama](/authors/faintmama/)'s Thoughts:
+### [faintmama](/en/authors/faintmama/)'s Thoughts:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 
@@ -168,7 +168,7 @@ Draft is a very free format: you can play casually with a few friends, or play s
 ![](https://images.guildmagesforum.tw/posts/TLA-Draft-with-Newbie/1c30d275342b.webp)
 >faintmama's deck for the day.
 
-### [Jru](/authors/JruMTG/)'s Thoughts:
+### [Jru](/en/authors/JruMTG/)'s Thoughts:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 

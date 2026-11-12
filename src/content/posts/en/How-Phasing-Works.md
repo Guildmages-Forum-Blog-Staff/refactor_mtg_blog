@@ -68,7 +68,7 @@ Above I mentioned that phased-out permanents can phase in (Phases In), so exactl
 
 Also, no abilities go on the stack during the untap step and no player gets priority. If the conditions of any triggered ability are met, they wait until just before a player would next receive priority to go on the stack (usually the upkeep step).
 
->For more on the rules of each phase/step in the turn structure, see our earlier article: [The Turn Structure Explained](https://guildmagesforum.tw/Round-Process/#%E9%87%8D%E7%BD%AE%E6%AD%A5%E9%A9%9F%EF%BC%88Untap-Step%EF%BC%89)
+>For more on the rules of each phase/step in the turn structure, see our earlier article: [The Turn Structure Explained](https://guildmagesforum.tw/en/Round-Process/#untap-step)
 
 {% endnotel %}
 
@@ -191,7 +191,7 @@ At the instant the Merfolk phases out, Loot's abilities are restored, and after 
 Loot doesn't lose its abilities, and after the Merfolk phases in Loot still has its abilities.
 
 
-> PS: Because Loot never left the battlefield, even if it phased out, it remembers which [Exhaust](https://guildmagesforum.tw/DFT-mechanism/#%E7%AB%AD%E7%B5%95%EF%BC%88Exhaust%EF%BC%89) abilities it has activated.
+> PS: Because Loot never left the battlefield, even if it phased out, it remembers which [Exhaust](https://guildmagesforum.tw/en/DFT-mechanism/#exhaust) abilities it has activated.
 
 
 

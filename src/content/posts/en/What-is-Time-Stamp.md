@@ -16,7 +16,7 @@ excerpt: "Leyline of the Guildpact vs. Blood Moon: who wins?"
 
 Welcome to the third article of the [Layer](https://mtg.fandom.com/wiki/Layer?so=search) column <font color="#AAAAAA">(I pulled a Togashi and vanished for two months, but I finally have time to write again)</font>. This time we are going to introduce timestamps.
 
-Besides being busy lately and getting held up for a while by articles about the new set, the main reason this one took so long is that I struggled with how to introduce timestamps. Unlike [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/) and [characteristic-defining abilities](https://guildmagesforum.tw/Characteristic-Defining-Ability/), which were easier to introduce on their own, timestamps are a rule that depends heavily on the layer system, so starting with this article we will have to begin citing the layer rules.
+Besides being busy lately and getting held up for a while by articles about the new set, the main reason this one took so long is that I struggled with how to introduce timestamps. Unlike [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/) and [characteristic-defining abilities](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/), which were easier to introduce on their own, timestamps are a rule that depends heavily on the layer system, so starting with this article we will have to begin citing the layer rules.
 
 ![Cover](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/b06ec6e16e91.webp)
 
@@ -30,7 +30,7 @@ Since timestamps are part of the layer system, we first need to say a little abo
 
 Layers describe the components that make up an object. The layer system strictly splits an object's attributes into seven layers, and a layer may contain finer sublayers. Every effect that modifies an object's characteristics can be sorted into one of these layers. The layers are defined as follows:
 
-- Layer 1: Rules and effects that affect [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/) are applied.
+- Layer 1: Rules and effects that affect [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/) are applied.
   - Layer 1a: Copy effects are applied.
   - Layer 1b: Rules about the characteristics of face-down spells and permanents are applied.
 - Layer 2: Control-changing effects are applied.
@@ -39,7 +39,7 @@ Layers describe the components that make up an object. The layer system strictly
 - Layer 5: Color-changing effects are applied.
 - Layer 6: Effects that add abilities, keyword counters, effects that remove abilities, and effects that say an object can't have an ability are applied.
 - Layer 7: Effects that change power and/or toughness are applied.
-  - Layer 7a: Effects from [characteristic-defining abilities](https://guildmagesforum.tw/Characteristic-Defining-Ability/) that define power and/or toughness are applied.
+  - Layer 7a: Effects from [characteristic-defining abilities](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) that define power and/or toughness are applied.
   - Layer 7b: Effects that set power and/or toughness to a specific number or value are applied. Effects that refer to a creature's base power and/or toughness apply in this layer.
   - Layer 7c: Effects and counters that modify power and/or toughness (but don't set power and/or toughness to a specific number or value) are applied.
   - Layer 7d: Effects that switch a creature's power and toughness are applied.
@@ -69,11 +69,11 @@ Let's quickly run through the rule entries related to timestamps <font color="#A
 - 613.7g
   A double-faced permanent receives a new timestamp each time it transforms or converts.
 - 613.7m
-  If two or more objects would receive timestamps simultaneously, such as by entering a zone or becoming attached at the same time, their relative timestamp order is determined by the "[APNAP](https://guildmagesforum.tw/Round-Process/#%E7%B6%AD%E6%8C%81%E6%AD%A5%E9%A9%9F%EF%BC%88Upkeep-Step%EF%BC%89)" order (see rule 101.4). Objects controlled by the active player (or, for objects with no controller, owned by that player) have earlier relative timestamps in the order that player chooses, followed by objects controlled (or owned) by each other player in turn order.
+  If two or more objects would receive timestamps simultaneously, such as by entering a zone or becoming attached at the same time, their relative timestamp order is determined by the "[APNAP](https://guildmagesforum.tw/en/Round-Process/#upkeep-step)" order (see rule 101.4). Objects controlled by the active player (or, for objects with no controller, owned by that player) have earlier relative timestamps in the order that player chooses, followed by objects controlled (or owned) by each other player in turn order.
 - 613.10.
   Some continuous effects affect players rather than objects (for example, an effect might give a player protection from red). All such effects are applied in timestamp order after the characteristics of objects are determined.
 - 613.11.
-  Some continuous effects affect game rules rather than objects (for example, an effect might change a player's maximum hand size, or say a creature attacks each combat if able). These effects are applied after all other continuous effects have been applied. Continuous effects that affect the costs of spells or abilities are applied in the specific order described in rule [601.2f](https://guildmagesforum.tw/casting-spell-without-mana-cost/). All other such effects are applied in timestamp order.
+  Some continuous effects affect game rules rather than objects (for example, an effect might change a player's maximum hand size, or say a creature attacks each combat if able). These effects are applied after all other continuous effects have been applied. Continuous effects that affect the costs of spells or abilities are applied in the specific order described in rule [601.2f](https://guildmagesforum.tw/en/casting-spell-without-mana-cost/). All other such effects are applied in timestamp order.
 
 {% endfolding %}
 
@@ -120,7 +120,7 @@ We already know Square Up's timestamp clearly: it is the moment the spell resolv
 This is exactly the kind of continuous effect mentioned in rule 613.11 that affects game rules rather than objects, and it is likewise handled by timestamp. If Minamo Scrollkeeper enters first and Recycle enters afterward, your maximum hand size is 2 (7+1, then changed to 2). The other way around, it is 3 (7 changed to 2, then +1). So what happens if both permanents enter at the same time (for example, because of Yorion's ability)?
 
 - 613.7m
-  If two or more objects would receive timestamps simultaneously, such as by entering a zone or becoming attached at the same time, their relative timestamp order is determined by the "[APNAP](https://guildmagesforum.tw/Round-Process/#%E7%B6%AD%E6%8C%81%E6%AD%A5%E9%A9%9F%EF%BC%88Upkeep-Step%EF%BC%89)" order (see rule 101.4). Objects controlled by the active player (or, for objects with no controller, owned by that player) have earlier relative timestamps in the order that player chooses, followed by objects controlled (or owned) by each other player in turn order.
+  If two or more objects would receive timestamps simultaneously, such as by entering a zone or becoming attached at the same time, their relative timestamp order is determined by the "[APNAP](https://guildmagesforum.tw/en/Round-Process/#upkeep-step)" order (see rule 101.4). Objects controlled by the active player (or, for objects with no controller, owned by that player) have earlier relative timestamps in the order that player chooses, followed by objects controlled (or owned) by each other player in turn order.
 
 Simply put, if they enter together, you decide the timestamp order of those objects yourself.
 
@@ -184,7 +184,7 @@ Spreading Seas and Blood Moon are both type-changing effects, so you only need t
 >
 > - 305.7. If an effect sets a land's subtype to one or more of the basic land types, the land no longer has its old land type. It loses all abilities generated from its rules text, its old land types, and any copiable effects affecting that land, and it gains a mana ability corresponding to the new basic land type or types. Abilities granted to the land by other effects aren't lost. Setting a land's subtype doesn't add or remove any card types (such as creature) or supertypes (such as basic, legendary, and snow) the land may have. If an effect adds a land type in addition to the land's existing land types, the land keeps its land types and rules text, and gains the new land type and mana abilities.
 >
-> Related article: [Why Did Urza's Saga Blow Itself Up](https://guildmagesforum.tw/Saga-and-Moon/)
+> Related article: [Why Did Urza's Saga Blow Itself Up](https://guildmagesforum.tw/en/Saga-and-Moon/)
 
 ![Blood Moon](https://images.guildmagesforum.tw/posts/What-is-Time-Stamp/c4dcc34cab03.webp)
 

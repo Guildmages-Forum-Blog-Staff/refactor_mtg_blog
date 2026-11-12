@@ -24,7 +24,7 @@ In the stories of *[The Hobbit](https://scryfall.com/sets/hob?as=grid&order=set)
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/d03d813369bd.webp)
 
-When it comes to a card that fits both the sacrifice theme and the attack-alone theme, there really is one in the Standard card pool: [**Obsessive Pursuit**](https://scryfall.com/card/tla/112/obsessive-pursuit). Every turn it automatically creates a Clue that refills your hand, and when you attack it puts +1/+1 counters on a target attacking creature equal to the number of permanents you sacrificed this turn, and if that number is three or more it also grants lifelink. We have built with this card before; see the earlier article [**Obsessive Menace**](https://guildmagesforum.tw/Standard-Obsessive-Menace/) for details. This time's decklist is as follows:
+When it comes to a card that fits both the sacrifice theme and the attack-alone theme, there really is one in the Standard card pool: [**Obsessive Pursuit**](https://scryfall.com/card/tla/112/obsessive-pursuit). Every turn it automatically creates a Clue that refills your hand, and when you attack it puts +1/+1 counters on a target attacking creature equal to the number of permanents you sacrificed this turn, and if that number is three or more it also grants lifelink. We have built with this card before; see the earlier article [**Obsessive Menace**](https://guildmagesforum.tw/en/Standard-Obsessive-Menace/) for details. This time's decklist is as follows:
 
 [**Decklist**](https://www.mtggoldfish.com/deck/7946983)
 ![](https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/ace3004c6298.webp)

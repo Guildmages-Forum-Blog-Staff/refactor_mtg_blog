@@ -17,9 +17,9 @@ excerpt: "Without Abhorrent Oculus or Ketramose, can Murktide and Echo of Eons s
 
 ## Before We Start
 
-> Previously: [A New Trick for Dimir Murktide: Echo of Eons](https://guildmagesforum.tw/Modern-Dimir-Murktide/)
+> Previously: [A New Trick for Dimir Murktide: Echo of Eons](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/)
 
-After qualifying for Standard MIT#9 at the end of last year, I started preparing for the Modern MIT#8 a month before the event. Special thanks to [Jeff Chen](/authors/jeffchen/), [faintmama](/authors/faintmama/), and [猴王](/authors/MiohitoKiri5474/); to the No Miss Trigger team put together by [荒野騎士](/authors/ClarkShih/); to everyone who practiced for the big event with me at [Game Square](https://www.facebook.com/GameSquareTCG); and to the friends who lent me cards. Every discussion and exchange with you was an important driving force behind improving my deck. This article is dedicated to all of you.
+After qualifying for Standard MIT#9 at the end of last year, I started preparing for the Modern MIT#8 a month before the event. Special thanks to [Jeff Chen](/en/authors/jeffchen/), [faintmama](/en/authors/faintmama/), and [猴王](/en/authors/MiohitoKiri5474/); to the No Miss Trigger team put together by [荒野騎士](/en/authors/ClarkShih/); to everyone who practiced for the big event with me at [Game Square](https://www.facebook.com/GameSquareTCG); and to the friends who lent me cards. Every discussion and exchange with you was an important driving force behind improving my deck. This article is dedicated to all of you.
 
 > Note: If you are only interested in the deck construction, feel free to jump straight to [Deck Construction Breakdown](#%E5%A5%97%E7%89%8C%E6%A7%8B%E7%AF%89%E8%A7%A3%E6%9E%90). That said, the next section, [The Road to Preparation](#%E6%BA%96%E5%82%99%E7%9A%84%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B), should also offer some useful advice and methodology for anyone who wants to know how to prepare for a big tournament and what challenges you may run into along the way.
 
@@ -78,7 +78,7 @@ After discussing with Jeff, the conclusion was roughly this:
 1. The Oculus's unfair plan is no longer good enough in the current meta, and in most matchups it does not win fast enough. Rather than being locked into at least 10 cards in the main deck, and given its relative weakness to graveyard hate, giving up the Oculus to open up more possibilities for the Dimir shell is necessary.
 2. We agree that 4 {% mtglink "Unearth" %} in the Oculus shell, together with the Frog and the other three-mana-or-less creatures with menace, is a very powerful line. But as in point 1, it is not worth making the main deck rigid for it.
 3. Fixing the old filtering problem: {% mtglink "Thought Scour" %} can mill away important lands and get you stuck, and {% mtglink "Consider" %} does not filter well, so switching back to 4 {% mtglink "Preordain" %} to strengthen the deck is a reasonable choice.
-4. Using other unfair plans to counter the various unfair plans in the field is the focus to explore next. The known [Echo of Eons Combo](https://guildmagesforum.tw/Modern-Dimir-Murktide/#Combo-%E8%AA%AA%E6%98%8E) is one of them, and we need more similar pairings to reach that goal.
+4. Using other unfair plans to counter the various unfair plans in the field is the focus to explore next. The known [Echo of Eons Combo](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/#combo-explanation) is one of them, and we need more similar pairings to reach that goal.
 
 Based on those four points, I felt that dropping the Oculus, and focusing on the familiar Dimir Murktide plus the Echo of Eons combo before figuring out how to answer the meta, was a very reasonable decision with a low switching cost.
 
@@ -86,7 +86,7 @@ Based on those four points, I felt that dropping the Oculus, and focusing on the
 
 [Prototype list: Esper Murktide_20250206](https://www.mtggoldfish.com/deck/6907032#paper)
 
-This week, and the latter half of last week, were mostly spent writing the [DFT limited ratings and articles](/categories/DFT/) for [Guildmages' Forum](https://guildmagesforum.tw/). There was less actual playtesting; instead, Jeff and I had in-depth discussions about what a given card, or certain situations, need. After discussing, we iterated quickly, and I could clearly feel the 75 converging!
+This week, and the latter half of last week, were mostly spent writing the [DFT limited ratings and articles](/en/categories/DFT/) for [Guildmages' Forum](https://guildmagesforum.tw/en/). There was less actual playtesting; instead, Jeff and I had in-depth discussions about what a given card, or certain situations, need. After discussing, we iterated quickly, and I could clearly feel the 75 converging!
 
 The mode I adopted this week was to first update my own decklist and test results, then start a discussion on one or a few specific points. The benefit is that it requires no real-time or face-to-face replies from teammates, which is an effective way to discuss for a player like me who has little time. An example:
 
@@ -199,7 +199,7 @@ When I first played the Oculus build, I even chose a 4-copy configuration of FoN
 
 Given the above, although FoN costs you card advantage, its timing of interaction and its zero-mana nature are very important against these mainstream decks. So it is worth playing 3. The reason for not playing 4 is also obvious: against midrange decks like Boros and Orzhov, the penalty for drawing two or more FoN is hard to accept.
 
-> If FoN is this important, what about {% mtglink "Subtlety" %}, which also interacts with creatures/planeswalkers for free? Unfortunately, Subtlety was made to interact with its Elemental brothers, and in a Modern environment where the red and black Elementals are banned, I don't think there is any need to use Subtlety. For a deeper argument, see what I wrote earlier: [Tale of the Five-Color Elementals: A Brief Review of the MH2 Five Elementals](https://guildmagesforum.tw/MH2-Mythics-Elementals/).
+> If FoN is this important, what about {% mtglink "Subtlety" %}, which also interacts with creatures/planeswalkers for free? Unfortunately, Subtlety was made to interact with its Elemental brothers, and in a Modern environment where the red and black Elementals are banned, I don't think there is any need to use Subtlety. For a deeper argument, see what I wrote earlier: [Tale of the Five-Color Elementals: A Brief Review of the MH2 Five Elementals](https://guildmagesforum.tw/en/MH2-Mythics-Elementals/).
 
 #### Cornerstone Cards of the Deck: Counters, Removal, and Filtering
 
@@ -249,7 +249,7 @@ The main reason is that I predicted Eldrazi Ramp would be the biggest share of t
 
 {% mtgcard "Echo of Eons" %}
 
-Although [Echo of Eons](https://guildmagesforum.tw/Modern-Dimir-Murktide/) is one of the ways our deck goes unfair, it is not indispensable. Often we may take out one copy in the sideboard, but we always keep at least one to preserve the deck's flexibility for a quick win. Besides being fun, the important thing about this unfair approach is that once the conditions are met, it wins fast enough, which is the main reason it still has 2 slots in the main deck. In many matchups you must not only take control first, but also win quickly afterward; Echo of Eons performs very well at that.
+Although [Echo of Eons](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/) is one of the ways our deck goes unfair, it is not indispensable. Often we may take out one copy in the sideboard, but we always keep at least one to preserve the deck's flexibility for a quick win. Besides being fun, the important thing about this unfair approach is that once the conditions are met, it wins fast enough, which is the main reason it still has 2 slots in the main deck. In many matchups you must not only take control first, but also win quickly afterward; Echo of Eons performs very well at that.
 
 {% mtgcard "Tamiyo, Inquisitive Student//Tamiyo, Seasoned Scholar" %}
 

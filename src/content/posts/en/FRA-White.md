@@ -16,7 +16,7 @@ excerpt: "White is healing and order. May all things in the world find peace and
 
 Fractured Reality (FRA) has its prerelease events on September 25, 2026, and officially releases a week later on October 2, 2026. Want to know more about how each card rates in Limited, with recommendations? Then check out this series of FRA Limited reviews!
 
-- For the mechanics, see this article: [Fractured Reality Mechanics Explained](https://guildmagesforum.tw/FRA-Mechanism/)
+- For the mechanics, see this article: [Fractured Reality Mechanics Explained](https://guildmagesforum.tw/en/FRA-Mechanism/)
 
 ## Rating Scale
 

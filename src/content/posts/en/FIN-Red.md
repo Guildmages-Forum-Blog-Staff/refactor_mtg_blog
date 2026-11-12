@@ -15,7 +15,7 @@ excerpt: "Magic is fire, and fire is red! Let's see how red performs in this set
 
 FINAL FANTASY (FIN) will hold its prerelease events on June 6, 2025. Want to know more about individual card ratings and recommendations for Limited? Then check out this FIN Limited overview series!
 
-- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/FIN-mechanism/)
+- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Rating Scale
 

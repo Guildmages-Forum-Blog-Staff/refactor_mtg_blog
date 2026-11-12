@@ -110,7 +110,7 @@ The other top-eight player, Sam Rolph, put [Growth Spiral](https://cards.scryfal
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/23d359c74d7b.webp)
 
-The Greasefang build is similar to the one in my [last Pioneer inspection](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/#Abzan-Greasefang), but this is a more midrange build. In the main deck, besides a full set of [Thoughtseize](https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001), it also has two [Duress](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024) and one [Collective Brutality](https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285).
+The Greasefang build is similar to the one in my [last Pioneer inspection](https://guildmagesforum.tw/en/Pioneer-Meta-Inspection-20230918/#abzan-greasefang), but this is a more midrange build. In the main deck, besides a full set of [Thoughtseize](https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001), it also has two [Duress](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024) and one [Collective Brutality](https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285).
 The sideboard also has two [Reckoner Bankbuster](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706), presumably expecting plenty of midrange matchups (and he did indeed run into quite a few midrange decks).
 
 ### Rakdos Sacrifice

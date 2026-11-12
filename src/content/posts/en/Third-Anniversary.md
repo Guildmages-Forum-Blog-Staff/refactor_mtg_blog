@@ -24,7 +24,7 @@ In our third year, the team has moved from rapid expansion into a steadier phase
 
 In our first two years, the Forum put a great deal of effort into Standard first looks at every set release, trying to explore decks before the metagame settled. That kind of content is fun and shows off the charm of constructed, but it requires constant testing, discussion, and brainstorming, which is intense work that a part-time team of enthusiasts cannot sustain over the long term. On top of that, too many sets were released from 2025 to 2026, and the team could not keep up with that frequency and update steadily.
 
-Rather than promise a full Standard first look for every set, we would rather put our content into things we believe are needed or that can really last. For example: limited set ratings, interesting and understandable constructed ideas, players' hands-on experience and tournament reports, and articles that help readers build a basic framework, such as our translation of Reid Duke's classic "[Level One](https://guildmagesforum.tw/categories/Level%20One/)." Special thanks to [JerobaMTG](https://guildmagesforum.tw/authors/JerobaMTG/) for continuing to try out interesting decks. Exploring card interactions themselves is still the most fascinating part of Magic: The Gathering, and JerobaMTG's articles always bring readers unexpected surprises.
+Rather than promise a full Standard first look for every set, we would rather put our content into things we believe are needed or that can really last. For example: limited set ratings, interesting and understandable constructed ideas, players' hands-on experience and tournament reports, and articles that help readers build a basic framework, such as our translation of Reid Duke's classic "[Level One](https://guildmagesforum.tw/categories/Level%20One/)." Special thanks to [JerobaMTG](https://guildmagesforum.tw/en/authors/JerobaMTG/) for continuing to try out interesting decks. Exploring card interactions themselves is still the most fascinating part of Magic: The Gathering, and JerobaMTG's articles always bring readers unexpected surprises.
 
 ### Why Has Standard Become Harder to Follow?
 
@@ -52,15 +52,15 @@ Competition is not the opposite of community. Top players of course have no obli
 
 But success at world-class competitive events cannot be achieved by one person alone. Even the strongest player needs opponents of similar level and reliable testing partners to point out blind spots. Even seemingly indirect help, such as sharing event schedules, tournament experience, or a basic understanding of the current metagame, can greatly lower the preparation barrier for newly qualified Pro Tour players. It also gives more people a chance to become "opponents" who are really "partners."
 
-And in this area, [SamuelChang](https://guildmagesforum.tw/authors/SamuelChang/) of [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689) is already doing exactly that. Whether it was the tournament coaching before MIT#11, the [complete guide to Sultai Demons and his read on the metagame](https://www.facebook.com/share/p/19CXY86cH2/) before leaving for Spotlight: Chiba in 2026, or the experience he shared with Taiwanese players at many Pro Tours this year. This help does not necessarily mean publishing all of one's preparation work, but it makes it easier for newer players to do well at big events. We also want to give special thanks to SamuelChang for what he has put into Taiwan's competitive Magic scene!
+And in this area, [SamuelChang](https://guildmagesforum.tw/en/authors/SamuelChang/) of [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689) is already doing exactly that. Whether it was the tournament coaching before MIT#11, the [complete guide to Sultai Demons and his read on the metagame](https://www.facebook.com/share/p/19CXY86cH2/) before leaving for Spotlight: Chiba in 2026, or the experience he shared with Taiwanese players at many Pro Tours this year. This help does not necessarily mean publishing all of one's preparation work, but it makes it easier for newer players to do well at big events. We also want to give special thanks to SamuelChang for what he has put into Taiwan's competitive Magic scene!
 
 ## 4. Website 1.0 Redesign and New Features
 
-This August, the website got its first feature update, which we call "Website 1.0." If you find any problems, readers are welcome to report them via [Contact Us](https://guildmagesforum.tw/contact/).
+This August, the website got its first feature update, which we call "Website 1.0." If you find any problems, readers are welcome to report them via [Contact Us](https://guildmagesforum.tw/en/contact/).
 
 ### Tournament Calendar
 
-The new "Tournament Calendar" ([Calendar](https://guildmagesforum.tw/calendar/)) is a feature the team members have long wanted, and we believe many competitive players need it too.
+The new "Tournament Calendar" ([Calendar](https://guildmagesforum.tw/en/calendar/)) is a feature the team members have long wanted, and we believe many competitive players need it too.
 
 **The information expected to appear on the tournament calendar:**
 - [MIT](https://gamesquare.tw/mit-information.php?cid=1), MITQ, LCQ

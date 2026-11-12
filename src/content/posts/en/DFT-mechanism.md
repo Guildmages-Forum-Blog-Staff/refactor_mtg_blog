@@ -33,7 +33,7 @@ Here are some questions Vehicles commonly run into:
 
 ![Saddle](https://images.guildmagesforum.tw/posts/DFT-mechanism/93a45927f0c1.webp)
 
-Saddle is a returning mechanic that debuted not long ago in [Outlaws of Thunder Junction](https://guildmagesforum.tw/OTJ-mechanism/#saddle).
+Saddle is a returning mechanic that debuted not long ago in [Outlaws of Thunder Junction](https://guildmagesforum.tw/en/OTJ-mechanism/#saddle).
 
 Saddle is an activated ability that can only be activated at **sorcery speed**. Saddle is always followed by a number N, and saddle N means **"Tap any number of untapped other creatures you control with total power N or greater: This permanent becomes saddled until end of turn."**
 

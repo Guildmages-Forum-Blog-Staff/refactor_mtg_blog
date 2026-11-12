@@ -15,7 +15,7 @@ excerpt: "In a race pursuing top speed, you need all kinds of supplies, items to
 
 Aetherdrift (DFT) prerelease events run on February 7, 2025, and the set is officially released one week later on February 14, 2025. Want to know more about how each card rates in Limited, with some pick advice? Then check out this series of DFT Limited primers!
 
-- For the mechanics, see this article: [Aetherdrift Mechanics Explained](https://guildmagesforum.tw/DFT-mechanism/)
+- For the mechanics, see this article: [Aetherdrift Mechanics Explained](https://guildmagesforum.tw/en/DFT-mechanism/)
 
 ## Rating Scale
 

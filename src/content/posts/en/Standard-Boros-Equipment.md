@@ -19,7 +19,7 @@ excerpt: "Limit Break: Omnislash"
 ![](https://images.guildmagesforum.tw/posts/Standard-Boros-Equipment/d3721c3ce2f4.webp
 )
 
-The much-anticipated crossover set *FINAL FANTASY* has finally launched! Led by FFVII protagonist [Cloud](https://scryfall.com/card/fin/10/cloud-midgar-mercenary), Equipment is a major theme running through the set. I published a [Standard Equipment deck](https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/) on this site back when it first launched, and all of that deck's core pieces are still in Standard, so this is a great time to retune it! What kind of evolution can this set bring to that deck?
+The much-anticipated crossover set *FINAL FANTASY* has finally launched! Led by FFVII protagonist [Cloud](https://scryfall.com/card/fin/10/cloud-midgar-mercenary), Equipment is a major theme running through the set. I published a [Standard Equipment deck](https://guildmagesforum.tw/en/Standard-Boros-Equipment-Standard/) on this site back when it first launched, and all of that deck's core pieces are still in Standard, so this is a great time to retune it! What kind of evolution can this set bring to that deck?
 
 ## Card Analysis
 

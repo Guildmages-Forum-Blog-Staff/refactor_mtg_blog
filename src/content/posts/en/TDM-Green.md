@@ -15,7 +15,7 @@ excerpt: "The set that best embodies green's playstyle: ramp up and slam big cre
 
 Tarkir: Dragonstorm (TDM) will hold its Prerelease events on April 4, 2025, and officially launch one week later on April 11, 2025. Want a better understanding of individual card ratings and advice for Limited? Then check out this series of TDM Limited overviews!
 
-- For an introduction to the mechanics, see this article: [Tarkir: Dragonstorm Mechanics Breakdown](https://guildmagesforum.tw/TDM-mechanism/)
+- For an introduction to the mechanics, see this article: [Tarkir: Dragonstorm Mechanics Breakdown](https://guildmagesforum.tw/en/TDM-mechanism/)
 
 ## Rating Scale
 
@@ -200,7 +200,7 @@ Comment: Besides trading one-for-one in combat, its fixing effect works in both 
 Score: 4.0
 Comment: A vanilla 3/3 trampler for three would already be a 3.0. This one not only has an extra point of power, it also lets you draw cards when your creatures are killed / countered / targeted. When playing green, it is hard not to first-pick it.
 
-> A small note from [cephille](/authors/cephille/): judging from the ability design, the old and new Khans carry the following subtle metaphor. The old Khan Surrak is as mighty as ever, but in the division of labor on the Temur Frontier he leans toward defending the land and its people, while the new Khan [Eshki Dragonclaw](https://scryfall.com/card/tdm/182/eshki-dragonclaw) has abilities better suited to expanding territory. As a player who has been playing since KTK, I watched Surrak go from a youth fighting a bear ([Savage Punch](https://scryfall.com/card/ktk/147/savage-punch)), to a middle-aged man wrestling a crocodile in DTK ([Epic Confrontation](https://scryfall.com/card/dtk/185/epic-confrontation)), then burying the hatchet with [Goreclaw](https://scryfall.com/card/m19/186/goreclaw-terror-of-qal-sisma) and joining forces against the new Phyrexian invasion ([Surrak and Goreclaw](https://scryfall.com/card/mom/337/surrak-and-goreclaw)). Now, in TDM, he has entered his twilight years, and after handing the title of Khan to the new generation he still firmly guards the Temur Frontier, which moves me a little.
+> A small note from [cephille](/en/authors/cephille/): judging from the ability design, the old and new Khans carry the following subtle metaphor. The old Khan Surrak is as mighty as ever, but in the division of labor on the Temur Frontier he leans toward defending the land and its people, while the new Khan [Eshki Dragonclaw](https://scryfall.com/card/tdm/182/eshki-dragonclaw) has abilities better suited to expanding territory. As a player who has been playing since KTK, I watched Surrak go from a youth fighting a bear ([Savage Punch](https://scryfall.com/card/ktk/147/savage-punch)), to a middle-aged man wrestling a crocodile in DTK ([Epic Confrontation](https://scryfall.com/card/dtk/185/epic-confrontation)), then burying the hatchet with [Goreclaw](https://scryfall.com/card/m19/186/goreclaw-terror-of-qal-sisma) and joining forces against the new Phyrexian invasion ([Surrak and Goreclaw](https://scryfall.com/card/mom/337/surrak-and-goreclaw)). Now, in TDM, he has entered his twilight years, and after handing the title of Khan to the new generation he still firmly guards the Temur Frontier, which moves me a little.
 
 
 <!---162--->

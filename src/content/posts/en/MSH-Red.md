@@ -18,7 +18,7 @@ excerpt: "Who is worthy of wielding Mjölnir in Limited?"
 
 Marvel Super Heroes (MSH) holds its Prerelease events on June 19, 2026, and releases officially a week later on June 26, 2026. Want to know more about how each card rates and plays in Limited? Then check out this series of MSH Limited reviews!
 
-- For the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/MSH-mechanism/)
+- For the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/en/MSH-mechanism/)
 
 
 ## Ratings

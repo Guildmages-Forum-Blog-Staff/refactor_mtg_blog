@@ -15,7 +15,7 @@ excerpt: "Ninjas, samurai, legends, spirits, and... foxes? I know! We're back on
 
 Teenage Mutant Ninja Turtles ([TMT](https://scryfall.com/sets/tmt)) holds its prerelease events on February 27, 2026, and launches officially a week later on March 6, 2026. Want to know more about TMT's color-pair themes and deckbuilding strategies? Then check out this series of first looks at TMT Limited!
 
-- For the mechanics, see this article: [TMT Mechanics Explained](https://guildmagesforum.tw/TMT-mechanism/)
+- For the mechanics, see this article: [TMT Mechanics Explained](https://guildmagesforum.tw/en/TMT-mechanism/)
 - The official [Magic: The Gathering® | Teenage Mutant Ninja Turtles Prerelease Guide](https://magic.wizards.com/en/news/feature/teenage-mutant-ninja-turtles-prerelease-guide), published on February 20, 2026, mentions "**key removal spell**". Click the mana symbol of each color to look up the relevant info. By the way, the colorless {% mtglink "Henchbots" %} and {% mtglink "Weather Maker" %} (if you put more than 3 charge counters on it) can just about count as removal spells too, so keep them in mind. 
 
 ## Color-Pair Themes

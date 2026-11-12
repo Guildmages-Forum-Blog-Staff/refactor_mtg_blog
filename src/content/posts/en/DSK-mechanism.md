@@ -57,7 +57,7 @@ Manifest dread is a variant of manifest. When a player manifests dread, they loo
 
 If the face-down card is a creature card, its controller can turn it face up any time they have priority by paying its mana cost. Turning it face up is a special action that doesn't use the stack. If the card happens to be a Disguise or Morph creature card, you can also use the Disguise/Morph ability to turn it face up.
 
-> For more details on Disguise from MKM, see [Murders at Karlov Manor Mechanics Explained](https://guildmagesforum.tw/MKM-mechanism/).
+> For more details on Disguise from MKM, see [Murders at Karlov Manor Mechanics Explained](https://guildmagesforum.tw/en/MKM-mechanism/).
 
 ## Survival
 

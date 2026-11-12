@@ -15,7 +15,7 @@ excerpt: "Four nations united: fire, earth, water, air. The Avatar descends, so 
 
 Avatar: The Last Airbender prereleases will be held on November 14, 2025. Want to understand more about individual card ratings and advice for Limited? Then check out this series of TLA Limited introductions!
 
-- For the mechanics, see this article: [Avatar Mechanics Explained](https://guildmagesforum.tw/TLA-Mechanism/)
+- For the mechanics, see this article: [Avatar Mechanics Explained](https://guildmagesforum.tw/en/TLA-Mechanism/)
 
 ## Color Pair Themes
 

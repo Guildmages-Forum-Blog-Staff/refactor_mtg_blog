@@ -17,7 +17,7 @@ excerpt: "This Vivi looks so tasty, why not toss it in the cauldron?"
 
 [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) (the Cauldron from here on) has been full of endless possibilities since it was born, feeding all sorts of wonderful decks with a single card, and after it got the premium ingredient [Vivi](https://scryfall.com/card/fin/248/vivi-ornitier), it has turned Standard into a wasteland.
 
-In proportion to its possibilities, this guy has never been short of rules questions either, and these questions often involve [Layer](https://guildmagesforum.tw/Layer/) or even concepts more obscure than [Layer](https://guildmagesforum.tw/Layer/). This time let's look at how to handle the Cauldron's various issues. <font color="#A6A6A6">(Not including handling tournament problems with the banned list)</font>
+In proportion to its possibilities, this guy has never been short of rules questions either, and these questions often involve [Layer](https://guildmagesforum.tw/en/Layer/) or even concepts more obscure than [Layer](https://guildmagesforum.tw/en/Layer/). This time let's look at how to handle the Cauldron's various issues. <font color="#A6A6A6">(Not including handling tournament problems with the banned list)</font>
 
 ![Introduction](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/545d21dcdd2a.webp)
 
@@ -47,13 +47,13 @@ Note here that the Cauldron is written with **"When"**, and seeing this word mea
 
 The Cauldron can give creatures activated abilities, which falls under Layer 6, the effects that add or remove abilities.
 
->Further reading: [Layer: The Interaction of Continuous Effects](https://guildmagesforum.tw/Layer/#%E5%B1%A46%EF%BC%9A%E6%B7%BB%E5%8A%A0%E3%80%81%E7%A7%BB%E9%99%A4%E7%95%B0%E8%83%BD%E7%9A%84%E6%95%88%E6%87%89)
+>Further reading: [Layer: The Interaction of Continuous Effects](https://guildmagesforum.tw/en/Layer/#layer-6-effects-that-add-or-remove-abilities)
 
 According to MTG's rules about text, when an effect mentions the object's own name, it refers only to **that object** and has nothing to do with any other objects of the same name. So suppose Cauldron #1 exiles a card and leaves the battlefield, and then Cauldron #2 enters. It can't give the activated abilities of the cards exiled with Cauldron #1. Of course, even the same Cauldron card, after leaving the battlefield and re-entering, is an independent new object, and a re-entered Cauldron means the same as Cauldron #2 above.
 
 - 201.5. If an object's rules text uses its name to refer to itself, it refers only to that object and not to any other object with the same name, regardless of any name changes caused by game effects.
 
->Further reading: [Something About Card Names](https://guildmagesforum.tw/Something-About-Card-Name/)
+>Further reading: [Something About Card Names](https://guildmagesforum.tw/en/Something-About-Card-Name/)
 
 
 
@@ -86,7 +86,7 @@ As mentioned above, the actual effect of Pack Rat's ability is **"create a token
 
 If the Cauldron has currently exiled one Vivi, then each of your creatures with a +1/+1 counter can activate Vivi's ability once.
 
-Now suppose two Vivi are exiled with the Cauldron. Then the Cauldron gives your creatures the activated abilities of both Vivi independently, meaning your creatures get two identical independent abilities, each of which can be activated once. In addition, the interaction between [Exhaust](https://guildmagesforum.tw/DFT-mechanism/#%E7%AB%AD%E7%B5%95%EF%BC%88Exhaust%EF%BC%89r) abilities and the Cauldron works on the same principle.
+Now suppose two Vivi are exiled with the Cauldron. Then the Cauldron gives your creatures the activated abilities of both Vivi independently, meaning your creatures get two identical independent abilities, each of which can be activated once. In addition, the interaction between [Exhaust](https://guildmagesforum.tw/en/DFT-mechanism/#exhaust) abilities and the Cauldron works on the same principle.
 
 
 
@@ -121,7 +121,7 @@ Also, a permanent can activate only one loyalty ability per turn. That's the rul
 
 The Cauldron gives creatures abilities, while Dress Down makes creatures lose all abilities. When both are on the battlefield, can your creatures gain the abilities given by the Cauldron?
 
-Both belong to Layer 6, [effects that add or remove abilities](https://guildmagesforum.tw/Layer/#%E5%B1%A46%EF%BC%9A%E6%B7%BB%E5%8A%A0%E3%80%81%E7%A7%BB%E9%99%A4%E7%95%B0%E8%83%BD%E7%9A%84%E6%95%88%E6%87%89), so they take effect in [timestamp](https://guildmagesforum.tw/What-is-Time-Stamp/) order, or more plainly, the later one overrides the earlier one.
+Both belong to Layer 6, [effects that add or remove abilities](https://guildmagesforum.tw/en/Layer/#layer-6-effects-that-add-or-remove-abilities), so they take effect in [timestamp](https://guildmagesforum.tw/en/What-is-Time-Stamp/) order, or more plainly, the later one overrides the earlier one.
 
 Dress Down's timestamp is easy to understand: it's the time this enchantment entered the battlefield. But what about the timestamp of **"the effect that gives creatures the abilities from the Cauldron"**? The answer isn't the time the creature entered, nor the time the +1/+1 counter was put on the creature, but **the time the Cauldron entered the battlefield**.
 > You can understand it as the Cauldron's effect being continuously in effect from the moment it enters the battlefield. It's just that it only produces a visible impact once it has exiled a qualifying card and you control a creature with a +1/+1 counter, but even if it has no effect on the current board, the effect exists all along.
@@ -130,7 +130,7 @@ Suppose the Cauldron entered first and Dress Down entered later: then the creatu
 
 - 613.7a The timestamp of a continuous effect that comes from a static ability is the timestamp of the object that has the static ability or of the effect that created that ability, whichever is later. If the effect that created the ability has the later timestamp and the object the ability is on gets a new timestamp, each continuous effect from that object's static abilities also gets a new timestamp, but the relative order of those timestamps stays the same.
 
->Further reading: [What Is a Timestamp](https://guildmagesforum.tw/What-is-Time-Stamp/)
+>Further reading: [What Is a Timestamp](https://guildmagesforum.tw/en/What-is-Time-Stamp/)
 
 **<font color="#FF0000">Conclusion: Cauldron & Dress Down, the one that entered later overrides the one that entered earlier</font>**
 
@@ -151,7 +151,7 @@ After the Merfolk's effect applies, the Cauldron loses all abilities, including 
 
 Although this answer looks easy to understand, if you dig deeper you'll find it can't seem to be explained with the timestamp concept from the previous question. That's because there is a **dependency** in the rules interaction between the Merfolk and the Cauldron, but dependency is too complex to explain clearly in a few words, so here I'll just give the conclusion, and for a more detailed explanation you can refer to a past article:
 
->Further reading: [What Is Dependency](https://guildmagesforum.tw/What-is-Dependency/)
+>Further reading: [What Is Dependency](https://guildmagesforum.tw/en/What-is-Dependency/)
 
 By the way, whether it's the Cauldron's activated ability that exiles a creature or its triggered ability that puts the +1/+1 counter that gets countered by the Merfolk, either way the Cauldron loses all abilities.
 

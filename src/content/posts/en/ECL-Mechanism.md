@@ -33,7 +33,7 @@ Blight is followed by a number N. Blight N means putting N -1/-1 counters on a c
 Blight doesn't target. You only choose which creature to put the -1/-1 counters on when you actually perform the blight. If you blight 2, it's perfectly fine to put both -1/-1 counters on a single 1/1 creature. Blight doesn't care whether your creature can survive this calamity.
 
 Because this set uses -1/-1 counters, no cards in this set can place +1/+1 counters. There is, however, an important rule to note about these two kinds of counters:
-If a permanent has both +1/+1 and -1/-1 counters on it, the two kinds cancel out in pairs. For detailed rules, see [state-based actions (SBA)](https://guildmagesforum.tw/What-is-SBA/).
+If a permanent has both +1/+1 and -1/-1 counters on it, the two kinds cancel out in pairs. For detailed rules, see [state-based actions (SBA)](https://guildmagesforum.tw/en/What-is-SBA/).
 
 
 
@@ -57,7 +57,7 @@ Kindred cards are never creature cards, but they have a creature subtype. Suppos
 ## Changeling
 ![Changeling](https://images.guildmagesforum.tw/posts/ECL-Mechanism/a8d67cbd6ca9.webp)
 
-Changeling is a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/Characteristic-Defining-Ability/). An object with changeling has every creature type, and this effect works in all zones. Suppose an effect lets you search your library for a Faerie creature card and put it into your hand. Then you can also find a changeling creature card and put it into your hand.
+Changeling is a [characteristic-defining ability (CDA)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/). An object with changeling has every creature type, and this effect works in all zones. Suppose an effect lets you search your library for a Faerie creature card and put it into your hand. Then you can also find a changeling creature card and put it into your hand.
 
 
 
@@ -66,7 +66,7 @@ Changeling is a [characteristic-defining ability (CDA)](https://guildmagesforum.
 ## Behold
 ![Behold](https://images.guildmagesforum.tw/posts/ECL-Mechanism/475fe1ebc741.webp)
 
-Behold is a new mechanic that appeared not long ago in [Tarkir: Dragonstorm](https://guildmagesforum.tw/TDM-mechanism/#behold). It returns in this set with additional expansion.
+Behold is a new mechanic that appeared not long ago in [Tarkir: Dragonstorm](https://guildmagesforum.tw/en/TDM-mechanism/#behold). It returns in this set with additional expansion.
 
 Behold is a keyword action, always followed by a certain quality. In this set, that quality is always a creature type. Behold means revealing a card with that quality from your hand, or choosing a permanent you control with that quality (you only choose it, it isn't targeted). This time, some beholds go a step further: instead of only asking you to reveal or choose, they require you to exile it.
 

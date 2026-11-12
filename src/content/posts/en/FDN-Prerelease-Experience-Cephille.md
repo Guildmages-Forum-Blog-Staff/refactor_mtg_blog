@@ -17,7 +17,7 @@ This weekend I played 3 prerelease sealed events, plus the 12 packs from the pri
 
 > If you're interested, check out these earlier articles to learn about limited in other sets:
 > 
-> - [豬鼻子's DSK Prerelease Sealed Report](https://guildmagesforum.tw/DSK-Prerelease-Experience-Cephille/)
+> - [豬鼻子's DSK Prerelease Sealed Report](https://guildmagesforum.tw/en/DSK-Prerelease-Experience-Cephille/)
 > - [豬鼻子's BLB Prerelease Sealed Report](https://hackmd.io/@cephille/HJQ-5G7FA)
 > - [豬鼻子's MH3 Prerelease Sealed Report](https://hackmd.io/@cephille/HkEu_H7SA)
 > - [豬鼻子's OTJ Prerelease Sealed Report](https://hackmd.io/@cephille/Sy9i0hulA)
@@ -117,7 +117,7 @@ It's a pity there was no Temur (red-blue-green) tri-land. When building I tried 
 The red-white sideboard could basically work too, but the early curve is a bit rough; the upside is that the removal is decent, and with an extra sweeper, {% mtgpick "fdn" 140 tooltip=true %} , you can catch the opponent off guard, and there are enough fliers to hold back quality creatures, wipe the board, and trade into a wave of attacks.
 
 > **Shop Introduction:**
-> **卡士多** is in Datong District, Taipei, near Minquan W. Rd. MRT Station, and it's also the card shop where I know the most friends in Taipei. Quite a few of my teammates at [Guildmages' Forum](https://guildmagesforum.tw/) are also players who came up through 卡士多! Standard events are very popular in the shop; besides the Wednesday Standard practice event and the monthly Standard tournament, players often arrange matches among themselves in the shop. There is also a regular monthly Commander event with sea monsters banned. Interested players are welcome to come play at the shop!
+> **卡士多** is in Datong District, Taipei, near Minquan W. Rd. MRT Station, and it's also the card shop where I know the most friends in Taipei. Quite a few of my teammates at [Guildmages' Forum](https://guildmagesforum.tw/en/) are also players who came up through 卡士多! Standard events are very popular in the shop; besides the Wednesday Standard practice event and the monthly Standard tournament, players often arrange matches among themselves in the shop. There is also a regular monthly Commander event with sea monsters banned. Interested players are welcome to come play at the shop!
 
 ### Sealed Pool 4 (Not Played)
 
@@ -168,14 +168,14 @@ So I'm no longer going to write about whether playing prereleases is worthwhile;
 
 ## Reference
 
-I'm continuing to advertise the limited articles we've written on [Guildmages' Forum](https://guildmagesforum.tw/); the links are in the Reference section. You're welcome to visit our [website](https://guildmagesforum.tw/) and [Facebook page](https://www.facebook.com/guildmagesforumtw) to read the articles and leave comments to discuss!
+I'm continuing to advertise the limited articles we've written on [Guildmages' Forum](https://guildmagesforum.tw/en/); the links are in the Reference section. You're welcome to visit our [website](https://guildmagesforum.tw/en/) and [Facebook page](https://www.facebook.com/guildmagesforumtw) to read the articles and leave comments to discuss!
 
 Guildmages' Forum FDN limited article links:
 
-1. [FDN — White](https://guildmagesforum.tw/FDN-White/)
-2. [FDN — Blue](https://guildmagesforum.tw/FDN-Blue/)
-3. [FDN — Black](https://guildmagesforum.tw/FDN-Black/)
-4. [FDN — Red](https://guildmagesforum.tw/FDN-Red/)
-5. [FDN — Green](https://guildmagesforum.tw/FDN-Green/)
-6. [FDN — Multicolor](https://guildmagesforum.tw/FDN-multicolors/)
-7. [FDN — Colorless & Lands & SPG](https://guildmagesforum.tw/FDN-colorless/)
+1. [FDN — White](https://guildmagesforum.tw/en/FDN-White/)
+2. [FDN — Blue](https://guildmagesforum.tw/en/FDN-Blue/)
+3. [FDN — Black](https://guildmagesforum.tw/en/FDN-Black/)
+4. [FDN — Red](https://guildmagesforum.tw/en/FDN-Red/)
+5. [FDN — Green](https://guildmagesforum.tw/en/FDN-Green/)
+6. [FDN — Multicolor](https://guildmagesforum.tw/en/FDN-multicolors/)
+7. [FDN — Colorless & Lands & SPG](https://guildmagesforum.tw/en/FDN-colorless/)

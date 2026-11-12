@@ -15,7 +15,7 @@ excerpt: "Omnislash!!! Let Cloud take his Buster Sword and cut the tie with Seph
 
 FINAL FANTASY (FIN) holds its prerelease events on June 6, 2025. Want to learn more about card ratings and advice for Limited? Then check out this series of FIN Limited overviews!
 
-- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/FIN-mechanism/)
+- For the mechanics, see this article: [FINAL FANTASY Mechanics Explained](https://guildmagesforum.tw/en/FIN-mechanism/)
 
 ## Rating Scale
 

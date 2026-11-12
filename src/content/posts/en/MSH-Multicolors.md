@@ -19,7 +19,7 @@ excerpt: "Welcome to the world of Marvel Super Heroes! Which hero is the most ic
 
 The Marvel Super Heroes (MSH) Limited introduction — Multicolor. Prerelease events will be held on June 19, 2026, with the official release one week later on June 26, 2026. Want to know more about Limited card ratings and recommendations? Then check out this series of MSH Limited introductions!
 
-- For an introduction to the mechanics, see this article: [Marvel Super Heroes Mechanics Explained](https://guildmagesforum.tw/MSH-mechanism/)
+- For an introduction to the mechanics, see this article: [Marvel Super Heroes Mechanics Explained](https://guildmagesforum.tw/en/MSH-mechanism/)
 
 ## Color Pair Themes
 ![](https://images.guildmagesforum.tw/posts/MSH-Multicolors/16ab97db8634.webp)

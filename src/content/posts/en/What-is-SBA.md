@@ -208,7 +208,7 @@ Whether it's life ≤0 or losing from drawing from an empty library, both are ha
 
 This is also a classic Death's Shadow question. Suppose my life is currently 12 and I control a Death's Shadow (with size 1/1). The opponent attacks me with two vanilla 3/3 creatures, and I have Death's Shadow block one of the 3/3s. After damage is dealt, is Death's Shadow still alive?
 
-The [Combat Damage Step](https://guildmagesforum.tw/Round-Process/#%E5%82%B7%E5%AE%B3%E7%B5%90%E7%AE%97%E6%AD%A5%E9%A9%9F%EF%BC%88Combat-Damage-Step%EF%BC%89) works as follows:
+The [Combat Damage Step](https://guildmagesforum.tw/en/Round-Process/#combat-damage-step) works as follows:
 
 Damage is dealt → check SBA → triggered abilities go on the stack → player gets priority
 

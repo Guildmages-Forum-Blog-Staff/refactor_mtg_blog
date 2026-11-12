@@ -75,7 +75,7 @@ You can also choose to cast the Adventure spell. It goes on the stack as an inst
 
 In addition, an Adventure card in any zone other than the stack has only the characteristics of its permanent side. If an effect lets you search your library for an instant/sorcery card, you can't find an Adventure card.
 
->Adventure and the [Omen](https://guildmagesforum.tw/TDM-mechanism/#%E9%A0%90%E5%85%86%EF%BC%88Omen%EF%BC%89) mechanic from **Tarkir: Dragonstorm** have card frames with the exact same art style, but the rules of the two are not the same, so you need to check the type line carefully.
+>Adventure and the [Omen](https://guildmagesforum.tw/en/TDM-mechanism/#omen) mechanic from **Tarkir: Dragonstorm** have card frames with the exact same art style, but the rules of the two are not the same, so you need to check the type line carefully.
 
 
 

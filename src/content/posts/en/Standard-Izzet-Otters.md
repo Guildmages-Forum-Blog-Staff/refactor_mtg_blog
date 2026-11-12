@@ -17,7 +17,7 @@ authors:
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Izzet-Otters/a0c3595a12ec.webp)
 
-*Bloomburrow* has ten charming tribes. If you ask which is the most challenging to build, aside from the Frogs mentioned in the [previous article](https://guildmagesforum.tw/Standard-Simic-Frog/), it has to be the Otters. At first glance it is a traditional prowess route that burns and beats down, yet it also contains the possibility of wild turns with convoke. Which route is more stable?
+*Bloomburrow* has ten charming tribes. If you ask which is the most challenging to build, aside from the Frogs mentioned in the [previous article](https://guildmagesforum.tw/en/Standard-Simic-Frog/), it has to be the Otters. At first glance it is a traditional prowess route that burns and beats down, yet it also contains the possibility of wild turns with convoke. Which route is more stable?
 
 ## Card Analysis
 

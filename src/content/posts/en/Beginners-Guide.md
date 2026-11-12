@@ -319,7 +319,7 @@ In a BO3 (best-of-three) match, the first game is called the main-deck game, and
 
 ### Turn Structure
 
-For a complete explanation of the turn structure rules, see our earlier article: ["The Turn Structure Explained"](https://guildmagesforum.tw/Round-Process/). This article gives only a simple overview.
+For a complete explanation of the turn structure rules, see our earlier article: ["The Turn Structure Explained"](https://guildmagesforum.tw/en/Round-Process/). This article gives only a simple overview.
 
 ![Turn Structure](https://images.guildmagesforum.tw/posts/Beginners-Guide/ff7a3455f17e.webp)
 
@@ -388,7 +388,7 @@ Sorcery speed means you can only act during your own main phase when the stack i
 
 Instant speed, broadly speaking, means you can act at any time, including during the opponent's turn. The only spells that can be cast at instant speed are those of the instant type, though some effects can make a sorcery-speed card usable at instant speed. Also, abilities in MTG default to being activatable at instant speed, and if an ability can only be activated at sorcery speed, it will be specially noted.
 
-> The above is a loose description; for a detailed introduction, please see the article ["The Turn Structure Explained"](https://guildmagesforum.tw/Round-Process/).
+> The above is a loose description; for a detailed introduction, please see the article ["The Turn Structure Explained"](https://guildmagesforum.tw/en/Round-Process/).
 
 Let's use an example to see the power of instants. Suppose it's the opponent's turn, and they have a 5/4 <font color="#FF0000">Fire Elemental</font> while I have a 3/3 <font color="#00B050">Centaur Courser</font>. In the opponent's eyes, attacking with the <font color="#FF0000">Fire Elemental</font> is risk-free, so they attack. However, I choose to block with the <font color="#00B050">Centaur Courser</font>, and before damage is resolved I cast an instant: <font color="#00B050">Titanic Growth</font>, giving the <font color="#00B050">Centaur Courser</font> +4/+4 and making it a 7/7. Now it is the 5/4 <font color="#FF0000">Fire Elemental</font> that crashes into a wall and one-sidedly hands over a free kill.
 
@@ -490,8 +490,8 @@ Each player opens 6 booster packs, and these cards are the card pool you can use
 Each player uses 3 booster packs. After the match starts, each person opens their first booster pack, picks one card from it, and passes the remaining cards to the left to the next player, continuing to pass to the left in this way until all of the cards in all the packs have been picked. Then open the second booster pack and pick in the same way, except the passing direction changes to the right; finally, open the third booster pack and pass to the left as with the first pack. After all the cards in the three booster packs have been picked, the cards you have kept are the card pool you can use to build your deck for this event.
 
   > Further reading:
-  > ["How Beginners Can Improve at Limited: Sealed Edition"](https://guildmagesforum.tw/How-to-Get-Advance-in-Limited-Sealed/)
-  > ["How Beginners Can Improve at Limited: Draft Edition"](https://guildmagesforum.tw/How-to-Get-Advance-in-Limited-Draft/)
+  > ["How Beginners Can Improve at Limited: Sealed Edition"](https://guildmagesforum.tw/en/How-to-Get-Advance-in-Limited-Sealed/)
+  > ["How Beginners Can Improve at Limited: Draft Edition"](https://guildmagesforum.tw/en/How-to-Get-Advance-in-Limited-Draft/)
 
 
 ### Constructed

@@ -20,7 +20,7 @@ excerpt: "This set's green cards all have excellent floors; even the worst are b
 
 Edge of Eternities holds its prerelease events on July 25, 2025. Want to learn more about how individual cards rate in Limited and our recommendations? Then check out this EOE Limited overview series!
 
-- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/EOE-Mechanism/)
+- For the mechanics, see this article: [Edge of Eternities Mechanics Explained](https://guildmagesforum.tw/en/EOE-Mechanism/)
 
 ## Grading Scale
 

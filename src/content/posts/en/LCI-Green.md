@@ -17,7 +17,7 @@ authors:
 
 The Lost Caverns of Ixalan (LCI) prerelease events are held on November 10, 2023, with the official release one week later on November 17, 2023. Want to know more about individual card ratings in Limited and some potentially fun synergies? Then check out this LCI Limited guide series!
 
-For a mechanics rundown, see this article: [The Lost Caverns of Ixalan Mechanics Explained](https://guildmagesforum.tw/LCI-mechanic/)
+For a mechanics rundown, see this article: [The Lost Caverns of Ixalan Mechanics Explained](https://guildmagesforum.tw/en/LCI-mechanic/)
 
 ## Rating Scale
 

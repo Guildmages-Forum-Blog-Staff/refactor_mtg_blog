@@ -16,7 +16,7 @@ categories:
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Introduction-of-Cube-Cobra/).
 
-This is a follow-up article on **Cube**. Readers who enjoy the draft experience are invited to start with [What Is a CUBE - Your First Cube](https://guildmagesforum.tw/What-is-Cube/).
+This is a follow-up article on **Cube**. Readers who enjoy the draft experience are invited to start with [What Is a CUBE - Your First Cube](https://guildmagesforum.tw/en/What-is-Cube/).
 
 ## What Is CubeCobra
 

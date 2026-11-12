@@ -22,9 +22,9 @@ When interpreting rules about dependency, a special situation easily arises: you
 
 {% folding red :: Previous Articles %}
 
-- [Copiable Values](https://guildmagesforum.tw/What-is-Copiable-Value/)
-- [Characteristic-Defining Abilities](https://guildmagesforum.tw/Characteristic-Defining-Ability/)
-- [Timestamps](https://guildmagesforum.tw/What-is-Time-Stamp/)
+- [Copiable Values](https://guildmagesforum.tw/en/What-is-Copiable-Value/)
+- [Characteristic-Defining Abilities](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/)
+- [Timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/)
 
 {% endfolding %}
 
@@ -40,7 +40,7 @@ Remember that in the last article, when we introduced timestamps, we briefly wen
 
 {% folding red :: Definitions of Each Layer %}
 
-- Layer 1: Rules and effects that affect [copiable values](https://guildmagesforum.tw/What-is-Copiable-Value/) are applied.
+- Layer 1: Rules and effects that affect [copiable values](https://guildmagesforum.tw/en/What-is-Copiable-Value/) are applied.
   - Layer 1a: Copy effects are applied.
   - Layer 1b: Rules about the characteristics of face-down spells and permanents are applied.
 - Layer 2: Control-changing effects are applied.
@@ -49,7 +49,7 @@ Remember that in the last article, when we introduced timestamps, we briefly wen
 - Layer 5: Color-changing effects are applied.
 - Layer 6: Effects that add abilities, keyword counters, effects that remove abilities, and effects that say an object can't have an ability are applied.
 - Layer 7: Effects that change power and/or toughness are applied.
-  - Layer 7a: Effects from [characteristic-defining abilities](https://guildmagesforum.tw/Characteristic-Defining-Ability/) that define power and/or toughness are applied.
+  - Layer 7a: Effects from [characteristic-defining abilities](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) that define power and/or toughness are applied.
   - Layer 7b: Effects that set power and/or toughness to a specific number or value are applied. Effects that refer to the base power and/or toughness of a creature apply in this layer.
   - Layer 7c: Effects and counters that modify power and/or toughness (but don't set power and/or toughness to a specific number or value) are applied.
   - Layer 7d: Effects that switch a creature's power and toughness are applied.
@@ -99,7 +99,7 @@ First, 613.8a defines what kinds of effects form a dependency:
 - **(a) It is applied in the same layer (or sublayer) as the other effect**
   This is easy to understand, and so far it matches the timestamp condition. The rules that decide the difference between timestamps and dependency come later.
 - **(c) Neither effect is from a characteristic-defining ability, or both are**
-  We already explained the definition of [characteristic-defining abilities (CDAs)](https://guildmagesforum.tw/Characteristic-Defining-Ability/) in a previous article. Readers not yet familiar with CDAs can go back and read the earlier posts.
+  We already explained the definition of [characteristic-defining abilities (CDAs)](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/) in a previous article. Readers not yet familiar with CDAs can go back and read the earlier posts.
 - **<font color="#FF0000">(b) Applying the other would change the text or the existence of the first effect, what it applies to, or what it does to any of the things it applies to</font>**
   This single short line is the most important core definition of dependency! Do you feel this rule is too vague, and that a pile of detailed clauses will follow to fill in the details? Unfortunately not. This is the entire rules text of dependency.
 
@@ -134,7 +134,7 @@ After applying <font color="#FF0000">Turn to Frog</font>, <font color="#0000FF">
 > {T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.
 > [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder): When Tishana's Tidebinder enters the battlefield, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as Tishana's Tidebinder remains on the battlefield.
 
-Agatha's Soul Cauldron is hereafter called the "Cauldron". This question is somewhat similar to the "[Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) + [Dress Down](https://scryfall.com/card/mh2/39/dress-down)" example from [the previous article](https://guildmagesforum.tw/What-is-Time-Stamp/), but that one could be explained with timestamps alone, while this time we need dependency. Readers may want to think first about what the difference between the two is.
+Agatha's Soul Cauldron is hereafter called the "Cauldron". This question is somewhat similar to the "[Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) + [Dress Down](https://scryfall.com/card/mh2/39/dress-down)" example from [the previous article](https://guildmagesforum.tw/en/What-is-Time-Stamp/), but that one could be explained with timestamps alone, while this time we need dependency. Readers may want to think first about what the difference between the two is.
 
 Back to the example: the Cauldron has already exiled a [Birds of Paradise](https://scryfall.com/card/rvr/133/birds-of-paradise), so every creature of yours with a +1/+1 counter has Birds of Paradise's mana ability ({T}: Add one mana of any color), and you now have a [Young Wolf](https://scryfall.com/card/j22/746/young-wolf) with a +1/+1 counter on it. Later, when the Cauldron's ability is activated again, it is countered by Tishana's Tidebinder. While the Tidebinder remains on the battlefield, does your Young Wolf still have Birds of Paradise's mana ability?
 
@@ -186,7 +186,7 @@ But in this case, Yixlid Jailer's ability doesn't act directly on Necrotic Ooze.
 
 When Sutured Ghoul enters, it exiles Necrogoyf from the graveyard. How should Sutured Ghoul's power be calculated?
 
-This is a rare dependency involving [CDAs](https://guildmagesforum.tw/Characteristic-Defining-Ability/). Let's recall one important feature of CDAs: **"a characteristic-defining ability works in all zones."** So no matter which zone Necrogoyf is in now, the card's power dynamically checks the current game state.
+This is a rare dependency involving [CDAs](https://guildmagesforum.tw/en/Characteristic-Defining-Ability/). Let's recall one important feature of CDAs: **"a characteristic-defining ability works in all zones."** So no matter which zone Necrogoyf is in now, the card's power dynamically checks the current game state.
 
 And when calculating power, <font color="#0000FF">Sutured Ghoul</font>'s CDA needs to refer to the CDA of the <font color="#FF0000">Necrogoyf</font> it exiled. In other words, <font color="#0000FF">Sutured Ghoul</font> depends on <font color="#FF0000">Necrogoyf</font>. You first compute <font color="#FF0000">Necrogoyf</font>'s power, then use that value to compute <font color="#0000FF">Sutured Ghoul</font>'s power.
 
@@ -206,7 +206,7 @@ Both are layer 2 "control-changing effects." <font color="#0000FF">Control Magic
 
 We finally arrive at the most classic example of dependency. Blood Moon + Urborg is an example you absolutely can't avoid when talking about dependency. This article without it would be like fried shrimp without the sauce.
 
-Before formally interpreting their relationship, we need to go back and explain how Blood Moon's ability works. Simply put, Blood Moon makes nonbasic lands lose their original land types and abilities, and then gives them the Mountain type and the ability to tap for red mana. Although losing abilities is involved, this is not a layer 6 ability adding or removing effect, but a special case among layer 4 type-changing effects. For a fuller explanation, see the earlier article: [Why Did Urza's Saga Blow Itself Up?](https://guildmagesforum.tw/Saga-and-Moon/).
+Before formally interpreting their relationship, we need to go back and explain how Blood Moon's ability works. Simply put, Blood Moon makes nonbasic lands lose their original land types and abilities, and then gives them the Mountain type and the ability to tap for red mana. Although losing abilities is involved, this is not a layer 6 ability adding or removing effect, but a special case among layer 4 type-changing effects. For a fuller explanation, see the earlier article: [Why Did Urza's Saga Blow Itself Up?](https://guildmagesforum.tw/en/Saga-and-Moon/).
 
 - 305.7
   If an effect sets a land's subtype to one or more of the basic land types, the land no longer has its old land type. It loses all abilities generated from its rules text, its old land types, and any copiable effects affecting that land, and it gains a mana ability for each basic land type it has. Setting a land's subtype doesn't add or remove any card types (such as creature) or supertypes (such as basic, legendary, and snow) the land may have.
@@ -217,7 +217,7 @@ Let's see what happens if Urborg is applied first. Urborg gives all lands the Sw
 
 What is the result if <font color="#FF0000">Blood Moon</font> is applied first? <font color="#FF0000">Blood Moon</font> makes <font color="#0000FF">Urborg</font> lose all its original abilities. In other words, after applying <font color="#FF0000">Blood Moon</font>, <font color="#0000FF">Urborg</font>'s effect simply disappears, so <font color="#0000FF">Urborg</font> depends on <font color="#FF0000">Blood Moon</font>! In the end, all nonbasic lands, including Urborg, become Mountains.
 
-In fact, the logic of this case is very simple, but this way of writing effects that modify land types is sometimes less intuitive than the examples above. And compared to the previous examples, where <font color="#FF0000">A</font> clearly affects <font color="#0000FF">B</font>, the interaction of <font color="#FF0000">Blood Moon</font> & <font color="#0000FF">Urborg</font> looks especially like it falls within the scope of timestamp handling, as if the two effects had little dependency. For a similar case, see "Blood Moon + [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)" in [the previous article](https://guildmagesforum.tw/What-is-Time-Stamp/). When you are unsure whether there is a dependency between two effects, a simple way to judge is to **"simulate the two effects once in each application order."** Taking this question as an example, once you try applying Blood Moon first or Urborg first, the relationship between the two becomes quite obvious. Even if you still don't understand the definition of dependency, at least in a game you can sort out the current game state.
+In fact, the logic of this case is very simple, but this way of writing effects that modify land types is sometimes less intuitive than the examples above. And compared to the previous examples, where <font color="#FF0000">A</font> clearly affects <font color="#0000FF">B</font>, the interaction of <font color="#FF0000">Blood Moon</font> & <font color="#0000FF">Urborg</font> looks especially like it falls within the scope of timestamp handling, as if the two effects had little dependency. For a similar case, see "Blood Moon + [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)" in [the previous article](https://guildmagesforum.tw/en/What-is-Time-Stamp/). When you are unsure whether there is a dependency between two effects, a simple way to judge is to **"simulate the two effects once in each application order."** Taking this question as an example, once you try applying Blood Moon first or Urborg first, the relationship between the two becomes quite obvious. Even if you still don't understand the definition of dependency, at least in a game you can sort out the current game state.
 
 ![Rootpath Purifier](https://images.guildmagesforum.tw/posts/What-is-Dependency/89f8cc27e89c.webp)
 

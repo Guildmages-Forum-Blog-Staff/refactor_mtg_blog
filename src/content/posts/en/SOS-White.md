@@ -16,7 +16,7 @@ excerpt: "Remember to pay attention to how many instant/sorcery spells in your d
 
 Secrets of Strixhaven (SOS) will hold its prerelease events on April 17, 2026, and officially launch one week later on April 24, 2026. Want to learn more about single-card ratings and recommendations in Limited? Then check out this SOS Limited primer series!
 
-- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Breakdown](https://guildmagesforum.tw/SOS-mechanism/)
+- For the mechanics, see this article: [Secrets of Strixhaven Mechanics Breakdown](https://guildmagesforum.tw/en/SOS-mechanism/)
 
 ## Rating Scale
 

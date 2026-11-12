@@ -15,7 +15,7 @@ excerpt: "Want to dive deep into TDM Limited? Start reading from this multicolor
 
 Tarkir: Dragonstorm (TDM) will hold its prerelease events on April 4, 2025, and launch officially a week later on April 11, 2025. Want to know more about the card ratings and advice for individual cards in Limited? Then check out this series of TDM Limited guides!
 
-- For the mechanics, see this article: [Tarkir: Dragonstorm ~ Mechanics Breakdown](https://guildmagesforum.tw/TDM-mechanism/)
+- For the mechanics, see this article: [Tarkir: Dragonstorm ~ Mechanics Breakdown](https://guildmagesforum.tw/en/TDM-mechanism/)
 
 ## Before We Start
 

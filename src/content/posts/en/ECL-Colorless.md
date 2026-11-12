@@ -15,7 +15,7 @@ excerpt: "Are colors hard to put together? Not at all. Are tribes hard to build 
 
 Lorwyn Eclipsed (ECL) holds its prerelease events on January 16, 2026, and is officially released one week later on January 23, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of ECL Limited introductions!
 
-- For the mechanics, see this article: [Lorwyn Eclipsed Mechanics Explained](https://guildmagesforum.tw/ECL-Mechanism/)
+- For the mechanics, see this article: [Lorwyn Eclipsed Mechanics Explained](https://guildmagesforum.tw/en/ECL-Mechanism/)
 
 In addition, ECL includes as many as 20 [Special Guest (SPG)](#special-guest-spg) cards, with one non-foil appearing in every 55 regular Play Boosters. They can be used in ECL Limited, as well as in the formats where each card was originally legal.
 

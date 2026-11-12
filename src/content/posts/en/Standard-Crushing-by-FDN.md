@@ -171,7 +171,7 @@ I personally regard Foundations as a Standard set with the weight of two sets re
 
 If you're an old friend who quit long ago and recently saw the news and want to try coming back to Standard, then this is a very good time to return. For this type of player I assume you already have a basic grasp of the MTG rules; if you're a newbie not yet familiar with how to play, I suggest skipping ahead to the [Complete Beginners!](#complete-beginners) section below. If your budget allows, you can even consider buying 2 to 4 boxes of the [Starter Collection](https://mtg.fandom.com/wiki/Magic:_The_Gathering_Foundations/Starter_Collection) at once to fill out the cards Foundations adds. Each box also comes with 3 FDN Play Boosters, and after opening them you can look at what deck you want to build and try to fill in the single cards you need. Further investment should go toward the lands of other Standard sets.
 
-> I can't help recommending again the [Foundations Standard Preliminary](https://guildmagesforum.tw/FDN-Standard-Preliminary/) published on this site a few days ago, where 35 constructed decks serve as a touchstone for the new Standard, boldly trying new cards and blending them into the current Standard card pool. I personally think it was done quite well. Readers are welcome to look back when you hit a bottleneck in deckbuilding, and you'll surely find new discoveries and gains.
+> I can't help recommending again the [Foundations Standard Preliminary](https://guildmagesforum.tw/en/FDN-Standard-Preliminary/) published on this site a few days ago, where 35 constructed decks serve as a touchstone for the new Standard, boldly trying new cards and blending them into the current Standard card pool. I personally think it was done quite well. Readers are welcome to look back when you hit a bottleneck in deckbuilding, and you'll surely find new discoveries and gains.
 
 ### Complete Beginners!
 
@@ -181,7 +181,7 @@ I personally highly recommend that new players buy a [Beginner Box](https://mtg.
 
 Through the cards in the Starter Collection and Beginner Box, players can gradually learn Magic's card design and game mechanics, and naturally become the "cornerstone" of these new players' experience and understanding of Magic. And don't forget, the companions who experience this game with you and get through the beginner growing phase together often become important friends in your future memories, or even your life.
 
-> To newbie friends, we also highly recommend reading this [MTG Beginner's Guide](https://guildmagesforum.tw/Beginners-Guide/). After understanding the basic concepts in the article and some essential MTG knowledge, the next step is to go to a card store to play and discuss with others! If you have related questions, feel free to message the [Guildmages' Forum 魔風集會所 fan page](https://www.facebook.com/guildmagesforumtw) too!
+> To newbie friends, we also highly recommend reading this [MTG Beginner's Guide](https://guildmagesforum.tw/en/Beginners-Guide/). After understanding the basic concepts in the article and some essential MTG knowledge, the next step is to go to a card store to play and discuss with others! If you have related questions, feel free to message the [Guildmages' Forum 魔風集會所 fan page](https://www.facebook.com/guildmagesforumtw) too!
 
 ## Conclusion: Foundations, the Evergreen Warm Winter of Standard
 

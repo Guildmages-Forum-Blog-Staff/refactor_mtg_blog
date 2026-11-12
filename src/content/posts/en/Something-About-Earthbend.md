@@ -15,7 +15,7 @@ excerpt: "There is no doubt that Earthbend is the year's most complex mechanic"
 
 ## Introduction
 
-[Earthbend](https://guildmagesforum.tw/TLA-Mechanism/#%E9%81%8B%E5%9C%9F%EF%BC%88Earthbend%EF%BC%89) is clearly one of the very powerful new mechanics in Avatar: The Last Airbender, and [Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub) in particular has been the center of attention since the preview season. In proportion to its power, Earthbend's complexity is also quite high, so much so that even the official mechanics article, rarely, got it wrong. It is not an exaggeration to call it the most complex new mechanic in 2025 Standard. Today, let's see just how many problems Earthbend can cause!
+[Earthbend](https://guildmagesforum.tw/en/TLA-Mechanism/#earthbend) is clearly one of the very powerful new mechanics in Avatar: The Last Airbender, and [Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub) in particular has been the center of attention since the preview season. In proportion to its power, Earthbend's complexity is also quite high, so much so that even the official mechanics article, rarely, got it wrong. It is not an exaggeration to call it the most complex new mechanic in 2025 Standard. Today, let's see just how many problems Earthbend can cause!
 
 ![Introduction](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/74656a576d36.webp)
 
@@ -31,7 +31,7 @@ The official rule text of Earthbend is as follows:
 
 ![Earthbend](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/bf9187a4d346.webp)
 
-Honestly, it isn't really hard to remember, since effects that turn lands into creatures are not uncommon. But a mechanic that touches multiple [Layers](https://guildmagesforum.tw/Layer/) at once always has the potential to become a rules bomb in play.
+Honestly, it isn't really hard to remember, since effects that turn lands into creatures are not uncommon. But a mechanic that touches multiple [Layers](https://guildmagesforum.tw/en/Layer/) at once always has the potential to become a rules bomb in play.
 
 In actual play, though, most rules questions involving Earthbend are caused by the last sentence, **<font color="#FF0000">"When that land dies or is put into exile, return it to the battlefield tapped under your control."</font>** About this effect, let me first summarize two key points, whose underlying principles will be explained in more detail in the examples that follow.
 
@@ -81,7 +81,7 @@ Why can't Rest in Peace stop it, when it also ends up in exile, while Ghost Vacu
 
 If you wipe out earthbent land creatures with Day of Black Sun, can those lands come back? This is a question that came up constantly in TLA Limited.
 
-When we talk about an object gaining or losing abilities, we are actually talking about the ability-adding and ability-removing effects of [Layer 6](https://guildmagesforum.tw/Layer/#%E5%B1%A46%EF%BC%9A%E6%B7%BB%E5%8A%A0%E3%80%81%E7%A7%BB%E9%99%A4%E7%95%B0%E8%83%BD%E7%9A%84%E6%95%88%E6%87%89). But in Layer 6, the only ability Earthbend gives is haste; the part about returning when it dies or is exiled is an effect that applies to the land, not an ability of the land itself.
+When we talk about an object gaining or losing abilities, we are actually talking about the ability-adding and ability-removing effects of [Layer 6](https://guildmagesforum.tw/en/Layer/#layer-6-effects-that-add-or-remove-abilities). But in Layer 6, the only ability Earthbend gives is haste; the part about returning when it dies or is exiled is an effect that applies to the land, not an ability of the land itself.
 
 | Layer | Earthbent land creature | Day of Black Sun |
 | :-: | :-: | :-: |
@@ -93,7 +93,7 @@ When we talk about an object gaining or losing abilities, we are actually talkin
 
 The conclusion: **<font color="#FF0000">losing abilities cannot stop an earthbent land creature from returning</font>**.
 
-> For a case with a similar principle, see [Legwen + Dress Down](https://guildmagesforum.tw/Layer/#%E5%B7%A7%E6%89%8B%E7%AB%8A%E7%8C%B4%E5%8B%92%E6%A0%BC%E6%96%87-%E8%A4%AA%E9%99%A4%E6%AD%A6%E8%A3%9D).
+> For a case with a similar principle, see [Legwen + Dress Down](https://guildmagesforum.tw/en/Layer/).
 
 
 
@@ -109,7 +109,7 @@ So is a board wipe truly powerless against Earthbend? Not quite; there are some 
 
 After wiping the board, Ultima immediately ends the turn, which means the whole stack is cleared, and abilities waiting to be put on the stack won't go on the stack, so Earthbend's return triggered ability simply vanishes.
 
-> Further reading: [What Does "End the Turn" Mean?](https://guildmagesforum.tw/What-does-End-this-Turn-Mean/)
+> Further reading: [What Does "End the Turn" Mean?](https://guildmagesforum.tw/en/What-does-End-this-Turn-Mean/)
 
 As for Deadly Cover-Up with evidence collected, after the wipe it exiles a card from the opponent's graveyard. This is one complete action with no response point in between. Suppose the opponent earthbent a basic Forest. After Deadly Cover-Up wipes the board, you can choose to exile that basic Forest from the opponent's graveyard, and exile all cards with the same name from their graveyard, hand, and library. Only after Deadly Cover-Up finishes resolving does Earthbend get its turn. Since the basic Forest going to the graveyard is what triggered Earthbend, Earthbend will try to find that basic Forest in the graveyard, but it is no longer there, so Earthbend can't rescue it.
 
@@ -157,7 +157,7 @@ Suppose Restless Cottage is currently earthbent 2 and is a 2/2 creature. When it
 > ● **[Soulstone Sanctuary](https://scryfall.com/card/fdn/133/soulstone-sanctuary):** 
 > {4}: This land becomes a 3/3 creature with vigilance and all creature types until end of turn. It's still a land.
 
-From the previous example, we can see that Earthbend's "becomes 0/0" and a manland's own "becomes N/N" are both effects that set power and toughness in [Layer 7B](https://guildmagesforum.tw/Layer/#%E5%B1%A47b%EF%BC%9A%E8%A8%AD%E5%AE%9A%E5%8A%9B%E9%87%8F%E3%80%81%E9%98%B2%E7%A6%A6%E5%8A%9B%E7%82%BA%E6%8C%87%E5%AE%9A%E6%95%B8%E5%80%BC). When multiple effects try to modify base power and toughness in 7B at the same time, you compare the two effects' [timestamps](https://guildmagesforum.tw/What-is-Time-Stamp/); put plainly, the later one overrides the earlier one.
+From the previous example, we can see that Earthbend's "becomes 0/0" and a manland's own "becomes N/N" are both effects that set power and toughness in [Layer 7B](https://guildmagesforum.tw/en/Layer/#before-we-start). When multiple effects try to modify base power and toughness in 7B at the same time, you compare the two effects' [timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/); put plainly, the later one overrides the earlier one.
 
 Suppose a Soulstone Sanctuary has already activated its own ability and is a 3/3 vigilance creature. If you then Earthbend 2 it, it instead becomes a 0/0 creature with two +1/+1 counters. Of course, you can also activate Soulstone Sanctuary's animation again, and then it is a 3/3 with two +1/+1 counters, a 5/5 haste vigilance creature.
 
@@ -303,7 +303,7 @@ Let's first analyze how the effects of these three work:
 | 4 | Creatures are additionally artifact - Food | Artifacts are additionally lands | Nonbasic lands are Mountains |
 | 6 | Have an ability to sacrifice itself to gain life |  |  |
 
-You can see all three act in the same Layer, Layer 4, the type-changing effects. Normally, when multiple effects act in the same Layer, you compare their [timestamps](https://guildmagesforum.tw/What-is-Time-Stamp/) to determine the order they apply, but this one is slightly more complicated, because applying one effect changes what another effect applies to. That means there are [dependencies](https://guildmagesforum.tw/What-is-Dependency/) among these effects, which forcibly determine their order of application.
+You can see all three act in the same Layer, Layer 4, the type-changing effects. Normally, when multiple effects act in the same Layer, you compare their [timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/) to determine the order they apply, but this one is slightly more complicated, because applying one effect changes what another effect applies to. That means there are [dependencies](https://guildmagesforum.tw/en/What-is-Dependency/) among these effects, which forcibly determine their order of application.
 
 - 613.8. Within a layer or sublayer, determining which order effects are applied in is sometimes done using a dependency system. If an effect is dependent on another, it will override the timestamp system.
 - 613.8a An effect is said to "depend on" another if (a) it's applied in the same layer (and sublayer, if appropriate) as the other effect; (b) applying the other would change the text or the existence of the first effect, what it applies to, or what it does to any of the things it applies to; and (c) neither effect is from a characteristic-defining ability or both effects are from characteristic-defining abilities. Otherwise, the effects are independent of each other.
@@ -323,7 +323,7 @@ So why is the sacrifice-to-gain-life activated ability the only one kept? The re
 
 - 613.6 If an effect should be applied in different layers and/or sublayers, the parts of the effect each apply in their appropriate ones. If an effect starts to apply in one layer and/or sublayer, it will continue to be applied to the same set of objects in other layers and/or sublayers, even if the ability generating the effect is removed during this process.
 
-> This question can really be seen as an upgraded-complexity version of [Blood Moon + Ashaya, Soul of the Wild](https://guildmagesforum.tw/Layer/#%E8%85%A5%E7%B4%85%E4%B9%8B%E6%9C%88-%E8%8D%92%E9%87%8E%E4%B9%8B%E9%AD%82%E8%89%BE%E8%8E%8E%E5%A9%AD): the last part, handling the Blood Moon-style effect, is exactly the same logic, just with more components involved in the rules interaction up front, and Ygra contributes an extra branch about Food. This article only briefly presents the final result; for more on how Layers work, see the article [Layers: Interaction of Continuous Effects](https://guildmagesforum.tw/Layer/).
+> This question can really be seen as an upgraded-complexity version of [Blood Moon + Ashaya, Soul of the Wild](https://guildmagesforum.tw/en/Layer/): the last part, handling the Blood Moon-style effect, is exactly the same logic, just with more components involved in the rules interaction up front, and Ygra contributes an extra branch about Food. This article only briefly presents the final result; for more on how Layers work, see the article [Layers: Interaction of Continuous Effects](https://guildmagesforum.tw/en/Layer/).
 
 
 

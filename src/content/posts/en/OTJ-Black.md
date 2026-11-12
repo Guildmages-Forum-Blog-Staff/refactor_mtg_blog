@@ -15,7 +15,7 @@ authors:
 
 Outlaws of Thunder Junction (OTJ) prerelease events are held on April 12, 2024, with the official release one week later on April 19, 2024. Want to know more about individual card ratings in Limited and some potentially fun synergies? Then check out this OTJ Limited guide series!
 
-For a mechanics rundown, see this article: [Outlaws of Thunder Junction Mechanics Explained](https://guildmagesforum.tw/OTJ-mechanism/)
+For a mechanics rundown, see this article: [Outlaws of Thunder Junction Mechanics Explained](https://guildmagesforum.tw/en/OTJ-mechanism/)
 
 ## Rating Scale
 

@@ -74,7 +74,7 @@ Collect evidence is always followed by a number N. Collect evidence N means exil
 
 Welcome to the most complex mechanic of this set: Disguise.
 
-Disguise can roughly be seen as an upgraded version of Morph. It is a rare mechanic that uses the "face-down/face-up" rules, and it was also introduced in the article [What is Copiable Value](https://guildmagesforum.tw/What-is-Copiable-Value/#Before-We-Start).
+Disguise can roughly be seen as an upgraded version of Morph. It is a rare mechanic that uses the "face-down/face-up" rules, and it was also introduced in the article [What is Copiable Value](https://guildmagesforum.tw/en/What-is-Copiable-Value/#before-we-start).
 
 Disguise includes the following rules:
 

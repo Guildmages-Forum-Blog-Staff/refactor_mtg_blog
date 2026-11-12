@@ -16,7 +16,7 @@ categories:
 
 ## Introduction
 
-Hi everyone, I am Weihow. I am honored to once again be invited by [cephille](/authors/cephille/) to share how I prepared for MIT#8. Compared with previous tournaments, this time I spent more time on preparation and practice beforehand, and I am very happy to have finished in fourth place.
+Hi everyone, I am Weihow. I am honored to once again be invited by [cephille](/en/authors/cephille/) to share how I prepared for MIT#8. Compared with previous tournaments, this time I spent more time on preparation and practice beforehand, and I am very happy to have finished in fourth place.
 
 Reactions on the day and the luck of the draw are of course important, but I believe solid pre-tournament preparation is also an indispensable part of raising your win rate. This is probably what people mean by "do your best and leave the rest to fate."
 
@@ -91,7 +91,7 @@ The tournament itself also had its twists and turns. I lost round one to Blink, 
 
 ![](https://images.guildmagesforum.tw/posts/MIT-8-Review/ae6714135b4a.webp)
 
-> [cephille](/authors/cephille/): While waiting for the top 8 list to be announced, our group took this photo of him wearing a "whole village's hope" name tag (with Velcro on the back so it can be stuck on and pulled off at will, super convenient!). At the time he could not quite manage a smile XD But very soon he was grinning like a child!
+> [cephille](/en/authors/cephille/): While waiting for the top 8 list to be announced, our group took this photo of him wearing a "whole village's hope" name tag (with Velcro on the back so it can be stuck on and pulled off at will, super convenient!). At the time he could not quite manage a smile XD But very soon he was grinning like a child!
 
 Although I unfortunately ended in fourth place, it was still a step closer to my goal of playing in the PT. Looking back after the tournament, I think that during a tournament you should work hard to maintain a positive mindset and focus on the match. Fluctuations at the start easily breed self-doubt, but until the last game is played, the outcome is unknown. Since you have prepared well beforehand, you should take things calmly.
 

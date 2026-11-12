@@ -16,7 +16,7 @@ authors:
 
 Murders at Karlov Manor (MKM) will hold its prerelease events on February 2, 2024, and officially release a week later on February 9, 2024. Want to learn more about individual card ratings in Limited and some interesting possible synergies? Then check out this series of MKM Limited guides!
 
-For the mechanics overview, see this article: [Murders at Karlov Manor Mechanics Breakdown](https://guildmagesforum.tw/MKM-mechanism/)
+For the mechanics overview, see this article: [Murders at Karlov Manor Mechanics Breakdown](https://guildmagesforum.tw/en/MKM-mechanism/)
 
 ## Rating Scale
 

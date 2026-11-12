@@ -19,7 +19,7 @@ authors:
 
 This is a rather long introduction, so if you can't be bothered, skip straight to the next section.
 
-I qualified for MIT#6 with Dimir Midrange. If you're interested, take a look at [豬鼻子's Standard Dimir Midrange analysis and tournament report](https://guildmagesforum.tw/Standard-Dimir-Midrange/); I won't repeat it here.
+I qualified for MIT#6 with Dimir Midrange. If you're interested, take a look at [豬鼻子's Standard Dimir Midrange analysis and tournament report](https://guildmagesforum.tw/en/Standard-Dimir-Midrange/); I won't repeat it here.
 
 Apart from preparing for Modern at MIT#5, I kept playing Dimir Midrange in Standard and tried all sorts of different builds. Even when Esper blanketed more than 30% of the field at PT-OTJ, I still stuck with Dimir Midrange, for the following reasons:
 
@@ -74,7 +74,7 @@ The main targets of the interference are as follows:
 
 ![](https://images.guildmagesforum.tw/posts/MIT-6-Review/9b4017111b37.webp)
 
-That said, in the short week after deciding to play three-color Sultai, this version actually went through several iterations. I'm very grateful to my friends at [Guildmage's Forum](https://guildmagesforum.tw/) for discussing it with me and giving me better ideas. A brief summary follows.
+That said, in the short week after deciding to play three-color Sultai, this version actually went through several iterations. I'm very grateful to my friends at [Guildmage's Forum](https://guildmagesforum.tw/en/) for discussing it with me and giving me better ideas. A brief summary follows.
 
 ### Adjusting the Mana Base for Three-Color Sultai
 
@@ -104,7 +104,7 @@ You can also see here that **the game plan of this version is actually somewhat 
 
 ![](https://cards.scryfall.io/large/front/c/4/c49690c7-c282-4eb4-8da3-5e0c46a80fc4.jpg?1707428999)
 
-[**Kellan, Inquisitive Prodigy // Tail the Suspect**](https://scryfall.com/card/mkm/212/kellan-inquisitive-prodigy-tail-the-suspect): At MIT#5 I watched [約力昂大叔](https://www.facebook.com/profile.php?id=100068751771443) use this card to great effect in Modern in [Temur Rhinos](https://guildmagesforum.tw/Modern-Temur-Rhinos-LD/). Since I had the chance to use it, I wanted to try it too, and it felt quite good! Tail the Suspect, the two-mana Adventure, makes a Clue and lets you play an extra land, which is very important in a mana-tight midrange matchup and can pull you from being on the draw to level with being on the play. A common situation is that after the turn-two Adventure you unlock a slow land that enters with black, and can follow up with [Duress](https://scryfall.com/card/sta/92/ja/%E5%BC%B7%E8%BF%AB) or hold mana for [Cut Down](https://scryfall.com/card/dmu/89/cut-down)! And the four-mana 3/4 flying vigilance body is excellent, making him completely immune to interference from [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor) when attacking, and he can even push back and kill her. Blowing up artifacts when attacking is super, super strong! Sacrificing your own artifacts to draw cards is also excellent. That might be Map tokens from an opponent's [Get Lost](https://scryfall.com/card/lci/14/get-lost), Food tokens sent out after a [Golgari creature land](https://scryfall.com/card/woe/258/restless-cottage) attacks, your own Adventure, and Clue tokens from [Hostile Investigator](https://scryfall.com/card/big/10/hostile-investigator); not to mention that he can blow up deadly artifacts like [Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge) and a whole bunch of other nasty ones! Against Bant Toxic you can happily destroy your opponent's artifact creatures too. White-blue artifacts? Eat my Kellan's stratospheric attack!
+[**Kellan, Inquisitive Prodigy // Tail the Suspect**](https://scryfall.com/card/mkm/212/kellan-inquisitive-prodigy-tail-the-suspect): At MIT#5 I watched [約力昂大叔](https://www.facebook.com/profile.php?id=100068751771443) use this card to great effect in Modern in [Temur Rhinos](https://guildmagesforum.tw/en/Modern-Temur-Rhinos-LD/). Since I had the chance to use it, I wanted to try it too, and it felt quite good! Tail the Suspect, the two-mana Adventure, makes a Clue and lets you play an extra land, which is very important in a mana-tight midrange matchup and can pull you from being on the draw to level with being on the play. A common situation is that after the turn-two Adventure you unlock a slow land that enters with black, and can follow up with [Duress](https://scryfall.com/card/sta/92/ja/%E5%BC%B7%E8%BF%AB) or hold mana for [Cut Down](https://scryfall.com/card/dmu/89/cut-down)! And the four-mana 3/4 flying vigilance body is excellent, making him completely immune to interference from [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor) when attacking, and he can even push back and kill her. Blowing up artifacts when attacking is super, super strong! Sacrificing your own artifacts to draw cards is also excellent. That might be Map tokens from an opponent's [Get Lost](https://scryfall.com/card/lci/14/get-lost), Food tokens sent out after a [Golgari creature land](https://scryfall.com/card/woe/258/restless-cottage) attacks, your own Adventure, and Clue tokens from [Hostile Investigator](https://scryfall.com/card/big/10/hostile-investigator); not to mention that he can blow up deadly artifacts like [Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge) and a whole bunch of other nasty ones! Against Bant Toxic you can happily destroy your opponent's artifact creatures too. White-blue artifacts? Eat my Kellan's stratospheric attack!
 
 Kellan is also a card that made splashing blue feel very worthwhile to me. At least I no longer have to play weak cards like [Sentinel of the Nameless City](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city) the way Golgari might out of fear of [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor). If I could re-register my MIT#6 list, I would definitely move a slot to a second Kellan, at least in the sideboard.
 
@@ -120,7 +120,7 @@ Kellan is also a card that made splashing blue feel very worthwhile to me. At le
 
 ### Sideboard Plan
 
-With the help of my friends at [Guildmage's Forum](https://guildmagesforum.tw/), we each prepared a Sideboard Guide and discussed and fine-tuned it. Here is [the Sideboard Guide I prepared](https://docs.google.com/spreadsheets/d/1NU-FS6G8y7HY0edtQXTGwiXP74-X9tQ6kC97ZCWhV38/edit?usp=sharing). If you're interested, take a look, and feel free to contact me to discuss it.
+With the help of my friends at [Guildmage's Forum](https://guildmagesforum.tw/en/), we each prepared a Sideboard Guide and discussed and fine-tuned it. Here is [the Sideboard Guide I prepared](https://docs.google.com/spreadsheets/d/1NU-FS6G8y7HY0edtQXTGwiXP74-X9tQ6kC97ZCWhV38/edit?usp=sharing). If you're interested, take a look, and feel free to contact me to discuss it.
 
 ## MIT#6 Main Event Round Notes
 
@@ -160,7 +160,7 @@ So I used Otawara to bounce their [Virtue of Strength](https://scryfall.com/card
 
 ### R5 Esper Legends 1-2
 
-I faced Kappa, a friend from [Guildmage's Forum](https://guildmagesforum.tw/). Nothing much to say; a real, serious match!
+I faced Kappa, a friend from [Guildmage's Forum](https://guildmagesforum.tw/en/). Nothing much to say; a real, serious match!
 
 In game one, all I remember is that two Duress couldn't see anything, which was super pathetic, and I got buried in card advantage by Bat plus Gix. After I removed the [Virtue of Persistence](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn) that the Bat was holding down, I then removed Gix, and then the opponent landed the second Gix they were holding...  Eventually my [Glissa Sunslayer](https://scryfall.com/card/one/202/glissa-sunslayer) was removed as soon as it landed, and I followed up with [Preacher of the Schism](https://scryfall.com/card/lci/113/preacher-of-the-schism) to keep trading life and held the ground with [Archfiend of the Dross](https://scryfall.com/card/one/82/archfiend-of-the-dross), but the opponent had two [Plaza of Heroes](https://scryfall.com/card/dmu/252/plaza-of-heroes) and wasn't afraid to just crash in and trade, and in the end the Demon was removed and I conceded.
 
@@ -194,4 +194,4 @@ The Top 8 had four Boros Convoke, one Azorius Control, one Bant Toxic, one Esper
 
 The format of MIT#6 was Standard, which I personally am stronger at, and it was the most solid amount of practice I've put in over these three seasons. Although I went through the struggle and iteration of changing decks, I believe that readers who have made it this far can understand my chain of decisions. I'm not satisfied with the result, but I did everything I could, and at least I managed to win at least one game in every match.
 
-I'm very grateful to my friends at [Guildmage's Forum](https://guildmagesforum.tw/) and the friends who accompanied me in practice and testing along the way. I'm quite sure that if I had prepared alone, I wouldn't have had enough practice or confidence in my deck choice, nor the performance at the venue. In Magic: the Gathering, besides winning, continuing to climb to higher levels, and struggling painfully, what is equally fun is the concept of "the gathering". This game is so much fun because a group of people play together, practice together, and grow together, and that is what makes you and me unable to quit.
+I'm very grateful to my friends at [Guildmage's Forum](https://guildmagesforum.tw/en/) and the friends who accompanied me in practice and testing along the way. I'm quite sure that if I had prepared alone, I wouldn't have had enough practice or confidence in my deck choice, nor the performance at the venue. In Magic: the Gathering, besides winning, continuing to climb to higher levels, and struggling painfully, what is equally fun is the concept of "the gathering". This game is so much fun because a group of people play together, practice together, and grow together, and that is what makes you and me unable to quit.

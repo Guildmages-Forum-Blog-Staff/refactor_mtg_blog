@@ -45,7 +45,7 @@ This set brought a functional homage to [Collected Company](https://scryfall.com
 [Decklist](https://www.mtggoldfish.com/deck/7022270#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/TDM-Standard-Preliminary/fa43ebf11637.webp)
 
-[Ferocious](https://mtg.fandom.com/wiki/Ferocious) was the signature mechanic of Temur in Khans of Tarkir. In Standard sets since then the word "ferocious" hasn't been used again, but effects that care about creatures with power 4 or greater have shown up more and more often, and by now it's practically a semi-evergreen design. Guildmages' Forum has run an article on this theme before; see the earlier piece - [Wild Awakening: Standard Gruul Ferocious](https://guildmagesforum.tw/Standard-Gruul-Ferocious/)
+[Ferocious](https://mtg.fandom.com/wiki/Ferocious) was the signature mechanic of Temur in Khans of Tarkir. In Standard sets since then the word "ferocious" hasn't been used again, but effects that care about creatures with power 4 or greater have shown up more and more often, and by now it's practically a semi-evergreen design. Guildmages' Forum has run an article on this theme before; see the earlier piece - [Wild Awakening: Standard Gruul Ferocious](https://guildmagesforum.tw/en/Standard-Gruul-Ferocious/)
 
 This set gave us a new ferocious card, [Herd Heirloom](https://scryfall.com/card/tdm/144/herd-heirloom), which provides both acceleration and card advantage and is a very practical addition. After all, the power-4 creatures that ferocious demands are hard to land on a 2-mana curve, so it's better to swap in a useful ramp piece and give the deck more explosive power.
 
@@ -59,7 +59,7 @@ This set gave us a new ferocious card, [Herd Heirloom](https://scryfall.com/card
 [Decklist](https://www.mtggoldfish.com/deck/7022084#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/TDM-Standard-Preliminary/ba049518e312.webp)
 
-How could Tarkir go without Dragons? Ever since FDN reprinted [Carnelian Orb of Dragonkind](https://scryfall.com/card/fdn/534/carnelian-orb-of-dragonkind), Dragons have solved their most troublesome problem, clunky deployment, and have been a real contender; see the earlier article - [Draconic Roar: Standard Mono-Red Dragons](https://guildmagesforum.tw/Standard-Red-Dragon-Wins/)
+How could Tarkir go without Dragons? Ever since FDN reprinted [Carnelian Orb of Dragonkind](https://scryfall.com/card/fdn/534/carnelian-orb-of-dragonkind), Dragons have solved their most troublesome problem, clunky deployment, and have been a real contender; see the earlier article - [Draconic Roar: Standard Mono-Red Dragons](https://guildmagesforum.tw/en/Standard-Red-Dragon-Wins/)
 
 Because many of the key Dragons sit at 5 mana, we splashed green and used [Bloomvine Regent // Claim Territory](https://scryfall.com/card/tdm/136/bloomvine-regent-claim-territory), which can ramp via Omen and improves our ability to reach 5 mana. And once you get to higher mana, it's a Dragon with plenty of combat power on its own, so you don't need to worry about it being a dead draw in the mid to late game. Once we mention the keywords green and 5 mana, it's naturally [Up the Beanstalk](https://scryfall.com/card/woe/195/up-the-beanstalk)'s turn to shine. The resource strength of [Up the Beanstalk](https://scryfall.com/card/woe/195/up-the-beanstalk) alone is worth splashing green for, and green also does reasonably well in sideboards in the current environment.
 

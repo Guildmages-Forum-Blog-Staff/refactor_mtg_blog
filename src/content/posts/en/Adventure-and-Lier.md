@@ -29,7 +29,7 @@ Today let's analyze how Lier actually does it, and whether other cards with simi
 
 ## Is Casting This Spell Legal?
 
-What is the first step of casting a spell? Readers who have read the article **[How to Cast a Spell Without Paying Its Mana Cost](https://guildmagesforum.tw/casting-spell-without-mana-cost/)** should remember that the first step is moving the spell to the stack:
+What is the first step of casting a spell? Readers who have read the article **[How to Cast a Spell Without Paying Its Mana Cost](https://guildmagesforum.tw/en/casting-spell-without-mana-cost/)** should remember that the first step is moving the spell to the stack:
 
 - 601.2a
   A player announces that they are casting a spell, and moves that card (or a copy of that card) to the top of the stack until the spell resolves, is countered, or moves elsewhere.

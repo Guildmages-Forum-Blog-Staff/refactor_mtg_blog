@@ -15,7 +15,7 @@ excerpt: "In short: go wide like crazy"
 
 Lorwyn Eclipsed (ECL) prerelease events take place on January 16, 2026, with the official release a week later on January 23, 2026. Want to know more about individual card ratings and advice for Limited? Then check out this series of ECL Limited overviews!
 
-- For the mechanics, see this article: [Lorwyn Eclipsed Mechanics Breakdown](https://guildmagesforum.tw/ECL-Mechanism/)
+- For the mechanics, see this article: [Lorwyn Eclipsed Mechanics Breakdown](https://guildmagesforum.tw/en/ECL-Mechanism/)
 
 ## Rating Scale
 

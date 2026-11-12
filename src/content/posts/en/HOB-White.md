@@ -18,7 +18,7 @@ excerpt: "Which is stronger, the human-wave tactic or the dwarves armed with all
 
 The Hobbit (HOB) will hold its prerelease events on August 7, 2026, and officially launch one week later on August 14, 2026. Want to learn more about card ratings and advice for Limited? Then check out this series of HOB Limited reviews!
 
-- For the mechanics, see this article: [The Hobbit Mechanics Breakdown](https://guildmagesforum.tw/HOB-Mechanism/)
+- For the mechanics, see this article: [The Hobbit Mechanics Breakdown](https://guildmagesforum.tw/en/HOB-Mechanism/)
 
 ## Rating Scale
 

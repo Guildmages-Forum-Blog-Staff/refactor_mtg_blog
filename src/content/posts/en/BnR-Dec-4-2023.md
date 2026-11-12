@@ -111,7 +111,7 @@ Later in October, when everyone was most dissatisfied with Scam, they didn't act
 If new cards from WOE or LCI had had a terrible effect on these formats, that would be one thing (like Geological Appraiser coming out and blowing up the Pioneer metagame). But instead they chose to touch a deck that had been out for at least half a year, had passed the annual ban list, and had not been greatly affected by the new sets.
 Even [the last time Pioneer was touched](https://magic.wizards.com/en/news/announcements/june-7-2022-banned-and-restricted-announcement) was like this too: they waited until the metagame was almost done balancing itself (even [Winota](https://cards.scryfall.io/large/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1654630670) itself knew it would be heavily targeted and had other strategies in sideboard games) before announcing that Winota would be banned.
 
-In any case, as I wrote in the [Rakdos Scam article](https://guildmagesforum.tw/Modern-Rakdos-Scam/): "...Now it is instead awkward. Whatever they do will be a joke. If they act, their own earlier statement of touching eternal formats once a year is a joke; if they don't act, then the Modern format itself is a joke."
+In any case, as I wrote in the [Rakdos Scam article](https://guildmagesforum.tw/en/Modern-Rakdos-Scam/): "...Now it is instead awkward. Whatever they do will be a joke. If they act, their own earlier statement of touching eternal formats once a year is a joke; if they don't act, then the Modern format itself is a joke."
 In the end, Wizards chose to slap their own face and banned the annual ban list.
 
 Last time R&B banned the draft boosters, and this time it banned the annual ban list. What will it ban next?

@@ -19,7 +19,7 @@ excerpt: "Black is the color of villains. Let's step into the wicked villain uni
 
 Marvel Super Heroes (MSH) prerelease events run on June 19, 2026, with the official release one week later on June 26, 2026. Want to know more about how individual cards rate in Limited, plus some pick advice? Then check out this series of MSH Limited overviews!
 
-- For the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/MSH-mechanism/)
+- For the mechanics, see this article: [Marvel Super Heroes Mechanics Breakdown](https://guildmagesforum.tw/en/MSH-mechanism/)
 
 ## Card Ratings
 
