@@ -1,5 +1,5 @@
 ---
-title: "豬鼻子's First Look at Wilds of Eldraine (WOE) Limited — Red"
+title: "cephille's First Look at Wilds of Eldraine (WOE) Limited — Red"
 date: 2023-09-05 17:36:45
 categories:
   - "Limited"

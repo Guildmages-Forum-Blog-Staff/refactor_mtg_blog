@@ -1,9 +1,9 @@
 ---
-title: "豬鼻子's FDN Prerelease Sealed Report"
+title: "cephille's FDN Prerelease Sealed Report"
 date: "2024-11-11 21:26:45"
 cover: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
-excerpt: "Foundations constructed? Isn't that just a core set? If you're used to regular Standard limited, is a core set any fun? Let 豬鼻子 tell you from real experience!"
+excerpt: "Foundations constructed? Isn't that just a core set? If you're used to regular Standard limited, is a core set any fun? Let cephille tell you from real experience!"
 authors:
   - "cephille"
 categories:
@@ -17,11 +17,11 @@ This weekend I played 3 prerelease sealed events, plus the 12 packs from the pri
 
 > If you're interested, check out these earlier articles to learn about limited in other sets:
 > 
-> - [豬鼻子's DSK Prerelease Sealed Report](https://guildmagesforum.tw/en/DSK-Prerelease-Experience-Cephille/)
-> - [豬鼻子's BLB Prerelease Sealed Report](https://hackmd.io/@cephille/HJQ-5G7FA)
-> - [豬鼻子's MH3 Prerelease Sealed Report](https://hackmd.io/@cephille/HkEu_H7SA)
-> - [豬鼻子's OTJ Prerelease Sealed Report](https://hackmd.io/@cephille/Sy9i0hulA)
-> - [豬鼻子's MKM Prerelease Sealed Report](https://hackmd.io/@cephille/rkvUit9qa)
+> - [cephille's DSK Prerelease Sealed Report](https://guildmagesforum.tw/en/DSK-Prerelease-Experience-Cephille/)
+> - [cephille's BLB Prerelease Sealed Report](https://hackmd.io/@cephille/HJQ-5G7FA)
+> - [cephille's MH3 Prerelease Sealed Report](https://hackmd.io/@cephille/HkEu_H7SA)
+> - [cephille's OTJ Prerelease Sealed Report](https://hackmd.io/@cephille/Sy9i0hulA)
+> - [cephille's MKM Prerelease Sealed Report](https://hackmd.io/@cephille/rkvUit9qa)
 
 ## Deck Builds
 

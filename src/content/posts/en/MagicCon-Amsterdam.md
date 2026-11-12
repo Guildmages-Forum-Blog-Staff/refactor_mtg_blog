@@ -1,5 +1,5 @@
 ---
-title: "豬鼻子's MagicCon: Amsterdam Travelogue"
+title: "cephille's MagicCon: Amsterdam Travelogue"
 date: "2024-07-04 19:10:12"
 cover: "https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/44cb2867cfd7-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/44cb2867cfd7-cover.jpg"
@@ -27,7 +27,7 @@ Around Lunar New Year this year, I saw that MagicCon: Amsterdam had a [New Persp
 
 The moment I received the thank-you letter, a voice in my heart suddenly said I should still make this trip. Over the following week I booked my flight to Amsterdam, my lodging, and my MagicCon entry badge. After that, all that was left was to try for a chance at qualifying as a PT player through MIT#5 or #6, but unfortunately I didn't make it in either.
 
-> You can read my MIT#6 preparation and tournament report here: [豬鼻子's MIT#6 Preparation and Tournament Report: Sultai Midrange](https://guildmagesforum.tw/en/MIT-6-Review/)
+> You can read my MIT#6 preparation and tournament report here: [cephille's MIT#6 Preparation and Tournament Report: Sultai Midrange](https://guildmagesforum.tw/en/MIT-6-Review/)
 
 ## 20240627 (Thu) Day 0
 

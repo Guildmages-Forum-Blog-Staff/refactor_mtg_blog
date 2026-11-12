@@ -1,6 +1,6 @@
 ---
 
-title: "豬鼻子 Looks at the Late-2025 Standard Environment: Written Before the ECL Release"
+title: "cephille Looks at the Late-2025 Standard Environment: Written Before the ECL Release"
 date: "2026-01-05 09:55:33"
 cover: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"

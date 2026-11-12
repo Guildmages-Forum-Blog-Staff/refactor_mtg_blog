@@ -19,7 +19,7 @@ categories:
 
 I had already [used this deck at MIT#11](https://guildmagesforum.tw/en/Standard-Esper-Ninjas-Preliminary/), but at the time both the meta and my positioning were poor, and I only came away with a dismal result. While preparing for MIT#12, I picked a mainstream deck and went with [Izzet Spellementals](https://melee.gg/Decklist/View/e4a7b90d-fb39-45fa-be8a-b44d00d00dfe), but I still went home empty-handed that day. The very next week was the [Magic Spotlight: Secrets](https://ssl.bigmagic.net/spotlight_series/) I had signed up for long ago, and I had the feeling of not knowing what to play.
 
-Coincidentally, that week on Tuesday 菜鳥 held a Sultai Demons sharing session at CardMaster, and I figured I would go listen, and maybe just netdeck and play the Spotlight. Many thanks to 菜鳥 for sharing his insights. That day I deeply realized how much preparation he had put in for this big event, and his determination to qualify for Worlds.
+Coincidentally, that week on Tuesday SamuelChang held a Sultai Demons sharing session at CardMaster, and I figured I would go listen, and maybe just netdeck and play the Spotlight. Many thanks to 菜鳥 for sharing his insights. That day I deeply realized how much preparation he had put in for this big event, and his determination to qualify for Worlds.
 
 > For 菜鳥's shared experience, see the [post](https://www.facebook.com/share/p/1ExqVbNL4a/) on his page, [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689).
 
@@ -51,7 +51,7 @@ I referenced 曾宥均's Esper Ninjas that finished 10th at MIT#12 and made the 
 
 However, putting in the black-white fast lands means white on turn one is in surplus, while on turn two we may get stuck on blue and fail to cast {% mtglink "Floodpits Drowner" %}, or even get stuck without a second blue mana and fail to jump into {% mtglink "Enduring Curiosity" %} on turn four. What should we do about this?
 
-Thanks to [跳鼠](/en/authors/JerobaMTG/)'s earlier sharing, Ninjas built on a black-white base inherently have a mana base advantage, so why not be bold and use more white creatures to make the whole deck run more smoothly? According to the land configuration, as long as we can get Ninjutsu {% mtglink "Kaito, Bane of Nightmares" %} and Aang out on time on turn three, we will gain a huge tempo advantage!
+Thanks to [JerobaMTG](/en/authors/JerobaMTG/)'s earlier sharing, Ninjas built on a black-white base inherently have a mana base advantage, so why not be bold and use more white creatures to make the whole deck run more smoothly? According to the land configuration, as long as we can get Ninjutsu {% mtglink "Kaito, Bane of Nightmares" %} and Aang out on time on turn three, we will gain a huge tempo advantage!
 
 > Reference deck: [Shadow of the Evil Foe: Standard Stealthy Sneak](https://guildmagesforum.tw/en/Standard-Orzhov-Sneak/)
 
@@ -132,7 +132,7 @@ Out: 1 {% mtglink "Dark Leo & Shredder" %} 1 {% mtglink "Floodpits Drowner" %} 1
 
 ## Conclusion: Reflections After Magic Spotlight: Secrets
 
-I won't go into much detail on the tournament report. Feel free to see it on my page, [豬鼻子的mtg世界](https://www.facebook.com/Pignosemtgworld):
+I won't go into much detail on the tournament report. Feel free to see it on my page, [cephille](https://www.facebook.com/Pignosemtgworld):
 - [Day 1 report](https://www.facebook.com/share/p/1BAX8pGmQX/)
 - [Day 2 report](https://www.facebook.com/share/p/1ELzPh4BkF/)
 

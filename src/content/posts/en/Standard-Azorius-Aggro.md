@@ -16,7 +16,7 @@ categories:
 
 ## Introduction
 
-Hi everyone, I'm Weihow, a player who got into the game when MKM released in 2024. I'm delighted to have earned a MIT#9 slot at the MITQ at Shilin Cat Footprint (士林貓腳印) on 20250105, and honored to be invited by [豬鼻子的mtg世界](https://www.facebook.com/Pignosemtgworld) to share my thoughts on Azorius ~~Convoke~~ Aggro. Everyone online calls this deck Convoke, yet it doesn't have a single Convoke card. Since the mana curve is lower and the deck wants to win early, I think calling it Aggro makes more sense. Next I'll cover why I picked this deck, how it works, and its good and bad matchups.
+Hi everyone, I'm Weihow, a player who got into the game when MKM released in 2024. I'm delighted to have earned a MIT#9 slot at the MITQ at Shilin Cat Footprint (士林貓腳印) on 20250105, and honored to be invited by [cephille](https://www.facebook.com/Pignosemtgworld) to share my thoughts on Azorius ~~Convoke~~ Aggro. Everyone online calls this deck Convoke, yet it doesn't have a single Convoke card. Since the mana curve is lower and the deck wants to win early, I think calling it Aggro makes more sense. Next I'll cover why I picked this deck, how it works, and its good and bad matchups.
 
 ## Why Play This Deck?
 

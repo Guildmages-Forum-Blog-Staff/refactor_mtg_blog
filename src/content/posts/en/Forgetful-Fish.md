@@ -14,7 +14,7 @@ excerpt: "I'm going to counter your Dandân onto the top of your library, and dr
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Forgetful-Fish/).
 
-Long time no see! I'm 猴王, and today I want to share a format with everyone: Forgetful Fish.
+Long time no see! I'm MiohitoKiri5474, and today I want to share a format with everyone: Forgetful Fish.
 
 I vaguely remember running into this format a few years ago, probably because one day while browsing around scryfall or mtggoldfish, I saw a card that was inexplicably worth a bit of money: {% mtglink "Dandân" %}
 

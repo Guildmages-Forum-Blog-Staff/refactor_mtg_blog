@@ -1,5 +1,5 @@
 ---
-title: "豬鼻子's MIT#6 Preparation and Tournament Report: Sultai Midrange in Taichung"
+title: "cephille's MIT#6 Preparation and Tournament Report: Sultai Midrange in Taichung"
 date: "2024-05-29 18:54:07"
 cover: "https://images.guildmagesforum.tw/posts/MIT-6-Review/4d9392c41dc9-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MIT-6-Review/4d9392c41dc9-cover.jpg"
@@ -19,7 +19,7 @@ authors:
 
 This is a rather long introduction, so if you can't be bothered, skip straight to the next section.
 
-I qualified for MIT#6 with Dimir Midrange. If you're interested, take a look at [豬鼻子's Standard Dimir Midrange analysis and tournament report](https://guildmagesforum.tw/en/Standard-Dimir-Midrange/); I won't repeat it here.
+I qualified for MIT#6 with Dimir Midrange. If you're interested, take a look at [cephille's Standard Dimir Midrange analysis and tournament report](https://guildmagesforum.tw/en/Standard-Dimir-Midrange/); I won't repeat it here.
 
 Apart from preparing for Modern at MIT#5, I kept playing Dimir Midrange in Standard and tried all sorts of different builds. Even when Esper blanketed more than 30% of the field at PT-OTJ, I still stuck with Dimir Midrange, for the following reasons:
 

@@ -3,7 +3,7 @@ title: "Mono-Black Cabal Coffers: Win on Milk, Easy and Relaxed"
 date: 2023-10-20 10:00:00
 cover: "https://guildmagesforum.tw/images/Modern-Mono-Black-Coffers/Cabal-Coffers.webp"
 thumbnail: "https://guildmagesforum.tw/images/Modern-Mono-Black-Coffers/Cabal-Coffers.webp"
-excerpt: "猴王's one and only MITQ deck recommendation."
+excerpt: "MiohitoKiri5474's one and only MITQ deck recommendation."
 
 categories:
   - "Construct"

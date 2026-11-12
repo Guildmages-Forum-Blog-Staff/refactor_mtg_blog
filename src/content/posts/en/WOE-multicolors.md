@@ -1,5 +1,5 @@
 ---
-title: "豬鼻子's First Look at Wilds of Eldraine (WOE) Limited: Multicolor, Artifacts, and Lands"
+title: "cephille's First Look at Wilds of Eldraine (WOE) Limited: Multicolor, Artifacts, and Lands"
 date: 2023-09-05 16:38:58
 categories:
   - "Limited"

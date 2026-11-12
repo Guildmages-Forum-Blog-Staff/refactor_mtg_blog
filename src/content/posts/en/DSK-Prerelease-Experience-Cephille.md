@@ -1,5 +1,5 @@
 ---
-title: "豬鼻子's DSK Prerelease Sealed Sharing"
+title: "cephille's DSK Prerelease Sealed Sharing"
 date: "2024-09-24 23:07:19"
 cover: "https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/ac3ac36f2ad6-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/ac3ac36f2ad6-cover.jpg"
@@ -13,15 +13,15 @@ categories:
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../DSK-Prerelease-Experience-Cephille/).
 
-> This article is also published on my personal fan page [豬鼻子's MTG World](https://www.facebook.com/Pignosemtgworld), with an added Sealed pool 7 for readers' entertainment XD
+> This article is also published on my personal fan page [cephille's MTG World](https://www.facebook.com/Pignosemtgworld), with an added Sealed pool 7 for readers' entertainment XD
 
 This weekend I played a total of 4 prerelease Sealed events, plus 12 packs of prize packs, so this article covers 6 DSK Sealed pools in all. Below I will only focus on the deck builds and some thoughts on color pairs and individual cards, without game-by-game records. The main reason is that I believe **at a prerelease Sealed event, having fun and the motivation to keep playing matters more than playing correctly! If you want to practice, it's not too late to rebuild the pool at home or practice in drafts.**
 
 > Interested readers can look at these earlier articles to learn about Limited in other sets:
-> - [豬鼻子's BLB Prerelease Sealed Sharing](https://hackmd.io/@cephille/HJQ-5G7FA)
-> - [豬鼻子's MH3 Prerelease Sealed Sharing](https://hackmd.io/@cephille/HkEu_H7SA)
-> - [豬鼻子's OTJ Prerelease Sealed Sharing](https://hackmd.io/@cephille/Sy9i0hulA)
-> - [豬鼻子's MKM Prerelease Sealed Sharing](https://hackmd.io/@cephille/rkvUit9qa)
+> - [cephille's BLB Prerelease Sealed Sharing](https://hackmd.io/@cephille/HJQ-5G7FA)
+> - [cephille's MH3 Prerelease Sealed Sharing](https://hackmd.io/@cephille/HkEu_H7SA)
+> - [cephille's OTJ Prerelease Sealed Sharing](https://hackmd.io/@cephille/Sy9i0hulA)
+> - [cephille's MKM Prerelease Sealed Sharing](https://hackmd.io/@cephille/rkvUit9qa)
 
 ## Deck Building
 
@@ -33,7 +33,7 @@ This weekend I played a total of 4 prerelease Sealed events, plus 12 packs of pr
 This was a pool that went 3 wins, but I think there was some luck in it; otherwise it should be a build worth about two wins, and it would need a little tuning to amplify its strength.
 
 #### Main Deck Introduction and Discussion
-Although there is only one [Terramorphic Expanse](https://scryfall.com/card/dsk/269/terramorphic-expanse), green has two super strong fixers, [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) and [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot), so I still went into a three-color Jund (black, red, green) build. With red-black removal and green's excellent creature bodies, there was a chance early on to quickly blow out the opponent with two-mana creatures with 3 power. Against Dimir Control, which is heavy on the late game, early high-power creatures are extremely valuable, and they force the opponent to use removal at an uncomfortable pace, making it easier for our later threats to land. This was greatly highlighted in game two against a Dimir opponent! I still have to say, [Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) is, as 中二紳士 said in the article [DSK — Green](https://guildmagesforum.tw/en/DSK-Green/), truly a good doggy!
+Although there is only one [Terramorphic Expanse](https://scryfall.com/card/dsk/269/terramorphic-expanse), green has two super strong fixers, [Twitching Doll](https://scryfall.com/card/dsk/201/twitching-doll) and [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot), so I still went into a three-color Jund (black, red, green) build. With red-black removal and green's excellent creature bodies, there was a chance early on to quickly blow out the opponent with two-mana creatures with 3 power. Against Dimir Control, which is heavy on the late game, early high-power creatures are extremely valuable, and they force the opponent to use removal at an uncomfortable pace, making it easier for our later threats to land. This was greatly highlighted in game two against a Dimir opponent! I still have to say, [Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) is, as bruce1235566 said in the article [DSK — Green](https://guildmagesforum.tw/en/DSK-Green/), truly a good doggy!
 
 Worth mentioning is that the mythic rare [Hauntwoods Shrieker](https://scryfall.com/card/dsk/182/hauntwoods-shrieker) is not very suitable in a midrange-leaning build like this. If it comes down on turn three, attacks, manifests dread, and then gets traded off, it is actually losing out on body size; it might perform better in a purer Gruul aggro deck, paired with more tricks and removal to keep generating value.
 

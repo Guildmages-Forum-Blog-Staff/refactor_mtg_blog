@@ -16,7 +16,7 @@ categories:
 
 ## Introduction
 
-Hi everyone, I'm sertyple. I'm honored to have been invited by [豬鼻子的MTG世界](/en/authors/cephille/) to share my preparation and tournament journey at MIT#9 here. I'll walk through it in this order: predicting the metagame → deck choice → practice → tournament stories → conclusion.
+Hi everyone, I'm sertyple. I'm honored to have been invited by [cephille](/en/authors/cephille/) to share my preparation and tournament journey at MIT#9 here. I'll walk through it in this order: predicting the metagame → deck choice → practice → tournament stories → conclusion.
 
 ## Predicting the Metagame
 
@@ -84,4 +84,4 @@ Looking back on the whole MIT#9 journey, I think the most important thing was le
 
 Although there is still a lot I could do better, from predicting the meta before the tournament and getting familiar with the deck, to every play on the day, I believe everyone who takes this competition seriously and puts in the effort will eventually get the result they hope for!
 
-Finally, thanks to 法克 for lending me cards so I could play, to 啟恩 for discussing so much with me, to [chennel](/en/authors/Chennel/), and to the people who prepared together with me in NMT: [T1BloodMoon](/en/authors/T1BloodMoon/), [猴王](/en/authors/MiohitoKiri5474/), [張任](/en/authors/XSBeeble/), [Jru](/en/authors/JruMTG/), and [豬鼻子](/en/authors/cephille/). Special thanks to [荒野騎士](/en/authors/ClarkShih/) for taking the time to carve out my SBG and for discussing many of my ideas on predicting the field. Thanks also to myself and my deck for the time I seriously put into preparing. I hope to perform well at the upcoming Spotlight Event in Japan and at future PTs too!
+Finally, thanks to 法克 for lending me cards so I could play, to 啟恩 for discussing so much with me, to [chennel](/en/authors/Chennel/), and to the people who prepared together with me in NMT: [T1BloodMoon](/en/authors/T1BloodMoon/), [MiohitoKiri5474](/en/authors/MiohitoKiri5474/), [張任](/en/authors/XSBeeble/), [Jru](/en/authors/JruMTG/), and [cephille](/en/authors/cephille/). Special thanks to [荒野騎士](/en/authors/ClarkShih/) for taking the time to carve out my SBG and for discussing many of my ideas on predicting the field. Thanks also to myself and my deck for the time I seriously put into preparing. I hope to perform well at the upcoming Spotlight Event in Japan and at future PTs too!

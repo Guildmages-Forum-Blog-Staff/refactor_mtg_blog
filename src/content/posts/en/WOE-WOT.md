@@ -1,5 +1,5 @@
 ---
-title: "豬鼻子's First Look at Wilds of Eldraine (WOE) Limited — Enchanting Tales (WOT)"
+title: "cephille's First Look at Wilds of Eldraine (WOE) Limited — Enchanting Tales (WOT)"
 date: 2023-09-05 17:39:08
 categories:
   - "Limited"

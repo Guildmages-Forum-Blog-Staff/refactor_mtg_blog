@@ -1,5 +1,5 @@
 ---
-title: "Handling Defeat: 豬鼻子's Standard Dimir Midrange Retrospective"
+title: "Handling Defeat: cephille's Standard Dimir Midrange Retrospective"
 date: "2025-07-10 09:43:03"
 cover: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/000288df90b1-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/000288df90b1-cover.jpg"
@@ -52,7 +52,7 @@ Although I didn't play this MITQ very well, I came to appreciate more deeply the
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Midrange-Overview/7af814cd9868.webp)
 
-#### [20240127 ALG MITQ - 豬鼻子's Standard Dimir Midrange Analysis and Tournament Report (Qualified for MIT#6)](https://guildmagesforum.tw/en/Standard-Dimir-Midrange/)
+#### [20240127 ALG MITQ - cephille's Standard Dimir Midrange Analysis and Tournament Report (Qualified for MIT#6)](https://guildmagesforum.tw/en/Standard-Dimir-Midrange/)
 
 Fortunately, I earned my MIT#6 qualification without playing too many rounds, and I therefore confirmed the outstanding disruptive strength of [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) in the Standard environment. For the following seasons, Tidebinder was always an important member I would not take out of my 75 cards.
 
@@ -64,7 +64,7 @@ Fortunately, I earned my MIT#6 qualification without playing too many rounds, an
 
 This period was basically a process of repeated testing and constantly cutting the deck's original core, [Gix, Yawgmoth Praetor](https://scryfall.com/card/tdc/181/gix-yawgmoth-praetor), down to zero copies. With the rise of Convoke decks, the meta made me more and more anxious the more I played, and my win rate was basically under forty percent. By early May, the original Dimir midrange build, with Convoke blocking the road ahead and control/Ramp evolving behind us to also bring [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) as anti-counterspell tech, fell into a dilemma, caught between advancing and retreating and nearly ready to give up and switch to playing Convoke...
 
-#### [20240529 豬鼻子's MIT#6 Preparation and Tournament Report: Sultai Midrange](https://guildmagesforum.tw/en/MIT-6-Review/)
+#### [20240529 cephille's MIT#6 Preparation and Tournament Report: Sultai Midrange](https://guildmagesforum.tw/en/MIT-6-Review/)
 
 In the end it still wasn't tuned well. Three colors was a nice change, but it still didn't respect the meta's Convoke enough, and I was thoroughly punished in the win-and-in-for-top-eight match. If I fast-forward to now, a year later, I would say that one main, two sideboard [The Filigree Sylex](https://scryfall.com/card/one/227/the-filigree-sylex) was necessary. I did see similar builds back then, but I let it pass without studying the usage scenarios in depth.
 
