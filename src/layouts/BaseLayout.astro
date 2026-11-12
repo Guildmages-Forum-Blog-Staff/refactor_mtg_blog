@@ -69,7 +69,7 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
     {gaId && <GoogleAnalytics id={gaId} />}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonicalUrl.href} />
+    {canonical && <meta property="og:url" content={canonicalUrl.href} />}
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:site_name" content="Guildmages' Forum 魔風集會所" />
     <meta property="og:locale" content={OG_LOCALE[lang]} />
@@ -85,11 +85,8 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
       )
     }
     {
-      article && (modifiedTime ?? publishedTime) && (
-        <meta
-          property="article:modified_time"
-          content={(modifiedTime ?? publishedTime)!.toISOString()}
-        />
+      article && modifiedTime && (
+        <meta property="article:modified_time" content={modifiedTime.toISOString()} />
       )
     }
     <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
