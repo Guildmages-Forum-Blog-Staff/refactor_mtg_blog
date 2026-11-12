@@ -60,6 +60,9 @@ const blogPosting = {
   title={post.data.title}
   description={post.data.excerpt}
   ogImage={coverImage}
+  article
+  publishedTime={post.data.date}
+  modifiedTime={post.data.updated ?? post.data.date}
   noindex={post.data.preview === true}
 >
   <JsonLd slot="head" data={blogPosting} />

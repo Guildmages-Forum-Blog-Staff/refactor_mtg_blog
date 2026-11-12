@@ -15,6 +15,10 @@ interface Props {
   canonical?: boolean;
   /** true keeps the page out of search indexes (e.g. preview posts). */
   noindex?: boolean;
+  /** true for post pages: og:type=article plus the article:* times. */
+  article?: boolean;
+  publishedTime?: Date;
+  modifiedTime?: Date;
 }
 const lang = langFromPath(Astro.url.pathname);
 const t = useTranslations(lang);
@@ -24,6 +28,9 @@ const {
   ogImage,
   canonical = true,
   noindex = false,
+  article = false,
+  publishedTime,
+  modifiedTime,
 } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 
@@ -37,6 +44,10 @@ const alternates =
         { lang: langSwitch.otherLang, href: new URL(langSwitch.href, Astro.site).href },
       ]
     : [];
+// Social previews: absolute image URL, falling back to the site logo.
+const ogImageUrl = new URL(ogImage ?? `${import.meta.env.BASE_URL}images/logo.jpg`, Astro.site)
+  .href;
+const OG_LOCALE = { 'zh-tw': 'zh_TW', en: 'en_US' } as const;
 // Both optional: set at build time (CI repo variables); unset = tag omitted.
 const gaId = import.meta.env.PUBLIC_GA_ID;
 const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
@@ -56,7 +67,29 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
     <slot name="head" />
     {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
     {gaId && <GoogleAnalytics id={gaId} />}
-    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    {canonical && <meta property="og:url" content={canonicalUrl.href} />}
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:site_name" content="Guildmages' Forum 魔風集會所" />
+    <meta property="og:locale" content={OG_LOCALE[lang]} />
+    {
+      alternates.length > 0 && (
+        <meta property="og:locale:alternate" content={OG_LOCALE[langSwitch.otherLang]} />
+      )
+    }
+    <meta property="og:image" content={ogImageUrl} />
+    {
+      article && publishedTime && (
+        <meta property="article:published_time" content={publishedTime.toISOString()} />
+      )
+    }
+    {
+      article && modifiedTime && (
+        <meta property="article:modified_time" content={modifiedTime.toISOString()} />
+      )
+    }
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
     <title>{title} | {t.siteTitle}</title>
     <link
       rel="alternate"
