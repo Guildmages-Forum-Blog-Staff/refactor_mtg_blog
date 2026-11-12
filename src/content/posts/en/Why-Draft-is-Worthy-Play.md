@@ -156,7 +156,7 @@ Draft can bring card shops to life, let players meet each other, and make MTG no
 
 ![](https://images.guildmagesforum.tw/posts/Why-Draft-is-Worthy-Play/5d3fd203a07d.webp)
 
-As in the interlude above, at the Limited World Championship (Limited Championship, tentative translation) to be held in 2027, whether you are a regional expert who has mastered draft, a draft master hiding away online, or a player who is interested in draft but has never found anyone to play paper with, this announcement should once again draw the community's attention to draft.
+As in the interlude above, with the Limited Championship to be held in 2027, whether you are a regional expert who has mastered draft, a draft master hiding away online, or a player who is interested in draft but has never found anyone to play paper with, this announcement should once again draw the community's attention to draft.
 
 - For players who have mastered draft but rarely enter Constructed events, they have gained a new road to the world stage to chase their dreams;
 - For players focused on competitive events, they will once again value draft practice, because mastering draft means more chances to advance to the world stage;

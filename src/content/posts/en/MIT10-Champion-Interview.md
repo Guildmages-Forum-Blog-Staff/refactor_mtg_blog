@@ -10,7 +10,7 @@ authors:
   - "cephille"
 cover: "https://images.guildmagesforum.tw/posts/MIT10-Champion-Interview/8e25d59bf6a5-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MIT10-Champion-Interview/8e25d59bf6a5-cover.jpg"
-excerpt: "Even with a broken arm you stay brave; only those who give it their all will win!!!"
+excerpt: "A broken bone heals back stronger; only those who fight hard will win!!!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../MIT10-Champion-Interview/).
@@ -104,7 +104,7 @@ When you sit across from them, you feel how unfathomable they are; you keep gues
 
 Back when I was still a rookie, people often said: "Don't be afraid. Even if there are a hundred people at the venue today, you only need to face six who are unluckier than you." Anyway, you only need to beat six people, and it's actually not as hard as you think.
 
-A time I remember 永銘 especially well was around 2015 when I went to the Hong Kong GP to play Limited, and in the last round I faced him. That time he used a build I'd never seen, a bit like a flash-style play, which included the card [Bounding Krasis](https://scryfall.com/card/ori/212/zht/%E5%BD%88%E8%BA%8D%E8%9E%8D%E5%90%88%E9%AB%94-(bounding-krasis)). Although I knew about it, I hadn't played around that situation at all, and got killed. After the match, 永銘 was still willing to offer me a draw for the day. Although we already knew each other, you can feel that a player like 永銘, who is deeply invested in competition, also enjoys the game. At certain moments, people don't weigh winning and losing so heavily, but rather whether it was worth it this time, and whether you made friends.
+A time I remember 永銘 especially well was around 2015 when I went to the Hong Kong GP to play Limited, and in the last round I faced him. That time he used a build I'd never seen, a bit like a flash-style play, which included the card [Bounding Krasis](https://scryfall.com/card/ori/212/zht/%E5%BD%88%E8%BA%8D%E8%9E%8D%E5%90%88%E9%AB%94-(bounding-krasis)). Although I knew about it, I hadn't played around that situation at all, and got killed. After the game, 永銘 was still willing to agree to a draw with me. Although we already knew each other, you can feel that a player like 永銘, who is deeply invested in competition, also enjoys the game. At certain moments, people don't weigh winning and losing so heavily, but rather whether it was worth it this time, and whether you made friends.
 
 That was also my first time playing a GP abroad. Quite a few people from Taiwan went then, and everyone encouraged each other, helped look at each other's Limited decks, and followed each other's results. The memories from those years were really great. It's a pity that now everyone's drive to go abroad for GPs isn't as strong as before. For one thing, everyone has less and less time; for another, spending so much money to go abroad, you'd always hope for a corresponding experience. The official promos still need to be handed out better so that more people are willing to go.
 

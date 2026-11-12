@@ -4,7 +4,7 @@ title: "cephille Looks at the Late-2025 Standard Environment: Written Before the
 date: "2026-01-05 09:55:33"
 cover: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
-excerpt: "Blue-green reigns as king, white and black keep the board company. Removal and discard fall short, and games end by turn four. New waves push the old, and bans pile up without end. Flying kicks chain into Thoughtseize, and Day of Black Sun hangs in the sky once more."
+excerpt: "Blue-green reigns as king, white and black keep the board company. Removal and discard fall short, and games end by turn four. New waves push the old, and bans pile up without end. Bring back Fatal Push and Thoughtseize, and let the black sun shine once more."
 authors:
   - "cephille"
 categories:
@@ -67,7 +67,7 @@ As for counterspells, the one-mana counter {% mtglink "Spell Pierce" %} can't co
 
 Discard is the same. {% mtglink "Duress" %} can't discard creatures, so the only usable one is {% mtglink "Intimidation Tactics" %}. Not to mention that two-mana discard comes too late anyway.
 
-For sweepers, every color pair has usable options and it's relatively balanced, but red has {% mtglink "Pyroclasm" %} and even {% mtglink "Fire Magic" %}, which is more flexible in the mid to late game; facing today's environment, red's sweepers are still especially excellent.
+For sweepers, every color has usable options and it's relatively balanced, but red has {% mtglink "Pyroclasm" %} and even {% mtglink "Fire Magic" %}, which is more flexible in the mid to late game; facing today's environment, red's sweepers are still especially excellent.
 
 From the above, in a Standard where creatures run rampant, even though by color wheel design blue has the instant-speed interaction of counterspells and black has the sorcery-speed disruption of hand attack, none of the options currently usable in Standard make the grade. What's more, after {% mtglink "Cut Down" %} left Standard, black doesn't even have a passable one-mana removal spell.
 
@@ -124,7 +124,7 @@ Besides, who says Wizards won't print Foundation 2? If these reprints prove effe
 
 ![](https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/cdf54ca186e1.webp)
 
-Welcome news: the last five pieces of the shockland puzzle are finally filled in. The previously suppressed color pairs (<span style="color:#006DB3">blue</span><span style="color:#AF2321">red</span> pair: was there any?) should be able to produce new builds after this, further driving changes in Standard.
+Welcome news: the last five pieces of the shockland puzzle are finally filled in. The previously suppressed color pairs (<span style="color:#006DB3">blue</span><span style="color:#AF2321">red</span> pair: were we ever suppressed?) should be able to produce new builds after this, further driving changes in Standard.
 
 But I have to say, this comes too late.
 

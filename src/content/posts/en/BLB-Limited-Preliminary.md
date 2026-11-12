@@ -170,7 +170,7 @@ Oh, and if you open [Ral, Crackling Wit](https://scryfall.com/card/blb/230), its
 > **Creature type: Squirrels**
 > Number of BG cards: **14 + 1 (SPG's [Toski, Bearer of Secrets](https://scryfall.com/card/spg/60), which shows up less often)**
 
-The uncommon [Vinereap Mentor](https://scryfall.com/card/blb/238) literally says "gain" on the card, and it is one of the few two-color uncommons with a built-in theme trigger. The common [Corpseberry Cultivator](https://scryfall.com/card/blb/210) is quite capable once forage triggers once and it becomes a 3/4. The legendary rare [Camellia, the Seedmiser](https://scryfall.com/card/blb/207) is a Squirrel tribal lord that benefits from the forage mechanic. Squirrels and Camellia herself have menace, and she can sacrifice Foods to make Squirrels, growing the whole family along the way. All the benefits of playing this pair are gathered on her.
+The uncommon [Vinereap Mentor](https://scryfall.com/card/blb/238) practically has "value" written on it, and it is one of the few two-color uncommons with a built-in theme trigger. The common [Corpseberry Cultivator](https://scryfall.com/card/blb/210) is quite capable once forage triggers once and it becomes a 3/4. The legendary rare [Camellia, the Seedmiser](https://scryfall.com/card/blb/207) is a Squirrel tribal lord that benefits from the forage mechanic. Squirrels and Camellia herself have menace, and she can sacrifice Foods to make Squirrels, growing the whole family along the way. All the benefits of playing this pair are gathered on her.
 
 The problem with black-green is still whether your deck can trigger forage reliably. That means:
 
@@ -198,7 +198,7 @@ No choice, let's look at our star here, the legendary rare [Mabel, Heir to Cragf
 
 All right, let's look at the pair's creature type, Mice. Fortunately they pull their weight. Creatures like [Thistledown Players](https://scryfall.com/card/blb/35) and [Brambleguard Captain](https://scryfall.com/card/blb/127) can reliably trigger your creatures' valiant, while other little Mice like [Flowerfoot Swordmaster](https://scryfall.com/card/blb/14), besides making many at once, can even deal a huge amount of damage in one turn with several valiant triggers backing them up!
 
-To trigger valiant, besides spells like the high-quality [Mabel's Mettle](https://scryfall.com/card/blb/21), Auras ([Feather of Flight](https://scryfall.com/card/blb/13), [War Squeak](https://scryfall.com/card/blb/160), and so on) and even equipping Equipment can all trigger it. Now you can understand why [Mabel, Heir to Cragflame](https://scryfall.com/card/blb/224) gives you an Equipment: it lets your valiant creatures swap it from hand to hand in the mid-to-late game to trigger a wave!
+To trigger valiant, besides spells like the high-quality [Mabel's Mettle](https://scryfall.com/card/blb/21), Auras ([Feather of Flight](https://scryfall.com/card/blb/13), [War Squeak](https://scryfall.com/card/blb/160), and so on) and even equipping Equipment can all trigger it. Now you can understand why [Mabel, Heir to Cragflame](https://scryfall.com/card/blb/224) gives you an Equipment: in the mid-to-late game you can move it from one valiant creature to another to trigger a wave!
 
 From all this we can piece together how to build red-white. See the key points below:
 

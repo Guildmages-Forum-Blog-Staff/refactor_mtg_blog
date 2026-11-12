@@ -105,7 +105,7 @@ By the time you read case 3, most players' understanding should have clicked. In
 
 Remember the colloquial explanation mentioned earlier, "because this spell has no cost, there is no option to cast it directly"? This is exactly what misleads so many people.
 
-In the situations of 1 and 3, the source actively provides a moment to cast the spell, so no one cares how the spell would originally be announced for casting, whereas in 2 and 4 the spell itself announces being cast. If you still remember that colloquial description above, you may fall into this mental trap: "Isn't this spell simply uncastable? Does it matter how the cost is changed later?" Players may force themselves to memorize the result from precedents like being able to cast it with [As Foretold](https://scryfall.com/card/akh/42/zht/%E9%A0%90%E7%A4%BA%E6%88%90%E7%9C%9F), yet still not know the principle behind it, and the day they meet a card with different wording, they won't know how to handle it.
+In the situations of 1 and 3, the source actively provides a moment to cast the spell, so no one cares how the spell would originally be announced for casting, whereas in 2 and 4 you announce casting the spell yourself. If you still remember that colloquial description above, you may fall into this mental trap: "Isn't this spell simply uncastable? Does it matter how the cost is changed later?" Players may force themselves to memorize the result from precedents like being able to cast it with [As Foretold](https://scryfall.com/card/akh/42/zht/%E9%A0%90%E7%A4%BA%E6%88%90%E7%9C%9F), yet still not know the principle behind it, and the day they meet a card with different wording, they won't know how to handle it.
 
 Now we know that when you try to cast a spell, the spell first goes onto the stack, but because it may fail to satisfy the requirements of 601.2, the game simply rewinds to before the attempt to cast.
 
@@ -127,7 +127,7 @@ Some cards (such as [Snapcaster Mage](https://scryfall.com/card/uma/71/snapcaste
 
 Since we've covered the process of casting spells, let's also mention an interesting little bit of history~
 
-In 2018 Standard, there were two cards in the environment at the same time: [Ixalan's Binding](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B) and [Squee, the Immortal](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E). Imagine that your opponent's [Ixalan's Binding](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B) exiles my [Squee, the Immortal](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E). Can I still cast [Squee, the Immortal](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E) from exile?
+In 2018 Standard, there were two cards in the environment at the same time: [Ixalan's Binding](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B) and [Squee, the Immortal](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E). Imagine that my opponent's [Ixalan's Binding](https://scryfall.com/card/xln/17/zht/%E4%BE%9D%E5%A4%8F%E8%98%AD%E7%9A%84%E6%9D%9F%E7%B8%9B) exiles my [Squee, the Immortal](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E). Can I still cast [Squee, the Immortal](https://scryfall.com/card/dom/146/zht/%E4%B8%8D%E6%AD%BB%E6%96%AF%E5%A5%8E) from exile?
 
 ![The Unbindable Squee](https://images.guildmagesforum.tw/posts/casting-spell-without-mana-cost/75cd45a0a66b.webp)
 

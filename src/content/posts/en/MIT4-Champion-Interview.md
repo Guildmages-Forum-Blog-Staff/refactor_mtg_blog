@@ -1,6 +1,6 @@
 ---
 
-title: "Worlds Player Interview — MIT Round 4 Champion 陳柏宏 (蹦蹦)"
+title: "Worlds Player Interview — MIT Season 4 Champion 陳柏宏 (蹦蹦)"
 date: "2024-10-14 11:20:57"
 authors:
   - "faintmama"
@@ -23,13 +23,13 @@ A spoiler up front: this was certainly going to be a fun exchange, because... we
 
 > Late at night, both uncles were a little tired... so we came to [CardMaster](https://www.facebook.com/cardmaster.tw) to recharge our spirits. As for what we ended up opening? Let us keep you in suspense for now and move on to a few interview questions first.
 
-#### Q1: First, congratulations on qualifying for this year's Worlds! Let's go back to the scene of the MIT Round 4 finals. How did you feel in the final showdown?
+#### Q1: First, congratulations on qualifying for this year's Worlds! Let's go back to the scene of the MIT Season 4 finals. How did you feel in the final showdown?
 
-A: As I remember it, Round 4 had more players than the first three rounds. My preliminary record was five wins and two draws, and it was my first time making the MIT Top 8, so every game was played very tensely.
+A: As I remember it, Season 4 had more players than the first three seasons. My preliminary record was five wins and two draws, and it was my first time making the MIT Top 8, so every game was played very tensely.
 Facing Rakdos Sacrifice in the Top 8, and even in the finals against the Lotus Field deck, I lost game one both times, so the pressure was really high... But I had prepared for both matchups before the event and had a rough idea of how to handle games two and three.
 My semifinal opponent was also a [CardMaster](https://www.facebook.com/cardmaster.tw) player, 冰諦, whose deck that day was White-Blue Control. All I could do was strip his hand and deploy threats as fast as possible, which is the basic way a midrange deck plays against control, since a long game would work against me.
-In the deciding game three of the finals, my opponent [志懋](/en/authors/zhi-mao/) mulliganed twice and I mulliganed once. My hand had three lands, a [Go Blank](https://scryfall.com/card/stx/72/go-blank), an [Archfiend of the Dross](https://scryfall.com/card/one/304/archfiend-of-the-dross), and something else... I've kind of forgotten XD. But [志懋](/en/authors/zhi-mao/) still ended up drawing [Lotus Field ](https://scryfall.com/card/m20/249/lotus-field), then [Thespian's Stage](https://scryfall.com/card/gtc/248/thespians-stage) showed up one after another, and [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun) too. I topdecked a removal spell and dealt with [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun), and I was honestly quite emotional at that moment.
-On the last turn, my opponent [志懋](/en/authors/zhi-mao/) did calculations in his head for a very long time. If he could deal just one more point of damage to me, that day's champion would have been him; the margin between winning and losing was tiny. Only when [志懋](/en/authors/zhi-mao/) reached out his hand and reluctantly conceded did I finally put down the heavy stone in my heart.
+In the deciding game three of the finals, my opponent [zhi-mao](/en/authors/zhi-mao/) mulliganed twice and I mulliganed once. My hand had three lands, a [Go Blank](https://scryfall.com/card/stx/72/go-blank), an [Archfiend of the Dross](https://scryfall.com/card/one/304/archfiend-of-the-dross), and something else... I've kind of forgotten XD. But [zhi-mao](/en/authors/zhi-mao/) still ended up drawing [Lotus Field ](https://scryfall.com/card/m20/249/lotus-field), then [Thespian's Stage](https://scryfall.com/card/gtc/248/thespians-stage) showed up one after another, and [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun) too. I topdecked a removal spell and dealt with [Niv-Mizzet, Parun](https://scryfall.com/card/grn/192/niv-mizzet-parun), and I was honestly quite emotional at that moment.
+On the last turn, my opponent [zhi-mao](/en/authors/zhi-mao/) did calculations in his head for a very long time. If he could deal just one more point of damage to me, that day's champion would have been him; the margin between winning and losing was tiny. Only when [zhi-mao](/en/authors/zhi-mao/) reached out his hand and reluctantly conceded did I finally put down the heavy stone in my heart.
 It was a very good, very precious experience. We played until the Breeze Center was about to close, and I hurried out to get home as soon as possible to do the dishes.
 
 #### Q2: What deck did you play, and why did you choose it?
@@ -45,7 +45,7 @@ Sometimes I go back and look at the first post on [Jund Uncle's Daily Life](http
 
 #### Q4: The driving force behind greatness is often purer and more childish than you'd imagine. Magic: The Gathering is a card game, and cards extend our will and imagination; simply put, cracking packs is just so much fun and so exciting. What is the single most important card to you? Please share your bond with it.
 
-A: It should be [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf)! Once the king of Modern card prices. When Modern Masters was reprinted, I opened a foil [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf). Packs back then didn't have a guaranteed foil yet, so I was really happy and excited. Together with [Liliana of the Veil](https://scryfall.com/card/mm3/76/liliana-of-the-veil) and [Dark Confidant](https://scryfall.com/card/mma/75/dark-confidant), it should count as the origin point of my becoming Jund Uncle.
+A: It should be [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf)! Once the king of Modern card prices. When Modern Masters came out, I opened a foil [Tarmogoyf](https://scryfall.com/card/mma/166/tarmogoyf). Packs back then didn't have a guaranteed foil yet, so I was really happy and excited. Together with [Liliana of the Veil](https://scryfall.com/card/mm3/76/liliana-of-the-veil) and [Dark Confidant](https://scryfall.com/card/mma/75/dark-confidant), it should count as the origin point of my becoming Jund Uncle.
 Later I upgraded to the Future Sight version of foil [Tarmogoyf](https://scryfall.com/card/fut/153/tarmogoyf), and then during the Theros era I opened four foil [Thoughtseize](https://scryfall.com/card/ths/107/thoughtseize) on my own, which is another story...
 
 ![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/ae9179a8d47a.webp)
@@ -80,7 +80,7 @@ A: If my next match is on table three and I happen to know how the previous matc
 #### Q9: Competitive-level events always go through multiple preliminary rounds, at least a whole day of continuous matches. A great player needs the right mindset, focused spirit, and plenty of stamina... What trait made you stand out this time?
 
 A: I was actually quite lucky on the day I won: I avoided all the Gruul Vehicles decks in the field (a matchup that's not so easy for Rakdos Midrange). Luck was more on my side, and the rest was doing my best to seize the games where I had the advantage.
-The amount of practice is also something I consider crucial. Before MIT Round 4, a few [CardMaster](https://www.facebook.com/cardmaster.tw) players invited me to practice intensively together, and those two weeks were really important for the tournament. There is a huge difference between **having practiced** and **not having practiced**, and I really want to thank the comrades who practiced with me.
+The amount of practice is also something I consider crucial. Before MIT Season 4, a few [CardMaster](https://www.facebook.com/cardmaster.tw) players invited me to practice intensively together, and those two weeks were really important for the tournament. There is a huge difference between **having practiced** and **not having practiced**, and I really want to thank the comrades who practiced with me.
 **Practice never lies.**
 
 #### Q10: It's the player who stands on the stage, but the team, family, and friends around the player surely take part too. Were there any impressive moments of support or arguments in your life, and how did you resolve them in the end?
@@ -119,7 +119,7 @@ A: It let me meet many people and many friends. People who play Magic tend to be
 
 ![](https://images.guildmagesforum.tw/posts/MIT4-Champion-Interview/66991486a0dd.webp)
 
-> Thanks also to 蹦蹦 for making time for the interview, and even preparing answer outlines in advance ~~cheat sheet~~. Together with the Forum's notes, that became this article. Interviews with the Round 5 and Round 6 champions will follow over the next two days, so readers, please keep following!
+> Thanks also to 蹦蹦 for making time for the interview, and even preparing answer outlines in advance ~~cheat sheet~~. Together with the Forum's notes, that became this article. Interviews with the Season 5 and Season 6 champions will follow over the next two days, so readers, please keep following!
 
 #TheCardTowerIsReallyScary
 #BigBroIsSoPowerful

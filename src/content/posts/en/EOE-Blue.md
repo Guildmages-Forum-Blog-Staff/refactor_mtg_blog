@@ -107,7 +107,7 @@ Comment: At worst it is a two-mana 0/4 blocker. Its power increases based on the
 <!---57--->
 {% mtgpick "eoe" 57 %}
 Score: 3.0
-Comment: As long as you have cast another spell this turn, you can put a 4/4 creature onto the battlefield for only two mana. Staggeringly efficient and a big help for developing your board in the midgame.
+Comment: As long as you have cast another spell this turn, you can cast a 4/4 creature for only two mana. Staggeringly efficient and a big help for developing your board in the midgame.
 
 
 <!---58--->
@@ -213,7 +213,7 @@ Comment: A decent body with a flexible effect: on entering you can choose to sac
 <!---75--->
 {% mtgpick "eoe" 75 %}
 Score: 2.5
-Comment: The -3/-0 on entering is not especially strong, but Warp for just one mana lets it play a key role in the spell-casting theme.
+Comment: The -3/-0 on entering is not especially strong, but Warp for just one mana lets it play a key role in the second-spell theme.
 
 <!---76--->
 {% mtgpick "eoe" 76 %}

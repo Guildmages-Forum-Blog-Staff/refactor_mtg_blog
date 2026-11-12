@@ -50,7 +50,7 @@ Comments:
 Comments:
 
 - [Coilong Rebirth](https://scryfall.com/card/blb/86): Although making an extra copy is strong, this set has few bombs with high-value enters abilities, and the copy being limited to 1/1 essentially just earns you a second enters effect, so most of the time it is still a five-mana reanimation spell.
-- [Consumed by Greed](https://scryfall.com/card/blb/87): Kills the opponent's highest-power creature, so most of the time it handles the biggest threat on the board, and when you have a high-value creature in your graveyard (worth more than a random card from the opponent's hand), the gift effect can bring a big advantage in the resource war.
+- [Consumed by Greed](https://scryfall.com/card/blb/87): Makes the opponent sacrifice their greatest-power creature, so most of the time it handles the biggest threat on the board, and when you have a high-value creature in your graveyard (worth more than a random card from the opponent's hand), the gift effect can bring a big advantage in the resource war.
 
 |                                                  088                                                  |                                                  089                                                  |                                                  090                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -64,7 +64,7 @@ Comments:
 
   In the team that took part in the joint ratings, 7 people rated this card in total. Two gave it 2.5 or above and five gave it 0.5 or below (the final score is the average). I personally gave it 0. The opinions are extremely polarized, which makes it a card very much worth discussing.
 
-  The reason for giving 2.5 or above is more intuitive: although it has the downside of losing life, as a 3/2/3 flyer with decent stats that can earn cards every turn, it brings enough threat and resources and leads to victory.
+  The reason for giving 2.5 or above is more intuitive: although it has the downside of losing life, as a three-mana 2/3 flyer with decent stats that can earn cards every turn, it brings enough threat and resources and leads to victory.
 
   The reasons for giving 0.5 or below are more complicated, but they mainly revolve around the life-loss downside:
 
@@ -156,7 +156,7 @@ Comments:
 
 Comments:
 
-- [Thornplate Intimidator](https://scryfall.com/card/blb/117): One of the few high-value enters abilities in this set. Combined with the fair number of Cloudshift-style effects in this set, it can gain a very nice resource advantage.
+- [Thornplate Intimidator](https://scryfall.com/card/blb/117): One of the few high-value enters abilities in this set. Combined with the fair number of flicker effects in this set, it can gain a very nice resource advantage.
 
 |                                                  118                                                  |                                                  119                                                  |                                                  120                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |

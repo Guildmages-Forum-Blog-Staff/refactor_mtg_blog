@@ -8,7 +8,7 @@ categories:
   - "FDN"
 cover: "https://images.guildmagesforum.tw/posts/FDN-Green/83777ebb5783-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Green/83777ebb5783-cover.jpg"
-excerpt: "The scrubs are back. I've missed these cute little guys so much. Scrubs are cute, so love the scrubs."
+excerpt: "Loot is back! I've missed this cute little guy so much. Loot is cute, so love Loot."
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FDN-Green/).
@@ -106,7 +106,7 @@ Comment: Another card that must be dealt with first. It makes your other creatur
 <!---113--->
 {% mtgpick "fdn" 113 %}
 Rating: 3.5
-Comment: Once you can start spreading out 3/3 Raccoons across the board, the pressure on the opponent will be huge. Enchantment removal isn't easy to find in this set on the right side either, and green even has a 4-power creature at three mana.
+Comment: Once you can start spreading out 3/3 Raccoons across the board, the pressure on the opponent will be huge. Enchantment removal is also hard to maindeck in this set, and green even has a 4-power creature at three mana.
 
 <!---114--->
 {% mtgpick "fdn" 114 %}
@@ -139,7 +139,7 @@ Comment: A utility card that may make your main deck, depending on how well your
 <!---215--->
 {% mtgpick "fdn" 215 %}
 Rating: 2.5
-Comment: Early on it cycles for a land or color when you're short, and later it can remove creatures. Good both early and late.
+Comment: Early on it fetches a land when you're short on lands or colors, and later it can remove creatures. Good both early and late.
 
 <!---216--->
 {% mtgpick "fdn" 216 %}
@@ -161,7 +161,7 @@ Comment: A 2-mana 2/2 for filling your curve, with extra benefit if you have eno
 <!---219--->
 {% mtgpick "fdn" 219 %}
 Rating: 3.0
-Comment: The mana-acceleration Dwynen, Gilt-Leaf Daen. If you land an Elf on turn 1 or 2 and this one isn't removed, you can jump to 6 or 7 mana by turn 4, putting a lot of pressure on the opponent.
+Comment: A mana-accelerating Elf lord. If you land an Elf on turn 1 or 2 and this one isn't removed, you can jump to 6 or 7 mana by turn 4, putting a lot of pressure on the opponent.
 
 <!---220--->
 {% mtgpick "fdn" 220 %}
@@ -201,7 +201,7 @@ Comment: Many of green's themes place counters. If one successfully gets indestr
 <!---227--->
 {% mtgpick "fdn" 227 %}
 Rating: 3.0
-Comment: Anyone who has been hit by how strong one-turn mana acceleration is knows. Killing a 1/1 is a waste, but if you don't, the opponent keeps doing things a turn faster than you, which is annoying.
+Comment: Anyone who has been on the receiving end knows how strong turn-one mana acceleration is. Killing a 1/1 is a waste, but if you don't, the opponent keeps doing things a turn faster than you, which is annoying.
 
 <!---228--->
 {% mtgpick "fdn" 228 %}

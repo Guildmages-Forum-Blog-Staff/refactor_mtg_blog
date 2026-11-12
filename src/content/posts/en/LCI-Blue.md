@@ -60,7 +60,7 @@ A 1/5 body for three mana is very sturdy. At the beginning of each player's end 
 ![047](https://images.guildmagesforum.tw/posts/LCI-Blue/e67201564051.webp)
 
 **cephille**: 4.0
-After it enters, you get three chances to remove a net counter from it, which can tap a nonland permanent, and while it stays tapped its activated abilities can't be used. Although it isn't like [Icy Manipulator](https://cards.scryfall.io/large/front/f/9/f9632147-7a55-4a4c-a3ec-de3a3916ad8b.jpg?1645607787), which you can use over and over for great effect, it adds the ability to lock down activated abilities, and used well it should be able to disrupt the opponent's plans and gain an advantage. In Limited, you should also get to see the amusing sight of planeswalkers or Cases tapped down and unable to move.
+After it enters, you get three chances to remove a net counter from it, which can tap a nonland permanent, and while it stays tapped its activated abilities can't be used. Although it isn't like [Icy Manipulator](https://cards.scryfall.io/large/front/f/9/f9632147-7a55-4a4c-a3ec-de3a3916ad8b.jpg?1645607787), which you can use over and over for great effect, it adds the ability to lock down activated abilities, and used well it should be able to disrupt the opponent's plans and gain an advantage. In Limited, you should also get to see the amusing sight of planeswalkers or enchantments tapped down and unable to move.
 
 And Craft costs very little, so after it transforms you can pair it with your artifacts for a big draw, and it also puts the card back as the third card from the top of your library so you can keep using it, tapping over and over for great effect!
 
@@ -85,7 +85,7 @@ Very flexible, basically an upgrade of [Supreme Will](https://cards.scryfall.io/
 ![051](https://cards.scryfall.io/large/front/8/5/85ad358d-a520-4d57-82b0-d2297da1fbde.jpg?1698704533)
 
 **cephille**: 3.5
-Speaking of HOU just now, the Elf version of our old friend [Angler Drake](https://cards.scryfall.io/large/front/7/b/7b3773c5-3e19-4f0c-a916-9af025be57c0.jpg?1561791434) has arrived too. Although the body is the same, the return-to-hand effect on entering needs descend 4 to be satisfied and so is a bit less reliable, but the upside is that when it triggers it can return a nonland permanent. Basically, a six-mana 4/4 flier is worth trying one of in a midrange Limited deck, and as long as you have a suitable build and setup before it comes down, the chance of triggering the descend 4 effect is still not small.
+Speaking of HOU just now, the Spirit version of our old friend [Angler Drake](https://cards.scryfall.io/large/front/7/b/7b3773c5-3e19-4f0c-a916-9af025be57c0.jpg?1561791434) has arrived too. Although the body is the same, the return-to-hand effect on entering needs descend 4 to be satisfied and so is a bit less reliable, but the upside is that when it triggers it can return a nonland permanent. Basically, a six-mana 4/4 flier is worth trying one of in a midrange Limited deck, and as long as you have a suitable build and setup before it comes down, the chance of triggering the descend 4 effect is still not small.
 
 ![052](https://cards.scryfall.io/large/front/e/2/e2449311-a705-4a31-a345-a36d436ae561.jpg?1698264146)
 
@@ -142,7 +142,7 @@ A three-mana 2/3 flier with ward (1). When it enters, for each player you can ch
 ![062](https://images.guildmagesforum.tw/posts/LCI-Blue/9fcf6699155e.webp)
 
 **cephille**: 3.0
-It enters with flash and stuns an artifact or creature for two turns, and its Craft cost is also low at just three mana. After transforming it lets your creatures keep exploring (Ongoing Investigation). It feels like it will do well in blue-green and red-blue decks that may play a more tempo-oriented game.
+It enters with flash and stuns an artifact or creature for two turns, and its Craft cost is also low at just three mana. After transforming it lets your creatures keep exploring. It feels like it will do well in blue-green and red-blue decks that may play a more tempo-oriented game.
 
 ![063](https://cards.scryfall.io/large/front/1/9/19d6834d-afa3-4747-a62d-0654f4d9729f.jpg?1698172135)
 
@@ -152,7 +152,7 @@ A 2/1 flash flier is a great tempo gain, and looting while it attacks is just to
 ![064](https://cards.scryfall.io/large/front/7/8/78328899-7996-4cfd-bf00-d2a0d0ff3ef8.jpg?1699043821)
 
 **cephille**: 2.0
-Basically over ninety percent of the time it's just for finding lands, so unless you are really short on finishers or have far too many expensive cards late in the game, consider casting it straight up.
+Basically over ninety percent of the time it's just for finding lands, so unless you are really short on finishers or have mana to spare in the late game, only then consider hard-casting it!
 
 ![065](https://cards.scryfall.io/large/front/6/e/6e0fe81c-b8ef-49ff-8743-f03d0220cb9e.jpg?1699043829)
 
@@ -259,7 +259,7 @@ Uh... you're just a [Spyglass Siren](https://cards.scryfall.io/large/front/4/1/4
 ![085](https://cards.scryfall.io/large/front/d/e/ded2bb06-7163-47fe-bede-9c192c9b8952.jpg?1699044017)
 
 **cephille**: 2.0
-A [Hill Giant](https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130) that, if you control an artifact, stuns an opponent's artifact or creature for one turn on entering. If you lack a four-mana Pirate you can still use it. After all, you should be fighting plenty of Pirate artifacts, and the ETB ability should always earn value.
+A [Hill Giant](https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130) that, if you control an artifact, stuns an opponent's artifact or creature for one turn on entering. If you lack a four-mana Pirate you can still use it. After all, a Pirate or artifact deck shouldn't be short on artifacts, so the ETB ability should usually earn value.
 
 ![086](https://cards.scryfall.io/large/front/a/2/a2f498ac-179e-4055-9b83-97bcc5ab1bb9.jpg?1698706635)
 

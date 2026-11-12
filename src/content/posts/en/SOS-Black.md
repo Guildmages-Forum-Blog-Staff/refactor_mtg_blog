@@ -33,7 +33,7 @@ Secrets of Strixhaven (SOS) prerelease events run on April 17, 2026, with the of
 
 {% mtgpick "SOS" 72 %}
 Score: 2.5
-Comment: Ordinary stats, but if you can keep casting the Prepare spell on the right side and put a +1/+1 counter on something, it is actually pretty strong. If this little bean can force through a creature that otherwise could not get past blockers, it is very powerful.
+Comment: Ordinary stats, but if you can keep casting the Prepare spell on the right side and put a +1/+1 counter on something, it is actually pretty strong. If this counter can force through a creature that otherwise could not get past blockers, it is very powerful.
 
 
 {% mtgpick "SOS" 73 %}
@@ -63,7 +63,7 @@ Comment: Besides plain card draw, you can also add a counter. Before, pure draw 
 
 {% mtgpick "SOS" 78 %}
 Score: 4.0
-Comment: Once it resolves, you get two Arena-style effects every turn. The only worry is getting locked out. Landing it on time on turn five without drawing blanks should be strong, and if the opponent's life total is very low you can even consider letting them draw.
+Comment: Once it resolves, you effectively get two Phyrexian Arena effects every turn. Just be careful not to drain yourself to death. Landing it on time on turn five without overdrawing should be strong, and if the opponent's life total is very low you can even consider giving them the draws.
 
 
 {% mtgpick "SOS" 79 %}
@@ -78,7 +78,7 @@ Comment: A 5/4 for four mana is far above the curve, and it comes with a two-man
 
 {% mtgpick "SOS" 81 %}
 Score: 3.0
-Comment: A decent removal spell: it kills tempo creatures early and big creatures late, though in some situations it has reach problems.
+Comment: A decent removal spell: it kills tempo creatures early and big creatures late, though in some situations its range falls short.
 
 
 {% mtgpick "SOS" 82 %}
@@ -133,7 +133,7 @@ Comment: The better you are at gaining life, the stronger this threat is. It is 
 
 {% mtgpick "SOS" 92 %}
 Score: 3.0
-Comment: Life-gain decks will always play it; the -4/-4 finisher is far too strong.
+Comment: Life-gain decks will always play it; the -4/-4 kill effect is far too strong.
 
 
 {% mtgpick "SOS" 93 %}
@@ -159,9 +159,9 @@ Comment: In this set, with Pests or other small creatures it is easy to draw a h
 {% mtgpick "SOS" 97 %}
 Score: 4.0
 Comment: A pretty interesting planeswalker, but in Limited a planeswalker first needs to bring a board advantage or self-protection. The [-2] just about meets that, though needing creatures in your own graveyard is a bit of a hassle.
-The [-1] is an upgraded [Liliana of the Veil](https://scryfall.com/card/inr/475/liliana-of-the-veil), and you finally do not have to discard yourself. It is a little annoying that you must use the [-1] to trigger it, but the [+1] would be too strong; reliably making the opponent discard every turn would be too gross.
+The [-1] is an upgraded [Liliana of the Veil](https://scryfall.com/card/inr/475/liliana-of-the-veil), and you finally do not have to discard yourself. It is a little annoying that it is on the [-1], but as a [+1] it really would be too strong; reliably making the opponent discard every turn would be too gross.
 The [+1] is just looting into the graveyard, nothing special.
-The [-7] is when we find out if you are a gambler. Basically the average player can reach it (even elementary schoolers could), at best in three turns, or just short of two. In a normal Limited game, if the opponent passes two or three turns, unless the board gap is huge, it is basically hard to lose... right?
+The [-7] is where we find out how lucky you are. The expected value is elementary-school math: three turns if you are lucky, two if you are not. In a normal Limited game, if the opponent passes two or three turns, unless the board gap is huge, it is basically hard to lose... right?
 
 
 {% mtgpick "SOS" 98 %}
@@ -207,4 +207,4 @@ Comment: Although it is a conditional sweeper, life gain is clearly a theme in t
 I made a ㄅ-to-ㄦ rating chart myself, but the resolution is a bit sad, so just treat it as a little Easter egg.
 ![Black ㄅ-tier chart](https://images.guildmagesforum.tw/posts/SOS-Black/2aaf342acaca.webp)
 
-This is a multicolor set. Looking at it overall, the mono-colored cards basically feel like they exist to pair with multicolor cards; their stats and effects are only acceptable on their own. Also, cards that do many things basically cannot score too low, unless both halves are bad. And from any color, the power level of commons and uncommons has clearly inflated. Maybe in the future the [Grizzly Bears](https://scryfall.com/card/10e/268/grizzly-bears) of the world, a common without a positive ability or two won't count as a common anymore XD.
+This is a multicolor set. Looking at it overall, the mono-colored cards basically feel like they exist to pair with multicolor cards; their stats and effects are only acceptable on their own. Also, cards that do many things basically cannot score too low, unless both halves are bad. And from any color, the power level of commons and uncommons has clearly inflated. Maybe in the future a [Grizzly Bears](https://scryfall.com/card/10e/268/grizzly-bears) without one or two upside abilities won't even make it as a common XD.

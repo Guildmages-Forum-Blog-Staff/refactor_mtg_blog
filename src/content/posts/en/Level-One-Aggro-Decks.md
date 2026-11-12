@@ -18,7 +18,7 @@ excerpt: "Level One: Aggro Decks"
 > Note 2: This article and the following articles in the series were produced by translating the original with Gemini 3 Pro and then polishing the result. Every article includes a link to the original, and readers are very welcome to read the original on the official site!
 > Note 3: Since the original was published more than ten years ago, the translator will, where appropriate, add annotations explaining situations that differ between the original and the time of translation.
 > Note 4: The first 7 articles already have official Traditional Chinese translations. Before reading this one, we recommend checking the previous article, [Article Translation — Reid Duke's "Level One": The Full Course & Glossary of Terms](https://guildmagesforum.tw/en/Level-One-The-Full-Course-Glossary-of-Terms/).
-> Note 5: To view articles on the official site that have been translated into Traditional Chinese, remember to change the language preference to "繁體中文" at the very bottom of the page, then click the article link again.
+> Note 5: To view articles on the official site that have been translated into Traditional Chinese, remember to change the language preference to "繁體中文" (Traditional Chinese) at the very bottom of the page, then click the article link again.
 
 ## Article Translation — "Level One": Aggro Decks
 
@@ -83,7 +83,7 @@ Likewise, a slower black-white deck might prefer [Scoured Barrens](https://scryf
 
 Finally, let's look at this deck's answers. [Hero's Downfall](https://scryfall.com/card/ths/90/zht/%E8%8B%B1%E9%9B%84%E6%AE%89%E8%BA%AB-(heros-downfall)) is a reliable way to clear out blockers and keep the attack going. [Ulcerate](https://scryfall.com/card/m15/119/zht/%E6%BD%B0%E7%88%9B-(ulcerate)) and [Murderous Cut](https://scryfall.com/card/ktk/81/zht/%E5%A5%AA%E9%AD%82%E6%96%AC-(murderous-cut)) are situational, and while they have more restrictions on use, their extremely high mana efficiency makes up for it. If you can kill a creature with a one-mana Ulcerate, or a Murderous Cut cast with Delve, and land your own threat in the same turn, the tempo advantage that creates is enough to overwhelm your opponent.
 
-[Thoughtseize](https://scryfall.com/card/ths/107/zht/%E6%94%AB%E5%8F%96%E6%80%9D%E7%B7%92-(thoughtseize)) is also an answer, but in an aggro deck its use is usually to answer your opponent's answer. After all, the two great natural enemies of aggro are blockers and removal. You can't remove your opponent's removal with Hero's Downfall, but you can discard it with Thoughtseize before they cast it. When the opponent is counting on a High-Impact Spell like [End Hostilities](https://scryfall.com/card/ktk/8/zht/%E6%AD%A2%E6%88%B0%E5%AF%A7%E6%81%AF-(end-hostilities)) to turn the game around, a well-timed Thoughtseize is especially valuable.
+[Thoughtseize](https://scryfall.com/card/ths/107/zht/%E6%94%AB%E5%8F%96%E6%80%9D%E7%B7%92-(thoughtseize)) is also an answer, but in an aggro deck its use is usually to answer your opponent's answer. After all, the two great natural enemies of aggro are blockers and removal. You can't remove your opponent's removal with Hero's Downfall, but you can discard it with Thoughtseize before they cast it. When the opponent is counting on a high-impact spell like [End Hostilities](https://scryfall.com/card/ktk/8/zht/%E6%AD%A2%E6%88%B0%E5%AF%A7%E6%81%AF-(end-hostilities)) to turn the game around, a well-timed Thoughtseize is especially valuable.
 
 ![](https://images.guildmagesforum.tw/posts/Level-One-Aggro-Decks/66764ff76aa7.webp)
 

@@ -43,7 +43,7 @@ In actual play, our experience will fall somewhere between the two scenarios abo
 
 Once Gollum enters and you choose odd or even, to a large extent his floor and ceiling are decided. Next, let's use an extreme example to see how we can use Gollum in constructed.
 
-In Legacy, suppose you're on the play with a black-based deck, your opponent mulliganed to one, and after playing a Swamp you cast {% mtglink "Dark Ritual" %} on turn one, then cast {% mtglink "Thoughtseize" %} and see the following hand:
+In Legacy, suppose you're on the play with a black-based deck, your opponent mulliganed once, and after playing a Swamp you cast {% mtglink "Dark Ritual" %} on turn one, then cast {% mtglink "Thoughtseize" %} and see the following hand:
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/9448cab05d95.webp)
 
@@ -103,7 +103,7 @@ As for Jeskai Control, the opponent's removal consists mainly of Lesson cards, a
 
 From the picture, the number of odd and even cards looks about the same. But Dimir Midrange is a sharply trimmed tempo deck, and what we find harder to accept is having Gollum traded off by one-mana spot removal like {% mtglink "Requiting Hex" %}. So my suggestion is that in most situations you can call **odd**, especially when the opponent keeps one mana open.
 
-And with Gollum's 3/1 body, against the small-bodied Dimir creatures it can even beat {% mtglink "Enduring Curiosity" %} on its own! After we've chosen draw, the second time Gollum's ability triggers we can choose to put a counter on Gollum. That lets us block Kaito without a [+1], {% mtglink "Kaito, Bane of Nightmares" %}, or a manland {% mtglink "Restless Reef" %}, and also attack through a 1/1 little flyer.
+And with Gollum's 3/1 body, against the small-bodied Dimir creatures it can even beat {% mtglink "Enduring Curiosity" %} on its own! After we've chosen draw, the second time Gollum's ability triggers we can choose to put a counter on Gollum. That lets us block the opponent's {% mtglink "Kaito, Bane of Nightmares" %} when it hasn't used its [+1], or an animated {% mtglink "Restless Reef" %}, and also attack through a 1/1 little flyer.
 
 The worse case is getting hit by a flashed-in {% mtglink "Floodpits Drowner" %}; if you read that the opponent may have this card, you can consider calling **even** instead.
 
@@ -177,7 +177,7 @@ And the nature of a prowess deck is that it's stuffed with all kinds of one-mana
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Become-Riddle-Master/a246826fd726.webp)
 
-Although there's {% mtglink "Momo, Friendly Flier" %} and spot removal at one mana, this deck's resource point is basically two mana. Regardless of play or draw, on the opponent's turn two on the draw they usually slam a {% mtglink "Sarkhan, Dragon Ascendant" %} or {% mtglink "Magda, the Hoardmaster" %} to earn Treasure; if on the play the opponent has already resolved Sarkhan on turn two, next turn they should skip ahead to a four-mana dragon. Statistically, choosing **even** should have a higher expected value.
+Although there's {% mtglink "Momo, Friendly Flier" %} and spot removal at one mana, this deck's resource point is basically two mana. Regardless of play or draw, on the opponent's turn two on the draw they usually slam a {% mtglink "Sarkhan, Dragon Ascendant" %} or {% mtglink "Magda, the Hoardmaster" %} to earn Treasure; if on the play the opponent has already resolved Sarkhan on turn two, next turn they should ramp into a four-mana dragon. Statistically, choosing **even** should have a higher expected value.
 
 Don't forget, if Sarkhan creates a Treasure through behold when entering, he must reveal a Dragon card. Then we effectively know the answer in advance.
 

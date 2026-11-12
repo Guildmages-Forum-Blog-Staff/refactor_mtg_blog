@@ -81,9 +81,9 @@ Comment: Nearly a two-mana catch-all removal, and the exile effect avoids some a
 <!---9--->
 {% mtgpick "dsk" 9 %}
 Score: 3.0
-Comment: After entering and pressing down a big creature, ending the game with a 5/5 flier is nice, and it could be the finisher for white-based decks. Although this set has plenty of enchantment removal, even if it gets removed, the creatures pressed down on both sides return to hand, so the tempo doesn't drop too much.
+Comment: After entering and exiling a big creature, ending the game with a 5/5 flier is nice, and it could be the finisher for white-based decks. Although this set has plenty of enchantment removal, even if it gets removed, the creatures exiled on both sides return to hand, so the tempo doesn't drop too much.
 
-Don't forget that tapping down your own creature is an additional casting cost, so it's harder to use when behind. If you can cast it for less it should be quite strong, and in blue-white it should work better than in other white pairs.
+Don't forget that exiling your own creature is an additional casting cost, so it's harder to use when behind. If you can cast it for less it should be quite strong, and in blue-white it should work better than in other white pairs.
 
 
 <!---10--->
@@ -203,7 +203,7 @@ Comment: Ordinary body. Survival can fetch a creature with mana value 3 or less 
 <!---28--->
 {% mtgpick "dsk" 28 %}
 Score: 3.0
-Comment: This card is a bit like OTJ's {% mtgcard "Eriette's Lullaby" tooltip=true %} and LCI's {% mtgcard "Ray of Ruin" tooltip=true %} merged into one instant. Although it isn't removal suited to offense, it's very good on defense, especially since this set has survival, an ability that depends on tapping, so reach for destroying tapped creatures is better than destroying attacking creatures. Apart from black-white, the other two-color pairs' themes in this set lean toward offense, so if you want to use this card outside black-white, the build should tend toward a pile of powerful individual cards that abandons the theme mechanics.
+Comment: This card is a bit like OTJ's {% mtgcard "Eriette's Lullaby" tooltip=true %} and LCI's {% mtgcard "Ray of Ruin" tooltip=true %} merged into one instant. Although it isn't removal suited to offense, it's very good on defense, especially since this set has survival, an ability that depends on tapping, so being able to destroy tapped creatures covers more targets than only destroying attacking creatures. Apart from black-white, the other two-color pairs' themes in this set lean toward offense, so if you want to use this card outside black-white, the build should tend toward a pile of powerful individual cards that abandons the theme mechanics.
 
 The author's other thoughts
 Score: 2.0 to 2.5
@@ -254,7 +254,7 @@ Comment: Standing alone it may not be good enough, since a 1/1 is gone once it a
 <!---36--->
 {% mtgpick "dsk" 36 %}
 Score: 3.5
-Comment: {% mtgcard "Thopter Arrest" "aer" tooltip=true %} upgraded again, and it can also pressure enchantments. Considering DSK should have quite a lot of enchantment removal, the added ward 2 is pretty important.
+Comment: {% mtgcard "Thopter Arrest" "aer" tooltip=true %} upgraded again, and it can also exile enchantments. Considering DSK should have quite a lot of enchantment removal, the added ward 2 is pretty important.
 
 
 <!---37--->
@@ -284,7 +284,7 @@ Comment: It may be stronger in draft. If you have ways to tap it actively, growi
 <!---41--->
 {% mtgpick "dsk" 41 %}
 Score: 4.5
-Comment: Because it can convoke and jump in as an instant a 3/4 double striker to defend, it easily makes advantageous trades and easily nullifies the opponent's removal. It can protect and it can attack. Hail my Wandering Emperor!
+Comment: Because it can convoke and flash in a 3/4 double striker at instant speed to defend, it easily makes advantageous trades and easily nullifies the opponent's removal. It can protect and it can attack. Hail my Wandering Rescuer!
 
 
 ## Conclusion

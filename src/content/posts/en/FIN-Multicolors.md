@@ -57,7 +57,7 @@ Blue-black returns to the most traditional control theme, and besides the contro
 
 > Here we use the MTG creature type Wizard rather than the Mage used in the FF games, to avoid confusing readers.
 
-The main mechanic is making **black 0/1 Wizards**, and pairing them with the legendary uncommon {% mtglink "Black Waltz No. 3" %} and lots of **noncreature spells** to win through noncombat damage. This archetype needs the rare {% mtglink "Kuja, Genome Sorcerer" %}, who keeps making 0/1 Wizards and, once transformed, doubles the damage those Wizards deal. These two cards will be the core cards that make black-red run.
+The main mechanic is making **black 0/1 Wizards**, and pairing them with the legendary uncommon {% mtglink "Black Waltz No. 3" %} and lots of **noncreature spells** to win through noncombat damage. In this archetype, the rare {% mtglink "Kuja, Genome Sorcerer" %} is worth mentioning, who keeps making 0/1 Wizards and, once transformed, doubles the damage those Wizards deal. These two cards will be the core cards that make black-red run.
 
 As for the other legendary uncommon, {% mtglink "Garland, Knight of Cornelia" %}, he has no connection to the archetype theme. He's more of a card that blue-black and black-green, the two graveyard-value archetypes, will want, and readers can try him out in actual Limited games.
 
@@ -99,7 +99,7 @@ Many of blue-red's sorceries/instants have **Flashback**, and the flashback cost
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Multicolors/13a81a900b94.webp)
 
-Both uncommons of black-green care about the **number of permanent cards in your graveyard**. That means that for this archetype to work well, there's an implicit message that you shouldn't play **too many sorceries/instants**. However, looking at the reported cards such as {% mtglink "Exdeath, Void Warlock // Neo Exdeath, Dimension's End" %} and {% mtglink "Cloud of Darkness" %}, both are a bit mediocre filler before they hit their threshold, so I suggest approaching it from a different angle.
+Both uncommons of black-green care about the **number of permanent cards in your graveyard**. That means that for this archetype to work well, there's an implicit message that you shouldn't play **too many sorceries/instants**. However, looking at payoff cards such as {% mtglink "Exdeath, Void Warlock // Neo Exdeath, Dimension's End" %} and {% mtglink "Cloud of Darkness" %}, both are a bit mediocre filler before they hit their threshold, so I suggest approaching it from a different angle.
 
 If black-green's graveyard value is about **recursion from the graveyard**, then cards that **mill yourself** to fill the graveyard, like green's {% mtglink "Town Greeter" %} and black's {% mtglink "Shinra Reinforcements" %}, become very important, since every permanent card you put in there has a chance to turn into a resource in the mid-to-late game. Don't forget that Saga creatures also go to the graveyard after their final chapter resolves, which makes them well suited as mid-sized threats in black-green.
 
@@ -172,7 +172,7 @@ Comment: Although it's an archetype theme card, and it also shows that black-gre
 <!---221--->
 ![221](https://images.guildmagesforum.tw/posts/FIN-Multicolors/7338a4508eef.webp)
 Score: 3.0
-Comment: Besides the attacking stats of 232, every noncreature spell that surveils an extra 1 makes your next draw better; and after several rounds of creature trades, in the very late game you can dig it out of the graveyard for seven mana as a 5/5 Demon, which should perform well in attrition games.
+Comment: Besides its aggressive two-mana 3/2 stats, the extra surveil 1 on every noncreature spell makes your next draw better; and after several rounds of creature trades, in the very late game you can dig it out of the graveyard for seven mana as a 5/5 Demon, which should perform well in attrition games.
 
 <!---222--->
 {% mtgpick "fin" 222 %}
@@ -212,7 +212,7 @@ Comment: As long as Jenova isn't removed, you keep putting counters and earning 
 <!---229--->
 ![229](https://images.guildmagesforum.tw/posts/FIN-Multicolors/27aa1595b9f6.webp)
 Score: 4.5
-Comment: A 3/3/4 body isn't bad, and when it enters it may discard up to two and draw two, which filters your hand and also sets up chapter III after transforming. After transforming, chapters I and II can each hit for 2 and gain 2 (the front face has lifelink); although it can only join combat for one turn, chapter III's graveyard digging is very powerful, and once it resolves the front face returns to the battlefield again, and you can keep activating the five-mana ability to keep transforming. Extremely strong.
+Comment: A three-mana 3/4 body isn't bad, and when it enters it may discard up to two and draw two, which filters your hand and also sets up chapter III after transforming. After transforming, chapters I and II can each hit for 2 and gain 2 (the front face has lifelink); although it can only join combat for one turn, chapter III's graveyard digging is very powerful, and once it resolves the front face returns to the battlefield again, and you can keep activating the five-mana ability to keep transforming. Extremely strong.
 
 <!---230--->
 {% mtgpick "fin" 230 %}
@@ -252,7 +252,7 @@ Comment: Some powerful artifacts can be used again after being removed. If white
 <!---236--->
 {% mtgpick "fin" 236 %}
 Score: 3.0
-Comment: A 7/8/8 body is very good. The floor is putting at least 2 stun counters on a target nonland permanent when it enters and gaining 2 life, and it gets stronger the more Town cards you have.
+Comment: A seven-mana 8/8 body is very good. The floor is putting at least 2 stun counters on a target nonland permanent when it enters and gaining 2 life, and it gets stronger the more Town cards you have.
 
 <!---237--->
 {% mtgpick "fin" 237 %}
@@ -282,7 +282,7 @@ Comment: Growing while drawing is too much. When using it, keep an eye on the nu
 <!---242--->
 {% mtgpick "fin" 242 %}
 Score: 4.0
-Comment: A 7/7/7 flyer that starts earning copies of permanents in your graveyard on enters/attack, which is very strong.
+Comment: A seven-mana 7/7 flyer that starts earning copies of permanents in your graveyard on enters/attack, which is very strong.
 
 <!---243--->
 {% mtgpick "fin" 243 %}

@@ -134,7 +134,7 @@ When you pilot a midrange deck, you are never completely hopeless. You have a di
 
 Note that midrange decks come in all different forms, sizes, and color combinations. Making the top eight alongside Ari Lax was Yuuya Watanabe, who played "Jeskai Midrange" at the time.
 
-**渡邊雄也's Jeskai Wins**
+**Yuuya Watanabe's Jeskai Wins**
 [Decklist link](https://www.mtggoldfish.com/deck/7630143#paper)
 
 ![](https://images.guildmagesforum.tw/posts/Level-One-Midrange-Decks/d379f39ff1f5.webp)

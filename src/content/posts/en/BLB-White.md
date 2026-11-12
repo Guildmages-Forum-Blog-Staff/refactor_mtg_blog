@@ -85,7 +85,7 @@ Comments:
 Comments:
 
 - [Feather of Flight](https://scryfall.com/card/blb/13) Instant speed lets you trigger valiant abilities on the opponent's turn. It is more of an aggressive skin than a real combat trick.
-- [Flowerfoot Swordmaster](https://scryfall.com/card/blb/14) It usually plays as a three-drop on the curve, but as for the strength of a house mouse...
+- [Flowerfoot Swordmaster](https://scryfall.com/card/blb/14) It usually plays as a three-drop on the curve, but, well, given how strong Mice are...
 - [Harvestrite Host](https://scryfall.com/card/blb/15) Since it does not restrict to nontoken Rabbits, it triggers its card draw easily, and on the other hand it can also trigger valiant abilities.
 
 |                                                  016                                                  |                                                  017                                                  |                                                  018                                                  |
@@ -95,7 +95,7 @@ Comments:
 
 Comments:
 
-- [Hop to It](https://scryfall.com/card/blb/16) Plenty of synergy here: three creatures get buffed and you get your fill.
+- [Hop to It](https://scryfall.com/card/blb/16) A generous anthem effect: three creatures get the full buff.
 - [Intrepid Rabbit](https://scryfall.com/card/blb/17) One more mana, one more thing: it triggers valiant twice and leaves two creatures on the battlefield, and the creature type is right too.
 - [Jackdaw Savior](https://scryfall.com/card/blb/18) Strong even without a flying theme, and it hits hard too.
 
@@ -108,7 +108,7 @@ Comments:
 
 - [Jolly Gerbils](https://scryfall.com/card/blb/19) Makes casting gift cards feel less costly, and can even come out ahead!
 - [Lifecreed Duo](https://scryfall.com/card/blb/20) Works well in both black-white and white-blue, but unfortunately the Equipment and Auras in this set are not that strong, and its own stats make it hard to join combat.
-- [Mabel's Mettle](https://scryfall.com/card/blb/21) Affects combat for two creatures at once, and can trigger two valiants at once. Note that you cannot give the same creature +3/+3 twice.
+- [Mabel's Mettle](https://scryfall.com/card/blb/21) Affects combat for two creatures at once, and can trigger two valiants at once. Note that you cannot target the same creature with both to give it +3/+3.
 
 |                                                  022                                                  |                                                  023                                                  |                                                  024                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -172,7 +172,7 @@ Comments:
 
 Comments:
 
-- [Warren Elder](https://scryfall.com/card/blb/37) I personally think it is white's best common. Tapping four mana and going into combat puts a lot of pressure on the opponent, pushing them into more conservative blocks, and late in the game there is a chance to take them out in one swing.
+- [Warren Elder](https://scryfall.com/card/blb/37) I personally think it is white's best common. Going into combat with four mana open puts a lot of pressure on the opponent, pushing them into more conservative blocks, and late in the game there is a chance to take them out in one swing.
 - [Warren Warleader](https://scryfall.com/card/blb/38) It triggers its ability without attacking itself, and a single card can both widen the board and pump, and casting it for six mana changes its effect qualitatively.
 - [Wax-Wane Witness](https://scryfall.com/card/blb/39) Four toughness can block most flying creatures, and if you can trigger its life gain multiple times its attack power is not to be underestimated.
 

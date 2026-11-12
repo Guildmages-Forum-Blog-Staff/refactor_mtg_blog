@@ -3,7 +3,7 @@ title: "cephille's FDN Prerelease Sealed Report"
 date: "2024-11-11 21:26:45"
 cover: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/9ba10150dfb0-cover.jpg"
-excerpt: "Foundations constructed? Isn't that just a core set? If you're used to regular Standard limited, is a core set any fun? Let cephille tell you from real experience!"
+excerpt: "Foundations? Isn't that just a core set? If you're used to regular Standard limited, is a core set any fun? Let cephille tell you from real experience!"
 authors:
   - "cephille"
 categories:
@@ -34,14 +34,14 @@ Even setting aside bombs like {% mtgpick "fdn" 1 tooltip=true %} , {% mtgpick "f
 
 #### Main Deck Introduction and Discussion
 
-The two-mana mana dork {% mtgpick "fdn" 227 tooltip=true %} is super important in green-based decks, which let me build almost skipping the two-drop slot and going straight to three-mana-and-up cards. Here are some fun little combos:
+The two copies of the mana dork {% mtgpick "fdn" 227 tooltip=true %} are super important in green-based decks, which let me skip the two-drop slot almost entirely and build straight toward three mana and up. Here are some fun little combos:
 
 1. {% mtgpick "fdn" 4 tooltip=true %} entering the battlefield triggers the ability of {% mtgpick "fdn" 9 tooltip=true %} , gaining 1 life, and if that's the first time you gained life this turn, you then make a 1/1 Cat token and gain 1 more life (which won't make another Cat this time). Pairing it with {% mtgpick "fdn" 28 tooltip=true %} to surveil 1 for every 1 life gained is far too common.
 2. {% mtgpick "fdn" 107 tooltip=true %} , which has a landfall ability, and {% mtgpick "fdn" 103 tooltip=true %} pair very well with land-fetching effects and with {% mtgpick "fdn" 262 tooltip=true %} , giving you double the joy!
 
-After playing this limited event, I feel these two green cards, {% mtgpick "fdn" 103 tooltip=true %} and {% mtgpick "fdn" 114 tooltip=true %} , are a bit too strong for commons. One makes a 1/1 Faerie Warrior token on every landfall; the other is already a supreme build as a four-mana 1/4 with deathtouch and reach, and can also serve as a mana sink to actively put counters on things and grow them (and not just on itself!?).
+After playing this limited event, I feel these two green cards, {% mtgpick "fdn" 103 tooltip=true %} and {% mtgpick "fdn" 114 tooltip=true %} , are a bit too strong for commons. One makes a 1/1 Elf Warrior token on every landfall; the other is already a supreme build as a four-mana 1/4 with deathtouch and reach, and can also serve as a mana sink to actively put counters on things and grow them (and not just on itself!?).
 
-The green rare enchantment {% mtgpick "fdn" 113 tooltip=true %} is a truly great bomb; making 3/3 Raccoon tokens and putting counters on things are both quite useful. Often, after putting a counter or two on a flier, I start making Raccoons for ground defense while the fliers keep attacking in the air and take the game. In one game against a very coherent black-green Faerie deck, I also made 9 Raccoons with this enchantment and won with that formula.
+The green rare enchantment {% mtgpick "fdn" 113 tooltip=true %} is a truly great bomb; making 3/3 Raccoon tokens and putting counters on things are both quite useful. Often, after putting a counter or two on a flier, I start making Raccoons for ground defense while the fliers keep attacking in the air and take the game. In one game against a very coherent black-green Elf deck, I also made 9 Raccoons with this enchantment and won with that formula.
 
 As for removal, one white {% mtgpick "fdn" 143 tooltip=true %} and one green {% mtgpick "fdn" 214 tooltip=true %} make, I think, a very comfortable pairing. To me, their text is almost equivalent to "destroy target bomb an opponent controls." In this limited event I used them to take down bombs like {% mtgpick "fdn" 193 tooltip=true %} and {% mtgpick "spg" 81 tooltip=true %} , and I was quite satisfied XD
 
@@ -51,12 +51,12 @@ As for removal, one white {% mtgpick "fdn" 143 tooltip=true %} and one green {% 
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Prerelease-Experience-Cephille/8d848c632210.webp)
 
-The sideboard is above. Although I went through the motions of building red-blue, with the flash card {% mtgpick "fdn" 44 tooltip=true %} , honestly, compared to white-green I would never want to take red-blue out. This red-blue is not a weak pool, but compared to the white-green main deck the power level is still quite a bit lower, which is obvious just from looking at the creatures' sizes.
+The sideboard is above. Although I went through the motions of building red-blue, with the prerelease promo foil {% mtgpick "fdn" 44 tooltip=true %} , honestly, compared to white-green I would never want to take red-blue out. This red-blue is not a weak pool, but compared to the white-green main deck the power level is still quite a bit lower, which is obvious just from looking at the creatures' sizes.
 
 As for the remaining cards, the black material is genuinely too weak. I strongly recommend that readers who see a similar black build not pick it, and not touch it even if the curve looks OK. I didn't play the 12/12 big Dinosaur {% mtgpick "fdn" 335 tooltip=true %} because it's only a win-more card.
 
 > **Shop Introduction:**
-> **遊戲平方** probably needs no introduction from me; I believe there is nobody who plays Magic in Taiwan who doesn't know the owner, [郭子敬](https://en.wikipedia.org/wiki/Kuo_Tzu-Ching). The shop is in Taipei's Zhongshan District, near Zhongshan MRT Station. It has a very complete stock of singles for every format, with a regular Legacy event on Friday nights as well as some player-organized Commander gatherings. If players are serious about improving at Magic and want more chances to discuss and learn, Boss 郭 himself welcomes everyone to chat with him whenever he isn't busy with shop matters!
+> **遊戲平方** probably needs no introduction from me; I believe there is nobody who plays Magic in Taiwan who doesn't know the owner, [Kuo Tzu-Ching](https://en.wikipedia.org/wiki/Kuo_Tzu-Ching). The shop is in Taipei's Zhongshan District, near Zhongshan MRT Station. It has a very complete stock of singles for every format, with a regular Legacy event on Friday nights as well as some player-organized Commander gatherings. If players are serious about improving at Magic and want more chances to discuss and learn, Boss Kuo himself welcomes everyone to chat with him whenever he isn't busy with shop matters!
 
 ### Sealed Pool 2: Red-Green Splashing Blue 3-0 @[紙盒子桌遊休閒館](https://www.facebook.com/profile.php?id=100057364393517)
 
@@ -112,7 +112,7 @@ However, this build doesn't blend very well with blue's draw-two and flash theme
 
 The sideboard is above. In the red-white build in picture one, the shiny one-mana card is the second copy of {% mtgpick "fdn" 13 tooltip=true %} ; and in the sideboard in picture two, the shiny black cards are the two-mana {% mtgpick "fdn" 77 tooltip=true %} and the three-mana {% mtgpick "fdn" 60 tooltip=true %} .
 
-It's a pity there was no Temur (red-blue-green) tri-land. When building I tried going three colors, but gave up when the mana was unstable. Red-green splashing blue also isn't a build that lets the strengths shine, so after thinking it over I just played blue-green.
+It's a pity there were no dual lands in Temur (red-blue-green) colors. When building I tried going three colors, but gave up when the mana was unstable. Red-green splashing blue also isn't a build that lets the strengths shine, so after thinking it over I just played blue-green.
 
 The red-white sideboard could basically work too, but the early curve is a bit rough; the upside is that the removal is decent, and with an extra sweeper, {% mtgpick "fdn" 140 tooltip=true %} , you can catch the opponent off guard, and there are enough fliers to hold back quality creatures, wipe the board, and trade into a wave of attacks.
 

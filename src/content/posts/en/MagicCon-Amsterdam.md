@@ -3,7 +3,7 @@ title: "cephille's MagicCon: Amsterdam Travelogue"
 date: "2024-07-04 19:10:12"
 cover: "https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/44cb2867cfd7-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/44cb2867cfd7-cover.jpg"
-excerpt: "Went to your first MagicCon and jumped right in? Come take a look!"
+excerpt: "Got the hang of MagicCon on your very first visit? Come take a look!"
 categories:
   - "Tournaments"
   - "Overseas"
@@ -79,7 +79,7 @@ The Commander Zone took up the second-largest area in the center of the venue, s
 ![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/069630e01cf4.webp)
 ![](https://images.guildmagesforum.tw/posts/MagicCon-Amsterdam/53bee1ce5cba.webp)
 
-The PT broadcast desk, with the feature match tables on the other side. The other photo shows the main PT playing area, with the players' lounge on the other side. I saw a bunch of familiar Pros like Reid Duke, JED, and 八十岡翔太 walking around right in front of me, but being shy by nature, I didn't go over to ask for a photo. Besides feeling embarrassed, I figured that if I were resting in there, maybe reviewing my games or thinking about countermeasures for what's next, and passersby kept coming up to take photos with me, I might find it a bit annoying too.
+The PT broadcast desk, with the feature match tables on the other side. The other photo shows the main PT playing area, with the players' lounge on the other side. I saw a bunch of familiar Pros like Reid Duke, JED, and Shota Yasooka walking around right in front of me, but being shy by nature, I didn't go over to ask for a photo. Besides feeling embarrassed, I figured that if I were resting in there, maybe reviewing my games or thinking about countermeasures for what's next, and passersby kept coming up to take photos with me, I might find it a bit annoying too.
 
 ### Trading
 
@@ -160,19 +160,19 @@ After finishing this day I reviewed my deckbuilding a bit. In terms of overall p
 
 In game one, the opponent used [Emperor of Bones](https://scryfall.com/card/mh3/90/emperor-of-bones) + [Chthonian Nightmare](https://scryfall.com/card/mh3/83/chthonian-nightmare) to dig back creatures several times. I couldn't kill them all, so I conceded.
 
-p.s. I used black-white exile removal on the opponent's [Emperor of Bones](https://scryfall.com/card/mh3/90/emperor-of-bones) with [Abstruse Appropriation](https://scryfall.com/card/mh3/177/abstruse-appropriation), and when I went to cast it, the opponent's [Subtlety](https://scryfall.com/card/mh2/67/subtlety) bounced it to the top of his library. I cried so hard.
+p.s. I exiled the opponent's [Emperor of Bones](https://scryfall.com/card/mh3/90/emperor-of-bones) with my black-white removal [Abstruse Appropriation](https://scryfall.com/card/mh3/177/abstruse-appropriation), and when I went to cast it, the opponent's [Subtlety](https://scryfall.com/card/mh2/67/subtlety) bounced it to the top of his library. I cried so hard.
 
-In game two I was stuck on 3 lands for a super long time. After I finally played [Titan's Vanguard](https://scryfall.com/card/mh3/206/titans-vanguard), I hit back to win. The opponent forgot to return the blue-black Faerie to the graveyard, and as a result he got me down to just one hit short of killing me.
+In game two I was stuck on 3 lands for a super long time. After I finally played [Titan's Vanguard](https://scryfall.com/card/mh3/206/titans-vanguard), I hit back to win. The opponent forgot to bring back his blue-black Faerie from the graveyard, and as a result he ended up one hit short of killing me.
 
 In game three the opponent drew badly, and I overwhelmed him with creatures.
 
 ### R2 Temur Eldrazi 1-1
 
-In game one, the opponent flipped a bunch of cards with [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom) until two cards were left in his library. Then he cast a 7-mana creature to retrigger [Ugin's Binding](https://scryfall.com/card/mh3/76/ugins-binding), returning my whole team to hand, so he couldn't last until the opponent's library ran out. GG.
+In game one, the opponent flipped a bunch of cards with [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom) until two cards were left in his library. Then he cast a 7-mana creature to retrigger [Ugin's Binding](https://scryfall.com/card/mh3/76/ugins-binding), returning my whole team to hand, and I couldn't hold out until his library ran out. GG.
 
 In game two the opponent was blown out by an early [Glyph Elemental](https://scryfall.com/card/mh3/27/glyph-elemental).
 
-In game three, when time ran out the opponent was at 6 life. He cast [Marionette Apprentice](https://scryfall.com/card/mh3/100/marionette-apprentice), which was returned to hand by [Ugin's Binding](https://scryfall.com/card/mh3/76/ugins-binding), and then he slammed a 7-mana Eldrazi to retrigger the Binding and force a draw.
+In game three, when time ran out the opponent was at 6 life. I cast [Marionette Apprentice](https://scryfall.com/card/mh3/100/marionette-apprentice), which was returned to hand by [Ugin's Binding](https://scryfall.com/card/mh3/76/ugins-binding), and then he slammed a 7-mana Eldrazi to retrigger the Binding and force a draw.
 
 ### R3 Red-Green Eldrazi 1-2
 
@@ -188,7 +188,7 @@ In game three, [Evolution Witness](https://scryfall.com/card/mh3/151/evolution-w
 
 ### R5 Jund Sacrifice 0-2
 
-In game one I got spread out + the opponent's [Eladamri, Korvecdal](https://scryfall.com/card/mh3/149/eladamri-korvecdal) used the top-of-library resources like crazy, with two [Marionette Apprentice](https://scryfall.com/card/mh3/100/marionette-apprentice) + [Warren Soultrader](https://scryfall.com/card/mh3/110/warren-soultrader). I couldn't deal with it all, so GG.
+In game one the opponent went wide + his [Eladamri, Korvecdal](https://scryfall.com/card/mh3/149/eladamri-korvecdal) used the top-of-library resources like crazy, with two [Marionette Apprentice](https://scryfall.com/card/mh3/100/marionette-apprentice) + [Warren Soultrader](https://scryfall.com/card/mh3/110/warren-soultrader). I couldn't deal with it all, so GG.
 
 In game two I switched to red-green and kept getting stuck on lands, and then the opponent played [Territory Culler](https://scryfall.com/card/mh3/173/territory-culler) first and I had no chance.
 
@@ -244,7 +244,7 @@ Since I made this trip, some of you might be curious about roughly how much it c
 
 The main expense of flying to Europe is the **airfare**. I took a KLM direct flight from Taipei to Amsterdam, bought three months before departure, **costing NT$45,416**. However, when buying the ticket I chose a specific seat, which added about 1 to 2 thousand, so buying normally could be a bit cheaper.
 
-**Local transportation** was mainly by metro and on foot. Apart from Day 0, each day I basically bought a combined metro and bus ticket for the round trip between the hotel and the venue, once each way, €3.4 each, so €6.8 over 4 days. In addition, there was the €4.9 one-way train from the airport to Amsterdam Central Station, €9.8 for the round trip, **totaling NT$1,295**.
+**Local transportation** was mainly by metro and on foot. Apart from Day 0, each day I basically bought a combined metro and bus ticket for the round trip between the hotel and the venue, once each way, €3.4 each, so €6.8 a day for 4 days. In addition, there was the €4.9 one-way train from the airport to Amsterdam Central Station, €9.8 for the round trip, **totaling NT$1,295**.
 
 Another thing worth mentioning is Amsterdam's bicycles. The hostel I stayed in also offers rentals. Although I didn't rent one, I can still mention it. The price is €14 for 3 hours, €19 for one day, and €18 per day for two days or more. A one-day rental costs about the same as a normal meal in Amsterdam. If you want to experience the Amsterdam scenery, it's actually worth considering. When crossing the road, besides watching for cars you also need to watch for bikes. Bikes have dedicated lanes, usually painted brick red, so be especially careful when crossing. The bikes here, much like scooters in Taiwan, mostly don't yield XDD.
 

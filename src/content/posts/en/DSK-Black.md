@@ -42,7 +42,7 @@ Comment: A creature with flash, in Limited, as long as its stats are not too poo
 <!---84--->
 {% mtgpick "dsk" 84 %}
 Rating: 2.0
-Comment: An Eerie payoff card; unfortunately it just drains one life without gaining any, which lowers its priority. It can be a mediocre two-drop in the Dimir and Azorius-blue themes, but other decks will not consider it.
+Comment: An Eerie payoff card; unfortunately it just drains one life without gaining any, which lowers its priority. It can be a mediocre two-drop in the blue-black and white-blue themes, but other decks will not consider it.
 
 
 <!---85--->
@@ -60,7 +60,7 @@ Comment: The reanimated creature does not get haste, so be careful not to bluff 
 <!---87--->
 {% mtgpick "dsk" 87 %}
 Rating: 2.5
-Comment: A sorcery-speed look at four, choose one. At first glance the efficiency is not high, but it fills the graveyard and gains life at the same time. I think it is a very good choice in the slower-built white-black and black-green themes, especially in black-green, where you will really want to find your key delirium payoffs, and milling three can also achieve delirium in one go. Perhaps this card's pick order will rise as the environment changes.
+Comment: A sorcery-speed look at four, choose one. At first glance the efficiency is not high, but it fills the graveyard and gains life at the same time. I think it is a very good choice in the slower white-black and black-green themes, especially in black-green, where you will really want to find your key delirium payoffs, and milling three can also achieve delirium in one go. Perhaps this card's pick order will rise as the environment changes.
 
 
 <!---88--->
@@ -266,7 +266,7 @@ Comment: Using the right side first, the 5-mana 6/6 flying Demon, has a chance t
 <!---119--->
 {% mtgpick "dsk" 119 %}
 Rating: 4.5
-Comment: The king of racing creatures: the opponent cannot afford not to block you, but after blocking it crawls back over time. Note that in a mature draft environment, you will not play this card on time on turn 3; you will definitely wait until both sides have traded resources, and then use this card to crush the opponent. Deathtouch is a good ability for both offense and defense. When you see the opponent, remember to hold [Scorching Dragonfire](https://scryfall.com/card/dsk/156/scorching-dragonfire/) waiting for it.
+Comment: The king of racing creatures: the opponent cannot afford not to block you, but after blocking it crawls back over time. Note that in a mature draft environment, you will not play this card on time on turn 3; you will definitely wait until both sides have traded resources, and then use this card to crush the opponent. Deathtouch is a good ability for both offense and defense. If you are facing it, remember to hold up [Scorching Dragonfire](https://scryfall.com/card/dsk/156/scorching-dragonfire/) waiting for it.
 
 
 
@@ -302,6 +302,6 @@ Comment: Coming to the last black card, it directly gives black the ability to d
 
 ## Conclusion
 
-In summary, the early creatures black gives this time are rather weak, with insufficient offense but plenty of defense. The highlight is a large number of quality removal spells, along with 5- and 6-mana UC late-game creatures that I think are second only to green. For this set's themes, the defend-and-counterattack approach such as black-green and white-black will be very good: use removal and small creatures to survive the early game, then dominate the board with big creatures. In the blue-black archetype, black plays the role of clearing obstacles, providing a tempo advantage, using fliers and Eerie to get through the opponent. For red-black, strength depends on whether you get the core sacrifice cards, whether you have sacrifice outlets and sacrifice payoffs, and construction is relatively difficult.
+In summary, the early creatures black gives this time are rather weak, with insufficient offense but plenty of defense. The highlight is a large number of quality removal spells, along with 5- and 6-mana UC late-game creatures that I think are second only to green. For this set's themes, the defend-and-counterattack approach such as black-green and white-black will be very good: use removal and small creatures to survive the early game, then dominate the board with big creatures. In the blue-black archetype, black plays the role of clearing obstacles, providing a tempo advantage, using fliers and Eerie to get through the opponent. For red-black, strength depends on whether you get the core sacrifice cards, whether you have sacrifice outlets and sacrifice payoffs, so it is relatively difficult to build.
 
-Looking at it from another angle, if you take many creatures but never see a single removal spell, you will lose black's greatest advantage, which is why you chose it.
+Looking at it from another angle, if you take many creatures but never see a single removal spell, you will lose the greatest advantage of choosing black.

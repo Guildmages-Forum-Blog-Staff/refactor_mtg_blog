@@ -40,7 +40,7 @@ Retired bombs that made the Limited Hall of Fame: [Pack Rat](https://cdn1.mtggol
 
 **Limited Rating: 4.0**
 
-A 4/4 trampler for five mana is already great, and it comes with a bonus fight if you gift it. You basically always want to gift this one, and green usually has a Food or something else to spare to feed the gift.
+A 4/4 trampler for five mana is already great, and it comes with a bonus fight if you bargain it. You basically always want to bargain this one, and green usually has a Food or something else to spare to feed the bargain.
 
 ![Beanstalk Wurm](https://images.guildmagesforum.tw/posts/WOE-Green/5d5772e16c18.webp)
 
@@ -70,7 +70,7 @@ A two-mana mana creature that can discard a card to return itself to your hand l
 
 **Limited Rating: 2.5**
 
-If you can gift it early, the 3/3 haste land is pretty strong. At worst it is a one-mana spell that finds a land, so it deserves a slot in any deck that needs to reach three colors.
+If you can bargain it early, the 3/3 haste land is pretty strong. At worst it is a one-mana spell that finds a land, so it deserves a slot in any deck that needs to reach three colors.
 
 ![Commune with Nature](https://images.guildmagesforum.tw/posts/WOE-Green/83e52e49f6ae.webp)
 
@@ -118,7 +118,7 @@ Three 3/3 tramplers for six mana is already absurd, and when one of them dies, i
 
 **Limited Rating: 3.5**
 
-If a 6/6 trampler for seven that gains 3 life feels too slow, you can also gift it for five, and a 6/6 trampler for five is an absurd body in Limited. If you are sure you can gift it for five, it is worth at least 4.0.
+If a 6/6 trampler for seven that gains 3 life feels too slow, you can also bargain it for five, and a 6/6 trampler for five is an absurd body in Limited. If you are sure you can bargain it for five, it is worth at least 4.0.
 
 ![Hollow Scavenger](https://images.guildmagesforum.tw/posts/WOE-Green/5138579bd5b5.webp)
 
@@ -136,7 +136,7 @@ As long as you have a card that went on an Adventure in exile, it gains haste. W
 
 **Limited Rating: 4.5**
 
-For three mana, Chapter I of this Saga makes a 3/3 that pays for itself, Chapter II lets you sacrifice a small creature to bring in a bigger one (Cards that find lands work too!), and Chapter III gives up to two creatures you control +2/+2 and trample until end of turn. The only downside is that Chapters II and III are worse on an empty board, but it can turn an even board into a decisive win, which is worth a very high rating.
+For three mana, Chapter I of this Saga makes a 3/3 that pays for itself, Chapter II lets you sacrifice a small creature to bring in a bigger one (if you are stuck on lands, it can fetch a land too!), and Chapter III gives up to two creatures you control +2/+2 and trample until end of turn. The only downside is that Chapters II and III are worse on an empty board, but it can turn an even board into a decisive win, which is worth a very high rating.
 
 > I also find the Chinese translation of this card's name, 獵人懺罪道, quite interesting. Garruk did not appear as a planeswalker in this set but in Saga form, so there is still a good chance we will see him as a planeswalker in the future. Let's keep looking forward to it!
 
@@ -234,7 +234,7 @@ A 2/3 defender for two. Once you have another creature with power 4 or greater a
 **Limited Rating: 3.0**
 **Limited Rating: 4.0 (if you can ramp into it)**
 
-With gift it is basically very close to [Tooth and Nail](https://cards.scryfall.io/normal/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199). Looking at 20 cards from the top of your library for two creatures to put into your hand or onto the battlefield, and still missing the creatures you need means either you are very unlucky or you didn't play any, right? This should be a big finisher for ramp decks in blue-green or red-green. Try to gift it whenever you can, otherwise ramping all the way to eight mana and then passing a turn is a bit too sluggish.
+With bargain it is basically very close to [Tooth and Nail](https://cards.scryfall.io/normal/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199). Looking at 20 cards from the top of your library for two creatures to put into your hand or onto the battlefield, and still missing the creatures you need means either you are very unlucky or you didn't play any, right? This should be a big finisher for ramp decks in blue-green or red-green. Try to bargain it whenever you can, otherwise ramping all the way to eight mana and then passing a turn is a bit too sluggish.
 
 ![Titanic Growth](https://images.guildmagesforum.tw/posts/WOE-Green/3f9fa0b7f9ac.webp)
 
@@ -260,7 +260,7 @@ It makes two Foods on entering so you can eat your fill, and for three mana it c
 
 **Limited Rating: 2.5**
 
-A two-mana [bear](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736) is still important, and when you need to destroy an artifact or Enchantment you can gift it. A great curve creature that provides value in the mid to late game as well.
+A two-mana [bear](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736) is still important, and when you need to destroy an artifact or Enchantment you can bargain it. A great curve creature that provides value in the mid to late game as well.
 
 ![Up the Beanstalk](https://images.guildmagesforum.tw/posts/WOE-Green/788c5a21437f.webp)
 
@@ -272,7 +272,7 @@ By the time you start gaining cards from this, it is a bit too slow. If you have
 
 **Limited Rating: 3.0**
 
-A common 4/2 for three, but the extra two-mana activated ability that makes it unblockable by creatures with power 2 or less changes things. It will reliably deal 4 damage to the opponent, force them to spend removal on it, or at least trade with a creature that is 3/3 or bigger. Of course, if all your opponent's creatures are bigger than it, just don't attack.
+An ordinary 4/2 for three, but the extra two-mana activated ability that makes it unblockable by creatures with power 2 or less changes things. It will reliably deal 4 damage to the opponent, force them to spend removal on it, or at least trade with a creature that is 3/3 or bigger. Of course, if all your opponent's creatures are bigger than it, just don't attack.
 
 ![Virtue of Strength](https://images.guildmagesforum.tw/posts/WOE-Green/8664d0fa6d8d.webp)
 

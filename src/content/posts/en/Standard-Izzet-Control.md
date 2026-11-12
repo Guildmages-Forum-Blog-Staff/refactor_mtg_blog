@@ -71,7 +71,7 @@ Although [Monument to Endurance](https://scryfall.com/card/dft/237/monument-to-e
 The front half is really a 2-mana removal spell, and the 6/6 giant whale afterwards is a freebie. It's also one of the few non-damage removal spells, which matters a lot against high-toughness creatures or [Screaming Nemesis](https://scryfall.com/card/dsk/157/screaming-nemesis).
 
 - [Trumpeting Carnosaur](https://scryfall.com/card/lci/171/trumpeting-carnosaur) (2):
-As a creature it's a strong threat on its own, since the ETB draws a card, so even if it eats removal you still come out ahead on cards. The 3-mana, 3-damage pseudo-burn removal isn't efficient, but it's a usable range for now, and because it's discard, it triggers [Monument to Endurance](https://scryfall.com/card/dft/237/monument-to-endurance); with that added value it's not so bad.
+As a creature it's a strong threat on its own, since the ETB draws a card, so even if it eats removal you still come out ahead on cards. The 3-mana, 3-damage pseudo-channel removal isn't efficient, but it's a usable range for now, and because it's discard, it triggers [Monument to Endurance](https://scryfall.com/card/dft/237/monument-to-endurance); with that added value it's not so bad.
 
 Both of the creature cards above are also **6-mana** cards, which is the key to boosting the firepower of [Ill-Timed Explosion](https://scryfall.com/card/mkm/207/ill-timed-explosion). You can also see that although they're 6-mana cards, in actual play they often serve as low-cost removal on the curve, which ensures I have enough interaction in the early game.
 
@@ -112,7 +112,7 @@ A 2-mana planeswalker that can use [+1] each turn to loot, very well suited to t
 
 {% mtgpick "blb" 253 %}
 - [Fountainport](https://scryfall.com/card/blb/253/fountainport) (1):
-There's roughly one flexible utility-land slot, and any utility land will do. I chose Fountainport because it's the most versatile; [Mirrex](https://scryfall.com/card/one/254/mirrex), [Demolition Field](https://scryfall.com/card/fdn/687/demolition-field), and various transforming lands are also usable options.
+There's roughly one flexible utility-land slot, and any utility land will do. I chose Fountainport because it's the most versatile; [Mirrex](https://scryfall.com/card/one/254/mirrex), [Demolition Field](https://scryfall.com/card/fdn/687/demolition-field), and various manlands are also usable options.
 
 
 
@@ -140,7 +140,7 @@ A standard blue sideboard card. I still recommend at least 3 copies of Negate, a
 
 {% mtgpick "fdn" 509 %}
 - [Into the Roil](https://scryfall.com/card/fdn/509/into-the-roil) (1):
-An all-purpose stalling and disruption card. A common similar option is [Into the Flood Maw](https://scryfall.com/card/blb/52/into-the-flood-maw) <font color="#AAAAAA">(even the names are alike)</font>. Although Into the Roil costs one more, with Level 2 [Artist's Talent](https://scryfall.com/card/blb/124/artists-talent) it can be reduced to the same cost, and it has the advantages of being able to rebuy your own permanents, boosting card draw, and not giving the opponent a Fish. Being able to save your own [Monument to Endurance](https://scryfall.com/card/dft/237/monument-to-endurance) is the final reason I chose it.
+An all-purpose stalling and disruption card. A common similar option is [Into the Flood Maw](https://scryfall.com/card/blb/52/into-the-flood-maw) <font color="#AAAAAA">(even the names are alike)</font>. Although Into the Roil costs one more, with Level 2 [Artist's Talent](https://scryfall.com/card/blb/124/artists-talent) it can be reduced to the same cost, and it has the advantages of being able to rebuy your own permanents, being kickable to draw a card, and not giving the opponent a Fish. Being able to save your own [Monument to Endurance](https://scryfall.com/card/dft/237/monument-to-endurance) is the final reason I chose it.
 
 
 {% mtgpick "fdn" 151 %}

@@ -1,5 +1,5 @@
 ---
-title: "Wilds of Eldraine (WOE) Limited Preview — White"
+title: "cephille's Wilds of Eldraine (WOE) Limited Preview — White"
 date: 2023-09-05 17:24:13
 categories:
   - "Limited"
@@ -47,7 +47,7 @@ A four-mana 4/4 flier that also makes the creature you enchant with Auras have b
 
 **Limited rating: 1.5**
 
-A plain +2/+2 trick that generally wouldn't see much play outside of prowess-style decks; with kicker it additionally gives flying and lifelink but it is probably still a slight loss, and the problem of tricks easily getting two-for-oned must also be considered when deciding whether to kick it.
+A plain +2/+2 trick that generally wouldn't see much play outside of prowess-style decks; with bargain it additionally gives flying and lifelink but it is probably still a slight loss, and the problem of tricks easily getting two-for-oned must also be considered when deciding whether to bargain it.
 
 ![Armory Mice](https://images.guildmagesforum.tw/posts/WOE-White/3aca578f3cdb.webp)
 
@@ -61,7 +61,7 @@ Mostly just a plain white two-mana 3/1, and it's fine when it becomes a 3/3 afte
 
 > Do you think a human and a fox could ever be together? ...
 
-A four-mana 3/3 is merely playable in Limited, but the Adventure side giving a Royal role is decent. Remember that this kind of Adventure card that gives roles to tokens cannot be put on yourself.
+A four-mana 3/3 is merely playable in Limited, but the Adventure side giving a Royal role is decent. Remember that this kind of Adventure card that gives roles to tokens cannot put the role on the card itself.
 
 ![Break the Spell](https://images.guildmagesforum.tw/posts/WOE-White/3a7f17731f29.webp)
 
@@ -94,7 +94,7 @@ In an environment where enchantments interact, [Pacifism](https://cards.scryfall
 
 **Limited rating: 1.5**
 
-A three-mana 1/1 lifelink. The unlucky Cursed role attached to it can be fed to kicker, but white doesn't have many kicker cards, so don't rely too much on that. It may be more practical as a celebration trigger source, but if you have creatures with better stats, don't play it.
+A three-mana 1/1 lifelink. The unlucky Cursed role attached to it can be fed to bargain, but white doesn't have many bargain cards, so don't rely too much on that. It may be more practical as a celebration trigger source, but if you have creatures with better stats, don't play it.
 
 > The Frog Prince, but the face is drawn so much like a frog that it makes people a bit uncomfortable.
 
@@ -148,15 +148,15 @@ Although it can only remove people or tokens of mana value three or less, you ca
 
 **Limited rating: 2.5**
 
-Giving two bodies' worth is a good friend of celebration and kicker abilities, and a voluntary sacrifice can also trigger enchantment-to-graveyard effects, which basically covers all the new mechanics that involve white. But this set has too many 2/3 creatures, so I currently feel you shouldn't put too many in, and running more creatures with 3 or more power may be better for offense. Of course, it's a different story if you have ways to make the 2/2 knights bigger.
+Giving two bodies' worth is a good friend of celebration and bargain abilities, and a voluntary sacrifice can also trigger enchantment-to-graveyard effects, which basically covers all the new mechanics that involve white. But this set has too many 2/3 creatures, so I currently feel you shouldn't put too many in, and running more creatures with 3 or more power may be better for offense. Of course, it's a different story if you have ways to make the 2/2 knights bigger.
 
 ![Kellan's Lightblades](https://images.guildmagesforum.tw/posts/WOE-White/4e5e73d8c72d.webp)
 
 **Limited rating: 3.5**
 
-A two-mana instant dealing with an attacking/blocking creature with toughness 3, and with kicker it becomes destroy. In white it is a very efficient removal spell.
+A two-mana instant that deals 3 damage to an attacking or blocking creature, and with bargain it destroys it instead. In white it is a very efficient removal spell.
 
-Note that if the opponent's creature isn't attacking or blocking and you kick it to sacrifice a token to cast this card, because it is an [illegal action](https://mtg.fandom.com/wiki/Illegal_action), the game rewinds to the state before you tried to announce casting the spell, and the token will not be sacrificed and lost.
+Note that if the opponent's creature isn't attacking or blocking and you bargain it by sacrificing a token to cast this card, because it is an [illegal action](https://mtg.fandom.com/wiki/Illegal_action), the game rewinds to the state before you tried to announce casting the spell, and the token will not be sacrificed and lost.
 
 ![Knight of Doves](https://images.guildmagesforum.tw/posts/WOE-White/102529a45b84.webp)
 
@@ -196,7 +196,7 @@ A three-mana Saga whose Chapter I on entering suppresses a creature, and Chapter
 
 **Limited rating: 2.5**
 
-A three-mana 3/2 that, when it dies, puts a Young Hero role on a creature you control, which is quite nice, and the Young Hero role is stronger than I imagined: a creature with ward 3 can still put counters after being enchanted and sent out.
+A three-mana 3/2 that, when it dies, puts a Young Hero role on a creature you control, which is quite nice, and the Young Hero role is stronger than I imagined: a creature with toughness 3 can still get counters when it attacks with the role attached.
 
 > But the mood of the card is a bit heartbreaking: child, your parents have passed away, and you can only rely on yourself...
 
@@ -267,7 +267,7 @@ A three-mana instant-speed answer to any nonland permanent, with the side effect
 
 **Limited rating: 3.0**
 
-A two-mana enchantment that gives a creature you control and enchanted with it +2/+2, which should be worth playing in the WOE environment full of various role tokens; but for me the team-pump effect is still a bit unstable, so I can't give it a very high score.
+A two-mana enchantment that gives enchanted creatures you control +2/+2, which should be worth playing in the WOE environment full of various role tokens; but for me the team-pump effect is still a bit unstable, so I can't give it a very high score.
 
 ![Three Blind Mice](https://images.guildmagesforum.tw/posts/WOE-White/35b0d5d97f70.webp)
 
@@ -285,7 +285,7 @@ A plain four-mana 2/3 flier and a 3/3 lifelink flier after celebration triggers 
 
 **Limited rating: 2.5**
 
-A two-mana vanilla [Grizzly Bears](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736), or a four-mana [Hill Giant](https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130) that can scry 1 when attacking; neither is strong enough alone in Limited, but combined in one card it makes your constructed deck run smoothly, and the low-profile sage is your good friend for filling the curve.
+A two-mana vanilla [Grizzly Bears](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736), or a four-mana [Hill Giant](https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130) that can scry 1 when attacking; neither is strong enough alone in Limited, but combined in one card it makes your deck building smoother, and Unassuming Sage is your good friend for filling the curve.
 
 ![Virtue of Loyalty](https://images.guildmagesforum.tw/posts/WOE-White/8996674a00ee.webp)
 

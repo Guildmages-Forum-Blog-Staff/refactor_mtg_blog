@@ -39,13 +39,13 @@ Comment: A base body of just 2/2 is simply too bad. Only consider including it i
 <!---125--->
 {% mtgpick "tla" 125 %}
 Score: 3.0
-Comment: The first mode deals damage to a target creature based on your land count, so its reach grows as the game goes on; the second mode can directly destroy a target land creature, or blow up a nonbasic land to wreck your opponent's mana base. Overall it is quite strong removal, with the only small drawback being sorcery speed.
+Comment: The first mode deals damage to a target creature based on your land count, so its damage grows as the game goes on; the second mode can directly destroy a target land creature, or blow up a nonbasic land to wreck your opponent's mana base. Overall it is quite strong removal, with the only small drawback being sorcery speed.
 
 
 <!---126--->
 {% mtgpick "tla" 126 %}
 Score: 2.5
-Comment: Chapter I makes two 1/1 Allies; chapter II searches for a Mountain or Cave to put into your hand; chapter III is earthbending 3. In total it can produce a board of 1/1, 1/1, and 3/3, a usable filler. Searching for a Cave with chapter II pairs with the only {% mtglink "Secret Tunnel" %} in this set: fetch it to hand and play it, and chapter III's earthbending 3 turns it into an unblockable 3/3 land creature.
+Comment: Chapter I makes two 1/1 Allies; chapter II searches for a Mountain or Cave to put into your hand; chapter III is earthbend 3. In total it can produce a board of 1/1, 1/1, and 3/3, a usable filler. Searching for a Cave with chapter II pairs with the only {% mtglink "Secret Tunnel" %} in this set: fetch it to hand and play it, and chapter III's earthbend 3 turns it into an unblockable 3/3 land creature.
 
 
 <!---127--->

@@ -3,7 +3,7 @@ title: "Outlaws of Thunder Junction (OTJ) Limited Primer — Red"
 date: "2024-04-09 00:09:34"
 cover: "https://images.guildmagesforum.tw/posts/OTJ-Red/a12e9c02fdc8-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Red/a12e9c02fdc8-cover.jpg"
-excerpt: "A two-mana 4-power wasn't enough, so how about a two-mana 5-power? Sheoldred, the Apocalypse says: not yet."
+excerpt: "Two mana for 4 damage isn't enough, so how about two mana for 5? Sheoldred, the Apocalypse says: hold on a moment."
 categories:
   - "Limited"
   - "OTJ"
@@ -39,7 +39,7 @@ Fits the red-blue second-spell theme and you can meet the condition through plot
 
 **T1BloodMoon:** 4.5
 
-Comes in swinging and makes a 2/2 body. The crew cost isn't high either. Once it lands, it puts enormous pressure on your opponent.
+It can attack the turn it enters and bring a second attacker along, and the saddle cost isn't high either. Once it lands, it puts enormous pressure on your opponent.
 
 ![117](https://cards.scryfall.io/large/front/3/a/3a2fd0c4-509e-49c2-ad57-f772efcbc207.jpg?1712094975)
 
@@ -51,7 +51,7 @@ This set has a huge number of creatures with toughness 2 or less (66 of them), a
 
 **T1BloodMoon:** 3.0
 
-A two-drop haste creature of good quality. Mid to late game it can come down off a 2-for-1 and attack with haste right away, giving your opponent unexpected damage pressure.
+A two-drop haste creature of good quality. Mid to late game it can bring another creature along: it enters and both attack with haste right away, giving your opponent unexpected damage pressure.
 
 ![119](https://cards.scryfall.io/large/front/e/9/e9a50b7a-8741-4520-8d45-8e6b128c2628.jpg?1712004799)
 
@@ -63,7 +63,7 @@ This set has quite a few 1-2 power flyers early on, and this blocks them very ef
 
 **T1BloodMoon:** 3.0
 
-An aura-style skin that grows the creature and gives trample, doesn't lose you a card when it goes to the graveyard, and has no drawbacks (such as being unable to block). A great skin.
+An Aura that pumps and grants trample, doesn't cost you a card when it goes to the graveyard, and has no drawbacks (such as being unable to block). A great Aura.
 
 ![121](https://cards.scryfall.io/large/front/7/3/73b359bf-afd8-439d-a4d2-985db1ad368c.jpg?1711664708)
 
@@ -75,7 +75,7 @@ Usually used to fill out a basic two-drop curve.
 
 **T1BloodMoon:** 3.0
 
-Flexible removal. Only about 20 creatures, roughly 1 in 8, have toughness above 4 and survive it. Being instant speed gives great timing, and considering how many powerful artifacts this set has, its value goes up even further.
+Flexible removal. Only about 20 creatures, roughly 1 in 8, have toughness above 4 and survive it. Being instant speed gives great timing, and considering the Big Score (BIG) bonus sheet has many powerful artifacts, its value goes up even further.
 
 ![123](https://cards.scryfall.io/large/front/7/8/78db4260-6fc8-4500-afd7-2c845ac0d53b.jpg?1711812402)
 
@@ -87,7 +87,7 @@ An extremely strong enchantment for aggressive creature decks. It applies damage
 
 **T1BloodMoon:** 1.5
 
-Having crew filter a card is a nice ability, but the body can't come out ahead in trades. You'll probably often be unable to attack with it, or it'll die after filtering only one card, so I rate it low.
+Being able to filter a card as a Mount is a nice ability, but the body can't come out ahead in trades. You'll probably often be unable to attack with it, or it'll die after filtering only one card, so I rate it low.
 
 ![125](https://cards.scryfall.io/large/front/3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1711496383)
 
@@ -117,7 +117,7 @@ It has go-wide, outlaw synergy and haste all in one: creatures that enter can im
 
 **T1BloodMoon:** 2.0
 
-Early on it's a loot-two-for-one discard, and late game it can be a land dump for two cards. The plot ability fits better with the red-blue second-spell theme.
+Early on it's discard one, draw two, and late game when you're flooded it turns one land into two cards. The plot ability fits better with the red-blue second-spell theme.
 
 ![130](https://cards.scryfall.io/large/front/3/2/324c0af5-7cdf-4c71-84cc-6349f10e0d66.jpg?1711668209)
 
@@ -141,13 +141,13 @@ Plot is expensive here. Skipping a turn on 4 mana to deal only 2 isn't strong en
 
 **T1BloodMoon:** 3.0
 
-A standard two-mana 2/2 that makes a Treasure when you commit a crime. If you don't use it, you can use it to call down a flying haste Dragon. A staple card in crime decks.
+A standard two-mana 2/2 that makes a Treasure when you commit a crime. If you don't spend the Treasures, you can use them to call down a flying haste Dragon. A staple card in crime decks.
 
 ![134](https://cards.scryfall.io/large/front/6/2/62e12566-375f-4f31-aa91-1b13a96d9ece.jpg?1711671368)
 
 **T1BloodMoon:** 1.0
 
-Even when you make it yourself it gets hit. Ouch.
+It hits you too when you do it yourself. Ouch.
 
 ![135](https://cards.scryfall.io/large/front/1/9/19cfacff-e884-4954-aa6b-ed56ca942bf2.jpg?1711664806)
 
@@ -165,7 +165,7 @@ A quality way to grow a creature, and if you're playing an outlaw deck you can g
 
 **T1BloodMoon:** 2.5
 
-One-for-one on entering, with two outlaws total. Plainly, simply strong.
+Brings a buddy when it enters, for two outlaws total. Plainly, simply strong.
 
 ![138](https://cards.scryfall.io/large/front/5/6/56399cd0-1214-42b6-be38-f2cbd770915f.jpg?1712004945)
 
@@ -255,11 +255,11 @@ A basic two-mana 2-power. It's an instant, but raising the damage on your oppone
 
 Six damage for five mana, and the two points can only hit tokens. Not good enough.
 
-> I think a two-mana 5-power was just too outrageous
+> I think two mana for 5 damage was just too outrageous
 
 ## Conclusion
 
-Red looks like a ghost again. Is this going to be another set where it gets run over, leaving us scratching our heads? orz
+Why does red look so absurdly strong again? Is this going to be another set where it gets knocked sideways? orz
 
 > There are 37 red cards in total this time
 >

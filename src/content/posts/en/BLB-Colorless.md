@@ -90,7 +90,7 @@ Comments:
 
 - [Lilypad Village](https://scryfall.com/card/blb/255/lilypad-village): Surveil 2 a few more times helps consistency quite a bit.
 - [Lupinflower Village](https://scryfall.com/card/blb/256/lupinflower-village): Once you are no longer short on lands in the mid to late game, you can sacrifice it to convert it into extra resources.
-- [Mudflat Village](https://scryfall.com/card/blb/257/mudflat-village): Similar to the white Village above, but without the flicker problem. If your bomb happens to be the matching creature type, it can even turn into a bomb-recursion machine.
+- [Mudflat Village](https://scryfall.com/card/blb/257/mudflat-village): Similar to the white Village above, but without the risk of whiffing. If your bomb happens to be the matching creature type, it can even turn into a bomb-recursion machine.
 
 |                                                  258                                                  |                                                  259                                                  |                                                  260                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |

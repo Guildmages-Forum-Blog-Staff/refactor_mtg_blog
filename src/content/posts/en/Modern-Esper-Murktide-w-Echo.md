@@ -19,7 +19,7 @@ excerpt: "Without Abhorrent Oculus or Ketramose, can Murktide and Echo of Eons s
 
 > Previously: [A New Trick for Dimir Murktide: Echo of Eons](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/)
 
-After qualifying for Standard MIT#9 at the end of last year, I started preparing for the Modern MIT#8 a month before the event. Special thanks to [Jeff Chen](/en/authors/jeffchen/), [faintmama](/en/authors/faintmama/), and [MiohitoKiri5474](/en/authors/MiohitoKiri5474/); to the No Miss Trigger team put together by [荒野騎士](/en/authors/ClarkShih/); to everyone who practiced for the big event with me at [Game Square](https://www.facebook.com/GameSquareTCG); and to the friends who lent me cards. Every discussion and exchange with you was an important driving force behind improving my deck. This article is dedicated to all of you.
+After qualifying for Standard MIT#9 at the end of last year, I started preparing for the Modern MIT#8 a month before the event. Special thanks to [Jeff Chen](/en/authors/jeffchen/), [faintmama](/en/authors/faintmama/), and [MiohitoKiri5474](/en/authors/MiohitoKiri5474/); to the No Miss Trigger team put together by [ClarkShih](/en/authors/ClarkShih/); to everyone who practiced for the big event with me at [Game Square](https://www.facebook.com/GameSquareTCG); and to the friends who lent me cards. Every discussion and exchange with you was an important driving force behind improving my deck. This article is dedicated to all of you.
 
 > Note: If you are only interested in the deck construction, feel free to jump straight to [Deck Construction Breakdown](#deck-construction-breakdown). That said, the next section, [The Road to Preparation](#the-road-to-preparation), should also offer some useful advice and methodology for anyone who wants to know how to prepare for a big tournament and what challenges you may run into along the way.
 
@@ -76,7 +76,7 @@ Then, on the day before New Year's Eve, I saw [ALG](https://www.facebook.com/ALG
 
 After discussing with Jeff, the conclusion was roughly this:
 1. The Oculus's unfair plan is no longer good enough in the current meta, and in most matchups it does not win fast enough. Rather than being locked into at least 10 cards in the main deck, and given its relative weakness to graveyard hate, giving up the Oculus to open up more possibilities for the Dimir shell is necessary.
-2. We agree that 4 {% mtglink "Unearth" %} in the Oculus shell, together with the Frog and the other three-mana-or-less creatures with menace, is a very powerful line. But as in point 1, it is not worth making the main deck rigid for it.
+2. We agree that 4 {% mtglink "Unearth" %} in the Oculus shell, together with the Frog and the other three-mana threats, is a very powerful line. But as in point 1, it is not worth making the main deck rigid for it.
 3. Fixing the old filtering problem: {% mtglink "Thought Scour" %} can mill away important lands and get you stuck, and {% mtglink "Consider" %} does not filter well, so switching back to 4 {% mtglink "Preordain" %} to strengthen the deck is a reasonable choice.
 4. Using other unfair plans to counter the various unfair plans in the field is the focus to explore next. The known [Echo of Eons Combo](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/#combo-explanation) is one of them, and we need more similar pairings to reach that goal.
 
@@ -141,7 +141,7 @@ First, the conclusion I had in mind while writing this summary: **I think the Es
 Since I am the main author of this article, the following content will mainly explain [my list](https://melee.gg/Decklist/View/474954). Here are the main differences between my version and Jeff's:
 - In the main deck I chose 3 {% mtglink "Force of Negation" %} and he did not play it; Jeff instead played 2 {% mtglink "Consider" %} and one {% mtglink "Drown in the Loch" %}, and the choice of the third graveyard hate card also differs slightly.
 - For creatures, Jeff focused on value and on matchups won by an unfair {% mtglink "Harbinger of the Seas" %} plan, with a full 2 each of {% mtglink "Tamiyo, Inquisitive Student//Tamiyo, Seasoned Scholar" %} and Harbinger; I focused more on answering the opponent's cards, running only 1 of each of those two creatures, and added more {% mtglink "Prismatic Ending" %} and {% mtglink "Sink into Stupor//Soporific Springs" %}.
-- On fetchlands, Jeff spread his choices out more, which reduces the impact of {% mtglink "Surgical Extraction" %}. He also played a third {% mtglink "Watery Grave" %} to lessen the problem of getting stuck from a fastland when you fetch or cycle Island-cyclers and Echo of Eons in the mid to late game.
+- On fetchlands, Jeff spread his choices out more, which reduces the impact of {% mtglink "Surgical Extraction" %}. He also played a third {% mtglink "Watery Grave" %} to lessen the problem of a fastland entering tapped and getting in the way of hard-casting Island-cyclers and Echo of Eons in the mid to late game.
 - The sideboards are basically 12 of the same cards, but I valued graveyard hate and the midrange games after sideboarding more, while Jeff valued sweepers and the Eldrazi Ramp matchup more.
 - In his post-tournament review, Jeff said the main deck should drop {% mtglink "Consider" %} for {% mtglink "Force of Negation" %}: with two Tamiyo already, the cost of FoN is entirely acceptable. He also said the sideboard {% mtglink "Shatter Assumptions" %} was not a good choice and he would lean toward a fourth {% mtglink "Consign to Memory" %}.
 
@@ -167,7 +167,7 @@ That is a brief account of the Frog's strength. Now for the hidden advantages of
 
 I have heard quite a few people say that after {% mtglink "The One Ring" %} was banned, there is no need to play draw-hate like Bowmasters, but we don't think so.
 
-When I played the Oculus builds, I often faced games on the play where I had to hold up a counter and could not cast the Frog on time, and I badly wanted the deck to have a powerful flash creature to fill the tempo gap when both players pass. Bowmasters fits that need perfectly! Besides that, it also dominates against the mainstream Boros Energy, and even against Eldrazi Ramp, killing the opponent's lone 0/1 Eldrazi Spawn in time is sometimes very valuable. Beyond pairing with Echo of Eons (when both players draw seven, you can hit any target for 7 and Amass Orcs 7), there are various other wonderful uses, which I leave for readers to discover.
+When I played the Oculus builds, I often faced games on the play where I had to hold up a counter and could not cast the Frog on time, and I badly wanted the deck to have a powerful flash creature to fill the tempo gap when both players pass. Bowmasters fits that need perfectly! Besides that, it also dominates against the mainstream Boros Energy, and even against Eldrazi Ramp, killing the opponent's 0/1 Eldrazi Spawn in time is sometimes very valuable. Beyond pairing with Echo of Eons (when both players draw seven, you can hit any target for 7 and Amass Orcs 7), there are various other wonderful uses, which I leave for readers to discover.
 
 Bowmasters is the kind of card that feels like a given when you have it, but you really miss it when you don't. A card like that is naturally an essential core of the deck.
 
@@ -278,11 +278,11 @@ This slot was originally {% mtglink "Dreams of Steel and Oil" %}, which was abou
 
 Take Orzhov Blink as an example: Dreams of Steel and Oil needs us to be on the play to have a chance to discard the opponent's Vial, while Prismatic Ending lets us remove the Vial directly even on the draw. And in the mid to late game, converge can remove a three-mana threat like Ketramose, which is another reason it appealed to me for the main deck. In short, it gives the deck more time to adapt, and that is why I chose this card.
 
-By the way, during preparation I saw some Dimir decks playing {% mtglink "Bloodchief's Thirst" %} to fill a one-mana removal slot. But considering the flexibility of removing a three-mana menace creature, Prismatic Ending is an upgrade on the same concept.
+By the way, during preparation I saw some Dimir decks playing {% mtglink "Bloodchief's Thirst" %} to fill a one-mana removal slot. But considering the flexibility of removing three-mana threats, Prismatic Ending is an upgrade on the same concept.
 
 {% mtgcard "Go for the Throat" %}
 
-Finally, a single main-deck kill spell that costs two was something Jeff and I decided was a must, and it needed to satisfy at least one of the following conditions:
+Finally, a single main-deck hard removal spell was something Jeff and I decided was a must, and it needed to satisfy at least one of the following conditions:
 
 1. Can remove Murktide and other high-cost creatures outside Push's range
 2. Can remove Ketramose and other creatures that need exile to deal with
@@ -346,7 +346,7 @@ Although the white splash is quite worthwhile against the current meta, the cost
 
 In my version I played 2 {% mtglink "Darkslick Shores" %}. The reasons for choosing fastlands were mainly:
 - A dual land that doesn't cost life in the first three turns
-- Until its condition is turned off, it won't get my turn-one blue/black spell stuck
+- Early on, before it starts entering tapped, it won't get my turn-one blue/black spell stuck
 
 Of course, in the mid to late game, the fastland's need to enter tapped may slightly get in the way of our Murktide plus Counterspell protection, a five-mana hard-cast {% mtglink "Lorien Revealed" %}, or a six-mana Echo of Eons. But considering that the key of our deck is interaction in the first three turns, I still ended up choosing two Dimir fastlands. In an open-list event, playing a Dimir fastland on turn one also adds variables for the opponent to consider: every blue/black spell they can cast for one mana or less must be factored in. Dimir shocklands can certainly do that too, but the 2-life cost needs extra consideration.
 
@@ -415,12 +415,12 @@ Design for Win, which is exactly the core of the sideboard! So correctly predict
 {% mtgcard "Torpor Orb" %}
 
 - **Specifically aimed at Orzhov Blink**: one card locks up the core of its engine. But note that resolving the Orb doesn't mean you win; the opponent also has counters such as {% mtglink "March of Otherworldly Light" %} in the sideboard.
-- **Don't bring it in against Boros Energy!** I've heard many arguments for and against; here's an example of why I'm against it: one day in a store event I played against Boros Energy and brought in the Orb, and the opponent's turn-three Phlage Titan just stayed on the battlefield as a 6/6 without needing to sacrifice, which is like giving the opponent a {% mtglink "Dress Down" %}.
+- **Don't bring it in against Boros Energy!** I've heard many arguments for and against; here's an example of why I'm against it: one day in a store event I played against Boros Energy and brought in the Orb, and the opponent's turn-three Phlage just stayed on the battlefield as a 6/6 without needing to sacrifice, which is like giving the opponent a {% mtglink "Dress Down" %}.
 
 {% mtgcard "Harbinger of the Seas" %}
 
 - Even more aimed at Eldrazi Ramp, but as I mentioned above with FoN, Harbinger alone is still too slow; you need to be more aggressive in stopping the opponent's turn-one and turn-two acceleration so that Harbinger can fully shine.
-- Against Temur Breach, although the opponent can still fail to find Mox Opal, you should still bring it in to blow up their {% mtglink "Urza's Saga" %}, and to make {% mtglink "Shifting Woodland" %} just a well-behaved Island.
+- Against Temur Breach, although the opponent's Mox Opal means it won't lock them down much, you should still bring it in to blow up their {% mtglink "Urza's Saga" %}, and to make {% mtglink "Shifting Woodland" %} just a well-behaved Island.
 - You can also bring it in against others such as Affinity, or three-plus-color decks like Domain Zoo.
 
 {% mtgcard "Shatter Assumptions" %}

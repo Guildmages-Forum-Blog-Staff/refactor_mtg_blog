@@ -81,6 +81,7 @@ Look at six and take one is very deep, and it is not limited to Cases, since any
 **Jru:** 3.5
 
 The enters ability is removal with a range limit, but in Limited that is mostly good enough. Also note the wording: "each creature you control deals 1 damage to it", so if any of your creatures have effects tied to dealing damage, such as deathtouch or lifelink, they all apply.
+
 The solve condition is not hard to meet in Limited, especially since this set also has suspect, which raises your creatures' survival rate after attacking, and the ability after solving is plain and simply useful.
 
 ![009](https://cards.scryfall.io/large/front/3/2/32927bf2-63c1-4402-99dc-3a0f2f8e0f9c.jpg?1705431642)
@@ -88,6 +89,7 @@ The solve condition is not hard to meet in Limited, especially since this set al
 **Jru:** 2.5
 
 Of the 139 creature cards in this set, 46 are Detectives, almost exactly a third, a number even higher than most tribal environments, so tribal-payoff cards for Detectives in this set tend to get bigger score boosts than in a normal environment.
+
 Putting +1/+1 counters and making Clues are both intuitively beneficial, and in a Detective environment you can look forward to the ceiling. Of course this card's performance is somewhat unstable, with issues of sequencing and the number of Detectives. In a sealed pool, if you want to use this card, remember to check the number of Detective cards and token-making abilities in your pool. In a draft it can be a key card for a Detective plan.
 
 ![010](https://cards.scryfall.io/large/front/a/c/ac63941b-3f78-4bd3-8b05-ca12aaaa006c.jpg?1706050757)
@@ -155,6 +157,7 @@ A 1/1 plus a 2/2 for three mana is passable overall. It is one of the tribal-pay
 **Jru:** 3.0
 
 On its own the body is a bit meager, but once the attack condition is met it is a one-turn anthem, and this burst fits very well with aggro's need for finishing damage. Also, this set has quite a few low-cost fliers, so early attackers have a higher chance of surviving.
+
 There is also an added value against Disguise and cloak: if the opponent uses many face-down cards, it can work wonders.
 
 ![021](https://cards.scryfall.io/large/front/f/6/f663cd86-39e6-467b-85b7-dd27536251a6.jpg?1705688225)
@@ -210,6 +213,7 @@ The two-mana defensive removal has evolved again. Although it can only be used o
 **Jru:** 3.5
 
 Correct type, useful ability, and plenty of this set's themed buffs apply to it. Although it is a one-drop creature, the value it gets rivals many two-drops.
+
 By the way, thankfully this guy is not a Soldier like [Thraben Inspector](https://scryfall.com/card/cmm/66/thraben-inspector). I really don't want to see an extra one-drop on the curve when I face Soldiers in Standard.
 
 ![030](https://cards.scryfall.io/large/front/4/8/48b92629-4196-4943-91fd-8c8d5f3fcaef.jpg?1706119422)
@@ -253,6 +257,7 @@ The card itself is a quality two-mana 3/2, and you don't have to obsess over Dis
 **Jru:** 4.0
 
 By the standard of a three-mana creature, a 2/4 flying vigilance is already a god of war combining offense and defense, and this combination of body and abilities alone gives it a good base score.
+
 If your deck's curve is low and you can proactively play out your hand first, you have a decent chance of earning a Clue or two. Since the card itself is good enough in combat, earning just one more Clue makes it more than worth it.
 
 ![037](https://cards.scryfall.io/large/front/c/3/c36cc39b-8f3b-4297-b118-86fa624308b4.jpg?1706124921)

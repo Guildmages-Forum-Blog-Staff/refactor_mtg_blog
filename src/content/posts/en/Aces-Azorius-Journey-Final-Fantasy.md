@@ -23,7 +23,7 @@ Hi everyone, I'm 啓恩 aka [Ace](https://www.facebook.com/profile.php?id=615782
 *[Azorius Control](https://www.mtggoldfish.com/deck/visual/7198414)*
 ![](https://images.guildmagesforum.tw/posts/Aces-Azorius-Journey-Final-Fantasy/9284925fd8d2.webp)
 
-As an Azorius player, after playing 7 rounds of Omniscience at MIT#9 and pulling off the combo fewer than 5 times, I had no idea what deck to play. Then I saw [台灣黑熊](https://www.facebook.com/profile.php?id=100092580668030) pilot UW Control into the top 8 with a perfect record, and I went back to study Standard UW Control builds. Many of the concepts I also learned from the [article](https://guildmagesforum.tw/en/First-MIT-UW-Control/) on the Guildmages' Forum. Choosing UW Control is mostly a personal obsession: I want to pick the deck I like at a big event and challenge the mainstream (~~even if I fall over on Day 1, I can still go to the Pioneer Challenge and play [Teferi, Hero of Dominaria](https://scryfall.com/card/dom/207/teferi-hero-of-dominaria)~~). So you'll see many pre-sideboard builds aimed at the pre-ban environment. Here is a brief share of my understanding of some single-card choices.
+As an Azorius player, after playing 7 rounds of Omniscience at MIT#9 and pulling off the combo fewer than 5 times, I had no idea what deck to play. Then I saw [Chiyou](https://www.facebook.com/profile.php?id=100092580668030) pilot UW Control into the top 8 with a perfect record, and I went back to study Standard UW Control builds. Many of the concepts I also learned from the [article](https://guildmagesforum.tw/en/First-MIT-UW-Control/) on the Guildmages' Forum. Choosing UW Control is mostly a personal obsession: I want to pick the deck I like at a big event and challenge the mainstream (~~even if I fall over on Day 1, I can still go to the Pioneer Challenge and play [Teferi, Hero of Dominaria](https://scryfall.com/card/dom/207/teferi-hero-of-dominaria)~~). So you'll see many pre-sideboard builds aimed at the pre-ban environment. Here is a brief share of my understanding of some single-card choices.
 
 
 ## Main Deck Configuration
@@ -45,7 +45,7 @@ Although a five-mana sweeper was somewhat slow in that environment, it reliably 
 
 {% mtgcard "Ultima" "fin" %}
 
-The rest of the spot removal and win conditions are much the same as 台灣黑熊's understanding, so please see [his article](https://guildmagesforum.tw/en/First-MIT-UW-Control/).
+The rest of the spot removal and win conditions are much the same as Chiyou's understanding, so please see [his article](https://guildmagesforum.tw/en/First-MIT-UW-Control/).
 
 ### Lands
 
@@ -65,15 +65,15 @@ I'll also mention an interaction I found when playing the UW mirror: in main pha
 
 ## Sideboard Configuration
 
-- 1 [Authority of the Consuls](https://scryfall.com/card/fdn/137/authority-of-the-consuls) - A tool against aggro, wonderful together with Spilt Up.
+- 1 [Authority of the Consuls](https://scryfall.com/card/fdn/137/authority-of-the-consuls) - A tool against aggro, wonderful together with Split Up.
 - 1 [Split Up](https://scryfall.com/card/dsk/32/split-up) - Unlike Lockdown, besides aggro it is also a sweeper that can put up a fight against black midrange matchups.
 - 1 [The Filigree Sylex](https://scryfall.com/card/one/227/the-filigree-sylex) - Handles tokens effectively against Izzet prowess, and in red aggro matchups it can come in to replace High Noon, giving us more diverse ways to deal with the board.
-- 1 [Voice of Victory](https://scryfall.com/card/tdm/33/voice-of-victory) - Inspired by [Clark Shih](/en/authors/ClarkShih/), it was originally sitting in my Omniscience sideboard. But combined with High Noon, we can cast two spells while the opponent can only cast one, effectively limiting Omniscience's actions while also putting pressure on the board; against the disadvantaged Dimir midrange matchup it more effectively disrupts tempo, and the post-ban environment further confirmed this guess.
+- 1 [Voice of Victory](https://scryfall.com/card/tdm/33/voice-of-victory) - Inspired by [Clark Shih](/en/authors/ClarkShih/), it was originally sitting in my Omniscience sideboard. But combined with High Noon, we can cast two spells while the opponent can only cast one, effectively limiting Omniscience's actions while also putting pressure on the board; against Dimir midrange, an unfavorable matchup, it more effectively disrupts tempo, and the post-ban environment further confirmed this guess.
 - 1 [Rest in Peace](https://scryfall.com/card/big/4/rest-in-peace) - Because Abhorrent Oculus decks have become rarer, I only kept 1 slot for ongoing graveyard hate. I originally ran [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum), but in a Challenge I played against a Japanese opponent on Izzet Vivi Cauldron, and when we practiced and chatted after the match, I found that RIP wiping the whole graveyard is harder for Cauldron to handle.
 - 2 [Kutzil's Flanker](https://scryfall.com/card/lci/20/kutzils-flanker) - The creature can't be hit by Spell Pierce, flash makes it more flexible, and the choose-one toolbox lets you pick life gain, scry, or graveyard hate as the situation calls for, and when needed it can jump out as a big kitty after a sweep in the mirror. With all these advantages and no pressing need for ongoing graveyard hate in this environment, I chose to use it against graveyard-based decks.
 - 2 [Negate](https://scryfall.com/card/fdn/710/negate) - A simple, brute-force noncreature counterspell.
 - 2 [Jace, the Perfected Mind](https://scryfall.com/card/one/57/jace-the-perfected-mind) - A strong finisher for long games; all in against Omniscience, four-color Zur, and the mirror.
-- 2 [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) - A good helper against [Stormchasers' Talent](https://scryfall.com/card/blb/75/stormchasers-talent), Cutter, [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares), and [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron). In the post-ban environment I even want to go 2 main and 2 sideboard (a counterspell that can't be Spell Pierced is a good counterspell).
+- 2 [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) - A good helper against [Stormchaser's Talent](https://scryfall.com/card/blb/75/stormchasers-talent), Cutter, [Kaito, Bane of Nightmares](https://scryfall.com/card/dsk/220/kaito-bane-of-nightmares), and [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron). In the post-ban environment I even want to go 2 main and 2 sideboard (a counterspell that can't be Spell Pierced is a good counterspell).
 - 2 [Overlord of the Mistmoors](https://scryfall.com/card/dsk/23/overlord-of-the-mistmoors) - In long games or matchups with many fliers, Overlord of the Mistmoors applies pressure and blocks, and its synergy with [Elspeth](https://scryfall.com/card/tdm/11/elspeth-storm-slayer) is also a headache for opponents.
 
 ## Classic Match Review
@@ -98,7 +98,7 @@ Use High Noon to shut down the opponent's burst potential, use your life total a
 According to the game plan, against prowess we are the ones applying proactive pressure, so we take out what the opponent's [Spell Pierce](https://scryfall.com/card/dft/64/spell-pierce) and [Negate](https://scryfall.com/card/fdn/710/negate) can handle and bring in creature threats to provide board presence. At the same time I think just the 2 main deck copies of [Authority](https://scryfall.com/card/fdn/137/authority-of-the-consuls) are right here: I want a little life gain but don't need to draw too many late that do nothing for the board. Authority on the battlefield also helps clear the way, letting a row of tokens lie there and watch [Beza](https://scryfall.com/card/blb/2/beza-the-bounding-spring) stroll over and beat them up.
     
 #### Case study 1:
-I was quite satisfied with my Day 1 Round 2 match in the main event. Both sides were patient and careful: after I resolved the first High Noon, the opponent steadily drew cards looking for a bounce spell, and when I saw the opponent slam a Cutter on their own turn while holding mana, I played the second High Noon and we exchanged a smile. He then switched to filtering patiently to keep building resources, and finally, when I resolved [Marang River Regent](https://scryfall.com/card/tdm/51/marang-river-regent-coil-and-catch) and was ready to finish next turn, he bounced three permanents at once. Luckily he had no pump spell in hand, and I locked him at 3 life and won!
+I was quite satisfied with my Day 1 Round 2 match in the main event. Both sides were patient and careful: after I resolved the first High Noon, the opponent steadily drew cards looking for a bounce spell, and when I saw the opponent slam a Cutter on their own turn while holding mana, I played the second High Noon and we exchanged a smile. He then switched to filtering patiently to keep building resources, and finally, when I resolved [Marang River Regent](https://scryfall.com/card/tdm/51/marang-river-regent-coil-and-catch) and was ready to finish next turn, he hit me with three bounce spells at once. Luckily he had no pump spell in hand, and I held on at 3 life and won!
     
 #### Case study 2:
 Most matches against Izzet were narrow wins with my life total in single digits. But... in my Day 1 Round 9 match, because of back-to-back High Noons, the opponent's face got worse and worse, and in the end I won both games at a full 20 life... I never imagined I could shut out Izzet Prowess.
@@ -106,7 +106,7 @@ Most matches against Izzet were narrow wins with my life total in single digits.
 ### Mono-red Aggro
 
 #### Game plan:
-You can see from the build that we take Mono-red very seriously (and the build is really aimed at it): four legendary creatures, Beza plus two Authority of the Consuls, can gain a lot of life and keep our life total above the safe line. When the game goes to the mid-to-late stage, that is the moment we take over.
+You can see from the build that we take Mono-red very seriously (and the build is really aimed at it): four copies of the legendary creature Beza plus two Authority of the Consuls can gain a lot of life and keep our life total above the safe line. When the game goes to the mid-to-late stage, that is the moment we take over.
 
 #### Sideboard plan:
 - In:
@@ -120,7 +120,7 @@ You can see from the build that we take Mono-red very seriously (and the build i
 Red aggro doesn't rely on chaining spells. It can steadily whittle down our life total one spell per turn, so High Noon isn't a great single card here. So I swapped them all for small sweepers and one more Authority to get through the early game safely.
     
 #### Case study:
-Across the four Chiba Challenges plus the main event, I faced 10 red-based aggro matches in total (8 mono-red, 1 red-black Throw, 1 red-white), and lost only two, and I won a game in both of those. That proves this build is quite favored against red aggro. (In the Throw match I really did run into a situation where, on the draw, the opponent played one tapped land and died 🤡)
+Across the four Chiba Challenges plus the main event, I faced 10 red-based aggro matches in total (8 mono-red, 1 red-black Throw, 1 red-white), and lost only two, and I won a game in both of those. That proves this build is quite favored against red aggro. (In the Throw match I really did run into a situation where I was on the draw, played one tapped land, and was dead 🤡)
 
 ### Azorius Omniscience 
 
@@ -150,7 +150,7 @@ The Omniscience sideboard plan turns into a creature strategy: rather than relyi
 For the other tournament details, feel free to savor them at [艾斯的棋牌雜談](https://www.facebook.com/profile.php?id=61578212540588). (?)
 
 ## Tournament Notes
-This build was actually the result of discussing with friends at the MTG Test House arranged by [cephille](/en/authors/cephille/) the day before submitting the decklist. Special thanks to [cephille](/en/authors/cephille/), [Clark Shih](/en/authors/ClarkShih/), and Weihow for sorting out my thoughts with me and trading different perspectives; thanks to [台灣黑熊](/en/authors/Chiyou/) for sharing his various build experiments and experience on MO in the group chat. The moment each slot was settled felt like puzzle pieces being filled in one by one; the shape of the matchups gradually became clear, the mist of the future gently cleared, and I quietly waited, carrying the will of Azorius, to set right a sea of crimson in the tournament hall.
+This build was actually the result of discussing with friends at the MTG Test House arranged by [cephille](/en/authors/cephille/) the day before submitting the decklist. Special thanks to [cephille](/en/authors/cephille/), [Clark Shih](/en/authors/ClarkShih/), and Weihow for sorting out my thoughts with me and trading different perspectives; thanks to [Chiyou](/en/authors/Chiyou/) for sharing his various build experiments and experience on MO in the group chat. The moment each slot was settled felt like puzzle pieces being filled in one by one; the shape of the matchups gradually became clear, the mist of the future gently cleared, and I quietly waited, carrying the will of Azorius, to set right a sea of crimson in the tournament hall.
 
 The day before the main event, [Chennel](/en/authors/Chennel/), [sertyple](/en/authors/sertyple/), and I decided to go to the venue first to play a Challenge and get used to the big-event atmosphere and our brand-new decks (we all made choices completely different from MIT#9). Walking into a large tournament venue for the first time, the wide view, the endless rows of seats, the blooming variety of merchandise, the strange and wonderful booths... it shook this country bumpkin: how wonderful that Magic got me into a place like this.
 

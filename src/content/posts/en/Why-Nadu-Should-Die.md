@@ -78,9 +78,9 @@ Even though the deck has now been specialized into a build that rarely fails to 
 
 So the first idea we establish here: **Nadu Combo is a very time-consuming combo deck**.
 
-### Since It's a Gauntlet (Shuko), Surely Banning It Would Block a Blade for Nadu
+### Since It's a Gauntlet (Shuko), Surely It Can Take the Hit for Nadu?
 
-Hey, it might really not help. It's true that banning {% mtgcard "Shuko" tooltip=true %} would lower the deck's power, but the deck has another targeting source that can be activated for zero mana: {% mtgcard "Outrider en-Kor" tooltip=true %}.
+Hey, it might really not be able to. It's true that banning {% mtgcard "Shuko" tooltip=true %} would lower the deck's power, but the deck has another targeting source that can be activated for zero mana: {% mtgcard "Outrider en-Kor" tooltip=true %}.
 
 And in the early MH3 environment, there was already a build that didn't need {% mtgcard "Shuko" tooltip=true %}:
 

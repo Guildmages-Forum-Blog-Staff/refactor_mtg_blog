@@ -1,10 +1,10 @@
 ---
 
-title: "Worlds Player Interview: MIT Round 8 Champion 林仕峰"
+title: "Worlds Player Interview: MIT Season 8 Champion 林仕峰"
 date: "2025-12-01 15:47:55"
 cover: "https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/349becffd2d4-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/349becffd2d4-cover.jpg"
-excerpt: "The MIT Round 8 championship was a special event: both finalists hail from southern Taiwan. After the heated battle there was a winner and a loser, but the classic match has become a record that will never be erased."
+excerpt: "The MIT Season 8 championship was a special event: both finalists hail from southern Taiwan. After the heated battle there was a winner and a loser, but the classic match has become a record that will never be erased."
 authors:
   - "faintmama"
 categories:
@@ -18,9 +18,9 @@ categories:
 
 Since most Guildmages' Forum members are from northern Taiwan, we rarely get the chance to talk with the strong players in the south. Before this, the author actually had a special experience: after the finals of one MIT championship, I rode the elevator out with 仕峰 without either of us recognizing the other. At the time I got the impression that 仕峰 was a shy, very polite player, and after this interview I felt even more of his pure passion for Magic, and took the opportunity to hear stories of his past battles in various countries.
 
-The MIT Round 8 championship was a special and meaningful event, because both finalists are from southern Taiwan, and they are friends who regularly talk shop and practice together. After the heated battle there was a winner and a loser, but the classic match has become a record that will never be erased. Now let's look back on it together!
+The MIT Season 8 championship was a special and meaningful event, because both finalists are from southern Taiwan, and they are friends who regularly talk shop and practice together. After the heated battle there was a winner and a loser, but the classic match has become a record that will never be erased. Now let's look back on it together!
 
-#### Q1: First, congratulations to 仕峰 on making it to Worlds! Let's go back to the scene of the MIT Round 8 championship. How did you feel being in the final showdown?
+#### Q1: First, congratulations to 仕峰 on making it to Worlds! Let's go back to the scene of the MIT Season 8 championship. How did you feel being in the final showdown?
 
 A: By the top four I had already secured a spot at the Pro Tour, so I didn't have many stray thoughts. I was mostly thinking about the upcoming finals, and it just so happened that my finals opponent was [其寬](https://www.facebook.com/profile.php?id=100083345574225), a good friend I have known for many years in Tainan.
 
@@ -34,7 +34,7 @@ In game one I was on the play and kept a fairly fast hand, wanting to hurry up a
 
 A: It was Modern, and the deck I played was Boros Energy.
 
-The main reason I chose this deck is that I also played it in the MITQs. Although there was a ban between the qualifiers and the main event, which made it somewhat of a different deck, in the end I still chose Boros Energy, which I was more familiar with, and I was lucky enough to win the MIT Round 8 championship.
+The main reason I chose this deck is that I also played it in the MITQs. Although there was a ban between the qualifiers and the main event, which made it somewhat of a different deck, in the end I still chose Boros Energy, which I was more familiar with, and I was lucky enough to win the MIT Season 8 championship.
 
 ![](https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/349becffd2d4.webp)
 > A photo of 仕峰 looking dashing with the MIT championship trophy. Before [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler) burst onto the scene, Boros Energy had always been a strong deck in Modern, and it was the good partner 仕峰 chose at the time. This precious photo was taken after his heated finals battle with his good friend.
@@ -43,7 +43,7 @@ The main reason I chose this deck is that I also played it in the MITQs. Althoug
 
 A: I first came into contact with Magic because my older brother brought home a Fifth Edition Starter Deck one day, and I happened to see the cards inside and was amazed by the illustrations. That impact gave me the motivation to start practicing and playing, and before I knew it I had come this far.
 
-After winning the MIT Round 8 championship, I didn't share the news with my family right away. It was only later, when I was preparing to go abroad, that I brought it up. My family's first reaction was: this isn't a scam, is it? XD
+After winning the MIT Season 8 championship, I didn't share the news with my family right away. It was only later, when I was preparing to go abroad, that I brought it up. My family's first reaction was: this isn't a scam, is it? XD
 
 #### Q4: Do you still feel that excitement and emotion? Can you talk about how Magic today differs from the past?
 
@@ -83,14 +83,14 @@ A: I personally don't have any superstitious habits. As for tricks, during a mat
 
 A: Stamina, I'd say XD. I think if your stamina is poor, your fundamentals and experience can't be exerted to 100 percent.
 
-In the past I have also made mistakes in Win & In situations because my focus dropped, and been turned around. At the moment of the Round 8 championship, I think it was because I was familiar enough with my deck and had done a lot of homework on the environment, so I knew better how to face various situations, and could therefore keep my focus all the way to the end.
+In the past I have also made mistakes in Win & In situations because my focus dropped, and been turned around. At the moment of the Season 8 championship, I think it was because I was familiar enough with my deck and had done a lot of homework on the environment, so I knew better how to face various situations, and could therefore keep my focus all the way to the end.
 
 #### Q10: Although the players are the ones standing on the stage, the team, family, and friends around them surely take part too. Have you had any memorable support or arguments in life? How did you resolve them in the end?
 
 A: After going to the Singapore GP in 2018, I couldn't attend the next month's Chiba GP. A friend who did go happened to run into [泱泱](https://www.instagram.com/lynnwu0219/?hl=zh-tw) and asked her to record a cheering video for me XD. That really moved me deeply.
 
 ![](https://images.guildmagesforum.tw/posts/MIT8-Champion-Interview/904f31d63149.webp)
-> Thanks to 世峰 for sharing this treasure XD. After the interview the author got to see this video, and it really is a memory that makes your heart flutter (ドキドキ).
+> Thanks to 仕峰 for sharing this treasure XD. After the interview the author got to see this video, and it really is a memory that makes your heart flutter (ドキドキ).
 
 #### Q11: Can you name a few players who have influenced you, and tell us what you learned from them?
 

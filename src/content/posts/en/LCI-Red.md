@@ -30,7 +30,7 @@ For the mechanics, see this article: [The Lost Caverns of Ixalan Mechanics Expla
 
 ## Red
 
-![紅色](https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553.webp)
+![Red](https://images.guildmagesforum.tw/posts/LCI-Red/20c978672553.webp)
 
 > Number of red cards by rarity
 >
@@ -77,13 +77,13 @@ This set's all-purpose glue card. It enters with discard N, draw N+1, letting yo
 
 On offense it can potentially act as a three-mana 4/4. Two artifacts aren't hard to gather in this set, but many of them are slower cards or Equipment that need an equip cost, so it's hard to turn it into a 4/4 while your teammates also provide enough early pressure.
 
-Mono-red artifacts aren't enough to make it a playable card, but mixed with white's pile of cheap artifacts or artifact creatures, it can become an effective 4-power attacker, and it's no great loss if it gets removed. A vanilla 3/2/3 isn't terrible either, but that still can't hide the problem that it only works in specific color pairs. If the ability were a static one that works whenever the condition is met, instead of only when attacking, it could go up another 0.5 to 1 point; as things stand, with no support, it is always a below-the-line card.
+Mono-red artifacts aren't enough to make it a playable card, but mixed with white's pile of cheap artifacts or artifact creatures, it can become an effective 4-power attacker, and it's no great loss if it gets removed. A three-mana 2/3 vanilla isn't terrible either, but that still can't hide the problem that it only works in specific color pairs. If the ability were a static one that works whenever the condition is met, instead of only when attacking, it could go up another 0.5 to 1 point; as things stand, with no support, it is always a below-the-line card.
 
 ![137](https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg?1695408358)
 
 **Jru**: 4.0
 
-Excellent as a standalone card. A three-mana 3/3 first striker puts a lot of pressure on in Limited creature combat, and the three-mode attack trigger is also very useful. Just note that LCI has far fewer Pirates this time: the entire set, including this red card, has only 14 Pirates, some of which are weak, so don't expect too much from a Pirate tribal build.
+Excellent as a standalone card. A three-mana 3/3 first striker puts a lot of pressure on in Limited creature combat, and the three-mode attack trigger is also very useful. Just note that LCI has far fewer Pirates this time: the entire set, including this rare, has only 14 Pirates, some of which are weak, so don't expect too much from a Pirate tribal build.
 
 ![138](https://cards.scryfall.io/large/front/0/c/0c491ac0-4752-47a7-967e-456b6e4245de.jpg?1699044244)
 
@@ -113,7 +113,7 @@ Descending once is acceptable, and from the second Descend on it starts to pay o
 
 **Jru**: 2.0 (sealed) / 2.5 (draft)
 
-Its strength depends entirely on the density of Discover cards. Copying into a Discover the first time only breaks even on the cost of the card; the second time onward is the real profit. To play this guy, first make sure your deck has a high enough chance of getting two Discovers after it enters, otherwise don't play it. In sealed it's also hard to put together a full Discover theme; in draft you can take some Discover cards highly for better consistency, but remember not to overpick weak Discover payoffs just for this card.
+Its strength depends entirely on the density of Discover cards. Copying into a Discover the first time only breaks even on the cost of the card; the second time onward is the real profit. To play this guy, first make sure your deck has a high enough chance of getting two Discovers after it enters, otherwise don't play it. In sealed it's also hard to put together a full Discover theme; in draft you can take some Discover cards highly for better consistency, but remember not to overpick weak Discover cards just for this card.
 
 ![142](https://cards.scryfall.io/large/front/d/9/d95018a4-be10-4c46-b14d-4b1eba838bc0.jpg?1699044254)
 
@@ -209,7 +209,7 @@ Much like a pseudo-[Raffine, Scheming Seer](https://scryfall.com/card/snc/213/ra
 
 **Jru**: 4.0
 
-Precious long-range removal for red, with a 5/5 equipping 2 for good value, and a chance to provide extra Treasures for various uses.
+Precious long-range removal for red, with a 5/5 crew 2 body for good value, and a chance to provide extra Treasures for various uses.
 
 ![158](https://images.guildmagesforum.tw/posts/LCI-Red/8981a91da361.webp)
 
@@ -221,7 +221,7 @@ Although a god that has a chance to come back from death looks impressive, neith
 
 **Kappa & Jru**: 3.5
 
-A five-mana 4/5 with reach can block the vast majority of attackers, and every turn it can burn the opponent for 2 with its Dimensional Strike. Stabilize the board and you can win; it's basically a simplified [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95). This also proves how important 5 toughness with reach is; [Onakke Javelineer](https://scryfall.com/card/mom/156/onakke-javelineer) should take note. If you see it around pick 3 to 4 in draft, it's very welcome, a solid five-mana common choice for red.
+A five-mana 4/5 with reach can block the vast majority of attackers, and every turn it can burn the opponent for 2 out of nowhere. Stabilize the board and you can win; it's basically a simplified [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95). This also proves how important 5 toughness with reach is; [Onakke Javelineer](https://scryfall.com/card/mom/156/onakke-javelineer) should take note. If you see it around pick 3 to 4 in draft, it's very welcome, a solid five-mana common choice for red.
 
 ![160](https://cards.scryfall.io/large/front/5/b/5bb2552f-8370-4931-83e1-93706d51413a.jpg?1699044322)
 
@@ -239,7 +239,7 @@ Its real value is that the first artifact each turn comes with a creature that c
 Note that because casting an artifact spell immediately produces a Dinosaur, even if you know the opponent can respond at instant speed to destroy the Enchantment, you can slam this Enchantment for four mana and then immediately slam a one-mana artifact, and the opponent still can't stop the first Dinosaur from being produced; either way you can force a 1-for-0 against the opponent.
 Side note: this card's art enlightened me. (I'm just reading the flavor text aloud, okay?)
 
-> **cephile**:
+> **cephille**:
 > I'm not giving a rating, but a three-mana Enchantment into a four-mana [Dinotomaton](https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263), then on turn five attacking with two Dinosaurs to make two Treasures and jump to seven mana, is really too explosive! Saheeli will indeed love it! (And the expressions on these two characters are so dramatic XD)
 
 ![162](https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122)
@@ -266,7 +266,7 @@ Discard 1, draw 2 on entering is decent looting and a Descend trigger source, an
 
 In Constructed it can be a control killer, but in Limited the proportion of instant-speed plays is naturally not that high, and for many plays the opponent choosing to do it on their own turn doesn't change much, so most of the time it's probably a three-mana 4/3. Still, judged by body alone it's above average, and the ability to deal 4 damage, even if it can be played around, is a considerable pressure and restriction on the opponent.
 
-> **cephille**: Note that casting spells on the opponent's turn first gets you hit for four too, and this applies to you as well. When it's on the battlefield and your life total is behind, remember to cast your removal on your own turn first.
+> **cephille**: Note that taking 4 for casting a spell during an opponent's turn applies to you too. When it's on the battlefield and your life total is behind, remember to cast your removal on your own turn first.
 
 ![166](https://cards.scryfall.io/large/front/9/8/98aeb9dc-18f9-4120-ac3d-226c62a1dc1d.jpg?1699044339)
 

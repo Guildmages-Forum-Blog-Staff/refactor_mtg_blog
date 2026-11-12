@@ -1,6 +1,6 @@
 ---
 
-title: "Modern Mardu Energy: When the Ocelot Pride Meets The Lord of the Rings"
+title: "Modern Mardu Energy: When Ocelot Pride Meets The One Ring"
 date: "2024-11-25 11:48:29"
 authors:
   - "Kappa"
@@ -61,7 +61,7 @@ So why play Mardu anyway? Again, it's the multi-angle attack: the Bowmasters pun
 
 A: [Fable of the Mirror-Breaker](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki), I'd say. In my original reference list, I swapped out one [Goblin Bombardment](https://scryfall.com/card/mh2/279/goblin-bombardment), one [Chthonian Nightmare](https://scryfall.com/card/mh3/83/chthonian-nightmare), and two [Ob Nixilis, the Adversary](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary). You can also increase the number of [Static Prison](https://scryfall.com/card/mh3/44/static-prison), or go up to a full four [Phlage, Titan of Fire's Fury](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury). Those are flex slots anyway, so basically just use your own creativity.
 
-If you remember [Amped Raptor](https://scryfall.com/card/mh3/114/amped-raptor), you'll remember that the energy deck was originally built around it, so every card costs 3 or less, so that when you cast Raptor for 2 mana you can reliably hit any card in the deck. But our [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) is simply too good. It's like putting Tabasco on spaghetti or extra garlic on ramen: sure, you can add it, but it doesn't match the spaghetti or ramen at all... Raptor can now whiff twice, but the Ring is just too tempting...
+If you remember [Amped Raptor](https://scryfall.com/card/mh3/114/amped-raptor), you'll remember that the energy deck was originally built around it, so every card costs 3 or less, so that when you cast Raptor for 2 mana you can reliably hit any card in the deck. But our [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) is simply too good. It's like putting Tabasco on spaghetti or extra garlic on ramen: sure, you can add it, but it doesn't match the spaghetti or ramen at all... Raptor can now whiff on turn 2, but the Ring is just too tempting...
 
 If you're obsessive about a deck's thematic consistency and aesthetics, don't play [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring). Every time I use it, I feel like a foreign object has slipped in, but it really is strong.
 
@@ -100,7 +100,7 @@ This is what [Soul Warden](https://scryfall.com/card/mm3/24/soul-warden) looks l
 
 In particular, there's the combo with [Ocelot Pride](https://scryfall.com/card/mh3/38/ocelot-pride) mentioned earlier. With GoS on the battlefield, whenever you gain life, you make cats according to the number of Ocelot Prides, and the new cats trigger GoS again, adding even more life and more energy. GoS can also make a flier every turn to sneak across, and the best target is of course Ocelot Pride itself. Attack with lifelink to trigger the end-of-turn effect, and once it's the city's blessing, the cats you make keep growing and the lifegain snowball keeps getting bigger (the Ocelot Pride quick-reference table is in the next section). This creates an irreversible gap in life total and board, a seamless combination.
 
-Because of this, if energy gets nerfed next month, the thing I fear most is that they hit GoS. Pull one thread and the whole thing moves: it indirectly reduces the output of both removal spells, and it loses one route to victory (lifegain). That cut would hurt enormously, so I hope they don't go this way... ~~Wizards, would you take [Phlage, Titan of Fire's Fury](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury) as a sacrifice instead? (It's already sold out anyway.)~~
+Because of this, if energy gets nerfed next month, the thing I fear most is that they hit GoS. Pull one thread and the whole thing moves: it indirectly reduces the output of both removal spells, and it loses one route to victory (lifegain). That cut would hurt enormously, so I hope they don't go this way... ~~Wizards, would you take [Phlage, Titan of Fire's Fury](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury) as a sacrifice instead? (I've already sold mine anyway.)~~
 
 ### [Ocelot Pride](https://scryfall.com/card/mh3/38/ocelot-pride)
 
@@ -256,8 +256,8 @@ After the [GoS](https://scryfall.com/card/mh3/29/guide-of-souls) + [Ocelot Pride
 
 ### Lands
 
-First, the two utility lands. You can run 1 to 3 [Aether Hub](https://scryfall.com/card/kld/242/aether-hub), but I've been color-screwed by the third Hub too many times, and having only a Hub in hand is miserable, especially now that the reliance on [Amped Raptor](https://scryfall.com/card/mh3/114/amped-raptor) has dropped. I think 2 is enough, and the Boros version can probably play more.
-[Arena of Glory](https://scryfall.com/card/mh3/215/arena-of-glory) is the same story. I originally tried 2, but after finding that the Phlage it's meant for often gets sided out, I decided a single one for the ceiling is enough. And when your first land happens to be [Godless Shrine](https://scryfall.com/card/rna/248/godless-shrine) and the second land is Arena, you have to lie down awkwardly.
+First, the two utility lands. You can run 1 to 3 [Aether Hub](https://scryfall.com/card/kld/242/aether-hub), but running 3 Hubs has color-screwed me too many times, and having only a Hub in hand is miserable, especially now that the reliance on [Amped Raptor](https://scryfall.com/card/mh3/114/amped-raptor) has dropped. I think 2 is enough, and the Boros version can probably play more.
+[Arena of Glory](https://scryfall.com/card/mh3/215/arena-of-glory) is the same story. I originally tried 2, but after finding that the Phlage it's meant for often gets sided out, I decided a single one for the ceiling is enough. And when your first land happens to be [Godless Shrine](https://scryfall.com/card/rna/248/godless-shrine) and the second land is Arena, it has to enter tapped, which is awkward.
 
 For the other lands, just include the fetchlands and the shocklands in the three color pairs. (Fetch priority is red-white, then black-white, then red-black; you can only grab a basic Plains in an emergency if you can reach white, and unless you have a special need, the order of use goes from right to left.)
 Include the surveil lands in the three color pairs, and oh, you should run one extra [Sacred Foundry](https://scryfall.com/card/rvr/285/sacred-foundry), and the rest are basic lands, yes.
@@ -279,7 +279,7 @@ If you side in [Obsidian Charmaw](https://scryfall.com/card/mh2/137/obsidian-cha
 <!---![](https://cards.scryfall.io/large/front/3/6/3644df41-b690-4581-ac7d-c85cec75411f.jpg?1562301661)--->
 {% mtgpick "m19" 39 %}
 
-The final weapon against energy decks. How many you run depends on how much you hate energy mirrors. Once its ability targeting the opponent resolves, they can never get energy again until Suncleanser leaves the battlefield, and when the ability resolves their energy is wiped out completely. That means [Galvanic Discharge](https://scryfall.com/card/mh3/122/galvanic-discharge) can only hit for 0, [Guide of Souls](https://scryfall.com/card/mh3/29/guide-of-souls) turns straight back into a slightly bigger Soul Warden, and [Amped Raptor](https://scryfall.com/card/mh3/114/amped-raptor) can only ever flip for 0. The only one that avoids this is [Static Prison](https://scryfall.com/card/mh3/44/static-prison). This time I really hated the mirror so I ran 3, but I never met a single energy, so I adjusted the number afterward.
+The final weapon against energy decks. How many you run depends on how much you hate energy mirrors. Once its ability targeting the opponent resolves, they can never get energy again until Suncleanser leaves the battlefield, and when the ability resolves their energy is wiped out completely. That means [Galvanic Discharge](https://scryfall.com/card/mh3/122/galvanic-discharge) can only hit for 0, [Guide of Souls](https://scryfall.com/card/mh3/29/guide-of-souls) turns straight back into a slightly bigger Soul Warden, and [Amped Raptor](https://scryfall.com/card/mh3/114/amped-raptor) can only ever flip for 0. The only one that avoids this is [Static Prison](https://scryfall.com/card/mh3/44/static-prison). This time I really hated the mirror so I ran 3, but I never faced a single energy deck, so I adjusted the number afterward.
 
 Another thing to note: if the opponent has 1 or more energy, you can still deal with it by killing Suncleanser with Galvanic Discharge before the ETB ability resolves. (It still wipes out all of the opponent's remaining energy, though.)
 
@@ -363,9 +363,9 @@ Side out:
 [Phlage, Titan of Fire's Fury](https://scryfall.com/card/mh3/197/phlage-titan-of-fires-fury) x 2
 
 Rather than saying I wanted to use these 7 cards, it's more that the 7 cards I sided out really don't do much... Damping Sphere only prevents the fastest Cascade; if I can stall long enough to reach the Ring zone, that's my win.
-[Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact) + a 2-mana [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco)? Then I concede.
+[Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact) + a turn-two [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco)? Then I concede.
 
-Game 2, no mulligan. I managed to take the opponent's Leyline from their opening hand, but I was stuck on three lands again, and the 2 Rings in my hand were completely useless. Still, considering that in both games I saw [Force of Negation](https://scryfall.com/card/2x2/50/force-of-negation) and [Bonecrusher Giant](https://scryfall.com/card/clb/781/bonecrusher-giant-stomp) in the opponent's hand, even a Ring cast on time on turn 4 would probably have died anyway.
+Game 2, no mulligan. I managed to destroy the Leyline the opponent started with, but I was stuck on three lands again, and the 2 Rings in my hand were completely useless. Still, considering that in both games I saw [Force of Negation](https://scryfall.com/card/2x2/50/force-of-negation) and [Bonecrusher Giant](https://scryfall.com/card/clb/781/bonecrusher-giant-stomp) in the opponent's hand, even a Ring cast on time on turn 4 would probably have died anyway.
 
 The best card to fight Rhino is probably [Legion's End](https://scryfall.com/card/m20/106/legions-end), but I really didn't want to put a hard-to-use answer in just for one matchup...
 
@@ -472,7 +472,7 @@ The opponent effectively kept a 1-lander. I considered taking Valakut Awakening 
 
 Game 3 we started right away since time was short. The opponent mulliganed three times. I planned to take them out with one wave of aggro, but Static Prison dragged out the time, and with just one minute to spare, I was one turn short of killing the opponent. Considering that a draw here would send both players into the top four, they let me go up in the end.
 
-### R5: VS Ub Murktide XO
+### R5: VS Dimir Murktide XO
 
 Game 1, I had a hand of 2-drops but one land, and by the time I died I was still on one land.
 
@@ -547,7 +547,7 @@ Because life total matters, by elimination I first pulled all the Thoughtseizes.
 Game 2, I don't remember very well; the life-total sheet doesn't have any life changes written on it. I only remember doing something wrong that let the opponent block my GoS to death, and then after a round of their combo the opponent produced a Walking Ballista with 12 counters, used it to shoot away all my blockers, then hit my face and shot me dead. Loss.
 
 Game 3, no changes. I mulliganed once, and the opponent started the game with [Gemstone Caverns](https://scryfall.com/card/tsr/280/gemstone-caverns). Early on I kept getting beaten down by [Hangarback Walker](https://scryfall.com/card/ori/229/zht/%E8%A1%8C%E8%B5%B0%E6%A9%9F%E5%BA%AB) with counters, while [Zabaz, the Glimmerwasp](https://scryfall.com/card/mh2/243/zabaz-the-glimmerwasp) was also on the battlefield, making the opponent's combos more varied. While I blocked with creatures, once I had enough mana I used [Charmaw](https://scryfall.com/card/mh2/137/obsidian-charmaw) to blow up the opponent's Phyrexian Tower, stopping them from suddenly sacrificing Hangarback Walker to produce 10-plus Ornithopter tokens. (I also learned that a Gemstone Caverns with a luck counter doesn't count as a colorless land, so Charmaw can't be reduced in cost.)
-After feeding Charmaw to the opponent's Hangarback Walker, the opponent played [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) and used the legend rule to make Zabaz kill itself. My turn: I tried stealing with Ajani to see whether the opponent would blow themselves up; the opponent activated the Cauldron to eat Zabaz, which gave their Hangarback Walker a way to blow itself up, and suddenly 11 Ornithopter tokens appeared to block my Ajani & the 2/1 cat to death. Great, the Cauldron couldn't be activated any more, so I cast the Chthonian Nightmare in my hand, ate GoS to bring that Charmaw back and destroyed the Gemstone Caverns, and after that the opponent had only a Forest left. The opponent drew only one Urza's Saga, while I activated the Ring and drew Wear // Tear (for the Cauldron & Urza's Saga), GoS, Ocelot Pride, and a pile of other material, which I slowly cast one by one, once again pulling my life total up to 27, and the opponent lost to the hand-size gap the Ring created.
+After feeding Charmaw to the opponent's Hangarback Walker, the opponent played [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) and used the legend rule to make Zabaz kill itself. My turn: I tried sneaking in an attack with Ajani to see whether the opponent would blow themselves up; the opponent activated the Cauldron to eat Zabaz, which gave their Hangarback Walker a way to blow itself up, and suddenly 11 Ornithopter tokens appeared to block my Ajani & the 2/1 cat to death. Great, the Cauldron couldn't be activated any more, so I cast the Chthonian Nightmare in my hand, ate GoS to bring that Charmaw back and destroyed the Gemstone Caverns, and after that the opponent had only a Forest left. The opponent drew only one Urza's Saga, while I activated the Ring and drew Wear // Tear (for the Cauldron & Urza's Saga), GoS, Ocelot Pride, and a pile of other material, which I slowly cast one by one, once again pulling my life total up to 27, and the opponent lost to the hand-size gap the Ring created.
 
 Victory! The winning tactic in the last game against Scales was "if you raise your life total high enough, you won't get killed"! (You still have to watch out for Inkmoth Nexus, though.)
 

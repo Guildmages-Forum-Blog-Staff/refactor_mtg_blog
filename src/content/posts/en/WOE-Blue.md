@@ -1,5 +1,5 @@
 ---
-title: "Pignose's First Look at Wilds of Eldraine (WOE) Limited: Blue"
+title: "cephille's First Look at Wilds of Eldraine (WOE) Limited: Blue"
 date: 2023-09-05 17:30:21
 categories:
   - "Limited"
@@ -38,13 +38,13 @@ Retired bombs that made the Limited bomb hall of fame: [Pack Rat](https://cdn1.m
 
 **Limited rating: 2.0**
 
-A two-mana 1/3 that gets +2/+0 until end of turn when you cast an instant or sorcery. Most of the time I don't want to play cards that only work with support; on the Adventure side it's a three-mana sorcery that puts an instant or sorcery on top of your library... I don't even like paying three mana to get a spell back to hand... With neither half making me eager to play it, I'll only give this Adventure card a playable score.
+A two-mana 1/3 that gets +2/+0 until end of turn when you cast an instant or sorcery. Most of the time I don't want to play cards that only work with support; on the Adventure side it's a three-mana sorcery that puts an instant or sorcery card from your graveyard on top of your library... I don't even like paying three mana to get a spell back to hand... With neither half making me eager to play it, I'll only give this Adventure card a playable score.
 
 ![Archive Dragon](https://images.guildmagesforum.tw/posts/WOE-Blue/ce542812398c.webp)
 
 **Limited rating: 3.5**
 
-A big six-mana 4/6 flyer with ward {2} that also scries 2 when it enters. The cost is a bit high, but if you're short on removal you can still use it, and a 4/6 flyer has few rivals in Limited.
+A big six-mana 4/6 flyer with ward {2} that also scries 2 when it enters. The cost is a bit high, but if you're short on finishers you can still use it, and a 4/6 flyer has few rivals in Limited.
 
 ![Asinine Antics](https://images.guildmagesforum.tw/posts/WOE-Blue/3a17164bf427.webp)
 
@@ -62,7 +62,7 @@ The creature side is a plain, unremarkable six-mana 6/5. The Adventure side is a
 
 **Limited rating: 3.0**
 
-Tapper Auras got better in this set: when it goes to the graveyard you can also pay to scry 1 and draw a card. A decent soft removal.
+Tapper Auras got better in this set: when it goes to the graveyard you can also pay {1} to scry 1 and draw a card. A decent soft removal.
 
 ![Chancellor of Tales](https://images.guildmagesforum.tw/posts/WOE-Blue/ee33eddb8a94.webp)
 
@@ -74,7 +74,7 @@ A four-mana 2/3 flyer that, while on the battlefield, gives your Adventure spell
 
 **Limited rating: 2.5**
 
-A plain three-mana 3/2. You have to kick it to get the Cursed role, which isn't necessarily worth it. Base score for now.
+A plain three-mana 3/2. You have to bargain it to get the Cursed role, which isn't necessarily worth it. Base score for now.
 
 ![Disdainful Stroke](https://images.guildmagesforum.tw/posts/WOE-Blue/d726dc01aa1f.webp)
 
@@ -93,7 +93,7 @@ Exiling one or two of the opponent's creatures slows their tempo. The opponent c
 
 **Limited rating: 3.5**
 
-Looking at four and drawing two for four mana is already pretty good; once kicked, looking at eight and drawing two in a Limited library of under 30 cards is very close to a tutor. A good card worth playing.
+Looking at four and drawing two for four mana is already pretty good; once bargained, looking at eight and drawing two in a Limited library of under 30 cards is very close to a tutor. A good card worth playing.
 
 ![Freeze in Place](https://images.guildmagesforum.tw/posts/WOE-Blue/8d36bde57351.webp)
 
@@ -124,13 +124,13 @@ Cast as an Adventure, it's a two-mana instant that puts an attacking creature of
 
 **Limited rating: 2.0**
 
-It's just a [Cancel](https://cards.scryfall.io/large/front/7/4/74dace42-1049-4a26-951f-9597894804a4.jpg?1645825304); don't think about kicking it, as it's not worth it in the vast majority of cases.
+It's just a [Cancel](https://cards.scryfall.io/large/front/7/4/74dace42-1049-4a26-951f-9597894804a4.jpg?1645825304); don't think about bargaining it, as it's not worth it in the vast majority of cases.
 
 ![Icewrought Sentry](https://images.guildmagesforum.tw/posts/WOE-Blue/0cb17df94966.webp)
 
 **Limited rating: 4.0**
 
-A three-mana 2/3 with vigilance that can also pay {1}{U} to tap a creature, and whenever you tap a creature it gets +2/+1 and becomes a 4/4 to beat down. In white-blue there's even a chance to tap two creatures in one turn and become a 6/5, and with both of them tapped those 6 points of damage should basically go straight to the opponent's face. That feels great. For a three-mana creature in Limited, I'd give it a very high score given its value.
+A three-mana 2/3 with vigilance that, when it attacks, can also pay {1}{U} to tap a creature, and whenever you tap a creature it gets +2/+1 and becomes a 4/4 to beat down. In white-blue there's even a chance to tap two creatures in one turn and become a 6/5, and with both of them tapped those 6 points of damage should basically go straight to the opponent's face. That feels great. For a three-mana creature in Limited, I'd give it a very high score given its value.
 
 ![Ingenious Prodigy](https://images.guildmagesforum.tw/posts/WOE-Blue/0ef33379227f.webp)
 
@@ -148,7 +148,7 @@ Some people may find it too slow, but I think drawing three cards and making a 1
 
 **Limited rating: 2.5**
 
-I don't like sorcery-speed bounce, which is bad against haste creatures; four mana to return a nonland permanent and draw a card, and kicking it reduces the cost. It probably performs better in a tempo-oriented blue-red approach. Also note that the faster the draft environment, the worse this card performs: the opponent may have cast two creatures by turn four while you're tapped out bouncing one and drawing a card...
+I don't like sorcery-speed bounce, which is bad against haste creatures; four mana to return a nonland permanent and draw a card, and bargaining it reduces the cost. It probably performs better in a tempo-oriented blue-red approach. Also note that the faster the draft environment, the worse this card performs: the opponent may have cast two creatures by turn four while you're tapped out bouncing one and drawing a card...
 
 ![Living Lectern](https://images.guildmagesforum.tw/posts/WOE-Blue/91b6dc28af30.webp)
 
@@ -240,7 +240,7 @@ A three-mana 1/3 flyer isn't a great body, but it pays for itself as soon as it 
 
 **Limited rating: 2.5**
 
-A plain three-mana 3/2. You must kick it to retrieve an instant or sorcery from the graveyard. Being able to kick it is of course great, but since the effect is less reliable I'll give it a base score for now.
+A plain three-mana 3/2. You must bargain it to retrieve an instant or sorcery from the graveyard. Being able to bargain it is of course great, but since the effect is less reliable I'll give it a base score for now.
 
 ![Vantress Transmuter](https://images.guildmagesforum.tw/posts/WOE-Blue/c0cf0ae0bb5a.webp)
 

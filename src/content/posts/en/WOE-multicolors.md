@@ -273,7 +273,7 @@ To wrap up the multicolor cards, let's look at WOE's characterful legends and po
 
 > Red-green wicked witch... your fate is to be cooked in your own cauldron!
 
-Without counting the first ability, which reduces other creatures' ability costs by at least {1}, the only strong part is pumping her up to 4/4 or more and then giving other creatures +1/+1 over and over, like a hymn. A two-mana 1/1 is simply too weak as a body.
+Without counting the first ability, which reduces other creatures' ability costs by at least {1}, the only strong part is pumping her up to 4/4 or more and then giving other creatures +1/+1 over and over with the anthem effect. A two-mana 1/1 is simply too weak as a body.
 
 ![Eriette of the Charmed Apple](https://images.guildmagesforum.tw/posts/WOE-multicolors/8b6912af5199.webp)
 
@@ -333,7 +333,7 @@ A solid four-mana 4/4 body plus an effect that copies a non-same-name enchantmen
 
 **Limited rating: 4.0**
 
-A four-mana red-blue Saga whose first two chapters can copy a nontoken creature you control with a different name, including legendary ones, and the copy token has haste! Basically, as long as your board isn't too far behind and you have something worth copying, resolving the first two chapters gives you a huge advantage. Although chapter III sacrifices the Reflection token it made, you have at least already gained a turn or more of value. And pairing it with Offspring-style ETB abilities can even offset this drawback.
+A four-mana red-blue Saga whose first two chapters can copy a nontoken creature you control with a different name, including legendary ones, and the copy token has haste! Basically, as long as your board isn't too far behind and you have something worth copying, resolving the first two chapters gives you a huge advantage. Although chapter III sacrifices the Reflection token it made, you have at least already gained a turn or more of value. And pairing it with bargain abilities can even offset this drawback.
 
 > Although I said I wouldn't talk about constructions, I can't wait to see it shine in Pioneer's Enigmatic Incarnation decks!
 
@@ -429,7 +429,7 @@ Soul-Guide Lantern is also a reprint, and Limited basically rarely needs graveya
 
 **Limited rating: 2.5**
 
-A jack-of-all-trades card, but since it can be played as a creature-targeting 2-mana spell it gets 2.5; other white-blue decks lacking tap sources, or Food decks lacking Food, can also play it.
+A jack-of-all-trades card, but since it can deal 2 damage to a creature it gets 2.5; other white-blue decks lacking tap sources, or Food decks lacking Food, can also play it.
 
 ## Lands
 

@@ -27,7 +27,7 @@ I am writing this article partly because I made top 4 at Cardmaster's MITQ#8 on 
 
 ## Changes in Modern
 
-For details, see Monkey King's article: [Why Nadu Must Die: Aug 26th BnR Predictions](https://guildmagesforum.tw/en/Why-Nadu-Should-Die/)
+For details, see MiohitoKiri5474's article: [Why Nadu Must Die: Aug 26th BnR Predictions](https://guildmagesforum.tw/en/Why-Nadu-Should-Die/)
 
 The Modern meta over the past 7 days, as of September 9, 2024:
 ![](https://images.guildmagesforum.tw/posts/Modern-Dimir-Murktide/e9f78e91d3b0.webp)
@@ -87,7 +87,7 @@ Although it is a combo, it uses 3 flexible slots of Dimir as combo pieces, and w
 
 #### Isn't Sheoldred too clunky?
 
-True, at four mana she can be answered by the common [Fatal Push](https://scryfall.com/card/2xm/93/fatal-push) (with revolt), or by [Unholy Heat](https://scryfall.com/card/mh2/145/unholy-heat) after delirium, among others. But we don't mainly win through [Sheoldred](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse); the single copy is there to raise the combo's chance of winning. After discussion we agreed that an extra Sheoldred makes our combo win more comfortable, and a Sheoldred resolved in topdeck mode is deadly, giving us more haters against the opponent's [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring), which is extremely important in the current environment. Her draw-punishing life gain is also something Dimir Murktide badly needs. So our conclusion is that Sheoldred is not too clunky, and she fits perfectly into our game plan, further raising the deck's power.
+True, at four mana she can be answered by the common [Fatal Push](https://scryfall.com/card/2xm/93/fatal-push) (with revolt), or by [Unholy Heat](https://scryfall.com/card/mh2/145/unholy-heat) after delirium, among others. But we don't mainly win through [Sheoldred](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse); the single copy is there to raise the combo's chance of winning. After discussion we agreed that an extra Sheoldred makes our combo win more comfortable, and a Sheoldred resolved in topdeck mode is deadly, giving us more haters against the opponent's [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring), which is extremely important in the current environment. Her life gain whenever we draw is also something Dimir Murktide badly needs. So our conclusion is that Sheoldred is not too clunky, and she fits perfectly into our game plan, further raising the deck's power.
 
 #### How to use Echo of Eons
 
@@ -122,12 +122,12 @@ Besides the [7 combo pieces mentioned earlier](#combo-explanation), the followin
 - 4 [Fatal Push](https://scryfall.com/card/2xm/93/fatal-push): always a full set. It is black's best removal; without it, don't bother playing against energy.
 - 2 [Spell Snare](https://scryfall.com/card/dis/33/spell-snare): a quality card with tons of targets in Modern besides Eldrazi. 2 is the minimum, and 3 is the usual count.
 - 3 [Preordain](https://scryfall.com/card/m11/70/preordain): usually a full set, but I swapped one for [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed).
-- 1 [Sink into Stupor](https://scryfall.com/card/mh3/241/sink-into-stupor-soporific-springs): it can be a land or a soft removal/counter. Although [高橋優太 thought three weeks ago that this card is not very good and that an Island is better](https://cardrush-media.com/mtg-yutatakahashi-20240803/), I find it quite good, and our build wants more lands anyway.
+- 1 [Sink into Stupor](https://scryfall.com/card/mh3/241/sink-into-stupor-soporific-springs): it can be a land or a soft removal/counter. Although [Yuta Takahashi thought three weeks ago that this card is not very good and that an Island is better](https://cardrush-media.com/mtg-yutatakahashi-20240803/), I find it quite good, and our build wants more lands anyway.
 - 2 [Shoot the Sheriff](https://scryfall.com/card/otj/106/shoot-the-sheriff): these 2 slots are for hard removal and can be adjusted by the meta, but it has to be 2 copies.
 - 1 [Toxic Deluge](https://scryfall.com/card/mh3/277/toxic-deluge): one main-deck sweeper to keep things safe.
 - 1 [Cling to Dust](https://scryfall.com/card/thb/87/cling-to-dust): this card might be the only good-luck charm exclusive to Modern Dimir. It gains life, draws cards, and hoses graveyards.
 
-The cards above are ones I would absolutely never cut from the main deck so far. They make up the deck and its important new pieces.
+The cards above are ones I would absolutely never cut from the main deck so far. They are the important cards that form the core of the deck.
 
 ### How to choose the flexible slots?
 
@@ -145,7 +145,7 @@ Since I am not on the fast Murktide version, I still play 19 lands plus 1 double
 - 3 shocklands [Watery Grave](https://scryfall.com/card/rvr/291/watery-grave): I actually hesitated over whether to play one more trick with [Otawara, Soaring City](https://scryfall.com/card/neo/271/otawara-soaring-city), but I didn't have the courage to play only 7 lands that can be fetched. Also, [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse) and quite a few sideboard cards that demand two black mana are the main reason I gave up on the idea and dutifully played a full 3 Watery Graves.
 - 2 surveil lands [Undercity Sewers](https://scryfall.com/card/mkm/270/undercity-sewers): awesome!
 - 2 basic Islands: it can't go any lower.
-- 1 basic Swamp: although [高橋優太 really dislikes being stuck by a Swamp when casting Murktide at four mana, unable to cast Counterspell for protection](https://cardrush-media.com/mtg-yutatakahashi-20240803/), we now play [Harbinger of the Seas](https://scryfall.com/card/mh3/63/harbinger-of-the-seas) in the main deck, so some trade-offs are needed.
+- 1 basic Swamp: although [Yuta Takahashi really dislikes being stuck by a Swamp when casting Murktide at four mana, unable to cast Counterspell for protection](https://cardrush-media.com/mtg-yutatakahashi-20240803/), we now play [Harbinger of the Seas](https://scryfall.com/card/mh3/63/harbinger-of-the-seas) in the main deck, so some trade-offs are needed.
 - 8 fetchlands, of which 4 [Polluted Delta](https://scryfall.com/card/ons/321/polluted-delta) (the blue-black ones) are always a full set. I also recommend 2 each of the fetchlands that can find a basic Island and a basic Swamp.
    > In my build, I played 3 fetches for basic Island + 1 fetch for basic Swamp, but 2 each should be the better configuration.
 
@@ -190,9 +190,9 @@ We don't have quick graveyard-stuffing tools like [Thought Scour](https://scryfa
 
 #### Landing a big threat after resources are spent often settles the game
 
-This refers not only to mirrors and counter wars between control decks, but also to facing an opponent with lots of removal who has killed all your early threats. At that point, tapping out to resolve a Murktide or Sheoldred, or even a [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed), can swing the game your way. Of course, the opponent's [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) or other threats may be sharpening their knives in hand or on top of the library. However, sometimes, if the known resources on the table have been traded roughly evenly, resolving your own threat early is always reasonable.
+This refers not only to mirrors and counter wars between control decks, but also to facing an opponent with lots of removal who has killed all your early threats. At that point, tapping out to resolve a Murktide or Sheoldred, or even a [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed), can swing the game your way. Of course, the opponent's [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) or other threats may be sharpening their knives in hand or on top of the library. However, sometimes, if the known resources on both sides have mostly been traded off, resolving your own threat early is always reasonable.
 
-But how do you know they have really been traded evenly? That depends on accumulated experience and on-the-spot reactions. Deeper mind games aren't discussed in this article; you can imagine more similar situations and ask yourself!
+But how do you know they have really mostly been traded off? That depends on accumulated experience and on-the-spot reactions. Deeper mind games aren't discussed in this article; you can imagine more similar situations and ask yourself!
 
 ### Understanding the tournament meta
 
@@ -274,7 +274,7 @@ Against fast Murktide, especially when the opponent is on the play, our current 
 | -1 {% mtgcard "Toxic Deluge" "mh3" tooltip=true %} | +2 {% mtgcard "Nihil Spellbomb" tooltip=true %} |
 | -2 {% mtgcard "Spell Snare" tooltip=true %} | +2 {% mtgcard "Surgical Extraction" tooltip=true %} |
 
-In this matchup, {% mtgcard "Phlage, Titan of Fire's Fury" "mh3" tooltip=true %} basically has to be countered and then exiled, and we try not to let it resolve at all. If it does resolve, {% mtgcard "Consign to Memory" "mh3" tooltip=true %} can counter its life-gain effect, while we also watch {% mtgcard "The One Ring" "ltr" tooltip=true %} and the enter-the-battlefield effects of the white-blue dual-element cards. Our creatures are basically better than theirs apart from Phlage, so if we hold the ground we can push back.
+In this matchup, {% mtgcard "Phlage, Titan of Fire's Fury" "mh3" tooltip=true %} basically has to be countered and then exiled, and we try not to let it resolve at all. If it does resolve, {% mtgcard "Consign to Memory" "mh3" tooltip=true %} can counter its life-gain effect, while we also watch {% mtgcard "The One Ring" "ltr" tooltip=true %} and the enter-the-battlefield effects of their white and blue evoke Elementals. Our creatures are basically better than theirs apart from Phlage, so if we hold the ground we can push back.
 
 {% mtgcard "Spell Snare" tooltip=true %} in this matchup basically can only target the opponent's Counterspell, so considering its value we keep only 1 copy.
 

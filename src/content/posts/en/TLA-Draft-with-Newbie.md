@@ -16,9 +16,9 @@ categories:
 
 ## The Guildmages' Forum Is Hosting Another Event Again?
 
-It's no longer a surprise to me XD. After all, in 2025 we collaborated with [睿卡潮玩 (Ruika)](https://www.facebook.com/963Ruika) multiple times to let more players experience the joys of the draft format. But allow me to announce once more: it's time to read an article and play a real in-person draft again~
+I know this no longer surprises anyone XD. After all, in 2025 we collaborated with [睿卡潮玩 (Ruika)](https://www.facebook.com/963Ruika) multiple times to let more players experience the joys of the draft format. But allow me to announce once more: it's time to read an article and play a real in-person draft again~
 
-*Avatar: The Last Airbender* (hereafter [TLA](https://scryfall.com/sets/tla)) is the last set of 2025, and it drew a lot of attention at preview time for its mechanical design; the four classical elements of water, earth, fire, and air in the story are also very close to the spirit of Magic: The Gathering. The art on some cards and the quotes excerpted on them have moved the MTG community, with many people starting to watch the Avatar anime, and I personally find it really good too. As our site partner [cephille](/en/authors/cephille/) said, Universe Beyond (UB) has brought very good interaction this time; whether you're a Magic fan or an Avatar fan, this collaboration lets you feel what's great about the other work.
+*Avatar: The Last Airbender* (hereafter [TLA](https://scryfall.com/sets/tla)) is the last set of 2025, and it drew a lot of attention at preview time for its mechanical design; the four classical elements of water, earth, fire, and air in the story are also very close to the spirit of Magic: The Gathering. The art on some cards and the quotes excerpted on them have moved the MTG community, with many people starting to watch the Avatar anime, and I personally find it really good too. As our site partner [cephille](/en/authors/cephille/) said, Universes Beyond (UB) has brought very good interaction this time; whether you're a Magic fan or an Avatar fan, this collaboration lets you feel what's great about the other work.
 
 Back to TLA itself: when it comes to Magic drafts, everyone of course looks forward to what they might crack out of the packs, and that sense of surprise is a joy players can never avoid XD. If you like cracking packs, you will definitely want to crack TLA packs! I don't even want to explain further, because [Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub) is super strong! [Wan Shi Tong, Librarian](https://scryfall.com/card/tla/78/wan-shi-tong-librarian) is obviously great too! Players in every format should be glad to see them join, so let's crack some packs with passion.
 
@@ -102,7 +102,7 @@ That's the event record section of **Avatar: The Final and Most Perfect Draft Pr
 
 After my first pack went around the table and came back, I noticed [Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets) had wheeled, and I took it as a signal that red was open. But I didn't notice that the third red single in that pack, [Boar-q-pine](https://scryfall.com/card/tla/124/boar-q-pine), had been taken, so it wasn't that nobody was taking red; they just didn't take [Fire Nation Cadets](https://scryfall.com/card/tla/134/fire-nation-cadets).
 
-This misreading of the signal left me with very little red material in the next two packs, but luckily [Dragonfly Swarm](https://scryfall.com/card/tla/215/dragonfly-swarm) at P2P2 and [Lost Day](https://scryfall.com/card/tla/62/lost-days) at P3P1 gave me a lifeline to switch colors. I consider those two picks very important as well.
+This misreading of the signal left me with very little red material in the next two packs, but luckily [Dragonfly Swarm](https://scryfall.com/card/tla/215/dragonfly-swarm) at P2P2 and [Lost Days](https://scryfall.com/card/tla/62/lost-days) at P3P1 gave me a lifeline to switch colors. I consider those two picks very important as well.
 
 #### What were the key turns today like?
 

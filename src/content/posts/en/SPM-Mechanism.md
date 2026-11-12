@@ -99,7 +99,7 @@ Modal double-faced cards (MDFCs) are another kind of double-faced card mechanic 
 
 When you want to use a modal double-faced card, you can choose which face to use and pay the corresponding mana cost.
 
-In any zone other than the battlefield and the stack, a modal double-faced card has only the characteristics of its front face. On the battlefield and the stack, if it is face up it has only the front face's characteristics; if it is face down it has only the back face's characteristics. If you put a modal double-faced card onto the battlefield without casting it, it defaults to entering front face up.
+In any zone other than the battlefield and the stack, a modal double-faced card has only the characteristics of its front face. On the battlefield and the stack, if its front face is up it has only the front face's characteristics; if its back face is up it has only the back face's characteristics. If you put a modal double-faced card onto the battlefield without casting it, it defaults to entering front face up.
 
 Now for this set's major rules change. Previously, modal double-faced cards (MDFCs) could not transform; only transform double-faced cards (TDFCs) could. This rule is eliminated starting with this set! **<font color="#FF0000">Starting with this set, modal double-faced cards can also transform</font>**. However, only starting with this set do modal double-faced cards have transform abilities printed on them; modal double-faced cards from earlier sets still cannot transform on their own.
 

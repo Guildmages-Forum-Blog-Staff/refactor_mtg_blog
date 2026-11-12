@@ -1,6 +1,6 @@
 ---
 
-title: "Guildmage's Forum (魔風集會所) Second Anniversary Operations Address"
+title: "Guildmage's Forum Second Anniversary Operations Address"
 date: "2025-09-06 17:00:52"
 cover: "https://images.guildmagesforum.tw/posts/Second-Anniversary/3dc9c5aea660-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Second-Anniversary/3dc9c5aea660-cover.jpg"
@@ -33,7 +33,7 @@ I came to realize this deeply while taking part in a beginner tutorial event hos
 
 #### 2. It's an old refrain, but the lack of a Chinese version is an absolute obstacle to promotion
 
-Not every player who likes Magic: The Gathering can play matches with English cards fluently and without trouble. I have seen many players who love this game repeatedly looking up Chinese translations in Limited, and I have even seen a player who, to keep the play experience from being interrupted, made Chinese cards of their own and put them in the sleeves (that's right, behind **every single nonbasic land** in their league deck) so that repeated lookups wouldn't break their experience.
+Not every player who likes Magic: The Gathering can play matches with English cards fluently and without trouble. I have seen many players who love this game repeatedly looking up Chinese translations in Limited, and I have even seen a player who, to keep the play experience from being interrupted, made Chinese cards of their own and put them in the sleeves (that's right, for **every single card that isn't a basic land** in their league deck) so that repeated lookups wouldn't break their experience.
 
 In that moment, I saw that while this game is fun, the barrier to entry is quite high for some people.
 

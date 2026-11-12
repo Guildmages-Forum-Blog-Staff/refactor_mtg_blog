@@ -52,14 +52,14 @@ Comment: Basically a sweeper; it costs five, so it scores 0.5 lower than {% mtgp
 <!---58--->
 {% mtgpick "fdn" 58 %}
 Score: 4.5
-Comment: A 5/5 flying deathtouch with a lifelink-like effect is undeniably strong. The only flaw is that it has no way to protect itself. In addition, with {% mtgpick "fdn" 178 tooltip=true %} , having both on the battlefield and then activating either to gain life yourself or make your opponent lose life gives an infinite combo that wins the game outright. A very strong card.
+Comment: A 5/5 flying deathtouch with a lifelink-like effect is undeniably strong. The only flaw is that it has no way to protect itself. In addition, with {% mtgpick "fdn" 178 tooltip=true %} , having both on the battlefield and then gaining any life yourself or making your opponent lose any life to set it off gives an infinite combo that wins the game outright. A very strong card.
 
 > A two-card infinite combo showing up in Limited is truly perverse. Imagine an EDH toy appearing in your sealed or draft... too strong!
 
 <!---59--->
 {% mtgpick "fdn" 59 %}
 Score: 2.5
-Comment: A 4/4/3 menace, a fairly good body; even in a deck without threshold it is a decent curve creature, and with threshold it gets stronger.
+Comment: A 4/3/4 menace, a fairly good body; even in a deck without threshold it is a decent curve creature, and with threshold it gets stronger.
 
 <!---60--->
 {% mtgpick "fdn" 60 %}
@@ -115,7 +115,7 @@ Personally I lean toward giving it a score of around 3.0, because the awkward po
 
 Some team members rated this card 2.5 or below, for several main reasons: Limited is a battlefield of creature fights, and discarding cards from hand is not as useful as in constructed, and sometimes it just makes the opponent throw away a land or something useless at the moment, uh; also, the second effect has very limited impact on the board situation in the late game, so they lean toward not playing it in the deck.
 
-All in all, if you are good at using discard effects to control the tempo in your Limited style, this is a good card worth building around; conversely, if you are better at creature fights, or readers who find the timing of discard hard to grasp, can move this card's pick order back a bit.
+All in all, if you are good at using discard effects to control the tempo in your Limited style, this is a good card worth putting in your deck; conversely, if you are better at creature fights, or find the timing of discard hard to grasp, you can move this card's pick order back a bit.
 
 <!---70--->
 {% mtgpick "fdn" 70 %}
@@ -260,4 +260,4 @@ Comment: 4-mana graveyard digging is basically fine as long as you dig up a crea
 
 
 ## Conclusion
-Overall, the card strength of Foundations (FDN) is generally a bit higher this time, and most black creatures are not bad. At the same time, many small synergies that can be found within black alone give black more to look at in Limited. Taken together, compared with the generally weak black of the past several sets, this time black should be a color pair very much worth considering.
+Overall, the card strength of Foundations (FDN) is generally a bit higher this time, and most black creatures are not bad. At the same time, many small synergies that can be found within black alone give black more to look at in Limited. Taken together, compared with the generally weak black of the past several sets, this time black should be a color very much worth considering.

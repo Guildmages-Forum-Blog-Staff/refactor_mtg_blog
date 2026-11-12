@@ -131,7 +131,7 @@ Marvel Super Heroes (MSH) holds its Prerelease events on June 19, 2026, and rele
  
  {% mtgpick "MSH" 145 %}
  Score: 2.5
- Comment: With Plot, it can end up being discard one, draw two for two mana.
+ Comment: With connive, it can end up being discard one, draw two for two mana.
  
  
  {% mtgpick "MSH" 146 %}

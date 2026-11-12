@@ -97,7 +97,7 @@ Comments:
 
 - [Harnesser of Storms](https://scryfall.com/card/blb/137/harnesser-of-storms) has stats leaning more toward defense. Although its ability can earn cards, the exiled cards can only be used that turn, so they are easily wasted in the early to mid game when you lack mana.
 - [Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero) one-drops usually aren't very good in slower Limited formats, but may be good if the deck is specialized.
-- [Hearthborn Battler](https://scryfall.com/card/blb/139/hearthborn-battler) a 3-mana 2/3 haste is not too bad, but the ability may be hard to trigger.
+- [Hearthborn Battler](https://scryfall.com/card/blb/139/hearthborn-battler), a 3-mana 2/3 with haste, is not too bad, but the ability may be hard to trigger.
 
 |                                                  140                                                  |                                                  141                                                  |                                                  142                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -106,7 +106,7 @@ Comments:
 
 Comments:
 
-- [Hired Clawd](https://scryfall.com/card/blb/140/hired-claw) can meet the condition for its self-growing ability on its own, and can also serve other Lizard abilities. It's powerful on turn one, but a bit poor in the mid to late game.
+- [Hired Claw](https://scryfall.com/card/blb/140/hired-claw) can meet the condition for its self-growing ability on its own, and can also serve other Lizard abilities. It's powerful on turn one, but a bit poor in the mid to late game.
 - [Hoarder's Overflow](https://scryfall.com/card/blb/141/hoarders-overflow) can be saved for card advantage in the late game as long as you can Expend 4 once, but spending 2 mana early without gaining any benefit hurts tempo too much, so it's not recommended.
 - [Kindlespark Duo](https://scryfall.com/card/blb/142/kindlespark-duo) has mediocre stats and ability. The only chance of it making an appearance is in decks with an especially heavy Lizard theme.
 
@@ -163,7 +163,7 @@ Comments:
 
 - [Sunspine Lynx](https://scryfall.com/card/blb/155/sunspine-lynx) has powerful stats, and its can't-gain-life ability can lock down the Bats theme.
 - [Take Out the Trash](https://scryfall.com/card/blb/156/take-out-the-trash) is an excellent removal spell with a chance to loot. Nice.
-- [Teapot Slinger](https://scryfall.com/card/blb/157/teapot-slinger) a 3/4 with menace is average level, and the ability is in fact quite serviceable. The only worry is whether Expend can keep triggering in the late game.
+- [Teapot Slinger](https://scryfall.com/card/blb/157/teapot-slinger), a 3/4 with menace, is average level, and the ability is in fact quite serviceable. The only worry is whether Expend can keep triggering in the late game.
 
 |                                                  158                                                  |                                                  159                                                  |                                                  160                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -179,9 +179,9 @@ Comments:
 |                                                  161                                                  |                                                  162                                                  |                    ###                    |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------: |
 | ![161](https://cards.scryfall.io/large/front/d/a/da653996-9bd4-40bd-afb4-48c7e070a269.jpg?1721431429) | ![162](https://cards.scryfall.io/large/front/7/3/7392d397-9836-4df2-944d-c930c9566811.jpg?1721426754) | ![blank](https://images.guildmagesforum.tw/posts/BLB-Red/b4d9d9a7443b.webp) |
-|                                                  2.0                                                  |                                                  2.5                                                  |                    無                     |
+|                                                  2.0                                                  |                                                  2.5                                                  |                    —                     |
 
 Comments:
 
 - [Whiskerquill Scribe](https://scryfall.com/card/blb/161/whiskerquill-scribe) has standard stats, but the reward from its ability trigger is too low, and it feels like something you'd only consider for filling the curve.
-- [Wildfire Howl](https://scryfall.com/card/blb/162/wildfire-howl) dealing 2 to everything looks slightly meh, but it can hit one more creature with 3 toughness, and on the draw it can also punish decks that go wide with small creatures, and should have special effects in unusual situations.
+- [Wildfire Howl](https://scryfall.com/card/blb/162/wildfire-howl) dealing 2 to everything looks slightly meh, but it can hit one more creature with 3 toughness, and on the draw it can also punish decks that go wide with small creatures, so it could be surprisingly effective in the right situations.

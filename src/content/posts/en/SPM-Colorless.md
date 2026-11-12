@@ -165,7 +165,7 @@ Comment: This time the two-color lands are not just simple fixing; in the mid-to
 <!---182--->
 ![](https://images.guildmagesforum.tw/SPM/182.webp)
 Score: 3.0
-Comment: The return of the three-color land is genuinely fun, taking everyone back to New Capenna. This time the bonus ability on the three-color lands is no longer a cycle. This one, for example, lets you pay two life to put it onto the battlefield from the graveyard, which for builds that discard cards can count as a form of card advantage.
+Comment: The return of the three-color land is genuinely fun, taking everyone back to New Capenna. This time the bonus ability on the three-color lands is no longer cycling. This one, for example, lets you pay two life to play it from the graveyard, which for builds that discard cards can count as a form of card advantage.
 
 
 <!---187--->

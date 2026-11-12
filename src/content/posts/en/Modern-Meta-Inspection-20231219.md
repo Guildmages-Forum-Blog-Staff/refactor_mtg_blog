@@ -39,7 +39,7 @@ We can think of Tishana's Tidebinder as a three-mana creature version of [Stifle
 
 What makes it excellent is that it's a creature spell, so it dodges haters aimed at noncreature spells such as [Force of Negation](https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298) and [Deafening Silence](https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660).
 
-Although three mana looks heavy, that also means it can go into the Rhinos deck, and the Tron matchup becomes far more comfortable. Now even the cast triggers of the Eldrazi can be countered ([Ulamog, the Ceaseless Hunger](https://cards.scryfall.io/large/front/c/7/c74ae706-b3b3-4097-a387-6f6c38a9b603.jpg?1689995438): First of all, I haven't done anything to any of you... (five thousand words omitted)). Tidebinder is almost a universal answer to Tron: it can deal with the Ring, with Karn, and with the three abilities of [Urza's Saga](https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301) (whether you want to tax the opponent's costs, make a Construct, or fetch an artifact). This indirectly forces Tron players to think about more dimensions of possibility when facing blue decks.
+Although three mana looks heavy, that also means it can go into the Rhinos deck, and the Tron matchup becomes far more comfortable. Now even the cast triggers of the Eldrazi can be countered ([Ulamog, the Ceaseless Hunger](https://cards.scryfall.io/large/front/c/7/c74ae706-b3b3-4097-a387-6f6c38a9b603.jpg?1689995438): First of all, I haven't done anything to any of you... (five thousand words omitted)). Tidebinder is almost a universal answer to Tron: it can deal with the Ring, with Karn, and with the three abilities of [Urza's Saga](https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301) (whether you want to deny the opponent's mana, stop a Construct, or stop an artifact search). This indirectly forces Tron players to think about more dimensions of possibility when facing blue decks.
 
 Finally, its creature types are right (Merfolk Wizard), which are the strongest tribes in Modern right now, and it works with the new LTR card [Flame of Anor](https://cards.scryfall.io/large/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766).
 
@@ -155,7 +155,7 @@ LCI has a new removal spell, Bitter Triumph. Its cost of three life is very heav
 ### Scam
 
 ...Uh, why is it still in the meta?
-Personally I think that after Fury got banned, this deck still has a certain amount of strength, it's just not as strong at removal as before; without Fury, Scam dealing eight points of damage divided as you like is quite a different thing. I think that without Fury this deck is a late-Tier 1 to early-Tier 2 deck. The Fury slot can be swapped for more kill spells, plus a few additional ones; also, since the chance of a turn-one scam has dropped, you could consider cutting a few Feign Death, or just go back to playing straight Rakdos midrange without mixing in Scam.
+Personally I think that after Fury got banned, this deck still has a certain amount of strength, it's just not as strong at removal as before; losing a scammed Fury dealing eight damage divided as you like makes quite a difference. I think that without Fury this deck is a late-Tier 1 to early-Tier 2 deck. The Fury slot can be swapped for more kill spells, plus a few additional ones; also, since the chance of a turn-one scam has dropped, you could consider cutting a few Feign Death, or just go back to playing straight Rakdos midrange without mixing in Scam.
 Recently I'd also like to try building the Rakdos midrange version from when MH2 first came out. Although without [Lurrus of the Dream-Den](https://cards.scryfall.io/large/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1682228556) its late-game resources might not keep up, with [Fable of the Mirror-Breaker // Reflection of Kiki-Jiki](https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103) it might improve, who knows.
 
 > Edit 12/19
@@ -173,7 +173,7 @@ The downside is losing room for four [Preordain](https://cards.scryfall.io/large
 
 Actually, this article was originally supposed to be about Tishana's Tidebinder, but halfway through writing I found that another writer who was working on a Modern Merfolk deck had already covered nearly everything there was to write, so it became about LCI's impact on the metagame.
 Then suddenly news came that the Dec 4 BnR would touch Pioneer and Modern, and I figured some cards might disappear, so I decided to continue after the BnR came out.
-In the end I wrote nothing at all and just happily quit (shrug.
+In the end I wrote nothing at all and just happily abandoned it (shrug.
 But it had been a long time since I wrote a metagame review, and although MITQ #5 is mostly over, I figured we could still look at recent metagame performance, and that's how this article came to be.
 
 The next Modern list update should be after the New Year. Right now I'm focusing on Mono-Black Coffers, Grixis Control and Murktide, though it's also possible that in the end I'll be too tired to think and just take Burn out the door.

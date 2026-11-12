@@ -117,7 +117,7 @@ Also, a permanent can activate only one loyalty ability per turn. That's the rul
 
 ![4](https://images.guildmagesforum.tw/posts/Agathas-Soul-Cauldron-FAQ/6c674af3a13c.webp)
 > **● [Dress Down](https://scryfall.com/card/mh2/39/dress-down):**
-> Creatures have no abilities.
+> Creatures lose all abilities.
 
 The Cauldron gives creatures abilities, while Dress Down makes creatures lose all abilities. When both are on the battlefield, can your creatures gain the abilities given by the Cauldron?
 

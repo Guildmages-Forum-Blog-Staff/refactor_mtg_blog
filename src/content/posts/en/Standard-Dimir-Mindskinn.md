@@ -54,7 +54,7 @@ Since this is a mill deck, [Jace, the Perfected Mind](https://scryfall.com/card/
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Mindskinn/d578e455f079.webp)
 
-Finally we add one five-mana black Praetor, [Sheoldred, the True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures). On entering she can remove one of the opponent's nontoken creatures or planeswalkers, helping us survive, and her transform condition is very easy to meet in a mill deck. The transformed [The True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back) is quite powerful, with removal, discard, mill, and digging for the whole team, so it would be a pity not to play it.
+Finally we add one five-mana black Praetor, [Sheoldred, the True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures). On entering she can remove one of the opponent's nontoken creatures or planeswalkers, helping us survive, and her transform condition is very easy to meet in a mill deck. The transformed [The True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back) is quite powerful, with removal, discard, mill, and reanimating every creature in the graveyards, so it would be a pity not to play it.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Mindskinn/c3b7964f343b.webp)
 
@@ -69,7 +69,7 @@ For utility lands, as usual I put in [Valgavoth's Lair](https://scryfall.com/car
 
 The two games this time are a short game against aggro and a long game against Domain. Simply put, the deck's strategy is to attack the opponent's library on four fronts with [Scrabbling Skullcrab](https://scryfall.com/card/dsk/71/scrabbling-skullcrab), [The Mindskinner](https://scryfall.com/card/dsk/66/the-mindskinner), [Jace, the Perfected Mind](https://scryfall.com/card/one/57/jace-the-perfected-mind), and [Restless Reef](https://scryfall.com/card/lci/282/restless-reef), while the other spells actively drain the opponent's resources like a control deck, so that we and our key cards survive and keep dealing output. Basically only [The Mindskinner](https://scryfall.com/card/dsk/66/the-mindskinner) and [Restless Reef](https://scryfall.com/card/lci/282/restless-reef) are used to attack, so there's no need to worry about its static ability hindering other creatures. In long games, we use [Intimidation Campaign](https://scryfall.com/card/otj/208/intimidation-campaign) to farm resources repeatedly and grind the opponent out step by step with the resource advantage.
 
->Note: The [Nashi, Searcher in the Dark](https://scryfall.com/card/dsk/223/nashi-searcher-in-the-dark) drawn in the Domain game is the later [Fear of Isolation](https://scryfall.com/card/dsk/58/fear-of-isolation). When it was time to re-record, I happened to hit the MTGA ladder reset and kept running into aggro, so I couldn't record a long game, hence I used the pre-modification version as the example.
+>Note: The [Nashi, Searcher in the Dark](https://scryfall.com/card/dsk/223/nashi-searcher-in-the-dark) drawn in the Domain game was later replaced by [Fear of Isolation](https://scryfall.com/card/dsk/58/fear-of-isolation). When it was time to re-record, I happened to hit the MTGA ladder reset and kept running into aggro, so I couldn't record a long game, hence I used the pre-modification version as the example.
 
 ## Conclusion
 

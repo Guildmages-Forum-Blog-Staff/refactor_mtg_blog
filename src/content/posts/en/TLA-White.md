@@ -35,7 +35,7 @@ Avatar: The Last Airbender holds its prerelease events on November 14, 2025. Wan
 <!---4--->
 {% mtgpick "tla" 4 %}
 Score: 3.0
-Comment: A four-mana flyer with 3 power has a decent offensive tempo, and many of this set's Lessons have value in Limited as something you can bring in from the sideboard, so this lifelinker has plenty of chances to be used. Its airbend targets nonland permanents, which leaves a lot of room for use.
+Comment: A four-mana flyer with 3 power has a decent offensive tempo, and many of this set's Lessons are good enough to make the main deck in Limited, so this lifelinker has plenty of chances to be used. Its airbend targets nonland permanents, which leaves a lot of room for use.
 
 
 <!---5--->
@@ -59,7 +59,7 @@ Comment: [Immolating Glare](https://scryfall.com/card/ogw/20/immolating-glare) i
 <!---8--->
 {% mtgpick "tla" 8 %}
 Score: 2.5
-Comment: Although drawing a card gives it a higher floor, it is still a card that depends on the situation. Used as a [Cloudshift](https://scryfall.com/card/tle/152/cloudshift) or protection spell, it more easily generates card advantage. It can also serve as a chump wall on defense, and as long as the opponent's target has no troublesome ETB, you can proactively bounce the opponent's creature to disrupt their tempo.
+Comment: Although drawing a card gives it a higher floor, it is still a card that depends on the situation. Used as a [Cloudshift](https://scryfall.com/card/tle/152/cloudshift) or protection spell, it more easily generates card advantage. It can also serve as an "air wall" on defense, and as long as the opponent's target has no troublesome ETB, you can proactively bounce the opponent's creature to disrupt their tempo.
 
 
 <!---9--->
@@ -212,13 +212,13 @@ Comment: The creature's own strength is slightly awkward, sitting right on the b
 <!---33--->
 {% mtgpick "tla" 33 %}
 Score: 3.0
-Comment: Dealing 4 for two mana is usually already efficient enough in reach, and this card even has a chance to gain life.
+Comment: Dealing 4 damage for two mana is usually already efficient enough, and this card even has a chance to gain life.
 
 
 <!---34--->
 {% mtgpick "tla" 34 %}
 Score: 3.0
-Comment: The reach of [Smite the Monstrous](https://scryfall.com/card/znr/42/smite-the-monstrous) is a bit unstable, but with the added option to proactively earthbend 3 to make a creature, the flexibility of covering both offense and defense is very appealing.
+Comment: The range of [Smite the Monstrous](https://scryfall.com/card/znr/42/smite-the-monstrous) is a bit unstable, but with the added option to proactively earthbend 3 to make a creature, the flexibility of covering both offense and defense is very appealing.
 
 
 <!---35--->
@@ -260,7 +260,7 @@ Comment: The effect of tapping down the opponent when attacking means the offens
 <!---41--->
 {% mtgpick "tla" 41 %}
 Score: 2.5
-Comment: Basically a filler, and when mixed with red, having firebend gives it a better chance of turning on its activated ability.
+Comment: Basically a filler, and when mixed with red, having firebending gives it a better chance of turning on its activated ability.
 
 
 <!---42--->

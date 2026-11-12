@@ -45,7 +45,7 @@ Comment: A 4/4 trample reach for five mana is not that great in a two-color set;
 <!---3--->
 {% mtgpick "SOS" 3 %}
 Score: 2.5
-Comment: Entering for six mana, it can exile a nonland permanent with mana value of at least two by default, which is pretty good. Its activated ability also ties into the graveyard, so it's even more worth playing in red-white.
+Comment: Entering for six mana, it can exile a nonland permanent with mana value of at least two by default, which is pretty good. Its activated ability also ties into cards leaving the graveyard, so it's even more worth playing in red-white.
 
 
 <!---4--->
@@ -81,7 +81,7 @@ Comment: The earlier you draw this creature, the better. In a two-color set you 
 <!---250--->
 {% mtgpick "SOS" 250 %}
 Score: 2.5
-Comment: I think two copies in a deck is about right. The first one is just a mana rock, and drawing the second one frees up an instant-speed sorcery swap, which also makes it a steady source of spells in hand.
+Comment: I think two copies in a deck is about right. The first one is just a mana rock, and when you draw the second one it trades itself for an instant or sorcery for free, which also makes it a steady source of spells in hand.
 
 
 <!---251--->
@@ -138,7 +138,7 @@ Comment: Draw a card whenever you cast an instant or sorcery. The strength is be
 <!---151--->
 {% mtgpick "spg" 151 %}
 Score: 3.5
-Comment: Precisely because of this environment, its score goes up even more. What it makes are flying soldiers, and if you leave it alone you could get your head beaten in by a flock of birds.
+Comment: Precisely because of this environment, its score goes up even more. What it makes are fliers, and if you leave it alone you could get your head beaten in by a flock of birds.
 
 <!---152--->
 {% mtgpick "spg" 152 %}
@@ -168,7 +168,7 @@ Comment: It's a hard-to-remove creature on its own and delivers enough value. No
 <!---157--->
 {% mtgpick "spg" 157 %}
 Score: 0.5
-Comment: A classic Commander troll, but the condition of only being able to cast noncreature spells is too harsh for Limited deckbuilding. Only for dreamers.
+Comment: A classic Commander troll, but the condition of only being able to cast nonpermanent spells is too harsh for Limited deckbuilding. Only for dreamers.
 
 <!---158--->
 {% mtgpick "spg" 158 %}
@@ -180,7 +180,7 @@ Comment: This set does have decent card draw, but it's probably not worth playin
 Score: 1.5
 Comment: Like the sage above, its card-draw ability is very hard to use and it's a colorless land the vast majority of the time, so I don't recommend putting it in your deck.
 
-> This card will be released on MTGA as a replacement for [Library of Leng](https://scryfall.com/card/spg/158/library-of-leng). It's supposedly on the banned list, but it was never actually printed, so there's no problem.
+> This card will be released on MTGA as a replacement for [Library of Leng](https://scryfall.com/card/spg/158/library-of-leng). It's on the Reserved List, but this isn't actually a reprint of it, so there's no problem.
 
 
 ## Conclusion

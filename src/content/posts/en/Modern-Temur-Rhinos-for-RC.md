@@ -15,7 +15,7 @@ authors:
 
 ## Introduction
 
-Hi everyone, I'm 施兆恩, aka [荒野騎士](https://www.facebook.com/DreamOnStudio1560). I played "Temur Rhinos" at the Season 5 U.S. RC, went 11-3, finished 28th, and qualified for the Seattle PT.
+Hi everyone, I'm Clark Shih (施兆恩), aka [荒野騎士](https://www.facebook.com/DreamOnStudio1560). I played "Temur Rhinos" at the Season 5 U.S. RC, went 11-3, finished 28th, and qualified for the Seattle PT.
 
 In this article I'll try to give players who are interested in playing Temur Rhinos at this RC a comprehensive guide. Whether you are new to the deck or have been playing it for a long time, I hope to help you find the build and strategy that suit you best.
 
@@ -101,7 +101,7 @@ The other options are also reasonable. If you think Amulet Titan won't be as pop
 
 [Shocklands](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/d3ee007c0385.webp), 1 each: This basically needs no explanation.
 
-[Red-green](https://scryfall.com/card/mh3/236/wooded-foothills) and [blue-green](https://scryfall.com/card/mh2/250/misty-rainforest) fetchlands, 4 each: Because we already have [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed), I want to prioritize fetching the green-producing basic Forest. The only thing to note is that if you have a red-green fetchland early, use it first, so that when you need a basic Island or basic Forest in the mid game, the blue-green fetchland in hand is more flexible.
+[Red-green](https://scryfall.com/card/mh3/236/wooded-foothills) and [blue-green](https://scryfall.com/card/mh2/250/misty-rainforest) fetchlands, 4 each: Because we already have [Lórien Revealed](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed), I prefer the fetchlands that can find green, so they can fetch a basic Forest. The only thing to note is that if you have a red-green fetchland early, use it first, so that when you need a basic Island or basic Forest in the mid game, the blue-green fetchland in hand is more flexible.
 
 [Red-blue](https://scryfall.com/card/mkm/269/thundering-falls) and [blue-green](https://scryfall.com/card/mkm/262/hedge-maze) surveil lands, 1 each: Surveil lands are absolutely worth playing. Temur Rhinos' mana isn't tight in the first two turns, and it has the hard requirement of "must have 3 lands", so the extra information from an early surveil gives you much more flexibility in how you mulligan and sequence the opening hand. I play 1 red-blue and 1 blue-green, replacing the original basic Mountain and [Ketria Triome](https://scryfall.com/card/iko/250/ketria-triome).
 
@@ -109,7 +109,7 @@ The other options are also reasonable. If you think Amulet Titan won't be as pop
 
 [Gemstone Caverns](https://scryfall.com/card/tsr/280/gemstone-caverns), 1: This one is a miracle maker; turning the draw into the play is truly crucial in the mirror and against Murktide. The reason I don't play more than 1 is that I want to "stay stable": I already play two [Mutavault](https://scryfall.com/card/clb/903/mutavault), and there is simply no room for more colorless lands in this three-color deck. That said, if you want to play more aggressively, cutting 1 [Mutavault](https://scryfall.com/card/clb/903/mutavault) for 2 [Gemstone Caverns](https://scryfall.com/card/tsr/280/gemstone-caverns) is also fine.
 
-[Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures), 1: An artifact/enchantment answer, good against Affinity, Amulet Titan and Hammer. In the main deck I only want 1, because I don't want to be bothered by the legend rule; in sideboard games I'd want more if the opponent has [Chalice of the Void](https://scryfall.com/card/a25/222/chalice-of-the-void) or an artifact/enchantment-heavy deck.
+[Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures), 1: An artifact/enchantment answer, good against Indomitable Creativity, Amulet Titan and Hammer. In the main deck I only want 1, because I don't want to be bothered by the legend rule; in sideboard games I'd want more if the opponent has [Chalice of the Void](https://scryfall.com/card/a25/222/chalice-of-the-void) or an artifact/enchantment-heavy deck.
 
 [Otawara, Soaring City](https://scryfall.com/card/neo/271/otawara-soaring-city), 1: Much like [Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures); in most situations it is worse than [Boseiju](https://scryfall.com/card/neo/266/boseiju-who-endures), but it is better than [Boseiju](https://scryfall.com/card/neo/266/boseiju-who-endures) in that it can deal with planeswalkers and creatures.
 
@@ -119,7 +119,7 @@ Basic lands: I play 2 Islands and 1 Forest. I originally had 1 Mountain, but bur
 
 As with the main deck, sideboard choices mainly depend on which matchups you want to focus on. Below are my sideboard choices and the reasons.
 
-[Ertai's Scorn](https://scryfall.com/card/dmu/48/ertais-scorn), 1: This is our only answer when on the draw to the opponent's turn-three Cascade (this is really very important), and it is also an excellent Counterspell in midrange and control matchups.
+[Ertai's Scorn](https://scryfall.com/card/dmu/48/ertais-scorn), 1: This is our only answer when on the draw to the opponent's turn-three Cascade (this is really very important), and it is also an excellent hard counter in midrange and control matchups.
 
 [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute), 2: I wanted some cheap counters to fight the mirror, Izzet Murktide and Living End. I considered a 3rd, but couldn't find the room, and the card is after all rather passive; in the topdeck phase I want to draw cards that create value.
 
@@ -168,7 +168,7 @@ Finally, make sure you understand all the ways the opponent can go "infinite," a
 
 ![Rakdos Evoke](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/f4946f2f9605.webp)
 
-A matchup where we have the advantage, and generally our topdecks are better. The simplest way to beat [Grief](https://scryfall.com/card/mh2/87/grief) + reanimation (single cards like [Not Dead After All](https://scryfall.com/card/woe/101/not-dead-after-all) / [Undying Evil](https://scryfall.com/card/dka/77/undying-evil)) is a 1-for-Rhino. Although we are forced to discard two cards, it doesn't matter, since our deck has 8 Cascade cards and we'll always draw into them. If they don't have a turn-1 [Grief](https://scryfall.com/card/mh2/87/grief) + reanimation, then they are just an ordinary midrange deck.
+A matchup where we have the advantage, and generally our topdecks are better. The simplest way to beat [Grief](https://scryfall.com/card/mh2/87/grief) + reanimation (single cards like [Not Dead After All](https://scryfall.com/card/woe/101/not-dead-after-all) / [Undying Evil](https://scryfall.com/card/dka/77/undying-evil)) is a pair of Rhinos. Although we are forced to discard two cards, it doesn't matter, since our deck has 8 Cascade cards and we'll always draw into them. If they don't have a turn-1 [Grief](https://scryfall.com/card/mh2/87/grief) + reanimation, then they are just an ordinary midrange deck.
 
 Besides that, you also need to consider whether to give your only removal spell in hand to [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer) or [Dauthi Voidwalker](https://scryfall.com/card/mh2/81/dauthi-voidwalker). I think a turn-1 [Ragavan](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer) is indeed annoying, but it can't actually get many useful cards from us, so I'd rather save the removal for [Dauthi Voidwalker](https://scryfall.com/card/mh2/81/dauthi-voidwalker), to keep it from stealing our [Crashing Footfalls](https://scryfall.com/card/mh1/160/crashing-footfalls) to use, and just block [Ragavan](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer) with a Rhino.
 
@@ -230,7 +230,7 @@ A matchup very similar to Scales Affinity. Although the opponent's creatures don
 
 ![5-Color Zoo](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-for-RC/d61450372036.webp)
 
-We really have no answer to an opening [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact). In the main deck only [Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures) can remove [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact); in the sideboard [Force of Vigor](https://scryfall.com/card/mh1/164/force-of-vigor) can answer it, but our deck will have more dead cards. If they don't open with [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact), the matchup is somewhat better, because we can use [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) to counter the trigger of the opponent's [Territorial Kavu](https://scryfall.com/card/mh2/216/territorial-kavu), making [Territorial Kavu](https://scryfall.com/card/mh2/216/territorial-kavu) lose its abilities and sacrifice itself.
+We really have no answer to an opening [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact). In the main deck only [Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures) can remove [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact); in the sideboard [Force of Vigor](https://scryfall.com/card/mh1/164/force-of-vigor) can answer it, but our deck will have more dead cards. If they don't open with [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact), the matchup is somewhat better, because we can use [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) to counter the trigger of the opponent's [Territorial Kavu](https://scryfall.com/card/mh2/216/territorial-kavu), making [Territorial Kavu](https://scryfall.com/card/mh2/216/territorial-kavu) lose its abilities and die.
 
 All we can really do is pray they don't open with [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact); if they really don't, the matchup becomes much easier.
 
@@ -372,7 +372,7 @@ Because of [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-
 
 ### Do You Recommend 5-Color Rhinos?
 
-No. I find 5-Color Rhinos very unstable; even with [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact) you don't necessarily win, and you must pair it with [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco) for the deck's domination to show. Also, 5-Color Rhinos is at a bigger disadvantage against control decks, and recently some players have gone back to the embrace of Affinity, using [All Is Dust](https://scryfall.com/card/cmm/800/all-is-dust) or [Sundering Titan](https://scryfall.com/card/2xm/292/sundering-titan) to punish [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact). Finally, as everyone has prepared for this deck, the advantage it can bring is getting smaller and smaller.
+No. I find 5-Color Rhinos very unstable; even with [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact) you don't necessarily win, and you must pair it with [Scion of Draco](https://scryfall.com/card/mh2/234/scion-of-draco) for the deck's domination to show. Also, 5-Color Rhinos is at a bigger disadvantage against control decks, and recently some players have gone back to the embrace of Indomitable Creativity, using [All Is Dust](https://scryfall.com/card/cmm/800/all-is-dust) or [Sundering Titan](https://scryfall.com/card/2xm/292/sundering-titan) to punish [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact). Finally, as everyone has prepared for this deck, the advantage it can bring is getting smaller and smaller.
 
 ### Which Color Should I Fetch For First?
 

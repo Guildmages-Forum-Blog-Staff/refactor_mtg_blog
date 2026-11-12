@@ -16,9 +16,9 @@ excerpt: "On Monday, September 30th, a whisper went around the card shops of Tai
 
 ## Introduction
 
-Hello readers, I'm Zhan, a casual Commander and Modern player from Taipei, and I'm glad to have the chance to share a deck's thinking with you.
+Hello readers, I'm ZHAN, a casual Commander and Modern player from Taipei, and I'm glad to have the chance to share a deck's thinking with you.
 Last week Magic Star held its 10th Anniversary Modern event, and the champion's prize was a gorgeous neon foil [Cavern of Souls](https://scryfall.com/card/lci/410b/cavern-of-souls). Attracted by the grand prize, I entered too.
-Before this event, I played two MIT Round 8 qualifiers, both with Izzet Murktide. Izzet Murktide has been a strong deck since MH2 came out. After Lord of the Rings and MH3, although it received a few boosts large and small, its presence in the field has been dwindling (see [Mtggoldfish](https://www.mtggoldfish.com/metagame/modern#paper)). While preparing for this event, in an article sent to me by my friend [faintmama](/en/authors/faintmama/), one deck deeply caught my attention: today's star, **Izzet Lutri Companion**. As a casual Commander player, how could I not try such a cool build? So I chose Izzet Lutri Companion for this event.
+Before this event, I played two MIT#8 qualifiers, both with Izzet Murktide. Izzet Murktide has been a strong deck since MH2 came out. After Lord of the Rings and MH3, although it received a few boosts large and small, its presence in the field has been dwindling (see [Mtggoldfish](https://www.mtggoldfish.com/metagame/modern#paper)). While preparing for this event, in an article sent to me by my friend [faintmama](/en/authors/faintmama/), one deck deeply caught my attention: today's star, **Izzet Lutri Companion**. As a casual Commander player, how could I not try such a cool build? So I chose Izzet Lutri Companion for this event.
  
 ## Build
 	

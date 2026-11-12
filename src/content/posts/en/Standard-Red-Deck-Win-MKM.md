@@ -37,7 +37,7 @@ The downside is 1 toughness: the opponent can easily trade any random 1/1 creatu
 
 ![](https://cards.scryfall.io/large/front/0/f/0fa5671b-2651-4944-a50a-c768ec70229e.jpg?1706241909)
 
-A rare two-mana creature in red with a 3/2 body. Paired with [Kumano Faces Kakkazan](https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano) on turn 1 it becomes a 4/3. The downside is that it has no haste and is easily removed by single-target removal. Its unmorph ability deals at least three damage, so in practice it feels a lot like a Lightning Strike and easily makes the opponent misjudge your lethal range. If two of them are on the battlefield and you unmorph both, the total damage reaches as high as 9. Some people say that four mana total to deal three damage is poor value, but if you break it apart, it's just one Lightning Strike that can only hit the face; it doesn't have haste, so paying one more mana to cast it face down is actually a bit safer.
+A rare two-mana creature in red with a 3/2 body. Paired with [Kumano Faces Kakkazan](https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano) on turn 1 it becomes a 4/3. The downside is that it has no haste and is easily removed by single-target removal. Its turn-face-up ability deals at least three damage, so in practice it feels a lot like a Lightning Strike and easily makes the opponent misjudge your lethal range. If two of them are on the battlefield and you turn both face up, the total damage reaches as high as 9. Some people say that four mana total to deal three damage is poor value, but if you break it apart, it's just one Lightning Strike that can only hit the face; it doesn't have haste, so paying one more mana to cast it face down is actually a bit safer.
 
 ![](https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089)
 
@@ -64,11 +64,11 @@ More one-mana deal-2 spells trigger prowess multiple times, giving more explosiv
 Here's a meme image I made myself to go with this:
 ![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/71fa87679fab.webp)
 
-[Charming Scoundrel](https://scryfall.com/card/woe/124/charming-scoundrel) is a strong choose-one-of-three card, but its weakness is too obvious. Usually, unless you're particularly short on lands or your hand isn't too bad, you'd put the Rogue skin on it, but the opponent responds at instant speed and removes it, and you gain nothing. If you choose the other two modes instead, it's just a 1/1 creature with little threat. And when used for discard-and-draw, it doesn't draw as much as a flipped [Fugitive Codebreaker](https://scryfall.com/card/mkm/127/fugitive-codebreaker).
+[Charming Scoundrel](https://scryfall.com/card/woe/124/charming-scoundrel) is a strong choose-one-of-three card, but its weakness is too obvious. Usually, when you aren't stuck on lands and your hand isn't too bad, you'd attach the Wicked Role, but if the opponent responds at instant speed and removes it, you gain nothing. If you choose the other two modes instead, it's just a 1/1 creature with little threat. And when used for discard-and-draw, it doesn't draw as much as a flipped [Fugitive Codebreaker](https://scryfall.com/card/mkm/127/fugitive-codebreaker).
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Red-Deck-Win-MKM/f9a004026db8.webp)
 
-I replaced [Invasion of Regatha](https://scryfall.com/card/mom/148/invasion-of-regatha-disciples-of-the-inferno) with [Pyrotechnic Performer](https://scryfall.com/card/mkm/140/pyrotechnic-performer). Pyrotechnic Performer is both a creature and a card that can burn the face directly, so its flexibility is much better, and the extra deal-1 on creatures of the other card hits fewer and fewer things.
+I replaced [Invasion of Regatha](https://scryfall.com/card/mom/148/invasion-of-regatha-disciples-of-the-inferno) with [Pyrotechnic Performer](https://scryfall.com/card/mkm/140/pyrotechnic-performer). Pyrotechnic Performer is both a creature and a card that can burn the face directly, so its flexibility is much better, while Invasion's extra 1 damage to a creature hits fewer and fewer things these days.
 
 ## 2024 3/9 Standard Prize Side Event Report
 
@@ -104,7 +104,7 @@ Swiss record 3 wins, 1 loss, 1 intentional draw, second place.
 - Game 1, on the play, the opponent played [Phoenix Chick](https://scryfall.com/card/dmu/140/phoenix-chick) on turn 1 so there wasn't much pressure, and I happened to be able to remove their important creature and won directly.
 - Game 2, on the draw, the opponent had [Kumano Faces Kakkazan](https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano) on turn 1, [Monastery Swiftspear](https://scryfall.com/card/bro/144/monastery-swiftspear) on turn 2, and [Squee, Dubious Monarch](https://scryfall.com/card/dmu/146/squee-dubious-monarch) on turn 3. I happened to have two Shocks + [Lightning Strike](https://scryfall.com/card/dmu/137/lightning-strike) in my opening hand, and the two Shocks directly dealt with Squee +
   the creature Kumano flipped into. (Luckily the opponent didn't have [Goddric, Cloaked Reveler](https://scryfall.com/card/woe/132/goddric-cloaked-reveler), or I might have lost this game.)
-  In the mid to late game I used [Fugitive Codebreaker](https://scryfall.com/card/mkm/127/fugitive-codebreaker)'s unmorph ability to refill my hand and won on the resource gap.
+  In the mid to late game I used [Fugitive Codebreaker](https://scryfall.com/card/mkm/127/fugitive-codebreaker)'s turn-face-up ability to refill my hand and won on the resource gap.
 
 ### Top 4: 0-2 vs. Domain
 

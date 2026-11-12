@@ -60,11 +60,11 @@ On Sunday I practiced with friends, converting the Dimir midrange base into the 
 > I later realized this version is very close to the [MIT#11 main-event Top 8 list by 曾宥均](https://melee.gg/Decklist/View/5c0adda1-5277-434d-9993-b40501722142), but I think I thought a few more steps ahead, ~~otherwise this article should have been written by him XD~~
 > By the way, we truly never discussed it; it's the kind of coincidence between veteran Dimir midrange players XD
 
-On Wednesday, while practicing at [Game Square](https://www.facebook.com/GameSquareTCG), I deeply felt that 25 lands wasn't suitable: flooding out twice in a row as a tempo-control deck lost me the matches, so I quickly took out {% mtglink "Fountainport" %}. I originally thought, "there are more tokens now, so Fountainport should be great, right?" But the penalty from flooding was completely unacceptable. In testing I also felt that running only 7 one-drop creatures is reasonable for ninjutsu Kaito on turn three, but still too few if you want to Sneak on time on turn two, so I started increasing the proportion of one-drops.
+On Wednesday, while practicing at [Game Square](https://www.facebook.com/GameSquareTCG), I deeply felt that 25 lands wasn't suitable: flooding out in two straight games against control cost me the match, so I quickly took out {% mtglink "Fountainport" %}. I originally thought, "there are more tokens now, so Fountainport should be great, right?" But the penalty from flooding was completely unacceptable. In testing I also felt that running only 7 one-drop creatures is reasonable for ninjutsu Kaito on turn three, but still too few if you want to Sneak on time on turn two, so I started increasing the proportion of one-drops.
 
 ### MIT#11 Main Event Day
 
-For the tournament report you can just read [this post](https://www.facebook.com/share/p/1NPL27XcSt/) on my fan page, so I won't go into detail. In short, I lost to 2 Mono-White Momo, 1 hard-counter Mono-Red; drew with 1 five-color Elementals and 1 Mono-White Momo, and had a dismal day.
+For the tournament report you can just read [this post](https://www.facebook.com/share/p/1NPL27XcSt/) on my fan page, so I won't go into detail. In short, I lost to 2 Mono-White Momo and 1 Mono-Red, a matchup that hard-counters us; drew with 1 five-color Elementals and 1 Mono-White Momo, and had a dismal day.
 
 ## Deck Introduction
 
@@ -228,7 +228,7 @@ Sygg's slot is a flex slot, a so-called Pet Card. But let me still say what Sygg
 
 {% mtgcard "Requiting Hex" %}
 
-Hex, as extremely reliable one-mana removal, can stop the starting points of all kinds of decks before turn two. Such as Mono-White Momo's {% mtglink "Momo, Friendly Flier" %}, nearly all of the creatures in the standard Izzet Prowess builds, Simic Rhythm's {% mtglink "Badgermole Cub" %}, or {% mtglink "Llanowar Elves" %} that green-based decks use for a one-turn kill. Don't forget, in response to your creature about to be removed, Blight 1 kills the opponent's small creature to gain 2 life, which is extremely important in a three-color deck.
+Hex, as extremely reliable one-mana removal, can stop the starting points of all kinds of decks before turn two. Such as Mono-White Momo's {% mtglink "Momo, Friendly Flier" %}, nearly all of the creatures in the standard Izzet Prowess builds, Simic Rhythm's {% mtglink "Badgermole Cub" %}, or the {% mtglink "Llanowar Elves" %} in green-based decks that must die on turn one. Don't forget, in response to your creature about to be removed, Blight 1 kills the opponent's small creature to gain 2 life, which is extremely important in a three-color deck.
 
 {% mtgcard "Shoot the Sheriff" %}
 
@@ -249,7 +249,7 @@ For this conditional counterspell slot, everyone's choice differs. Previously mo
 - Countering triggered abilities that could be lethal if not countered, such as {% mtglink "Cosmogrand Zenith" %}'s making two 1/1s or putting counters on the whole team in Mono-White tempo; and {% mtglink "Sunspine Lynx" %}'s effect of dealing damage based on how many nonbasic lands you control.
 - Various Elementals' ETBs, or {% mtglink "Doomsday Excruciator" %}'s effect of exiling your library down to six cards.
 
-In short, the purpose of Spider-Sense isn't to reliably counter a particular spell, but to avoid situations where, in the main game when I'm ahead on board, a triggered ability or sweeper spell flips the game. Although this card is extremely weak against an empty board, the ninja build itself is meant to keep snowballing board advantage and convert it into a winning position, and under that premise I chose Spider-Sense.
+In short, the purpose of Spider-Sense isn't to reliably counter a particular spell, but to avoid situations where, in game one when I'm ahead on board, a triggered ability or sweeper spell flips the game. Although this card is extremely weak against an empty board, the ninja build itself is meant to keep snowballing board advantage and convert it into a winning position, and under that premise I chose Spider-Sense.
 
 #### Small Tip: Interactions Between Sneak, Ninjutsu, and Web-slinging
 
@@ -349,9 +349,9 @@ Oh right, I seem not to have mentioned a sideboard plan for Dimir midrange at al
 
 With hindsight, **the version of Esper Ninjas I played may have been a version that appeared a week too early. With the champion being Dimir Excruciator and the runner-up being the newly rising Mono-White Momo this week, Esper Ninjas running into all sorts of Mono-White Momo is quite hard to play against. But if next week or later the meta shifts toward Dimir Excruciator or other midrange-focused decks, it will land right in the sweet spot of this version of Esper Ninjas.** Of course, it still has many areas to improve, but the core and framework of this version are worth continuing to refine. The unsatisfying result comes from my insufficient understanding of the meta and my lack of proficiency with Mono-White Momo, not from the deck itself.
 
-![陳盈孝_MIT#11 match record](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/aec93ee32563.webp)
+![cephille_MIT#11 match record](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/aec93ee32563.webp)
 
-Looking back at the main event results, on my side I lost to 2 Mono-White Momo and drew with one Mono-White. I also lost to a hard-counter Mono-Red aggro; how exactly is a three-color base supposed to play against Mono-Red, with {% mtglink "Sunspine Lynx" %} + {% mtglink "Zhao, the Moon Slayer" %} QQ
+Looking back at the main event results, on my side I lost to 2 Mono-White Momo and drew with one Mono-White. I also lost to a Mono-Red aggro deck that hard-counters us; how exactly is a three-color base supposed to play against Mono-Red, with {% mtglink "Sunspine Lynx" %} + {% mtglink "Zhao, the Moon Slayer" %} QQ
 
 ![曾宥均_MIT#11 match record](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/451369413949.webp)
 
@@ -359,7 +359,7 @@ And on 宥均's side, he lost to 2 Mono-White Momo and 1 Mono-Green Landfall, wh
 
 ### How to Handle Mono-White Momo's Turn-Two God-Draw on the Draw?
 
-**If Mono-White is on the play: pretty much hopeless.** The only way is to bring {% mtglink "Intimidation Tactics" %} in the sideboard, and draw it together with {% mtglink "Pest Control" %} in your opening hand. Incidentally, this hand can mulligan down to two to find it.
+**If Mono-White is on the play: pretty much hopeless.** The only way is to bring {% mtglink "Intimidation Tactics" %} in the sideboard, and draw it together with {% mtglink "Pest Control" %} in your opening hand. Incidentally, you can mulligan up to twice to find this hand.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Esper-Ninjas-Preliminary/2f56cdb25d08.webp)
 
@@ -412,7 +412,7 @@ We'll also look at the cumulative probability of drawing Starting Town after T4:
 | **T5** | ~3.9% | ~7.7% | +3.8%| 
 | **T6** | ~5.8% | <span style="color:#AF2321">~11.3%</span> | +5.5% | 
 
-With Standard currently having no {% mtglink "Darkslick Shores" %}-style restriction, whether we choose Configuration A or B, we need to trade off between life total and mid-to-late-game dead draws. If red aggro and burn removal dominate, our win rate with Configuration A may be higher; but if the environment shifts toward midrange/control being king, Configuration B makes more sense.
+Given the constraint that current Standard has no lands like {% mtglink "Darkslick Shores" %}, whether we choose Configuration A or B, we need to trade off between life total and mid-to-late-game dead draws. If red aggro and burn dominate, our win rate with Configuration A may be higher; but if the environment shifts toward midrange/control being king, Configuration B makes more sense.
 
 ## Conclusion: Designing Your Own Deck Is Still Fun, but Watch the Meta Shifts
 

@@ -33,7 +33,7 @@ For the mechanics, see this article: [Outlaws of Thunder Junction Mechanics Expl
 
 **Egavas:** 1.5
 
-When you draw this in Limited, you will definitely want to cast it with a relatively high X, hoping for a big play with X of 2 or more. But even at X=2, the overall value of enters effects, which are mostly on commons and uncommons in Limited, is not high. For this card to perform well, you need creatures on the board with high-value or numerous enters effects, and the requirement to make it really pay off is too high.
+When you pick this in Limited, you will definitely want to cast it with a relatively high X, hoping for a big play with X of 2 or more. But even at X=2, the overall value of enters effects, which are mostly on commons and uncommons in Limited, is not high. For this card to perform well, you need creatures on the board with high-value or numerous enters effects, and the requirement to make it really pay off is too high.
 
 ![002](https://cards.scryfall.io/large/front/c/8/c853d04c-864b-491c-8c6f-72d2d4874d2f.jpg?1711665524)
 
@@ -45,7 +45,7 @@ A four-mana 3/5 flyer, a very high-quality bomb. The only issue is that the thre
 
 **Egavas:** 2.0
 
-A one-mana early blocker. Each of the five colors in this set has a one-mana common creature, and this one performs relatively worst, but if your one- and two-drop curve is poor, it is still an option worth considering.
+A one-mana early blocker. Each of the five colors in this set has a one-mana common creature, and this one is relatively the weakest, but if your one- and two-drop curve is poor, it is still an option worth considering.
 
 ![004](https://cards.scryfall.io/large/front/d/3/d3ca43a4-d194-440f-8099-f1fa103a108d.jpg?1711665534)
 
@@ -57,7 +57,7 @@ A three-mana 2/2 flash flyer. Its ability is equivalent to a soft counterspell, 
 
 **Egavas:** 3.5
 
-As long as you have enough creatures spread across the board, it is a high-quality, high-reward creature. The enters effect plus lifegain can swing the advantage in the mid to late game.
+As long as you have enough creatures spread across the board, it is a high-quality, high-reward creature. Its attack trigger plus lifegain can swing the advantage in the mid to late game.
 
 ![006](https://cards.scryfall.io/large/front/2/6/26c36742-456f-4618-99bc-793ef20b31b0.jpg?1711574994)
 
@@ -93,7 +93,7 @@ A removal spell with lifegain. Against aggro decks it is a card that can establi
 
 **Egavas:** 4.5
 
-An instant that combines protection, a combat trick, and a board wipe. The first mode, as a trick, can turn a creature with trample into a dummy and a high-quality blocker; the second gives a creature indestructible, occasionally saving your best creature; the third wipes the board at instant speed, so after sweeping on your opponent's turn you can immediately redeploy creatures on the backswing. Extremely flexible.
+An instant that combines protection, a combat trick, and a board wipe. The first mode, as a trick, can strip an evasive creature of its abilities, turning it into a dummy that you can block easily; the second gives a creature indestructible, occasionally saving your best creature; the third wipes the board at instant speed, so after sweeping on your opponent's turn you can immediately redeploy creatures on the backswing. Extremely flexible.
 
 ![012](https://cards.scryfall.io/large/front/0/6/069294a8-e65a-47af-942f-7e99d18658f2.jpg?1711570568)
 
@@ -203,13 +203,13 @@ Since this set has only 17 Mounts, most of the time you will be returning a card
 
 **Egavas:** 3.0
 
-Plotting it is very cheap, and it works well with the token-flow black-white or red-white decks, or with a plot theme. A very flexible card.
+Plotting it is very cheap, and it works well with the token-based black-white or red-white decks, or with a plot theme. A very flexible card.
 
 ![030](https://cards.scryfall.io/large/front/2/1/21301998-b3e6-4f3d-89f4-5e17aeb79a1e.jpg?1712003903)
 
 **Egavas:** 2.5
 
-It can pair with the token-flow black-white or red-white decks, or with a plot theme. With a plot ability you can also catch the right timing to push a wave of damage. Decent flexibility.
+It can pair with the token-based black-white or red-white decks, or with a plot theme. With a plot ability you can also catch the right timing to push a wave of damage. Decent flexibility.
 
 ![031](https://cards.scryfall.io/large/front/5/2/523a4d6e-122b-49b4-bf3d-17d29c0007fb.jpg?1711664449)
 
@@ -239,7 +239,7 @@ A combat trick with lifelink. Lifelink performs extra well in Limited.
 
 **Egavas:** 3.5
 
-It attaches for free when it enters and grows, and when you attack with it, the tapped creature is a strong help on offense. Equipping it is cheap, too. Very strong. Although it is hard to make it your first pick, if it is passed to you as a 3rd or 4th pick in the first pack, it will be a reason to move into white.
+It attaches for free when it enters and grows, and tapping down a creature when it attacks is a strong help on offense. Equipping it is cheap, too. Very strong. Although it is hard to make it your first pick, if it is passed to you as a 3rd or 4th pick in the first pack, it will be a reason to move into white.
 
 ![036](https://cards.scryfall.io/large/front/e/f/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5.jpg?1711504382)
 

@@ -1,5 +1,5 @@
 ---
-title: "台灣黑熊's Debut at MIT#9: White-Blue Control"
+title: "Taiwan Black Bear's Debut at MIT#9: White-Blue Control"
 date: "2025-05-30 11:01:22"
 cover: "https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/68bdf8ef4c43-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/First-MIT-UW-Control/68bdf8ef4c43-cover.jpg"
@@ -14,8 +14,8 @@ categories:
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../First-MIT-UW-Control/).
 
 ## An Unfamiliar Player?
-I'm 台灣黑熊, aka Chiyou, aka [標準玩家碎碎念](https://www.facebook.com/profile.php?id=100092580668030). I think this is probably the first time most of you have seen me at a tournament, and when people find out my age, most players look surprised. But I was introduced to MTG from a very young age, around second or third grade of elementary school, when the set was Scars of Mirrodin ([SOM](https://scryfall.com/sets/som)). Back then I just played randomly, grabbing a pile of commons to build completely unreasonable decks. After a break, I came back and started playing seriously in 2022, when Kamigawa: Neon Dynasty ([NEO](https://scryfall.com/sets/neo)) came out.
-At that time I happened to try MTGA, played a lot of Standard there, and almost reached the top fifty, and later I switched to MO for practice. Because of school, I haven't had much time to come out and play in tournaments, so people may be a bit unfamiliar with me, but I've actually been practicing on MO for a long time and have gotten decent results there.
+I'm Taiwan Black Bear, aka Chiyou, aka [Standard Player Ramblings](https://www.facebook.com/profile.php?id=100092580668030). I think this is probably the first time most of you have seen me at a tournament, and when people find out my age, most players look surprised. But I was introduced to MTG from a very young age, around second or third grade of elementary school, when the set was Scars of Mirrodin ([SOM](https://scryfall.com/sets/som)). Back then I just played randomly, grabbing a pile of commons to build completely unreasonable decks. After a break, I came back and started playing seriously in 2022, when Kamigawa: Neon Dynasty ([NEO](https://scryfall.com/sets/neo)) came out.
+At that time I happened to try MTGA, played a lot of Standard there as a newcomer, and almost reached the top fifty, and later I switched to MO for practice. Because of school, I haven't had much time to come out and play in tournaments, so people may be a bit unfamiliar with me, but I've actually been practicing on MO for a long time and have gotten decent results there.
 
 Making the top eight this time really feels unbelievable. At first I hadn't even thought about playing the main event; it was [cephille](/en/authors/cephille/) who told me in early April that there was an MIT main event on 5/17~18, and that even without a qualification I could try the LCQ (Last Chance Qualifier). He has helped me a lot, both with playing and with things outside of playing, and I'm truly grateful to him for getting me to the top eight, and for inviting me to write this article.
 
@@ -38,7 +38,7 @@ The statistics course I took this semester made me realize the importance of dat
 
 [My Notion database](https://www.notion.so/1d1f60b71f4d8079b6e4eeff9d3a5583?v=1d1f60b71f4d8187b997000c2e1e5a2f&pvs=4https://)
 
-Choosing White-Blue Control was actually quite unexpected. I returned to Standard in April when I went to play at 平方 with Pignose, who lent me Dimir midrange, and I went 3-0 with it. So I went home and built one on MO right away and did well, but considering he would probably be playing Dimir too, I ruled it out. After that, TDM was released and Izzet Prowess reached the top, but because [Cori-Steel Cutter](https://scryfall.com/card/tdm/103/cori-steel-cutter) was too expensive and I didn't want to play such a mainstream deck, I scrolled down MTGGoldfish's metagame page, found White-Blue Control, and built it to practice with an "I'll give it a try" attitude.
+Choosing White-Blue Control was actually quite unexpected. I returned to Standard in April when I went to play at 平方 with cephille, who lent me Dimir midrange, and I went 3-0 with it. So I went home and built one on MO right away and did well, but considering he would probably be playing Dimir too, I ruled it out. After that, TDM was released and Izzet Prowess reached the top, but because [Cori-Steel Cutter](https://scryfall.com/card/tdm/103/cori-steel-cutter) was too expensive and I didn't want to play such a mainstream deck, I scrolled down MTGGoldfish's metagame page, found White-Blue Control, and built it to practice with an "I'll give it a try" attitude.
 But the problems I ran into at that time were: my win rate against Jeskai Control and Abhorrent Oculus was terrible, but against Cutter it was great, with an 80% win rate. Overall, though, the win rate wasn't really pretty, landing at around 53%. So I tried other decks along the way, such as Oculus and Jeskai Control mentioned above, but after trying them I felt Oculus didn't fit my playstyle, and Jeskai Control felt awkward to play, so I switched back to White-Blue Control and started trying all kinds of different builds.
 
 ## Main Deck Configuration
@@ -83,7 +83,7 @@ A three-mana counterspell, but in this overly fast environment it can sometimes 
 
 {% mtgcard "Beza, the Bounding Spring" %}
 
-Most of the time the best four-drop for tempo. Usually your hand is hard to have fewer cards than the opponent's, and the same goes for lands, so what you can trigger is gaining four life and making two Fish tokens. Having gained four life and with three creatures on the battlefield after casting it, the pressure is much lower.
+Most of the time the best four-drop for tempo. Usually it's hard to end up with fewer cards in hand than the opponent, and the same goes for lands, so what you can trigger is gaining four life and making two Fish tokens. Having gained four life and with three creatures on the battlefield after casting it, the pressure is much lower.
 
 {% mtgcard "Temporary Lockdown" %}
 
@@ -97,7 +97,7 @@ Only one, to make the utility lands run more smoothly.
 
 {% mtgcard "Meticulous Archive" %}
 
-Surveil lands should definitely be a full four. Here's a fun story: originally I didn't have a single surveil land. The day before the tournament Pignose lent me two, and then on the day I played in the LCQ, a mysterious person lent me two more (he hoped I'd keep his identity secret).
+Surveil lands should definitely be a full four. Here's a fun story: originally I didn't have a single surveil land. The day before the tournament cephille lent me two, and then on the day I played in the LCQ, a mysterious person lent me two more (he hoped I'd keep his identity secret).
 
 {% mtgcard "Restless Anchorage" %}
 I run four, but you can play 3~4 depending on personal preference.

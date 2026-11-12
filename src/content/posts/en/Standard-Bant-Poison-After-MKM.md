@@ -33,7 +33,7 @@ Let me use these three cards to represent the three dimensions of winning for Ba
 - Blue's proliferate spells
 - Green's [Venerated Rotpriest](https://scryfall.com/card/one/192/venerated-rotpriest)
 
-From the first poison counter that a low-cost toxic creature puts on the opponent, the match officially starts counting down. There is no chance of resetting it to zero, and all the opponent can do is win the game as fast as possible before getting their 10th poison counter. Toxic creatures deal poison as they attack, so you deal damage and poison at the same time. Even without comparing to its predecessor, infect, judged by how much you pump up through attacking, it is actually a relatively inefficient way to win. This also means a poison deck needs other ways to add poison counters to the opponent in order to win.
+From the first poison counter that a low-cost toxic creature puts on the opponent, the match officially starts counting down. There is no chance of resetting it to zero, and all the opponent can do is win the game as fast as possible before getting their 10th poison counter. Toxic creatures deal poison as they attack, so you deal damage and poison at the same time. Even without comparing it to its predecessor, infect, it is actually a relatively inefficient way to win compared with simply pumping and attacking. This also means a poison deck needs other ways to add poison counters to the opponent in order to win.
 
 This is where proliferate, the effect that lets you add one more of any kind of counter, becomes important. It means that once the first poison counter is on, even if your toxic creatures cannot connect with the opponent, you still have a chance to deliver poison from a distance!
 
@@ -51,13 +51,13 @@ Having covered the deck's composition and its winning formula, let's look at wha
 > Until Standard reprints Chord of Calling, [Collected Company](https://scryfall.com/card/dtk/177/collected-company), or a similar card, this problem can only be solved with mulligans and by accumulating good karma in everyday life.
 
 2. **Toxic creatures cannot get through**
-   This is actually very common, but there are now some solutions. Whether it is pumping with [The Seedcore](https://scryfall.com/card/one/259/the-seedcore) to make a 3/2, or the pseudo-trample made by [Skrelv, Defector Mite](https://scryfall.com/card/one/33/skrelv-defector-mite), combined with the deck's plentiful bounce and phase-out effects, all of these can ease this problem.
+   This is actually very common, but there are now some solutions. Whether it is pumping with [The Seedcore](https://scryfall.com/card/one/259/the-seedcore) to make a 3/2, or the pseudo-evasion made by [Skrelv, Defector Mite](https://scryfall.com/card/one/33/skrelv-defector-mite), combined with the deck's plentiful bounce and phase-out effects, all of these can ease this problem.
 
 3. **Having Rotpriest but no tricks**
    Except in cases of really bad draws, you generally cast Rotpriest only when you have both a trick and the mana. [Experimental Augury](https://scryfall.com/card/one/49/experimental-augury) was also added to ease this problem, by picking up a proliferate effect at the same time.
 
 4. **Having tricks but no creatures**
-   Mulligans can solve this problem to a large extent. If you keep such a hand and either have already mulliganed twice and still cannot draw one, or the pilot may need to get more familiar with how this deck works.
+   Mulligans can solve this problem to a large extent. If you end up keeping such a hand, either you have already mulliganed twice and still could not find one, or the pilot may need to get more familiar with how this deck works.
 
 5. **Color screw**
    Basically, aggro decks of three or more colors easily run into this problem. I can only say that running 21 to 22 lands for three colors was really a stretch, and drawing a bunch of [The Seedcore](https://scryfall.com/card/one/259/the-seedcore) while your hand is full of blue tricks might blow up in your face. Currently the lands that can provide three colors are all creature-type-restricted lands. You need to cast creatures reliably while also using tricks smoothly, and the current mana base is still a bit of a stretch. Until Standard reprints a land like [Mana Confluence](https://scryfall.com/card/jou/163/mana-confluence), this problem is hard to improve, and you can only trade off between the deck's consistency and its power.
@@ -95,7 +95,7 @@ After testing and discussing this update with friends, we found a few potential 
 1.  **Delney is not a Phyrexian, so there may be color issues**
     As the title says, in extreme cases, if your lands are all The Seedcore and [Mirrex](https://scryfall.com/card/one/254/mirrex), Delney may still fail to show up on time even with three lands.
 2.  **MKM brought the disguise and cloak mechanics**
-    Face-down creatures in MKM are 2/2s with ward {2}, and any removal or bounce is very hard to use against ward {2}. Face-down creatures being colorless also makes Skrelv's pseudo-trample hard to use, so attacking through without The Seedcore on the board to pump may get you stonewalled.
+    Face-down creatures in MKM are 2/2s with ward {2}, and any removal or bounce is very hard to use against ward {2}. Face-down creatures being colorless also makes Skrelv's pseudo-evasion hard to use, so attacking through without The Seedcore on the board to pump may get you stonewalled.
 3.  **Delney does not necessarily get removed when she comes out**
     Basically we are still a poison deck, so the toxic creatures played early are sure to eat the removal first. If they were not all killed earlier, Delney, arriving on turn three, can still help the deck gain a bigger advantage. That said, drawing her into an empty board is terrible, so you can consider cutting down to 2 copies.
     A Bant Poison deck that made the top 8 with a 5-0-2 record at the Denver Standard RCQ on 2024-02-11 also ran Delney as 1 main deck and 1 sideboard.

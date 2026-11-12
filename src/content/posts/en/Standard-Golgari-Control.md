@@ -22,7 +22,7 @@ I'm a player who is passionate about control. As a reactive play style, controll
 - The [Stormchaser's Talent](https://scryfall.com/card/woe/195/up-the-beanstalk) archetype of Self-Bounce
 - The [Overlord](https://scryfall.com/search?as=grid&order=name&q=Overlord+%28game%3Apaper%29+set%3Adsk) + [Zur, Eternal Schemer](https://scryfall.com/card/dmu/228/zur-eternal-schemer) [Up the Beanstalk](https://scryfall.com/card/woe/195/up-the-beanstalk) deck
 
-When building the deck, you have to think thoroughly about how to face each of these. Facing red aggro is the simplest in terms of deck-building logic: just prepare enough cheap removal spells, plus a plan to stabilize the board once you reach the midgame, and at the very least you keep some ability to answer red aggro <font color="#AAAAAA">(of course, whether you actually draw them in game one and who goes first is another matter)</font>.
+When building the deck, you have to think thoroughly about how to face each of these. Facing red aggro is the simplest in terms of deck-building logic: just prepare enough cheap removal spells, plus a plan to stabilize the board once you reach the midgame, and at the very least you keep some ability to answer red aggro <font color="#AAAAAA">(of course, whether you actually draw them in the early game and who goes first is another matter)</font>.
 
 As for the [Stormchaser's Talent](https://scryfall.com/card/woe/195/up-the-beanstalk) Self-Bounce deck, here I specifically mean the version paired with [Hopeless Nightmare](https://scryfall.com/card/woe/95/hopeless-nightmare), which emphasizes repeatedly bouncing permanents to earn ETB value. From a control perspective, the deadliest part of this deck is the repeatedly re-entering [Hopeless Nightmare](https://scryfall.com/card/woe/95/hopeless-nightmare). Having [Obstinate Baloth](https://scryfall.com/card/j25/692/obstinate-baloth) or [Wilt-Leaf Liege](https://scryfall.com/card/fdn/668/wilt-leaf-liege) is enough to suppress it. Of course, it's best if we have enough enchantment removal, and fortunately decks that play those two creatures will probably have at least green or white, which is a color group that doesn't lack enchantment removal.
 
@@ -226,13 +226,13 @@ More one-mana removal as a supplement.
 
 {% mtgpick "fdn" 606 %}
 [Duress](https://scryfall.com/card/fdn/606/duress) (2):
-Counting the full set in the main deck, that's a full playset of Duress. If you feel a full playset is too much, you can consider swapping one for [Cruelclaw's Heist](https://scryfall.com/card/blb/88/cruelclaws-heist). The ceiling goes up, but on turn two this deck may well not have two black mana, which adds quite a bit of instability risk.
+Together with the main deck, that makes a full playset of Duress. If you feel a full playset is too much, you can consider swapping one for [Cruelclaw's Heist](https://scryfall.com/card/blb/88/cruelclaws-heist). The ceiling goes up, but on turn two this deck may well not have two black mana, which adds quite a bit of instability risk.
 
 
 
 {% mtgpick "mat" 24 %}
 [Tranquil Frillback](https://scryfall.com/card/mat/24/tranquil-frillback) (1):
-This guy is just too good in the current environment. In matchups favorable against it, you can bring in more Tranquil Frillbacks from the sideboard.
+This guy is just too good in the current environment. In matchups where it shines, you can bring in more Tranquil Frillbacks from the sideboard.
 
 
 
@@ -267,8 +267,8 @@ Another one-card war god, and it's especially tricky to handle when the opponent
 
 {% mtgpick "bro" 121 %}
 [Phyrexian Fleshgorger](https://scryfall.com/card/bro/121/phyrexian-fleshgorger) (2):
-For reasons similar to [Axebane Ferox](https://scryfall.com/card/mkm/153/axebane-ferox) above, it is used to switch game plans. Menace plus lifelink, together with ward - pay life, makes it an MVP single card in many racing matchups, and prototype lets it deliver maximum value in both early and late stages of the game. Although it's an artifact creature that gets swept by your own [Desist](https://scryfall.com/card/mkm/246/cease-desist), the matchups where you want to trade life totals with it probably don't need you to sweep artifacts and enchantments anyway, so you don't have to worry about blocking yourself.
-Another advantage of choosing Fleshgorger is that it dodges the opponent's black removal: it doesn't die to [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat). [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) can indeed ignore ward and kill the prototype version, but the only creature in game one within that kill's range is [Tranquil Frillback](https://scryfall.com/card/mat/24/tranquil-frillback), which is useless after its ETB. Even if they want to hold the sideboarded Fleshgorger in mind, it easily becomes a dead card, and can't even kill [Restless Cottage](https://scryfall.com/card/woe/258/restless-cottage), so the opponent usually won't want to keep it for the sideboarded games. [Anoint with Affliction](https://scryfall.com/card/one/81/anoint-with-affliction) just has no idea what to do against those four-drops above.
+For reasons similar to [Axebane Ferox](https://scryfall.com/card/mkm/153/axebane-ferox) above, it is used to switch game plans. Menace plus lifelink, together with ward - pay life, makes it an MVP single card in many racing matchups, and prototype lets it deliver maximum value in both early and late stages of the game. Although it's an artifact creature that gets swept by your own [Desist](https://scryfall.com/card/mkm/246/cease-desist), the matchups where you want to trade life totals with it probably don't need you to sweep artifacts and enchantments anyway, so you don't have to worry about getting in your own way.
+Another advantage of choosing Fleshgorger is that it dodges the opponent's black removal: it doesn't die to [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat). [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) can indeed ignore ward and kill the prototype version, but the only creature in game one within that kill's range is [Tranquil Frillback](https://scryfall.com/card/mat/24/tranquil-frillback), which is useless after its ETB. Even if they want to keep it to catch the sideboarded Fleshgorger, it easily becomes a dead card, and it can't even kill [Restless Cottage](https://scryfall.com/card/woe/258/restless-cottage), so the opponent usually won't want to keep it for the sideboarded games. [Anoint with Affliction](https://scryfall.com/card/one/81/anoint-with-affliction) just has no idea what to do against those four-drops above.
 
 
 

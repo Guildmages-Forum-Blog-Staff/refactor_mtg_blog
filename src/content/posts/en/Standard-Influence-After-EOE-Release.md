@@ -36,9 +36,9 @@ Starting from the Edge of Eternities (EOE) prerelease on July 25, 2025, we will 
 
 ![Banned cards](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/da031a4a741d.webp)
 
-In the [June 30, 2025 Banned and Restricted announcement](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025), the 7 cards pictured above were banned in Standard. Bans usually happen when one or a few cards, and the decks built around them, take up too large a share of a given format and make the format unhealthy, squeezing out the survival space of other decks that have potential but a power-level gap. At such times, the official side uses routine or even emergency ban announcements to ban the cards causing the situation.
+In the [June 30, 2025 Banned and Restricted announcement](https://magic.wizards.com/en/news/announcements/banned-and-restricted-june-30-2025), the 7 cards pictured above were banned in Standard. Bans usually happen when one or a few cards, and the decks built around them, take up too large a share of a given format and make the format unhealthy, squeezing out the survival space of other decks that have potential but a power-level gap. At such times, Wizards uses routine or even emergency ban announcements to ban the cards causing the situation.
 
-We specifically mention Standard bans because these 7 banned cards can also be seen as the official side believing that their continued presence in Standard would harm the overall diversity of the environment, so they were rotated out early.
+We specifically mention Standard bans because these 7 banned cards can also be seen as Wizards believing that their continued presence in Standard would harm the overall diversity of the environment, so they were rotated out early.
 
 > If you count the online version, MTG Arena, in its BO1 format (Best of One, a format without sideboarding in which the first player to win one game wins), {% mtglink "Leyline of Resonance" %} was also banned. But this is different from the paper Standard format.
 
@@ -99,7 +99,7 @@ After the bans, the Omniscience combo is also losing quite a few key cards to th
 
 {% mtgpick "mom" 34 %}
 
-{% mtglink "Temporary Lockdown" %}, often blinked at instant speed with itself, repeatedly clears the board while also refreshing the ETB abilities of low-cost permanents.
+Often used to blink your own {% mtglink "Temporary Lockdown" %} at instant speed, it repeatedly clears the board while also refreshing the ETB abilities of low-cost permanents.
 
 Its interaction with the [DSK Overlords](https://scryfall.com/search?as=grid&order=name&q=Overlord+oracle%3AImpending+%28game%3Apaper%29+set%3Adsk) also gives this card a special status that can't be ignored. As long as the deck has a certain number of permanents suited to refreshing ETB abilities, the small add-on system of {% mtglink "Scrollshift" %} + [Overlord](https://scryfall.com/search?as=grid&order=name&q=Overlord+oracle%3AImpending+%28game%3Apaper%29+set%3Adsk) alone can provide enough winning power.
 
@@ -114,7 +114,7 @@ In fact {% mtglink "Scrollshift" %} has quite a wide range of uses and isn't pur
 
 ![Omniscience](https://images.guildmagesforum.tw/posts/Standard-Influence-After-EOE-Release/2ce992b2c6c6.webp)
 
-{% mtglink "Repair and Recharge" %} was the most efficient replacement after {% mtglink "Abuelo's Awakening" %} was banned. With it gone too, digging for {% mtglink "Omniscience" %} becomes harder still. The remaining graveyard-digging spells either cost more or have messier color requirements. Although level 3 of {% mtglink "Builder's Talent" %} is also a 5-mana dig, the leveling process requires extra mana, and overall operating efficiency is far below {% mtglink "Repair and Recharge" %}.
+{% mtglink "Repair and Recharge" %} was the most efficient replacement after {% mtglink "Abuelo's Awakening" %} was banned. With it gone too, digging for {% mtglink "Omniscience" %} becomes harder still. The remaining reanimation spells either cost more or have messier color requirements. Although level 3 of {% mtglink "Builder's Talent" %} is also 5-mana reanimation, the leveling process requires extra mana, and overall operating efficiency is far below {% mtglink "Repair and Recharge" %}.
 
 {% mtglink "Ephara's Dispersal" %} is only a soft-removal bounce effect, but for a combo deck, being able to hold off one attack for 1 mana while also getting a surveil 2 to speed up finding combo pieces is mostly far better than a 2-mana hard kill. And with {% mtglink "Omniscience" %} on the battlefield, it can also bounce your own creatures with ETB abilities as a link in the chain.
 

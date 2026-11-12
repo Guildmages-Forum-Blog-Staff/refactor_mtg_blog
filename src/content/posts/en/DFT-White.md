@@ -141,7 +141,7 @@ Comment: A quality creature that speeds you up early and can draw cards late. A 
 <!---19--->
 {% mtgpick "dft" 19 %}
 Score: 2.0
-Comment: After the combat rules change, combat tricks are relatively weak, not to mention it has no positive ability and only grows, but since it can cycle, it can go into the deck as filler.
+Comment: After the combat rules change, combat tricks are relatively weak, not to mention it only pumps with no other upside, but since it can cycle, it can go into the deck as filler.
 
 
 <!---20--->
@@ -245,7 +245,7 @@ Comment: A super powerful finisher that can also cycle early to call a Pilot. Cr
 <!---36--->
 {% mtgpick "dft" 36 %}
 Score: 3.5
-Comment: A great-value 1-mana 2/3 Vehicle, with an ability that keeps growing it and gives trample. It's well suited to white-based aggressive decks.
+Comment: A great-value 1-mana 2/3 Vehicle, with an ability that keeps growing it and gives it evasion. It's well suited to white-based aggressive decks.
 
 
 <!---37--->

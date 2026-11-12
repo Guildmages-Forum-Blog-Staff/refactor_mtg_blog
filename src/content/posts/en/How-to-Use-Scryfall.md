@@ -85,7 +85,7 @@ The result has a few more than the first option, but still no mono-colored cards
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Use-Scryfall/cdac2c749db7.webp)
 
-Red and green mono-colored cards do appear, but a lot of strange things show up too, such as lands that only produce white, Aang in white and blue, and the pure black Bat god. Why do these things show up? **Because the third option also includes colorless cards**, including double-faced cards whose back face is colorless, so the search results are mixed with many single cards of other colors.
+Red and green mono-colored cards do appear, but a lot of strange things show up too, such as lands that only produce white, the white-blue Aang, Swift Savior, and the mono-black Bat god. Why do these things show up? **Because the third option also includes colorless cards**, including double-faced cards whose back face is colorless, so the search results are mixed with many single cards of other colors.
 
 If you have already decided to look at cards of a specific color combination, none of the above search results will fit your needs. How should you search? This is where the **Commander** color identity field below comes in.
 

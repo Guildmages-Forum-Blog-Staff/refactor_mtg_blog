@@ -71,10 +71,10 @@ As usual, the top ten individual cards by copies played:
 | 6 | [Force of Negation](https://scryfall.com/card/2x2/50/force-of-negation) | 919 | 29% |
 | 7 | [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize) | 900 | 28% |
 | 8 | [Lightning Bolt](https://scryfall.com/card/clu/141/lightning-bolt) | 882 | 35% |
-| 9 | [Engieered Explossives](https://scryfall.com/card/2xm/252/engineered-explosives) | 803 | 45% |
+| 9 | [Engineered Explosives](https://scryfall.com/card/2xm/252/engineered-explosives) | 803 | 45% |
 | 10 | [Force of Vigor](https://scryfall.com/card/mh1/164/force-of-vigor) | 771 | 41% |
 
-From this we can actually see that the environment is still dominated by black and red. In addition, more [Subtlety](https://scryfall.com/card/mh2/67/subtlety) is played to fight Scam, more [Chalice of the Void](https://scryfall.com/card/a25/222/chalice-of-the-void) to fight Rhinos and Living End, and [Engieered Explossives](https://scryfall.com/card/2xm/252/engineered-explosives) is brought for Rhinos and Scales.
+From this we can actually see that the environment is still dominated by black and red. In addition, more [Subtlety](https://scryfall.com/card/mh2/67/subtlety) is played to fight Scam, more [Chalice of the Void](https://scryfall.com/card/a25/222/chalice-of-the-void) to fight Rhinos and Living End, and [Engineered Explosives](https://scryfall.com/card/2xm/252/engineered-explosives) is brought for Rhinos and Scales.
 
 Finally, the top eight decks:
 | Rank | Player | Decklist | Record |
@@ -99,7 +99,7 @@ Honestly, Yawgmoth performed quite well at LEC Ghent. Meanwhile, Murktide was wi
 The two decks are basically the same, differing by just one card in the main deck, where one chose [Murktide Regent](https://scryfall.com/card/mh2/52/murktide-regent) and the other chose [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute); the sideboards also differ by one card, where one chose [Flame of Anor](https://scryfall.com/card/ltr/203/flame-of-anor) and the other chose an extra [Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures).
 
 What's more interesting is that both players chose to play one [Ertai's Scorn](https://scryfall.com/card/dmu/48/ertais-scorn) in the sideboard, mainly for the cascade mirror when on the draw.
-Let's assume both sides have smooth hands, and the player on the play has [Violent Outburst](https://scryfall.com/card/arb/63/violent-outburst) available on turn three. They will usually pass the turn and cast the cascade during the opponent's upkeep, because the opponent usually has no mana to counter it, and [Force of Negation](https://scryfall.com/card/2x2/50/force-of-negation) can't be cast for free on your own turn, so they can only watch helplessly as the opponent successfully resolves [Crashing Footfalls](https://scryfall.com/card/mh1/160/crashing-footfalls). This should be the only card that can counter [Crashing Footfalls](https://scryfall.com/card/mh1/160/crashing-footfalls) for two mana without blocking your own cascade.
+Let's assume both sides have smooth hands, and the player on the play has [Violent Outburst](https://scryfall.com/card/arb/63/violent-outburst) available on turn three. They will usually pass the turn and cast the cascade during the opponent's upkeep, because the opponent usually has no mana to counter it, and [Force of Negation](https://scryfall.com/card/2x2/50/force-of-negation) can't be cast for free on your own turn, so the player on the draw can only watch helplessly as the opponent successfully resolves [Crashing Footfalls](https://scryfall.com/card/mh1/160/crashing-footfalls). Ertai's Scorn should be the only card that can counter [Crashing Footfalls](https://scryfall.com/card/mh1/160/crashing-footfalls) for two mana without blocking your own cascade.
 
 ### Golgari Yawgmoth
 
@@ -193,7 +193,7 @@ This should become the standard build for the next few weeks to a month.
 ![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/983845378014.webp)
 
 In contrast to Murktide being wiped out in Europe, one Murktide deck survived here in Brazil.
-I think that in the current environment this matchup is no longer that hard to play, at least you won't get turn-one monkey, turn-two DRC DRC and then get swept away by a backhanded Fury scam, and there isn't such great life-total pressure either.
+I think that in the current environment this matchup is no longer that hard to play, at least you won't get turn-one monkey, turn-two DRC DRC and then get swept away by a Fury scam on the opponent's turn, and there isn't such great life-total pressure either.
 And because of the extra card filtering, compared with other decks it is relatively easier to handle a turn-one Grief scam.
 
 Also, this build chose to play one [Test of Talents](https://scryfall.com/card/stx/59/test-of-talents) in the sideboard, which should be quite comfortable in the mirror or in cascade matchups.

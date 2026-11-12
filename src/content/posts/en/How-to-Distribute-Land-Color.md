@@ -44,7 +44,7 @@ Going by the cards above alone, we find that the main colors are red and green, 
 
 ## The Magic Number Is "Fifteen"
 
-Do you remember that in [Deck Building Basics](https://guildmagesforum.tw/en/Deck-Building-Basic/), when I discussed how many cards costing two or less to play, I mentioned the minimum number needed to reliably hold two cards costing two or less after your opening hand plus one draw?
+Do you remember that in [Deck Building Basics](https://guildmagesforum.tw/en/Deck-Building-Basic/), when I discussed how many cards costing two or less to run, I mentioned the minimum number needed to reliably hold two cards costing two or less after your opening hand plus one draw?
 
 **The answer is 15.**
 
@@ -53,7 +53,7 @@ This number also applies to mana base construction. That is, to reliably have tw
 ![](https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/09e8d3364dbb.webp)
 [Throne of Eldraine Planeswalker deck contents](https://magic.wizards.com/en/news/card-preview/throne-eldraine-planeswalker-decks-2019-09-18)
 
-In the [Rowan, Fearless Sparkmage](https://scryfall.com/card/eld/304/rowan-fearless-sparkmage) deck, the red and white nonland mana ratio is close to 1:1, with white slightly ahead of red, so the lands are 11 Plains, 10 Mountain, and 4 [Wind-Scarred Crag](https://scryfall.com/card/tdm/271/wind-scarred-crag), making the two colors' land split 15:14. In the [Oko, the Trickster](https://scryfall.com/card/eld/309/oko-the-trickster) deck, the nonland mana ratio leans a bit more toward blue (1:1.3), yet the lands are 15 green and 14 blue. It looks like this was because the deck includes a single [Beanstalk Giant](https://scryfall.com/card/dsc/172/beanstalk-giant-fertile-footsteps), which can adventure to fetch a land, so one Island slot was handed over to the Giant and green is used to patch the colors, leaving green with a few more lands.
+In the [Rowan, Fearless Sparkmage](https://scryfall.com/card/eld/304/rowan-fearless-sparkmage) deck, the red and white nonland mana ratio is close to 1:1, with white slightly ahead of red, so the lands are 11 Plains, 10 Mountain, and 4 [Wind-Scarred Crag](https://scryfall.com/card/tdm/271/wind-scarred-crag), making the two colors' land split 15:14. In the [Oko, the Trickster](https://scryfall.com/card/eld/309/oko-the-trickster) deck, the nonland mana ratio leans a bit more toward blue (1:1.3), yet the lands are 15 green and 14 blue. It looks like this was because the deck includes a single [Beanstalk Giant](https://scryfall.com/card/dsc/172/beanstalk-giant-fertile-footsteps), which can adventure to fetch a land, so one Island slot was handed over to the Giant and green is used to patch the colors, leaving green with one more land.
 
 ![](https://images.guildmagesforum.tw/posts/How-to-Distribute-Land-Color/c304c7785df4.webp)
 

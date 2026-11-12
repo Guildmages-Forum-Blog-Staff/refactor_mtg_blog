@@ -51,13 +51,13 @@ Basically, as a five-mana Planeswalker, Ashiok earns a huge advantage by repeate
 
 **Limited rating: 2.0**
 
-A four-mana 3/3 is an ordinary body, and the card draw only triggers when an Aura goes to the graveyard, so you need a specialized build to make use of it.
+A four-mana 3/3 is an ordinary body, and the card draw only triggers when an enchantment goes to the graveyard, so you need a specialized build to make use of it.
 
 ![Back for Seconds](https://images.guildmagesforum.tw/posts/WOE-Black/42fa7a40b852.webp)
 
 **Limited rating: 3.0**
 
-Without kicker it's a three-mana sorcery that returns two creatures from your graveyard, but with kicker it can also dig up a creature with mana value four or less. If you have a suitable four-drop, I strongly recommend kicking it! Black's kicker is a lot more attractive, so let's keep looking at how black's ambitious kicker cards perform.
+Without bargain it's a three-mana sorcery that returns two creatures from your graveyard, but with bargain it can also dig up a creature with mana value four or less. If you have a suitable four-drop, I strongly recommend bargaining it! Black's bargain is a lot more attractive, so let's keep looking at how black's ambitious bargain cards perform.
 
 ![Barrow Naughty](https://images.guildmagesforum.tw/posts/WOE-Black/6b8c96bfed1c.webp)
 
@@ -74,13 +74,13 @@ A two-mana 1/3 flying Faerie is nothing special, but gaining lifelink when you c
 > "......Rui"
 > "What? Hui-Rui? Who is that woman!?"
 
-A four-mana [Diabolic Tutor](https://cards.scryfall.io/large/front/5/3/53b500f0-a597-4aaa-afc6-005d12c13852.jpg?1562735740) is a bit tempo-draining in Limited, but this card lets you cast a spell with total mana value four or less directly when you kick it. When you're short on removal, or what you're looking for happens to be four mana or less, kicking it is a great choice!
+A four-mana [Diabolic Tutor](https://cards.scryfall.io/large/front/5/3/53b500f0-a597-4aaa-afc6-005d12c13852.jpg?1562735740) is a bit tempo-draining in Limited, but this card lets you cast a spell with total mana value four or less directly when you bargain it. When you're short on removal, or what you're looking for happens to be four mana or less, bargaining it is a great choice!
 
 ![Candy Grapple](https://images.guildmagesforum.tw/posts/WOE-Black/512fe8689548.webp)
 
 **Limited rating: 3.5**
 
-An instant-speed -3/-3 for two mana is already very efficient, and getting to kick it for -5/-5 is even better.
+An instant-speed -3/-3 for two mana is already very efficient, and getting to bargain it for -5/-5 is even better.
 
 ![Conceited Witch](https://images.guildmagesforum.tw/posts/WOE-Black/1d2f72e7aa8a.webp)
 
@@ -157,7 +157,7 @@ I treat her as a five-mana slam of a 3/2 lifelinker that gives a target creature
 
 **Limited rating: 4.0**
 
-A five-mana 3/5 flyer is a very strong body, and if you kick it, it can turn into a [Vampire Sovereign](https://cards.scryfall.io/large/front/1/9/1959af65-d96e-4084-a1d8-02caa89ee9a0.jpg?1645889269).
+A five-mana 3/5 flyer is a very strong body, and if you bargain it, it can turn into a [Vampire Sovereign](https://cards.scryfall.io/large/front/1/9/1959af65-d96e-4084-a1d8-02caa89ee9a0.jpg?1645889269).
 
 ![Hopeless Nightmare](https://images.guildmagesforum.tw/posts/WOE-Black/ec102ff23d52.webp)
 
@@ -170,7 +170,7 @@ Basically I don't want to play one or two at all, but maybe some future insane d
 
 **Limited rating: 3.5**
 
-Generally, digging up two creatures is already quite a gain, but needing enough artifacts/Auras/tokens on the battlefield means the timing won't always be ideal. And when you know your opponent has a sweeper, this becomes a great topdeck.
+Generally, digging up two creatures is already quite a gain, but needing enough artifacts/enchantments/tokens on the battlefield means the timing won't always be ideal. And when you know your opponent has a sweeper, this becomes a great topdeck.
 
 ![Lord Skitter, Sewer King](https://images.guildmagesforum.tw/posts/WOE-Black/5808739722fa.webp)
 
@@ -182,13 +182,13 @@ I wanted to give it a 5.0, but the Rats it makes can't block, which holds it bac
 
 **Limited rating: 4.0**
 
-A two-mana Aura that makes a Wicked Role when it enters, and then each of your draw steps, if you control the enchanted creature, you may draw a card and lose 1 life. It's a smaller, less stable [Phyrexian Arena](https://cards.scryfall.io/large/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1675957043). When using it, don't forget to include more cards that make Role tokens; being a card ahead of your opponent every turn is truly overpowered in Limited.
+A two-mana enchantment that makes a Wicked Role when it enters, and then each of your draw steps, if you control the enchanted creature, you may draw a card and lose 1 life. It's a smaller, less stable [Phyrexian Arena](https://cards.scryfall.io/large/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1675957043). When using it, don't forget to include more cards that make Role tokens; being a card ahead of your opponent every turn is truly overpowered in Limited.
 
 ![Lord Skitter's Butcher](https://images.guildmagesforum.tw/posts/WOE-Black/0685ba50e353.webp)
 
 **Limited rating: 4.0**
 
-The Ratatouille chef eyes the human body, thinking about where to cut later... Blue cards really are getting stronger these days. Out of the three enter abilities, there is always one that fits the situation perfectly:
+The Ratatouille chef eyes the human body, thinking about where to cut later... Uncommons really are getting stronger these days. Out of the three enter abilities, there is always one that fits the situation perfectly:
 
 - On an empty board, make a 1/1 Rat,
 - When the board is a bit weak but you have a Rat, and you're missing a key card, eat one for scry 2 then draw a card,
@@ -226,7 +226,7 @@ A strong resource-war card, but only if you choose more modes than your opponent
 
 **Limited rating: 3.0**
 
-If you need card selection but you aren't blue, use this. If you have a suitable kicker source, you can also consider kicking it; looking at four and taking two for three mana while losing 2 life is quite nice.
+If you need card selection but you aren't blue, use this. If you have a suitable bargain source, you can also consider bargaining it; looking at four and taking two for three mana while losing 2 life is quite nice.
 
 ![Scream Puff](https://images.guildmagesforum.tw/posts/WOE-Black/8f0b1f0a1c4e.webp)
 
@@ -238,7 +238,7 @@ Burst-filling cream puff! Seeing it, I can't help but think of M15's [Rotfeaster
 
 **Limited rating: 3.0**
 
-Five-mana removal that can also destroy an Aura, and on top of that it gives you a Wicked Role. If you're short on better removal, you can main deck one or two outright.
+Five-mana removal that can also destroy an enchantment, and on top of that it gives you a Wicked Role. If you're short on better removal, you can main deck one or two outright.
 
 ![Specter of Mortality](https://images.guildmagesforum.tw/posts/WOE-Black/fb4aa34fe324.webp)
 
@@ -277,7 +277,7 @@ The flavor text has the witch saying, "Have a taste! Your brother gave up his he
 
 **Limited rating: 4.0**
 
-Four-mana exile removal, and if you control an Aura you also scry 2, which shouldn't be hard to achieve in a WOE Limited format where Roles are everywhere.
+Four-mana exile removal, and if you control an enchantment you also scry 2, which shouldn't be hard to achieve in a WOE Limited format where Roles are everywhere.
 
 ![Tangled Colony](https://images.guildmagesforum.tw/posts/WOE-Black/0c56b3caf430.webp)
 
@@ -295,7 +295,7 @@ The floor is casting it on an empty board for five mana as a 3/4 plus a 2/2 Rat 
 
 **Limited rating: 5.0**
 
-If my opponent slams this on the Aura side and I can't answer it in time, I probably won't want to play anymore. It's absurdly strong; the adventure side gives -3/-3 and also gains 2 life. Basically if you open it, set aside all your removal and ramp, and the deck should be great.
+If my opponent slams the enchantment side and I can't answer it in time, I probably won't want to play anymore. It's absurdly strong; the adventure side gives -3/-3 and also gains 2 life. Basically if you open it, just throw in all your removal and land-fetching/ramp, and the deck should be great.
 
 ![Voracious Vermin](https://images.guildmagesforum.tw/posts/WOE-Black/6c6a8ee9e926.webp)
 
@@ -309,13 +309,13 @@ Getting two bodies for three mana is not bad and fits the Rat theme, and when ot
 
 **Limited rating: 1.5**
 
-A one-mana 1/1 that needs payment to get deathtouch is terrible, and I won't be very excited about making Rats when an Aura goes to the graveyard.
+A one-mana 1/1 that needs payment to get deathtouch is terrible, and I won't be very excited about making Rats when an enchantment goes to the graveyard.
 
 ![Wicked Visitor](https://images.guildmagesforum.tw/posts/WOE-Black/54fb7414337c.webp)
 
 **Limited rating: 2.0**
 
-It's just black's [Grizzly Bears](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736); the extra 1 life loss for the opponent when an Aura goes to the graveyard isn't worth expecting much.
+It's just black's [Grizzly Bears](https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736); the extra 1 life loss for the opponent when an enchantment goes to the graveyard isn't worth expecting much.
 
 ![The Witch's Vanity](https://images.guildmagesforum.tw/posts/WOE-Black/d44b649b48ed.webp)
 

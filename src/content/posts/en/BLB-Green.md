@@ -41,8 +41,8 @@ Bloomburrow (BLB) holds its prerelease events on July 26, 2024, and is officiall
 Ratings:
 
 - [Bakersbane Duo](https://scryfall.com/card/blb/163) is a normal two-mana creature in most games, but you will want it more if you are on the black-green forage theme; as for the Expend trigger turning it into a 3/3, the benefit after turn four is not large.
-- [Bark-Knuckle Boxer](https://scryfall.com/card/blb/164) Sometimes being indestructible is not a reason to attack with it, and reliably casting a 4-mana instant on your own to make it indestructible sounds a bit difficult, so most of the time it is a two-mana creature with slightly better toughness.
-- [Brambleguard Veteran](https://scryfall.com/card/blb/165) A 3/3/4 body is quite good, and later, once you have spent enough mana in the mid-game, it makes a steady source of damage, which is decent.
+- [Bark-Knuckle Boxer](https://scryfall.com/card/blb/164) Sometimes being indestructible is not a reason to attack with it, and reliably casting a 4-mana instant on your own to make it indestructible sounds a bit difficult, so most of the time it is a two-mana creature with a slightly better body.
+- [Brambleguard Veteran](https://scryfall.com/card/blb/165) A 3-mana 3/4 body is quite good, and later, once you have spent enough mana in the mid-game, it makes a steady source of damage, which is decent.
 
 |                                                  166                                                  |                                                  167                                                  |                                                  168                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -63,7 +63,7 @@ Ratings:
 Ratings:
 
 - [Curious Forager](https://scryfall.com/card/blb/169) Conditionally returns a permanent to hand, but the condition is not hard to meet.
-- [Druid of the Spade](https://scryfall.com/card/blb/170) In any deck with tokens it is a creature with above-average toughness (creature tokens, Food tokens, and so on can all meet the condition).
+- [Druid of the Spade](https://scryfall.com/card/blb/170) In any deck with tokens it is a creature with an above-average body (creature tokens, Food tokens, and so on can all meet the condition).
 - [Fecund Greenshell](https://scryfall.com/card/blb/171) The share of creature cards in this set that meet the condition: 59/163. Every trigger earns you a card, and the late-game team pump is quite good.
 
 |                                                  172                                                  |                                                  173                                                  |                                                  174                                                  |
@@ -74,7 +74,7 @@ Ratings:
 Ratings:
 
 - [For the Common Good](https://scryfall.com/card/blb/172) I almost thought you could copy things happily, but the copy targets can only be tokens, which makes it much harder to use.
-- [Galewind Moose](https://scryfall.com/card/blb/173) A 6/6/6 with a bunch of quality abilities; [Colossal Dreadmaw](https://scryfall.com/card/xln/180/colossal-dreadmaw) is crying to death next to it.
+- [Galewind Moose](https://scryfall.com/card/blb/173) A 6-mana 6/6 with a bunch of quality abilities; [Colossal Dreadmaw](https://scryfall.com/card/xln/180/colossal-dreadmaw) is left weeping next to it.
 - [Hazardroot Herbalist](https://scryfall.com/card/blb/174) It gains power without needing to attack, which is fine, the 1/4 body is also great as a blocker that stays home, and the token deathtouch ability is a bonus.
 
 |                                                  175                                                  |                                                  176                                                  |                                                  177                                                  |
@@ -106,7 +106,7 @@ Ratings:
 
 Ratings:
 
-- [Keen-Eyed Curator](https://scryfall.com/card/blb/181) A 2/3/3 is already outstanding, and growing it to 7/7 makes a very strong bomb, whether you play it early and raise it while attacking or play it for six late and take the full benefit directly.
+- [Keen-Eyed Curator](https://scryfall.com/card/blb/181) A 2-mana 3/3 is already outstanding, and growing it to 7/7 makes a very strong bomb, whether you play it early and raise it while attacking or play it for six late and take the full benefit directly.
 - [Longstalk Brawl](https://scryfall.com/card/blb/182) For one mana, put a counter and then fight, with a low gift cost; note that if the opponent has no creature to target, you cannot say you cast it without the gift and just put a counter.
 - [Lumra, Bellow of the Woods](https://scryfall.com/card/blb/183) It is very likely a big creature on entering, and it can attack while staying untapped; if the colors are right, just take it.
 
@@ -117,7 +117,7 @@ Ratings:
 
 Ratings:
 
-- [Misbreath Elder](https://scryfall.com/card/blb/184) Used to re-trigger enter-the-battlefield creatures, its toughness grows steadily which is decent, but note that returning another creature is mandatory; you cannot choose not to.
+- [Misbreath Elder](https://scryfall.com/card/blb/184) Used to re-trigger enter-the-battlefield creatures, its body grows steadily, which is decent, but note that returning another creature is mandatory; you cannot choose not to.
 - [Overprotect](https://scryfall.com/card/blb/185) A combat trick that gives you everything, good for both offense and defense; if your opponent is playing green, you should guard against this one to some degree.
 - [Pawpatch Formation](https://scryfall.com/card/blb/186) A flexible removal-or-draw-a-card spell, a removal card you can put in the main deck.
 
@@ -140,7 +140,7 @@ Ratings:
 Ratings:
 
 - [Rust-Shield Rampager](https://scryfall.com/card/blb/190) Probably the most awkward offspring creature this time; an extra 1/1 that cannot be blocked by power 2 or less sounds a bit awkward, but the main body is still quite good against token decks.
-- [Scrapshooter](https://scryfall.com/card/blb/191) A 3/4/4 body is good, and optionally destroying something on entering and drawing a card is quite good.
+- [Scrapshooter](https://scryfall.com/card/blb/191) A 3-mana 4/4 body is good, and optionally destroying something on entering and drawing a card is quite good.
 - [Season of Gathering](https://scryfall.com/card/blb/192) Pump up to five creatures and rush in, destroy all artifacts or enchantments, draw a large number of cards; every option is strong, and it is worth investing in green for it.
 
 |                                                  193                                                  |                                                  194                                                  |                                                  195                                                  |
@@ -172,8 +172,8 @@ Ratings:
 
 Ratings:
 
-- [Three Tree Scribe](https://scryfall.com/card/blb/199) A 2/2/3 body that is above average, a card that goes with the blue-green theme of re-entering creatures over and over.
-- [Treeguard Duo](https://scryfall.com/card/blb/200) On entering it pumps the team and attacks while staying untapped; in a go-wide deck, giving creatures trample or menace has a chance to be a one-hit kill.
+- [Three Tree Scribe](https://scryfall.com/card/blb/199) A 2-mana 2/3 body that is above average, a card that goes with the blue-green theme of re-entering creatures over and over.
+- [Treeguard Duo](https://scryfall.com/card/blb/200) On entering it pumps the team and attacks while staying untapped; in a go-wide deck with creatures that have trample or evasion, it has a chance to be a one-hit kill.
 - [Treetop Sentries](https://scryfall.com/card/blb/201) A defensive creature, and the condition to draw a card on entering is not hard to meet.
 
 |                                                  202                                                  |                                                  203                                                  |                    ###                    |

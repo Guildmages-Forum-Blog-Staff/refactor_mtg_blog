@@ -46,7 +46,7 @@ Comment: Two-mana ramp that also serves as a flying beater, with vigilance, so y
 <!---48--->
 {% mtgpick "fin" 48 %}
 Score: 2.5
-Comment: An enhanced [Divination](https://scryfall.com/card/m19/51/divination). It is a bit of a shame if you do not trigger the four-mana noncreature spell ability that it cares about, but one copy is still fine.
+Comment: An enhanced [Divination](https://scryfall.com/card/m19/51/divination). It is a bit of a shame that it cannot trigger the abilities that care about four-mana noncreature spells, but one copy is still fine.
 
 <!---49--->
 {% mtgpick "fin" 49 %}
@@ -96,7 +96,7 @@ Comment: A two-mana 2/1 flier that also surveils when it attacks. Excellent.
 <!---58--->
 ![58](https://images.guildmagesforum.tw/posts/FIN-Blue/0705401638e9.webp)
 Score: 3.5
-Comment: The creature is an [Aether Adept](https://scryfall.com/card/m12/41/aether-adept). Once you have enough mana she can keep activating to gain a tempo advantage, and she has a chance to win you the game.
+Comment: The creature is an [Aether Adept](https://scryfall.com/card/m12/41/aether-adept). Once you have enough mana she can keep transforming to gain a tempo advantage, and she has a chance to win you the game.
 
 <!---59--->
 {% mtgpick "fin" 59 %}
@@ -126,7 +126,7 @@ Comment: A powerful card-draw spell with flashback. You can usually get the best
 <!---64--->
 {% mtgpick "fin" 64 %}
 Score: 2.0
-Comment: The theater airship from FFIX, a four-mana noncreature spell trigger. It is a bit worse than a plain flier, but it still has a chance to kill with it.
+Comment: The theater airship from FFIX, a four-mana noncreature spell trigger. It is a bit worse than a plain flier, but you can still win games with it.
 
 <!---65--->
 {% mtgpick "fin" 65 %}
@@ -191,7 +191,7 @@ Comment: A three-mana instant-speed removal spell.
 <!---77--->
 {% mtgpick "fin" 77 %}
 Score: 4.5
-Comment: On its own it is a two-way sweeper, then you draw a card for six mana. But if you have picked up a few [Sahagin](https://scryfall.com/card/fin/71/sahagin), the synergy would be great.
+Comment: On its own it is a two-way sweeper, then it attacks for six and draws a card. But if you have picked up a few [Sahagin](https://scryfall.com/card/fin/71/sahagin), the synergy would be great.
 
 <!---78--->
 {% mtgpick "fin" 78 %}
@@ -236,7 +236,7 @@ Comment: Milling is strong in Limited, but this card's mill ability costs a bit 
 <!---86--->
 {% mtgpick "fin" 86 %}
 Score: 4.0
-Comment: [Thassa, Deep-Dwelling](https://scryfall.com/card/thb/71/thassa-deep-dwelling) in Yae Miao form. Whether paired with enter-the-battlefield creatures or Summons, it is strong, and both types of creature cards are plentiful in Limited. The end-step ability also triggers one extra time, and at worst it gives two creatures pseudo-vigilance, so there is little reason not to play it.
+Comment: [Thassa, Deep-Dwelling](https://scryfall.com/card/thb/71/thassa-deep-dwelling) in Y'shtola form. Whether paired with enter-the-battlefield creatures or Summons, it is strong, and both types of creature cards are plentiful in Limited. The end-step ability also triggers one extra time, and at worst it gives two creatures pseudo-vigilance, so there is little reason not to play it.
 
 ## Conclusion
 

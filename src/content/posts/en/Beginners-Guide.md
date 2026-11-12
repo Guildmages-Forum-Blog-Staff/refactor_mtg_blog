@@ -122,7 +122,7 @@ White has the broadest range of answers of any color, but some of its abilities 
 
 - **Blue**
 ![Blue](https://images.guildmagesforum.tw/posts/Beginners-Guide/9216456ed759.webp)
-    - **Counterspells:** To counter means to nullify a spell the opponent casts, commonly nicknamed "康" (kang). This is blue's most irreplaceable trait.
+    - **Counterspells:** To counter means to nullify a spell the opponent casts, commonly nicknamed "kang" by Chinese-speaking players. This is blue's most irreplaceable trait.
     - **Card Draw:** Although every color can draw cards, blue's card draw is usually the most efficient.
     - **Milling:** Milling means putting cards from the opponent's library directly into the graveyard. In some matchups, attacking the opponent's library is an easier route to victory than attacking their life total.
     - **Removal:** Because it already has the special ability of **counterspells**, blue is the weakest of the five colors at dealing with permanents on the battlefield; it usually just returns things on the battlefield to hand or library, which makes it hard to solve a problem cleanly. But blue has another distinctive way of handling things: directly taking control of the opponent's stuff <font color="#AAAAAA">(NTR)</font>.
@@ -223,9 +223,9 @@ A common enchantment subtype is the Aura, which attaches to a specified object a
 - Planeswalker
 ![Planeswalker](https://images.guildmagesforum.tw/posts/Beginners-Guide/18d218c504b0.webp)
 
-Planeswalkers are also called "旅法師" <font color="#AAAAAA">(the name of the Taiwanese site 旅法師營地 comes from this)</font>. Planeswalkers are the most special of these seven common types, and also the type with the most complicated rules. They were not part of MTG from the beginning; the first planeswalker card appeared in 2007.
+In Chinese, planeswalkers are also called "traveling mages" <font color="#AAAAAA">(the Chinese MTG site iyingdi, "Traveling Mages' Camp", takes its name from this)</font>. Planeswalkers are the most special of these seven common types, and also the type with the most complicated rules. They were not part of MTG from the beginning; the first planeswalker card appeared in 2007.
 
-When a planeswalker enters the battlefield, it comes with a number of "loyalty counters" equal to the number in its bottom right corner, which can colloquially be understood as its health. When a planeswalker is dealt damage, it loses that many loyalty counters, and if the loyalty counters on a planeswalker become 0, that planeswalker goes to the graveyard. A planeswalker can be chosen as the target of a creature's attack, and the defending player can block creatures attacking a planeswalker with creatures, just as they would protect themselves.
+When a planeswalker enters the battlefield, it comes with a number of "loyalty counters" equal to the number in its bottom right corner, which can colloquially be understood as its health. When a planeswalker is dealt damage, it loses that many loyalty counters, and if the loyalty counters on a planeswalker become 0, that planeswalker goes to the graveyard. A planeswalker can be attacked by creatures, and the defending player can block creatures attacking a planeswalker with creatures, just as they would protect themselves.
 > For a detailed explanation of the combat phase, see the "Turn Structure" section later.
 
 Each planeswalker can activate one loyalty ability per turn on your own turn, at sorcery speed. That means choosing one of the abilities on the planeswalker, adding or removing loyalty counters on it according to the [+N] / [-N] value left of the colon, and then carrying out the effect described to the right of the colon. To activate a [-N] loyalty ability, the planeswalker must have at least N loyalty counters; for example, if this planeswalker currently has only 2 loyalty counters, it cannot activate a [-3] ability.
@@ -269,17 +269,17 @@ MTG has five basic land types. The names of the basic lands of these types and t
 
 ![BasicLand](https://images.guildmagesforum.tw/posts/Beginners-Guide/42ebb846691f.webp)
 
-| Chinese Name | English Name | Color Produced |
-| :-: | :-: | :-: |
-|平原|Plains|White|
-|海島|Island|Blue|
-|沼澤|Swamp|Black|
-|山脈|Mountain|Red|
-|樹林|Forest|Green|
+| Basic Land | Color Produced |
+| :-: | :-: |
+|Plains|White|
+|Island|Blue|
+|Swamp|Black|
+|Mountain|Red|
+|Forest|Green|
 
 Tapping a land by turning it 90° draws mana from it. The mana basic lands can produce is shown in the table above; other special lands produce specified mana according to their own effects.
 
-Now that we have mana, we can cast spells. The mana needed to cast a spell is written in the card's upper right corner. Take the image below as an example: this bird, Hardened Academic, costs 3 in total, of which 1 is a colored requirement of white, which can only be paid with white mana, and the remaining 2 are generic, which can be paid with mana of any color, or even colorless mana.
+Now that we have mana, we can cast spells. The mana needed to cast a spell is written in the card's upper right corner. Take the image below as an example: this bird costs 3 in total, of which 1 is a colored requirement of white, which can only be paid with white mana, and the remaining 2 are generic, which can be paid with mana of any color, or even colorless mana.
 ![Mana](https://images.guildmagesforum.tw/posts/Beginners-Guide/b566e1751bce.webp)
 
 Lands are not the only source of mana; MTG has all kinds of ways to get mana. Also, when the mana produced is colorless, it is shown with the diamond-shaped colorless symbol:
@@ -415,7 +415,7 @@ Because my <font color="#00B050">Titanic Growth</font> is at the top of the stac
 
 ![Stack 3](https://images.guildmagesforum.tw/posts/Beginners-Guide/0433d5eb0c54.webp)
 
-Remember we said earlier that a major trait of blue is the counterspell (康)? Counterspells are a mechanic that lives on the stack, able to directly nullify a spell on the stack.
+Remember we said earlier that a major trait of blue is the counterspell? Counterspells are a mechanic that lives on the stack, able to directly nullify a spell on the stack.
 
 ![Stack 4](https://images.guildmagesforum.tw/posts/Beginners-Guide/c3b9937a572c.webp)
 
@@ -500,7 +500,7 @@ The construction rules for Constructed are: main deck ≥ 60 cards, sideboard �
 
 - **Standard**
 A rotating format: as new Standard sets are released, old sets are periodically removed from the available card pool, keeping the Standard card pool within roughly the last 2-3 years of sets. The rotation cycle is once a year, with the old-set rotation happening when the first Standard set of each year is released, so that the oldest year of Standard sets leaves Standard.
-The only special exception currently is the Foundations Bundle set released on November 15, 2024. That set is not subject to the normal rotation rules, and has instead been individually set to leave Standard in 2029.
+The only special exception currently is the Foundations set released on November 15, 2024. That set is not subject to the normal rotation rules, and has instead been individually set to leave Standard in 2029.
 
 > PS: In 2025 the definition of the rotation cycle was changed. To accommodate the change between old and new cycles, no sets will leave Standard in 2026, and the rules above apply starting in 2027.
 
@@ -510,13 +510,13 @@ All formats other than Standard are non-rotating formats, and old sets do not be
 Allows Standard sets starting from Return to Ravnica (October 2012) to the present.
 
 - **Modern**
-Allows Standard sets starting from Eighth Edition (July 2003) to the present, plus the Modern Horizons sets and a small number of sets individually designated as legal in Modern. This format is also known as 摩登 in Chinese.
+Allows Standard sets starting from Eighth Edition (July 2003) to the present, plus the Modern Horizons sets and a small number of sets individually designated as legal in Modern.
 
 - **Legacy**
 Allows all sets in MTG history to the present, including all kinds of non-Standard side sets.
 
 - **Pauper**
-Allows all sets in MTG history to the present, but the card must have been printed at the lowest rarity, **Common (C)**, at least once. This format is also known as 純鐵 in Chinese.
+Allows all sets in MTG history to the present, but the card must have been printed at the lowest rarity, **Common (C)**, at least once.
 
 - **Vintage**
 Allows all sets in MTG history to the present, and this format in principle does not use a banned list, but instead uses a restricted list (limit one).
@@ -537,7 +537,7 @@ A non-rotating format on MTGA that can use all cards included in MTGA, including
 - **Timeless**
 Similar to Vintage on MTGA, it can use all cards included in MTGA. This format does not use a banned list, but instead uses a restricted list (limit one). In addition, rebalanced cards are not used; the original version of the card is used instead.
 
-> - **Knockout format: Explorer** 
+> - **Retired format: Explorer** 
 It can be understood as a mini Pioneer on MTGA, able to use cards legal in the Pioneer format. The banned list principle is to stay in sync with the paper Pioneer format (though there are slight differences). It used to be split into its own format because MTGA did not have the complete Pioneer card pool, and the missing cards included key cards of meta decks, so it became a separate format. In May 2025, the official view was that MTGA's card pool had been filled out to a degree similar enough to the paper Pioneer meta, so Explorer was converted into Pioneer, with the banned list fully identical to paper. However, note that MTGA's Pioneer card pool still has missing cards relative to paper, and there will be follow-up plans to add the missing Pioneer cards.
 
 
@@ -570,7 +570,7 @@ This section introduces several commonly used MTG-related resource websites. Eac
 
 ### [MTGGoldfish](https://www.mtggoldfish.com/)
 
-Known colloquially as the "goldfish site" (金魚網), it is MTG's main all-purpose tool. Its most basic and commonly used features are:
+Known colloquially as the "goldfish site", it is MTG's main all-purpose tool. Its most basic and commonly used features are:
 
 - **Metagame Statistics and Example Decklists**
 On the top tab bar, choose "Deck" → "Popular Decks / Metagame" to display the current metagame's deck shares and a list of example decks. Click into a deck to see its full decklist; the toolbar above the deck list lets you choose the format and the time range.

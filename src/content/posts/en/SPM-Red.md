@@ -67,7 +67,7 @@ Comment: If you can discard reliably it's a decent flying attacker, but without 
 <!---81--->
 ![](https://images.guildmagesforum.tw/SPM/81.webp)
 Score: 3.0
-Comment: It grants trample and makes a Treasure for ramp, and you can suspect your own creature to gain menace and operate by itself. Black in this set has several cards that have menace built in or grant it, so it's fine in either Red-Green or Red-Black. Treasures can also help activate the three-color transformation ability of this set's mythic rare creatures.
+Comment: It grants evasion and makes a Treasure for ramp, and you can suspect your own creature to gain menace and operate by itself. Black in this set has several cards that have menace built in or grant it, so it's fine in either Red-Green or Red-Black. Treasures can also help activate the three-color transformation ability of this set's mythic rare creatures.
 
 <!---82--->
 ![](https://images.guildmagesforum.tw/SPM/82.webp)
@@ -77,7 +77,7 @@ Comment: An [Insolent Neonate](https://scryfall.com/card/soi/168/insolent-neonat
 <!---83--->
 ![](https://images.guildmagesforum.tw/SPM/83.webp)
 Score: 1.5
-Comment: A card for multiplayer games, with almost zero impact on the board. It can only force an opponent's creature to hand over its head when you have a board advantage, or slowly toss out a [Lava Axe](https://scryfall.com/card/m19/150/lava-axe) that may not finish them off after three turns. In principle I don't recommend putting it in a deck.
+Comment: A card for multiplayer games, with almost zero impact on the board. It can only force an opponent's creature to throw itself away when you have a board advantage, or slowly toss out a [Lava Axe](https://scryfall.com/card/m19/150/lava-axe) that may not finish them off after three turns. In principle I don't recommend putting it in a deck.
 
 <!---84--->
 ![](https://images.guildmagesforum.tw/SPM/84.webp)
@@ -112,7 +112,7 @@ Comment: [Shock](https://scryfall.com/card/spm/88/shock) in the left hand, [Shoc
 <!---90--->
 ![](https://images.guildmagesforum.tw/SPM/90.webp)
 Score: 2.5
-Comment: A Mayhem activator that can be used continuously. When ahead you can rummage every turn for Mayhem, but it can't tap itself on the spot, and it has no trample of its own, so it's awkward when it can't get through.
+Comment: A Mayhem activator that can be used continuously. When ahead you can rummage every turn for Mayhem, but it can't tap itself on the spot, and it has no evasion of its own, so it's awkward when it can't get through.
 
 <!---91--->
 ![](https://images.guildmagesforum.tw/SPM/91.webp)
@@ -152,7 +152,7 @@ Comment: A two-mana beater with power 3. Beating people up yourself or giving ot
 <!---98--->
 ![](https://images.guildmagesforum.tw/SPM/98.webp)
 Score: 3.0
-Comment: A pure-red instant-speed positive removal spell. When you target an attacking creature you can burn the opponent's face for two on the side.
+Comment: A mono-red instant-speed hard removal spell. When you target an attacking creature you can burn the opponent's face for two on the side.
 
 ## Conclusion
 

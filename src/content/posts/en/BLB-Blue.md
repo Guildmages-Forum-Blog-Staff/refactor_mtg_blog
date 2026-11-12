@@ -49,7 +49,7 @@ Review:
 
 Review:
 
-- [Daring Waverider](https://scryfall.com/card/blb/44) is a very high-quality late-game blue creature, basically a budget version of [Torrential Gearhulk](https://scryfall.com/card/cmm/128). As long as it can earn you a removal spell or a draw spell, it is strong.
+- [Daring Waverider](https://scryfall.com/card/blb/44) is a very high-quality uncommon late-game creature, basically a budget version of [Torrential Gearhulk](https://scryfall.com/card/cmm/128). As long as it can earn you a removal spell or a draw spell, it is strong.
 - [Dire Downdraft](https://scryfall.com/card/blb/46) is a rare piece of removal in mono blue. It is not efficient, but it is still a notch better than bounce.
 
 |                                                  047                                                  |                                                  048                                                  |                                                  049                                                  |
@@ -71,7 +71,7 @@ Review:
 Review:
 
 - [Gossip's Talent](https://scryfall.com/card/blb/51) at level one performs well alongside the Dimir threshold theme. Level two can provide evasive damage, but level three is not worth much since the set's enter-the-battlefield abilities aren't strong.
-- [Into the Food Maw](https://scryfall.com/card/blb/52) is the new Unsummon. This kind of effect is generally ineffective in Limited.
+- [Into the Flood Maw](https://scryfall.com/card/blb/52) is the new Unsummon. This kind of effect is generally ineffective in Limited.
 
 |                                                  053                                                  |                                                  054                                                  |                                                  055                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -140,7 +140,7 @@ Review:
 Review:
 
 - [Skyskipper Duo](https://scryfall.com/card/blb/71) is a 5-mana 3/3 flyer, which is not up to standard, and the set lacks strong enter-the-battlefield abilities, so most of the time it can only reset a target creature.
-- [Spellgyre](https://scryfall.com/card/blb/72) costs 4 to swap players in Limited, so its value only shows up in the mid to late game.
+- [Spellgyre](https://scryfall.com/card/blb/72) needs you to hold up 4 mana to trade with a card in Limited, so its value only shows up in the mid to late game.
 
 |                                                  074                                                  |                                                  075                                                  |                                                  076                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |

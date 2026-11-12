@@ -64,7 +64,7 @@ And then... there are no other new cards from the [SOS](https://scryfall.com/set
 
 [Bitter Triumph](https://scryfall.com/card/sch/42/bitter-triumph) x1: With the escort of this deck's [Scavenging Ooze](https://scryfall.com/card/m21/204/zht/%E8%85%90%E9%A3%9F%E6%B5%81%E6%BC%BF-(scavenging-ooze)), I think it can fit one copy.
 
-[Origin of Metalbending](https://scryfall.com/card/tla/187/origin-of-metalbending) x1: Its ceiling can give one creature indestructible and put +1/+1 counters, and then it can also be a piece of disruption. As always, flexibility is strength.
+[Origin of Metalbending](https://scryfall.com/card/tla/187/origin-of-metalbending) x1: Its ceiling can give one creature indestructible and put +1/+1 counters, and then it can also be artifact/enchantment removal. As always, flexibility is strength.
 
 [Strategic Betrayal](https://scryfall.com/card/tdm/94/strategic-betrayal) x1: A sorcery-speed main-deck graveyard hate card that also handles a creature. It has become very important in the [SOS](https://scryfall.com/sets/sos) season.
 
@@ -82,7 +82,7 @@ And then... there are no other new cards from the [SOS](https://scryfall.com/set
 
 [Ba Sing Se](https://scryfall.com/card/ptla/266s/ba-sing-se) x2: Besides letting lands join combat, earthbend fits this deck's theme of **putting counters to gain dividends** even better, so bringing two is not excessive at all.
 
-[Restless Cottage](https://scryfall.com/card/woe/304/restless-cottage) x1: A transforming land that sometimes helps us break a stalemate. Standard has entered an explosive tempo where you must hate graveyards as fast as possible, so exiling one card from a graveyard is only a bonus, and you cannot expect it to completely solve the problem.
+[Restless Cottage](https://scryfall.com/card/woe/304/restless-cottage) x1: A manland that sometimes helps us break a stalemate. Standard has entered an explosive tempo where you must hate graveyards as fast as possible, so exiling one card from a graveyard is only a bonus, and you cannot expect it to completely solve the problem.
 
 [Forest](https://scryfall.com/card/lci/291/forest) x4: We always need it.
 
@@ -121,7 +121,7 @@ And then... there are no new cards from the [SOS](https://scryfall.com/sets/sos)
 
 I originally wanted to analyze for everyone this deck's winning windows against each build in the environment, but unfortunately I have little leisure time lately, so I will leave this part to readers to interpret on their own. I will only remind you that when facing control decks, you especially need a proper opening hand that applies life pressure, you must discard most of the counter-and-draw components, and rely more on the sideboard's [Frenzied Baloth](https://scryfall.com/card/eoe/183/frenzied-baloth) and various discard effects.
 
-The author did not perform well at the Last Chance Qualifier on 2026-05-23, because I inexplicably chose to play another niche deck, and instead did not win the matchups I should have won, so I lost. When I finally admitted my mistake and switched back to Golgari Midrange for the last round, I ran into [Izzet Spellementals](https://www.mtggoldfish.com/archetype/standard-izzet-spellementals-woe#paper) and lost again.
+The author did not perform well at the Last Chance Qualifier on 2026-05-23, because I made a last-minute switch to another niche deck, and instead did not win the matchups I should have won, so I lost. When I finally admitted my mistake and switched back to Golgari Midrange for the last round, I ran into [Izzet Spellementals](https://www.mtggoldfish.com/archetype/standard-izzet-spellementals-woe#paper) and lost again.
 
 I never expected that a week later, after removing one creature and putting [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) back in, it became unusually smooth. This made me realize: when your own main plan is not the strongest in the environment, black players should still focus on disrupting the opponent's plan and use the openings torn open by discard to win.
 

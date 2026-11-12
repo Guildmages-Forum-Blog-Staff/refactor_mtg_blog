@@ -91,7 +91,7 @@ Spree
 Arguably the author's favorite mechanic in Outlaws of Thunder Junction. I think we can all agree that a good card should be cheap and do as many things as possible. Spree not only lets you choose what to do depending on the situation, it also lets you allocate the cost yourself. Since this is a Standard set, the cards so far are relatively conservative, ~~and we look forward to the day it causes an uproar in other formats~~.
 
 Plot
-Similar to Kaldheim's Foretell: pay the cost first, then use the card on a later turn. Used well, it can definitely threaten the board, but the turn in which you pay first is almost like doing nothing, which is quite dangerous. Fortunately there are other spells that Plot cards can be cast with. We look forward to a wonderful deck that plots [Omniscience](https://scryfall.com/card/fdn/161/omniscience) using [Make Your Own Luck](https://scryfall.com/card/otj/218/make-your-own-luck).
+Similar to Kaldheim's Foretell: pay the cost first, then use the card on a later turn. Used well, it can definitely threaten the board, but the turn in which you pay first is almost like doing nothing, which is quite dangerous. Fortunately there are other cards that give spells plot. We look forward to a wonderful deck that plots [Omniscience](https://scryfall.com/card/fdn/161/omniscience) using [Make Your Own Luck](https://scryfall.com/card/otj/218/make-your-own-luck).
 
 ++**Summary**++
 
@@ -170,7 +170,7 @@ Although this set is also mainly refreshed old mechanics, the effects of many in
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/4eb9c1c5276a.webp)
 
 On November 15, 2024, the most shocking set of the year came out, and also the author's favorite set of the year: **Foundations**.
-Unlike previous Standard sets, **the cards in this set can be used in Standard for the next five years**, and there are as many as 512 of them. Besides classic cards from Magic's history, there are also new cards. For details, please read [How Foundations Impacts Standard](https://guildmagesforum.tw/en/Standard-Crushing-by-FDN/).
+Unlike previous Standard sets, **the cards in this set can be used in Standard for the next five years**, and there are as many as 512 of them. Besides classic cards from Magic's history, there are also new cards. For details, please read [The Impact of Foundations on Standard](https://guildmagesforum.tw/en/Standard-Crushing-by-FDN/).
 
 ++**Summary**++
 
@@ -187,10 +187,10 @@ Or use the [CATEGORIES] menu at the top of Guildmages' Forum and choose [Constru
 ## Non-Standard Sets
 ![](https://images.guildmagesforum.tw/posts/2024-Set-Review/35509bbbd0c8.webp)
 
-This year's non-Standard releases were four sets in total: "[Ravnica Remastered](https://magic.wizards.com/zh-Hant/products/ravnica-remastered)", "[Fallout](https://magic.wizards.com/zh-Hant/products/fallout)", "[Modern Horizons 3](https://magic.wizards.com/zh-Hant/products/modern-horizons-3)", and "[Magic: The Gathering - Assassin's Creed](https://magic.wizards.com/zh-Hant/products/assassins-creed)" (so many!). Ravnica Remastered brought back the [shock lands](https://scryfall.com/search?q=set%3Arvr+%28oracle%3Apay+oracle%3A2%29+type%3Aland+%28game%3Apaper%29&unique=cards&as=grid&order=name). Magic: The Gathering - Assassin's Creed brought new cards to Modern and below, and many of its equipment shine in Commander. Fallout rarely brought new cards to Pioneer and below, including many reprints of staple cards, offering players a new way to obtain them. And our absolute star, **Modern Horizons 3**, directly affected the Modern environment. Not to mention the slaughter by [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom), which people who do not even play Modern have heard of. Besides the rise of new decks, many old decks were strengthened too, a real hundred schools of thought contending. Guildmages' Forum also has Modern-related articles:
-[Why Nadu Must Die: Aug 26th BnR Prediction](https://guildmagesforum.tw/en/Why-Nadu-Should-Die/)
-[Blue-Black Murktide's New Tech: Echo of Eons](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/)
-[Modern Mardu Energy: When Panthers Meet the One Ring](https://guildmagesforum.tw/en/Modern-Mardu-Energy/)
+This year's non-Standard releases were four sets in total: "[Ravnica Remastered](https://magic.wizards.com/zh-Hant/products/ravnica-remastered)", "[Fallout](https://magic.wizards.com/zh-Hant/products/fallout)", "[Modern Horizons 3](https://magic.wizards.com/zh-Hant/products/modern-horizons-3)", and "[Magic: The Gathering - Assassin's Creed](https://magic.wizards.com/zh-Hant/products/assassins-creed)" (so many!). Ravnica Remastered brought back the [shock lands](https://scryfall.com/search?q=set%3Arvr+%28oracle%3Apay+oracle%3A2%29+type%3Aland+%28game%3Apaper%29&unique=cards&as=grid&order=name). Magic: The Gathering - Assassin's Creed brought new cards to Modern and below, and many of its equipment shine in Commander. Fallout is a rare set that brought new cards to Legacy and below, including many reprints of staple cards, offering players a new way to obtain them. And our absolute star, **Modern Horizons 3**, directly affected the Modern environment. Not to mention the slaughter by [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom), which people who do not even play Modern have heard of. Besides the rise of new decks, many old decks were strengthened too, a real hundred schools of thought contending. Guildmages' Forum also has Modern-related articles:
+[Why Nadu Must Die: Aug 26th BnR Predictions](https://guildmagesforum.tw/en/Why-Nadu-Should-Die/)
+[New Tech for Dimir Murktide: Echo of Eons](https://guildmagesforum.tw/en/Modern-Dimir-Murktide/)
+[Modern Mardu Energy: When the Ocelot Pride Meets The Lord of the Rings](https://guildmagesforum.tw/en/Modern-Mardu-Energy/)
 [Why (I Think) The One Ring Must Die: Dec 16th BnR Prediction](https://guildmagesforum.tw/en/Why-The-One-Ring-Should-Die/)
 
 ---

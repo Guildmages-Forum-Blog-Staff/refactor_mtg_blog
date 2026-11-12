@@ -170,7 +170,7 @@ Comment: A powerful green instant-speed removal spell that costs only two mana i
 <!---121--->
 ![](https://images.guildmagesforum.tw/SPM/121.webp)
 Score: 2.5
-Comment: At worst it's four mana for a 3/2 and gaining 1 life. It relies heavily on enchantments that work with your own Spiders, and if your deck has a lot of Spiders, it would be great as a lord effect.
+Comment: At worst it's four mana for a 3/2 and gaining 1 life. It's an enchantment that relies heavily on your own Spiders, and if your deck has a lot of Spiders, it would be great as a lord effect.
 
 
 <!---122--->

@@ -21,7 +21,7 @@ It all started with this article that Maro published on October 16, 2023:
 
 [WHAT ARE PLAY BOOSTERS?](https://magic.wizards.com/en/news/making-magic/what-are-play-boosters)
 
-You can click the link above to read the original; if you don't mind Simplified Chinese and are too lazy to read English, you can also read the translated version on 旅法師營地 directly:
+You can click the link above to read the original; if you don't mind Simplified Chinese and are too lazy to read English, you can also read the translated version on iyingdi directly:
 
 [What Are Play Boosters (Simplified Chinese translation)](https://www.iyingdi.com/tz/post/5307236)
 

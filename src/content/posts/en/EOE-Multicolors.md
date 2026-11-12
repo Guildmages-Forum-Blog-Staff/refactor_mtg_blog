@@ -40,7 +40,7 @@ Build an artifact-based deck and slowly win by draining the opponent's resources
 
 Use the Void mechanic, paying with creatures and artifacts to trigger devastating events. If {% mtglink "Interceptor Mechan" %} keeps triggering its Void ability, it is a terrifying presence as an air attacker; when {% mtglink "Alpharael, Stonechosen" %} attacks and triggers Void, it halves the opponent's life, and that damage is quite considerable.
 
-One last reminder: the opponent's nonland permanents leaving the battlefield also trigger Void effects
+One last reminder: the opponent's nonland permanents leaving the battlefield also trigger Void effects.
 
 ### <span style="color:#AF2321">Red</span><span style="color:#4A8A3D">Green</span> — Landers and Landfall
 
@@ -112,13 +112,13 @@ Comment: An excellent creature for blue-green. The enters ability helps with ram
 <!---214--->
 {% mtgpick "eoe" 214 %}
 Rating: 3.5
-Comment: Extra offense for red-green. Besides being able to sacrifice Lander tokens proactively, it can also splash black into a sacrifice package to keep damage output steady.
+Comment: Extra offense for red-green. Besides being able to sacrifice Lander tokens proactively, you can also splash black and slot it into a sacrifice package to keep the damage output steady.
 
 
 <!---215--->
 {% mtgpick "eoe" 215 %}
 Rating: 1.0
-Comment: It only looks at the number of cards in your own exile zone, so the payoff is a bit too low and you can't proactively grow its toughness.
+Comment: It only looks at the number of cards in your own exile zone, so the payoff is a bit too low and you can't proactively grow its body.
 
 
 <!---216--->
@@ -142,7 +142,7 @@ Comment: A steady source of counters and card refills.
 <!---219--->
 {% mtgpick "eoe" 219 %}
 Rating: 1.5
-Comment: A Spacecraft that should only be castable via Lander tokens, but it's still a bit too rigid; the enters benefit probably needs three or more creatures to match its casting difficulty.
+Comment: A Spacecraft that should only be castable via Lander tokens, but it's still a bit too demanding; the enters benefit probably needs three or more creatures to match its casting difficulty.
 
 
 <!---220--->
@@ -172,7 +172,7 @@ Comment: It makes a token whenever you cast it, and in an aggro deck, a flying c
 <!---224--->
 {% mtgpick "eoe" 224 %}
 Rating: 3.0
-Comment: Food damage from range that shouldn't be underestimated, but the life gain may need other sources; on its own, it takes two artifacts each time, one to eat and one to discard.
+Comment: Ranged damage off Food that shouldn't be underestimated, but the life gain may need other sources; on its own, it takes two artifacts each time, one to eat and one to discard.
 
 
 <!---225--->
@@ -220,7 +220,7 @@ Comment: Stack it twice and it can trade one-for-two, and exiling it also trigge
 <!---232--->
 {% mtgpick "eoe" 232 %}
 Rating: 3.0
-Comment: A source of trample for white-black going wide, guaranteeing at least a one-for-one in combat trades.
+Comment: A way to push damage through for white-black going wide, guaranteeing at least a one-for-one in combat trades.
 
 
 <!---233--->

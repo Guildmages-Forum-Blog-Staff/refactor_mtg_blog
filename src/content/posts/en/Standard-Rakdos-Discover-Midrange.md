@@ -15,7 +15,7 @@ authors:
 
 ## Introduction
 
-Hi everyone, I'm 荒野騎士. At the end of last year I heard that 2024 would be the year of Standard, and back in December I had already picked out the deck I wanted to play. Over these two months I've watched this deck go from off-meta to a Tier 1 deck, and from its original build to the current configuration, so I suppose I count as an OG player of this deck?
+Hi everyone, I'm Clark Shih, aka Wild Knight. At the end of last year I heard that 2024 would be the year of Standard, and back in December I had already picked out the deck I wanted to play. Over these two months I've watched this deck go from off-meta to a Tier 1 deck, and from its original build to the current configuration, so I suppose I count as an OG player of this deck?
 
 ## Why You Should Pick Rakdos Discover
 
@@ -253,5 +253,5 @@ The swaps are the same as against Esper Midrange (blue-black with a white splash
 
 ## Conclusion
 
-I never expected to make it the day after the submission deadline, hooray! I faced Domain three times and won all three!
+I never expected to qualify the very day after I submitted this article, lalala! I faced Domain three times and won all three~
 I'll share what happened at that day's RCQ in episode 26 of the podcast "[龍尊與荒野騎士的玄境之談](https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807)", which you can now listen to on [Spotify](https://open.spotify.com/show/0bnxC5SBsGN8bBh3n4Af18?si=c24b9a0b169245ac&nd=1) and [Apple Podcast](https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807)! If you have more questions, you can also search Facebook for "[夢續工作室DreamOn Studio](https://www.facebook.com/DreamOnStudio1560)" and send us a private message, and we can answer them there.

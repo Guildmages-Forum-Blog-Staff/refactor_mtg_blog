@@ -3,7 +3,7 @@ title: "A Tour of Nagoya Card Stores"
 date: "2024-09-23 13:03:34"
 cover: "https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/af335e96c0eb-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/af335e96c0eb-cover.jpg"
-excerpt: "Goldfish, 晴屋, and the physical environment in Taiwan differ clearly in both the deck metagame and deck building, so to satisfy my curiosity I decided to make a pilgrimage abroad."
+excerpt: "Goldfish, Hareruya, and the physical environment in Taiwan differ clearly in both the deck metagame and deck building, so to satisfy my curiosity I decided to make a pilgrimage abroad."
 authors:
   - "yu-chen"
 categories:
@@ -24,11 +24,11 @@ The densest cluster of card stores is around the Osu shopping district. Between 
 
 The biggest share of what they carry is Pokémon and Yu-Gi-Oh!, followed by One Piece, Dragon Ball, Duel Masters and WS, while Magic is only a niche. In all of Nagoya city there are only about six card stores running Magic.
 
-## The Standard Tournament at 晴屋大須店
+## The Standard Tournament at Hareruya Osu
 
 ![](https://images.guildmagesforum.tw/posts/Nagoya-Card-Store/779850adb45d.webp)
 
-Before entering you have to sign up for a 晴屋 membership, and you can also collect points when you buy things; you show your barcode when registering. The [event announcement](https://www.hareruyamtg.com/ja/events/366523/detail) is styled differently from Taiwan's, with extremely thorough details and caveats, which I suppose gives consumers more protection.
+Before entering you have to sign up for a Hareruya membership, and you can also collect points when you buy things; you show your barcode when registering. The [event announcement](https://www.hareruyamtg.com/ja/events/366523/detail) is styled differently from Taiwan's, with extremely thorough details and caveats, which I suppose gives consumers more protection.
 
 It was my first time playing in Japan, and I entered that day in an exchange spirit, hoping to improve my Japanese along the way, and of course getting some Japanese-art promo cards would be even better. The alternate arts of [Saheeli, the Sun's Brilliance](https://scryfall.com/card/pwcs/2024-05/ja/saheeli-the-suns-brilliance) and [Glimpse the Core](https://scryfall.com/card/pwcs/2024-03/ja/glimpse-the-core), wait for me!
 
@@ -43,7 +43,7 @@ My own decklist is [here](https://www.mtggoldfish.com/deck/6625362#paper).
 #### Round 1: 0-2 vs. Rakdos Lizards
 
 Game one, I was on the play; the opponent laid down too many Lizards late and I couldn't win, and I also made a rookie misplay... I had just drawn [Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge) and happily played it, then attacked with a 1/1 token, completely forgetting the opponent had a 2/2 [Deep-Cavern Bat](https://scryfall.com/card/lci/102/deep-cavern-bat) on the board.
-Game two, I was on the play; the opponent mulliganed once, and although they had a sweeper in their opening hand, the tempo didn't go smoothly and they lost the game.
+Game two, I was on the play; the opponent mulliganed once; although I had a sweeper in my opening hand, my tempo didn't go smoothly and I lost the game.
 
 (When I first sat down I told the opponent: "Nice to meet you, I'm from Taiwan." We also chatted a little after the match; I said the Taiwan environment is more diverse, and they were curious whether I had traveled to Tokyo or Kyoto, and I answered that I had already been to both.)
 

@@ -37,7 +37,7 @@ Here is the Amulet Titan [decklist](https://melee.gg/Decklist/View/377616) I use
 
 ![](https://images.guildmagesforum.tw/posts/Modern-Amulet-Titan/03f966589f9f.webp)
 
-Since the release of the *The Lord of the Rings: Tales of Middle-earth* set, the arrival of [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) (hereafter "the Ring") has strengthened many decks, and the biggest beneficiary is Amulet Titan. Amulet Titan used to have two core problems: **insufficient card refill** and **not enough survivability** when behind. Both are solved by the Ring alone. And as a big-mana deck, the Ring's rather clunky 4-mana curve has no impact at all in a Titan deck, which also helped Dom Harvey reach the top 4 at #PTLTR.
+Since the release of *The Lord of the Rings: Tales of Middle-earth*, the arrival of [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) (hereafter "the Ring") has strengthened many decks, and the biggest beneficiary is Amulet Titan. Amulet Titan used to have two core problems: **insufficient card refill** and **not enough survivability** when behind. Both are solved by the Ring alone. And as a big-mana deck, the Ring's rather clunky 4-mana curve has no impact at all in a Titan deck, which also helped Dom Harvey reach the top 4 at #PTLTR.
 
 After [Fury](https://scryfall.com/card/mh2/126/fury) was banned, the Rakdos Evoke decks, one of Amulet Titan's big nemeses, dropped off sharply, and Titan's share of the metagame gradually rose. Although Temur Rhinos, the king of the post-Fury era, is a slightly unfavorable matchup for Amulet Titan, after [Leyline of the Guildpact](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact) appeared, Leyline Rhinos came into everyone's view. Because [Tishana's Tidebinder](https://scryfall.com/card/lci/81/tishanas-tidebinder) and [Flame of Anor](https://scryfall.com/card/ltr/203/flame-of-anor) have become less common, Amulet Titan is slightly favored against Leyline Rhinos, making Amulet Titan one of the metagame's small winners.
 
@@ -140,7 +140,7 @@ Here is a simple table analyzing the pros and cons of these two configurations:
 |**Pros**| Better in long games; components are useful even when they show up alone | Higher burst ceiling; wins faster |
 |**Cons**| Lower burst damage; often needs multiple bursts | Worse in long games; more likely to run out of steam after the burst is disrupted |
 
-The traditional Amulet Titan build is based on the [Slayers' Stronghold](https://scryfall.com/card/avr/229/slayers-stronghold) + [Sunhome, Fortress of the Legion](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion) combination. However, the land used to pay for the Stronghold-Sunhome combination is the [red-white bounce land](https://scryfall.com/card/rav/275/boros-garrison). Compared with the [Valakut, the Molten Pinnacle](https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle) that [Hanweir Battlements](https://scryfall.com/card/emn/204/hanweir-battlements) is usually paired with, it connects better with the Dryad Valakut game plan, and combined with not needing to bounce a bounce land, it makes [Hanweir Battlements](https://scryfall.com/card/emn/204/hanweir-battlements) more stable in **long games**, and it has gradually become the mainstream configuration today.
+The traditional Amulet Titan build is based on the [Slayers' Stronghold](https://scryfall.com/card/avr/229/slayers-stronghold) + [Sunhome, Fortress of the Legion](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion) combination. However, the land used to pay for the Stronghold-Sunhome combination is the [red-white bounce land](https://scryfall.com/card/rav/275/boros-garrison). By contrast, the [Valakut, the Molten Pinnacle](https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle) that [Hanweir Battlements](https://scryfall.com/card/emn/204/hanweir-battlements) is usually paired with ties in better with the Dryad Valakut game plan, and combined with not needing to bounce a bounce land to hand, it makes [Hanweir Battlements](https://scryfall.com/card/emn/204/hanweir-battlements) more stable in **long games**, and it has gradually become the mainstream configuration today.
 
 ### <span id="link1"></span>Advanced: The Titan Kill Formula and the "[Hanweir Battlements](https://scryfall.com/card/emn/204/hanweir-battlements) Package"
 
@@ -273,7 +273,7 @@ Although Modern Horizons 3 has not officially joined tournament play as of writi
 
 ### [Shifting Woodland](https://scryfall.com/card/mh3/228/shifting-woodland)
 
-As a utility land, being able to copy a Titan, Amulet, or Dryad in the graveyard is all quite good. The only slightly troublesome thing is that Amulet Titan is not a deck that easily goes manic, and Titan decks' land construction is actually very tight right now, so I think it can be put on the watch list.
+As a utility land, being able to copy a Titan, Amulet, or Dryad in the graveyard is all quite good. The only slightly troublesome thing is that Amulet Titan is not a deck that easily turns on delirium, and Titan decks' land construction is actually very tight right now, so I think it can be put on the watch list.
 
 <br />
 

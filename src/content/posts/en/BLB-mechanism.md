@@ -63,7 +63,7 @@ Take the expend 4 of [Junkblade Bruiser](https://scryfall.com/card/blb/220/junkb
 
 ![Pawprint](https://images.guildmagesforum.tw/posts/BLB-mechanism/ed39f38be7c6.webp)
 
-This is a kind of multi-mode choose spell where the same mode can be chosen multiple times, and each mode has a corresponding pawprint value (like an animal footprint 🐾, abbreviated P in English). You can choose any mode any number of times, but the total P value of the chosen modes must be less than or equal to 5. You can choose 1+1+3, 2+3, 1+1+1+2, and so on, flexibly adjusting the spell's abilities to the situation and finding the best play for the board.
+This is a kind of modal spell where the same mode can be chosen multiple times, and each mode has a corresponding pawprint value (like an animal footprint 🐾, abbreviated P in English). You can choose any mode any number of times, but the total P value of the chosen modes must be less than or equal to 5. You can choose 1+1+3, 2+3, 1+1+1+2, and so on, flexibly adjusting the spell's abilities to the situation and finding the best play for the board.
 
 PS: Multi-mode spells are always executed from top to bottom.
 
@@ -95,7 +95,7 @@ Bloomburrow's Prerelease sealed events begin on July 26, 2024, so head to a near
 
 July 26 to August 1: Prerelease sealed events
 August 2: Bloomburrow release day
-August 2 to September 19: Standard matches
+August 2 to September 19: Standard Showdown
 August 16 to August 22: Commander Celebration
 August 24 to September 15: Store Championships
 September 6 to September 12: Commander Celebration

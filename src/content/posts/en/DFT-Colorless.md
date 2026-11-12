@@ -47,7 +47,7 @@ Comment: A four-mana bomb that immediately improves your board advantage as soon
 <!---232--->
 {% mtgpick "dft" 232 %}
 Score: 2.5
-Comment: A middle-of-the-road filler. Its main advantage is being able to make a flying creature with trample through its activated ability, which greatly helps with speeding up.
+Comment: A middle-of-the-road filler. Its main advantage is being able to make an evasive flying creature through its activated ability, which greatly helps with increasing your speed.
 
 <!---233--->
 {% mtgpick "dft" 233 %}
@@ -112,7 +112,7 @@ Comment: A one-mana filler with two removal abilities, more versatile than simil
 <!---243--->
 {% mtgpick "dft" 243 %}
 Score: 3.0
-Comment: As a mid-to-late-game threat with trample, crew 2 is very efficient, and its two-mana cycling ability makes it even more flexible.
+Comment: As an evasive mid-to-late-game threat, crew 2 is very efficient, and its two-mana cycling ability makes it even more flexible.
 
 
 <!---244--->
@@ -145,7 +145,7 @@ Comment: A usable way to gain life that has a certain effect in Limited, and it 
 Score: 3.0
 Comment: In two-color Limited builds, Verge lands are basically the same as dual lands, and even in multicolor decks they have a certain value.
 
-> Note: Dual land (Duel land): lands that produce two colors with no drawback and have two basic land types, commonly seen in formats from Legacy up. For example, [Volcanic Island](https://scryfall.com/card/leb/287/volcanic-island) can produce blue/red mana and has both the Mountain and Island land types.
+> Note: Dual land: lands that produce two colors with no drawback and have two basic land types, commonly seen in formats from Legacy up. For example, [Volcanic Island](https://scryfall.com/card/leb/287/volcanic-island) can produce blue/red mana and has both the Mountain and Island land types.
 
 ![Pilot land](https://images.guildmagesforum.tw/posts/DFT-Colorless/65b0e663feb9.webp)
 Score: 3.0
@@ -214,7 +214,7 @@ Comment: This environment has only 10 Zombie sources, and its tribal anthem effe
 <!---89--->
 {% mtgpick "spg" 89 %}
 Score: 4.0
-Comment: A sweeper plus direct damage that can save the creature with the best toughness on your own side of the battlefield, and if paired with deathtouch creatures its ceiling rises again.
+Comment: A sweeper plus direct damage that spares the biggest creature on your side of the battlefield, and if paired with deathtouch creatures its ceiling rises again.
 
 
 <!---90--->

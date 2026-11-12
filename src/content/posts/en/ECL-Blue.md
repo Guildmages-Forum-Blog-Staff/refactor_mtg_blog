@@ -91,7 +91,7 @@ Comment: A somewhat expensive counterspell. It only slightly matches its cost if
 <!---53--->
 {% mtgpick "ECL" 53 %}
 Score: 2.0
-Comment: An ordinary body, but if you can pump it up, trample makes for a strong clock.
+Comment: An ordinary body, but if you can pump it up, its evasion makes for a strong clock.
 
 
 <!---54--->
@@ -121,7 +121,7 @@ Comment: A quality two-mana creature. Its activated draw and tap-and-stun costs 
 <!---58--->
 {% mtgpick "ECL" 58 %}
 Score: 3.5
-Comment: A good Aura that helps creatures gain trample, and it also draws a card on entering so you don't lose card advantage.
+Comment: A good Aura that gives a creature evasion, and it also draws a card on entering so you don't lose card advantage.
 
 <!---59--->
 {% mtgpick "ECL" 59 %}
@@ -132,7 +132,7 @@ Comment: Turn everything into big monsters and swing all at once, a spell that c
 <!---60--->
 {% mtgpick "ECL" 60 %}
 Score: 3.0
-Comment: A flash Aura that turns a creature into a dummy. Remember it changes the base stats, so counters already on it still work. For example, a creature with a -1/-1 counter will simply die.
+Comment: A flash Aura that turns a creature into a dud. Remember it changes the base stats, so counters already on it still work. For example, a creature with a -1/-1 counter will simply die.
 
 
 <!---61--->
@@ -204,7 +204,7 @@ Comment: Too many restrictions in use, not recommended in Limited.
 <!---72--->
 {% mtgpick "ECL" 72 %}
 Score: 3.0
-Comment: Comes with trample on entering and has a decent body itself, a quality versatile blue creature. Note that it can find not only Islands but any basic land.
+Comment: Grants evasion on entering and has a decent body itself, a quality versatile blue creature. Note that it can find not only Islands but any basic land.
 
 
 <!---73--->
@@ -226,7 +226,7 @@ Comment: Being able to return a spell makes it relatively flexible in use, thoug
 <!---76--->
 ![76](https://images.guildmagesforum.tw/posts/ECL-Blue/5d6c08784438.webp)
 Score: 4.5
-Comment: The front side lets a creature draw a card when it connects, and attacking can trigger it again. The back side protects a creature and grants trample, but it only triggers on transform, so you can't just enjoy it all the time. In use, you'll be flipping it frequently every turn.
+Comment: The front side lets a creature draw a card when it connects, and attacking can trigger it again. The back side protects a creature and grants evasion, but it only triggers on transform, so you can't just enjoy it all the time. In use, you'll be flipping it frequently every turn.
 
 <!---77--->
 {% mtgpick "ECL" 77 %}

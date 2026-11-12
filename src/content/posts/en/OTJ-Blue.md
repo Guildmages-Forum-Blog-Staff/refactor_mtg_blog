@@ -45,7 +45,7 @@ Blue's approach in limited this set is tightly bound to the Plot ability, but Pl
 
 **Jru:** 2.0
 
-With the Outlaw type bonus, a 4/4 body for four mana is relatively playable. If your deck has a lot of counterspells or combat tricks, where casting timing matters a lot, this flash is quite nice, but the sorcery-speed Plot cost may make it harder to hold up mana, and you could get burned by this ability that lies flat when you urgently need a blocker.
+With the Outlaw type bonus, a 4/4 body for four mana is relatively playable. If your deck has a lot of counterspells or combat tricks, where casting timing matters a lot, this flash is quite nice, but the sorcery-speed Plot cost may make it harder to hold up mana, and you could instead get burned by this enters-tapped ability when you urgently need a blocker.
 
 ![042](https://cards.scryfall.io/large/front/f/9/f95ee726-7465-40f8-a954-19b19e636c12.jpg?1711699985)
 
@@ -117,13 +117,13 @@ The last few sets have really kept overturning my understanding of a "one-mana c
 
 **Jru:** 1.5
 
-Passable as blue removal that doesn't lose card advantage, but because it doesn't fully solve the problem and it's a sorcery, it's hard to rate highly, and the other mode, granting trample, is also on the expensive side.
+Passable as blue removal that doesn't lose card advantage, but because it doesn't fully solve the problem and it's a sorcery, it's hard to rate highly, and the other mode, granting evasion, is also on the expensive side.
 
 ![054](https://cards.scryfall.io/large/front/1/6/166814af-a444-4a62-937e-7491673d9387.jpg?1711491314)
 
 **Jru:** 3.5
 
-A creature equipped with this equipment wins big once it connects, but the equipment itself gives the equipped creature no bonus, so how to connect is the problem. When building, pay attention to whether you have enough creatures with trample abilities. As long as you can start connecting, you should be able to snowball to a win.
+A creature equipped with this equipment wins big once it connects, but the equipment itself gives the equipped creature no bonus, so how to connect is the problem. When building, pay attention to whether you have enough evasive creatures. As long as you can start connecting, you should be able to snowball to a win.
 
 ![055](https://cards.scryfall.io/large/front/4/9/49f12760-ff07-4c9f-a7a9-1e64bd3a9adf.jpg?1712094844)
 
@@ -237,7 +237,7 @@ The cost is a bit high, but still acceptable. With flash plus lose abilities, it
 
 **Jru:** 2.5
 
-It shouldn't be hard to run out of Outlaw creatures in this set, and upgrading to -4/-0 is quite easy. Although it's a combat-trick-type effect, because it costs only one mana and draws a card back, it easily becomes one-mana removal that gains you cards. Also, one-mana draw-one supports the cast-multiple-spells approach, and targeting a creature commits a crime, so it can be called the starting point for the operation of decks with several different approaches.
+It would be hard not to have Outlaw creatures in this set, and upgrading to -4/-0 is quite easy. Although it's a combat-trick-type effect, because it costs only one mana and draws a card back, it easily becomes one-mana removal that gains you cards. Also, one-mana draw-one supports the cast-multiple-spells approach, and targeting a creature commits a crime, so it can be called the starting point for the operation of decks with several different approaches.
 
 ![074](https://cards.scryfall.io/large/front/b/b/bb206e27-da4d-4abe-9d8c-6d18c5f2f52a.jpg?1711666380)
 
@@ -263,7 +263,7 @@ Plot happens to solve the pain point of creatures like [Clone](https://scryfall.
 
 The beauty of this card is that its first two abilities are both [+1]. Continual card filtering or Plotting helps quite a bit with consistency, and the second ability's Plot in particular is exactly the core of how some blue approaches run.
 
-Remember you can skip the second ability: when your hand is too good to loot or you have no hand and don't want to effectively mill yourself, just choose to skip the second ability. As long as you can stall until you can use the [-6] and cast two spells, that's basically enough value.
+Remember you can activate the second ability without actually plotting anything: when your hand is too good to loot or you have no hand and don't want to effectively mill yourself, just activate the second ability for nothing. As long as you can stall until you can use the [-6] and cast two spells, that's basically enough value.
 
 ## Conclusion
 

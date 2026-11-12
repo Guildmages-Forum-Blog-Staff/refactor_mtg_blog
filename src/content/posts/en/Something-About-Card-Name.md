@@ -65,7 +65,7 @@ As for effects that really are tied to a card name, they will explicitly mark **
 > ● [Goldspan Dragon](https://scryfall.com/card/khm/139/goldspan-dragon):
 > Whenever Goldspan Dragon attacks or becomes the target of a spell, create a Treasure token.
 
-Goldspan Dragon's triggered ability actually triggers when this card attacks, and doesn't need your own card name to also be Goldspan Dragon. So when Sarkhan copies Goldspan Dragon but its name is Sarkhan, Soul Aflame, Sarkhan still makes a Treasure Token when it attacks.
+Goldspan Dragon's triggered ability actually triggers when this card attacks, and doesn't require the creature's own name to be Goldspan Dragon. So when Sarkhan copies Goldspan Dragon but its name is Sarkhan, Soul Aflame, Sarkhan still makes a Treasure Token when it attacks.
 
 ![3](https://images.guildmagesforum.tw/posts/Something-About-Card-Name/8f2229e14cdc.webp)
 > ● [Sarkhan, Soul Aflame](https://scryfall.com/card/tdc/301/sarkhan-soul-aflame):
@@ -73,7 +73,7 @@ Goldspan Dragon's triggered ability actually triggers when this card attacks, an
 > ● [Mirror Image](https://scryfall.com/card/j22/62/mirror-image):
 > You may have Mirror Image enter the battlefield as a copy of any creature you control.
 
-Incidentally, a normal copy copies the name along with everything else, unless the copy effect emphasizes handling the name separately. If Mirror Image copied Sarkhan, Soul Aflame today, you would control multiple legendary permanents with the same name, and under the legend rule you'd have to choose one to sacrifice.
+Incidentally, a normal copy copies the name along with everything else, unless the copy effect emphasizes handling the name separately. If Mirror Image copied Sarkhan, Soul Aflame today, you would control multiple legendary permanents with the same name, and under the legend rule you'd have to choose one to put into the graveyard.
 
 In addition, some cards use the card name as "this card" in their text, but if you look closely you'll find the card name isn't written in full, only a short form, yet under the rules this is still treated as having written the full card name.
 
@@ -150,7 +150,7 @@ The cards that currently have multiple names at once are the following kinds. Al
 - 715.5. If an effect instructs a player to choose a card name, and the player wants to choose the secondary name of an Adventure card, that player may do so.
 - 720.5. If an effect instructs a player to choose a card name, and the player wants to choose the secondary name of an Omen card, that player may do so.
 - 710.1b The bottom half of a flip card includes the card's secondary name, text box, type line, power, and toughness. These characteristics are used only if that permanent is on the battlefield and flipped.
-- 712.19. If an effect instructs a player to choose a card name, that player may choose the name on either face of a transforming double-faced card or modal double-faced card, but not both faces' names. Similarly, that player may choose the name on the front face of a fuse card, or the name of the combined back of a fuse card.
+- 712.19. If an effect instructs a player to choose a card name, that player may choose the name on either face of a transforming double-faced card or modal double-faced card, but not both faces' names. Similarly, that player may choose the name on the front face of a meld card, or the name of the combined back face of a meld card.
 
 {% endfolding %}
 
@@ -289,7 +289,7 @@ Suppose you manifested 3 creatures and one of them ate a Maelstrom Pulse. Then o
 
 Actually I currently have several half-finished rules articles prepared, but this one cut in line and was written from scratch, because over the past two months I've suddenly been seeing two kinds of questions frequently in various groups:
 
-- 1. The rule that text saying "this card name = this card". This might also be seen as one of the good signs that more new players are joining.
+- 1. The rule that a card's own name in its text means "this card". This might also be seen as one of the good signs that more new players are joining.
 - 2. Rules questions about multi-name cards, though thinking about it, it seems like 80% of them are [Unholy Annex // Ritual Chamber](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) questions.
 
 I originally thought this would be a very concise short piece, but once I actually started writing I found that questions based on names can be surprisingly stretched out.

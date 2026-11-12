@@ -84,7 +84,7 @@ As usual, let's start with the deck stats. Usage percentages are all rounded to 
 The metagame as a whole leans toward aggro, so how to withstand board pressure will be the focus of the matchups.
 
 Next, the top ten cards by usage:
-| | Card | Cpoies | Decks |
+| | Card | Copies | Decks |
 | :-: | :-: | :-: | :-: |
 | 1 | [Thoughtseize](https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001) | 208 | 34% |
 | 2 | [Fatal Push](https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715) | 193 | 33% |
@@ -144,8 +144,8 @@ However, the Taiwan metagame should have quite a bit of Mono-Green Devotion and 
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/33efc1e49125.webp)
 
-Convoke also hasn't changed much from before, but this build seems to be going for a higher ceiling, trying to see if it can make three creatures on turn 1 and throw down [Ornithopter](https://cards.scryfall.io/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362) and [Reckless Bushwhacker](https://cards.scryfall.io/large/front/0/4/0405b1b9-976a-4aaf-bec6-fa006decea74.jpg?1562895780) on turn 2 for nine damage, so it still has one Reckless Bushwhacker. It also chose [Thalia, Guardian of Thraben](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106) over [Clarion Spirit](https://cards.scryfall.io/large/front/8/6/86a4c348-1012-4339-960a-c7bc7fd84fbb.jpg?1631045559), presumably to get in the way of the opponent's sweepers; one extra turn of cycling almost certainly lets it kill control.
-It also plays two [Giant Killer](https://cards.scryfall.io/large/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1572489685), presumably to target decks whose creatures have bigger toughness. This build can be called a version tuned very specifically to the tournament environment.
+Convoke also hasn't changed much from before, but this build seems to be going for a higher ceiling, trying to see if it can make three creatures on turn 1 and throw down [Ornithopter](https://cards.scryfall.io/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362) and [Reckless Bushwhacker](https://cards.scryfall.io/large/front/0/4/0405b1b9-976a-4aaf-bec6-fa006decea74.jpg?1562895780) on turn 2 for nine damage, so it still has one Reckless Bushwhacker. It also chose [Thalia, Guardian of Thraben](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106) over [Clarion Spirit](https://cards.scryfall.io/large/front/8/6/86a4c348-1012-4339-960a-c7bc7fd84fbb.jpg?1631045559), presumably to delay the opponent's sweepers; buying one extra turn almost certainly lets it kill control.
+It also plays two [Giant Killer](https://cards.scryfall.io/large/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1572489685), presumably to target decks with bigger creatures. This build can be called a version tuned very specifically to the tournament environment.
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/cf63391704ca.webp)
 
@@ -165,7 +165,7 @@ By the same logic, it can also greatly reduce the number of creatures in the sid
 
 This build is also rather special: it plays only four Esika's Chariot (so where's the vehicle element, I ask?) but plays 11 Sagas, which looks like an attempt to keep a high resource level while applying pressure.
 
-## 龍盾杯 MTG China Open S4 Regional Championship
+## Dragon Shield Cup MTG China Open S4 Regional Championship
 
 The China RC ran at the same time as the Australia/New Zealand one and also ended last weekend.
 There were 215 players, with a top 8 taken after eight Swiss rounds on Day 1, going into single elimination on Day 2.
@@ -194,7 +194,7 @@ As usual, deck stats first. Usage percentages are all rounded to one decimal pla
 Overall the proportions look fairly normal, but there was somewhat less Sacrifice and Mono-Green Devotion, and Rona Lukka Combo has been trending upward since the European RC.
 
 Next, the single-card usage:
-| | Card | Cpoies | Decks |
+| | Card | Copies | Decks |
 | :-: | :-: | :-: | :-: |
 | 1 | [Fatal Push](https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715) | 252 | 33% |
 | 2 | [Thoughtseize](https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001) | 236 | 29% |
@@ -243,7 +243,7 @@ This Waste Not deck actually started 6-0, which surprised me a lot.
 
 Let me explain for those who don't know what this deck does. In short, whenever the opponent discards, you get a corresponding effect: discarding a creature makes a 2/2 Zombie, discarding a land adds two black mana, and anything else draws you a card. This strengthens the old `discard` effect, which was a one-for-one that didn't gain any resources.
 So besides the standard four Thoughtseize, the deck also plays two Duress, three [Go Blank](https://cards.scryfall.io/large/front/8/4/846e8657-7435-44c6-a997-b8b156d0cd2c.jpg?1624590993), three [Liliana of the Veil](https://cards.scryfall.io/large/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1673307126), and other discard effects.
-Basically you can think of it as pure-black hand control, or something a bit like the modern 8-Rack, a deck that gains value from lots of discard.
+Basically you can think of it as pure-black hand control, or something a bit like Modern's 8-Rack, a deck that gains value from lots of discard.
 
 The two extra black-white double-faced lands are there so that [Path of Peril](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080) can be cast with cleave to clear some boards (for example, a board blown wide open by Mono-Green Devotion).
 
@@ -288,7 +288,7 @@ First, let's tally the total number of top 8 decks:
 | Boros Heroic | 2 | 6.2% |
 | Rona Lukka Combo | 2 | 6.2% |
 | Enigmatic Fires | 2 | 6.2% |
-| Wast Not | 1 | 3.1% |
+| Waste Not | 1 | 3.1% |
 | UW Control | 1 | 3.1% |
 | Mono-Green Devotion | 1 | 3.1% |
 

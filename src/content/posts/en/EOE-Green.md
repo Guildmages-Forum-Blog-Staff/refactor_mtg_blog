@@ -69,7 +69,7 @@ Comment: An excellent leaves-the-battlefield effect; happy to draw it whether ea
 <!---176--->
 {% mtgpick "eoe" 176 %}
 Score: 3.0
-Comment: A creature-removal card green likes. Worth mentioning is that creatures exiled via Warp can also be targeted, which fixes the drawback of needing a creature on the battlefield.
+Comment: A creature-removal card green likes. Worth mentioning is that creatures exiled via Warp also count, which fixes the drawback of needing a creature on the battlefield.
 
 
 <!---177--->
@@ -99,7 +99,7 @@ Comment: A simple and effective Landfall effect, plus an excellent two-mana 2/3 
 <!---181--->
 {% mtgpick "eoe" 181 %}
 Score: 3.0
-Comment: A simple and effective Landfall effect with a cheap Warp cost, but it needs an Aura on the battlefield to trigger Landfall, so it can't act on time at five mana, which needs extra attention when building.
+Comment: A simple and effective Landfall effect with a cheap Warp cost, but it needs an enchantment on the battlefield to trigger Landfall, so it can't act on time at five mana, which needs extra attention when building.
 
 
 <!---182--->

@@ -48,7 +48,7 @@ Comment: Its token-making efficiency is not high, and the condition is not hard 
 
 <!---129--->
 {% mtgpick "fdn" 129 %}
-Score: 2.0
+Score: 3.0
 Comment: The opening-hand Leyline effect is just a dream in Limited, but even cast and equipped normally this axe has quite strong suppressing power, although the cost is a bit clunky, yes.
 
 <!---130--->

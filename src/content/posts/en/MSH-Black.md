@@ -33,7 +33,7 @@ Comment: As long as your graveyard meets the condition and you have spare mana, 
 
 {% mtgpick "MSH" 87 %}
 Score: 2.5
-Comment: Its effect is very powerful, but the heavy black requirement makes it hard to cast on turn three. It is more reasonable to treat it as a creature you play on turn five. The bottom line is a freebie that is basically impossible to achieve in Limited.
+Comment: Its effect is very powerful, but the three black pips make it hard to cast on turn three. It is more reasonable to treat it as a creature you play on turn five. The bottom line is a freebie that is basically impossible to achieve in Limited.
 
 {% mtgpick "MSH" 88 %}
 Score: 3.5
@@ -53,7 +53,7 @@ Comment: Playing it on turn four gives you a powerful deathtouch creature, and y
 
 {% mtgpick "MSH" 92 %}
 Score: 2.5
-Comment: Three mana for a card-disruption effect is an acceptable cost, but only being able to exile cards with mana value three or less gives it short reach. Fortunately, with Teamwork 2 it becomes a kill plus gaining three life, so cast it with Teamwork whenever you can!
+Comment: Three mana for removal is an acceptable cost, but being limited to exiling things with mana value three or less gives it short range. Fortunately, with Teamwork 2 it becomes a kill plus gaining three life, so cast it with Teamwork whenever you can!
 
 {% mtgpick "MSH" 93 %}
 Score: 3.0
@@ -69,7 +69,7 @@ Comment: Six mana makes a total of nine power, at end of turn it can also drain 
 
 {% mtgpick "MSH" 96 %}
 Score: 2.5
-Comment: A Villain entering gives lifelink, the extra effect is not hard to achieve, and you can play the opponent's cards. This time black fully satisfies the tastes of all you thieves.
+Comment: A Villain entering drains life, the extra effect is not hard to achieve, and you can play the opponent's cards. This time black fully satisfies the tastes of all you thieves.
 
 {% mtgpick "MSH" 97 %}
 Score: 3.5

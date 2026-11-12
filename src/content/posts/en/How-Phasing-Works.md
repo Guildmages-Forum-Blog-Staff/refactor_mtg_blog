@@ -8,7 +8,7 @@ categories:
   - "MTG Rules"
 cover: "https://images.guildmagesforum.tw/posts/How-Phasing-Works/81fff9652533-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/How-Phasing-Works/81fff9652533-cover.jpg"
-excerpt: "I phased out your Tidebinder Mage, so do my creature's abilities come back?"
+excerpt: "I phased out your Tishana's Tidebinder, so do my creature's abilities come back?"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../How-Phasing-Works/).

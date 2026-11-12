@@ -51,7 +51,7 @@ Comment: Cast at six mana, it can answer almost any creature, a rare removal spe
 
 {% mtgpick "hob" 91 %}
 Score: 4.0
-Comment: It cannot start the Enduring Story itself, but on entering it provides a legendary plus an Equipment, completing the quest almost immediately. Its rallying cry that gives double strike to all equipped creatures makes it even harder for the opponent to defend.
+Comment: It cannot start the Enduring Story itself, but on entering it provides a legendary plus an Equipment, completing the quest almost immediately. Giving double strike to all equipped creatures when it attacks makes it even harder for the opponent to defend.
 
 {% mtgpick "hob" 92 %}
 Score: 4.0
@@ -139,7 +139,7 @@ Comment: Turning irrelevant permanents into usable resources in the mid-to-late 
 
 {% mtgpick "hob" 113 %}
 Score: 4.0
-Comment: A 7/7 body that is only afraid of direct removal: you cannot burn it to death, and you cannot out-fight it. The Army creature trading ability it provides on entering and attacking is great, and can also be fuel for the activated ability to clear the board or hit the opponent's life total directly.
+Comment: A 7/7 body that is only afraid of direct removal: you cannot burn it to death, and you cannot out-fight it. The defending creatures it provides on entering and attacking are great for trading, and can also be fuel for the activated ability to clear the board or hit the opponent's life total directly.
 
 {% mtgpick "hob" 114 %}
 Score: 3.5

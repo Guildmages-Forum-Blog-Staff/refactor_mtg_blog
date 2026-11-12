@@ -57,7 +57,7 @@ Comment: Coming down on two mana, it feels like it can keep beating down, and th
 
 {% mtgpick "hob" 65 %}
 Score: 3.5
-Comment: The three-drop can now not only loot but also Amass 1 and gain life, a massive upgrade.
+Comment: At three mana it can now not only make the opponent discard but also Amass 1 and drain life, a massive upgrade.
 
 {% mtgpick "hob" 66 %}
 Score: 3.0
@@ -129,7 +129,7 @@ Comment: It can pile the bodies of dead fodder all onto itself, and even when it
 
 {% mtgpick "hob" 83 %}
 Score: 3.0
-Comment: A two-mana 2/2 that has a chance not to lose card advantage and can even jump a one-mana curve; if you can make lots of tokens, it can also steal lots of life.
+Comment: A two-mana 2/2 that has a chance not to lose card advantage and can even ramp you by one mana; if you can make lots of tokens, it can also steal lots of life.
 
 {% mtgpick "hob" 84 %}
 Score: 2.5
@@ -137,7 +137,7 @@ Comment: Why do these edict effects keep getting worse? It used to exile and now
 
 {% mtgpick "hob" 85 %}
 Score: 2.5
-Comment: A two-mana looter that can later be eaten as fodder, a very good curve creature.
+Comment: A two-mana discard effect that can later be eaten as fodder, a very good curve creature.
 
 {% mtgpick "hob" 86 %}
 Score: 2.0

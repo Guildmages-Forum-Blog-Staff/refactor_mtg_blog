@@ -61,7 +61,7 @@ Lotus Field hasn't actually changed much, I just want to mention that since MOM 
 
 ![](https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090)
 
-Each has pros and cons. The first is afraid of Chandra getting stripped by discard, leaving only the walking-lands plan, the very, very, very, very, very, very worst option, to win with, and if that gets killed you're done. The upside is that it frees up some slots in the main deck and sideboard for other cards (such as more ramp and sweepers).
+Each has pros and cons. The first is afraid of Chandra getting named and exiled, leaving only the creature-land beatdown plan, the very, very, very, very, very, very worst option, to win with, and if that gets killed you're done. The upside is that it frees up some slots in the main deck and sideboard for other cards (such as more ramp and sweepers).
 The problem with the second is that the main deck gets more cramped, and with fewer smoothing cards you're more likely to die suddenly to a single removal spell from the opponent.
 I've seen both lists, with the first slightly more common, but it varies from person to person.
 

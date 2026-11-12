@@ -1,5 +1,5 @@
 ---
-title: "Taiwanese Player Interview: 郭子敬"
+title: "Taiwanese Player Interview: Kuo Tzu-Ching (郭子敬)"
 date: "2025-04-03 22:56:12"
 authors:
   - "faintmama"
@@ -9,14 +9,14 @@ categories:
   - "Interview"
 cover: "https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/12cef7dc55e1-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/12cef7dc55e1-cover.jpg"
-excerpt: "'Taiwan team captain at the 2012 World Championship,' 'founder of 遊戲平方,' 'record holder for the most Pro Tour appearances, the most Grand Prix top 8s, and the most Taiwan championships in the history of Taiwanese Magic'... With so many titles and identities, they are still only our limited knowledge of 郭子敬. Today, besides being the Watcher behind the counter, he still has immense passion for Magic, along with unique insights and angles of approach."
+excerpt: "'captain of Taiwan's 2012 World Magic Cup champion team,' 'founder of 遊戲平方,' 'record holder for the most Pro Tour appearances, the most Grand Prix top 8s, and the most Taiwan championships in the history of Taiwanese Magic'... With so many titles and identities, they are still only our limited knowledge of Kuo Tzu-Ching. Today, besides being the Watcher behind the counter, he still has immense passion for Magic, along with unique insights and angles of approach."
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Interview-Kuo-Tzu-Ching/).
 
 ## Let's get started!
 
-'Taiwan team captain at the 2012 World Championship,' 'founder of 遊戲平方,' 'record holder for the most Pro Tour appearances, the most Grand Prix top 8s, and the most Taiwan championships in the history of Taiwanese Magic'... With so many titles and identities, they are still only our limited knowledge of 郭子敬. Today, besides being the Watcher behind the counter, he still has immense passion for Magic, along with unique insights and angles of approach.
+'captain of Taiwan's 2012 World Magic Cup champion team,' 'founder of 遊戲平方,' 'record holder for the most Pro Tour appearances, the most Grand Prix top 8s, and the most Taiwan championships in the history of Taiwanese Magic'... With so many titles and identities, they are still only our limited knowledge of Kuo Tzu-Ching. Today, besides being the Watcher behind the counter, he still has immense passion for Magic, along with unique insights and angles of approach.
 
 ---
 
@@ -51,21 +51,21 @@ A: There are more choices now, both in games and in the amount of information, w
 Also, there is a person who left a very deep impression on me. I remember when I had just started playing Magic in my second and third years of high school, there was an exceptionally talented "strongest elementary schooler"; he was only in fourth grade then, and made Nationals top 8 before I did. When he took second place at the 2000 Nationals, I finished ninth.
 After 2002 he temporarily left the Magic scene, until he suddenly appeared in 2012 asking everyone how they were doing. Hearing that we were preparing for a GP, he, who hadn't played Magic for ten years, joined our practice just like that, got back into Magic, and went abroad with us to play the GP. Although he hadn't played cards in ten years, after a few weeks of practice he got into form immediately, and showed his strength as soon as he returned to the Magic scene: in fifteen matches he went ten wins and five draws (not losing a single one), one win short of top 8. His story has always stayed with me; after that GP he faded out of the Magic scene again.
 
-Before the big-data era, my logic for choosing decks was mainly to observe and pick the strongest deck, but as a type of player who would be targeted by certain matchups, I personally preferred to play the deck that is essentially strongest. I know I'm not someone who is good at building decks; at that time some players in Taiwan would devote themselves to brewing and testing, and I would then understand and practice according to the results everyone arrived at. I sometimes joked to friends: "You can give me whatever to play, and I'll take care of practicing until I win."
+Before the big-data era, my logic for choosing decks was mainly to observe and pick the strongest deck, and even if it was the kind of deck that certain archetypes targeted, I personally preferred to play the deck that was inherently strongest. I know I'm not someone who is good at building decks; at that time some players in Taiwan would devote themselves to brewing and testing, and I would then understand and practice according to the results everyone arrived at. I sometimes joked to friends: "You can give me whatever to play, and I'll take care of practicing until I win."
 
 #### Q4: In the course of challenging world-level events many times, is there a highlight moment, or several, that you could share with readers? What is the biggest difference between playing world-level events and playing casually every day?
 
 A: As for the difference between the World Championship and everyday play, I think the biggest key is **willpower**. Sometimes after losing a match you feel "forget it," but a truly strong player can grit their teeth and persevere, never letting the thought "I lost, so forget it" in.
 
-The most unforgettable was the Avacyn Restored Pro Tour. I started 1-4 and was almost eliminated on day one; frankly, my mood at that point was already dead ash, but holding to the attitude of "keep playing as long as you haven't lost for good," I won three in a row at the end of day one and narrowly squeezed into day two. Then on day two I won eight in a row, finishing in tenth place, and turned the situation around to become the Asia region representative and Taiwan captain, and also reached Platinum on the Pro Tour threshold, which is the "flights and hotel plus appearance fee" I mentioned earlier (such conditions no longer exist today), with the support of Wizards of the Coast; otherwise I would probably have chosen to retire that year. For me, Avacyn Restored was truly an environment full of [miracles](https://mtg.fandom.com/wiki/Miracle).
+The most unforgettable was the Avacyn Restored Pro Tour. I started 1-4 and was almost eliminated on day one; frankly, my mood at that point was already dead ash, but holding to the attitude of "keep playing as long as you haven't lost for good," I won three in a row at the end of day one and narrowly squeezed into day two. Then on day two I won eight in a row, finishing in tenth place, and turned the situation around to become the Asia region representative and Taiwan captain, and also reached Platinum level in the Pro Players Club, which is the "flights and hotel plus appearance fee" I mentioned earlier (such conditions no longer exist today), with the support of Wizards of the Coast; otherwise I would probably have chosen to retire that year. For me, Avacyn Restored was truly an environment full of [miracles](https://mtg.fandom.com/wiki/Miracle).
 
 ![](https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/f2f75b545068.webp)
->Of course, once you choose to go all in, Magic: The Gathering also brings players considerable competitive psychological pressure. We were fortunate to hear Boss 郭 share many details about playing and his past campaigns ~~so the smiles are a little fewer than before~~.
+>Of course, once you choose to go all in, Magic: The Gathering also brings players considerable competitive psychological pressure. We were fortunate to hear Boss Kuo share many details about playing and his past campaigns ~~so the smiles are a little fewer than before~~.
 
 #### Q5: Among your opponents and comrades back then, is anyone still active on the tournament scene today? Is there any player, or several, you feel are worth mentioning?
 
 A: Among my comrades, one still playing is [李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian), but compared with today's mid- and new-generation players, he may not be as dedicated as before, and everyone else has their own work and family to look after.
-In the past, when information circulated less, the concept of a secret weapon was more important than it is now, so Asian players more often closed the doors to practice and discuss before events, and in those processes [李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian) was a comrade who took part many times with me. After sponsorship by [mtgmintcard](https://www.mtgmintcard.com/), he also began a road of continual top 8s at the Return to Ravnica (RTR) PT revisit, truly impressive ~~outrageous~~. [李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian) is a player who can achieve results at the PT with self-built decks that win by surprise; for example, one time we all mocked his [Jeskai Ascendancy](https://scryfall.com/card/ktk/180/jeskai-ascendancy) choice, and yet he used that deck to make top 8.
+In the past, when information circulated less, the concept of a secret weapon was more important than it is now, so Asian players more often closed the doors to practice and discuss before events, and in those processes [李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian) was a comrade who took part many times with me. After being sponsored by [mtgmintcard](https://www.mtgmintcard.com/), he also began a run of repeated top 8s starting at Pro Tour Return to Ravnica (RTR), truly impressive ~~outrageous~~. [李詩天](https://mtg.fandom.com/wiki/Lee_Shi_Tian) is a player who can achieve results at the PT with self-built decks that win by surprise; for example, one time we all mocked his [Jeskai Ascendancy](https://scryfall.com/card/ktk/180/jeskai-ascendancy) choice, and yet he used that deck to make top 8.
 As for players of my generation, those still going abroad to play events include 永銘 and [丈丈](https://guildmagesforum.tw/en/MIT3-Champion-Interview/), among a few others, who are all still working hard on the international stage.
 
 #### Q6: Regarding the deep exchanges with others during your playing days, and even friendships that last to this day, on a sentimental level, is there anything about these "friendships" and the experience Magic itself has given you that you'd like to share with readers? And has your outlook changed significantly because of any of these elements?
@@ -93,8 +93,8 @@ On the store side, what I care about most is whether the players playing in the 
 For me, as a card shop owner who can occasionally still be a player, the switch between roles doesn't really create contradictions or conflicts, and striking the right mindset has become very natural and habitual.
 
 ![](https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/bd7a07814343.webp)
->The glass cabinets at [遊戲平方](https://www.facebook.com/GameSquareTCG) display quite a few trophies, which I consider a combined result of Boss 郭's identities as a player, competitor, and shop owner. I'm glad Taiwan has a senior player with such rich experience and thinking, who has also found a way to strike a balance in switching between identities and moods.
->I believe [遊戲平方](https://www.facebook.com/GameSquareTCG) will continue to support the depth and breadth of Magic in the future; whether you are a beginner or a veteran, you are welcome to bring your questions to the counter and chat with Boss 郭 for a bit when he isn't busy.
+>The glass cabinets at [遊戲平方](https://www.facebook.com/GameSquareTCG) display quite a few trophies, which I consider a combined result of Boss Kuo's identities as a player, competitor, and shop owner. I'm glad Taiwan has a senior player with such rich experience and thinking, who has also found a way to strike a balance in switching between identities and moods.
+>I believe [遊戲平方](https://www.facebook.com/GameSquareTCG) will continue to support the depth and breadth of Magic in the future; whether you are a beginner or a veteran, you are welcome to bring your questions to the counter and chat with Boss Kuo for a bit when he isn't busy.
 
 #### Q10: As the organizer of the Taiwan Championship (Magic in Taiwan, MIT) and its qualifiers, from hosting this series of events over the years, are there any major differences between what you've observed and felt and your perspective when you competed as a player? And are there any items or features you hope to bring in or strengthen in the future?
 
@@ -128,7 +128,7 @@ A: See you at the June GP in Japan, at the Spotlight event!
 (I'll try my best, I should be able to...)
 
 ![](https://images.guildmagesforum.tw/posts/Interview-Kuo-Tzu-Ching/4d0c540d449c.webp)
->I once asked Boss 郭 to sign a [Restoration Angel](https://scryfall.com/card/pavr/32%E2%98%85/restoration-angel); [Restoration Angel](https://scryfall.com/card/pavr/32%E2%98%85/restoration-angel) is the signature card of Boss 郭's achievements in 2012.
+>I once asked Boss Kuo to sign a [Restoration Angel](https://scryfall.com/card/pavr/32%E2%98%85/restoration-angel); [Restoration Angel](https://scryfall.com/card/pavr/32%E2%98%85/restoration-angel) is the signature card of Boss Kuo's achievements in 2012.
 >I imagine this card echoes something again in 2025. Whatever our roles and however we enjoy it, we will keep walking within the framework of Magic: The Gathering, and gain more support from the community and from one another.
 
 #### Q16: Last of all, allow us to end with this old question: how would you describe what Magic: The Gathering means to you?

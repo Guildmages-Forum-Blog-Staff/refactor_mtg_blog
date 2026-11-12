@@ -39,15 +39,15 @@ Without further ado, let's see what the list looks like.
 
 [**Down in the Valley**](https://scryfall.com/card/hob/124/down-in-the-valley): Another key card that makes Elves off landfall. The three-mana Saga fetches a basic land into hand when it enters, ensuring a smooth four-mana curve; chapter II activates landfall Elf-making, and chapters III and IV give your whole Elf team vigilance and a small pump, an excellent on-theme lubricant.
 
-* **Knockout Plan: Earthbender Ascension, Thranduil's Company, this Command**
+* **Knockout Plan: Earthbender Ascension, Thranduil's Company, Trystan's Command**
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/7b87e07d5878.webp)
 
-[**Earthbender Ascension**](https://scryfall.com/card/tla/175/earthbender-ascension): A super strong landfall enchantment. It accelerates and earthbends a land when it enters, and once it collects four counters it starts putting a +1/+1 counter and trample on a target creature, providing the trample that is the most crucial piece for winning.
+[**Earthbender Ascension**](https://scryfall.com/card/tla/175/earthbender-ascension): A super strong landfall enchantment. It accelerates and earthbends a land when it enters, and once it collects four counters it starts putting a +1/+1 counter and trample on a target creature, providing the punch-through that is most crucial for winning.
 
 [**Thranduil's Company**](https://scryfall.com/card/hob/168/thranduils-company): An extremely efficient card for growing bodies. On landfall it gives a target creature two +1/+1 counters and vigilance, and if you control other Elves it can also let you play one more land to speed up triggering landfall. But it has no staying power itself and drawing multiples does no good, so only two are included.
 
-[**this Command**](https://scryfall.com/card/hob/154/dwalin-weaponmaster): A kindred spell of the Elf type. Although the cost is somewhat clunky, it is no problem at all in a landfall deck with plenty of mana; you can use [Dawn-Blessed Pennant](https://scryfall.com/card/ecl/254/dawn-blessed-pennant) to recur it repeatedly to create card advantage, and when the board is full it can give the whole team +3/+3 in one shot to knock the opponent out.
+[**Trystan's Command**](https://scryfall.com/card/hob/154/dwalin-weaponmaster): A kindred spell of the Elf type. Although the cost is somewhat clunky, it is no problem at all in a landfall deck with plenty of mana; you can use [Dawn-Blessed Pennant](https://scryfall.com/card/ecl/254/dawn-blessed-pennant) to recur it repeatedly to create card advantage, and when the board is full it can give the whole team +3/+3 in one shot to knock the opponent out.
 
 * **Logistics Supplies: Llanowar Elves, Aftermath Analyst, Dawn-Blessed Pennant, Mind Into Matter**
 
@@ -59,7 +59,7 @@ Without further ado, let's see what the list looks like.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Maralen-Landfall/d3c2cc841071.webp)
 
-[**Dawn-Blessed Pennant**](https://scryfall.com/card/ecl/254/dawn-blessed-pennant): A key stabilizing card. It gains life as Elves frequently enter, holding off the opponent's early pressure; in the mid to late game it is sacrificed to recover an Elf card, and paired with [this Command](https://scryfall.com/card/hob/154/dwalin-weaponmaster) it can earn resources repeatedly.
+[**Dawn-Blessed Pennant**](https://scryfall.com/card/ecl/254/dawn-blessed-pennant): A key stabilizing card. It gains life as Elves frequently enter, holding off the opponent's early pressure; in the mid to late game it is sacrificed to recover an Elf card, and paired with [Trystan's Command](https://scryfall.com/card/hob/154/dwalin-weaponmaster) it can earn resources repeatedly.
 
 [**Mind Into Matter**](https://scryfall.com/card/sos/202/mind-into-matter): An X-cost sorcery version of [Growth Spiral](https://scryfall.com/card/dsc/88/growth-spiral); early it provides acceleration, and in the mid to late game when mana is plentiful it draws a big pile to refill resources and then drops a powerful permanent onto the battlefield. If you don't mind losing card advantage, casting it with X=0 on turn two to accelerate into a land and jump to four mana is also a way to seize tempo.
 

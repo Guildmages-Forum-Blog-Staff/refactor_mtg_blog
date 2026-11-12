@@ -66,7 +66,7 @@ Marvel Super Heroes (MSH) will hold its Prerelease events on June 19, 2026, and 
  
  {% mtgpick "MSH" 169 %}
  Score: 2.5
- Comment: A very ideal curve filler creature. This set has quite a few flying creatures, and the 2/2 body is enough to deter some air threats. The activated ability can interfere with the opponent's Equipment theme and even wreck the opponent's evil Plans!
+ Comment: A very ideal curve filler creature. This set has quite a few flying creatures, and the 2/2 body is enough to deter some air threats. The activated ability can interfere with the opponent's Equipment theme and even wreck the opponent's villainous Plans!
         
  
  {% mtgpick "MSH" 170 %}
@@ -157,7 +157,7 @@ Marvel Super Heroes (MSH) will hold its Prerelease events on June 19, 2026, and 
  
  {% mtgpick "MSH" 187 %}
  Score: 3.0
- Comment: The mana it provides can be used for Power-up, or to flip high-rarity double-faced cards, and of course it can also pay for the basic land cycling cost. Two mana greatly increases the efficiency of a creature's Power-up.
+ Comment: The mana it provides can be used for Power-up, or to flip high-rarity double-faced cards, and of course it can also pay for the basic landcycling cost. Two mana greatly increases the efficiency of a creature's Power-up.
         
  
  {% mtgpick "MSH" 188 %}
@@ -208,7 +208,7 @@ Marvel Super Heroes (MSH) will hold its Prerelease events on June 19, 2026, and 
  {% mtgpick "MSH" 197 %}
  Score: 4.0
  Comment: On entering, it lets you cast a red or green creature for free, so at least it will not cost you board tempo. Chapter II giving three +1/+1 counters is very considerable, and it is even better paired with a creature with trample. The final chapter can deal a large amount of damage or force the opponent to trade with their board against you.
- Worth noting that if the back face of a double-faced card is red or green, you can cast it with chapter I. Use [World War Hulk](https://scryfall.com/card/msh/197/world-war-hulk) to cast [Bruce Banner, the Incredible Hulk](https://scryfall.com/card/msh/49/bruce-banner-the-incredible-hulk)!
+ Worth noting that if the back face of a double-faced card is red or green, you can cast it with chapter I. Use [World War Hulk](https://scryfall.com/card/msh/197/world-war-hulk) to cast [Bruce Banner // The Incredible Hulk](https://scryfall.com/card/msh/49/bruce-banner-the-incredible-hulk)!
 
  
  ## Conclusion

@@ -59,7 +59,7 @@ A reprint of [Rest in Peace](https://scryfall.com/card/rtr/18/rest-in-peace). In
 
 **cephille:** 1.5
 
-The effect triggers far too slowly, and it only becomes a little more useful alongside Treasures, Clues, or other artifacts with sacrifice effects. Of course, the worst-case combo line is that once it lands on turn three, you can pay four mana each turn to draw a card (2+2, sacrificing it and then copying it) and repeatedly trigger the enter/leave effects of artifacts. I'll leave that to interested friends to develop.
+The effect triggers far too slowly, and it only becomes a little more useful alongside Treasures, Clues, or other artifacts with sacrifice effects. Of course, the jankiest line is that once it lands on turn three, you can pay four mana each turn to draw a card (2+2, sacrificing it and then copying it) and repeatedly trigger the enter/leave effects of artifacts. I'll leave that to interested friends to develop.
 
 ![006](https://cards.scryfall.io/large/front/a/a/aaa05ad1-5cda-4edd-b6bf-562ae3e5011a.jpg?1712089292)
 
@@ -179,7 +179,7 @@ A sideboard card in Limited; swap it in when the opponent has lots of tokens. I 
 
 **cephille:** 3.5
 
-A shrunken, weakened version of [Umezawa's Jitte](https://scryfall.com/card/bok/163/umezawas-jitte). Of course, this Jitte with a bunch of small flyers should let you grow while attacking, every now and then make the whole family unable to block and keep attacking, and occasionally untap a land for acceleration, so happy! Facing an opponent who plays a creature on turn one and equips the Jitte on turn two and starts attacking, the game begins to tilt their way, so it's a card with a very high threat level when it comes out early! However, in builds with insufficiently sharpened decks or creatures with weak evasion, the Jitte becomes much weaker, and don't forget a Jitte with no charge counters is just a waste of equip mana!
+A shrunken, weakened version of [Umezawa's Jitte](https://scryfall.com/card/bok/163/umezawas-jitte). Of course, this Jitte with a bunch of small flyers should let you grow while attacking, every now and then make the whole family unable to block and keep attacking, and occasionally untap a land for acceleration, so happy! Facing an opponent who plays a creature on turn one and equips the Jitte on turn two and starts attacking, the game begins to tilt their way, so it's a card with a very high threat level when it comes out early! However, in builds whose curve isn't sharp enough or whose creatures lack evasion, the Jitte becomes much weaker, and don't forget a Jitte with no charge counters is just a waste of equip mana!
 
 ![024](https://cards.scryfall.io/large/front/0/2/02267717-66e0-41f7-8009-75586a4aa4be.jpg?1712061886)
 
@@ -195,7 +195,7 @@ Cast for three mana and equip for three mana to make a creature with +3 power an
 
 Once it enters for six mana, at the beginning of each of your combats you can draw an extra card, and exiling a creature or artifact from your hand lets you make a 3/3 artifact creature. Do the latter whenever you need to, but at least an extra card in hand each turn is very attractive, and it also gives you a plan B of winning with a mass of 3/3s. It should perform quite well in midrange decks and is worth a first pick.
 
-> A row named Nexus always gives people a start! Looking at that pile of [Nexus of Fate](https://scryfall.com/card/m19/306/nexus-of-fate), [Inkmoth Nexus](https://scryfall.com/card/mbs/145/inkmoth-nexus)...
+> Cards named Nexus always give people a start! Looking at that pile of [Nexus of Fate](https://scryfall.com/card/m19/306/nexus-of-fate), [Inkmoth Nexus](https://scryfall.com/card/mbs/145/inkmoth-nexus)...
 
 ![026](https://cards.scryfall.io/large/front/e/d/ed9e5041-3c05-4a8a-9f00-081b01685d0c.jpg?1708939970)
 

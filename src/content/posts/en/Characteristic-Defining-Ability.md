@@ -38,7 +38,7 @@ The rules defining CDAs are as follows:
 
 The " _ " in the bottom right corner that defines the size of [Tarmogoyf](https://scryfall.com/card/mm3/141/tarmogoyf) and [Regal Bunnicorn](https://scryfall.com/card/woe/25/regal-bunnicorn) is a typical example. Also, because the " _ " symbol used on normal cards is a character with special function in this website's syntax, I'll use the star symbol "⭐" instead in the rest of this article to avoid display bugs.
 
-![封面](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/6003922717fd.webp)
+![Cover](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/6003922717fd.webp)
 
 Take [Regal Bunnicorn](https://scryfall.com/card/woe/25/regal-bunnicorn) as an example, and let's check how its ability fares against 604.3.
 
@@ -83,23 +83,23 @@ Next, let's see how the rules handle CDAs in various situations:
 
 **"Characteristic-defining abilities function in all zones. They also function outside the game and before the game begins"** is the biggest difference between a CDA and an ordinary ability. For example, Stern Scolding can counter a creature spell with power or toughness 2 or less, and even if Walking Ballista is cast with X=1000, it's a 0/0 creature spell on the stack and can't escape Stern Scolding.
 
-Tarmogoyf is different, though. Because a CDA works in any zone, even on the stack, as long as the graveyards have enough card types, Tarmogoyf can escape Stern Scolding's reach. Suppose that when you cast Tarmogoyf the graveyards have only 2 card types, instant and land (⭐=2). Tarmogoyf's characteristics are then 2/3, and Stern Scolding can target it, but you can respond by cycling a [Street Wraith](https://scryfall.com/card/tsr/141/street-wraith) to put one more card of another type, creature, into the graveyard. That way, when Stern Scolding resolves it finds Tarmogoyf is a 3/4 creature spell, and is countered on rules (it fizzles).
+Tarmogoyf is different, though. Because a CDA works in any zone, even on the stack, as long as the graveyards have enough card types, Tarmogoyf can escape Stern Scolding's reach. Suppose that when you cast Tarmogoyf the graveyards have only 2 card types, instant and land (⭐=2). Tarmogoyf's characteristics are then 2/3, and Stern Scolding can target it, but you can respond by cycling a [Street Wraith](https://scryfall.com/card/tsr/141/street-wraith) to add a creature card to the graveyard. That way, when Stern Scolding resolves it finds Tarmogoyf is a 3/4 creature spell, so Stern Scolding fizzles because its target is no longer legal.
 
-![備牌](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ea8b0542fb49.webp)
+![Sideboard](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ea8b0542fb49.webp)
 
 > [Glittering Wish](https://scryfall.com/card/tsr/253/glittering-wish): You may choose a multicolored card you own from outside the game and put it into your hand. Exile Glittering Wish.
 > [Ulamog's Nullifier](https://scryfall.com/card/bfz/207/ulamogs-nullifier): Devoid (This card has no color.)
 
 As mentioned above, the CDA's scope even includes outside the game, which is usually the sideboard. Although Ulamog's Nullifier has blue and black in its mana cost and would normally be a multicolored card, the devoid ability redefines it as colorless, so if you want to use Glittering Wish to fetch an Ulamog's Nullifier from your sideboard, you can't.
 
-![涅司羅](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/3ba1f8870bb2.webp)
+![Nethroi](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/3ba1f8870bb2.webp)
 
 > [Scourge of the Skyclaves](https://scryfall.com/card/znr/122/scourge-of-the-skyclaves): Scourge of the Skyclaves's power and toughness are each equal to 20 minus the highest life total among players.
 > [Nethroi, Apex of Death](https://scryfall.com/card/iko/197/nethroi-apex-of-death): Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield.
 
 There's a very interesting example of a CDA working in any zone: the ability that defines Scourge of the Skyclaves's size is also a CDA, meaning it works in the graveyard, and this ⭐ can go negative. Suppose the highest life total among players is now 40 (you may be playing an EDH game). The size Scourge of the Skyclaves gets from its CDA is then -20/-20. When Nethroi, Apex of Death triggers its mutate ability to dig creatures with total power 10 or less from the graveyard, Scourge of the Skyclaves contributes -20 to the sum, so you can dig out one Scourge of the Skyclaves plus a bunch of other creatures with total power 30 or less.
 
-![失去異能](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ef71fd7d06cc.webp)
+![Losing abilities](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ef71fd7d06cc.webp)
 
 > [Sewer Nemesis](https://scryfall.com/card/vow/195/cultivator-colossus):
 > As Sewer Nemesis enters the battlefield, choose a player.
@@ -112,14 +112,14 @@ Although a CDA works in any zone, sometimes defining ⭐ uses information that c
 
 Also, a CDA is an ability too, and is affected by effects that remove abilities. Suppose Sewer Nemesis is currently a 5/5 on the battlefield and Dress Down enters; Sewer Nemesis loses its CDA, becomes 0/0, and dies right away. Conversely, if Dress Down is already on the battlefield, Sewer Nemesis entering is the same: it enters as a 0/0 and dies immediately. Tarmogoyf fares slightly better: its toughness is ⭐+1, so even after losing its abilities its toughness is still 1, and it doesn't die on the spot.
 
-![倒楣鬼](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/5987ea7452e9.webp)
+![Cursed Role](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/5987ea7452e9.webp)
 
 > [Regal Bunnicorn](https://scryfall.com/card/woe/25/regal-bunnicorn): Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.
 > [Cursed Role token (Aura)](https://scryfall.com/card/twoe/17/wicked-cursed): Enchanted creature is 1/1.
 
 If Regal Bunnicorn has a Cursed Role attached, then no matter what ⭐ currently is, it becomes a 1/1. Explaining the principle behind this example requires Layers, so for now just remember the result.
 
-![畫家](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/beedc96bb49c.webp)
+![Painter's Servant](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/beedc96bb49c.webp)
 
 > [Painter's Servant](https://scryfall.com/card/p23/1/painters-servant) :
 > As Painter's Servant enters the battlefield, choose a color.
@@ -150,7 +150,7 @@ Suppose I use The Scarab God's ability to create modified copies of Regal Bunnic
 
 The Scarab God's ability is **"a copy effect that provides a specific set of values for a specified characteristic"**, specifying both the size and the color of the copy, so neither Regal Bunnicorn's CDA nor Eldrazi Displacer's devoid is copied; they will be black 4/4 creatures.
 
-![莫甘達岩畫](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/6d546e77af42.webp)
+![Muraganda Petroglyphs](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/6d546e77af42.webp)
 
 > [The Scarab God](https://scryfall.com/card/cmm/353/the-scarab-god): {2}{U}{B}: Exile target creature card from a graveyard. Create a token that's a copy of the exiled card, except it's a 4/4 black Zombie.
 > [Regal Bunnicorn](https://scryfall.com/card/woe/25/regal-bunnicorn): Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.
@@ -175,7 +175,7 @@ When Glasspool Mimic copies a creature, although it also defines types, its word
 
 How can we talk about rules that mess with people without mentioning mutate?
 
-![合變](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/9b0209638dbd.webp)
+![Mutate](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/9b0209638dbd.webp)
 
 > [Pack Rat](https://scryfall.com/card/sld/35/pack-rat): Pack Rat's power and toughness are each equal to the number of Rats you control.
 > [Cubwarden](https://scryfall.com/card/iko/7/cubwarden): Mutate {2}{W}{W}
@@ -185,11 +185,11 @@ Suppose I currently control only one Pack Rat and no other creatures, and I choo
 
 Although it looks similar to the Scarab God example above, mutate isn't a copy effect, so the copy rule about losing a CDA doesn't apply here, and the CDA won't disappear. Explaining this one also needs the Layer concept, so we'll just give the result for now:
 
-No matter who you choose to be on top after the mutate, this creature's size will be defined by Pack Rat's CDA. If Pack Rat is on top it's a 1/1 (because it's your only Rat), while Cubwarden, since you have no Rats, would become 0/0 and die on the spot (though the ability triggered by the mutate still triggers successfully).
+No matter who you choose to be on top after the mutate, this creature's size will be defined by Pack Rat's CDA. If Pack Rat is on top it's a 1/1 (because it's your only Rat), while if Cubwarden is on top, the creature becomes 0/0 because you control no Rats, and dies on the spot (though the ability triggered by the mutate still triggers successfully).
 
 If you have other Rats on the battlefield, so that the mutated creature doesn't become a 0/0 and die no matter who is on top, and you now cast Startling Development on this creature, it temporarily becomes a blue 4/4 creature. Because this isn't a copy effect either, the CDA's function is merely temporarily overwritten and the ability isn't lost; when Startling Development's effect ends it goes back to being a ⭐/⭐ creature.
 
-![合變](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ecb4b8f8802a.webp)
+![Mutate](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/ecb4b8f8802a.webp)
 
 > [Regal Bunnicorn](https://scryfall.com/card/woe/25/regal-bunnicorn): Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.
 > [Dirge Bat](https://scryfall.com/card/iko/84/dirge-bat): Mutate {4}{B}{B}
@@ -197,11 +197,11 @@ If you have other Rats on the battlefield, so that the mutated creature doesn't 
 
 Another mutate example: mutate Dirge Bat onto Regal Bunnicorn. No matter who is on top or underneath, the size is ⭐/⭐. Now a Dress Down appears on the battlefield; how does this mutated creature's size change?
 
-It depends on who is on top of your mutate, because the mutated creature's characteristics depend on the top creature, it's just that the CDA among the components sometimes overrides those characteristics. If Regal Bunnicorn is on top, you'll lose the CDA and become a 0/0 creature, just like the Sewer Nemesis example earlier; but if Dirge Bat is on top, this creature was originally supposed to be a 3/3 and was only overridden by the CDA to ⭐/⭐, and now that the CDA is temporarily lost because of Dress Down, this creature goes back to its original 3/3 characteristics.
+It depends on who is on top of your mutate, because the mutated creature's characteristics depend on the top creature, it's just that the CDA among the components sometimes overrides those characteristics. If Regal Bunnicorn is on top, it loses the CDA and becomes a 0/0 creature, just like the Sewer Nemesis example earlier; but if Dirge Bat is on top, this creature was originally supposed to be a 3/3 and was only overridden by the CDA to ⭐/⭐, and now that the CDA is temporarily lost because of Dress Down, this creature goes back to its original 3/3 characteristics.
 
 ### Grist, Which Looks a Lot Like a CDA
 
-![格蕊斯](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/5d725cddbeaf.webp)
+![Grist](https://images.guildmagesforum.tw/posts/Characteristic-Defining-Ability/5d725cddbeaf.webp)
 
 > [Grist, the Hunger Tide](https://scryfall.com/card/mh2/202/grist-the-hunger-tide): As long as Grist, the Hunger Tide isn't on the battlefield, it's a 1/1 Insect creature in addition to its other types.
 > [Umori, the Collector](https://scryfall.com/card/mul/62/umori-the-collector): Companion — Each nonland card in your starting deck shares a card type.

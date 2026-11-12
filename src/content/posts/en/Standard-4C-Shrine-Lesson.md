@@ -24,7 +24,7 @@ At the recently concluded 2025 Magic World Championship 31, Seth Manfield won th
 
 ![](https://images.guildmagesforum.tw/posts/Standard-4C-Shrine-Lesson/7e4fba9627a9.webp)
 
-Browsing the *[Avatar: The Last Airbender](https://scryfall.com/sets/tla?as=grid&order=set)* card list, the low-rarity finishers the designers prepared for the Lesson theme are [Dragonfly Swarm](https://scryfall.com/card/tla/215/dragonfly-swarm) and [Serpent of the Pass](https://scryfall.com/card/tla/70/serpent-of-the-pass), letting players build by reference to past Izzet Dragon-beast and Izzet Serpent decks, but finishers of this type are easily dealt with by spot removal, which really tests the pilot's skill. In fact, the designers prepared another low-rarity strategy as well:
+Browsing the *[Avatar: The Last Airbender](https://scryfall.com/sets/tla?as=grid&order=set)* card list, the low-rarity finishers the designers prepared for the Lesson theme are [Dragonfly Swarm](https://scryfall.com/card/tla/215/dragonfly-swarm) and [Serpent of the Pass](https://scryfall.com/card/tla/70/serpent-of-the-pass), letting players build by reference to past Izzet Drakes and Izzet Serpent decks, but finishers of this type are easily dealt with by spot removal, which really tests the pilot's skill. In fact, the designers prepared another low-rarity strategy as well:
 
 **[Aang's Journey](https://scryfall.com/card/tla/1/aangs-journey)　／／　[White Lotus Hideout](https://scryfall.com/card/tla/281/white-lotus-hideout)**
 

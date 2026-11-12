@@ -8,7 +8,7 @@ categories:
   - "DFT"
 cover: "https://images.guildmagesforum.tw/posts/DFT-Black/e521e33339df-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Black/e521e33339df-cover.jpg"
-excerpt: "You play your deck, I play your deck. There shouldn't be much difference, right? By 貢提"
+excerpt: "You play your deck, I play your deck. There shouldn't be much difference, right? —Gonti"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../DFT-Black/).
@@ -54,7 +54,7 @@ Comment: If it comes down on time in the early game, it's a fairly good tempo-pr
 <!---78--->
 {% mtgpick "dft" 78 %}
 Rating: 3.0
-Comment: As long as it can gain cards, it has a decent body and a convenient crew 1. Since what it recovers is whatever you pick from the graveyard after milling your library, as long as it comes down when the graveyard already has something in it, you don't need to worry about it whiffing.
+Comment: On top of generating card advantage, it has a decent body and a convenient crew 1. Since what it recovers is whatever you pick from the graveyard after milling your library, as long as it comes down when the graveyard already has something in it, you don't need to worry about it whiffing.
 
 
 
@@ -151,7 +151,7 @@ Comment: 7 power for 3 mana looks sturdy, but the opponent can just call a [Griz
 <!---94--->
 {% mtgpick "dft" 94 %}
 Rating: 3.5
-Comment: Although 2 life isn't a small cost, card parity is more precious in Limited, and the card itself can easily become a super-sturdy threat. As long as you plan your life total spending correctly and don't kill yourself, it's a powerful resource engine plus threat.
+Comment: Although 2 life isn't a small cost, card advantage is more precious in Limited, and the card itself can easily become a super-sturdy threat. As long as you plan your life total spending correctly and don't kill yourself, it's a powerful resource engine plus threat.
 
 
 <!---95--->
@@ -229,7 +229,7 @@ Comment: [Murder](https://scryfall.com/card/dsk/110/murder) is crying itself to 
 <!---107--->
 {% mtgpick "dft" 107 %}
 Rating: 2.5
-Comment: With max speed it's a damage source with strong life-differential earning ability; without max speed it's a bit subtle.
+Comment: With max speed it's a damage source with strong life-differential earning ability; without max speed it's a bit iffy.
 
 
 <!---108--->

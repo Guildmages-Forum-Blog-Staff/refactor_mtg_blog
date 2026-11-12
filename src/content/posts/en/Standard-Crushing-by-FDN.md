@@ -23,7 +23,7 @@ What cards are actually in Foundations? How is it different from the core sets o
 
 Here we'll go through the products in the main FDN release to explain what this set is made of.
 
-- **Play Booster**: You can open cards numbered FDN 001 to 291, where numbers 272 to 281 are basic lands and numbers 282 to 291 are full-art basic lands. Of the **271** nonbasic cards, numbers 001 to 133 are new cards debuting in FDN, while 134 to 271 are reprints that appeared in earlier sets. In addition, there is a certain chance to open cards numbered 74 to 83 from The List... that is, Special Guests (SPG)!
+- **Play Booster**: You can open cards numbered FDN 001 to 291, where numbers 272 to 281 are basic lands and numbers 282 to 291 are full-art basic lands. Of the **271** nonbasic cards, numbers 001 to 133 are new cards debuting in FDN, while 134 to 271 are reprints that appeared in earlier sets. In addition, there is a certain chance to open Special Guests (SPG) cards numbered 74 to 83!
 - **Collector Booster**: Besides the cards you can open in Play Boosters, you can also open cards numbered FDN 292 to 487, including showcase, borderless, and extended-art cards, plus special collector-oriented foils. The categories are too complicated to cover here, so friends keen on collecting can look at the card images on [scryfall](https://scryfall.com/sets/fdn).
 - [**Beginner Box**](https://mtg.fandom.com/wiki/Magic:_The_Gathering_Foundations/Beginner_Box): Besides using some of the cards from regular Play Boosters, it adds 77 reprints numbered 488 to 564 and a new card numbered 730, {% mtgpick "fdn" 730 tooltip=true %} , for a total of **78** new Standard recruits.
 - [**Starter Collection**](https://mtg.fandom.com/wiki/Magic:_The_Gathering_Foundations/Starter_Collection): This product is a true Standard gift pack! Besides using some of the cards from regular Play Boosters, it adds **163** cards numbered 565 to 727: powerhouses that dominated Standard over the past 5 to 15 years, useful removal, or quality sideboard cards.
@@ -56,7 +56,7 @@ If this Enchantment lands early, a single card can buy white midrange or control
 
 {% mtgpick "fdn" 140 %}
 
-A four-mana sweeper with no side effects. The last time it appeared was 13 years ago in M12, and since then, apart from the two-color sweeper {% mtgpick "rtr" 201 tooltip=true %}, there have been no more four-mana sweepers, or at least ones with some less controllable side effects, like {% mtgpick "snc" 10 tooltip=true %}. Instead, Standard since then has printed many five-mana sweepers with some positive abilities, such as {% mtgpick "kld" 15 tooltip=true %} and {% mtgpick "mom" 40 tooltip=true %}. But in terms of timing, a four-mana pure sweeper with no side effects is still what white-based control decks need, and this reprint fills that gap.
+A four-mana sweeper with no side effects. The last time it appeared was 13 years ago in M12, and since then, apart from the two-color sweeper {% mtgpick "rtr" 201 tooltip=true %}, there have been no more four-mana sweepers, or at least none without some less controllable side effects, like {% mtgpick "snc" 10 tooltip=true %}. Instead, Standard since then has printed many five-mana sweepers with some positive abilities, such as {% mtgpick "kld" 15 tooltip=true %} and {% mtgpick "mom" 40 tooltip=true %}. But in terms of timing, a four-mana pure sweeper with no side effects is still what white-based control decks need, and this reprint fills that gap.
 
 #### 3. Burst Lightning
 
@@ -84,7 +84,7 @@ Unsummon? Isn't a one-mana bounce spell too ordinary to be listed among the ten 
 
 Simply put, it's the kind of card you feel will always be around, but the day it's gone, you miss having it. In Standard of the last five years, basically no blue one-mana bounce spells were printed. The closest effect is {% mtgpick "blb" 52 tooltip=true %} from BLB, which most of the time is indeed an upgraded Unsummon, but only being able to target the opponent's creatures/nonland permanents leaves a bit less room in play, and Unsummon's return fills that gap. Occasionally using it to save your own high-value creature is quite profitable.
 
-To riff on this a bit, cards like {% mtgpick "fdn" 606 tooltip=true %} and {% mtgpick "fdn" 710 tooltip=true %} are similar: you can hardly imagine Standard without these cards existing in the past five years. They also fit the definition of "cornerstone" quite well, and of course they've been added this time too, so make good use of them for the next five years!
+To riff on this a bit, cards like {% mtgpick "fdn" 606 tooltip=true %} and {% mtgpick "fdn" 710 tooltip=true %} are similar: it's hard to imagine Standard going five years without them. They also fit the definition of "cornerstone" quite well, and of course they've been added this time too, so make good use of them for the next five years!
 
 #### 7. Maelstrom Pulse
 

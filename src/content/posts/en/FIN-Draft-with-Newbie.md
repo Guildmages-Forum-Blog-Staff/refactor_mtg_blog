@@ -8,16 +8,16 @@ categories:
   - "MTG Anecdote"
 cover: "https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/db764ede6f18-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/db764ede6f18-cover.jpg"
-excerpt: "A set named Final Fantasy has officially launched, and it's also the very first reader draft meetup from 魔風集會所."
+excerpt: "A set named Final Fantasy has officially launched, and it's also the very first reader draft meetup from Guildmage's Forum."
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FIN-Draft-with-Newbie/).
 
-## 魔風集會所 Is Actually Hosting an Event?
+## Guildmage's Forum Is Actually Hosting an Event?
 
-A set named Final Fantasy has officially launched, and it's also the very first reader draft meetup from 魔風集會所.
+A set named Final Fantasy has officially launched, and it's also the very first reader draft meetup from Guildmage's Forum.
 
-Isn't that too good to be true? You read an article and get a chance to join a draft? For this we of course have to thank [睿卡潮玩](https://www.facebook.com/963Ruika), who saw the work 魔風集會所 has been putting in and decided to partner with us to promote the game, providing booster packs for hosting offline events. In the future we will have the chance to let more newbies experience the joy of draft.
+Isn't that too good to be true? You read an article and get a chance to join a draft? For this we of course have to thank [睿卡潮玩](https://www.facebook.com/963Ruika), who saw the work Guildmage's Forum has been putting in and decided to partner with us to promote the game, providing booster packs for hosting offline events. In the future we will have the chance to let more newbies experience the joy of draft.
 
 Without further ado, let's look at the highlights from the day! Veteran players are also welcome to reminisce about every Friday of the past. Perhaps a wave of draft is about to sweep in. Are you ready to play to your heart's content?
 
@@ -25,7 +25,7 @@ Without further ado, let's look at the highlights from the day! Veteran players 
 
 ## If You Still Don't Know What Draft Is
 
-Since 魔風集會所 is a site for both the refined and the casual, XD, please allow us to first briefly introduce what "draft" is ~~although we believe our longtime readers all know~~ .
+Since Guildmage's Forum is a site for both the refined and the casual, XD, please allow us to first briefly introduce what "draft" is ~~although we believe our longtime readers all know~~ .
 
 Getting straight to the point in one sentence: Magic: The Gathering draft is **insanely fun**. You get to crack packs, pick cards from them, snag the good stuff nobody else took (usually because they aren't playing that color this time and reluctantly pass it to you), build a deck, play matches, take home souvenirs provided by the store, and relax and trash-talk with a few friends. Or you can play seriously, so seriously that you can carry on to the Pro Tour...
 
@@ -81,7 +81,7 @@ Maybe the next person playing cards with us will be you?
 ## Wrap-Up
 
 The off-table winner of the day was definitely [Chennel](/en/authors/Chennel/)! He not only opened the Bahamut [Summon: Bahamut](https://scryfall.com/card/fin/1/summon:-bahamut), but also [Akroma's Will](https://scryfall.com/card/fca/21/akromas-will) and Yoshitaka Amano's [Dark Ritual](https://scryfall.com/card/fca/8/dark-ritual) ~~that's outrageous, is he driving an armored truck of luck?~~ . Congratulations to everyone for spending an enjoyable evening, and we're also glad to get together with old friends and new ones.
-As a member of 魔風集會所, I'm very glad to have had this opportunity to try leading newcomers to understand and enjoy draft more deeply. Magic's strengths are definitely its depth and its irreplaceable interactivity, and it's precisely because of these qualities that after falling into the pit, we've been squatting deep inside it for ages, XD. Likewise, we understand how much guidance is needed during the beginner phase, so once again thanks to [睿卡潮玩](https://www.facebook.com/963Ruika) for exploring with us, as we try to share the joy and logic of this game with an ever wider world through repeated online and offline interactions.
+As a member of Guildmage's Forum, I'm very glad to have had this opportunity to try leading newcomers to understand and enjoy draft more deeply. Magic's strengths are definitely its depth and its irreplaceable interactivity, and it's precisely because of these qualities that after falling into the pit, we've been squatting deep inside it for ages, XD. Likewise, we understand how much guidance is needed during the beginner phase, so once again thanks to [睿卡潮玩](https://www.facebook.com/963Ruika) for exploring with us, as we try to share the joy and logic of this game with an ever wider world through repeated online and offline interactions.
 That's the event record for **Final Fantasy: Our First Reader Draft Meetup**. If you're curious about how the picks went that day, please read the players' sharing that follows.
 
 ## Player Feedback
@@ -194,7 +194,7 @@ During matches you can observe the opponent's deck logic and make use of your ow
 When playing against [Chennel](/en/authors/Chennel/), he summoned [Summon: Shiva](https://scryfall.com/card/fin/78/summon:-shiva) and started the first chapter of the Saga, keeping my [Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon) in a tapped + stunned state (and the second chapter was also tap + stun... what a headache). This kept me from attacking with [Jecht, Reluctant Guardian](https://scryfall.com/card/fin/104/jecht-reluctant-guardian-braskas-final-aeon) and transforming it, so the game couldn't be turned around and I lost in the end.
 
 #### Please share your feelings about taking part in the draft
-As a rookie who's been in the game for half a year, I can count the number of drafts I've played on one hand... I'm very happy to have joined this draft, and thanks also to 魔風集會所 for the careful explanations and the suggestions from the sidelines. The overall play experience was great!
+As a rookie who's been in the game for half a year, I can count the number of drafts I've played on one hand... I'm very happy to have joined this draft, and thanks also to Guildmage's Forum for the careful explanations and the suggestions from the sidelines. The overall play experience was great!
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/92e36047665c.webp)
 >怎麼喝都不夠's draft picks, left to right, top to bottom.
@@ -202,7 +202,7 @@ As a rookie who's been in the game for half a year, I can count the number of dr
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/3fea95f7cf20.webp)
 >怎麼喝都不夠's deck for the day.
 
-### [晉安](/en/authors/mm/)'s Sharing:
+### [mm](/en/authors/mm/)'s Sharing:
 
 #### What do you think was the most important pick today, and why? Please name the card.
 [Firion, Wild Rose Warrior](https://scryfall.com/card/fin/137/firion-wild-rose-warrior). The main reason I chose this card is that when the deck's core has Equipment, it can quickly provide attack opportunities and generate lots of damage. Seeing him as the first card of the first pack basically decided that I'd play the Red-White theme.
@@ -214,7 +214,7 @@ The fatal flaw of my Red-White aggro deck: no trample. Because of no trample, ev
 Anyway, I found this limited format really fun. The deckbuilding logic isn't too complicated: basically you just start from the powerful single cards in your opening picks as the core and build around them. I hope I'll have more chances to find limited events to play.
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/bdec3368228d.webp)
->晉安's draft picks ~~and pants~~ , left to right, top to bottom.
+>mm's draft picks ~~and pants~~ , left to right, top to bottom.
 
 ### 玉皇daddy（弘正）'s Sharing:
 
@@ -225,7 +225,7 @@ In an eight-player draft you can pick the cards you want and quickly build a dec
 
 #### How did the key turns of today go?
 Basically there were no key turns. The Landfall deck is on the slow side, and all three matches I played were very mild.
-If I had to name a key turn, it would be a turn in the match against 晉安, when the opponent still had 2 mana unspent, and I attacked with a lucky-gamble mentality only to get tricked, and without trading off a single creature, I quickly headed toward defeat.
+If I had to name a key turn, it would be a turn in the match against mm, when the opponent still had 2 mana unspent, and I attacked with a lucky-gamble mentality only to get tricked, and without trading off a single creature, I quickly headed toward defeat.
 
 ![](https://images.guildmagesforum.tw/posts/FIN-Draft-with-Newbie/3286160fb973.webp)
 >玉皇daddy（弘正）'s draft picks, left to right, top to bottom.

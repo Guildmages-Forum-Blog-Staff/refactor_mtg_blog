@@ -60,11 +60,11 @@ It's a tempo creature in both the early and mid game, and if you put it in with 
 
 **MiohitoKiri5474:** 3.0
 
-Without support from your own Detective effects, this is just a soft removal card, but paired with the large number of Detective effects in this set, it's very good. It can serve as an Aura that adds toughness to your own creatures, or turn an opponent's creature into a 1/1 that can't block your Detectives.
+Without support from your own Detective effects, this is just a soft removal card, but paired with the large number of Detective effects in this set, it's very good. It can serve as an Aura that boosts your own creatures, or turn an opponent's creature into a 1/1 that can't block your Detectives.
 
 ![043](https://cards.scryfall.io/large/front/5/a/5aeae6fb-3834-4891-924e-3d1fb3e19e09.jpg?1705953452)
 
-**MiohtioKiri5474:** 2.5
+**MiohitoKiri5474:** 2.5
 
 A competent Equipment with low cast and equip costs, and when the equipped creature attacks, you can surveil 2 to fill the graveyard.
 
@@ -168,7 +168,7 @@ When you cast an artifact spell, investigate, and the activated abilities of art
 
 It doesn't feel very good in Limited, but it can make your other big creature a fake vigilance creature, which may be a decent pairing.
 
-> Also worth noting: two Forensic Researcher + LCI's [Deeproot Pilgrimage](https://scryfall.com/card/lci/52/deeproot-pilgrimage) = infinite 1/1 hexproof Merfolk tokens. Add the fact that [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) and a bunch of creatures with investigate effects are still in Standard, are we about to see another infinite combo that breaks Standard?
+> Also worth noting: two Forensic Researcher + LCI's [Deeproot Pilgrimage](https://scryfall.com/card/lci/52/deeproot-pilgrimage) = infinite 1/1 hexproof Merfolk tokens. Add the fact that [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) and a bunch of creatures with explore effects are still in Standard, are we about to see another infinite combo that breaks Standard?
 
 ![059](https://cards.scryfall.io/large/front/6/f/6f359fc2-b9e4-4a01-9d04-442bb160b01e.jpg?1706056896)
 
@@ -241,7 +241,7 @@ Considering when you'd use a counterspell, this suspect is hard to use profitabl
 
 ![070](https://cards.scryfall.io/large/front/d/9/d942e4ce-f582-4264-89aa-9b4a743e6b29.jpg?1706134237)
 
-**MiohitoKiri547:** 3.0
+**MiohitoKiri5474:** 3.0
 
 An instant-speed rescue card, though it can only rescue cards that entered the graveyard this turn.
 Or you can kill the opponent's creature or counter their spell and then dig it up to use ~~your spell is my spell~~.

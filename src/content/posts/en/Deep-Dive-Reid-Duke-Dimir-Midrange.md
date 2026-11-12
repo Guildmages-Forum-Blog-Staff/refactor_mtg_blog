@@ -15,7 +15,7 @@ categories:
 
 ## Before We Start
 
-In the Magic community, Reid Duke (hereafter "RD") needs no introduction. Besides being a Hall of Fame member, he most recently [won the Pro Tour New Phyrexia piloting an Indomitable Creativity deck](https://www.mtggoldfish.com/deck/5421376#paper), and he remains active in major tournaments. But beyond those achievements, what Magic players know him for most is that he keeps selflessly sharing his insights with readers. Search the keyword [Reid Duke](https://www.channelfireball.com/author/Reid-Duke/) on [Channelfireball](https://www.channelfireball.com/) and you will find all the articles he has published since 2020, which are well worth going back to read!
+In the Magic community, Reid Duke (hereafter "RD") needs no introduction. Besides being a Hall of Fame member, he most recently [won the Pro Tour New Phyrexia piloting an Izzet Indomitable Creativity deck](https://www.mtggoldfish.com/deck/5421376#paper), and he remains active in major tournaments. But beyond those achievements, what Magic players know him for most is that he keeps selflessly sharing his insights with readers. Search the keyword [Reid Duke](https://www.channelfireball.com/author/Reid-Duke/) on [Channelfireball](https://www.channelfireball.com/) and you will find all the articles he has published since 2020, which are well worth going back to read!
 
 But reading articles is just RD outputting to you one-way. How do you get the chance to discuss things with RD? This time a friend happened to send me this video from [Rebell Spike](https://www.youtube.com/@RebelllSpike), [Reid Duke SHARES HIS SECRETS to dominating MTG](https://www.youtube.com/watch?v=rlzvCiNIWWI), and it hit exactly the need I had. Sharing is better than enjoying alone, so I wrote this article, which is also an attempt at a new genre.
 
@@ -134,7 +134,7 @@ At this point RD asked a great question:
 "The opponent can spend five mana to open {% mtglink "Unholy Annex // Ritual Chamber" %} and make a 6/6 Demon token. Why doesn't he do that?"
 
 Rebell's answer here boils down to:
-1. The opponent may be holding {% mtglink "The End" %} , wanting to hand us our high-value {% mtglink "Sheoldred, the Apocalypse" %} or {% mtglink "Enduring Curiosity" %} .
+1. The opponent may be holding {% mtglink "The End" %} , saving it for our high-value {% mtglink "Sheoldred, the Apocalypse" %} or {% mtglink "Enduring Curiosity" %} .
 2. The opponent may not have drawn well, so wants to keep mana open to handle the situation.
 
 This is an open question, as the video doesn't give an answer either, so readers can think it over along with us!
@@ -153,7 +153,7 @@ On Rebell's turn, he draws a third land XD and uses Anoint with Affliction on th
 
 The opponent uses {% mtglink "Duress" %} and sees three lands, then plays Restless Reef and attacks. Rebell makes a 1/1 Fish to block, dropping to 6. Unholy Annex's draw costs 2, leaving the opponent at 7.
 
-On Rebell's turn, he draws  {% mtglink "Enduring Curiosity" %} . After the 2/2 Siren attacks, he flashes in Enduring Curiosity, leaving the opponent at 5, who draws  {% mtglink "Unstoppable Slasher" %} and plays it.
+On Rebell's turn, he draws  {% mtglink "Enduring Curiosity" %} . After the 2/2 Siren attacks, he flashes in Enduring Curiosity, leaving the opponent at 5; Rebell draws  {% mtglink "Unstoppable Slasher" %} off it and casts it.
 
 ### Turn 10 — [26:54](https://youtu.be/rlzvCiNIWWI?si=LzU2PJvR686YppW4&t=1614)
 

@@ -43,7 +43,7 @@ The prerelease foil was [Doomsday Excruciator](https://scryfall.com/card/dsk/94/
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/6e8573644c95.webp) 
 
-The sideboard is above. But if I were to rebuild it, I would take out most of the black, keeping only the Overlord [Overlord of the Balemurk](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk) and the swampcycler [Spectral Snatcher](https://scryfall.com/card/dsk/116/spectral-snatcher), and add more low-cost curve to make a Gruul aggro deck splashing black.
+The sideboard is above. But if I were to rebuild it, I would take out most of the black, keeping only the black Overlord [Overlord of the Balemurk](https://scryfall.com/card/dsk/113/overlord-of-the-balemurk) and the swampcycler [Spectral Snatcher](https://scryfall.com/card/dsk/116/spectral-snatcher), and add more low-cost curve to make a Gruul aggro deck splashing black.
 
 **Out:**
 - [Winter's Intervention](https://scryfall.com/card/dsk/123/winters-intervention)
@@ -72,7 +72,7 @@ Although I had two [Rite of the Moth](https://scryfall.com/card/dsk/229/rite-of-
 
 After playing, my evaluation of two cards went up considerably:
 1. [Seized from Slumber](https://scryfall.com/card/dsk/28/seized-from-slumber) - This is a good card that does both offense and defense. We don't need to obsess over not being able to kill the blocking creature when attacking and give it up; being able to remove an attacking survivor for two mana is very valuable, it's a tempo swing once it resolves early on, and a five-mana straight-up kill in the very late game is not low value either.
-2. [Sporogenic Infection](https://scryfall.com/card/dsk/117/sporogenic-infection) - This kind of "jumping ship" (跳船) effect is super strong in Limited. If the opponent has two creatures, you stick it on one and first jump off his strongest one and call for the attack, because if the creature with the Aura takes damage it gets destroyed instead, so if the opposing creature is high-value he may not block, and you can deal several more points of damage. If the opponent has only one big creature, you can also consider putting it on your own small creature and jumping off the big one!
+2. [Sporogenic Infection](https://scryfall.com/card/dsk/117/sporogenic-infection) - This kind of "jump ship" effect is super strong in Limited. If the opponent has two creatures, you stick it on one and first jump off his strongest one and call for the attack, because if the creature with the Aura takes damage it gets destroyed instead, so if the opposing creature is high-value he may not block, and you can deal several more points of damage. If the opponent has only one big creature, you can also consider putting it on your own small creature and jumping off the big one!
 
 #### Sideboard and Pool Optimization
 
@@ -104,7 +104,7 @@ The sideboard is above. If I were to rebuild, I would change to Simic splashing 
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/80023267c46c.webp)
 
-Although the removal isn't great, two [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot) can accelerate out big creatures, and when skipping a turn-two play there is [Don't Make a Sound](https://scryfall.com/card/dsk/49/dont-make-a-sound) as a counter. If it can't counter, surveil 2 can still paralyze the opponent's attack that turn and smooth out our following curve; or we can play Forest and Islandcycling, and even at worst there's a Bear Trap XD After turns four and five the game is ours, and with more good green creatures as reinforcement, [Silent Hallcreeper](https://scryfall.com/card/dsk/72/silent-hallcreeper)'s copy effect has more good targets too, and green fatties flying thanks to [Cursed Windbreaker](https://scryfall.com/card/dsk/47/cursed-windbreaker) are also quite aggressive!
+Although the removal isn't great, two [Overgrown Zealot](https://scryfall.com/card/dsk/193/overgrown-zealot) can accelerate out big creatures, and when skipping a turn-two play there is [Don't Make a Sound](https://scryfall.com/card/dsk/49/dont-make-a-sound) as a counter. If it can't counter, surveil 2 can still paralyze the opponent's attack that turn and smooth out our following curve; or we can Forestcycle and Islandcycle, and even at worst there's a Bear Trap XD After turns four and five the game is ours, and with more good green creatures as reinforcement, [Silent Hallcreeper](https://scryfall.com/card/dsk/72/silent-hallcreeper)'s copy effect has more good targets too, and green fatties flying thanks to [Cursed Windbreaker](https://scryfall.com/card/dsk/47/cursed-windbreaker) are also quite aggressive!
 
 
 ### Sealed Pool 4
@@ -112,7 +112,7 @@ Although the removal isn't great, two [Overgrown Zealot](https://scryfall.com/ca
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/137477f389c1.webp) 
 
 #### Post-Event Evaluation
-Although it went 2 wins, this is again a pool I built wrong; splashing green was really not worth it, and I should have focused on black-white. In game one I got my head broken by a white-blue tempo deck with an insanely good curve, and the opponent also had both white-blue Overlords, not to mention... If the land flood or the plays didn't line up, this was even a zero to one win build.
+Although it went 2 wins, this is again a pool I built wrong; splashing green was really not worth it, and I should have focused on black-white. In game one I got my head broken by a white-blue tempo deck with an insanely good curve, and the opponent also had both white-blue Overlords, not to mention... If my mana or tricks hadn't lined up, this was even a zero to one win build.
 
 #### Main Deck Introduction and Discussion
 Basically it relies on filling the graveyard/accelerating out big creatures, but if the curve goes backwards or you keep drawing lands, with nothing in the graveyard and removal or recursion in hand, you really want to die. While playing I felt it was built too clunky and the tempo was poor.
@@ -121,7 +121,7 @@ Basically it relies on filling the graveyard/accelerating out big creatures, but
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/7feb5c732031.webp) 
 
-The sideboard is above. If I were to rebuild, I would change to black-white with just the recursion, as shown below.
+The sideboard is above. If I were to rebuild, I would just build black-white reanimator, as shown below.
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/9e13c5730868.webp)
 
@@ -135,7 +135,7 @@ Rather than black-white recursion, it is more a curve-out aggro deck with [Valga
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/407130456320.webp) 
 
 #### Main Deck Introduction and Discussion
-This pool is on the weak side. I opened the white-green Leyline of the Guildpact twice, plus the SPG [Hallowed Haunting](https://scryfall.com/card/spg/64/hallowed-haunting), but the enchantment synergy was weak, so I easily chose Gruul with the better curve as the build. The deck's composition also leans toward reaching delirium as quickly as possible, and I even put in two [Manifest Dread](https://scryfall.com/card/dsk/189/manifest-dread) to fill the graveyard with sorceries and mill an extra card. However, when putting in [Fear of Exposure](https://scryfall.com/card/dsk/177/fear-of-exposure), I couldn't help missing [Grasping Longneck](https://scryfall.com/card/dsk/180/grasping-longneck); as expected, Gruul still needs it!
+This pool is on the weak side. I opened both the white and the green Leyline, plus the SPG [Hallowed Haunting](https://scryfall.com/card/spg/64/hallowed-haunting), but the enchantment synergy was weak, so I easily chose Gruul with the better curve as the build. The deck's composition also leans toward reaching delirium as quickly as possible, and I even put in two [Manifest Dread](https://scryfall.com/card/dsk/189/manifest-dread) to fill the graveyard with sorceries and mill an extra card. However, when putting in [Fear of Exposure](https://scryfall.com/card/dsk/177/fear-of-exposure), I couldn't help missing [Grasping Longneck](https://scryfall.com/card/dsk/180/grasping-longneck); as expected, Gruul still needs it!
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/8b1918510010.webp) 
 
@@ -158,7 +158,7 @@ Why build like this? This is how I think about it:
 
 3. After safely getting through the first four to five turns, we can start relying on lifelink creatures to neutralize the attacks of the opponent's remaining small creatures, while still holding some counters and kills for any high-cost threats.
    - After four mana we can slam our high-defense blockers, but note that since we have few creatures early, the opponent's removal is basically all still in hand. It is more valuable to first look with [Cracked Skull](https://scryfall.com/card/dsk/88/cracked-skull), or to play [Fear of Infinity](https://scryfall.com/card/dsk/214/fear-of-infinity) first to bait removal, since it will crawl back anyway.
-   - At four mana there are two 2/5 blockers/efficient attackers. [Dashing Bloodsucker](https://scryfall.com/card/dsk/90/dashing-bloodsucker) is very high value, and if Eerie can trigger repeatedly its attack power gets even higher; after a vicious lifelink bite, the opponent is basically close to attacking freely into nothing.
+   - At four mana there are two 2/5 blockers/efficient attackers. [Dashing Bloodsucker](https://scryfall.com/card/dsk/90/dashing-bloodsucker) is very high value, and if Eerie can trigger repeatedly its attack power gets even higher; after one big lifelink swing, the opponent's earlier attacks are basically close to wasted.
    - The other, [Clammy Prowler](https://scryfall.com/card/dsk/45/clammy-prowler), once the board is holding, powers up your lifelink creatures, or makes [Appendage Amalgam](https://scryfall.com/card/dsk/83/appendage-amalgam) unblockable.
    - [Sporogenic Infection](https://scryfall.com/card/dsk/117/sporogenic-infection) and [Unnerving Grasp](https://scryfall.com/card/dsk/80/unnerving-grasp) at five or seven mana are also a really outrageous one-two.
 4. Once you steadily hold on to six or seven lands it gets very comfortable, always ready to slam the nine-mana big Demon and make the opponent despair XD Even without the Demon, when the opponent runs out of resources, Swampcycling out [Spectral Snatcher](https://scryfall.com/card/dsk/116/spectral-snatcher) is also a clock with a fairly high survival rate.
@@ -167,7 +167,7 @@ Why build like this? This is how I think about it:
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/e7b3126b70a1.webp) 
 
-The two glare-covered white cards are the same, both [Cult Healer](https://scryfall.com/card/dsk/2/cult-healer). The weaker point of this build is that the two-drop curve is insufficient, but the removal and aggression are good. The three-mana ufo [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) crews well with the survivors, and sending out a bunch of manifested dreads with [Defiant Survivor](https://scryfall.com/card/dsk/175/defiant-survivor) is also quite nice. After building I found that one more [ Bear Trap](https://scryfall.com/card/dsk/243/bear-trap) might be better; I've become a Bear Trap enthusiast!
+The two glare-covered white cards are the same, both [Cult Healer](https://scryfall.com/card/dsk/2/cult-healer). The weaker point of this build is that the two-drop curve is insufficient, but the removal and aggression are good. The three-mana UFO [Unidentified Hovership](https://scryfall.com/card/dsk/37/unidentified-hovership) crews well with the survivors, and sending out a bunch of manifested dreads with [Defiant Survivor](https://scryfall.com/card/dsk/175/defiant-survivor) is also quite nice. After building I found that one more [ Bear Trap](https://scryfall.com/card/dsk/243/bear-trap) might be better; I've become a Bear Trap enthusiast!
 
 But looking at the whole, blue-black's completeness is far better. After building this pool I would still lead with blue-black; after thinking it over, I can't seem to find another reason to switch to white-green XD
 
@@ -185,7 +185,7 @@ This is the main/sideboard configuration given to me by [faintmama](/en/authors/
 
 ![](https://images.guildmagesforum.tw/posts/DSK-Prerelease-Experience-Cephille/0f88651b73c4.webp)
 
-In a flash of inspiration, we built this "all sorts" (五花八門) Sealed deck.
+In a flash of inspiration, we built this "five flowers, eight doors" Sealed deck (a Chinese idiom meaning "all sorts of things", here a nod to the five colors and the many Room doors).
 
 Because we discussed online, some cards used in the pool weren't in my hands, so I used token cards as substitutes. I'll explain here for readers' convenience:
 

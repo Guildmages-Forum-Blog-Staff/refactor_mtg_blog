@@ -23,7 +23,7 @@ First, a brief introduction to how this deck works. Basically it relies on getti
 
 - First, the **Chandra build**, using [Chandra, Hope's Beacon](https://scryfall.com/card/mom/134/chandra-hopes-beacon) and three [Bala Ged Recovery](https://scryfall.com/card/znr/180/bala-ged-recovery-bala-ged-sanctuary) to deal infinite damage to any target;
 - Second, the **Sun build**, using [Mastermind's Acquisition](https://scryfall.com/card/rix/77/masterminds-acquisition) to find [Approach of the Second Sun](https://scryfall.com/card/akh/4/approach-of-the-second-sun) from the sideboard and casting it twice for a special win;
-- Third, the **Ugly Face build**, using [Peer into the Abyss](https://scryfall.com/card/m21/117/peer-into-the-abyss) to make the target opponent draw half their library and lose half their life, then using three Bala Ged Recovery and [Lier, Disciple of the Drowned](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned) to cast Peer into the Abyss multiple times, so the opponent's life drops to 0 through unconditional discarding.
+- Third, the **Ugly Face build**, using [Peer into the Abyss](https://scryfall.com/card/m21/117/peer-into-the-abyss) to make the target opponent draw half their library and lose half their life, then using three Bala Ged Recovery and [Lier, Disciple of the Drowned](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned) to cast Peer into the Abyss multiple times, so the opponent's life drops to 0 through the rounding.
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field-Combo-MIT-top8/83d703a3d0f7.webp)
 
@@ -148,7 +148,7 @@ Next I'll introduce a few tips about Ult. The following ideas will help us think
     A. If you have no mana now, take two kinds of cards that can produce blue mana (Omni, Hidden, Pore, Chandra), to avoid the opponent putting back your blue mana sources;
     B. If you have mana, try to take cards with more resources (Pore, DP (to find a second Ult), Lier);
     C. Think about how the opponent can interfere and try to route around the interference ([Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures), instant-speed removal, counterspells, etc.) (this is the hardest part)
-11. The most important point: in this whole deck, Ult serves to lubricate and add cards and mana, and you don't depend on this card to win. Even if this card is useless it makes no difference. When practicing, don't feel you must rely on Ult to start things off. More than half the time you won't necessarily cast Ult; it's just the one with the most options.
+11. The most important point: in this whole deck, Ult serves to lubricate and add cards and mana, and you don't depend on this card to win. Opponents cutting off this card doesn't accomplish much; it makes no real difference. When practicing, don't feel you must rely on Ult to start things off. More than half the time you won't necessarily cast Ult; it's just the one with the most options.
 
 ## Deck Composition
 
@@ -180,7 +180,7 @@ For the sideboard, I brought two [Temporary Lockdown](https://scryfall.com/card/
 
 ## Mulligans
 
-Basically I keep to one principle: keep hands that can play a Field on time, and the rest you can only learn from playing more, to know how much each card weighs in each matchup (but it still has to fit the requirement of being able to play a Field on time). Although I say on time, it doesn't strictly have to be on time; the hand just has to be able to support you playing a Field. Basically that means two lands plus 1 Field in hand, or two lands including green with [Sylvan Scrying](https://scryfall.com/card/bfz/192/sylvan-scrying), or two lands including blue and green with [Impulse](https://scryfall.com/card/dmr/56/impulse) in hand. I won't keep a hand of five or more cards that isn't one of these situations. Only from mulligan to three do I consider keeping hands with no Field or with one Field and one land.
+Basically I keep to one principle: keep hands that can play a Field on time, and the rest you can only learn from playing more, to know how much each card weighs in each matchup (but it still has to fit the requirement of being able to play a Field on time). Although I say on time, it doesn't strictly have to be on time; the hand just has to be able to support you playing a Field. Basically that means two lands plus 1 Field in hand, or two lands including green with [Sylvan Scrying](https://scryfall.com/card/bfz/192/sylvan-scrying), or two lands including blue and green with [Impulse](https://scryfall.com/card/dmr/56/impulse) in hand. I won't keep a hand of five or more cards that isn't one of these situations. Only from the third mulligan (down to four cards) do I consider keeping hands with no Field or with one Field and one land.
 
 ## Matchup Tips
 
@@ -196,13 +196,13 @@ A relatively favorable matchup (the more [Get Lost](https://scryfall.com/card/lc
 
 ### 3. Greasefang
 
-A relatively unfavorable matchup. It has high explosiveness and disruption that discards and removes enchantments/artifacts, often requiring me to hold back the Boseiju or Otawara in my hand, so I can't always force a land drop and end up with no mana on the opponent's turn. But the main deck can barely deal with creatures (except [Skysovereign, Consul Flagship](https://scryfall.com/card/nec/159/skysovereign-consul-flagship)). Try to cast Vizier early to complete the combo sooner. As for the sideboard, I've seen both routes online: some think you should abandon the combo to play big creatures and interference, and some think completing the combo as early as possible is better. I personally lean toward the combo, so I don't bring in [Zacama, Primal Calamity](https://scryfall.com/card/lcc/296/zacama-primal-calamity), Niv-Mizzet, or Dromoka.
+A relatively unfavorable matchup. It has high explosiveness plus discard and enchantment-removal disruption, often requiring me to hold back the Boseiju or Otawara in my hand, so I can't always force a land drop and end up with no mana on the opponent's turn. But the main deck can barely deal with creatures (except [Skysovereign, Consul Flagship](https://scryfall.com/card/nec/159/skysovereign-consul-flagship)). Try to cast Vizier early to complete the combo sooner. As for the sideboard, I've seen both routes online: some think you should abandon the combo to play big creatures and interference, and some think completing the combo as early as possible is better. I personally lean toward the combo, so I don't bring in [Zacama, Primal Calamity](https://scryfall.com/card/lcc/296/zacama-primal-calamity), Niv-Mizzet, or Dromoka.
 
 ### 4. Gruul Vehicles
 
 An extremely unfavorable matchup. The opponent has Boseiju to interfere, and is fast enough. The main-deck [Reckless Stormseeker](https://scryfall.com/card/mid/157/reckless-stormseeker-storm-charged-slasher) puts on a lot of pressure. Since you might pass with nothing early and let the Werewolf transform, after seeing the opponent play a Werewolf you may need to save Impulse for your main phase rather than cast it at the end of the opponent's turn, to avoid it becoming night.
 
-> The situation is like this: I'm on the play, I have two lands untapped and pass, the opponent has 1 Faerie on the battlefield and casts a Werewolf with 2 lands, hitting us for 3. If at this point you have a Field and Impulse in hand and no other two-mana play, you must pass and use Impulse during your own main phase, and play a Field sacrificing two lands, to prevent the Werewolf from transforming and dealing two more damage each turn and giving creatures trample.
+> The situation is like this: I'm on the play, I have two lands untapped and pass, the opponent has 1 Elf on the battlefield and casts a Werewolf with 2 lands, hitting us for 3. If at this point you have a Field and Impulse in hand and no other two-mana play, you must pass and use Impulse during your own main phase, and play a Field sacrificing two lands, to prevent the Werewolf from transforming and dealing two more damage each turn and giving creatures trample.
 
 ### 5. Spirits
 
@@ -228,9 +228,9 @@ Unfavorable in the main deck, 50/50 after sideboarding. The more [Thalia, Guardi
 
 Unfavorable in the main deck, slightly unfavorable after sideboarding. Like Humans, Convoke's sideboard also has Thalia, the 2/3 Archon, and the 2/3 God. The more the opponent plays, the worse it gets. Since the opponent mulligans aggressively, but getting swept once or twice basically leaves them unable to recover, bring in all the sweepers and big creatures and take out the combo pieces here too.
 
-### 11. Niv to Light, 60-card Fires, 80-card Fires
+### 11. Bring to Light, 60-card Fires, 80-card Fires
 
-Extremely favorable, you basically won't lose, just play lying down. Just watch out for [Leyline Binding](https://scryfall.com/card/dmu/24/leyline-binding) and [Vanishing Verse](https://scryfall.com/card/stx/244/vanishing-verse), as well as sideboard counterspells and cutting effects. Since there are many versions and everything gets played, you can only adapt as needed, but it's still very favorable.
+Extremely favorable, you basically won't lose, just play lying down. Just watch out for [Leyline Binding](https://scryfall.com/card/dmu/24/leyline-binding) and [Vanishing Verse](https://scryfall.com/card/stx/244/vanishing-verse), as well as sideboard counterspells and name-and-exile effects. Since there are many versions and everything gets played, you can only adapt as needed, but it's still very favorable.
 
 ### 12. Phoenix
 

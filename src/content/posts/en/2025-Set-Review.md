@@ -64,7 +64,7 @@ In limited, although this is a three-color set, after the format was figured out
 
 {% mtgcard "Cori-Steel Cutter" %} 
  
-Straight to the Cutter first. During previews nobody noticed that this card was broken; the Cutter is a harder-to-deal-with {% mtglink "Monastery Mentor" %}, which directly made Izzet prowess a T1 deck. And because Standard really has no effective way to deal with the Cutter, it was banned without suspense after the Chiba Spotlight...
+Straight to the Cutter first. During previews I didn't even notice that this card was broken; the Cutter is a harder-to-deal-with {% mtglink "Monastery Mentor" %}, which directly made Izzet prowess a T1 deck. And because Standard really has no effective way to deal with the Cutter, it was banned without suspense after the Chiba Spotlight...
 
 But this card is still ridiculously strong in Modern, and with many 0-mana spells it can get going from turn two. Building a Modern Izzet prowess deck is cheap and powerful! Recommended!
 
@@ -86,7 +86,7 @@ Back when it was still called the WMCQ, I made top 4 with Abzan reanimator. You 
 
 {% mtgcard "Mox Jasper" %} 
  
-Cards named Mox are (supposedly) never weak, and I'm sorry to say this one just isn't. There's also [another Mox](https://scryfall.com/card/mh1/226/mox-tantalite) that nobody plays... though probably nobody cares. I remember it was expensive at first, and then people saw through it.
+Cards named Mox are (supposedly) never weak, but sorry, this one just doesn't make the cut. There's also [another Mox](https://scryfall.com/card/mh1/226/mox-tantalite) that nobody plays... though probably nobody cares. I remember it was expensive at first, and then people saw through it.
 
 {% mtgcard "Winternight Stories" %}
 
@@ -163,11 +163,11 @@ EOE is probably the set I drafted the most this year. As I recall it's fairly ba
 
 {% mtgcard "Quantum Riddler" %} 
  
-The ruler of Modern! Why do you draw an extra card when you have one or fewer cards in hand... Every time the opponent plays {% mtglink "Psychic Frog" %} on turn two and Warps {% mtglink "Quantum Riddler" %} on turn three, I feel I'm about to lose. Combined with Cloudshift it's wonderful. Standard does have {% mtglink "Splash Portal" %} to Cloudshift Quantum Riddler, but it's far less efficient, so it isn't as strong.
+The ruler of Modern! Why do you draw an extra card when you have one or fewer cards in hand... Every time the opponent plays {% mtglink "Psychic Frog" %} on turn two and Warps {% mtglink "Quantum Riddler" %} on turn three, I feel I'm about to lose. Combined with flicker effects it's wonderful. Standard does have {% mtglink "Splash Portal" %} to flicker Quantum Riddler, but it's far less efficient, so it isn't as strong.
 
 {% mtgcard "Ouroboroid" %} 
  
-A typical green limited super-bomb; if it survives two turns the game is basically over. Things like this used to live only in limited, but this time it's a bit outrageous. I've seen people play it in Standard blue-green aggro and Gruul Frenzy, but a 1/3 body is still too fragile, and if it gets killed before getting any counters going, your tempo gets pulled completely away.
+A typical green limited super-bomb; if it survives two turns the game is basically over. Things like this used to live only in limited, but this time it's a bit outrageous. I've seen people play it in Standard blue-green aggro and Gruul Delirium, but a 1/3 body is still too fragile, and if it gets killed before getting any counters going, your tempo gets pulled completely away.
 
 {% mtgcard "Cosmogrand Zenith" %} 
  
@@ -175,11 +175,11 @@ Commonly known as "Cutter Man" (the Cutter guy). Before playing Izzet Cutter I w
 
 {% mtgcard "Icetill Explorer" %} 
  
-Everything landfall decks love is stuffed in here: two lands on turn one, land drops from the graveyard, and it can help self-mill, so you don't worry about an empty graveyard. The funniest thing about this card is probably that EOE's Special Guests slot includes {% mtglink "Strip Mine" %}, so if you open both you can blow up all of your opponent's lands in limited.
+Everything landfall decks love is stuffed in here: playing two lands a turn, playing lands from the graveyard, and it can help self-mill, so you don't worry about an empty graveyard. The funniest thing about this card is probably that EOE's Special Guests slot includes {% mtglink "Strip Mine" %}, so if you open both you can blow up all of your opponent's lands in limited.
 
 {% mtgcard "Diplomatic Relations" %} 
  
-I don't know how many people know that, if you follow the card's original wording, you could use the opponent's creature to hit them with it. That was far too un-green, so it was hotfixed before release, and now that +1/+0 and vigilance can only be given to your own creatures.
+I don't know how many people know that, if you follow the card's original wording, you could use an opponent's creature to hit their own creature. That was far too un-green, so it was hotfixed before release, and now that +1/+0 and vigilance can only be given to your own creatures.
 
 {% mtgcard "The Endstone" %} 
  
@@ -194,7 +194,7 @@ The Spider-Man set has been criticized constantly, and I think there are a few r
 2. Boosters are expensive (collaboration means price hikes).
 3. It's a collaboration set (some people are always unhappy with MTG collaborating with outside properties).
 
-FF cards actually weren't strong enough either, so why was there so little criticism? Just look at that Japanese art, so fragrant... Does card strength matter? Wizards should wake up already...
+FF cards actually weren't strong enough either, so why was there so little criticism? Just look at that Japanese art, gorgeous... Does card strength matter? Wizards should wake up already...
 
 Another point is that Spider-Man limited is unbalanced, which makes many people not want to play it, because the Web-slinging ability lets you quickly cast expensive creatures, making it very hard for the player behind to catch up on tempo. White-green / white-blue win rates are much higher. As for 2 Pick draft, I haven't played it in real life, and on MTGA it feels easy to run into the same colors as others, but I'm not a draft master, so I won't comment on that part.
 

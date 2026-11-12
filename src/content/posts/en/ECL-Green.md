@@ -42,7 +42,7 @@ Comment: After the power boost, dealing damage can let you trade up into a bigge
 
 {% mtgpick "ECL" 165 %}
 Rating: 4.0
-Comment: The body plus trample alone is enough to smash the opponent, and the enters ability can flip over two to three permanents without incident. It might flip a land, but the ceiling is still sky high.
+Comment: The body plus trample alone is enough to smash the opponent, and the enters ability will usually flip over two to three permanents. It might flip a land, but the ceiling is still sky high.
         
 
 {% mtgpick "ECL" 166 %}
@@ -137,7 +137,7 @@ Comment: If its cost goes down, it's a 4-mana 4/3 that draws a card on entering,
 
 {% mtgpick "ECL" 184 %}
 Rating: 3.0
-Comment: An important graveyard payoff card. It checks both the battlefield and the graveyard, and it's nice that its toughness won't shrink because of board trades.
+Comment: An important graveyard payoff card. It checks both the battlefield and the graveyard, and it's nice that its size won't shrink because of board trades.
         
 
 {% mtgpick "ECL" 185 %}
@@ -171,12 +171,12 @@ Comment: A good ability and a decent body, and the life gained from the enters a
 
 {% mtgpick "ECL" 191 %}
 Rating: 3.0
-Comment: A 4/4 body rarely loses a one-on-one fight, and the ability can add toughness to other Elves, so when you call for an attack with five mana open, the opponent will have a hard time assigning blockers.
+Comment: A 4/4 body rarely loses a one-on-one fight, and the ability can pump other Elves, so when you call for an attack with five mana open, the opponent will have a hard time assigning blockers.
         
 
 {% mtgpick "ECL" 192 %}
 Rating: 5.0
-Comment: With three Forests the cost drops to five mana, so it doesn't actually take until very late, and the tokens have very good toughness. A powerful bomb that can break through the game by itself. Don't forget this set has Evolving Wilds, so you can make more than one token in a turn.
+Comment: With three Forests the cost drops to five mana, so it doesn't actually take until very late, and the tokens have very good stats. A powerful bomb that can break through the game by itself. Don't forget this set has Evolving Wilds, so you can make more than one token in a turn.
         
 
 {% mtgpick "ECL" 193 %}
@@ -196,7 +196,7 @@ Comment: You don't have to choose a target first so it's relatively safe, and yo
 
 {% mtgpick "ECL" 196 %}
 Rating: 2.5
-Comment: A very good filler creature. In the mid to late game when it can't kick anything, it can serve as a cheerleader, and since it gives vigilance, tapping won't leave you with fewer defenders.
+Comment: A very good filler creature. In the mid to late game when it can't attack through, it can serve as a cheerleader, and since it gives vigilance, tapping won't leave you with fewer defenders.
         
 
 {% mtgpick "ECL" 197 %}
@@ -234,4 +234,4 @@ Rating: 3.0
 Comment: In this multicolor environment it's easy to reduce its cost to five or even four mana, which is very strong. Paired with [Tam, Mindful First-Year](https://scryfall.com/card/ecl/245/tam-mindful-first-year) it's marvelous: calling a 6/5 creature for two mana is awesome.
 
 ## Conclusion
-Although this is a multicolor environment, because there are no common dual lands, color fixing still often has to come from green~ When building Limited decks, try to stay open. Green decks with ramp and mana creatures can mix in other colors' Vivid cards relatively easily, making it a flexible and versatile color pair!
+Although this is a multicolor environment, because there are no common dual lands, color fixing still often has to come from green~ When building Limited decks, try to stay open. Green decks with ramp and mana creatures can mix in other colors' Vivid cards relatively easily, making it a flexible and versatile color!

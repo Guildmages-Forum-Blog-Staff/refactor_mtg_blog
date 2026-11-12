@@ -24,17 +24,17 @@ This post is very long~ please read it with some music on :D
 
 ## Pre-Tournament Preparation
 
-Compared with last time, when I played the Pro Tour the week after Outlaws of Thunder Junction released, this time there was much more prep time (release at the end of September, tournament at the end of October). The less prep time there is, the more it favors teams with a full roster, since they can test Limited and Constructed early with proxies. For Limited, my discussion partners this time were [蹦蹦 (陳柏宏)](https://www.facebook.com/UncleJund), 小石 (石惟中), [李俊廷](https://www.facebook.com/profile.php?id=100095059533609), [陳盈孝](https://www.facebook.com/Pignosemtgworld), zhi-mao, 曾國輝 and 洪誠駿, while for Constructed they were 蹦蹦, 小石, 陳盈孝, 曾國輝, 洪誠駿, [葉秀軍](https://www.facebook.com/profile.php?id=100063848411689) and the members of 殺隊. Everyone plays some Limited when a new set comes out, so the discussion was lively, and we quickly found the stronger color combinations (Simic, Boros, Gruul) and the weaker ones (Selesnya, Orzhov). The weekend before Worlds was Taiwan's MIT#7 Pioneer event, and I'm very grateful to the other partners who took time to help research Standard, so that during our prep we didn't fall into an echo-chamber mindset and had more people helping to watch the meta direction and the strengths and weaknesses of decks.
+Compared with last time, when I played the Pro Tour the week after Outlaws of Thunder Junction released, this time there was much more prep time (release at the end of September, tournament at the end of October). The less prep time there is, the more it favors teams with a full roster, since they can test Limited and Constructed early with proxies. For Limited, my discussion partners this time were [蹦蹦 (陳柏宏)](https://www.facebook.com/UncleJund), 小石 (石惟中), [李俊廷](https://www.facebook.com/profile.php?id=100095059533609), [cephille](https://www.facebook.com/Pignosemtgworld), zhi-mao, 曾國輝 and 洪誠駿, while for Constructed they were 蹦蹦, 小石, cephille, 曾國輝, 洪誠駿, [葉秀軍](https://www.facebook.com/profile.php?id=100063848411689) and the members of 殺隊. Everyone plays some Limited when a new set comes out, so the discussion was lively, and we quickly found the stronger color combinations (Simic, Boros, Gruul) and the weaker ones (Selesnya, Orzhov). The weekend before Worlds was Taiwan's MIT#7 Pioneer event, and I'm very grateful to the other partners who took time to help research Standard, so that during our prep we didn't fall into an echo-chamber mindset and had more people helping to watch the meta direction and the strengths and weaknesses of decks.
 
 ### Constructed Deck Choice: Orzhov Demons
 
 蹦蹦 started from Golgari for inspiration, while I began practicing with Dimir first, and 小石 seemed to start with American Control. After BLB, Standard's spectrum was stretched very wide: there was ultra-fast Boros Convoke and Gruul Prowess, but also very slow Mono White and Domain. After DSK arrived, [Leyline of Resonance](https://scryfall.com/card/dsk/143/leyline-of-resonance) and [Turn Inside Out](https://scryfall.com/card/dsk/160/turn-inside-out) let the red Mice aggro decks run even more rampant. DSK's [Overlord of the Hauntwoods](https://scryfall.com/card/dsk/194/overlord-of-the-hauntwoods) was also a godsend for Domain, giving it both acceleration and a finisher, and it even triggers [Up the Beanstalk](https://scryfall.com/card/woe/195/up-the-beanstalk), which is absurd.
 
-In the first week of October we decided to play a deck with [Unstoppable Slasher](https://scryfall.com/card/dsk/119/unstoppable-slasher). For one, everyone fears its combination with [Bloodletter of Aclazotz](https://scryfall.com/card/lci/92/bloodletter-of-aclazotz); for another, it isn't very afraid of the common [Go for the Throat](https://scryfall.com/card/moc/250/go-for-the-throat) and [Cut Down](https://scryfall.com/card/dmu/89/cut-down) ([Anoint with Affliction](https://scryfall.com/card/one/81/anoint-with-affliction) turned out to be what everyone later discovered kills [Unstoppable Slasher](https://scryfall.com/card/dsk/119/unstoppable-slasher) and [Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero) well), and of course it isn't afraid of [Liliana of the Veil](https://scryfall.com/card/dmu/97/liliana-of-the-veil)'s edict either. By chance I noticed at a Japanese Pioneer tournament that Mono Black was using [Unholy Annex // Ritual Chamber](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) together with Pioneer's [Mutavault](https://scryfall.com/card/m14/228/mutavault) and the like, which looked very powerful, so we started from Mono Black and built a budget version of the Demon deck.
+In the first week of October we decided to play a deck with [Unstoppable Slasher](https://scryfall.com/card/dsk/119/unstoppable-slasher). For one, everyone fears its combination with [Bloodletter of Aclazotz](https://scryfall.com/card/lci/92/bloodletter-of-aclazotz); for another, it isn't very afraid of the common [Go for the Throat](https://scryfall.com/card/moc/250/go-for-the-throat) and [Cut Down](https://scryfall.com/card/dmu/89/cut-down) ([Anoint with Affliction](https://scryfall.com/card/one/81/anoint-with-affliction) turned out to be what everyone later discovered kills [Unstoppable Slasher](https://scryfall.com/card/dsk/119/unstoppable-slasher) and [Heartfire Hero](https://scryfall.com/card/blb/138/heartfire-hero) well), and of course it isn't afraid of [Liliana of the Veil](https://scryfall.com/card/dmu/97/liliana-of-the-veil)'s edict either. By chance I noticed at a Japanese Pioneer tournament that Mono Black was using [Unholy Annex // Ritual Chamber](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) together with Pioneer's [Mutavault](https://scryfall.com/card/m14/228/mutavault) and the like, which looked very powerful, so we started from Mono Black and built a lesser version of the Demon deck.
 
 After only a few days we felt Mono Black's sideboard wasn't comprehensive enough. [Withering Torment](https://scryfall.com/card/dsk/124/withering-torment) can only answer two types, and although Standard has many enchantments and few artifacts, [Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge) is easy to die to if left unchecked, so we figured we should go back to splashing green or white. The problem with green is that there are too many strong cards (huh?). Never mind the other green cards, playing Golgari means you will certainly include [Mosswood Dreadknight // Dread Whispers](https://scryfall.com/card/woe/231/mosswood-dreadknight-dread-whispers) and [Glissa Sunslayer](https://scryfall.com/card/one/202/glissa-sunslayer), and the whole deck structure would change.
 
-In the end we chose to add white, with [Temporary Lockdown](https://scryfall.com/card/dmu/36/temporary-lockdown), [Rest in Peace](https://scryfall.com/card/big/4/rest-in-peace), and [Beza, the Bounding Spring](https://scryfall.com/card/blb/2/beza-the-bounding-spring) in the sideboard to handle various unfavorable matchups. The new Dimir, although it looks cool with attacking and drawing at once, can't gain life and has too little room for error. In the first two turns, a single big hit from the Mice aggro decks leaves it helpless, and it can't answer artifacts and enchantments either, only discard to counterspells. We have terribly short arms, unlike the foreign pros with their long reach, so we have to accept our fate.
+In the end we chose to add white, with [Temporary Lockdown](https://scryfall.com/card/dmu/36/temporary-lockdown), [Rest in Peace](https://scryfall.com/card/big/4/rest-in-peace), and [Beza, the Bounding Spring](https://scryfall.com/card/blb/2/beza-the-bounding-spring) in the sideboard to handle various unfavorable matchups. The new Dimir, although it looks cool with attacking and drawing at once, can't gain life and has too little room for error. In the first two turns, a single big hit from the Mice aggro decks leaves it helpless, and it can't answer artifacts and enchantments either, you can only rely on counterspells, discard and bounce. We have terribly short arms, unlike the foreign pros with their long reach, so we have to accept our fate.
 
 ### Deck Introduction
 
@@ -50,7 +50,7 @@ Starting with the maindeck: [Archfiend of the Dross](https://scryfall.com/card/o
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/9493a54ef1b1.webp)
 
-For the [comparison of Cut Down and Anoint with Affliction](https://guildmagesforum.tw/en/Standard-Structure-Evolution/), the GF site already has an analysis, so I won't repeat it. The deck has many one-ofs. I mentioned this at the earlier Seattle PT, and recently [思源 also talked about it at MIT#7](https://www.facebook.com/share/p/14eeNaQDEX/). It has a lot to do with Open Decklists: for many cards with similar effects, I'd rather split them up and make the opponent guess, and some similar cards won't be all in or all out. For example, against Mono White I'd bring in [Go for the Throat](https://scryfall.com/card/moc/250/go-for-the-throat) but want to keep [Anoint with Affliction](https://scryfall.com/card/one/81/anoint-with-affliction), or against black Slasher decks I'd want [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum), and against Azorius Oculus I put in all four graveyard hate cards, because if I don't draw them I won't win.
+For the [comparison of Cut Down and Anoint with Affliction](https://guildmagesforum.tw/en/Standard-Structure-Evolution/), the GF site already has an analysis, so I won't repeat it. The deck has many one-ofs. I mentioned this at the earlier Seattle PT, and recently [michaelchen also talked about it at MIT#7](https://www.facebook.com/share/p/14eeNaQDEX/). It has a lot to do with Open Decklists: for many cards with similar effects, I'd rather split them up and make the opponent guess, and some similar cards won't be all in or all out. For example, against Mono White I'd bring in [Go for the Throat](https://scryfall.com/card/moc/250/go-for-the-throat) but want to keep [Anoint with Affliction](https://scryfall.com/card/one/81/anoint-with-affliction), or against black Slasher decks I'd want [Ghost Vacuum](https://scryfall.com/card/dsk/248/ghost-vacuum), and against Azorius Oculus I put in all four graveyard hate cards, because if I don't draw them I won't win.
 
 While climbing the ladder we found the maindeck [Cruelclaw's Heist](https://scryfall.com/card/blb/88/cruelclaws-heist) very good. Against midrange/control we always choose Gift to gain the card-quantity advantage, and against aggro we don't Gift and just remove the biggest threat (per the World Championship deck/single-card statistics, there were five maindeck copies total: 3 mine, 2 蹦蹦's). The three-mana sorcery [Legions to Ashes](https://scryfall.com/card/bro/215/legions-to-ashes), although clunky, is also necessary, and it happens to kill a whole swarm of prolific Mice at once. The sideboard originally had a fourth copy, which I changed to [The End](https://scryfall.com/card/woe/87/the-end) as an instant-speed answer to anything. It's still seven pieces of one- or two-mana spot removal. I know some players still prefer three [Cut Down](https://scryfall.com/card/dmu/89/cut-down) plus four Go for the Throat, and that's all open to discussion with no absolute right or wrong, but I'd still recommend having at least [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) and [Get Lost](https://scryfall.com/card/lci/14/get-lost) to be more comprehensive.
 
@@ -77,7 +77,7 @@ And finally, my personal mascots.
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/0141ec0e7844.webp)
 
 The victory charm (Ajani) has been truly miraculous from last year until now, go get one~
-卡地狗 and 海地鼠 are special-grade cursed spirits. When the match starts, be sure to point them at your opponent. The Japanese players smiled when they saw them, and got cursed to death without ever realizing it~
+The dog and Wiglett plushies are special-grade cursed spirits. When the match starts, be sure to point them at your opponent. The Japanese players smiled when they saw them, and got cursed to death without ever realizing it~
 
 ## The Two Days Before the Tournament
 
@@ -106,13 +106,13 @@ Day 1 departure photo
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/05c1dd9a78fa.webp)
 
-> Getting autographs from 俊廷, who came to challenge Worlds last year, and from [Kai Budde](https://mtg.fandom.com/wiki/Kai_Budde). [Voidmage Prodigy](https://scryfall.com/card/p03/1/voidmage-prodigy) + a Judge card, a shared memory of our generation!
+> Getting autographs from 俊廷, who came to challenge Worlds last year, and from [Kai Budde](https://mtg.fandom.com/wiki/Kai_Budde). [Voidmage Prodigy](https://scryfall.com/card/p03/1/voidmage-prodigy) + his Pro Player card, a shared memory of our generation!
 
 ### R1 to R3 DSK Draft
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/3c2f89ff0a69.webp)
 
-In the first draft, at my table I only recognized 高橋優太, and he sat across from me (terrifying).
+In the first draft, at my table I only recognized Yuta Takahashi, and he sat across from me (terrifying).
 
 Pack one opened [Enduring Vitality](https://scryfall.com/card/dsk/176/enduring-vitality), which suits Selesnya/Gruul/Golgari, and there was no better choice. The third pick passed [Hedge Shredder](https://scryfall.com/card/dsk/183/hedge-shredder), so I followed the signal and ended up with 12 green playables.
 
@@ -141,19 +141,19 @@ In both games the Temur Rooms widened the card quantity gap, and in one game I e
 
 #### R3: [Yuta Takahashi](https://melee.gg/Profile/Index/Dazai) OO 
 
-My opponent was the famous 高橋優太, who played Gruul delirium and had the super bomb [Valgavoth's Onslaught](https://scryfall.com/card/dsk/204/valgavoths-onslaught).
+My opponent was the famous Yuta Takahashi, who played Gruul delirium and had the super bomb [Valgavoth's Onslaught](https://scryfall.com/card/dsk/204/valgavoths-onslaught).
 In game one, I used two [Bashful Beastie](https://scryfall.com/card/dsk/169/bashful-beastie) with [Killer's Mask](https://scryfall.com/card/dsk/104/killers-mask) to force him into two unfavorable trades and won.
 In game two I had [Kona, Rescue Beastie](https://scryfall.com/card/dsk/187/kona-rescue-beastie) and [Wary Watchdog](https://scryfall.com/card/dsk/206/wary-watchdog) on the battlefield, while he had [Cryptid Inspector](https://scryfall.com/card/dsk/174/cryptid-inspector) and six lands, enough to cast [Moldering Gym // Weight Room](https://scryfall.com/card/dsk/190/moldering-gym-weight-room), but he didn't use the gym and chose to play [Wickerfolk Thresher](https://scryfall.com/card/dsk/207/wickerfolk-thresher) instead. So after I killed the Thresher, Kona attacked, and then I jumped to [Valgavoth, Terror Eater](https://scryfall.com/card/dsk/120/valgavoth-terror-eater) XDD
 If he had cast the gym, he'd have a 5/5 and a 3/4 Cryptid Inspector, and Kona naturally wouldn't have attacked~
 
-> The Japanese Faerie Mastermind cursed for a while and then started taking apart his deck. I felt a bit bad for him, but that's MAGIC~
+> Japan's Faerie King cursed for a while and then started unsleeving his deck. I felt a bit bad for him, but that's MAGIC~
 
 ### R4 to R7 Standard Constructed
 
 #### R4 [Robert Wagner Krankel](https://melee.gg/Profile/Index/DonZaloog69) Golgari Midrange OXX 
 
 In game one, the cards I stole with Cruelclaw's Heist left him unable to cope.
-Games two and three were very similar: I never drew Duress or Cruelclaw's Heist and never hit Unholy Annex, both Archfiends got hit by removal one after another, and then the opponent cast two Unholy Annexes in a row, and his card advantage crushed me.
+Games two and three were very similar: neither Duress nor Cruelclaw's Heist managed to hit an Unholy Annex, both Archfiends got hit by removal one after another, and then the opponent cast two Unholy Annexes in a row, and his card advantage crushed me.
 
 #### R5 [Adam Edelson](https://melee.gg/Profile/Index/_goblinlackey) Gruul Prowess OO
 
@@ -190,7 +190,7 @@ Opening remarks on Day 2: 57 players remained (I think there were 113 at the sta
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/1ace7d114344.webp)
 
 The second draft was with nine players I had never played before.
-Pack one opened Leyline of the Guildpact (Sad). I really didn't want to take a two-color card first pick, but there was truly nothing better (surely not [Vanish from Sight](https://scryfall.com/card/dsk/82/vanish-from-sight)), so I took [Inquisitive Glimmer](https://scryfall.com/card/dsk/217/inquisitive-glimmer), and then [Unwilling Vessel](https://scryfall.com/card/dsk/81/unwilling-vessel), [Grand Entryway // Elegant Rotunda](https://scryfall.com/card/dsk/15/grand-entryway-elegant-rotunda), and two [Unsettling Twins](https://scryfall.com/card/dsk/38/unsettling-twins) came in succession.
+Pack one opened a Leyline (Sad). I really didn't want to take a two-color card first pick, but there was truly nothing better (surely not [Vanish from Sight](https://scryfall.com/card/dsk/82/vanish-from-sight)), so I took [Inquisitive Glimmer](https://scryfall.com/card/dsk/217/inquisitive-glimmer), and then [Unwilling Vessel](https://scryfall.com/card/dsk/81/unwilling-vessel), [Grand Entryway // Elegant Rotunda](https://scryfall.com/card/dsk/15/grand-entryway-elegant-rotunda), and two [Unsettling Twins](https://scryfall.com/card/dsk/38/unsettling-twins) came in succession.
 Pack two opened [Entity Tracker](https://scryfall.com/card/dsk/53/entity-tracker), great! [Toby, Beastie Befriender](https://scryfall.com/card/dsk/35/toby-beastie-befriender) was passed, also great! And then blue Rooms kept coming~
 Pack three opened [Reluctant Role Model](https://scryfall.com/card/dsk/26/reluctant-role-model), which was decent, and [Fear of Abduction](https://scryfall.com/card/dsk/9/fear-of-abduction) was passed!
 
@@ -205,7 +205,7 @@ Day 2 draft sideboard
 
 #### R8 [Derrick Davis](https://melee.gg/Profile/Index/derrick_davis) OXX
 
-A very pure Simic deck, two each of the two-color blue cards, and it also had [Malevolent Chandelier](https://scryfall.com/card/dsk/252/malevolent-chandelier) to avoid milling itself out. It was probably the best deck at the table.
+A very pure Simic deck, two copies each of the gold uncommons, and it also had [Malevolent Chandelier](https://scryfall.com/card/dsk/252/malevolent-chandelier) to avoid milling itself out. It was probably the best deck at the table.
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/be56c4bd1f57.webp)
 
@@ -216,7 +216,7 @@ In game one I cleared the way once, then [Reluctant Role Model](https://scryfall
 
 #### R10 [Rastaf](https://melee.gg/Profile/Index/Rastaf) OO
 
-The opponent played Selesnya Survival, using blue Rooms like [Bottomless Pool // Locker Room](https://scryfall.com/card/dsk/43/bottomless-pool-locker-room) and [Meat Locker // Drowned Diner](https://scryfall.com/card/dsk/65/meat-locker-drowned-diner) to widen the hand size gap, with [Fear of Abduction](https://scryfall.com/card/dsk/9/fear-of-abduction) suppressing my own [Unsettling Twins](https://scryfall.com/card/dsk/38/unsettling-twins) and his threats to create a card advantage. When I won both games my hand was full of gas and the opponent had run dry.
+The opponent played Selesnya Survival, using blue Rooms like [Bottomless Pool // Locker Room](https://scryfall.com/card/dsk/43/bottomless-pool-locker-room) and [Meat Locker // Drowned Diner](https://scryfall.com/card/dsk/65/meat-locker-drowned-diner) to widen the hand size gap, with [Fear of Abduction](https://scryfall.com/card/dsk/9/fear-of-abduction) exiling my own [Unsettling Twins](https://scryfall.com/card/dsk/38/unsettling-twins) and his threats to create a card advantage. When I won both games my hand was full of gas and the opponent had run dry.
 
 
 The feel of these three rounds reminded me of drafting at CM about 15 years ago, almost entirely common and uncommon interaction, with no big surprises but very stable decks. Luckily the tuition I paid for drafting back then wasn't wasted.
@@ -254,7 +254,7 @@ He even threw down the last two Pawpatch Formations, which was a bit classless~
 
 The opponent was the American veteran [Brian Boss](https://melee.gg/Profile/Index/borosboss). He proposed that we were at the tail end of eight wins, so the winner's prize was not guaranteed to move up a tier, but the loser would drop a tier, and if we drew the floor was $10,000, or with luck $13,000. Calculating this kind of ranking is what I'm worst at. Having heard him out it made sense, plus the win count at Worlds is unrelated to Adjust Match Point, and I was very tired from not having adjusted to the time difference, so I agreed to the draw.
 
-After we agreed, he said I was right to draw. His Gruul deck had [Leyline of Resonance](https://scryfall.com/card/dsk/143/leyline-of-resonance), specifically to kill midrange decks. I told him, buddy, I've eaten three sets of Gruul Prowess these past two days, sit down and shuffle.
+After we agreed, he said I was right to draw. His Gruul deck had [Leyline of Resonance](https://scryfall.com/card/dsk/143/leyline-of-resonance), specifically to kill midrange decks. I told him, buddy, I've beaten three Gruul Prowess decks these past two days, sit down and shuffle.
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/b7c863b21464.webp)
 
@@ -274,7 +274,7 @@ In the evening I took 蹦蹦 and 小石 around the casino for a big meal~
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/15cf46f475cf.webp) 
 
-I went into the venue early with 蹦蹦 and 小石 to enjoy MAGIC CON, and we even ran into [荒野騎士](/en/authors/ClarkShih/), who was visiting the expo. Along the way I traded my own singles, bought a pile of merchandise, and turned into a ruthless artist-signature machine, blowing over 500 bucks~ (shh)
+I went into the venue early with 蹦蹦 and 小石 to enjoy MAGIC CON, and we even ran into [ClarkShih](/en/authors/ClarkShih/), who was visiting the expo. Along the way I traded my own singles, bought a pile of merchandise, and turned into a ruthless artist-signature machine, blowing over 500 bucks~ (shh)
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/80c9dd5daa52.webp)
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/d985b859de31.webp) 

@@ -73,7 +73,7 @@ A card with survival must already be tapped at the beginning of the second main 
 
 ![Delirium](https://images.guildmagesforum.tw/posts/DSK-mechanism/395f06dabbdd.webp)
 
-Delirium is a payoff mechanic. As long as there are four or more card types among the cards in your graveyard, the delirium condition is met.
+Delirium is a returning mechanic. As long as there are four or more card types among the cards in your graveyard, the delirium condition is met.
 
 > There are nine card types in total: land, creature, sorcery, instant, artifact, enchantment, planeswalker, battle, and kindred. Supertypes (legendary, basic) don't count toward delirium.
 

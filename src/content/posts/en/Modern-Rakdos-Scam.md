@@ -87,16 +87,16 @@ Besides the creature coming back, more importantly its enter-the-battlefield abi
 >
 > All of these cards make the target creature return to the battlefield if it dies, with a +1/+1 counter on it (Not Dead After All gives a Wicked Role instead). Except for Undying Evil, all of them enter tapped.
 
-Basically, against every deck, any opening hand that can Grief scam on turn one can follow through (unless the opponent is a four-color deck with a ridiculous amount of removal), and we prioritize discarding their removal, otherwise an opening hand like ours would be pointless. The point is to trigger the ETB twice and also have a creature with evasion/one that hits hard.
+Basically, against every deck, any opening hand that can Grief scam on turn one is a keep (unless the opponent is a four-color deck with a ridiculous amount of removal), and we prioritize discarding their removal, otherwise an opening hand like ours would be pointless. The point is to trigger the ETB twice and also have a creature with evasion/one that hits hard.
 Also note that the evoke sacrifice trigger and the creature's own ETB are two separate abilities. Since they trigger at the same time, you can order them on the stack yourself. Usually you put evoke first and the ETB second: first check whether the opponent has removal in hand, and if so discard it first, then throw in the Feign Death. If the opponent responds to Grief's discard by killing Grief, we can throw in the Feign Death first, and when the removal resolves the Feign Death effect is still there.
 The opponent can only break this situation in the following cases:
 
-1. They respond to Grief by pitching [Subtlety](https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059), bouncing our Grief from the stack to the top or bottom of the library
+1. They respond to Grief by evoking [Subtlety](https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059), bouncing our Grief from the stack to the top or bottom of the library
 2. The opponent is on the play and has [Stern Scolding](https://cards.scryfall.io/large/front/3/c/3ca1e1de-b916-445f-b3b2-0f4d0cc7ceeb.jpg?1686968311) to counter it
 3. The opponent has two removal spells to respond with (such as two one-mana removal spells on the play like [Path to Exile](https://cards.scryfall.io/large/front/4/9/4970389b-08f4-4a15-a128-954b072a8137.jpg?1689995937) or [Lightning Bolt](https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852))
 4. They respond by pitching [Solitude](https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105)
 
-Usually only case two is a headache: we discarded two cards and are stuck with a dead card in hand, while the opponent solved it with a single discarded counterspell.
+Usually only case two is a headache: we discarded two cards and are stuck with a dead card in hand, while the opponent solved it with a single counterspell.
 Cases one and four result in both sides losing two cards; in case three we discard other cards from hand instead, but still hand the opponent a Feign Death to respond to with removal and burn resources.
 
 ## Dauthi Voidwalker: Your Ulamog/Emrakul/Primeval Titan Look So Handy, Mind If I Borrow Them?
@@ -220,7 +220,7 @@ A good matchup. Use Dauthi to grab the opponent's Titan or Ring and use it yours
 | +2 Sheoldred, the Apocalypse |    -4 Fable of the Mirror-Breaker     |
 
 Bite the bullet and mulligan down to an opening hand that can turn-one Grief scam. After that you basically just lie back and play (the opponent is burning your face anyway and there's nothing you can say about it), and the remaining attention goes to their key creature (put an X = 2 EE on the battlefield).
-Sheoldred on curve feels great, and I find Thoughtseize, trading two life for three, acceptable, and it also gives a chance to discard the their key creature.
+Sheoldred on curve feels great, and I find Thoughtseize, trading two life for three, acceptable, and it also gives a chance to discard that key creature.
 Then use Chalice to lock X = 1, more or less dodging the one-mana spells, betting the opponent didn't bring removal for it.
 
 ### Tron

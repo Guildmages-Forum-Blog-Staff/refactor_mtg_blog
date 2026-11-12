@@ -98,7 +98,7 @@ Although shroud means the card can't be the target of spells or abilities, this 
 
 ![Animate Dead Protection from Black](https://images.guildmagesforum.tw/posts/How-Animate-Dead-Works/0babecaa3588.webp)
 
-> [Apostle of Purifying Light](https://scryfall.com/card/m20/6/apostle-of-purifying-light): Protection from black (This card can't be blocked by black creatures, targeted by black spells or abilities from black sources, dealt damage by black sources, or enchanted by black Auras.)
+> [Apostle of Purifying Light](https://scryfall.com/card/m20/6/apostle-of-purifying-light): Protection from black (This card can't be blocked, targeted, dealt damage, or enchanted by anything black.)
 
 Protection from black is a little more complicated than shroud above. First, as for becoming a target, protection from black likewise only works while the card is on the battlefield, so casting Animate Dead targeting Apostle of Purifying Light in the graveyard is legal. But once Apostle of Purifying Light enters the battlefield, protection from black takes effect: Animate Dead is put into the graveyard by state-based actions because its attachment is illegal, and triggers Animate Dead's delayed triggered ability, "When Animate Dead leaves the battlefield, that creature's controller sacrifices it." When this ability resolves, Apostle of Purifying Light is sacrificed.
 

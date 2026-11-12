@@ -292,4 +292,4 @@ Comment: A 4-mana 5/4 is already a passing body, and once delirium is triggered 
 
 ## Conclusion
 
-As a Standard set, this really opened my eyes. How is every card designed so inflated, especially green? The draft experience in Duskmourn should be explosive, and I hope everyone drafts more uwu人
+As a Standard set, this really opened my eyes. How is every card designed so inflated, especially green? The draft experience in Duskmourn should be explosive, and I hope everyone drafts more uwu

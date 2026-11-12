@@ -60,7 +60,7 @@ The format of the amass description is: amass <font color="#FF0000">subtype</fon
 
 When you amass, it works as follows: if you don't control an Army creature, first create a 0/0 black <font color="#FF0000">"subtype"</font> Army creature token. Then choose an Army creature you control. Put <font color="#0000FF">N</font> +1/+1 counters on that creature. If it isn't a <font color="#FF0000">"subtype"</font>, it additionally becomes that <font color="#FF0000">"subtype"</font> type.
 
-In the case of this example card, its amass subtype is Wraith. Past examples include amass Zombies ([Enter the God-Eternals](https://scryfall.com/card/war/196/enter-the-god-eternals)) and amass Orcs ([Orcish Bowmasters](https://scryfall.com/card/ltr/103/orcish-bowmasters)).
+In the case of this example card, its amass subtype is Goblin. Past examples include amass Zombies ([Enter the God-Eternals](https://scryfall.com/card/war/196/enter-the-god-eternals)) and amass Orcs ([Orcish Bowmasters](https://scryfall.com/card/ltr/103/orcish-bowmasters)).
 
 Army is itself a creature subtype, so even if you haven't amassed before, you may find an Army because you control a [Changeling](https://guildmagesforum.tw/en/ECL-Mechanism/#changeling) creature. If you control multiple Army creatures at once, you can choose any one Army creature to amass.
 

@@ -1,6 +1,6 @@
 ---
 
-title: "World Championship Player Interview: MIT Round 6 Champion 石惟中 (石頭)"
+title: "World Championship Player Interview: MIT Season 6 Champion 石惟中 (石頭)"
 date: "2024-10-16 10:45:20"
 authors:
   - "faintmama"
@@ -19,7 +19,7 @@ excerpt: "Before getting to know 石頭, I guessed he was a relatively quiet, ex
 
 Before getting to know 石頭, I guessed he was a relatively quiet, exceptionally focused player, but after an interview of nearly two hours face to face, I found that 石頭 holds tremendous enthusiasm within him, along with a pure love for TCGs (Trading Card Games). At the same time, his rise illustrates the importance of "friendship." Let's read on together!
 
-#### Q1: First of all, congratulations on qualifying for this World Championship! Let's go back to the MIT Round 6 finals. How did you feel at that moment, being in the final deciding stage?
+#### Q1: First of all, congratulations on qualifying for this World Championship! Let's go back to the MIT Season 6 finals. How did you feel at that moment, being in the final deciding stage?
 
 A: The second round of the Swiss was actually not very smooth. I drew, so I played out all the Swiss rounds, but in the end that gave me a better win record than the players who chose to intentionally draw, and I advanced to the playoffs as the first seed, which meant I'd have the advantage of choosing play or draw in all later matches. By then, though, I was starting to feel a bit tired.
 There was actually a small funny story that day: I went to the venue without enough money, so I had to borrow money from my good friend [T1BloodMoon](/en/authors/T1BloodMoon/) to buy chewing gum. Luckily he was willing to lend it, so I got to chew some gum before the Top 8, getting a sugar boost and some relief. Otherwise, playing from nine in the morning to eight at night without eating anything, my head would have started to feel dizzy.
@@ -67,7 +67,7 @@ Personally I now think I perform better with control and tempo, and relatively w
 #### Q8: I've always been curious that competitive players must have unique habits in how they play. Could you share something beyond the "cards"? Do you have any near-superstitious habits? Or little tricks for hinting at or misleading opponents?
 
 A: From **entering my end step** until I enter my turn again, I try to keep my attention on the opponent. After remembering my own hand, I won't pay it more attention unless I have something to respond with, and then I'll check it, and I slightly observe whether the opponent has any small habits in how they play. Being able to read information is of course best, but at the least I'll think about the opponent's intent and rhythm in playing, and then think about what to do next, without putting much thought into my own hand and board.
-As for fun things, ever since I got **her**, I try to keep her beside me when playing: a little Sheoldred pin! She's kind of my lucky charm and companion XD ~~I hope my draws can gain me two~~.
+As for fun things, ever since I got **her**, I try to keep her beside me when playing: a little Sheoldred pin! She's kind of my lucky charm and companion XD ~~I hope my draws gain me 2 life~~.
 
 ![](https://images.guildmagesforum.tw/posts/MIT6-Champion-Interview/aaca5f4cbf47.webp)
 > An extremely exquisite pin and a frame pouch full of marks of battle.

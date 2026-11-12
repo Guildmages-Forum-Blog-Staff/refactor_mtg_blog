@@ -41,7 +41,7 @@ Comment: Two positive abilities and a standard 3-mana 3/3 body. If you're sure y
 Score: 3.5
 Comment: Worth considering in either aggro or control, but it's a pity it isn't a creature itself. If you're sure you'll be playing a more varied deck, I recommend including one.
 
-> Note: Remember that the one mana of any single color this Vehicle returns when it enters **can only be used to pay for the activated ability's cost**!
+> Note: Remember that the four mana of any one color this Vehicle gives you when it enters **can only be used to pay for the activated ability's cost**!
 
 <!---114--->
 {% mtgpick "dft" 114 %}
@@ -259,4 +259,4 @@ Comment: It fills the mana curve decently, but there will be colorless 1/1 Pilot
 
 
 ## Conclusion
-The power level of red's cards this time is moderate, even slightly conservative, but many cards combine for a 1+1>2 effect and work well with other colors. Overall I don't recommend building toward aggro, but as long as there are cards that can widen the resource gap in the mid to late game ({% mtgpick "dft" 118 tooltip=true %} , {% mtgpick "dft" 125 tooltip=true %}) and the like, you can slightly consider the possibility of mixing in red.
+The power level of red's cards this time is moderate, even slightly conservative, but many cards combine for a 1+1>2 effect and work well with other colors. Overall I don't recommend building toward aggro, but as long as there are cards that can widen the resource gap in the mid to late game ({% mtgpick "dft" 118 tooltip=true %} , {% mtgpick "dft" 125 tooltip=true %}) and the like, it's worth considering adding some red.

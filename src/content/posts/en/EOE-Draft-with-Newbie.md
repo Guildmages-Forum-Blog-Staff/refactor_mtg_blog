@@ -41,7 +41,7 @@ No doubt about it, it's that great a game! After the draft, the cards you picked
 
 ## The Event
 
-On Sunday, August 3, 2025, thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for warmly providing the venue, and [郭老闆](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/)... is really so cool. The event officially began at 14:00! The troops were assembled and we set off to fly into space!
+On Sunday, August 3, 2025, thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for warmly providing the venue, and [Boss Kuo](https://guildmagesforum.tw/en/Interview-Kuo-Tzu-Ching/)... is really so cool. The event officially began at 14:00! The troops were assembled and we set off to fly into space!
 
 Actually, Guildmages' Forum originally wanted to use this event to tour card stores around Taipei, introducing different stores along the way and meeting more newcomers in person, but... we've been so busy and tired lately. Maybe next time? ~~Organizations that share our goal of promotion are welcome to get in touch and discuss~~ 
 
@@ -81,7 +81,7 @@ Tired or not, draft is too fun not to play. Let the battle begin!
 
 ## Wrap-Up
 
-The three-win winner of the day was [T1BloodMoon](/en/authors/T1BloodMoon/), who had two sweepers and even opened the ultimate of [Tezzeret, Cruel Captain](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain) (your author got beaten black and blue)! But beyond that, the winners off the table were even more impressive XD. 小耶 opened [Ancient Tomb](https://scryfall.com/card/eos/1/ancient-tomb) with her very first pick of her very first pack, which is just amazing! The hard-working host [Jru](/en/authors/JruMTG/) also opened [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler), the poster child of blue. Honestly, it was a really rich Play Booster box, and it's making your author itch to crack more.
+The three-win winner of the day was [T1BloodMoon](/en/authors/T1BloodMoon/), who had two sweepers and even pulled off the ultimate of [Tezzeret, Cruel Captain](https://scryfall.com/card/eoe/2/tezzeret-cruel-captain) (your author got beaten black and blue)! But beyond that, the winners off the table were even more impressive XD. 小耶 opened [Ancient Tomb](https://scryfall.com/card/eos/1/ancient-tomb) with her very first pick of her very first pack, which is just amazing! The hard-working host [Jru](/en/authors/JruMTG/) also opened [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler), the poster child of blue. Honestly, it was a really rich Play Booster box, and it's making your author itch to crack more.
 
 Guildmages' Forum is delighted to have another chance to spend time with our readers and happily accompany players who had never touched limited through the experience. Every time we see our reader friends say goodbye with smiles, our sense of accomplishment is especially huge: Magic: The Gathering really is so fun, and we're lucky to play the role of guiding newcomers.
 

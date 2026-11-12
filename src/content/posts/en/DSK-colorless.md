@@ -74,7 +74,7 @@ Comment: A creature that loses card advantage. Unless you have no choice, please
 <!---248--->
 {% mtgpick "dsk" 248 %}
 Score: 3.0
-Comment: Early on it stops the opponent from reaching delirium, and late it can become a trample threat, a highly flexible utility card. Even if you do not main-deck it, it can serve as graveyard hate in the sideboard.
+Comment: Early on it stops the opponent from reaching delirium, and late it can become an evasive threat, a highly flexible utility card. Even if you do not main-deck it, it can serve as graveyard hate in the sideboard.
 
 
 <!---249--->
@@ -98,7 +98,7 @@ Comment: Early it helps find lands and enable delirium, and paired with Rooms, i
 <!---252--->
 {% mtgpick "dsk" 252 %}
 Score: 2.0
-Comment: Trample damage in the mid-to-late game, but the cost is rather high, and even if it can stop delirium it will very likely be too late.
+Comment: Evasive damage in the mid-to-late game, but the cost is rather high, and even if it can stop delirium it will very likely be too late.
 
 
 <!---253--->
@@ -147,7 +147,7 @@ Comment: Free choice of color, entering tapped is the standard setting for this 
 <!---64--->
 {% mtgpick "spg" 64 %}
 Score: 3.5
-Comment: A powerful bomb for the enchantment theme. Casting an enchantment makes a token, and having seven or more enchantments on the battlefield also gives creatures flying and vigilance. With enough board expansion and trample damage, it can create a huge advantage.
+Comment: A powerful bomb for the enchantment theme. Casting an enchantment makes a token, and having seven or more enchantments on the battlefield also gives creatures flying and vigilance. With enough board expansion and evasive damage, it can create a huge advantage.
 
 
 <!---65--->

@@ -64,7 +64,7 @@ Murders at Karlov Manor brought many gold spells that suit this deck. Since we a
 
 ![](https://cards.scryfall.io/large/front/1/e/1e0c695d-62f9-4805-9e2f-7032e8464136.jpg?1706242217)
 
-[No More Lies](https://scryfall.com/card/mkm/221/no-more-lies) is a new card that Azorius Control plays, and our deck can enjoy its benefits too. As a two-mana counterspell it is very forgiving: it can create effective disruption early on and can also be used to counter a spell in response. The downside is that once costs explode in the late game, it doesn't have as much impact.
+[No More Lies](https://scryfall.com/card/mkm/221/no-more-lies) is a new card that Azorius Control plays, and our deck can enjoy its benefits too. As a two-mana counterspell it is very forgiving: it can create effective disruption early on and can also be used to counter back in a counter war. The downside is that once costs explode in the late game, it doesn't have as much impact.
 
 ![](https://cards.scryfall.io/large/front/7/e/7e478972-27a6-4a89-a8d7-cb1abdd9f0d9.jpg?1706242831)
 
@@ -86,9 +86,9 @@ It also solves a long-standing problem of the deck: being unable to use [Leyline
 
 ![](https://cards.scryfall.io/large/front/3/8/3876aa0f-b199-43f5-8a91-c2d620b8ef84.jpg?1706241687)
 
-A destroy-style sweeper combined with hand disruption. You can collect evidence 6 when casting it, and on resolution choose a card in the opponent's graveyard and exile all cards with the same name from the opponent's hand, library, and graveyard.
+A destroy-style sweeper combined with a Cranial Extraction-style effect. You can collect evidence 6 when casting it, and on resolution choose a card in the opponent's graveyard and exile all cards with the same name from the opponent's hand, library, and graveyard.
 
-The sweeper and the disruption are in the same sentence on resolution, so the opponent can't respond to which card you cut.
+The sweep and the name-exile are part of the same sentence on resolution, so the opponent can't respond to which card you cut.
 
 ![](https://cards.scryfall.io/large/front/5/5/5563967f-09fd-4ccf-8892-4dd0c2544c98.jpg?1706241940)
 
@@ -123,14 +123,14 @@ With [Bring to Light](https://cards.scryfall.io/large/front/e/3/e3399260-a81a-47
 |                                                                            |                          -1 [Urgent Necropsy](https://scryfall.com/card/mkm/240/urgent-necropsy)                          |
 |                                                                            |                           -1 [The Scarab God](https://scryfall.com/card/cmm/353/the-scarab-god)                            |
 
-In game one, the opponent most likely has only [Spell Pierce](https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403) or [Jwari Disruption](https://cards.scryfall.io/large/front/c/b/cbc2f053-28f6-41f5-9412-78507d41bc0e.jpg?1646308068) as counterspells, so they can hardly stop our game plan. Most of our removal exiles, and we also have the hand-and-library disruption spell, so it is very hard for Phoenix to win game one. As for removal, try to leave exile effects for Phoenix and destroy effects for [Ledger Shredder](https://cards.scryfall.io/large/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1664410287).
+In game one, the opponent most likely has only [Spell Pierce](https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403) or [Jwari Disruption](https://cards.scryfall.io/large/front/c/b/cbc2f053-28f6-41f5-9412-78507d41bc0e.jpg?1646308068) as counterspells, so they can hardly stop our game plan. Most of our removal exiles, and we also have a Cranial Extraction-style spell, so it is very hard for Phoenix to win game one. As for removal, try to leave exile effects for Phoenix and destroy effects for [Ledger Shredder](https://cards.scryfall.io/large/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1664410287).
 
 In the sideboarded games, since we don't know what counterspells the opponent will bring in, we first take out cards that the opponent won't counter (expensive ground creatures, expensive destroy-style removal, and so on), and bring in cards that disrupt the opponent's plan plus a few discard spells (bring in more discard if you want to take out other things). During the game, rank the cards in your hand by importance and play them starting from the least important, trying to bait out all their counterspells before resolving the important spells.
 
 We keep the sweeper in game one because we may need to deal with the board that [Young Pyromancer](https://scryfall.com/card/2x2/131/young-pyromancer) creates, and keeping [Lightning Helix](https://scryfall.com/card/sta/62/lightning-helix) gives a chance to kill [Young Pyromancer](https://scryfall.com/card/2x2/131/young-pyromancer) early or an on-time turn-two [Ledger Shredder](https://scryfall.com/card/snc/46/ledger-shredder).
 
 With [Bring to Light](https://scryfall.com/card/2x2/188/bring-to-light), prioritize finding [Niv-Mizzet, Supreme](https://scryfall.com/card/mat/40/niv-mizzet-supreme): it has ward against monocolored and flying, and the opponent's whole deck has only [Otawara, Soaring City](https://scryfall.com/card/neo/271/otawara-soaring-city) to deal with it.
-If the board gets out of control, usually Phoenix has already crawled out. At that point, find the sweeper-plus-disruption spell [Deadly Cover-Up](https://scryfall.com/card/mkm/83/deadly-cover-up), collect evidence 6, and cut every Phoenix, and the opponent has basically lost. Also, in the sideboarded games, if the cut succeeds, remember to look at their deck and note which counterspells the opponent brought in, so you can plan the counter-baiting better. For example, if the opponent has [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute), you can consider waiting until 8 mana to make your play, and if they have [Negate](https://scryfall.com/card/mom/68/negate) but no [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke), you can consider slamming a big creature spell at 5 mana.
+If the board gets out of control, usually Phoenix has already crawled out. At that point, find the sweeper with the Cranial Extraction effect, [Deadly Cover-Up](https://scryfall.com/card/mkm/83/deadly-cover-up), collect evidence 6, and cut every Phoenix, and the opponent has basically lost. Also, in the sideboarded games, if the cut succeeds, remember to look at their deck and note which counterspells the opponent brought in, so you can plan the counter-baiting better. For example, if the opponent has [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute), you can consider waiting until 8 mana to make your play, and if they have [Negate](https://scryfall.com/card/mom/68/negate) but no [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke), you can consider slamming a big creature spell at 5 mana.
 
 ### Abzan Amalia Combo
 
@@ -158,7 +158,7 @@ In the sideboarded games, we take out cards that cost too much and don't matter 
 |                                                                |         -1 [Deafening Clarion](https://scryfall.com/card/grn/165/deafening-clarion)          |
 |                                                                | -1 [Elesh Norn, Mother of Machines](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines) |
 
-I think quite a few people consider this matchup fairly bad, but I personally consider it about 50-50. The new Azorius Control builds mostly run [No More Lies](https://scryfall.com/card/mkm/221/no-more-lies) and have stopped playing Counterspell, so we have more room to get our spells past their counterspells. And as long as [Up the Beanstalk](https://scryfall.com/card/woe/195/up-the-beanstalk), the best card against control, is on the battlefield to keep our resources flowing, the opponent will lose because they can't counter all of our spells.
+I think quite a few people consider this matchup fairly bad, but I personally consider it about 50-50. The new Azorius Control builds mostly run [No More Lies](https://scryfall.com/card/mkm/221/no-more-lies) and have stopped playing hard counters, so we have more room to get our spells past their counterspells. And as long as [Up the Beanstalk](https://scryfall.com/card/woe/195/up-the-beanstalk), the best card against control, is on the battlefield to keep our resources flowing, the opponent will lose because they can't counter all of our spells.
 
 The most common reason we lose to Azorius Control is getting beaten to death by [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor) or the tokens from a hard-cast [Shark Typhoon](https://scryfall.com/card/iko/67/shark-typhoon). Remember to save removal or counterspells to handle these two threats.
 
@@ -188,9 +188,9 @@ An extremely unfavorable matchup. Basically, the only way to win in game one is 
 In the sideboarded games, we basically take out creature removal and some spells that don't have time to matter, and bring in every disruption tool to stop the opponent from winning. The best cards we can draw in this matchup are [Krenko's Buzzcrusher](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher) or [Lavinia, Azorius Renegade](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade).
 [Krenko's Buzzcrusher](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher) can blow up the opponent's Lotus Field on turn 3 or 4 and leave a 4/4 clock on the battlefield to speed up the kill, while [Lavinia, Azorius Renegade](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade) can make the opponent's engine completely crash.
 
-We keep [Vanishing Verse](https://scryfall.com/card/stx/244/vanishing-verse) because it can remove their board-presence creatures, [Lier, Disciple of the Drowned](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned), and [Omniscience](https://scryfall.com/card/m19/65/omniscience) if it has unfortunately already entered.
+We keep [Vanishing Verse](https://scryfall.com/card/stx/244/vanishing-verse) because it can remove their land-untapping creatures, [Lier, Disciple of the Drowned](https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned), and [Omniscience](https://scryfall.com/card/m19/65/omniscience) if it has unfortunately already entered.
 
-As for what to cut when you draw the hand-and-library disruption spell, it depends on the opponent's win condition. When I don't know, I just cut [Hidden Strings](https://scryfall.com/card/dgm/12/hidden-strings). For the opponent to finish in a single turn, they rely heavily on [Hidden Strings](https://scryfall.com/card/dgm/12/hidden-strings) to generate extra mana, so the best way to slow them down is to cut the spells they can resolve cheaply.
+As for what to name when you draw the Cranial Extraction-style spell, it depends on the opponent's win condition. When I don't know, I just cut [Hidden Strings](https://scryfall.com/card/dgm/12/hidden-strings). For the opponent to finish in a single turn, they rely heavily on [Hidden Strings](https://scryfall.com/card/dgm/12/hidden-strings) to generate extra mana, so the best way to slow them down is to cut their cheap land-untapping spell.
 
 ### Boros Convoke
 
@@ -222,4 +222,4 @@ Murders at Karlov Manor gave this Bring to Light Niv-Mizzet deck a major boost. 
 
 I think the deck has risen to the level where it can fight the other top decks in the current meta, and most of its matchups against them are not even unfavorable. But five colors still has its mana base concerns, and since the deck is partly a toolbox, it demands more understanding of the deck from the pilot than other two- or three-color decks do.
 
-Either way, I still highly recommend playing this Five-Color Bring to Light Niv-Mizzet deck. There is a month and a half to go until the next Pioneer season, and then we'll see how far this deck can go!
+Either way, I still highly recommend playing this Five-Color Bring to Light Niv-Mizzet deck. There is a little over a month and a half to go until the next Pioneer season, and then we'll see how far this deck can go!

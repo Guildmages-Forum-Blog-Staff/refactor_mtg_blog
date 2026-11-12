@@ -73,7 +73,7 @@ Even so, with just two Caves you can meet the minimum cost, and the follow-up co
 
 **Kappa**: 2.5
 
-The body finds a Plains and gains 2 life, and also provides an artifact for your own tapping. Nothing great, nothing terrible. Considering the Craft ability needs 7 mana, the timing for playing this requires a rather defensive, very late-game approach, or a ramp strategy. After Craft it produces two 1/1 [Glorious Anthem](https://scryfall.com/card/m21/21/glorious-anthem)s, a good reward for ramp strategies, and the two small tokens ensure there's not much of a gap on the turn it flips. Be careful that you may easily lose life during the ramp phase, so watch whether your life total is still safe when you get to 7 mana. Overall it's a decent resource card, and if you put it in a ramp theme and flip it, you can also gain a board advantage along the way.
+The body finds a Plains and gains 2 life, and also provides an artifact for your own tapping. Nothing great, nothing terrible. Considering the Craft ability needs 7 mana, the timing for playing this requires a rather defensive, very late-game approach, or a ramp strategy. After Craft it becomes a [Glorious Anthem](https://scryfall.com/card/m21/21/glorious-anthem) that also makes two 1/1s, a good reward for ramp strategies, and the two small tokens ensure there's not much of a gap on the turn it flips. Be careful that you may easily lose life during the ramp phase, so watch whether your life total is still safe when you get to 7 mana. Overall it's a decent resource card, and if you put it in a ramp theme and flip it, you can also gain a board advantage along the way.
 
 ![007](https://cards.scryfall.io/large/front/1/9/193d1eac-ede7-4f75-9c74-05133b215f93.jpg?1699043121)
 
@@ -97,7 +97,7 @@ Sorry, it turns out this really is the Brothers' War venue. I originally thought
 
 **Kappa**: 2.0
 
-Although it's cheap removal, if you haven't prepared suitable fodder it amounts to a 2-for-1 against yourself, and because it exiles artifacts, if the opponent has a way to remove artifacts this removal is useless. This set has quite a few ways to remove artifacts, and ward 2 as cover doesn't change the fact that it's harder to use. You need to prepare fodder before using it, or simply use the additional cost to turn on the graveyard-filling approach.
+Although it's cheap removal, if you haven't prepared suitable fodder it amounts to a 2-for-1 against yourself, and because it exiles artifacts, if the opponent has a way to remove artifacts this removal is useless. This set has quite a few ways to remove artifacts, and ward 2 as cover doesn't change the fact that it's harder to use. You need to prepare fodder before using it, or simply use the additional cost as a way to enable descend.
 
 ![011](https://cards.scryfall.io/large/front/9/6/96de0741-9270-4118-bb8e-f3480c75a582.jpg?1699043160)
 
@@ -157,7 +157,7 @@ At minimum it's a three-mana 1/1 double striker that also gets you a land, or po
 
 **Kappa**: 4.0
 
-Flash with three useful ETBs. Mode 1 ensures you come out a size bigger after a round of creature trades, so besides being a counterattacker, it isn't easily traded off by the opponent's small creatures. Mode 3's graveyard filling has great significance in this set, and being able to fill the graveyard instantly greatly increases the possibility of a 0-for-1, for example responding when the opponent is doing graveyard recursion to make them fizzle. Finally, mode 2 is for when the other two modes are meaningless, simply scry 2 and draw 2, ensuring the quality of your next draws. Apart from its weak base toughness of 1, whichever mode you pick it's a strong card that is never useless at any time, and combined with the uniqueness of instant-speed graveyard filling, it's worth a first pick.
+Flash with three useful ETBs. Mode 1 ensures you come out a size bigger after a round of creature trades, so besides being a counterattacker, it isn't easily traded off by the opponent's small creatures. Mode 3's graveyard exile has great significance in this set, and being able to exile a graveyard at instant speed greatly increases the possibility of a 0-for-1, for example responding when the opponent is doing graveyard recursion to make them fizzle. Finally, mode 2 is for when the other two modes are meaningless, simply gain 2 life and scry 2, ensuring the quality of your next draws. Apart from its weak base toughness of 1, whichever mode you pick it's a strong card that is never useless at any time, and combined with the uniqueness of instant-speed graveyard exile, it's worth a first pick.
 
 ![021](https://cards.scryfall.io/large/front/b/9/b92a6ba0-cea0-4084-92f1-2bd60ea25fb0.jpg?1698431153)
 
@@ -193,7 +193,7 @@ With flash, a very flexible rescue puppy. Besides saving a creature targeted by 
 
 **Kappa**: 5.0
 
-Apart from scattered Gnome tokens and Bats, white alone isn't a very prolific token color this time (mono-white commons and uncommons have only 5, 3 of which come with Craft conditions, Cave counts, or extra costs). Its real value lies in working with other color pairs, mass-producing Bat or Fungus tokens to drown the opponent in an irreversible sea of creatures. It has vigilance itself, so it can join the attack too. Another feature is the condition to return to the front face, which is a fairly simple one among this set's flip cards: as long as you successfully mass-produce tokens once, you've guaranteed at least three attackers, and you can complete the die-and-return loop on your own, undoubtedly a bomb. To fully unleash its strength you still need other cards that produce tokens to start the system. I suggest first-picking it, then taking lots of token-producing cards that go with it.
+Apart from scattered Gnome tokens and Bats, white alone isn't a very prolific token color this time (mono-white commons and uncommons have only 5, 3 of which come with Craft conditions, Cave counts, or extra costs). Its real value lies in working with other color pairs, mass-producing Bat or Fungus tokens to drown the opponent in an irreversible sea of creatures. It has vigilance itself, so it can join the attack too. Another feature is the condition to return to the front face, which is a fairly simple one among this set's gods: as long as you successfully mass-produce tokens once, you've guaranteed at least three attackers, and you can complete the die-and-return loop on your own, undoubtedly a bomb. To fully unleash its strength you still need other cards that produce tokens to start the system. I suggest first-picking it, then taking lots of token-producing cards that go with it.
 
 ![027](https://cards.scryfall.io/large/front/5/7/57c21561-2213-4524-89a6-30a305843e5a.jpg?1699043308)
 
@@ -235,7 +235,7 @@ Resplendent Angel! Re! Turn! Although this set doesn't have much lifegain suppor
 
 **cephille**: 2.5
 
-Creatures really are getting stronger and stronger. What on earth is a one-mana 1/1 creature with three upsides... I remember back then [Ghastly Gloomhunter](https://cards.scryfall.io/normal/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684) was already pretty good in ZNR Limited, and putting an Aura or skin on it, or kicking it out in the mid-to-late game, was quite fierce. In this set, with suitable Equipment or Auras it should perform well too.
+Creatures really are getting stronger and stronger. What on earth is a one-mana 1/1 creature with three upsides... I remember back then [Ghastly Gloomhunter](https://cards.scryfall.io/normal/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684) was already pretty good in ZNR Limited, and putting an Aura on it, or kicking it out in the mid-to-late game, was quite fierce. In this set, with suitable Equipment or Auras it should perform well too.
 
 ![034](https://cards.scryfall.io/large/front/2/6/269ddd84-fdc4-4c94-b183-32ecec56967c.jpg?1698265070)
 

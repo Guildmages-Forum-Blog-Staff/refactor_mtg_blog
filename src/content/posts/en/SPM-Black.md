@@ -19,7 +19,7 @@ In addition, because of licensing issues, this set's physical cards offline and 
 
 - For a mechanics breakdown, see this article: [Marvel's Spider-Man Mechanics Breakdown](https://guildmagesforum.tw/en/SPM-Mechanism/)
 - The physical card set is named Marvel's Spider-Man ([SPM](https://scryfall.com/sets/spm))
-- The online set is named Through the Omenpaths (tentative translation; the English set name is Through the Omenpaths, [OM1](https://scryfall.com/sets/om1))
+- The online set is named Through the Omenpaths ([OM1](https://scryfall.com/sets/om1))
 
 ## Rating Scale
 
@@ -86,7 +86,7 @@ Comment: When your life is high, it's a super-strong resource engine that can di
 <!---57--->
 ![](https://images.guildmagesforum.tw/SPM/57.webp)
 Score: 3.0
-Comment: The curve creature red-black most wants to see: high power, trample, and an ability that is a rare gem for the Madness theme.
+Comment: The curve creature red-black most wants to see: high power, evasion, and an ability that makes it a rare gem for the Mayhem theme.
 
 
 <!---58--->
@@ -121,7 +121,7 @@ Comment: Quite usable in a set that isn't fast, it can look at up to four cards,
 <!---63--->
 ![](https://images.guildmagesforum.tw/SPM/63.webp)
 Score: 2.5
-Comment: Mayhem's one-sided sweep effect is very powerful, while casting it for three mana requires careful evaluation of the board, since black itself has quite a few creatures with toughness 2 or more.
+Comment: Mayhem's one-sided sweep effect is very powerful, while casting it for three mana requires careful evaluation of the board, since black itself has quite a few creatures with 2 toughness.
 
 
 <!---64--->

@@ -42,7 +42,7 @@ But before the spell is put on the stack, there is a preliminary check: the game
 This 601.3 looks intuitive and obvious, right? But if you ask carefully, which characteristics should be used to define this legality check? Many spells have variables, alternative characteristics and so on when cast, and there are many effects that allow you to cast things specially or forbid casting, for example:
 
 - [Melek, Izzet Paragon](https://scryfall.com/card/c20/220/melek-izzet-paragon) lets you cast instant and sorcery cards from the top of your library.
-- [Brisela, Voice of Nightmares](https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares) forbids you from casting spells with total mana value 3 or less.
+- [Brisela, Voice of Nightmares](https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares) forbids you from casting spells with mana value 3 or less.
 
 These conditions are limiting, and the result may change depending on the spell's own variables or changes in characteristics, so how exactly does the game decide? For that we look at rule 601.3e:
 
@@ -100,10 +100,10 @@ Taking Past in Flames as the example, only the instants and sorceries that the s
 
 The emblem of [Wrenn and Six](https://scryfall.com/card/mh1/217/wrenn-and-six) gives instants and sorceries in your graveyard retrace. In terms of how it works, its interaction with Adventure cards in the graveyard is exactly the same as Lier's: when you have this emblem, you can cast Adventure spells from your graveyard using retrace.
 
-[Sword of Once and Future](https://scryfall.com/card/mom/265/sword-of-once-and-future) is the simplest case, because it says Spell from the very start, not Card, so it isn't affected by the fact that the Adventure card itself is a permanent card; as long as the Adventure spell's total mana value is 2 or less, it can be cast from the graveyard through Sword of Once and Future's effect.
+[Sword of Once and Future](https://scryfall.com/card/mom/265/sword-of-once-and-future) is the simplest case, because it says Spell from the very start, not Card, so it isn't affected by the fact that the Adventure card itself is a permanent card; as long as the Adventure spell's mana value is 2 or less, it can be cast from the graveyard through Sword of Once and Future's effect.
 
 ![Invasion of Alara](https://images.guildmagesforum.tw/posts/Adventure-and-Lier/5a1d2aa8dc0c.webp)
 
-[Invasion of Alara](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom) and [Bramble Familiar](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest) form a combo that makes full use of an Adventure card's two sets of characteristics. When Invasion of Alara enters, you exile cards from the top of your library until you exile two **cards** with total mana value 4 or less, and you may cast one of them without paying its mana cost.
+[Invasion of Alara](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom) and [Bramble Familiar](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest) form a combo that makes full use of an Adventure card's two sets of characteristics. When Invasion of Alara enters, you exile cards from the top of your library until you exile two **cards** with mana value 4 or less, and you may cast one of them without paying its mana cost.
 
 The only condition this ability checks is **cards with mana value 4 or less**. Bramble Familiar is a two-mana creature card, which satisfies this condition. Then you may cast it without paying its mana cost, and at that point the Adventure card asks whether you want to cast the creature half, Bramble Familiar, or the Adventure sorcery half, Fetch Quest. Whichever side you choose can be cast successfully, and Invasion of Alara won't ask what mana cost the spell you end up casting has.

@@ -197,7 +197,7 @@ I cut Leyline Binding in this matchup, because white-based decks have far too mu
 | +1 {% mtglink "Beza, the Bounding Spring" %} | -1 {% mtglink "Pawpatch Formation" %} |
 
 The logic for {% mtglink "Elspeth's Smite" %} is the same as against Dimir: it can deal with most threats and exile them.
-I do not really want to keep Temporary Lockdown. Although Golgari now plays faeries to quickly ramp into a turn-3 tempo play, I would rather concentrate on dealing with their 3-mana and 4-mana threats.
+I do not really want to keep Temporary Lockdown. Although Golgari now plays Elves to quickly ramp into a turn-3 tempo play, I would rather concentrate on dealing with their 3-mana and 4-mana threats.
 
 ## Conclusion
 That is all of my sharing on this Domain Ramp deck!

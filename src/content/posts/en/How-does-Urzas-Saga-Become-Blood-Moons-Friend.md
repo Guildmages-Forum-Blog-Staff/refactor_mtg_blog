@@ -52,7 +52,7 @@ One of the set's themed mechanics for [FIN](https://scryfall.com/sets/fin) is **
 
 It is already somewhat awkward that the set's themed mechanic creatures blow themselves up on the spot as soon as they are hit by a lose-abilities effect, but the bigger trouble is the counterintuitive nature of the rule itself.
 
-Even players who touch modern formats mostly have a certain foundation in understanding the game rules, yet when [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) first appeared, the principle behind its interaction with [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) still confused a large number of players <font color="#B0B0B0">(of course, the rules of Blood Moon-type effects are indeed more complicated than ordinary lose-abilities)</font>. Now put this rules interaction into a Standard set that will have lots of brand-new players, and the problem is certainly even more serious, so the official side decided to change the rules about a Saga losing its chapter abilities, making this rules problem disappear at its root.
+Even players who play Modern mostly have a certain foundation in understanding the game rules, yet when [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) first appeared, the principle behind its interaction with [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) still confused a large number of players <font color="#B0B0B0">(of course, the rules of Blood Moon-type effects are indeed more complicated than ordinary lose-abilities)</font>. Now put this rules interaction into a Standard set that will have lots of brand-new players, and the problem is certainly even more serious, so the official side decided to change the rules about a Saga losing its chapter abilities, making this rules problem disappear at its root.
 
 
 ---
@@ -70,7 +70,7 @@ Under the new rules, when a Saga loses its chapter abilities, it is handled more
 
 ## The Effect of the New Rules on Urza's Saga
 
-Although this rules change alters the basic rules that Sagas have had since their birth in 2018, from the perspective of real play, the only existing Saga truly affected substantially by this change is actually just [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga). However, whether it is [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga), or Blood Moon-type effects led by [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon), or even the counter-relationship between the two, they have long been one of the core elements defining modern formats, so the impact of this rules change cannot be ignored at all.
+Although this rules change alters the basic rules that Sagas have had since their birth in 2018, from the perspective of real play, the only existing Saga truly affected substantially by this change is actually just [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga). However, whether it is [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga), or Blood Moon-type effects led by [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon), or even the counter-relationship between the two, they have long been one of the core elements defining the Modern format, so the impact of this rules change cannot be ignored at all.
 
 Let us see what happens under the current rules when [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) meets [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon).
 
@@ -145,4 +145,4 @@ Since the answer here comes from comparing timestamps, could it be the other way
 
 ## Conclusion
 
-From the point of view of eliminating non-intuitive rules interactions, the writer thinks the intention of this rules change is good. It is only that after this change, [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) suddenly lost its greatest constraint, and the constraint that once existed has even turned into its helper. We can expect a noticeable impact on modern and higher formats in the short term, but whether it will become an unhealthy shock to the environment cannot be judged yet, and we can only leave it to time to verify.
+From the point of view of eliminating non-intuitive rules interactions, the writer thinks the intention of this rules change is good. It is only that after this change, [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) suddenly lost its greatest constraint, and the constraint that once existed has even turned into its helper. We can expect a noticeable impact on Modern and older formats in the short term, but whether it will become an unhealthy shock to the environment cannot be judged yet, and we can only leave it to time to verify.

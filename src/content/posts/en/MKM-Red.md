@@ -47,19 +47,19 @@ A six-mana 3/2 with double strike and trample is probably still not good without
 
 **cephille:** 3.5
 
-A three-mana creature that deals 3 is a solid, steady play, and the condition to solve the Case should not be hard in red: after it enters and deals 3, you just attack with two creatures. After solving it, you can sacrifice it at any time to impulse-draw by looking at three and choosing one you can play this turn, which is very flexible and should deserve this score.
+Three mana to deal 3 to a creature is a solid, steady play, and the condition to solve the Case should not be hard in red: after it enters and deals 3, you just attack with two creatures. After solving it, you can sacrifice it at any time to impulse-draw by looking at three and choosing one you can play this turn, which is very flexible and should deserve this score.
 
 ![114](https://cards.scryfall.io/large/front/b/b/bb18b1de-bc08-4522-b891-6117a8271534.jpg?1705953551)
 
 **cephille:** 4.0
 
-Entering for three mana, it first does a [Tormenting Voice](https://cards.scryfall.io/large/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268), which is ordinary, but once you empty your hand and solve this Case, you get two extra cards at the beginning of each of your upkeeps. Although you cannot get past your next upkeep, as long as the deck is built well, the board advantage you gain will quickly and powerfully drown your opponent!
+Entering for three mana, it first does a [Tormenting Voice](https://cards.scryfall.io/large/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268), which is ordinary, but once you empty your hand and solve this Case, you get two extra cards at the beginning of each of your upkeeps. Although you cannot keep those cards past your next upkeep, as long as the deck is built well, the board advantage you gain will quickly and powerfully drown your opponent!
 
 ![115](https://cards.scryfall.io/large/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1705957169)
 
 **cephille:** 4.0
 
-Being able to arrest at instant speed has endless uses, and after taking the creature you can also suspect it. Not only do you get an extra point of trample damage that turn, but when it goes back next turn, it cannot block either!
+Being able to arrest at instant speed has endless uses, and after taking the creature you can also suspect it. Not only do you get an extra evasive attacker that turn, but when it goes back next turn, it cannot block either!
 
 > Let's briefly go over what happens when you take it at instant speed:
 >
@@ -84,13 +84,13 @@ An Equipment that costs two to cast and two to attach, giving +3/+0, is actually
 
 I would call it an evolved version of [Bomat Courier](https://cards.scryfall.io/large/front/4/2/425bff89-ad15-4d22-bce9-a4a07dbafd87.jpg?1576383013). As long as your creatures keep attacking and you empty your hand, paying four mana in installments to draw four cards back should not be a big problem.
 
-> 金田一一: 「謎はすべて解けた。」
+> Hajime Kindaichi: 「謎はすべて解けた。」 ("I've solved all the mysteries.")
 
 ![119](https://cards.scryfall.io/large/front/2/d/2d2cf2ae-9152-41c4-9dc4-a19da5812869.jpg?1705424457)
 
 **cephille:** 3.0
 
-An Aura that combines a stat boost and trample for just one mana! It can suspect the enchanted creature and give it +1/+1, which will be a very important card in a low-curve Rakdos suspect aggro deck. In the mid game, when you need more suspected creatures, you can also bounce it and attach it again. Everyone is very suspicious!
+An Aura that combines a stat boost and evasion for just one mana! It can suspect the enchanted creature and give it +1/+1, which will be a very important card in a low-curve Rakdos suspect aggro deck. In the mid game, when you need more suspected creatures, you can also bounce it and attach it again. Everyone is very suspicious!
 
 ![120](https://cards.scryfall.io/large/front/a/3/a3aff1ea-1d25-49c3-a2d9-f435124a5969.jpg?1705953667)
 
@@ -102,7 +102,7 @@ Although red may not be especially good at making Clues, there are quite a few o
 
 **cephille:** 3.0
 
-Red in MKM pays special attention to the payoffs of sacrificing artifacts, and this three-mana ghost is also a payoff card. As long as it triggers once and becomes a 2/4, it is worth its cost, and the extra red mana it gives lets your deck run faster and more stably!
+Red in MKM pays special attention to the payoffs of sacrificing artifacts, and this three-mana Goblin is also a payoff card. As long as it triggers once and becomes a 2/4, it is worth its cost, and the extra red mana it gives lets your deck run faster and more stably!
 
 ![122](https://cards.scryfall.io/large/front/e/c/eca092fc-7c67-4a73-989e-5297bbaaea76.jpg?1701810560)
 

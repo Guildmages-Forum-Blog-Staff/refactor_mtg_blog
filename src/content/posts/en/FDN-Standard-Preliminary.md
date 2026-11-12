@@ -103,7 +103,7 @@ Finally, here is a midrange Golgari Elves version. With a mana dork on turn one,
 [Decklist link](https://www.mtggoldfish.com/deck/6743436)
 ![decklist](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/8a041ec76b80.webp)
 
-[Llanowar Elves](https://scryfall.com/card/fdn/227/llanowar-elves) will drive green-based midrange forward at full speed! The Demon midrange deck used to have poor tempo, but with a one-mana dork it takes a qualitative leap! Picture this: dork on turn one, [Unholy Annex // Ritual Chamber](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) on turn two, [Archfiend of the Dross](https://scryfall.com/card/one/82/archfiend-of-the-dross) on turn three, and on turn four you activate the five-mana [Room](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) to make a 6/6 Demon! Even if you get disrupted along the way, you still fall into the midrange rhythm Demons love. Highly recommended for players who already started trying Demons in the previous Standard!
+[Llanowar Elves](https://scryfall.com/card/fdn/227/llanowar-elves) will drive green-based midrange forward at full speed! The Demon midrange deck used to have poor tempo, but with a one-mana dork it takes a qualitative leap! Picture this: dork on turn one, [Unholy Annex // Ritual Chamber](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) on turn two, [Archfiend of the Dross](https://scryfall.com/card/one/82/archfiend-of-the-dross) on turn three, and on turn four you unlock the five-mana [Room](https://scryfall.com/card/dsk/118/unholy-annex-ritual-chamber) to make a 6/6 Demon! Even if you get disrupted along the way, you still fall into the midrange rhythm Demons love. Highly recommended for players who already started trying Demons in the previous Standard!
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/f13aaab51a1d.webp)
 
@@ -139,7 +139,7 @@ The real change to this deck is one extra creature, [Viashino Pyromancer](https:
 [Decklist link](https://www.mtggoldfish.com/deck/6744133#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/317b9a5e0bf7.webp)
 
-[Llanowar Elves](https://scryfall.com/card/gnt/46/llanowar-elves), come help [Ixalli's Lorekeeper](https://scryfall.com/card/lci/194/ixallis-lorekeeper) share the workload. With only one set of one-drop mana dorks the consistency is a bit shaky, but with two sets the odds of having one in your opening hand are high enough.
+[Llanowar Elves](https://scryfall.com/card/gnt/46/llanowar-elves), come help [Ixalli's Lorekeeper](https://scryfall.com/card/lci/194/ixallis-lorekeeper) share the workload. With only one playset of one-drop mana dorks the consistency is a bit shaky, but with two playsets the odds of having one in your opening hand are high enough.
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/5019f9c5d681.webp)
 
@@ -184,7 +184,7 @@ Goblins are treated quite well this time too, picking up the new cards [Searslic
 [Decklist link](https://www.mtggoldfish.com/deck/6739208#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/d9a19d2104f8.webp)
 
-The Skeleton deck actually gets very little support this time, but it at least fills out the creature curve to a usable count. [new two-drop Skeleton](https://scryfall.com/card/fdn/717/impact-tremors) might let you gain a bit of value while disrupting the opponent's hand, slightly improving the deck's staying power, but mainly it is just a usable two-drop. At three mana we get the reprinted lord [Death Baron](https://scryfall.com/card/fdn/717/impact-tremors). As a regular tribal lord there's not much to complain about, but note that it is itself a Zombie; it merely pumps Skeletons.
+The Skeleton deck actually gets very little support this time, but it at least fills out the creature curve to a usable count. [Tinybones, Bauble Burglar](https://scryfall.com/card/fdn/717/impact-tremors) might let you gain a bit of value while disrupting the opponent's hand, slightly improving the deck's staying power, but mainly it is just a usable two-drop. At three mana we get the reprinted lord [Death Baron](https://scryfall.com/card/fdn/717/impact-tremors). As a regular tribal lord there's not much to complain about, but note that it is itself a Zombie; it merely pumps Skeletons.
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/7f9fd57ddc52.webp)
 
@@ -421,7 +421,7 @@ All three Kaitos pair well with high-evasion Dimir tempo creatures. That is what
 [Decklist link](https://www.mtggoldfish.com/deck/6742484#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/8b4bfcb7d34a.webp)
 
-[Mazemind Tome](https://scryfall.com/card/fdn/676/mazemind-tome) makes the author's top 10 favorite single cards in Standard history. Back then, I relied on [Mazemind Tome](https://scryfall.com/card/fdn/676/mazemind-tome)'s powerful card advantage to build quite a few non-blue control decks <font color="#AAAAAA">(the final form at the time was Jund Control)</font>. But now white has [Caretaker's Talent](https://scryfall.com/card/blb/6/caretakers-talent) + [Enduring Innocence](https://scryfall.com/card/dsk/6/enduring-innocence), two even more powerful resource engines that eat almost the same draw-triggering cards, so if you want to restore [Mazemind Tome](https://scryfall.com/card/fdn/676/mazemind-tome) to its former glory, you should prefer color combinations that avoid white (artifact themes aside).
+[Mazemind Tome](https://scryfall.com/card/fdn/676/mazemind-tome) makes the author's top 10 favorite single cards in Standard history. Back then, I relied on [Mazemind Tome](https://scryfall.com/card/fdn/676/mazemind-tome)'s powerful card advantage to build quite a few non-blue control decks <font color="#AAAAAA">(the final form at the time was Jund Control)</font>. But now white has [Caretaker's Talent](https://scryfall.com/card/blb/6/caretakers-talent) + [Enduring Innocence](https://scryfall.com/card/dsk/6/enduring-innocence), two even more powerful resource engines that are answered by almost the same removal, so if you want to restore [Mazemind Tome](https://scryfall.com/card/fdn/676/mazemind-tome) to its former glory, you should prefer color combinations that avoid white (artifact themes aside).
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/14b60f10aa32.webp)
 
@@ -466,7 +466,7 @@ It's actually funny: this deck was originally built starting from [Leyline Axe](
 [Decklist link](https://www.mtggoldfish.com/deck/6747153#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/3de496a5466d.webp)
 
-Use [Fauna Shaman](https://scryfall.com/card/bro/179/fauna-shaman), [Rona, Herald of Invasion // Rona, Tolarian Obliterator](https://scryfall.com/card/mom/75/rona-herald-of-invasion-rona-tolarian-obliterator), [Likeness Looter](https://scryfall.com/card/woe/208/likeness-looter), or other self-mill methods to put the target Terminator in the graveyard, then use [Abyssal Harvester](https://scryfall.com/card/fdn/54/abyssal-harvester) to create a token copy. All of these are creature activated abilities, so [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) & [Tyvar, Jubilant Brawler](https://scryfall.com/card/one/218/tyvar-jubilant-brawler) can help the deck run.
+Use [Fauna Shaman](https://scryfall.com/card/bro/179/fauna-shaman), [Rona, Herald of Invasion // Rona, Tolarian Obliterator](https://scryfall.com/card/mom/75/rona-herald-of-invasion-rona-tolarian-obliterator), [Likeness Looter](https://scryfall.com/card/woe/208/likeness-looter), or other self-mill methods to put your chosen finisher in the graveyard, then use [Abyssal Harvester](https://scryfall.com/card/fdn/54/abyssal-harvester) to create a token copy. All of these are creature activated abilities, so [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) & [Tyvar, Jubilant Brawler](https://scryfall.com/card/one/218/tyvar-jubilant-brawler) can help the deck run.
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/3a0f25cf03dc.webp)
 

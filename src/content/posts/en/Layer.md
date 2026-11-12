@@ -300,7 +300,7 @@ You can see that crew only applies in layer 4, giving it the creature type in ad
 > ● **[Mirror Image](https://scryfall.com/card/j22/62/mirror-image)**:
 > You may have Mirror Image enter the battlefield as a copy of any creature you control.
 
-I have a The One Ring on the battlefield that has been turned into an Elk creature by Oko's [+1]. Then I let Mirror Image enter as a copy of this Elk Ring. What happens?
+I have The One Ring on the battlefield that has been turned into an Elk creature by Oko's [+1]. Then I let Mirror Image enter as a copy of this Elk Ring. What happens?
 
 | Layer | Oko [+1] | Mirror Image |
 | :-: | :-: | :-: |
@@ -1138,7 +1138,7 @@ As for "Prevent all damage that would be dealt to him this turn," this doesn't m
 > ● **[Opalescence](https://scryfall.com/card/uds/13/opalescence)**:
 > Each other non-Aura enchantment is a creature in addition to its other types and has base power and toughness each equal to its mana value.
 
-Welcome to the most classic layers problem. Any column discussing layers is destined to run into **Humility + Opalescence**. Although questions about Humility are often described as a flood-and-beast that nobody but a judge can understand, after being bombarded by the examples above, you may find this problem surprisingly easy to look back on.
+Welcome to the most classic layers problem. Any column discussing layers is destined to run into **Humility + Opalescence**. Although questions about Humility are often described as a terrifying monster that nobody but a judge can understand, after being bombarded by the examples above, you may find this problem surprisingly easy to look back on.
 
 | Layer | Humility | Opalescence |
 | :-: | :-: | :-: |

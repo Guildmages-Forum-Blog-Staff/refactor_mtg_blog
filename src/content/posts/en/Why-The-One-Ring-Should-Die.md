@@ -37,7 +37,7 @@ By the way, the first non-WRx Energy card on the list is {% mtglink "Consign to 
 
 {% mtglink "The One Ring" %} is a four-mana colorless legendary artifact. If the player cast it, that player gains protection from everything until their next turn. You can tap it to put a burden counter on it and then draw cards equal to the number of burden counters on it. During your upkeep, you lose 1 life for each burden counter on {% mtglink "The One Ring" %}.
 
-Let me translate this card's effect for you: four mana for an extra turn, then lose a bit of life to draw at least three cards.
+Let me translate this card's effect for you: four mana for an extra turn, then lose 1 life to draw at least three cards.
 Wait, this effect is way too ridiculous. Is this effect really okay = =???
 Merely surviving one more turn might be fine, but if it doesn't get removed or you're still alive, you can keep earning more cards, and if the pain gets truly unbearable, you just slam the next one.
 Meanwhile the environment also has {% mtglink "Twiddle" %} and {% mtglink "Minamo, School at Water's Edge" %}, which can reset {% mtglink "The One Ring" %} so you draw even more cards for one payment of life.
@@ -62,7 +62,7 @@ I think this question can be answered in two phases: the first phase is from LTR
 Let us recall the environment after LTR: Rakdos Scam and Temur Rhinos dominated, and the decks that ran or could run {% mtglink "The One Ring" %} at the time were UWx Control, Mono-Green Tron, Mono-Black Coffers, Amulet Titan, and so on.
 
 Besides the turn-one {% mtglink "Grief" %} scamming, Rakdos Scam also had {% mtglink "Thoughtseize" %} to strip the hand and {% mtglink "Orcish Bowmasters" %} to punish players who draw lots of cards. Meanwhile, the decks that ran {% mtglink "The One Ring" %} were almost all slow decks that had a hard time fighting Scam.
-As for Temur Rhinos, besides {% mtglink "Force of Negation" %}, it later added {% mtglink "Tishana's Tidebinder" %} to suppress {% mtglink "The One Ring" %}, plus {% mtglink "Bonecrusher Giant // Stomp" %} or {% mtglink "Questing Beast" %} as answers: on the play, turn three slam {% mtglink "Shardless Agent" %}, cascade into {% mtglink "Crashing Footfalls" %} for two Rhinos, turn four hit for 10.5 damage that can't be prevented, then hit for another 10 and call it a day.
+As for Temur Rhinos, besides {% mtglink "Force of Negation" %}, it later added {% mtglink "Tishana's Tidebinder" %} to suppress {% mtglink "The One Ring" %}, plus {% mtglink "Bonecrusher Giant // Stomp" %} or {% mtglink "Questing Beast" %} as answers: on the play, turn three slam {% mtglink "Shardless Agent" %}, cascade into {% mtglink "Crashing Footfalls" %} for two Rhinos, turn four hit for 10, turn five the damage can't be prevented, hit for another 10 and call it a day.
 
 Around MKM, Scam and Rhinos both took a hit, but the overall environment was still on the fast side. Many times you were nearly dead before you could cast {% mtglink "The One Ring" %}, or you still didn't survive after slamming {% mtglink "The One Ring" %}.
 At that point I thought {% mtglink "The One Ring" %} was strong, but not strong enough to need a ban.
@@ -175,7 +175,7 @@ I think the Pioneer environment is quite healthy. At most Unholy Annex // Ritual
 
 As for Legacy, Dimir Scamimator is still active in tournaments after {% mtglink "Grief" %} was banned, and another deck that looks 87% like Delver, Dimir Tempo, is also performing strongly.
 The two have one thing in common: both run a full set of {% mtglink "Psychic Frog" %}.
-So I think {% mtglink "Psychic Frog" %} is a bit dangerous: an active discard source, built-in trample, and a continuous source of resources. You could call it the successor to {% mtglink "Ragavan, Nimble Pilferer" %}.
+So I think {% mtglink "Psychic Frog" %} is a bit dangerous: an active discard outlet, built-in evasion, and a continuous source of resources. You could call it the successor to {% mtglink "Ragavan, Nimble Pilferer" %}.
 Although personally I think the reason {% mtglink "Ragavan, Nimble Pilferer" %} was banned was that it earned an extra Treasure each turn, not that extra card...
 
 ## Conclusion
