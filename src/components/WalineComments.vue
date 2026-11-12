@@ -6,8 +6,9 @@
 import { onMounted, onUnmounted, ref } from 'vue';
 import { init } from '@waline/client';
 import '@waline/client/style';
+import { HTML_LANG, type Lang } from '../i18n';
 
-const props = defineProps<{ path: string }>();
+const props = defineProps<{ path: string; lang: Lang }>();
 const el = ref<HTMLElement | null>(null);
 let waline: { destroy: () => void } | null = null;
 
@@ -27,7 +28,7 @@ onMounted(() => {
     el: el.value,
     serverURL: 'https://mtg-blog-comment.vercel.app/',
     path: props.path,
-    lang: 'zh-TW',
+    lang: HTML_LANG[props.lang],
     emoji: [],
     dark: 'html.dark',
   });

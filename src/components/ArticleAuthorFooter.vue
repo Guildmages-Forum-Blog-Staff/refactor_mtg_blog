@@ -1,7 +1,7 @@
 <template>
   <div class="mt-8 flex flex-col gap-6 border-t border-gray-200 pt-8 dark:border-gray-800">
     <div v-for="author in authors" :key="author.id" class="flex items-start gap-6">
-      <a :href="`${base}/authors/${author.id}/`" class="shrink-0">
+      <a :href="localePath(lang, `authors/${author.id}/`)" class="shrink-0">
         <img
           :src="author.avatar"
           :alt="author.name"
@@ -11,7 +11,7 @@
       </a>
       <div class="flex min-w-0 flex-col gap-1">
         <a
-          :href="`${base}/authors/${author.id}/`"
+          :href="localePath(lang, `authors/${author.id}/`)"
           class="hover:text-primary text-3xl font-bold text-gray-900 transition-colors dark:text-gray-100"
         >
           {{ author.name }}
@@ -28,6 +28,8 @@
 </template>
 
 <script setup lang="ts">
+import { localePath, type Lang } from '../i18n';
+
 interface Author {
   id: string;
   username: string;
@@ -36,6 +38,5 @@ interface Author {
   url?: string;
   intro: string[];
 }
-defineProps<{ authors: Author[] }>();
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+withDefaults(defineProps<{ authors: Author[]; lang?: Lang }>(), { lang: 'zh-tw' });
 </script>

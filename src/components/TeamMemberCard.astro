@@ -1,16 +1,18 @@
 ---
+import { localePath, type Lang } from '../i18n';
+import { useTranslations } from '../i18n/ui';
 import type { AuthorData } from '../utils/authors';
 
 interface Props {
   id: string;
   /** Author from utils/authors (avatar already carries the base path). */
   data: AuthorData;
-  base: string;
+  lang: Lang;
   former?: boolean;
 }
 
-const { id, data, base, former = false } = Astro.props;
-const href = data.url || `${base}/authors/${id}/`;
+const { id, data, lang, former = false } = Astro.props;
+const href = data.url || localePath(lang, `authors/${id}/`);
 const avatarSrc = data.avatar;
 ---
 
@@ -33,7 +35,7 @@ const avatarSrc = data.avatar;
       {
         former && (
           <span class="ml-2 align-middle text-xs font-normal text-gray-400 dark:text-gray-500">
-            榮譽
+            {useTranslations(lang).honorary}
           </span>
         )
       }

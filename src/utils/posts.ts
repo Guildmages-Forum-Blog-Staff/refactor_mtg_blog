@@ -1,4 +1,4 @@
-import { DEFAULT_LANG, POST_DIR, type Lang } from '../i18n';
+import { DEFAULT_LANG, POST_DIR, localePath, type Lang } from '../i18n';
 
 const LOCALE_DIR_RE = new RegExp(`^(${Object.values(POST_DIR).join('|')})/`);
 
@@ -21,6 +21,11 @@ export function postLang(id: string): Lang {
  */
 export function postSlug(id: string): string {
   return id.replace(LOCALE_DIR_RE, '').replace(/\.mdx?$/, '');
+}
+
+/** Site URL path of a post page, e.g. `/my-post/` or `/en/my-post/`. */
+export function postUrl(id: string): string {
+  return localePath(postLang(id), `${postSlug(id)}/`);
 }
 
 /** Posts written in `lang`, without mutating the input. */

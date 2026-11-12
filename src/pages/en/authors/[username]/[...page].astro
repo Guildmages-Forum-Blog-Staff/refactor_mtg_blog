@@ -1,0 +1,11 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import AuthorPage from '../../../../views/AuthorPage.astro';
+import { authorPaths } from '../../../../utils/static-paths';
+
+export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  return authorPaths(paginate, 'en');
+}
+---
+
+<AuthorPage {...Astro.props} />

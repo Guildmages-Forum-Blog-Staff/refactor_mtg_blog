@@ -5,7 +5,7 @@
       <a
         v-for="author in authors"
         :key="author.id"
-        :href="`${base}/authors/${author.id}/`"
+        :href="localePath(lang, `authors/${author.id}/`)"
         class="shrink-0"
       >
         <img
@@ -24,7 +24,7 @@
         <a
           v-for="(author, i) in authors"
           :key="author.id"
-          :href="`${base}/authors/${author.id}/`"
+          :href="localePath(lang, `authors/${author.id}/`)"
           class="hover:text-primary text-sm font-semibold text-gray-900 transition-colors dark:text-gray-100"
           >{{ author.name }}<span v-if="i < authors.length - 1">,</span></a
         >
@@ -39,14 +39,14 @@
           <span>·</span>
           <span v-for="(crumb, i) in categories" :key="crumb.cat" class="flex items-center gap-1">
             <a
-              :href="`${base}/categories/${encodeURIComponent(crumb.cat)}/`"
+              :href="localePath(lang, `categories/${encodeURIComponent(crumb.cat)}/`)"
               class="hover:text-primary transition-colors"
               >{{ crumb.label }}</a
             ><span v-if="i < categories.length - 1">&nbsp;·</span>
           </span>
         </template>
         <span>·</span>
-        <span><span id="vercount_value_page_pv">-</span> 次閱讀</span>
+        <span><span id="vercount_value_page_pv">-</span> {{ useTranslations(lang).views }}</span>
       </div>
     </div>
   </div>
@@ -54,6 +54,8 @@
 
 <script setup lang="ts">
 import { onMounted } from 'vue';
+import { localePath, type Lang } from '../i18n';
+import { useTranslations } from '../i18n/ui';
 
 interface CategoryCrumb {
   label: string;
@@ -67,8 +69,7 @@ interface Author {
   url?: string;
   intro: string[];
 }
-defineProps<{ authors: Author[]; date: string; categories: CategoryCrumb[] }>();
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+defineProps<{ authors: Author[]; date: string; categories: CategoryCrumb[]; lang: Lang }>();
 
 onMounted(() => {
   document.getElementById('vercount-script')?.remove();

@@ -1,5 +1,12 @@
 import { describe, it, expect } from 'vitest';
-import { postSlug, postLang, postsInLang, sortByDateDesc, excludePreviewPosts } from '../posts';
+import {
+  postSlug,
+  postLang,
+  postUrl,
+  postsInLang,
+  sortByDateDesc,
+  excludePreviewPosts,
+} from '../posts';
 
 describe('postSlug', () => {
   it('strips a .md extension', () => {
@@ -107,5 +114,12 @@ describe('excludePreviewPosts', () => {
     const snapshot = [...input];
     excludePreviewPosts(input);
     expect(input).toEqual(snapshot);
+  });
+});
+
+describe('postUrl', () => {
+  it('puts zh posts at the root and en posts under /en/', () => {
+    expect(postUrl('zh_tw/a.md')).toBe('/a/');
+    expect(postUrl('en/a.md')).toBe('/en/a/');
   });
 });

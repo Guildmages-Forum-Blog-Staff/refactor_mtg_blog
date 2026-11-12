@@ -1,0 +1,11 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import HomePage from '../../views/HomePage.astro';
+import { homePaths } from '../../utils/static-paths';
+
+export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  return homePaths(paginate, 'en');
+}
+---
+
+<HomePage {...Astro.props} />
