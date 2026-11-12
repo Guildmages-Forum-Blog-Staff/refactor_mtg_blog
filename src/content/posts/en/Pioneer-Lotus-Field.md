@@ -171,7 +171,7 @@ The match then was against Gruul Midrange. I had no lands in my opening hand so 
 1x Impulse
 There was one more card but I forgot what it was, and it isn't important and doesn't affect the rest of the story.
 Anyway, this was a hand I would keep, figuring I'd put a Lotus Field down, and I'd still have room to scry two cards off the top, so any second land that isn't a Lotus Field would do.
-Turn one, I play the scry land, see a nonland card, okay, bottom. The opponent plays a land and slams a Elvish Mystic, then passes to me.
+Turn one, I play the scry land, see a nonland card, okay, bottom. The opponent plays a land and slams an Elvish Mystic, then passes to me.
 Turn two, I draw a Lotus Field, nothing to do, pass; the opponent plays a land and slams a three-power creature, hitting me for three.
 Turn three, I draw another Lotus Field, still nothing to do, pass; the opponent plays a land and slams Esika's Chariot, hitting me for seven.
 Turn four, I draw a sweeper but still have no land. The opponent plays a land, Skysovereign, Consul Flagship, and kills me. Fun game, play it every day.

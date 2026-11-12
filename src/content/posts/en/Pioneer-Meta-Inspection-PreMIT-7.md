@@ -201,7 +201,7 @@ The slightly special part is one extra {% mtgcard "Bitter Reunion" tooltip=true 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/6b27687e0de1.webp)
 
 These two Phoenix lists look basically the same, differing only in details.
-Also, Phoenix main decks now basically bring back to hand or tear apart, because {% mtgcard "High Noon" tooltip=true %} is too much to answer them all.
+Also, Phoenix main decks now basically run bounce or enchantment removal, because there are just too many {% mtgcard "High Noon" tooltip=true %} to ignore.
 
 What's left is the sideboard choices, and there are different sideboard strategies depending on different ideas.
 
@@ -321,7 +321,7 @@ The sideboard choices are more different, but still the commonly seen cards.
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/f267109d35f4.webp)
 
-Another very standard Rakdos Transmogrify build, but it chose to put one {% mtgcard "Hidetsugu Consumes All // Vessel of the All-Consuming" tooltip=true %} in the main deck, so you can deliberately look for this card, or use the finishing {% mtgcard "Case of the Stashed Skeleton" tooltip=true %} to find it.
+Another very standard Rakdos Transmogrify build, but it chose to put one {% mtgcard "Hidetsugu Consumes All // Vessel of the All-Consuming" tooltip=true %} in the main deck, so you can deliberately look for this card, or use a solved {% mtgcard "Case of the Stashed Skeleton" tooltip=true %} to find it.
 
 ### Rakdos Midrange
 

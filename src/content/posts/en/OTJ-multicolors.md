@@ -84,7 +84,7 @@ A four-mana 3/4. Whenever you create one or more tokens each turn, you can creat
 
 **cephille:** 5.0
 
-A six-mana 6/5 Giant with vigilance. It enters with a giant ox whose power and toughness equal the number of lands you control... uh... so that means at least 12 power for six mana, and one of them keeps getting bigger? Okay, let's keep reading: when you attack, you can draw a card and then put a land card from your graveyard or hand onto the battlefield... Hmm, wonderful! I arrive on time on turn six to make 12 power on the board, and if I have a creature that can attack that turn, when I attack I can draw a card, maybe keep ramping, and my ox gets even bigger...
+A six-mana 6/5 Giant with reach. It enters with a giant ox whose power and toughness equal the number of lands you control... uh... so that means at least 12 power for six mana, and one of them keeps getting bigger? Okay, let's keep reading: when you attack, you can draw a card and then put a land card from your graveyard or hand onto the battlefield... Hmm, wonderful! I arrive on time on turn six to make 12 power on the board, and if I have a creature that can attack that turn, when I attack I can draw a card, maybe keep ramping, and my ox gets even bigger...
 
 If [Izoni, Center of the Web](https://scryfall.com/card/mkm/209/izoni-center-of-the-web) was the apex bomb of MKM, then this blue-green six-drop is likely the king of OTJ bombs. I hope I'm the one who opens it and the opponent doesn't have it, or has it but can't reach six mana. In Limited, when I face this card from an opponent, aside from a sweeper or two removal spells, I don't know how I can win...
 
@@ -104,7 +104,7 @@ With Malcolm here, how could [Breeches, Eager Pillager](https://scryfall.com/car
 
 **cephille:** 3.5
 
-A four-mana 4/4 with vigilance and ward (2) that gives other creatures with power 4 or greater trample and haste. Its excellent stats and its ability to make later attacks more aggressive are very gooru (stylish)!
+A four-mana 4/4 with reach and ward (2) that gives other creatures with power 4 or greater trample and haste. Its excellent stats and its ability to make later attacks more aggressive are so Gruul!
 
 > This fighting cactus keeps reminding me of Contra XD
 
@@ -188,7 +188,7 @@ A three-mana 4/2 isn't great by itself; she should be paired with other red-gree
 
 **cephille:** 3.0
 
-Plotting a card with mana value 3 or less on entering is already quite good, and when your deck has enough legendary creatures, every one that enters lets you trigger the whole table! If the card plotted on entering is a legendary creature, it can start working next turn. Taking this enchantment and then collecting enough legendary creatures should be a powerful draft approach. Even if the colors are wrong, as long as the cost is three or less, you can still plot and cast it with this enchantment, which is quite potent!
+Plotting a card with mana value 3 or less on entering is already quite good, and when your deck has enough legendary creatures, every one that enters puts a +1/+1 counter on your whole team! If the card plotted on entering is a legendary creature, it can start working next turn. Taking this enchantment and then collecting enough legendary creatures should be a powerful draft approach. Even if the colors are wrong, as long as the cost is three or less, you can still plot and cast it with this enchantment, which is quite potent!
 
 ![213](https://cards.scryfall.io/large/front/0/4/04dfbc4c-ab21-45db-bbd9-b9d245d60015.jpg?1711498408)
 
@@ -220,7 +220,7 @@ Also worth noting, this card has a small combo with [Obeka, Splitter of Seconds]
 
 **cephille:** 3.5
 
-A three-mana 1/4. When you commit a crime, you can plot, exile any card from a graveyard, and if it's a creature, become that creature. As long as you keep it alive and keep committing crimes, it should bring you a nice payoff!
+A three-mana 1/4. When you commit a crime, you can put a +1/+1 counter on it, exile any card from a graveyard, and if it's a creature, become that creature. As long as you keep it alive and keep committing crimes, it should bring you a nice payoff!
 
 > When will the mystery surrounding Dimir's spymaster [Lazav](https://scryfall.com/card/mkm/216/lazav-wearer-of-faces) finally reach the main storyline?
 
@@ -262,7 +262,7 @@ The new [Malcolm](https://scryfall.com/card/lci/63/malcolm-alluring-scoundrel), 
 
 **cephille:** 3.0
 
-[Marchesa, the Black Rose](https://scryfall.com/card/2x2/248/marchesa-the-black-rose), who first debuted in Double Masters 2022, doesn't miss the Outlaw festival in Thunder Junction either! Leaving aside the excellent stats of a three-mana 3/4 with three colored mana requirements, whenever you commit a crime you can pay an additional one to do a [Nagging Thoughts](https://scryfall.com/card/soi/74/nagging-thoughts). Don't forget, the Grixis color group is naturally very good at committing crimes, and the new Marchesa lets you earn a steady stream of card resources on top of your crimes. If not for the three colored mana requirements, it would deserve a 4.0.
+[Marchesa, the Black Rose](https://scryfall.com/card/2x2/248/marchesa-the-black-rose), who first debuted in Conspiracy, doesn't miss the Outlaw festival in Thunder Junction either! Leaving aside the excellent stats of a three-mana 3/4 with three colored mana requirements, whenever you commit a crime you can pay an additional one to do a [Nagging Thoughts](https://scryfall.com/card/soi/74/nagging-thoughts). Don't forget, the Grixis color group is naturally very good at committing crimes, and the new Marchesa lets you earn a steady stream of card resources on top of your crimes. If not for the three colored mana requirements, it would deserve a 4.0.
 
 ![221](https://cards.scryfall.io/large/front/b/f/bfa7750a-7c32-4413-b762-62e24d992c6b.jpg?1711574723)
 
@@ -298,7 +298,7 @@ A five-mana creature that digs from the graveyard and also grows by two sizes, a
 
 **cephille:** 4.5
 
-A five-mana 6/5 flying trampler is top-notch. This time, besides being able to sacrifice another creature to give Rakdos indestructible until end of turn, whenever you sacrifice a creature you can exile **the top cards of any player's library, a number equal to the sacrificed creature's power**, and you may play them until your next end step, paying whatever cost you like.
+A five-mana 6/5 flying trampler is top-notch. This time, besides being able to sacrifice another creature to give Rakdos indestructible until end of turn, whenever you sacrifice a creature you can exile **the top cards of any player's library, a number equal to the sacrificed creature's power**, and you may play them until your next end step, as long as you can pay for them.
 
 > Our muscleman [Rakdos](https://scryfall.com/card/mkm/224/rakdos-patron-of-chaos), aka the Ravnica brawl king and flying divine beast, lives up to his reputation! This ability lets you use cards from the top of both your own library and the opponent's, truly representative of the black-red pair, a dashing real man who is both pure and NTR... (muted)
 
@@ -356,7 +356,7 @@ If you have enough cards with plot, it should be worth a higher score, but if yo
 
 **cephille:** 3.5
 
-A two-mana 2/2 first strike lifelink Mount, and saddle 4 even creates a 3/3 Angel!? It is itself a good partner for pumping up with auras, and in the midgame saddling it can create an airplane for air combat, which is quite strong!
+A two-mana 2/2 first strike lifelink Mount, and saddle 4 even creates a 3/3 Angel!? It is itself a good partner for pumping up with auras, and in the midgame saddling it can create a flier for air combat, which is quite strong!
 
 ![233](https://cards.scryfall.io/large/front/b/e/beb1c974-0d35-4e9f-a310-44eb2af64494.jpg?1712356219)
 
@@ -394,7 +394,7 @@ The body is a three-mana 3/3 deathtouch, which passes. Her ability needs more se
 
 **cephille:** 2.0
 
-A card that's a bit hard to evaluate. A five-mana 1/4 with flash is completely failing, but she seems to go with the plot theme, encouraging you to use lots of cards with plot to cast spells from exile while creating 2/2 flying Faerie tokens to add pressure on the board.
+A card that's a bit hard to evaluate. A five-mana 1/4 with flash is completely failing, but she seems to go with the plot theme, encouraging you to use lots of cards with plot to cast spells from exile while creating 2/2 flying Spirit tokens to add pressure on the board.
 
 ![239](https://cards.scryfall.io/large/front/b/c/bc97ffcf-4f51-44cd-8daa-a7dae4592ee5.jpg?1711848547)
 

@@ -9,7 +9,7 @@ categories:
   - "MTG Rules"
 cover: "https://images.guildmagesforum.tw/posts/Round-Process/604a02661ce7-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Round-Process/604a02661ce7-cover.jpg"
-excerpt: "Most of the turn structure, starting now!"
+excerpt: "A full breakdown of the turn structure begins!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Round-Process/).
@@ -131,14 +131,14 @@ The upkeep step is very simple. The more common question is how to order multipl
 > ● **[Daring Thief](https://scryfall.com/card/jou/36/daring-thief):**
 > Inspired — Whenever Daring Thief becomes untapped, you may exchange control of target nonland permanent you control and target permanent an opponent controls that shares a card type with it.
 > ● **[Brutal Cathar // Moonrage Brute](https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute):**
-> Daybound/Nightbound. Hereafter referred to as the day werewolf (the "white wolf").
+> Daybound/Nightbound. Hereafter referred to as the white werewolf.
 
-When Daring Thief becomes untapped (that is, when it untaps), it triggers an ability that targets nonland permanents, while the day werewolf is a creature affected by the day/night rules, and one of its faces has ward. Suppose that at the start of my turn I have a tapped Daring Thief, my opponent has a day werewolf, and I plan to target the opponent's day werewolf with Daring Thief's ability, and last turn the conditions for a day/night change were met. The result is as follows:
+When Daring Thief becomes untapped (that is, when it untaps), it triggers an ability that targets nonland permanents, while the white werewolf is a creature affected by the day/night rules, and one of its faces has ward. Suppose that at the start of my turn I have a tapped Daring Thief, my opponent has a white werewolf, and I plan to target the opponent's white werewolf with Daring Thief's ability, and last turn the conditions for a day/night change were met. The result is as follows:
 - The untap step begins.
-- The day/night change is handled, and the day werewolf transforms to the corresponding face.
+- The day/night change is handled, and the white werewolf transforms to the corresponding face.
 - Daring Thief untaps, but the ability that triggers when it untaps is held for now, so nothing goes on the stack yet.
 - The upkeep step begins.
-- The held Daring Thief ability now goes on the stack. If it targets the day werewolf and the werewolf is currently on its Moonrage Brute face, the werewolf's ward ability triggers.
+- The held Daring Thief ability now goes on the stack. If it targets the white werewolf and the werewolf is currently on its Moonrage Brute face, the werewolf's ward ability triggers.
 
 ![Upkeep Loot](https://images.guildmagesforum.tw/posts/Round-Process/cc0ee4ad65ff.webp)
 > ● **[Key to the City](https://scryfall.com/card/kld/220/key-to-the-city):**
@@ -167,7 +167,7 @@ The draw step also gives priority after the draw. If you have an instant-speed d
 
 <font color="#FF0000">BLB rules update: this phase used to be called the "precombat main phase." Starting with BLB, new cards all use the new term, but this doesn't affect the text of older cards. </font>
 
-The main phase is also often called the "main step," and a turn normally has two main phases. What people call "main phase one" refers to this phase. Only the first main phase of each turn is the precombat main phase.
+A turn normally has two main phases. What people call "main phase one" refers to this phase. Only the first main phase of each turn is the precombat main phase.
 
 - At the beginning of the first main phase, the active player puts a lore counter on each Saga they control. This is a turn-based action and doesn't use the stack.
 - The active player receives priority.
@@ -217,7 +217,7 @@ At the beginning of the beginning of combat step, Greasefang, Okiba Boss can pul
 > ● **[God-Pharaoh's Gift](https://scryfall.com/card/hou/161/god-pharaohs-gift):**
 > At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.
 > ● **[Key to the City](https://scryfall.com/card/kld/220/key-to-the-city):**
-> {T}, Discard a card: Target creature can't be blocked this turn.
+> {T}, Discard a card: Up to one target creature can't be blocked this turn.
 > ● **[Angel of Invention](https://scryfall.com/card/kld/4/angel-of-invention):**
 > A creature card.
 
@@ -226,7 +226,7 @@ God-Pharaoh's Gift is also an ability that triggers at the beginning of the begi
 ### Declare Attackers Step
 
 - The active player declares attackers (that is, declares which creatures will attack). This is a turn-based action and doesn't use the stack. As attackers are declared, the active player performs the following steps in order. If at any point during the declaration the active player can't complete the following steps, the declaration is illegal, and the game backs up to the point before the declaration.
-- A creature declared as an attacker must be untapped, have haste, or have been continuously controlled by the active player since the turn began.
+- A creature declared as an attacker must be untapped, and must either have haste or have been continuously controlled by the active player since the turn began.
 - The active player declares which player, planeswalker, or battle each attacking creature is attacking.
 - ※ The active player checks each creature for any restrictions affecting it (for example, can't attack alone, can only attack alone, can attack only if certain conditions are met). If any restriction is violated, the attack declaration is illegal.
 - ※ The active player checks each creature they control for any requirements affecting it (effects that say a creature attacks if able, or attacks if certain conditions are met). If the number of requirements being obeyed, without violating any restrictions, is fewer than the maximum number of requirements that could be obeyed, the attack declaration is illegal.
@@ -445,7 +445,7 @@ When assigning lethal damage, the rules don't care whether the damage will actua
 - The defending player is dealt 1 damage.
 - After that, Brash Taunter's ability that triggers when it's dealt damage goes on the stack.
 
-This also shows that Brash Taunter is afraid of opponents with trample: the opponent only needs to assign 1 damage to Brash Taunter for it to count as lethal, and the excess can keep being assigned onward, so Brash Taunter will only ever be dealt 1 damage (unless the opponent is willing to foolishly overassign damage to you).
+This also shows that Brash Taunter is afraid of opponents with trample: the opponent only needs to assign 1 damage to Brash Taunter for it to count as lethal, and the excess can keep being assigned onward, so Brash Taunter will only ever be dealt 1 damage (unless the opponent is willing to foolishly overassign damage to it).
 
 ![Air Wall](https://images.guildmagesforum.tw/posts/Round-Process/87be8e7584c4.webp)
 > ● **[Skirmish Rhino](https://scryfall.com/card/tdm/224/skirmish-rhino):**
@@ -568,7 +568,7 @@ Suppose you control Necropotence and your hand size exceeds the maximum, so you 
 
 In some cases, players can get extra turns, phases, or steps. The related rules are as follows:
 
-- Some effects can give a player an extra turn. These effects add turns directly after a specified turn. If a player gets multiple extra turns, they are added one at a time. If multiple players get extra turns at the same time, the extra turns are added in an order chosen with the active player deciding first, and the last turn created is played first.
+- Some effects can give a player an extra turn. These effects add turns directly after a specified turn. If a player gets multiple extra turns, they are added one at a time. If multiple players get extra turns at the same time, the extra turns are added in APNAP order, and the last turn created is played first.
 - Some effects add phases to a turn. They add the new phase directly after a certain phase. If multiple extra phases are created after the same phase, the last one created occurs first.
 - Some effects add steps to a phase. They add the new step directly before or after a certain step. If multiple extra steps are created after the same step, the last one created occurs first.
 

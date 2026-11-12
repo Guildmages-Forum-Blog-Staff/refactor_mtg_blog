@@ -310,7 +310,7 @@ Player 6's red-black theme came together very completely. The deck is stocked wi
 
 Player 7's blue-white surveil theme did get its key cards, but while considering a green splash, wasted quite a few picks on less relevant cards, leaving the final deck's theme not clear enough.
 
-> The white decks this time were all not drawn very well. I'll need to focus more on future picks.
+> None of the white decks were drafted very well this time. I'll need to focus more on future picks.
 
 ![FRA_Draftdeck_8](https://images.guildmagesforum.tw/posts/Solo-Drafting-FRA/bd7bfe1481c7.webp)
 <p style="text-align: center;"><a class="small">Player 8's final deck</a></p>

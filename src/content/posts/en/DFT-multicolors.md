@@ -55,7 +55,7 @@ Comment: It does not even need to connect. Just attacking lets you loot, and bot
 <!---191--->
 {% mtgpick "dft" 191 %}
 Score: 3.0
-Comment: The allied-color heavy hitters this time have very demanding color requirements, so from that angle, to cast it in Limited you may need to add a mana or two to the estimate. Under that assumption, a six-mana 4/4 with first strike and trample is still a very strong card for combat, and the searching is great, but in Limited it only finds a creature, artifact, or enchantment with mana value one or less. Unless you have {% mtglink "Marketback Walker" %}, by the time you can cast it, whatever you find will not matter much.
+Comment: The allied-color Gearhulks this time have very demanding color requirements, so from that angle, to cast it in Limited you may need to add a mana or two to the estimate. Under that assumption, a six-mana 4/4 with first strike and trample is still a very strong card for combat, and the searching is great, but in Limited it only finds a creature, artifact, or enchantment with mana value one or less. Unless you have {% mtglink "Marketback Walker" %}, by the time you can cast it, whatever you find will not matter much.
 
 > Note: On an unrelated topic, being able to find two copies of [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) in Modern is so good...
 

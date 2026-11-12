@@ -17,7 +17,7 @@ authors:
 
 ## Foreword
 
-Hello, fellow Guildmages. Thanks to the many qualifier events at home and abroad in recent years, the paper Magic community has become lively again. Pioneer, the format Wizards has been pushing hard and which has now been revived for over a year, has been the main event of three seasons of the MIT qualifiers in Taiwan. Whether you are a new player interested in getting into Magic or a veteran who has played other formats and wants a change of flavor, I believe Pioneer is a great choice for both, for the following reasons:
+Hello, fellow planeswalkers. Thanks to the many qualifier events at home and abroad in recent years, the paper Magic community has become lively again. Pioneer, the format Wizards has been pushing hard and which has now been revived for over a year, has been the main event of three seasons of the MIT qualifiers in Taiwan. Whether you are a new player interested in getting into Magic or a veteran who has played other formats and wants a change of flavor, I believe Pioneer is a great choice for both, for the following reasons:
 
 **1. Moderate cost**
 The average price of a Pioneer deck is roughly $200 to $400, which is much friendlier than Modern, where decks often run over a thousand dollars, and is quite close to the cost of Standard today.
@@ -46,7 +46,7 @@ In addition, with Karn, the Great Creator and [Kiora, Behemoth Beckoner](https:/
 
 {% folding red :: Combo step by step %}
 
-> The sideboard now carries [The Chain Veil](https://cards.scryfall.io/large/front/0/2/028ad82c-d9e9-4cf1-880f-470dd2f669cb.jpg?1562781846), whose purpose is to push the devotion needed to start the combo up to 10. The exact play is as follows:
+> The sideboard now carries [The Chain Veil](https://cards.scryfall.io/large/front/0/2/028ad82c-d9e9-4cf1-880f-470dd2f669cb.jpg?1562781846), whose purpose is to bring the devotion needed to start the combo down to 10. The exact play is as follows:
 >
 > 1. First, you need Nykthos, 10 green devotion, a Karn on the battlefield that hasn't activated yet, a total of two Kioras between the graveyard and the battlefield, another Karn in the graveyard, and 10 mana.
 > 2. Activate Karn's [-2] ability to fetch The Chain Veil from the sideboard, cast The Chain Veil and activate it once (2 mana left).
@@ -312,7 +312,7 @@ The deck's strength is a very good win rate against decks that struggle to deal 
 
 Like [5c Fires of Invention](#5c-fires-of-invention), this is a five-color deck with a similar tempo, but it works in a completely different way. 5c Bring to Light is a slower midrange deck that needs to play out to turns 4-5. It mainly relies on [Sylvan Caryatid](https://cards.scryfall.io/large/front/b/e/bea19943-3f18-4d37-97c5-7c112797af56.jpg?1562828320) or the Treasure tokens produced by the Goblin Shaman tokens from [Fable of the Mirror-Breaker](https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103) attacking to ramp, and casts [Bring to Light](https://cards.scryfall.io/large/front/4/4/44d27591-5d17-472e-a814-de6dd5512fe5.jpg?1562911103) as soon as possible to find the spells the matchup needs from the library.
 
-> Let's first talk about how Bring to Light works. It requires the player to pay its base cost (OOO green blue), and depending on how many colors of mana you used to pay the cost, it determines what mana value of card you can find and cast for free (EX: if you spent 3 colors, you can find a card with mana value 3; with 5 colors you can find a 5-drop).
+> Let's first talk about how Bring to Light works. It requires the player to pay its base cost ({3}{G}{U}), and depending on how many colors of mana you used to pay the cost, it determines what mana value of card you can find and cast for free (EX: if you spent 3 colors, you can find a card with mana value 3; with 5 colors you can find a 5-drop).
 
 With such powerful tutoring, the deck plays only one copy of every key card except [Omnath, Locus of Creation](https://cards.scryfall.io/large/front/8/a/8a773599-b4a4-4388-af53-d34f844160ef.jpg?1646310129). After all, if we count Bring to Light, those single copies effectively become five copies because Bring to Light can fetch them. The one we most often find this way is [Valki, God of Lies](https://cards.scryfall.io/large/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1636100811), and then we use the modal double-faced card rules to cast its back face, the planeswalker [Tibalt, Cosmic Impostor](https://cards.scryfall.io/large/back/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1636100811), for free. Its powerful card advantage effect gives a huge resource gap in the early and mid game, and that is how the deck wins.
 

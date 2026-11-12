@@ -63,13 +63,13 @@ As mentioned for [Beastbond Outcaster](https://scryfall.com/card/otj/154/beastbo
 
 **GY_Player:** 4.5
 
-A super strong mana pool that can end the game by itself, and it is even stronger in green-white.
+A super strong mana sink that can end the game by itself, and it is even stronger in green-white.
 
 ![158](https://cards.scryfall.io/large/front/2/e/2e0e27f9-dc2c-4366-b810-3e8d0bdff8c3.jpg?1711504264)
 
 **GY_Player:** 2.5
 
-With a Desert, it is a five-mana 6/5 big guy, and it draws a card when killed by a single removal spell. It's a pity it has no trample.
+With a Desert, it is a five-mana 6/5 big guy, and it draws a card when killed by a single removal spell. It's a pity it has no evasion.
 
 ![159](https://cards.scryfall.io/large/front/1/7/17a104d3-e4ac-44a0-9c6a-39965b1b9751.jpg?1711497859)
 
@@ -79,7 +79,7 @@ Did someone just mention big guys? It can come out at four mana! It even has tra
 
 ![160](https://cards.scryfall.io/large/front/c/a/caf0e715-befb-4904-82e6-d3f8c7fbd454.jpg?1711668179)
 
-**GY_Player:** 2.5
+**GY_Player:** 3.0
 
 Note that finding lands other than dual-color Deserts lets it enter untapped, so you can hold up a combat trick or use your mana fully. Finding a Desert means fetching an extra color at once, and pulling the good cards from each color to play a multicolor good-stuff deck is not a bad idea.
 
@@ -220,7 +220,7 @@ A six-mana 7/7 body can beat the entire environment, and having ward is also exc
 
 **GY_Player:** 2.5
 
-Slightly mediocre compared with other green bodies, but compared with other colors it is already big-brother level, not to mention it has trample and lifegain.
+Slightly mediocre compared with other green bodies, but compared with other colors it is already big-brother level, not to mention it has evasion and lifegain.
 
 ![184](https://cards.scryfall.io/large/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.jpg?1711551445)
 
