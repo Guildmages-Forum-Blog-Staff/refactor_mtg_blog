@@ -56,7 +56,7 @@ Next are the other creatures. I'm currently using the following extra creatures:
 1x Kroxa, Titan of Death's Hunger
 Very comfortable in mirror matches and against control, and also useful against Rogues (whether it resolves or not doesn't matter, I get to push down the graveyard count first).
 1x Misery's Shadow
-The aim is to keep the sacrifice Cat-Oven from spinning, to jam up the flip-two-use-one of Witness, and also to stop the death effects of Green Devotion's Cavalier of Thorns and Old-Growth Troll.
+The aim is to keep the sacrifice Cat-Oven from spinning, to jam up the flip-two-use-one of Unlucky Witness, and also to stop the death effects of Green Devotion's Cavalier of Thorns and Old-Growth Troll.
 2x Graveyard Trespasser
 A slightly awkward card. In the current environment most graveyard hate wants to exile everything, but its life gain is quite important in some matchups (mirror, aggro), and I haven't found a better replacement for now.
 2x Sheoldred, the Apocalypse + 2x Archfiend of the Dross
@@ -162,7 +162,7 @@ Also, I've recently been researching Grixis builds. So far I've tested
 4. Grixis Atraxa Gacha
 
 but I haven't found a build I like yet. As for what to bring to MIT #4, I'm still not sure, but barring surprises it will again be a black-red-based deck.
-The reasons are about the same as other Rakdos players': Rakdos midrange is a deck that can plan a game plan around the opponent's deck. After seeing the decklist, when deciding whether to play or draw and while shuffling, you can already start thinking about your plan, without having to decide how to play based on your opening hand, and it has a corresponding answer for most decks (Fires being an exception = =).
+The reasons are about the same as other Rakdos players': Rakdos midrange is a deck that can plan a game plan around the opponent's deck. After seeing the decklist, when deciding whether to play or draw and while shuffling, you can already start thinking about your plan, without having to decide how to play based on your opening hand, and it has a corresponding answer for most decks (5c Enigmatic Fires being an exception = =).
 
 The fourth season of MITQ isn't over yet, and I hope this article gives Rakdos players who are still fighting some new ideas.
 It's fine if you disagree with some of what I've said; at least it offers another perspective to refer to.
@@ -181,7 +181,7 @@ Also, since WOE is about to be released, let me write a bit about how I'd want t
 ![The End](https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg)
 
 Needless to say, The End is for fighting Green Devotion: exiling Cavalier of Thorns or Karn directly relieves a lot of our pressure.
-It's also comfortable for killing control's Teferi, Hero of Dominaria, or the Blue Gundam in Blue Gundam Innovation, or even Greasefang itself (although a four-mana removal spell against Greasefang seems a bit too slow, it's still worth trying).
+It's also comfortable for killing control's Teferi, Hero of Dominaria, or the Torrential Gearhulk in Indomitable Creativity, or even Greasefang itself (although a four-mana removal spell against Greasefang seems a bit too slow, it's still worth trying).
 Barring surprises I'll put one in the main deck, possibly replacing a removal spell or Liliana, and this part still needs more testing and adjustment.
 
 ### Beseech the Mirror

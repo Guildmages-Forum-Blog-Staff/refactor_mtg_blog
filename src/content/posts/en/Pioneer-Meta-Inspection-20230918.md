@@ -94,7 +94,7 @@ The rest is about the same as before, so I won't elaborate here.
 
 ### Izzet/Temur Creativity
 
-Creativity is also about the same as previous lists, again split into versions with the Wurm and with Blue Gundam, and the builds are about the same as before.
+Creativity is also about the same as previous lists, again split into versions with the Wurm and with Torrential Gearhulk, and the builds are about the same as before.
 Recently, though, more and more people are trying to bring other backup options in the sideboard, such as Etali or Atraxa (the original [Shark Typhoon](https://cards.scryfall.io/large/front/1/d/1da4d4f3-b3cb-4b61-81b8-06ae441c41bf.jpg?1591226502) and [Hullbreaker Horror](https://cards.scryfall.io/large/front/b/f/bf786c50-1ba1-4f81-a800-bc98189040dd.jpg?1674141366) are still there, of course).
 ![](https://cards.scryfall.io/large/front/9/5/95c14c4d-6c16-4826-8d93-d89ad04aee09.jpg?1682204132)
 ![](https://cards.scryfall.io/large/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1676519555)
@@ -122,9 +122,9 @@ And Imodane's Recruiter replaces [Reckless Bushwhacker](https://cards.scryfall.i
 
 But it still hasn't fixed the old problem of dying outright to a single sweeper.
 
-### 4C/5C Fires of Invention
+### 4C/5C Enigmatic Fires
 
-The deck I hate most in all of Pioneer, 4C/5C Fires of Invention, received an upgrade that's neither big nor small: Up the Beanstalk.
+The deck I hate most in all of Pioneer, 4C/5C Enigmatic Fires, received an upgrade that's neither big nor small: Up the Beanstalk.
 ![](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184)
 
 Compared with Modern's 4C Elementals, Fires of Invention doesn't have that many high-cost spells (besides [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500)), and if you have to hard-cast those spells you're almost certainly losing.
