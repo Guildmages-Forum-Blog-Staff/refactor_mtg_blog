@@ -124,7 +124,7 @@ A three-mana 3/3 with haste, and celebration can turn it into a 4/4 Dragon with 
 
 **Limited rating: 3.5**
 
-First use the two-mana instant adventure to make a Treasure for a little ramp, then slam a 4/3 impending creature for four mana, which is very comfortable. On the creature side, in the mid to late game you can occasionally use its ability to sacrifice an artifact/land for three mana and draw a card, a nice resource trade when both sides have creatures lined up.
+First use the two-mana instant adventure to make a Treasure for a little ramp, then slam a 4/3 reach creature for four mana, which is very comfortable. On the creature side, in the mid to late game you can occasionally use its ability to sacrifice an artifact/land for three mana and draw a card, a nice resource trade when both sides have creatures lined up.
 
 ![Grand Ball Guest](https://images.guildmagesforum.tw/posts/WOE-Red/f9a3808ad8b8.webp)
 
@@ -231,7 +231,7 @@ A one-mana creature loaded with abilities; without pump it probably can't get th
 
 **Limited rating: 2.0**
 
-A two-mana 1/3 impending creature; if you don't pump it, the opponent will probably just let it hit them. Basically I wouldn't main deck it, and I'd just swap it in from the sideboard when I'm short on creatures to block flyers.
+A two-mana 1/3 creature with reach; if you don't pump it, the opponent will probably just let it hit them. Basically I wouldn't main deck it, and I'd just swap it in from the sideboard when I'm short on creatures to block flyers.
 
 ![Song of Totentanz](https://images.guildmagesforum.tw/posts/WOE-Red/f44c4b0755f2.webp)
 

@@ -128,7 +128,7 @@ Comment: A haste version of [Snapcaster Mage](https://scryfall.com/card/isd/78/z
 
 {% mtgpick "fra" 94 %}
 Rating: 2.5
-Comment: Just a common red five-mana impending 4/5. On entering, you can discard one to deal 2 to any target; decide based on the situation whether you need to do it.
+Comment: Just a common red five-mana 4/5 with reach. On entering, you can discard one to deal 2 to any target; decide based on the situation whether you need to do it.
 
 {% mtgpick "fra" 95 %}
 Rating: 3.0
@@ -176,7 +176,7 @@ Comment: Six mana splits into a 5/5 flying Dragon and a 2/2 ground creature, for
 
 {% mtgpick "fra" 248 %}
 Rating: 3.0
-Comment: Its stats are poor, and impending only lets it trade with fliers of toughness 3 or less. But the landfall ability patches its weakness a little: it can trigger the noncombat damage that red-black needs, and if a Mountain enters it gives a small acceleration. Play it when you need to, but it is not especially exciting.
+Comment: Its stats are poor, and reach only lets it trade with fliers of toughness 3 or less. But the landfall ability patches its weakness a little: it can trigger the noncombat damage that red-black needs, and if a Mountain enters it gives a small acceleration. Play it when you need to, but it is not especially exciting.
 
 {% mtgpick "fra" 249 %}
 Rating: 2.0

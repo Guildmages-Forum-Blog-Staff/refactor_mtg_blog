@@ -110,7 +110,7 @@ This version of Rakdos Midrange is tailored to the meta. It uses {% mtgcard "Arc
 Compared with {% mtgcard "Sheoldred, the Apocalypse" tooltip=true %}, the advantages of {% mtgcard "Archfiend of the Dross" tooltip=true %} are:
 1. It doesn't die to a single {% mtgcard "Lightning Axe" tooltip=true %}
 2. It flies, so it isn't afraid of all sorts of chump blockers
-3. It beats most of the [[延勢仔]] in the format
+3. It beats most of the reach creatures in the format
 4. It can be copied with {% mtgcard "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki" tooltip=true %} to reach a single-turn damage ceiling
 
 But its weaknesses are also very obvious:

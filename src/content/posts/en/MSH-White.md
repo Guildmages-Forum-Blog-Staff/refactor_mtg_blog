@@ -134,7 +134,7 @@ As one of the writers on the team with more knowledge of Marvel, rather than onl
 
  ![](https://images.guildmagesforum.tw/posts/MSH-White/b10a6704c625.webp)
  Score: 4.0
- Comment: The double-faced cards in this set are all of the type where either face can be cast, so you can also look at this card from the back. The front alone, a 2/3 for 2, is already very good, and the effect of the opponent being unable to cast spells on their own turn shuts out all combat tricks and instant-speed removal. The back, in addition to its original abilities, becomes a powerful 6-mana 6/6 impending trampler, and the key is that her triggered ability gains a huge advantage in combat and can also be used to avoid direct-damage removal.
+ Comment: The double-faced cards in this set are all of the type where either face can be cast, so you can also look at this card from the back. The front alone, a 2/3 for 2, is already very good, and the effect of the opponent being unable to cast spells on their own turn shuts out all combat tricks and instant-speed removal. The back, in addition to its original abilities, becomes a powerful 6-mana 6/6 with reach and trample, and the key is that her triggered ability gains a huge advantage in combat and can also be used to avoid direct-damage removal.
 
  > Jennifer Walters, She-Hulk, is a lawyer by profession and the cousin of the well-known Hulk, Bruce Banner. She gained her transformation ability through accidental exposure to his blood, and because of her special identity, as She-Hulk she often serves as defense attorney for superheroes.
 

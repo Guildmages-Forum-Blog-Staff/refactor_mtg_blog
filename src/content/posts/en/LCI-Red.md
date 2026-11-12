@@ -221,7 +221,7 @@ Although a god that has a chance to come back from death looks impressive, neith
 
 **Kappa & Jru**: 3.5
 
-A five-mana 4/5 with impending can block the vast majority of attackers, and every turn it can burn the opponent for 2 with its Dimensional Strike. Stabilize the board and you can win; it's basically a simplified [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95). This also proves how important 5 toughness with impending is; [Onakke Javelineer](https://scryfall.com/card/mom/156/onakke-javelineer) should take note. If you see it around pick 3 to 4 in draft, it's very welcome, a solid five-mana common choice for red.
+A five-mana 4/5 with reach can block the vast majority of attackers, and every turn it can burn the opponent for 2 with its Dimensional Strike. Stabilize the board and you can win; it's basically a simplified [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95). This also proves how important 5 toughness with reach is; [Onakke Javelineer](https://scryfall.com/card/mom/156/onakke-javelineer) should take note. If you see it around pick 3 to 4 in draft, it's very welcome, a solid five-mana common choice for red.
 
 ![160](https://cards.scryfall.io/large/front/5/b/5bb2552f-8370-4931-83e1-93706d51413a.jpg?1699044322)
 

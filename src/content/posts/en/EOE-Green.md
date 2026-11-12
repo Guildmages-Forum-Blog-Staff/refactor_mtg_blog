@@ -87,7 +87,7 @@ Comment: A counters effect green likes, and trample raises its ability to win th
 <!---179--->
 {% mtgpick "eoe" 179 %}
 Score: 2.5
-Comment: A one-mana 2/2 with impending. Its leaves-the-battlefield effect does give the opponent a Lander token, but its excellent body makes that entirely acceptable.
+Comment: A one-mana 2/2 with reach. Its leaves-the-battlefield effect does give the opponent a Lander token, but its excellent body makes that entirely acceptable.
 
 
 <!---180--->
@@ -183,7 +183,7 @@ Comment: An excellent Spacecraft that the Landfall theme will want one of. Most 
 <!---195--->
 {% mtgpick "eoe" 195 %}
 Score: 3.0
-Comment: A six-mana 5/7 with impending is decent by itself; if both sides keep casting creatures, it can come down on turn four, which is quite strong, and when you're behind on board it is also a solid topdeck.
+Comment: A six-mana 5/7 with reach is decent by itself; if both sides keep casting creatures, it can come down on turn four, which is quite strong, and when you're behind on board it is also a solid topdeck.
 
 
 <!---196--->

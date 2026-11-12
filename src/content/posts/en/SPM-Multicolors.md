@@ -258,7 +258,7 @@ Comment: Even entering alone it is a 5-mana 5/5 with vigilance, and dealing dama
 <!---148--->
 ![](https://images.guildmagesforum.tw/SPM/148.webp)
 Score: 3.0
-Comment: A great mana creature for the red-green pair, which can stand back up to block fliers after calling out a big creature (it has impending).
+Comment: A great mana creature for the red-green pair, which can stand back up to block fliers after calling out a big creature (it has reach).
 
 
 <!---149--->

@@ -215,7 +215,7 @@ Comment: The color requirement is heavy but the card's merits outweigh its flaws
 <!---154--->
 {% mtgpick "dsk" 154 %}
 Score: 2.5
-Comment: At first glance it looks a bit like {% mtgcard "Diversion Specialist" tooltip=true %}, both being high-power creatures that also refill resources, but for decks that attack proactively, the impending ability is a bit of a letdown.
+Comment: At first glance it looks a bit like {% mtgcard "Diversion Specialist" tooltip=true %}, both being high-power creatures that also refill resources, but for decks that attack proactively, the reach ability is a bit of a letdown.
 
 
 <!---155--->

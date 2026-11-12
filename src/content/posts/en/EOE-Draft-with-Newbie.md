@@ -199,7 +199,7 @@ This was my first draft. I'm not very familiar with the rules and still don't qu
 
 #### What do you think was the most important pick today, and why? Please give the single card name.
 ~~[Ancient Tomb](https://scryfall.com/card/eos/1/ancient-tomb)~~
-[Meltstrider's Gear](https://scryfall.com/card/eoe/198/meltstriders-gear). I like beating the opponent down quickly, and at fourth pick I felt "This is the one!" It can be equipped right away for one mana, and the key is the +2/+1 and impending, which lets me grow a creature a step ahead of the opponent. The impending ability also lets it block when the opponent wants to crash a spaceship into me.
+[Meltstrider's Gear](https://scryfall.com/card/eoe/198/meltstriders-gear). I like beating the opponent down quickly, and at fourth pick I felt "This is the one!" It can be equipped right away for one mana, and the key is the +2/+1 and reach, which lets me grow a creature a step ahead of the opponent. Reach also lets it block when the opponent wants to crash a spaceship into me.
 
 #### How were the key turns today?
 In game three of Round 1, I suddenly remembered the Warp ability of [Broodguard Elite](https://scryfall.com/card/eoe/175/broodguard-elite), warped it successfully, and after it left the battlefield moved the several +1/+1 counters onto another creature, which let me finish the opponent within the next three turns.

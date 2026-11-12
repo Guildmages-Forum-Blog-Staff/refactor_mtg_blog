@@ -219,14 +219,14 @@ Comment: Entering with Warp costs only two mana, and with haste it can get in a 
 {% mtgpick "eoe" 155 %}
 Rating: 2.5
 Archetype: Red-Green Landfall
-Comment: A 0/4 body plus impending can effectively block the opponent's early offense, and temporarily increases attack on Landfall. In a red-green landfall-themed deck, there is a chance to trigger landfall multiple times in one turn for a burst of damage; without that support, it is just an ordinary curve creature.
+Comment: A 0/4 body plus reach can effectively block the opponent's early offense, and temporarily increases attack on Landfall. In a red-green landfall-themed deck, there is a chance to trigger landfall multiple times in one turn for a burst of damage; without that support, it is just an ordinary curve creature.
 
 
 <!---156--->
 {% mtgpick "eoe" 156 %}
 Rating: 2.5
 Archetype: Red-White Spacecraft Deployment
-Comment: Two mana at instant speed to give +3/+0, first strike, and impending, a good combat trick for both attacking and blocking, especially effective at stopping the opponent's flying attackers.
+Comment: Two mana at instant speed to give +3/+0, first strike, and reach, a good combat trick for both attacking and blocking, especially effective at stopping the opponent's flying attackers.
 
 
 <!---157--->

@@ -246,7 +246,7 @@ Comment: It brings a Treasure on entry for color fixing plus a one-time mana boo
 <!---221--->
 {% mtgpick "dft" 221 %}
 Score: 5.0
-Comment: Its color requirements are low, and five mana should be a breeze for Simic. On entry it is a 6/6 [[延勢]] indestructible wall, then next turn you draw two first. It cannot attack, but that is fine: your opponent has to face yet another 7/7 [[延勢]] indestructible wall, and the turn after that an 8/8 trampling indestructible just beats them down.
+Comment: Its color requirements are low, and five mana should be a breeze for Simic. On entry it is a 6/6 reach indestructible wall, then next turn you draw two first. It cannot attack, but that is fine: your opponent has to face yet another 7/7 reach indestructible wall, and the turn after that an 8/8 trampling indestructible just beats them down.
 
 Readers are welcome to share the tricks you use to make a killing with Simic in Limited!
 

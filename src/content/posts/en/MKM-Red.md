@@ -150,7 +150,7 @@ An instant that deals 3 to a creature is simply a good card, and if you draw two
 
 **cephille:** 3.0
 
-A three-mana 2/2 [[延勢]] that destroys an artifact on entry, or sacrifices an artifact to become a 4/4 [[延勢]], is a very favorable trade either way.
+A three-mana 2/2 reach that destroys an artifact on entry, or sacrifices an artifact to become a 4/4 reach, is a very favorable trade either way.
 
 ![130](https://cards.scryfall.io/large/front/6/1/6154a991-c602-4fca-91a3-3830060da60e.jpg?1705609120)
 
@@ -198,7 +198,7 @@ A four-mana 4/4 with flying and trample earns this score, and if there is a nonb
 
 **cephille:** 4.0
 
-A three-mana 3/3 flying Phoenix that can collect evidence 4 to crawl back when it dies is really hard to kill. I did not give it 4.5 because in this set there are not too few fliers or [[延勢]] creatures with toughness greater than 4, but there is always a way.
+A three-mana 3/3 flying Phoenix that can collect evidence 4 to crawl back when it dies is really hard to kill. I did not give it 4.5 because in this set there are not too few fliers or reach creatures with toughness greater than 4, but there is always a way.
 
 ![138](https://cards.scryfall.io/large/front/f/0/f096ff4a-85f4-46f1-9478-e8921f21309d.jpg?1705954208)
 
