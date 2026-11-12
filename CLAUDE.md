@@ -8,19 +8,19 @@
 
 <!-- AUTO-GENERATED from package.json scripts -->
 
-| Command                                   | Description                        |
-| ----------------------------------------- | ---------------------------------- |
-| `npm run dev`                             | Dev server at localhost:4321       |
-| `npm run build`                           | Production build + pagefind index  |
-| `npm run preview`                         | Preview production build locally   |
-| `npm run check`                           | Astro type-check                   |
-| `npm run lint` / `lint:fix`               | ESLint                             |
-| `npm run lint:tags`                       | Lint MTG card tags                 |
-| `npm run format` / `format:check`         | Prettier                           |
-| `npm run test`                            | Run tests once                     |
-| `npm run test:watch`                      | Watch mode                         |
-| `npm run test:coverage`                   | Coverage report                    |
-| `npm run post -- <hackmd-url> <filename>` | Import a HackMD note as a new post |
+| Command                                               | Description                        |
+| ----------------------------------------------------- | ---------------------------------- |
+| `npm run dev`                                         | Dev server at localhost:4321       |
+| `npm run build`                                       | Production build + pagefind index  |
+| `npm run preview`                                     | Preview production build locally   |
+| `npm run check`                                       | Astro type-check                   |
+| `npm run lint` / `lint:fix`                           | ESLint                             |
+| `npm run lint:tags`                                   | Lint MTG card tags                 |
+| `npm run format` / `format:check`                     | Prettier                           |
+| `npm run test`                                        | Run tests once                     |
+| `npm run test:watch`                                  | Watch mode                         |
+| `npm run test:coverage`                               | Coverage report                    |
+| `npm run post -- <hackmd-url> <filename> [--lang en]` | Import a HackMD note as a new post |
 
 <!-- END AUTO-GENERATED -->
 
@@ -82,7 +82,7 @@ The `mtgcard`/`mtglink`/`mtgpick`/`mtgmerge` tags render **synchronously** from 
 
 ## Post Import
 
-`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/<filename>.md`, overwriting the file if it already exists. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it.
+`scripts/create-post.ts` — `npm run post -- <hackmd-url> <filename>` fetches a HackMD note, reshapes its Hexo-style front-matter into this repo's schema (drops `tags`, sets `date` to the import time in `Asia/Taipei`, validates `authors` against `src/content/authors/`), and writes `src/content/posts/zh_tw/<filename>.md` (or `posts/en/` with `--lang en`), overwriting the file if it already exists. Requires `HACKMD_API_TOKEN` in a local `.env` (see `.env.example`); refuses to run without it.
 
 When `IMAGES_DIR` points at a clone of the `images` repo (post-bot sets it), `scripts/localize-images.ts` copies images from imgur / meee / postimg / `hackmd.io/_uploads` into `<IMAGES_DIR>/posts/<filename>/` (body → 1200px WebP, cover/thumbnail → 1200px JPEG, GIF untouched) and rewrites the URLs to `images.guildmagesforum.tw`. A failed image keeps its original URL and prints an `[images] WARN` line; it never fails the import.
 
