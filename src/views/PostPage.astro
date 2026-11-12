@@ -9,6 +9,7 @@ import WalineComments from '../components/WalineComments.vue';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { DATE_LOCALE, HTML_LANG, langPrefix, localePath } from '../i18n';
+import { SITE_TIME_ZONE } from '../utils/post-date';
 import { useTranslations } from '../i18n/ui';
 import { getPostAuthors } from '../utils/authors';
 import { getRelatedPosts } from '../utils/related';
@@ -27,7 +28,12 @@ const { Content, headings } = await render(post);
 const authors = await getPostAuthors(post.data.authors, lang);
 const allPosts = await getPosts(lang);
 const formatDate = (d: Date) =>
-  d.toLocaleDateString(DATE_LOCALE[lang], { year: 'numeric', month: 'long', day: 'numeric' });
+  d.toLocaleDateString(DATE_LOCALE[lang], {
+    timeZone: SITE_TIME_ZONE,
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
 const relatedPosts = getRelatedPosts(post, allPosts);
 const categoryTree = buildCategoryTree(allPosts.map((p) => p.data.categories));
 

@@ -5,6 +5,7 @@ import { categoryDescription, categoryLabel } from '../config/categories';
 import Navbar from '../components/Navbar.astro';
 import type { PaginatedPostsProps } from '../utils/pagination';
 import { DATE_LOCALE, langFromPath, localePath } from '../i18n';
+import { SITE_TIME_ZONE, taipeiYear } from '../utils/post-date';
 import { useTranslations } from '../i18n/ui';
 import { postUrl } from '../utils/posts';
 
@@ -16,7 +17,7 @@ const lang = langFromPath(Astro.url.pathname);
 const t = useTranslations(lang);
 
 const byYear = page.data.reduce<Record<number, CollectionEntry<'posts'>[]>>((acc, post) => {
-  const year = post.data.date.getFullYear();
+  const year = taipeiYear(post.data.date);
   (acc[year] ??= []).push(post);
   return acc;
 }, {});
@@ -91,6 +92,7 @@ const description = categoryDescription(cat, lang);
                       </a>
                       <time class="dark:text-dark-fg/50 shrink-0 text-sm text-gray-400">
                         {post.data.date.toLocaleDateString(DATE_LOCALE[lang], {
+                          timeZone: SITE_TIME_ZONE,
                           month: '2-digit',
                           day: '2-digit',
                         })}
