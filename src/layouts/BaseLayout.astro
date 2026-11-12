@@ -51,6 +51,9 @@ const OG_LOCALE = { 'zh-tw': 'zh_TW', en: 'en_US' } as const;
 // Both optional: set at build time (CI repo variables); unset = tag omitted.
 const gaId = import.meta.env.PUBLIC_GA_ID;
 const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
+// Shared by the async <link> and its <noscript> fallback.
+const GOOGLE_FONTS_HREF =
+  'https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap';
 ---
 
 <!doctype html>
@@ -99,10 +102,11 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
+    <!-- Non-render-blocking: the CJK css is a long list of @font-face rules and used to delay LCP. -->
+    <link href={GOOGLE_FONTS_HREF} rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript>
+      <link href={GOOGLE_FONTS_HREF} rel="stylesheet" />
+    </noscript>
     <ClientRouter />
     <script is:inline>
       (function () {
