@@ -36,7 +36,7 @@ npx vitest run src/plugins/__tests__/remark-mtg-tags.test.ts  # single plugin te
 
 ## Content Collections (`src/content/`)
 
-- `posts/` — MDX. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`, `preview?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
+- `posts/zh_tw/` and `posts/en/` — MDX, one dir per language (see **i18n**). The slug is the path below the language dir. Schema: `title`, `date`, `updated?`, `categories`, `authors[]`, `cover?`, `thumbnail?`, `excerpt?`, `comments?`, `preview?` (`tags` still exists in the zod schema for backcompat but is abandoned — no post frontmatter sets it anymore)
 - `preview: true` hides a post from the home/category/author listings, RSS feed, related-posts, sitemap, and pagefind search index (via `excludePreviewPosts` in `src/utils/posts.ts` and `getPreviewSlugs` in `src/utils/sitemap-filter.ts`) — the post's own page still builds and is reachable by direct URL
 - `authors/` — YAML. Schema: `username`, `name`, `avatar`, `url?`, `intro_zh[]`, `intro_en[]` (English translation; falls back to `intro_zh` when empty)
 
@@ -44,9 +44,22 @@ Author slugs in frontmatter must match YAML filename in `src/content/authors/`. 
 
 ## Routing
 
+Route files in `src/pages/` are thin: they pick a language and render a view from `src/views/*.astro`. `getStaticPaths` builders live in `src/utils/static-paths.ts`.
+
 - `[slug].astro` — post pages
 - `[...page].astro` — paginated home
 - `categories/[cat]/[...page].astro` — paginated category pages
+- `authors/[username]/[...page].astro` — author pages (every author gets one in every language)
+- `en/...` — the same routes for English
+
+## i18n
+
+- zh-TW lives at the site root (pre-i18n URLs unchanged); English under `/en/`. Helpers in `src/i18n/index.ts` (`localePath`, `langFromPath`, `stripLang`).
+- Views get their language from `langFromPath(Astro.url.pathname)`; UI strings come from `useTranslations(lang)` in `src/i18n/ui.ts` (both dictionaries share one type).
+- Post language comes from its dir (`postLang`); listings, categories, related posts and RSS (`/rss.xml`, `/en/rss.xml`) only use the page's language (`getPosts` / `getListedPosts` in `src/utils/collections.ts`).
+- The navbar toggle and `hreflang` alternates use `counterpartPath` (`src/i18n/counterpart.ts`): same page if it exists in the other language, else that language's home (or category index). The persisted header is keyed per language and re-reads `<meta name="gmf:lang-switch">` after each swap.
+- Waline thread key: zh posts `/<slug>/` (unchanged), en posts `/en/<slug>/`.
+- Category labels/descriptions take a `lang` (`src/config/categories.ts`); calendar date formatting too (`src/utils/calendar.ts`).
 
 ## Markdown Plugins (`src/plugins/`)
 
@@ -97,5 +110,5 @@ Tailwind v4 CSS-first config — no `tailwind.config.{js,ts}`. Theme tokens live
 ## Vue Components
 
 - `TableOfContents.vue` — sticky TOC, `IntersectionObserver`, fixed back-to-top button aligned to sidebar right edge
-- `ArticleAuthorHeader.vue` / `ArticleAuthorFooter.vue` — author display
-- `WalineComments.vue` — comments (`client:only="vue"`)
+- `ArticleAuthorHeader.vue` / `ArticleAuthorFooter.vue` — author display (take a `lang` prop)
+- `WalineComments.vue` — comments (`client:only="vue"`, `path` + `lang` props)
