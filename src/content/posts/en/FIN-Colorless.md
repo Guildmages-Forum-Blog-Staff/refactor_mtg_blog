@@ -8,7 +8,7 @@ categories:
   - "FIN"
 cover: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FIN-Colorless/2e6ec92071e4-cover.jpg"
-excerpt: "I live by my own ideas, so you should live by yours (as a certain Final Fantasy character put it): use a flexible mana base and all sorts of artifact Equipment to build the game plan you want!"
+excerpt: "I live by my own ideas, so you should live by yours (Bran): use a flexible mana base and all sorts of artifact Equipment to build the game plan you want!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FIN-Colorless/).

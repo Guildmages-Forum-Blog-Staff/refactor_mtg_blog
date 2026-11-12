@@ -8,7 +8,7 @@ categories:
   - "FIN"
 cover: "https://images.guildmagesforum.tw/posts/FIN-FCA/d0854efabb1c-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/FIN-FCA/d0854efabb1c-cover.jpg"
-excerpt: "裘達: Welcome everyone to the world of MTG! This time I will be cosplaying a Warrior of Light to introduce the legendary companions we are sending out!"
+excerpt: "Master Yoda: Welcome everyone to the world of MTG! This time I will be cosplaying a Warrior of Light to introduce the legendary companions we are sending out!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../FIN-FCA/).
