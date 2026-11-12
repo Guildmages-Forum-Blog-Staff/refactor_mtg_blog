@@ -98,3 +98,29 @@ describe('eventBadge', () => {
     });
   });
 });
+
+describe('English formatting', () => {
+  it('renders a single all-day event', () => {
+    const start = new Date(Date.UTC(2026, 10, 13));
+    const end = new Date(Date.UTC(2026, 10, 14));
+    expect(formatEventDate(start, end, true, 'en')).toBe('Fri, Nov 13, 2026');
+  });
+
+  it('drops only the year on a same-year range end', () => {
+    const start = new Date(Date.UTC(2026, 10, 13));
+    const end = new Date(Date.UTC(2026, 10, 16));
+    expect(formatEventDate(start, end, true, 'en')).toBe('Fri, Nov 13, 2026 – Sun, Nov 15');
+  });
+
+  it('keeps the year on a cross-year range end', () => {
+    const start = new Date(Date.UTC(2026, 11, 31));
+    const end = new Date(Date.UTC(2027, 0, 3));
+    expect(formatEventDate(start, end, true, 'en')).toBe('Thu, Dec 31, 2026 – Sat, Jan 2, 2027');
+  });
+
+  it('uses an English month on the badge', () => {
+    const start = new Date(Date.UTC(2026, 10, 13));
+    const end = new Date(Date.UTC(2026, 10, 14));
+    expect(eventBadge(start, end, true, 'en').month).toBe('Nov');
+  });
+});
