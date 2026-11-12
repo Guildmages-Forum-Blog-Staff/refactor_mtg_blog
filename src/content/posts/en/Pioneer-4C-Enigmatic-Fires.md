@@ -134,7 +134,7 @@ For the current meta, the deck's sideboard choices are:
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-4C-Enigmatic-Fires/d75645304b1b.webp)
 This is a sideboard card for dealing with most of today's aggro decks.
-Its main targets are White Humans, Azorius Spirits, and Rats and Vehicles; basically the core cards of these decks all get hit by it.
+Its main targets are White Humans, Azorius Spirits, and Greasefang; basically the core cards of these decks all get hit by it.
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-4C-Enigmatic-Fires/dfdae64736c8.webp)
 A card played to disrupt blue-heavy decks, or to regain life so your important spells resolve.

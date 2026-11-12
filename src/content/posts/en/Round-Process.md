@@ -203,7 +203,7 @@ The combat phase is the most important part of this article, since the vast majo
 
 If a triggered ability's trigger condition is "at the beginning of combat on your turn," it refers to the beginning of combat step. These triggered abilities go on the stack first, and then players receive priority.
 
-![Rat Car](https://images.guildmagesforum.tw/posts/Round-Process/50c97bdb8f6d.webp)
+![Greasefang](https://images.guildmagesforum.tw/posts/Round-Process/50c97bdb8f6d.webp)
 > ● **[Greasefang, Okiba Boss](https://scryfall.com/card/neo/220/greasefang-okiba-boss):**
 > At the beginning of combat on your turn, return target Vehicle card from your graveyard to the battlefield. It gains haste. Return it to its owner's hand at the beginning of your next end step.
 > ● **[Parhelion II](https://scryfall.com/card/war/24/parhelion-ii)):**
