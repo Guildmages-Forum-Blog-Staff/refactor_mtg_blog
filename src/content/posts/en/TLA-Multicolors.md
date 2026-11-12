@@ -99,7 +99,7 @@ The common {% mtglink "Abandon Attachments" %} is itself a Lesson, and its disca
 
 ![](https://images.guildmagesforum.tw/posts/TLA-Multicolors/79d817c2465f.webp)
 
-> I really don't know how to translate "+1/+1 counters" here. A literal "+1/+1 指示物" is too boring, so I used the phrase often seen in Limited articles, "放豆" (sowing beans), and "豆豆" (beans) as the theme name. I hope readers like it.
+> In the original Chinese, a literal translation of "+1/+1 counters" felt too boring, so the theme is named after the common Chinese Limited slang for placing counters, "sowing beans" (the theme is literally called "Beans"). I hope readers like it.
 
 The common {% mtglink "Earth Village Ruffians" %} has a face that screams fodder, and should also suit the white-black sacrifice theme. The uncommon {% mtglink "Dai Li Agents" %} can sow beans into soldiers when it enters. Two consecutive Earthbend 1 triggers add 2 creatures with counters on them to the board, gaining a bigger advantage in later combat. And the other card, {% mtglink "Long Feng, Grand Secretariat" %}, is even more powerful: each time a creature or land goes from the battlefield to the graveyard, you can keep placing counters, and with it around the black-green counters theme spins and can't be stopped.
 
@@ -143,7 +143,7 @@ The ten two-color pairs are a signal that helps players get started with Limited
 <!---203--->
 ![203](https://images.guildmagesforum.tw/posts/TLA-Multicolors/295588a58672.webp)
 Score: 4.0
-Comment: Looking at five cards on entering, it's not easy to whiff, and basically you can get a one-for-one, and with Airebend or a few suicide attacks it can flip easily. Besides the body becoming 4/4 after flipping, your land creatures having vigilance means they can still make mana after attacking, and at the beginning of each combat you also get an Earthbend 2, which is quite powerful. Incidentally, adding a third color should be easy in a green-based deck, so it's worth splashing to put it in the deck.
+Comment: Looking at five cards on entering, it's not easy to whiff, and it basically brings along another card, and with Airbend or a few suicide attacks it can flip easily. Besides the body becoming 4/4 after flipping, your land creatures having vigilance means they can still make mana after attacking, and at the beginning of each combat you also get an Earthbend 2, which is quite powerful. Incidentally, adding a third color should be easy in a green-based deck, so it's worth splashing to put it in the deck.
 
 
 <!---204--->
@@ -175,7 +175,7 @@ Comment: A quite powerful card, but four different colored requirements still ma
 <!---208--->
 {% mtgpick "tla" 208 %}
 Score: 4.0
-Comment: Although it's an effect similar to Flicker-style abilities, since it exiles a nontoken creature, with the right timing it can also eat a threat. And exiling another nonland card from a graveyard, if you've used your removal accurately beforehand, can earn you the opponent's high-value card. The attack-triggered Firebending 2 also helps cast cards exiled by Azula, which is quite excellent.
+Comment: Although it's similar to an edict effect, since it exiles a nontoken creature, with the right timing it can also eat a threat. And exiling another nonland card from a graveyard, if you've used your removal accurately beforehand, can earn you the opponent's high-value card. The attack-triggered Firebending 2 also helps cast cards exiled by Azula, which is quite excellent.
 
 <!---209--->
 {% mtgpick "tla" 209 %}
@@ -221,7 +221,7 @@ Comment: Two Earthbend 1 triggers on entering can make up to two land creatures,
 Score: 2.0
 Comment: Highly tied to the blue-red pair's noncreature and Lesson theme, needing enough of those cards to be strong. You don't need to take it too early in the draft; just take it if you see it after you've collected the components.
 
-> Dragonfly in Chinese means 蜻蜓, so there's a pun here, though the text and art feel a bit mismatched, which is quite interesting.
+> "Dragonfly" means the insect, but the name also puns on "dragon", and the text and art feel a bit mismatched, which is quite interesting.
 
 <!---216--->
 {% mtgpick "tla" 216 %}
@@ -406,7 +406,7 @@ Comment: An important amplifier for red-white go-wide aggro. The 4-mana 3/5 body
 <!---245--->
 {% mtgpick "tla" 245 %}
 Score: 3.0
-Comment: Creating a Clue on entering triggers the Clue-sacrifice effect once, but it still needs other sacrifice-engine themes to work steadily.
+Comment: The Clue it creates on entering lets you trigger its Ally-making effect once, but it still needs other sacrifice-engine themes to work steadily.
 
 
 <!---246--->

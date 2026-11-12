@@ -15,13 +15,13 @@ authors:
 
 ## Introduction
 
-Hi everyone, I'm 楊承孟. I'm very happy to have made Top 8 at this MIT. The deck I played was Boros Convoke. I picked it because I think its style suits me well, I've played it for a long time, and I've done plenty of practice against most of the mainstream decks in the format, so after weighing everything I chose Boros Convoke.
+Hi everyone, I'm JerryYang. I'm very happy to have made Top 8 at this MIT. The deck I played was Boros Convoke. I picked it because I think its style suits me well, I've played it for a long time, and I've done plenty of practice against most of the mainstream decks in the format, so after weighing everything I chose Boros Convoke.
 
 ## Deck Overview
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Boros-Convoke/b19b54613a4c.webp)
 
-[MIT#6\_Boros Convoke Decklist by 楊承孟](https://melee.gg/Decklist/View/401911)
+[MIT#6\_Boros Convoke Decklist by JerryYang](https://melee.gg/Decklist/View/401911)
 
 ![](https://cards.scryfall.io/large/front/5/2/522aa72b-2b8c-484c-872b-f082101cee35.jpg?1699043186)
 
@@ -52,8 +52,8 @@ In game 2 I should have conceded quickly and moved on to game 3, where I'd be on
 
 ### R3 Esper Midrange 2-1 on the draw
 
-Game 1: After working hard to build the board, [Imodane's Recruiter](https://scryfall.com/card/woe/229/imodanes-recruiter-train-troops) backed by an uncounterable [Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls) took them out in one wave.
-Game 2: Facing a turn-2 [Dennick, Pious Apprentice](https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition) and a turn-3 [Raffine, Scheming Seer](https://scryfall.com/card/snc/213/raffine-scheming-seer), I couldn't keep up with the tempo and died. The lesson is that I should have killed Raffine on turn 3. I don't know what I was thinking when I chose to kill Dennick instead, which let Raffine's scheming later swap my hand into a better combination.
+Game 1: After working hard to build the board, [Imodane's Recruiter](https://scryfall.com/card/woe/229/imodanes-recruiter-train-troops), made uncounterable by [Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls), took them out in one wave.
+Game 2: Facing a turn-2 [Dennick, Pious Apprentice](https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition) and a turn-3 [Raffine, Scheming Seer](https://scryfall.com/card/snc/213/raffine-scheming-seer), I couldn't keep up with the tempo and died. The lesson is that I should have killed Raffine on turn 3. I don't know what I was thinking when I chose to kill Dennick instead, which later let Raffine's connive swap their hand into a better combination.
 Game 3: Won with a turn-2 convoke.
 
 ### R4 Temur Fireball 2-1 on the play
@@ -90,5 +90,5 @@ Boros Convoke is a deck that demands aggressive mulliganing. We need to mulligan
 ## Tournament Thoughts
 
 Of the 5 MITs I've entered since I started playing MTG, this is my best result. It's a pity I was so close to qualifying for the PT this time, so I'll have to try again next event, and in the meantime wait for my annual leave to refill. I hope I can get a better result next time. Let's all work hard and get stronger together.
-Here I'd like to thank all my practice partners on 吉殺隊: [阿懋](/en/authors/zhi-mao/), 阿勳, [阿德](/en/authors/Enki/), 阿蘇, 阿軍, 蹦蹦, [KULA](/en/authors/david-yeh/), and everyone else I met at the tournament. Everyone played different decks, which gave me a thorough understanding of almost the entire format.
+Here I'd like to thank all my practice partners on 吉殺隊: [zhi-mao](/en/authors/zhi-mao/), 阿勳, [Enki](/en/authors/Enki/), 阿蘇, 阿軍, 蹦蹦, [KULA](/en/authors/david-yeh/), and everyone else I met at the tournament. Everyone played different decks, which gave me a thorough understanding of almost the entire format.
 If you'd like to discuss Boros Convoke, feel free to talk to me directly, and let's become top-tier convoke (and life-shortening) players together.

@@ -94,7 +94,7 @@ Comment: A creature counterspell is bound to have its uses, and holding up two m
 <!---11--->
 {% mtgpick "SOS" 48 %}
 Score: 1.5
-Comment: If it weren't an uncommon, the mill is hard to realize in Limited, and the 0/2 body can barely take part in defense.
+Comment: Mill is hard to pull off in Limited with only uncommons and commons, and the 0/2 body can barely take part in defense.
 
 
 <!---12--->
@@ -124,7 +124,7 @@ Comment: The body's combat strength is a bit poor, and the ability to adjust the
 <!---16--->
 {% mtgpick "SOS" 53 %}
 Score: 2.5
-Comment: In the mid to late game it can generate a wave of resources, and may even be one way to get removal.
+Comment: In the mid to late game it can generate a wave of resources, and may even be one of your ways to close out the game.
 
 <!---17--->
 {% mtgpick "SOS" 54 %}

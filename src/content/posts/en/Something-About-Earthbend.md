@@ -85,7 +85,7 @@ When we talk about an object gaining or losing abilities, we are actually talkin
 
 | Layer | Earthbent land creature | Day of Black Sun |
 | :-: | :-: | :-: |
-| 4 | Additionally a creature type |  |
+| 4 | Additionally becomes a creature (card type) |  |
 | 6 | Has haste | Loses all abilities |
 | 7B | Becomes 0/0 |  |
 | 7C | +1/+1 counters |  |
@@ -93,7 +93,7 @@ When we talk about an object gaining or losing abilities, we are actually talkin
 
 The conclusion: **<font color="#FF0000">losing abilities cannot stop an earthbent land creature from returning</font>**.
 
-> For a case with a similar principle, see [Legwen + Dress Down](https://guildmagesforum.tw/en/Layer/).
+> For a case with a similar principle, see [Ragavan + Dress Down](https://guildmagesforum.tw/en/Layer/).
 
 
 
@@ -142,7 +142,7 @@ Suppose Restless Cottage is currently earthbent 2 and is a 2/2 creature. When it
 
 | Layer | Earthbend 2 | Restless Cottage |
 | :-: | :-: | :-: |
-| 4 | Gains creature type | Gains creature - Horror type |
+| 4 | Becomes a creature (card type) | Gains creature - Horror type |
 | 5 |  | Becomes black and green |
 | 6 | Has haste |  |
 | 7B | Becomes 0/0 | Becomes 4/4 |
@@ -157,13 +157,13 @@ Suppose Restless Cottage is currently earthbent 2 and is a 2/2 creature. When it
 > ● **[Soulstone Sanctuary](https://scryfall.com/card/fdn/133/soulstone-sanctuary):** 
 > {4}: This land becomes a 3/3 creature with vigilance and all creature types until end of turn. It's still a land.
 
-From the previous example, we can see that Earthbend's "becomes 0/0" and a manland's own "becomes N/N" are both effects that set power and toughness in [Layer 7B](https://guildmagesforum.tw/en/Layer/#before-we-start). When multiple effects try to modify base power and toughness in 7B at the same time, you compare the two effects' [timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/); put plainly, the later one overrides the earlier one.
+From the previous example, we can see that Earthbend's "becomes 0/0" and a manland's own "becomes N/N" are both effects that set power and toughness in [Layer 7B](https://guildmagesforum.tw/en/Layer/#layer-7b-setting-power-and-toughness-to-specific-values). When multiple effects try to modify base power and toughness in 7B at the same time, you compare the two effects' [timestamps](https://guildmagesforum.tw/en/What-is-Time-Stamp/); put plainly, the later one overrides the earlier one.
 
 Suppose a Soulstone Sanctuary has already activated its own ability and is a 3/3 vigilance creature. If you then Earthbend 2 it, it instead becomes a 0/0 creature with two +1/+1 counters. Of course, you can also activate Soulstone Sanctuary's animation again, and then it is a 3/3 with two +1/+1 counters, a 5/5 haste vigilance creature.
 
 | Layer | Earthbend 2 | Soulstone Sanctuary |
 | :-: | :-: | :-: |
-| 4 | Gains creature type | Gains creature - all creature types |
+| 4 | Becomes a creature (card type) | Gains creature - all creature types |
 | 6 | Has haste | Has vigilance |
 | 7B | Becomes 0/0 | Becomes 3/3 |
 | 7C | 2 +1/+1 counters |  |
@@ -233,7 +233,7 @@ Suppose Cavern of Souls named Human as it entered, and was later earthbent into 
 
 Unfortunately the answer is no. Ultimately, the producer of that green mana isn't Cavern of Souls at all; it's that when Cavern of Souls activated its own mana ability, it triggered Badgermole Cub's triggered mana ability.
 
-- 605.1b A triggered ability is a mana ability if it meets all of the following criteria: it doesn't require a target (see rule 115.6), it triggers from the resolution of an activated mana ability (see rule 605.1a) or from mana being added to a player's mana pool, and it could add mana to a player's mana pool when it resolves.
+- 605.1b A triggered ability is a mana ability if it meets all of the following criteria: it doesn't require a target (see rule 115.6), it triggers from the activation or resolution of an activated mana ability (see rule 605.1a) or from mana being added to a player's mana pool, and it could add mana to a player's mana pool when it resolves.
 
 But if you replace Badgermole Cub with something like [Nyxbloom Ancient](https://scryfall.com/card/thb/190/nyxbloom-ancient), which uses a replacement effect to multiply mana produced, then all N black mana would carry the protection against counterspells for Human spells.
 
@@ -271,7 +271,7 @@ Suppose I control both Toph, the First Metalbender and Caged Sun (naming green),
 
 First, Caged Sun's effect is a triggered mana ability, which triggers because you activated the Forest's mana ability, and because it is itself a mana ability, it takes effect directly without using the stack.
 
-- 605.1b A triggered ability is a mana ability if it meets all of the following criteria: it doesn't require a target (see rule 115.6), it triggers from the resolution of an activated mana ability (see rule 605.1a) or from mana being added to a player's mana pool, and it could add mana to a player's mana pool when it resolves.
+- 605.1b A triggered ability is a mana ability if it meets all of the following criteria: it doesn't require a target (see rule 115.6), it triggers from the activation or resolution of an activated mana ability (see rule 605.1a) or from mana being added to a player's mana pool, and it could add mana to a player's mana pool when it resolves.
 
 But after the first additional green mana is produced, the fun begins: Caged Sun is now a land card, and the event of Caged Sun producing an additional green mana through its triggered mana ability once again satisfies the trigger condition of its own mana ability.
 
@@ -334,7 +334,7 @@ So why is the sacrifice-to-gain-life activated ability the only one kept? The re
 
 Earthbend is a very powerful mechanic, and can be seen as a super-powered version of [Awaken](https://scryfall.com/search?q=oracle%3AAwaken+%28game%3Apaper%29+set%3Abfz+prefer%3Abest&order=set&as=grid). You can tell the designers made earthbent lands come back when they are removed in order to fix Awaken's old pain point of lands getting blown up, especially since Earthbend is designed to be used in the early to mid game, when losing a land to removal might be no different from losing outright. To keep the new mechanic from becoming a joke, they added this protection.
 
-The intent is understandable, but adding it gave Earthbend all sorts of combo potential. For example, in Standard you can already play [Beifong's Bounty Hunters](https://scryfall.com/card/tla/209/beifongs-bounty-hunters) + [Bloodghast](https://scryfall.com/card/dft/77/bloodghast) + [Umbral Collar Zealot](https://scryfall.com/card/eoe/123/umbral-collar-zealot), paired with a Bloodghast or another infinite-loop finisher.
+The intent is understandable, but adding it gave Earthbend all sorts of combo potential. For example, in Standard you can already play [Beifong's Bounty Hunters](https://scryfall.com/card/tla/209/beifongs-bounty-hunters) + [Bloodghast](https://scryfall.com/card/dft/77/bloodghast) + [Umbral Collar Zealot](https://scryfall.com/card/eoe/123/umbral-collar-zealot), paired with a [painful desert land](https://scryfall.com/card/dft/77/bloodghast) or another infinite-loop finisher.
 
 ![Combo](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/b7efca71ddaf.webp)
 

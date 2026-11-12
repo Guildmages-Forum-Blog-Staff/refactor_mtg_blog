@@ -19,25 +19,25 @@ categories:
 
 I had already [used this deck at MIT#11](https://guildmagesforum.tw/en/Standard-Esper-Ninjas-Preliminary/), but at the time both the meta and my positioning were poor, and I only came away with a dismal result. While preparing for MIT#12, I picked a mainstream deck and went with [Izzet Spellementals](https://melee.gg/Decklist/View/e4a7b90d-fb39-45fa-be8a-b44d00d00dfe), but I still went home empty-handed that day. The very next week was the [Magic Spotlight: Secrets](https://ssl.bigmagic.net/spotlight_series/) I had signed up for long ago, and I had the feeling of not knowing what to play.
 
-Coincidentally, that week on Tuesday SamuelChang held a Sultai Demons sharing session at CardMaster, and I figured I would go listen, and maybe just netdeck and play the Spotlight. Many thanks to 菜鳥 for sharing his insights. That day I deeply realized how much preparation he had put in for this big event, and his determination to qualify for Worlds.
+Coincidentally, that week on Tuesday SamuelChang held a Sultai Demons sharing session at CardMaster, and I figured I would go listen, and maybe just netdeck and play the Spotlight. Many thanks to SamuelChang for sharing his insights. That day I deeply realized how much preparation he had put in for this big event, and his determination to qualify for Worlds.
 
-> For 菜鳥's shared experience, see the [post](https://www.facebook.com/share/p/1ExqVbNL4a/) on his page, [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689).
+> For SamuelChang's shared experience, see the [post](https://www.facebook.com/share/p/1ExqVbNL4a/) on his page, [鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689).
 
-However, while repeatedly reading and thinking about 菜鳥's insights, a question could not help but surface in my mind:
+However, while repeatedly reading and thinking about SamuelChang's insights, a question could not help but surface in my mind:
 
-"If I just take 菜鳥's deck into the event and still can't play well, can I simply say it's because I didn't practice enough?"
+"If I just take SamuelChang's deck into the event and still can't play well, can I simply say it's because I didn't practice enough?"
 
 I couldn't convince myself.
 
 The dust-covered card box in the corner seemed to give off a faint glow: Esper Ninjas, or rather, the inherited will of Dimir midrange. In the 2026 Standard format, players should feel strongly that every new set brings a huge shake-up to the environment. And Dimir midrange has basically received no support at all in the past half year, so the Ninjas of [TMT](https://scryfall.com/sets/tmt) are already the best weapons available to a tempo deck built around Kaito. But after the disappointment of MIT#11, can I trust it, and myself, one more time?
 
-I recalled the Spotlight meta 菜鳥 laid out that night: prowess, 4C Control, and Demons (I added this one myself, since quite a few people in Taiwan will take 菜鳥's deck to play). Apart from prowess, a meta mainly made of the other two types of decks is exactly a good matchup for Esper Ninjas, and would put the naturally countering UW "momo" deck at a disadvantage. From the perspective of meta fit, choosing Esper Ninjas is not necessarily a reckless, willful act.
+I recalled the Spotlight meta SamuelChang laid out that night: prowess, 4C Control, and Demons (I added this one myself, since quite a few people in Taiwan will take SamuelChang's deck to play). Apart from prowess, a meta mainly made of the other two types of decks is exactly a good matchup for Esper Ninjas, and would put the naturally countering UW "momo" deck at a disadvantage. From the perspective of meta fit, choosing Esper Ninjas is not necessarily a reckless, willful act.
 
 While shuffling cards waiting for dawn, I made up my mind.
 
 ## Deck Adjustments
 
-I referenced 曾宥均's Esper Ninjas that finished 10th at MIT#12 and made the following adjustments:
+I referenced Yu Chun Tseng's Esper Ninjas that finished 10th at MIT#12 and made the following adjustments:
 
 > Base deck: [Esper Tempo by Yu Chun Tseng](https://melee.gg/Decklist/View/c8e4b859-3c19-432c-8906-b4530001c880)
 
@@ -46,7 +46,7 @@ I referenced 曾宥均's Esper Ninjas that finished 10th at MIT#12 and made the 
 - For the counterspell slots, all 3 {% mtglink "Spell Pierce" %} are included. This was one of the things I gained from preparing for MIT#12 with Izzet Spellementals. In the current environment, Pierce is a top-tier card both on offense, blocking the opponent's threats, and for protecting against countermeasures like the opponent's sweepers. Considering that Spotlight is an event with non-public decklists, running a full 3 of the sharpest Pierce is more practical than running only 1-2 to intimidate the opponent.
 - The main deck uses only 3 {% mtglink "Requiting Hex" %}, for the same reason as the meta prediction above: in an environment that may have plenty of control and Demons, the odds of Hex becoming a dead card are not low, so only 3 copies, enough to answer prowess, possible landfall, and Mardu discard.
 - The number of {% mtglink "Aang, Swift Savior // Aang and La, Ocean's Fury" %} is increased to 3. If Aang weren't legendary I would definitely play a full 4. Most of the time, especially against prowess, he is a strong tempo card that trades one for two; against sweepers, holding Aang + Pierce can also let us foil the plan of an opponent with two mana open; and when the main plan of a ninja win is blocked, Aang's Waterbend 8 ability can be the surprise card that lays the foundation for victory!
-- {% mtglink "Spyglass Siren" %} is put back in instead of {% mtglink "Faerie Dreamthief" %}. The former was a core player in the Dimir midrange era, and the latter is merely a substitute. This does not change in Esper Ninjas either. The Map token the Siren makes not only finds lands early and adds creature toughness, acting as a "pseudo-scry", and now that we've increased the number of Aang, every time a Siren enters it means Waterbend -2! Moreover, although Dreamthief in the graveyard can drain life to draw cards, in the tightly tempo-driven Esper Ninjas, if you really need to do that, it usually means you got swept or you flooded, and in that situation it is no different from losing, so one more card won't help much, let alone the cost of 1 life, which could be fatal when the three-color mana base already hurts.
+- {% mtglink "Spyglass Siren" %} is put back in instead of {% mtglink "Faerie Dreamthief" %}. The former was a core player in the Dimir midrange era, and the latter is merely a substitute. This does not change in Esper Ninjas either. The Map token the Siren makes not only finds lands early, grows a creature, and acts as a "pseudo-surveil"; and now that we've increased the number of Aang, every time a Siren enters it means Waterbend -2! Moreover, although Dreamthief in the graveyard can drain life to draw cards, in the tightly tempo-driven Esper Ninjas, if you really need to do that, it usually means you got swept or you flooded, and in that situation it is no different from losing, so one more card won't help much, let alone the cost of 1 life, which could be fatal when the three-color mana base already hurts.
 - 4 black-white fast lands {% mtglink "Concealed Courtyard" %} are put in. Esper's three colors have only one fast land available, and if we don't use it, we'd have to run more {% mtglink "Multiversal Passage" %} or shock lands. Earlier testing already proved that was painfully bad, and against slightly faster matchups it would just give away the game.
 
 However, putting in the black-white fast lands means white on turn one is in surplus, while on turn two we may get stuck on blue and fail to cast {% mtglink "Floodpits Drowner" %}, or even get stuck without a second blue mana and fail to jump into {% mtglink "Enduring Curiosity" %} on turn four. What should we do about this?
@@ -76,7 +76,7 @@ Given the strength of current Standard decks, this is a deck that can almost nev
 3. **Attacking is the best defense, and also the only path to victory**
 If you can go creature on turn one, Sneak on turn two, Kaito on turn three, very few decks can beat you. But first, things won't always go so smoothly, second, the opponent will interfere, and when you roll to be on the draw it may be even harder to produce that board. Still, you need to keep attacking, and find a breakthrough with a rain of fierce assaults. Dark Leo is quite key in this game plan, since attacking Ninjas have deathtouch and easily make favorable trades. Attack, forcing the opponent to defend or hand over removal; attack again, forcing the opponent to tap out to draw-filter or sweep; keep attacking, and after Kaito holds the ground, finish with a buffed Ninja in one blow!
 5. **Why play 61 cards?**
-This is actually a 23-land deck, but at 23 lands testing showed it got stuck too often, and always stuck on blue (even though the number of blue-producing lands isn't the lowest), so I referenced 宥均's version and added 1 Island ~~anyway every day I get hit by Erode or land destruction~~
+This is actually a 23-land deck, but at 23 lands testing showed it got stuck too often, and always stuck on blue (even though the number of blue-producing lands isn't the lowest), so I referenced Yu Chun's version and added 1 Island ~~anyway every day I get hit by Erode or land destruction~~
 5. **Decks that are very aggressive or have direct damage are still at a significant disadvantage**
 See [Esper Ninjas First Look](https://guildmagesforum.tw/en/Standard-Esper-Ninjas-Preliminary/) for details. You can also watch the [video record](https://www.youtube.com/live/MBDasOCyGPg?si=c9UsrEFjAaucX8ZW&t=6039) of me playing Mardu discard at the Spotlight.
 7. **If the environment is momo paradise, don't take this deck**
@@ -138,7 +138,7 @@ I won't go into much detail on the tournament report. Feel free to see it on my 
 
 Going abroad to compete alone is lonely.
 
-But when a group of friends has gone to an event together, encouraging each other, chatting, and eating, working through the hard-to-digest emotions and regrets of the tournament, and sharing each other's highlights, joys, and unforgettable experiences. I heard many friends say they want to come again next year, and even want to go to this year's Yokohama Player Convention. Magic is always more energetic because of the gathering, and going abroad with friends to a big event is the best embodiment of that.
+But going to an event with a group of friends means encouraging each other, chatting, and eating, working through the hard-to-digest emotions and regrets of the tournament, and sharing each other's highlights, joys, and unforgettable experiences. I heard many friends say they want to come again next year, and even want to go to this year's Yokohama Player Convention. Magic is always more energetic because of the gathering, and going abroad with friends to a big event is the best embodiment of that.
 
 Another gain from this event is that, since I chose an off-meta deck and put up a decent result, the attention from opponents and even players at neighboring tables was a different experience from using a mainstream deck. Competitive Magic is a world where you earn your reputation with skill. That I luckily made Day 2 with an off-meta deck and received much more attention than I expected when I left was beyond what I could imagine.
 

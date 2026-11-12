@@ -89,7 +89,7 @@ I didn't pick it because the three-mana slot in my deck is too crowded. A three-
 
 ### Round 4: 2-0 vs. Domain
 
-- Game 1, on the draw, the opponent used a kicked Angel twice to remove a 2/3 [Monastery Swiftspear](https://cards.scryfall.io/large/front/d/6/d6bfa227-4309-40ed-952c-279595eab17e.jpg?1701690543) with a counter, and a turn later I used Witchstalker Frenzy to easily remove the kicked Angel and win.
+- Game 1, on the draw, the opponent used a twice-kicked Angel to remove a 2/3 [Monastery Swiftspear](https://cards.scryfall.io/large/front/d/6/d6bfa227-4309-40ed-952c-279595eab17e.jpg?1701690543) with a counter, and a turn later I used Witchstalker Frenzy to easily remove the kicked Angel and win.
 - Game 2, on the draw, on turn 4 the opponent cast [Sunfall](https://cards.scryfall.io/large/front/3/2/32e29c7d-ed4b-4eff-b3c2-d99e5b63ef8d.jpg?1682202915) to sweep the board and made an Incubate 3; the opponent then flooded and passed two turns, only flipping the 3/3, and in the end I won using Twisted Fealty twice to apply damage.
 
 Rounds 5 + 6: Draw, intentional draws, against Golgari Midrange and Azorius Midrange respectively.

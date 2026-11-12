@@ -1,5 +1,5 @@
 ---
-title: "A Board-Stealing Surprise: Standard Temur Manifest"
+title: "A Board-Commanding Surprise: Standard Temur Manifest"
 date: "2024-10-09 22:53:26"
 authors:
   - "JerobaMTG"

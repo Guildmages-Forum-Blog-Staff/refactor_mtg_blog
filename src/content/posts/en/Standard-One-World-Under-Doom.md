@@ -31,7 +31,7 @@ The core plan of this deck is [**Doom Reigns Supreme**](https://scryfall.com/car
 
 ![](https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/95690d73af51.webp)
 
-[Doctor Doom](https://scryfall.com/card/msh/95/doctor-doom) claims the title of Sorcerer Supreme and personally builds the ultimate hegemony over the Earth (One Ｗorld Under Doom). To pull this plan off, we have to prepare actively and let the other villains take the stage first, creating the best moment to seize power. The decklist is as follows:
+[Doctor Doom](https://scryfall.com/card/msh/95/doctor-doom) claims the title of Sorcerer Supreme and personally builds the ultimate hegemony over the Earth (One World Under Doom). To pull this plan off, we have to prepare actively and let the other villains take the stage first, creating the best moment to seize power. The decklist is as follows:
 
 [**Decklist**](https://www.mtggoldfish.com/deck/7876469#paper)
 ![](https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/9430bc92d894.webp)
@@ -42,7 +42,7 @@ Even if the arch-villain is a genius, carrying out a grand plan takes organized 
 ![](https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/c8344fd323df.webp)
 
 
-Where there are grunts on the front line, there are also officers in charge of planning and coordination. [Norman Osborn](https://scryfall.com/card/spm/39/norman-osborn-green-goblin), CEO of [Oscorp Industries](https://scryfall.com/card/spm/182/oscorp-industries), is a trampling, sustained connive engine. After he transforms into the [Green Goblin](https://scryfall.com/card/spm/39/norman-osborn-green-goblin?back), each of your cards gains mayhem and a graveyard cost reduction, so cards discarded by connive can be cast the same turn. [Baron Strucker, Hydra Overlord](https://scryfall.com/card/msh/88/baron-strucker-hydra-overlord) reduces the casting cost of villains, giving each newly arrived villain every turn a chance to connive. [Leader, Super Genius](https://scryfall.com/card/msh/64/leader-super-genius) is a connive amplifier, turning every connive from plain card filtering into card advantage.
+Where there are grunts on the front line, there are also officers in charge of planning and coordination. [Norman Osborn](https://scryfall.com/card/spm/39/norman-osborn-green-goblin), CEO of [Oscorp Industries](https://scryfall.com/card/spm/182/oscorp-industries), is an evasive, sustained connive engine. After he transforms into the [Green Goblin](https://scryfall.com/card/spm/39/norman-osborn-green-goblin?back), each of your cards gains mayhem and a graveyard cost reduction, so cards discarded by connive can be cast the same turn. [Baron Strucker, Hydra Overlord](https://scryfall.com/card/msh/88/baron-strucker-hydra-overlord) reduces the casting cost of villains, giving each newly arrived villain every turn a chance to connive. [Leader, Super Genius](https://scryfall.com/card/msh/64/leader-super-genius) is a connive amplifier, turning every connive from plain card filtering into card advantage.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/d81a23d10df8.webp)
 ![](https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/441860457174.webp)

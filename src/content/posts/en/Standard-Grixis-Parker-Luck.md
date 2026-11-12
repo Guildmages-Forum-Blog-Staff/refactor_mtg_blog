@@ -9,7 +9,7 @@ categories:
   - "Standard"
 cover: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/33e9a7eca8ee-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Grixis-Parker-Luck/33e9a7eca8ee-cover.jpg"
-excerpt: "Play for the race, play it easy"
+excerpt: "Play on luck, play it easy"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Standard-Grixis-Parker-Luck/).
@@ -149,7 +149,7 @@ Standard sideboards definitely need some graveyard hate now. Because the Spider-
 
 - **[Qarsi Revenant](https://scryfall.com/card/tdm/86/qarsi-revenant) (3):**
 
-One of the key creatures against red aggro. In principle, against red aggro I go all in with [Parker Luck](https://scryfall.com/card/spm/60/parker-luck), and [Qarsi Revenant](https://scryfall.com/card/tdm/86/qarsi-revenant) is the all-in on top of that. [Parker Luck](https://scryfall.com/card/spm/60/parker-luck) costing yourself life is a minor issue; the key is that refilling resources for red aggro is truly terrifying.
+One of the key creatures against red aggro. In principle, against red aggro I take out every [Parker Luck](https://scryfall.com/card/spm/60/parker-luck) and bring in every [Qarsi Revenant](https://scryfall.com/card/tdm/86/qarsi-revenant). [Parker Luck](https://scryfall.com/card/spm/60/parker-luck) costing yourself life is a minor issue; the key is that refilling resources for red aggro is truly terrifying.
 
 
 
@@ -166,7 +166,7 @@ What we fear most is an accident with a key enchantment, so discard is very impo
 
 - **[Annul](https://scryfall.com/card/eoe/46/annul) (1) & [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke) (1):**
 
-A blue sideboard is bound to pick up a few counterspells, but when [Geological Appraiser](https://scryfall.com/card/lci/150/geological-appraiser) flips a counterspell it can only turn into a card that gives you a known card in hand, which is not very efficient. So running only 2 counterspells that can hold off a key play is about right. [Annul](https://scryfall.com/card/eoe/46/annul) is absolutely necessary, while [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke) is not that important, and switching it to [Negate](https://scryfall.com/card/fdn/710/negate) is also worth considering.
+A blue sideboard is bound to pick up a few counterspells, but when [Geological Appraiser](https://scryfall.com/card/lci/150/geological-appraiser) flips a counterspell it just becomes a revealed card in your hand, which is not very efficient. So running only 2 counterspells that can hold off a key play is about right. [Annul](https://scryfall.com/card/eoe/46/annul) is absolutely necessary, while [Disdainful Stroke](https://scryfall.com/card/woe/47/disdainful-stroke) is not that important, and switching it to [Negate](https://scryfall.com/card/fdn/710/negate) is also worth considering.
 
 
 

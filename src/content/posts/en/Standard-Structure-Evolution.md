@@ -73,7 +73,7 @@ Below are the qualifying creatures being played, sorted by deck usage rate from 
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Structure-Evolution/add5d5e93cde.webp)
 
-Don't these guys seem not that common, or matchups where they appear are not matchups where you should be stacking low-range removal at all?
+Don't these guys seem pretty uncommon, or show up only in matchups where you shouldn't be stacking short-range removal anyway?
 
 Right. In fact, none of the decks these cards belong to has more than 2% of the meta, and just to pick out seven cards, I had to go down to decks with 0.2% of the meta. As for DSK's new cards, perhaps [Unstoppable Slasher](https://scryfall.com/card/dsk/119/unstoppable-slasher), [Broodspinner](https://scryfall.com/card/dsk/211/broodspinner), [Entity Tracker](https://scryfall.com/card/dsk/53/entity-tracker), and [Inquisitive Glimmer](https://scryfall.com/card/dsk/217/inquisitive-glimmer) may be seen in scattered decks, but I believe they will not reach a very mainstream share either. The honorable mention [Zur](https://scryfall.com/card/dmu/228/zur-eternal-schemer) should be the most promising of the cards listed above.
 

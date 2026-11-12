@@ -22,7 +22,7 @@ excerpt: "Take history as your mirror and swing your sword to cut through every 
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Lorehold-Equipment/ab957523c67c.webp)
 
-Strixhaven's Lorehold college majors in historical excavation and cares about cards leaving your graveyard, a rare graveyard-recursion route for red-white. That said, whether it's looting or self-milling to fill the graveyard, the other three-color combinations have always done it better than red-white. Can the new set's Lorehold cards stand up to the other three colors? Let's see my build.
+Strixhaven's Lorehold college majors in historical excavation and cares about cards leaving your graveyard, a rare graveyard-recursion route for red-white. That said, whether it's looting or self-milling to fill the graveyard, the other three color pairs have always done it better than red-white. Can the new set's Lorehold cards stand up to the other three? Let's see my build.
 
 ## Deck Analysis
 

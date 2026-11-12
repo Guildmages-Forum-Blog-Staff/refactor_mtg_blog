@@ -164,7 +164,7 @@ Vehicles is similar to earlier builds. The main deck adds the new WOE card [The 
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/f13de7b9f681.webp)
 
-Enigmatic Fires is also similar to what I covered before, but it adds [Up the Beanstalk](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184), a two-mana tempo card. Personally I think it's slightly better than [Omen of the Sea](https://cards.scryfall.io/large/front/a/5/a5f30ecd-d009-4d44-aef4-c926ed55a521.jpg?1581479435), but since Fires basically never casts many spells with mana value 5 or more, the extra draw is limited. Still, every little bit helps, right?
+Enigmatic Fires is also similar to what I covered before, but it adds [Up the Beanstalk](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184), a two-mana tempo card. Personally I think it's slightly better than [Omen of the Sea](https://cards.scryfall.io/large/front/a/5/a5f30ecd-d009-4d44-aef4-c926ed55a521.jpg?1581479435), but since Fires basically doesn't hard-cast many spells with mana value 5 or more, the extra draw is limited. Still, every little bit helps, right?
 
 ### Rakdos Midrange
 
@@ -245,7 +245,7 @@ The sideboard has flexibility against control, plus the Saheeli combo.
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/f50b4278d447.webp)
 
-The Sacrifice build is similar too, but the sideboard only adds one more Duress, then runs a third Ob Nixilis, and also four Leyline of the Guildpact for the mirror and for Greasefang.
+The Sacrifice build is similar too, but the sideboard only adds one more Duress, then runs a third Ob Nixilis, and also four Leyline of the Void for the mirror and for Greasefang.
 However, four Leylines in the sideboard take up a lot of room, so you may need to think about how to handle sideboarding.
 
 ### Gruul Vehicles
@@ -360,7 +360,7 @@ Phoenix, Spirits, Mono-White Humans, Gruul, Greasefang, and Lotus Field will als
 The rest will be a mix of scattered red-white aggro (Heroic, Convoke), Fires, Indomitable Creativity, Neoform, and similar decks.
 
 Maybe someone will play Golgari Midrange, but I don't expect many, and it still needs testing in the environment. Looking at the card list, it feels like you'd end up better off just playing Rakdos Midrange: every extra draw card costs an additional 1 life, which is 3 against Sheoldred, and even when you have Sheoldred yourself you're constantly losing life. Unless the metagame is absolutely packed with enchantments, I'm personally barely considering it.
-And even if you do splash green, it should still be built around Green Devotion; Kiki and Bloodtithe are too hard to give up.
+And even if you do splash green, it should still be built as Jund; Kiki and Bloodtithe are too hard to give up.
 
 Finally, combining how things felt in this week's MA Explorer Event, I'll probably choose between Rakdos Sacrifice and Rakdos Midrange, still undecided.
 

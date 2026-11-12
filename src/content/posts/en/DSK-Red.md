@@ -28,8 +28,8 @@ Duskmourn: House of Horror (DSK) holds its prerelease events on September 20, 20
 3.5: Strong enough, but not necessarily a first pick
 3.0: Above average (you will really want it in your final deck)
 2.5: Average, maybe around the 6th or 7th pick in a draft
-2.0～1.0: Below average (you would rather not play it than play it)
-0.5～0.0: Unplayable (basically never play it; it will only help you lose)
+2.0 to 1.0: Below average (you would rather not play it than play it)
+0.5 to 0.0: Unplayable (basically never play it; it will only help you lose)
 
 ## Card Ratings
 

@@ -19,7 +19,7 @@ Tarkir: Dragonstorm (TDM) prerelease events run on April 4, 2025, with the offic
 
 ## Rating Scale
 
-<!---評分標準若有異動，會直接更新此template，如有需要調整請作者向團隊提出template更新的需求，完成討論後會再進版--->
+<!---If the rating scale changes, this template will be updated directly. If adjustments are needed, authors should ask the team for a template update, and it will be merged after discussion.--->
 
 5.0: Unconditional must-pick, brings a near-winning advantage
 4.5: Unconditional must-pick if you're in the right colors, brings a huge advantage

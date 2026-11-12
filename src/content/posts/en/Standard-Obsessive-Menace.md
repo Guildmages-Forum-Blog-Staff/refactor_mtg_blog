@@ -18,7 +18,7 @@ excerpt: "Your persistence is truly admirable. Want to come work at our newspape
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Obsessive-Menace/40095d50a579.webp)
 
-In the latest Standard set *[Avatar: The Last Airbender](https://scryfall.com/sets/tla?as=grid&order=set)*, each of the four bending arts has a corresponding Ascension enchantment, and only black, which has no bending, is absent. But is this cycle really missing a corner? Just like [Fire Lord Sozin](https://scryfall.com/card/tla/117/the-rise-of-sozin-fire-lord-sozin?back), who corresponds to the Avatar kings of the four bending arts, black also has a corresponding Ascension enchantment, except that instead of the bending power of natural elements, it runs on mortal obsession. As for whether that obsession is strong enough to stand against the four bending arts, let me verify it.
+In the latest Standard set *[Avatar: The Last Airbender](https://scryfall.com/sets/tla?as=grid&order=set)*, each of the four bending arts has a corresponding Ascension enchantment, and only black, which has no bending, is absent. But is this cycle really missing a corner? Just like [Fire Lord Sozin](https://scryfall.com/card/tla/117/the-rise-of-sozin-fire-lord-sozin?back), the counterpart to the four bending rulers, black also has a corresponding Ascension enchantment, except that instead of the bending power of natural elements, it runs on mortal obsession. As for whether that obsession is strong enough to stand against the four bending arts, let me verify it.
 
 ## Card Analysis
 

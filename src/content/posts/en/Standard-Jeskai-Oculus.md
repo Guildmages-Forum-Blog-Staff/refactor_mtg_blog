@@ -14,7 +14,7 @@ categories:
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Standard-Jeskai-Oculus/).
 
 ## Introduction
-Hi everyone, I'm 陳彥融, whose name sounds like "Chennel" if you say it fast. At MIT Round 9 I piloted Jeskai Oculus and was lucky enough to make the Top 16, which is how this article came about. Before I introduce the deck, let me tell you how it came to be.
+Hi everyone, I'm Chennel, which is what my real name sounds like if you say it fast. At MIT Round 9 I piloted Jeskai Oculus and was lucky enough to make the Top 16, which is how this article came about. Before I introduce the deck, let me tell you how it came to be.
 
 Ever since {% mtglink "Abhorrent Oculus" %} (hereafter "Oculus") was released, people have been excited about it, and players have kept trying to build decks around it. The first version to appear at a competitive-level event was called Azorius Oculus, a graveyard-based deck whose game plan was to put Oculus and other three-mana threats into the graveyard and then reanimate them. I once piloted that deck to a Top 4 at an MITQ. The deck was strong, but its weakness was obvious: as soon as the graveyard got disrupted, it was easy to just lose.
 
@@ -320,7 +320,7 @@ One of the very unfavorable matchups. The opponent has {% mtglink "Up the Beanst
 
 * Disdainful Stroke and No More Lies can counter sweepers and the Overlords.
 * Loran can destroy every enchantment we dislike, whether it's an Overlord, Temporary Lockdown, Up the Beanstalk, or even Rest in Peace, which we hate most, it can take out in passing.
-* Destroy Evil can handle the whole family. The key target is Zur; if it turns an Overlord into a creature, it gets troublesome. This is the most efficient removal for Zur, so be sure to save it for him.
+* Destroy Evil can handle almost everything they have. The key target is Zur; if it turns an Overlord into a creature, it gets troublesome. This is the most efficient removal for Zur, so be sure to save it for him.
 * Exorcise can handle every threat other than Zur.
 * Chandra is an extra way to win after RIP, providing a very fast clock to quickly build the board.
 
@@ -357,7 +357,7 @@ The third of the very unfavorable matchups. The opponent has a huge number of wa
 
 
 ### Orzhov Pixie
-A very favorable matchup. The opponent's discard effects against us help our graveyard plan, and as long as we grow with Eidetic Memory, the opponent's single-target removal won't be able to remove our creatures, after which we can win through board advantage. In sideboard games the opponent may have a lot of graveyard hate, and may also bring in Sheoldred or {% mtglink "Elesh Norn, Mother of Machines" %} (hereafter "White Sheoldred") to try to shut off our looting, but our sideboard also has Destroy Evil and Exorcise to deal with them, so there's no need to worry too much.
+A very favorable matchup. The opponent's discard effects against us help our graveyard plan, and as long as we grow with Eidetic Memory, the opponent's single-target removal won't be able to remove our creatures, after which we can win through board advantage. In sideboard games the opponent may have a lot of graveyard hate, and may also bring in Sheoldred or {% mtglink "Elesh Norn, Mother of Machines" %} (hereafter "White Praetor") to try to shut off our looting, but our sideboard also has Destroy Evil and Exorcise to deal with them, so there's no need to worry too much.
 
 | Side Out | Side In |
 | :-: | :-: |
@@ -370,8 +370,8 @@ A very favorable matchup. The opponent's discard effects against us help our gra
 
 * The opponent's mana is limited, so No More Lies can disrupt their tempo well.
 * Loran is used to destroy Temporary Lockdown and Vacuum.
-* Destroy Evil can remove either Sheoldred or White Sheoldred; White Sheoldred shutting off the loot from our creatures entering is also a headache for us.
-* Exorcise's main target is also removing Sheoldred or White Sheoldred, and it can also destroy the opponent's graveyard hate, such as Vacuum and Rest in Peace.
+* Destroy Evil can remove either Sheoldred or White Praetor; White Praetor shutting off the loot from our creatures entering is also a headache for us.
+* Exorcise's main target is also removing Sheoldred or White Praetor, and it can also destroy the opponent's graveyard hate, such as Vacuum and Rest in Peace.
 * Considering that the graveyard may be completely sealed off by Rest in Peace, Chandra is brought in as an alternative win condition.
 
 ### Mono-Red Aggro

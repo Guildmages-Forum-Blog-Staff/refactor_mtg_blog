@@ -29,14 +29,14 @@ But even though the DFT set did not noticeably strengthen aggro (yes, really, no
 ### Main Deck Card Choices
 
 [Screaming Nemesis](https://scryfall.com/card/dsk/157/screaming-nemesis) (3)
-Is this card strong? Super strong! But in the current environment, apart from aggro decks, there are plenty of proactive win conditions and cheap bounce spells. If it is just a 3/3 haste creature, its value is actually not that high. Given how likely it is to get removed, I personally chose to keep 1 copy in the sideboard.
+Is this card strong? Super strong! But in the current environment, apart from aggro decks, there are plenty of hard removal spells and cheap bounce spells. If it is just a 3/3 haste creature, its value is actually not that high. Given how likely it is to get removed, I personally chose to keep 1 copy in the sideboard.
 
 [Sentinel of the Nameless City](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city) (1)
 I chose to put this card in the main deck as a replacement for [Screaming Nemesis](https://scryfall.com/card/dsk/157/screaming-nemesis). Its 3/4 body dodges the mainstream removal like [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower), [Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run), and [Elspeth’s Smite](https://scryfall.com/card/mom/13/elspeths-smite). Vigilance helps against aggro and also avoids the cost reduction benefit of [Ride's End](https://scryfall.com/card/dft/25/rides-end).
 The Map tokens it creates on entering and attacking not only filter your draws but also work with the Valiant ability.
 
 [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower) (3)
-The best red removal spell in the current environment, but there are not many chances to trigger Bargain in the main deck games, so I only play 3 copies.
+The best red removal spell in the current environment, but there are not many chances to trigger Bargain in game 1, so I only play 3 copies.
 
 [Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning) (2)
 Although [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower) has an exile effect, [Burst Lightning](https://scryfall.com/card/fdn/192/burst-lightning) gives me a chance to come back late in the game.
@@ -96,7 +96,7 @@ Sideboard plan:
 
 #### Five-Color Domain, Four-Color Zur
 
-The most important thing in this matchup is **damage control**. Try to keep one or two creatures on the board so that the opponent's sweepers do not cost you too many resources. Upgrading [Innkeeper’s Talent](https://scryfall.com/card/blb/180/innkeepers-talent) to make single-target removal less efficient, or making creatures toughness greater than 4 to dodge [Elspeth’s Smite](https://scryfall.com/card/mom/13/elspeths-smite), are all things to watch for.
+The most important thing in this matchup is **damage control**. Try to keep one or two creatures on the board so that the opponent's sweepers do not cost you too many resources. Upgrading [Innkeeper’s Talent](https://scryfall.com/card/blb/180/innkeepers-talent) to make single-target removal less efficient, or giving creatures more than 4 toughness to dodge [Elspeth’s Smite](https://scryfall.com/card/mom/13/elspeths-smite), are all things to watch for.
 
 Sideboard plan:
 
@@ -108,7 +108,7 @@ Sideboard plan:
 
 #### Golgari Midrange
 
-My favorite deck, but also one of the most headache-inducing matchups. **Resources** are the key in this matchup: do not let the opponent gain an advantage in one-for-one trades, with cards like [Questing Druid](https://scryfall.com/card/woe/234/questing-druid-seek-the-beast) and all the Offspring abilities.
+My favorite deck, but also one of the most headache-inducing matchups. **Resources** are the key in this matchup: use cards like [Questing Druid](https://scryfall.com/card/woe/234/questing-druid-seek-the-beast) and all the Offspring abilities so the opponent can't gain an advantage from one-for-one trades.
 Spread out your damage evenly to avoid being left with nothing after removal, and pay special attention to the timing of [Gix’s Command](https://scryfall.com/card/bro/97/gixs-command), making good use of [Innkeeper’s Talent](https://scryfall.com/card/blb/180/innkeepers-talent) to minimize its impact.
 As for [Phyrexian Obliterator](https://scryfall.com/card/one/105/phyrexian-obliterator), it is probably a natural counter to us! I have not yet come up with a clear solution, but if you can use [Witchstalker Frenzy](https://scryfall.com/card/woe/159/witchstalker-frenzy) to deal with it in one go and sacrifice some lands to secure a board advantage, that is probably the best you can hope for.
 

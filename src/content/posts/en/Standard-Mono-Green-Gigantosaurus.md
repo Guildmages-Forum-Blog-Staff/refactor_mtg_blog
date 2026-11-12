@@ -25,7 +25,7 @@ Five green pips, a 10/10 body: [Gigantosaurus](https://scryfall.com/card/m19/185
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Mono-Green-Gigantosaurus/2f9fcc90a5eb.webp)
 
-No keywords, no obscure abilities, only five green pips, huge muscles, and the Dinosaur type. If you want to play [Gigantosaurus](https://scryfall.com/card/m19/185/gigantosaurus), these are the only points to brainstorm from. The green-pip part has no mechanic in Standard to pair with, so we have to develop the latter two.
+No keywords, no obscure abilities, only five points of green devotion, huge muscles, and the Dinosaur type. If you want to play [Gigantosaurus](https://scryfall.com/card/m19/185/gigantosaurus), these are the only points to brainstorm from. The devotion part has no mechanic in Standard to pair with, so we have to develop the latter two.
 
 [Decklist](https://www.mtggoldfish.com/deck/6818769#paper)
 ![](https://images.guildmagesforum.tw/posts/Standard-Mono-Green-Gigantosaurus/98dca1d66866.webp)

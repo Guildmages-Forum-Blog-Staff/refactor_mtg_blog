@@ -76,7 +76,7 @@ Comment: It's not that easy to gain life on your opponent's turn, so it isn't go
 <!---145--->
 {% mtgpick "SOS" 145 %}
 Score: 4.0
-Comment: A 3/3/4 vigilance body is already good, and the Prepare spell [Regrowth](https://scryfall.com/card/mh1/175/zht/再生新芽-(regrowth)) can return any card from your graveyard, which is very versatile. But a four-toughness creature that has to attack with eight lands and not die, isn't that a bit difficult? Unless you have instant-speed removal or give it trample, it's hard to Prepare repeatedly.
+Comment: A 3/3/4 vigilance body is already good, and the Prepare spell [Regrowth](https://scryfall.com/card/mh1/175/zht/再生新芽-(regrowth)) can return any card from your graveyard, which is very versatile. But a four-toughness creature that has to attack with eight lands and not die, isn't that a bit difficult? Unless you have instant-speed removal or give it evasion, it's hard to Prepare repeatedly.
 
 
 <!---146--->
@@ -166,7 +166,7 @@ Comment: Although its body is easily traded with, it also has the chance to trad
 <!---160--->
 {% mtgpick "SOS" 160 %}
 Score: 3.0
-Comment: Although it's a vanilla, a four-mana 6/6 is very popular in this environment where bodies are generally small, and few creatures are bigger than it.
+Comment: Although it's a vanilla, a four-mana 6/6 has a big edge in this environment where bodies are generally small, and few creatures are bigger than it.
 
 
 <!---161--->

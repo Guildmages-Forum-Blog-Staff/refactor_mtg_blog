@@ -16,7 +16,7 @@ categories:
 
 ## To Badger, or Not to Badger... If I Rashly Take a Step, Will We Part on Un-Badger-ly Terms?
 
-Professor 崔宗勳 of Seoul National University put it well: "When you're considering whether to buy or not, don't buy!"
+Professor Choi Jong-hoon of Seoul National University put it well: "When you're considering whether to buy or not, don't buy!"
 
 Since I chose [Jeskai Energy Control](https://guildmagesforum.tw/en/Modern-Jeskai-Miracles-Control/) at the 10th Championship in Modern, once that event wrapped up I somehow gave myself a challenge: for the Standard events that follow, I would play black-green ~~why on earth did I talk myself into this~~. My playstyle gets along terribly with green, so I figured I'd take the chance to play it lightly.
 
@@ -35,13 +35,13 @@ So I had to find a way to **win without the badger**. From [Tarkir: Dragonstorm 
 
 The 11th Taiwan Championship has just wrapped up, and thanks to the effort of the pilot, [ZHAN](/en/authors/ZHAN/), this deck earned a rather respectable 20th place at 4-3-0. First, a simple tournament report:
 
-R1 Mono-Green Landfall（[shun yu Chuang](/en/authors/T1BloodMoon/)）LL
-R2 Simic Rhythm（bonba Dala）ＷＷ
-R3 Temur Prowess（Wei_Hao_Huang） WLW
-R4 U-B-R-G Reanimator（家豪 郭）ＷＷ
-R5 Temur Otters（Eason271） LWW
-R6 Mono-White（[Chiyou](/en/authors/Chiyou/)） LL
-R7 Bant Omniscience（[Ho Zhi Mao](/en/authors/zhi-mao/)） LL
+R1 Mono-Green Landfall ([shun yu Chuang](/en/authors/T1BloodMoon/)) LL
+R2 Simic Rhythm (bonba Dala) WW
+R3 Temur Prowess (Wei_Hao_Huang) WLW
+R4 U-B-R-G Reanimator (家豪 郭) WW
+R5 Temur Otters (Eason271) LWW
+R6 Mono-White ([Chiyou](/en/authors/Chiyou/)) LL
+R7 Bant Omniscience ([Ho Zhi Mao](/en/authors/zhi-mao/)) LL
 
 I won't go into the game-by-game records in this article. If you want to know more, feel free to head [here](https://www.facebook.com/share/p/1HWVTLf24Y/) after reading this one ~~but finish this one first~~.
 
@@ -68,7 +68,7 @@ I also want to praise [ZHAN](/en/authors/ZHAN/) here; through this Championship 
 
 [Llanowar Elves](https://scryfall.com/card/m12/182/zht/%E7%BE%85%E5%A0%B0%E5%A6%96%E7%B2%BE-(llanowar-elves)) x4: Nothing much to say, a regular at tournaments. If the opponent doesn't deal with it right away, get ready to ramp and apply pressure, and if it eats removal, it may indirectly protect late-game creatures ~~but usually I'd still very much like it to live~~.
 
-[Pawpatch Recruit](https://scryfall.com/card/blb/187/pawpatch-recruit) x3: Flexibility is its strength, letting you do something on turns one through three. Both the creature itself and the tokens created by offspring let you put a +1/+1 counter on another creature whenever one of your creatures becomes a target, which is the start of your opponent's decision headaches. Because the metagame has non-interactive builds like [Mono-Green Landfall](https://www.mtggoldfish.com/archetype/standard-mono-green-landfall-woe#paper) and [Simic Rhythm](https://www.mtggoldfish.com/archetype/standard-simic-ouroboroid-woe#paper), I reluctantly dropped to three to avoid too many dead cards in those matchups.
+[Pawpatch Recruit](https://scryfall.com/card/blb/187/pawpatch-recruit) x3: Flexibility is its strength, letting you do something on both one mana and three mana. Both the creature itself and the tokens created by offspring let you put a +1/+1 counter on another creature whenever one of your creatures becomes a target, which is the start of your opponent's decision headaches. Because the metagame has non-interactive builds like [Mono-Green Landfall](https://www.mtggoldfish.com/archetype/standard-mono-green-landfall-woe#paper) and [Simic Rhythm](https://www.mtggoldfish.com/archetype/standard-simic-ouroboroid-woe#paper), I reluctantly dropped to three to avoid too many dead cards in those matchups.
 
 [Mikey & Leo, Chaos & Order](https://scryfall.com/card/tmt/247/mikey-&-leo-chaos-&-order) x2: When I reviewed the new set's previews five days before the event, I found "Huh? Isn't this a creature version of [Hollowmurk Siege](https://scryfall.com/card/tdm/192/hollowmurk-siege) with a narrower range?" It greatly freed up this build in the details. Since this deck needs enough creatures to support our counters, and also a certain amount of removal to trade up, the number of creature and noncreature spells were both so tight that they can hardly be changed. If it weren't a legendary creature, I might consider playing three and then lowering the number of [Hollowmurk Siege](https://scryfall.com/card/tdm/192/hollowmurk-siege).
 
@@ -76,7 +76,7 @@ I also want to praise [ZHAN](/en/authors/ZHAN/) here; through this Championship 
 
 [Twitching Doll](https://scryfall.com/card/dsk/417/twitching-doll) x2: A foolproof card that turns a green base into any color, but its use goes beyond that: have you ever thought about drawing cards while making mana? If not, you can start imagining it now. The second activated ability helps us buy time against the [Mono-White](https://www.mtggoldfish.com/archetype/standard-mono-white-midrange-woe#paper) archetype, and paired with [Ouroboroid](https://scryfall.com/card/eoe/201/ouroboroid) it can leave the opponent completely speechless. Not discovering this pairing in time was a big regret of mine at this Championship; this creature was only added after the Championship.
 
-[Super Shredder](https://scryfall.com/card/tmt/83/super-shredder) x1: The price king of the Ninja Turtles set, with a ceiling that is plain to see; I once turned him into a double-digit-toughness Super Super Shredder at the end of a game. But in a late-game standoff, he can also be a terrible topdeck whose toughness isn't enough to affect the board. By my playing experience, he suits 1, 3, or even 4 copies depending on the deck ~~and since Super Shredder is expensive too, I went with 1~~.
+[Super Shredder](https://scryfall.com/card/tmt/83/super-shredder) x1: The price king of the Ninja Turtles set, with a ceiling that is plain to see; I once turned him into a double-digit-sized Super Super Shredder at the end of a game. But in a late-game standoff, he can also be a terrible topdeck whose size isn't enough to affect the board. By my playing experience, he suits 1, 3, or even 4 copies depending on the deck ~~and since Super Shredder is expensive too, I went with 1~~.
 
 [Deep-Cavern Bat](https://scryfall.com/card/sch/33/deep-cavern-bat) x1: The only creature that doesn't directly interact with the theme, but since I personally wanted a chance to see the opponent's information in game 1, I put it in. Here I compare [Deep-Cavern Bat](https://scryfall.com/card/sch/33/deep-cavern-bat) and [Super Shredder](https://scryfall.com/card/tmt/83/super-shredder), which cost exactly the same: in terms of the board pressure needed to win the match, [Super Shredder](https://scryfall.com/card/tmt/83/super-shredder) clearly has more potential; but on a board where it is likely to eat removal, [Deep-Cavern Bat](https://scryfall.com/card/sch/33/deep-cavern-bat) is better, because it lets us learn the opponent's hand and can even directly disrupt their game plan.
 In a race against the [Mono-White](https://www.mtggoldfish.com/archetype/standard-mono-white-midrange-woe#paper) archetype, [Deep-Cavern Bat](https://scryfall.com/card/sch/33/deep-cavern-bat) is a creature very much worth investing in and protecting.
@@ -136,7 +136,7 @@ The most important detail is that when the opponent puts a stun counter on our c
 
 [Torpor Orb](https://scryfall.com/card/nph/162/zht/%E9%81%B2%E9%88%8D%E6%B3%95%E7%90%83-(torpor-orb)) x2: Used to punish [Dimir Midrange](https://www.mtggoldfish.com/archetype/standard-dimir-midrange-woe#paper), [Dimir Excruciator](https://www.mtggoldfish.com/archetype/standard-dimir-excruciator-woe#paper), [Izzet Spellementals](https://www.mtggoldfish.com/archetype/standard-izzet-spellementals-woe#paper), [Simic Rhythm](https://www.mtggoldfish.com/archetype/standard-simic-ouroboroid-woe#paper) and other decks, I can't be bothered to list them all because creature ETBs in the current metagame are just too crazy. Using it affects the main deck's [Deep-Cavern Bat](https://scryfall.com/card/sch/33/deep-cavern-bat), but I feel there's no need to deliberately take it out; just pay a little attention to sequencing; [Leatherhead, Swamp Stalker](https://scryfall.com/card/tmt/117/leatherhead-swamp-stalker) will still have its hexproof counter when it enters, which is absurd.
 
-[Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) x1: This card shows my playfulness and is one of the few rather greedy choices. It can put +1/+1 counters, hate graveyards, and depending on both graveyards, pull off fancier, more outlandish offense and defense; its ceiling is very high, and its floor is a board with no creature to put +1/+1 counters on. It costs more than [Soul-Guide Lantern](https://scryfall.com/card/thb/237/zht/%E5%B0%8E%E9%9D%88%E6%98%8E%E7%87%88-(soul-guide-lantern)) and can't clear the opponent's graveyard all at once; depending on future metagame changes, I may need to switch to one more [Soul-Guide Lantern](https://scryfall.com/card/thb/237/zht/%E5%B0%8E%E9%9D%88%E6%98%8E%E7%87%88-(soul-guide-lantern)). ~~Only with it can I occasionally make the dull joke that I am 鍋子靖~~.
+[Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) x1: This card shows my playfulness and is one of the few rather greedy choices. It can put +1/+1 counters, hate graveyards, and depending on both graveyards, pull off fancier, more outlandish offense and defense; its ceiling is very high, and its floor is a board with no creature to put +1/+1 counters on. It costs more than [Soul-Guide Lantern](https://scryfall.com/card/thb/237/zht/%E5%B0%8E%E9%9D%88%E6%98%8E%E7%87%88-(soul-guide-lantern)) and can't clear the opponent's graveyard all at once; depending on future metagame changes, I may need to switch to one more [Soul-Guide Lantern](https://scryfall.com/card/thb/237/zht/%E5%B0%8E%E9%9D%88%E6%98%8E%E7%87%88-(soul-guide-lantern)). ~~Only with it can I occasionally make the dull joke that I'm "Cauldron Jing"~~.
 
 [Mai, Scornful Striker](https://scryfall.com/card/tla/109/mai-scornful-striker) x1: Since this deck has the problem of **having to keep a certain number of creature spells**, I try to pick creatures when choosing cards to punish specific opponents. [Mai, Scornful Striker](https://scryfall.com/card/tla/109/mai-scornful-striker) is a very uncomfortable presence for [Izzet Prowess](https://www.mtggoldfish.com/archetype/standard-izzet-prowess-woe#paper), and it really did shine at the Championship.
 

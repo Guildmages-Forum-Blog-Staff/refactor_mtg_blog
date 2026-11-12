@@ -203,7 +203,7 @@ Comment: Seven mana is a bit heavy, but once it lands the opponent can probably 
 <!---31--->
 {% mtgpick "SOS" 31 %}
 Score: 2.5
-Comment: Artifact enchantments aren't the focus of this set, so the bonus from this ability isn't obvious.
+Comment: Artifacts and enchantments aren't the focus of this set, so the bonus from this ability isn't obvious.
 
 
 

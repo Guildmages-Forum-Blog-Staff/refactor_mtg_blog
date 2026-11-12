@@ -9,7 +9,7 @@ authors:
   - "JerobaMTG"
 cover: "https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/d24639744e7b-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/d24639744e7b-cover.jpg"
-excerpt: "My Precious～～～"
+excerpt: "My Precious~~~"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../Standard-Pursuit-the-Precious/).

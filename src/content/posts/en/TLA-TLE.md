@@ -89,7 +89,7 @@ Comment: Magic's strongest self-preservation card. If the opponent all-in attack
 <!---8--->
 {% mtgpick "tle" 8 %}
 Score: 0.5
-Comment: There aren't many reskins in the main set, and it's a high-cost sorcery, so using it isn't recommended.
+Comment: There aren't many Auras in the main set, and it's a high-cost sorcery, so using it isn't recommended.
 
 
 <!---9--->
@@ -190,7 +190,7 @@ Comment: Unless you have some card that nearly wins the game when cast, losing t
 <!---25--->
 {% mtgpick "tle" 25 %}
 Score: 4.5
-Comment: Removal on entering and lifegain, plus trample itself. A quality creature.
+Comment: Removal on entering and lifegain, plus evasion itself. A quality creature.
 
 
 <!---26--->
@@ -316,7 +316,7 @@ Comment: Since both sides draw an extra card and play an extra land, it isn't re
 <!---46--->
 {% mtgpick "tle" 46 %}
 Score: 3.5
-Comment: A card that effectively lets your other creatures trample through.
+Comment: A card that effectively lets your other creatures get through.
 
 
 <!---47--->
@@ -358,7 +358,7 @@ Comment: A creature that snowballs more and more on the board; the later it goes
 <!---53--->
 {% mtgpick "tle" 53 %}
 Score: 4.0
-Comment: A super-high-toughness creature itself. When cast it removes an opponent's threat by turning it into a mana rock, and its graveyard-busting effect lets it hit again and remove another nonland permanent. Quite terrifying.
+Comment: A huge creature itself. When cast it removes an opponent's threat by turning it into a mana rock, and its graveyard-busting effect lets it hit again and remove another nonland permanent. Quite terrifying.
 
 
 <!---54--->

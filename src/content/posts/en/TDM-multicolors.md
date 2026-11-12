@@ -50,7 +50,7 @@ In addition, for readers interested in the five clans of Tarkir and their story 
 
 "Top-down" design means set design led by the setting and flavor. I learned this concept from the official article [Nuts & Bolts #10: Creative Elements](https://magic.wizards.com/zh-Hant/news/making-magic/nuts-bolts-10-creative-elements-2018-03-26). Why do we need to understand top-down design? Because it is the fastest shortcut to understanding the themes and structure of a Limited format! And I think TDM's design this time is quite representative.
 
-From the three-color Spirit Dragons at mythic rare and rare, we can imagine the strongest possible form of each clan in Limited; from the fixing creatures at common and the clan monuments at uncommon, we can see how these basic cards serve each clan to make sure the clan mechanics run smoothly. Running through all of it are the clansfolk living in the Tarkir timeline, their leaders, and the legends of past eras (linking to the story of the 2015 Tarkir trilogy), as well as the Stormborn creatures born from the Dragonstorm.
+From the three-color mythic rare Spirit Dragons, we can imagine the strongest possible form of each clan in Limited; from the fixing creatures at common and the clan monuments at uncommon, we can see how these basic cards serve each clan to make sure the clan mechanics run smoothly. Running through all of it are the clansfolk living in the Tarkir timeline, their leaders, and the legends of past eras (linking to the story of the 2015 Tarkir trilogy), as well as the Stormborn creatures born from the Dragonstorm.
 
 Guildmages' Forum has also put together the following table, hoping it helps readers understand, and feel free to come back and check it whenever you forget!
 
@@ -148,7 +148,7 @@ If the exiled card is an Omen-type answer or a card with hybrid mana, pay specia
 <!---236: Abzan R four-mana creature--->
 {% mtgpick "tdm" 236 %}
 Score: 3.5
-Comment: Getting one for one is very strong, but milling 4 cards sometimes costs you a trick or a high-cost card you want, so when building, pay a bit of attention to the number of creatures at mana value 3 or less versus more, and some graveyard recursion cards.
+Comment: Bringing along a second creature is very strong, but milling 4 cards sometimes costs you a trick or a high-cost card you want, so when building, pay a bit of attention to the number of creatures at mana value 3 or less versus more, and some graveyard recursion cards.
 
 <!---168: Abzan U dragon--->
 {% mtgpick "tdm" 168 %}
@@ -226,7 +226,7 @@ Comment: A Jeskai-specific tool. Even cast for four mana to Stun a threat for th
 <!---195: Jeskai U creature--->
 {% mtgpick "tdm" 195 %}
 Score: 3.0
-Comment: A four-mana 2/4 double-strike prowess creature; think of it as a {% mtglink "Riptide Gearhulk" %} with no enter-the-battlefield effect and one mana cheaper. It still hurts when it connects.
+Comment: A four-mana 2/4 double-strike prowess creature; think of it as a {% mtglink "Riptide Gearhulk" %} with no enter-the-battlefield effect, one mana cheaper, and one less toughness. It still hurts when it connects.
 
 <!---208: Jeskai C hybrid creature--->
 {% mtgpick "tdm" 208 %}
@@ -436,7 +436,7 @@ Comment: Whether you choose Abzan, putting counters on your whole team at end of
 <!---187: Blue-red Siege--->
 {% mtgpick "tdm" 187 %}
 Score: 4.0
-Comment: If you have fliers to slowly poke with, choose Jeskai to grab cards from hand; if you have a pile of creatures that can swarm across, choose Temur. Both options are very strong!
+Comment: If you have fliers to slowly poke with, choose Jeskai to refill your hand; if you have a pile of creatures that can swarm across, choose Temur. Both options are very strong!
 
 <!---192: Black-green Siege--->
 {% mtgpick "tdm" 192 %}
@@ -501,7 +501,7 @@ Comment: Instantly creating two 1/1s, or pumping a creature, are both good; at w
 <!---181: Blue-red Flurry djinn (Jeskai)--->
 {% mtgpick "tdm" 181 %}
 Score: 3.0
-Comment: Slamming it down on turn four on time is already strong enough, and in the late game when Flurry triggers it gives you an even bigger 6/5 vigilance deterrent.
+Comment: Slamming it down on turn four on time is already strong enough, and in the late game when Flurry triggers it gives you an even bigger 6/5 with vigilance and menace.
 
 > An echo: in OTJ Limited there was a play where you cast one {% mtglink "Slick Sequence" %} and, while it's on the stack, add a second one, and when both resolve they each count another spell and draw cards. You can likewise, while this spell is still on the stack, add another instant or flash card, and when it resolves and enters it will come with two +1/+1 counters too! (Whether it's necessary to do this is secondary, but if you want to, you can play it this way XD)
 

@@ -23,7 +23,7 @@ excerpt: "Avengers——Assemble!"
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/54f71817b94a.webp)
 
-With the official arrival of Magic's latest crossover set, "[Marvel Super Heroes](https://scryfall.com/sets/msh?as=grid&order=set)" (MSH), the Hero theme from Standard's Edge of Eternities-era universe has received a large injection of new blood. The set has not only a dazzling array of superheroes but also a dedicated two-mana Saga, **[Origin of the Avengers](https://scryfall.com/card/msh/28/origin-of-the-avengers)**, which encourages players to build a superhero theme. Today we are using this Saga as the core to build an Avengers deck and taste the unique superhero flavor of this Marvel set.
+With the official arrival of Magic's latest crossover set, "[Marvel Super Heroes](https://scryfall.com/sets/msh?as=grid&order=set)" (MSH), the Hero theme of Standard's Universes Beyond sets has received a large injection of new blood. The set has not only a dazzling array of superheroes but also a dedicated two-mana Saga, **[Origin of the Avengers](https://scryfall.com/card/msh/28/origin-of-the-avengers)**, which encourages players to build a superhero theme. Today we are using this Saga as the core to build an Avengers deck and taste the unique superhero flavor of this Marvel set.
 
 ## Deck Analysis
 
@@ -57,7 +57,7 @@ In addition, [Quicksilver, Brash Blur](https://scryfall.com/card/msh/148/quicksi
 ![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/f1a79a4c1901.webp)
 
 
-"[Marvel's Spider-Man](https://scryfall.com/sets/spm?as=grid&order=set)", released ahead of this set last year, naturally has room to shine in this Marvel Hero deck. [Spectacular Spider-Man](https://scryfall.com/card/spm/14/spectacular-spider-man), which comes with flash, provides a one-shot hexproof and indestructible for your whole team to protect against sweepers; [Peter Parker](https://scryfall.com/card/spm/10/peter-parker-amazing-spider-man) comes with a one-for-one on entering, so [Springleaf Drum](https://scryfall.com/card/ecl/260/springleaf-drum) will not be crippled by a single removal spell, while also raising the chapter III payoff of [Origin of the Avengers](https://scryfall.com/card/msh/28/origin-of-the-avengers). The transformed [Amazing Spider-Man](https://scryfall.com/card/spm/10/peter-parker-amazing-spider-man?back) lets you use web-slinging to swing all sorts of Heroes onto the battlefield in their transformed form.
+"[Marvel's Spider-Man](https://scryfall.com/sets/spm?as=grid&order=set)", released ahead of this set last year, naturally has room to shine in this Marvel Hero deck. [Spectacular Spider-Man](https://scryfall.com/card/spm/14/spectacular-spider-man), which comes with flash, provides a one-shot hexproof and indestructible for your whole team to protect against sweepers; [Peter Parker](https://scryfall.com/card/spm/10/peter-parker-amazing-spider-man) brings a second body with it on entering, so [Springleaf Drum](https://scryfall.com/card/ecl/260/springleaf-drum) will not be crippled by a single removal spell, while also raising the chapter III payoff of [Origin of the Avengers](https://scryfall.com/card/msh/28/origin-of-the-avengers). The transformed [Amazing Spider-Man](https://scryfall.com/card/spm/10/peter-parker-amazing-spider-man?back) lets you use web-slinging to swing all sorts of Heroes onto the battlefield in their transformed form.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Origin-of-the-Avengers/1256206b3050.webp)
 

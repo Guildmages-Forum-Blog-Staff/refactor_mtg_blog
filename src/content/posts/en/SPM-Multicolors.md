@@ -42,7 +42,7 @@ Take the white-blue hybrid common {% mtglink "Skyward Spider" %}: it is not much
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Multicolors/a88fbac1032e.webp)
 
-Connive needs a target creature to work. Whether it is {% mtglink "Mob Lookout" %} or {% mtglink "Prowler, Clawed Thief" %}, they can trigger connive once or many times. Beyond pairing with the madness-like Mayhem mechanic of the upcoming black-red pair, the cards you discard to the draw-then-discard, such as {% mtglink "Morbius the Living Vampire" %}, which has extra effects in the graveyard, can be boldly discarded depending on the situation and have their value squeezed out in later turns XD Of course, discarding also speeds up filling the graveyard, so some Villains like {% mtglink "Doc Ock, Sinister Scientist" %} benefit from it as well.
+Connive needs a target creature to work. Whether it is {% mtglink "Mob Lookout" %} or {% mtglink "Prowler, Clawed Thief" %}, they can trigger connive once or many times. The discard from connive's draw-then-discard pairs with the Mayhem mechanic of the black-red pair coming up next, and cards like {% mtglink "Morbius the Living Vampire" %}, which has extra effects in the graveyard, can be boldly discarded depending on the situation and have their value squeezed out in later turns XD Of course, discarding also speeds up filling the graveyard, so some Villains like {% mtglink "Doc Ock, Sinister Scientist" %} benefit from it as well.
 
 
 ### <span style="color:#808080">Black</span><span style="color:#AF2321">Red</span> — Mayhem
@@ -69,7 +69,7 @@ In the green-white pair, the new Web-slinging mechanic is a play style with plen
 - Creatures with the Web-slinging mechanic in hand
 - A Web-slinging cost you can pay
 
-The green-white hybrid {% mtglink "Gallant Citizen" %} draws a card on entering, which is well suited to being returned and reused. However, its body is weak, so it can basically hardly meet the tapped condition by attacking. The uncommon {% mtglink "Spider-Girl, Legacy Hero" %} has trample and puts out a 1/1 token on leaving, making it a more proactive source for Web-slinging. And I especially want to introduce the mythic rare {% mtglink "Silk, Web Weaver" %}, which works extremely well with this mechanic. Web-slinging helps her come out early, and when you return a source and slam it down again it can fill the board, and the five-mana activated ability can turn the board into lethal damage.
+The green-white hybrid {% mtglink "Gallant Citizen" %} draws a card on entering, which is well suited to being returned and reused. However, its body is weak, so it can basically hardly meet the tapped condition by attacking. The uncommon {% mtglink "Spider-Girl, Legacy Hero" %} has evasion and puts out a 1/1 token on leaving, making it a more proactive source for Web-slinging. And I especially want to introduce the mythic rare {% mtglink "Silk, Web Weaver" %}, which works extremely well with this mechanic. Web-slinging helps her come out early, and when you return a source and slam it down again it can fill the board, and the five-mana activated ability can turn the board into lethal damage.
 
 
 ## Rating Scale
@@ -95,7 +95,7 @@ Comment: Conclusion first: a strong card that snowballs resources extremely fast
 <!---124--->
 ![](https://images.guildmagesforum.tw/SPM/124.webp)
 Score: 4.0
-Comment: This is a super card for the white-blue Modified theme. After you equip it, besides +2/+2, damage dealt lets you draw cards depending on how many modified creatures you have. Put it on a creature with trample... and before you know it you will draw yourself out. I mean it, it is really that outrageous.
+Comment: This is a super card for the white-blue Modified theme. After you equip it, besides +2/+2, damage dealt lets you draw cards depending on how many modified creatures you have. Put it on a creature with evasion... and before you know it you will draw yourself out. I mean it, it is really that outrageous.
 
 
 <!---125--->
@@ -107,7 +107,7 @@ Comment: A 4-mana 4/3 trampler that can dig up a creature of mana value 3 or les
 <!---126--->
 ![](https://images.guildmagesforum.tw/SPM/126.webp)
 Score: 3.0
-Comment: This is a very interesting card. Its ability to put +1/+1 counters and add colorless mana equal to the number of counters **happens at the beginning of each player's precombat main phase**!
+Comment: This is a very interesting card. Its ability to put +1/+1 counters and add colorless mana equal to the number of counters **happens at the beginning of each player's first main phase**!
 
 That means when you land it on turn two, on your opponent's turn it puts 1 counter on itself and gets you 1 colorless mana to speed you up. On your turn, of course, you continue the cycle: put a second counter, add 2 colorless, and then it is a 4/4... see whether you want to attack. This card fits perfectly with the Red-Green large-spell theme. However, if your opponent also plays red-green, or can make effective use of that extra mana, then it may be rough for us.
 
@@ -197,7 +197,7 @@ Comment: A 4-mana 3/1 flying vigilance lifelink creature, which basically says i
 <!---138--->
 ![](https://images.guildmagesforum.tw/SPM/138.webp)
 Score: 3.0
-Comment: A quality three-drop beater for the blue-black Villain theme: it hits as a Villain, connives to filter cards, and grows. Too tempting!
+Comment: A quality three-drop beater for the blue-black Villain theme: every Villain you cast lets it connive, filtering cards and growing. Too tempting!
 
 
 <!---139--->
@@ -215,7 +215,7 @@ Comment: A 7-mana 6/7 vigilance, trample, haste creature that triggers card gain
 <!---141--->
 ![](https://images.guildmagesforum.tw/SPM/141.webp)
 Score: 2.5
-Comment: With the red-green pair's stat boosts, fights easily result in favorable trades, and excess damage may also destroy an opponent's noncreature artifact of mana value 3 or less, for 14 targets in total, though {% mtglink "The Soul Stone" %} is indestructible and cannot be destroyed.
+Comment: With the red-green pair's big bodies, fights easily result in favorable trades, and excess damage may also destroy an opponent's noncreature artifact of mana value 3 or less, for 14 targets in total, though {% mtglink "The Soul Stone" %} is indestructible and cannot be destroyed.
 
 But the old problem with fight cards remains: when you see the opponent with mana open and a few cards in hand, it may be better to wait for an opportunity.
 
@@ -282,7 +282,7 @@ Comment: Its strength depends on how early it arrives and whether you have enoug
 <!---152--->
 ![](https://images.guildmagesforum.tw/SPM/152.webp)
 Score: 3.5
-Comment: A little flier plus a lifegain-proof {% mtglink "Authority of the Consuls" %} is quite aggressive! If you play white or blue, take it when you see it!
+Comment: A little flier plus an {% mtglink "Authority of the Consuls" %} without the lifegain is quite aggressive! If you play white or blue, take it when you see it!
 
 
 <!---153--->

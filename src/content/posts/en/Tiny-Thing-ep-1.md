@@ -38,7 +38,7 @@ Generally, we fetch for no more than the following reasons:
 Why are fetchlands so important in Modern? The main reason is thinning.
 As everyone knows, most Modern decks can function with three or four lands, and with plenty of card filtering or mana cheating methods, we actually don't need that many lands most of the time, and drawing a land in the mid to late game is always awkward.
 But fetchlands solve this problem: while fixing colors they also thin the deck, and having two lands in your opening hand (not necessarily fetchlands) is enough.
-A more extreme example is Murktide. Current Murktide builds only run 18 to 19 lands (counting the fetches), because there is plenty of filtering ([Preordain](https://scryfall.com/card/otc/107/preordain) and [Expressive Iteration](https://scryfall.com/card/otc/224/expressive-iteration), two real card-selection spells, plus the surveil from [Dragon's Rage Channeler](https://scryfall.com/card/mh2/121/dragons-rage-channeler) and the free draw from [Mishra's Bauble](https://scryfall.com/card/2xm/274/mishras-bauble)) and [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer), which makes Treasures, and all the spells in the deck cost two mana or less. That means that with just three lands the deck can basically function completely.
+A more extreme example is Murktide. Current Murktide builds only run 18 to 19 lands, because there is plenty of filtering ([Preordain](https://scryfall.com/card/otc/107/preordain) and [Expressive Iteration](https://scryfall.com/card/otc/224/expressive-iteration), two real card-selection spells, plus the surveil from [Dragon's Rage Channeler](https://scryfall.com/card/mh2/121/dragons-rage-channeler) and the free draw from [Mishra's Bauble](https://scryfall.com/card/2xm/274/mishras-bauble)) and [Ragavan, Nimble Pilferer](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer), which makes Treasures, and all the spells in the deck cost two mana or less. That means that with just three lands the deck can basically function completely.
 
 > The reason you need three lands is to leave one mana for extra uses. You can't just hold a [Counterspell](https://scryfall.com/card/cmm/81/counterspell) and be unable to do anything else, right?
 
@@ -90,7 +90,7 @@ If your opponent is a mill deck or a deck like Cabal Coffers that runs Field of 
 In those two matchups, in one your life total doesn't matter and in the other the life pressure isn't on your side, so keeping your nonbasics from getting blown up matters more.
 Or consider whether your opponent has [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) / [Magus of the Moon](https://scryfall.com/card/tsr/175/magus-of-the-moon) / [Harbinger of the Seas](https://scryfall.com/card/mh3/63/harbinger-of-the-seas), and whether you need to fetch a basic land first to avoid being color-screwed.
 
-And in the mid to late game, whether to fetch a Forest or keep it to cycle later when you draw one, and whether you will have enough mana for me to cycle later, are also questions worth thinking about.
+And in the mid to late game, whether to fetch a Triome or keep it to cycle when you draw one later, and whether you will have enough mana to cycle it later, are also questions worth thinking about.
 
 ## When to Fetch
 

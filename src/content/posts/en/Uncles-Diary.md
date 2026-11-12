@@ -107,7 +107,7 @@ Back on the sidewalk, 子安, who hadn't ridden a scooter, was to head to the MR
 "See you again."
 "Yeah."
 
-柏宇 and I walked left together; it seems our scooters were parked in about the same direction. He put on his Bluetooth earphones. I know what 柏宇 is always listening to, because we're that close as card friends.
+柏宇 and I walked left together; it seems our scooters were parked in about the same direction. He put on his Bluetooth earphones. I know 柏宇 always has something playing, because we're that close as card friends.
 
 子安 is a smart person, but there are too many smart people, and being smart isn't the main reason I'm close to him. Under his cool tone is actually considerable passion, and that's the most important trait. Before we formally stepped into competitive play, he had already become reasonably familiar with the fine details of the rules. To me, that stuff is both dull and complicated, and I don't have the time or energy to sort it out piece by piece. Thanks to him often playing the role of teacher, I've been able to keep improving at this game and come this far.
 
@@ -148,7 +148,7 @@ I also really liked today's MITQ match against 子安, naturally because I won a
 "No," 子安 didn't even look at me. "The condition is different."
 I figured my idle chatter hadn't achieved anything, so all that was left was to focus on the match.
 
-Game one: 子安's board lacked quality creatures, with only a few 1/1 Fish tokens made by [Fountainport](https://scryfall.com/card/blb/253/fountainport) standing the whole way through, while my Skeleton were removed one after another by 子安. I held one [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat) tightly in my hand, quietly watching a school of small fish push my life total down to 4. Only then did I finally spend that last [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat), but it was too late, and 子安 broke through.
+Game one: 子安's board lacked quality creatures, with only a few 1/1 Fish tokens made by [Fountainport](https://scryfall.com/card/blb/253/fountainport) standing the whole way through, while my Skeletons were removed one after another by 子安. I held one [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat) tightly in my hand, quietly watching a school of small fish push my life total down to 4. Only then did I finally spend that last [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat), but it was too late, and 子安 broke through.
 
 "I really think this was the best game I've played recently," 子安 said contentedly, looking thrilled.
 
@@ -187,7 +187,7 @@ After claiming our prizes, this time we really broke up and went our separate wa
 
 The night of 11th place was somewhat interesting, but not entirely pleasant.
 
-On the ride home, I thought of the novel *Hibana* (《火花》) by 又吉直樹. Within the framework of competition, losers always outnumber winners, or rather, in the end there's only one winner. If so, what is the point of everyone else's existence?
+On the ride home, I thought of the novel *Hibana* (Spark) by Naoki Matayoshi. Within the framework of competition, losers always outnumber winners, or rather, in the end there's only one winner. If so, what is the point of everyone else's existence?
 
 I think that, beyond the competing and after the competition, northern Taiwan has already proven everything through its present state. The players have indeed built a culture that goes beyond winning and losing, and through more sincere communication, brought everyone together closer to the depths of this game.
 

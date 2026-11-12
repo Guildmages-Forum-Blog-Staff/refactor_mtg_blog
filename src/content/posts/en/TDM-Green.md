@@ -192,7 +192,7 @@ Comment: Even better in decks that work with counters; it is more than just a pr
 <!---160--->
 {% mtgpick "tdm" 160 %}
 Score: 3.0
-Comment: Besides trading one-for-one in combat, its fixing effect works in both black-green color pairs. A common with a high pick order.
+Comment: Besides trading one-for-one in combat, its fixing effect works in both black-green clans (Abzan and Sultai). A common with a high pick order.
 
 
 <!---161--->

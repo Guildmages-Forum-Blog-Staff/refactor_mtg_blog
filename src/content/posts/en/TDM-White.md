@@ -79,7 +79,7 @@ Comment: As a one-mana attacker it is already beyond criticism, but you have to 
 <!---9--->
 {% mtgpick "tdm" 9 %}
 Score: 3.0
-Comment: Mobilize performs especially well on creatures with trample.
+Comment: Mobilize performs especially well on evasive creatures.
 
 
 <!---10--->
@@ -109,7 +109,7 @@ Comment: Three power for two mana is an excellent attacker. It being easy to tra
 <!---14--->
 {% mtgpick "tdm" 14 %}
 Score: 2.5
-Comment: Protection + trample + a permanent size boost, useful on both offense and defense.
+Comment: Protection + evasion + a permanent size boost, useful on both offense and defense.
 
 
 <!---15--->

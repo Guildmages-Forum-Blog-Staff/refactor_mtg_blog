@@ -140,7 +140,7 @@ Suppose you control [Omniscience](https://scryfall.com/card/m19/65/omniscience),
 
 ![Prototype](https://images.guildmagesforum.tw/posts/What-is-Alternative-Cost/09e5126f3166.webp)
 
-Finally, a special case that is very easily misunderstood: although prototype's wording looks at first glance very much like an alternative cost, it is not! Prototype actually changes the characteristics of the spell. A [Phyrexian Fleshgorger](https://scryfall.com/card/bro/121/phyrexian-fleshgorger) cast with its prototype cost cannot be countered by [Disdainful Stroke](https://scryfall.com/card/khm/54/disdainful-stroke), and a kicked [Beseech the Mirror](https://scryfall.com/card/woe/82/beseech-the-mirror) can choose to cast the prototyped Phyrexian Fleshgorger, because the only alternative cost here is Beseech the Mirror's free-cast ability.
+Finally, a special case that is very easily misunderstood: although prototype's wording looks at first glance very much like an alternative cost, it is not! Prototype actually changes the characteristics of the spell. A [Phyrexian Fleshgorger](https://scryfall.com/card/bro/121/phyrexian-fleshgorger) cast with its prototype cost cannot be countered by [Disdainful Stroke](https://scryfall.com/card/khm/54/disdainful-stroke), and a bargained [Beseech the Mirror](https://scryfall.com/card/woe/82/beseech-the-mirror) can choose to cast the prototyped Phyrexian Fleshgorger, because the only alternative cost here is Beseech the Mirror's free-cast ability.
 
 ---
 

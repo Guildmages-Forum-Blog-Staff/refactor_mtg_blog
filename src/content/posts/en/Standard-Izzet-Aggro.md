@@ -21,7 +21,7 @@ excerpt: "After the August bans, Standard got reshuffled. This article breaks do
 
 It all started on August 15.
 
-At the MITQ at ALG, I first lost to Momo, then beat three Dimir-based midrange decks in a row, and then died in the deciding game after misplaying against Izzet Spellementals. Afterward I got to talking with [cephille](https://guildmagesforum.tw/en/authors/cephille/) about sleeving up a deck in My Little Pony sleeves and running the opponent over with a [Colorstorm Stallion](https://scryfall.com/card/sos/180/colorstorm-stallion), and about whether they would be interested in writing an aggro article if I qualified with Izzet aggro at the MITQ.
+At the MITQ at ALG, I first lost to Momo, then beat three Dimir-based midrange decks in a row, and then died in the deciding game after misplaying against Izzet Spellementals. Afterward I got to talking with [cephille](https://guildmagesforum.tw/en/authors/cephille/) about sleeving up a deck in My Little Pony sleeves and running the opponent over with a [Colorstorm Stallion](https://scryfall.com/card/sos/180/colorstorm-stallion), and about whether I would be interested in writing an aggro article if I qualified with Izzet aggro at the MITQ.
 I happily agreed, and then the next week I switched to Jeskai Burn (everything but [Boros Charm](https://scryfall.com/card/fdn/721/boros-charm) is Izzet anyway, right...). Then I lost the deciding game to Esper Ninjas, figured switching decks had wasted the Bless that came with promising to write the article, and quickly switched back. That is how this article came to be.
 
 ## Is There Any Reason to Play Aggro in This Environment?
@@ -68,7 +68,7 @@ Okay, let's do some math. In practice, the land growth looks roughly like this:
 <p style="text-align: center;"><a class="small">23 lands</a></p>
 
 I still recommend 23. You would rather flood than face the situation where you need that land and can't draw it.
-12 Izzet dual lands and 8 to 9 Mountains. There is room for up to 3 transforming lands. Aggro cannot tolerate lands that just sit there, so the only choices are [Great Hall of the Biblioplex](https://scryfall.com/card/sos/257/great-hall-of-the-biblioplex) or [Soulstone Sanctuary](https://scryfall.com/card/fdn/133/soulstone-sanctuary). Each has its merits. I prefer Sanctuary, but it can get stuck with two-color cards in hand.
+12 Izzet dual lands and 8 to 9 Mountains. There is room for up to 3 creature lands. Aggro cannot tolerate tapped lands, so the only choices are [Great Hall of the Biblioplex](https://scryfall.com/card/sos/257/great-hall-of-the-biblioplex) or [Soulstone Sanctuary](https://scryfall.com/card/fdn/133/soulstone-sanctuary). Each has its merits. I prefer Sanctuary, but it can get stuck with two-color cards in hand.
 
 ![Transforming lands](https://images.guildmagesforum.tw/posts/Standard-Izzet-Aggro/3edb105adb69.webp)
 
@@ -93,8 +93,8 @@ And the lizard is a Mercenary too, so [Shoot the Sheriff](https://scryfall.com/c
 <p style="text-align: center;"><a class="small"></a>After all, it shoots the "Sheriff"</p>
 
 Another option, more popular lately, is [Greasewrench Goblin](https://scryfall.com/card/dft/132/greasewrench-goblin). Being able to spend spare lands in the midgame for fresh cards is indeed nice.
-The one that used to be seen more often is [Burnout Bashtronaut](https://scryfall.com/card/dft/115/burnout-bashtronaut). Its innate menace is a headache for opponents who want to block, and with max speed it brings a combo-like effect and grows by itself, so it was favored for a while. But since it needs to build up speed before it does anything, it is very awkward if you draw it in the mid to late game.
-[Fanatical Firebrand](https://scryfall.com/card/fdn/195/fanatical-firebrand) is also a good choice. It has haste so it can deal damage right away, and even after the opponent has built up their creature defenses, you can sacrifice it as a one-mana "deal 1 damage" effect. It is also quite good against mono-green for dealing with [Llanowar Elves](https://scryfall.com/card/fdn/227/llanowar-elves).
+The one that used to be seen more often is [Burnout Bashtronaut](https://scryfall.com/card/dft/115/burnout-bashtronaut). Its innate menace is a headache for opponents who want to block, and with max speed it gains double strike and grows by itself, so it was favored for a while. But since it needs to build up speed before it does anything, it is very awkward if you draw it in the mid to late game.
+[Fanatical Firebrand](https://scryfall.com/card/fdn/195/fanatical-firebrand) is also a good choice. It has haste so it can deal damage right away, and even after the opponent has built up their creature defenses, you can sacrifice it as a one-mana "deal 1 damage" effect. It is also quite good against mono-green for dealing with [mana creatures](https://scryfall.com/card/fdn/227/llanowar-elves).
 The combination I currently recommend is [Hired Claw](https://scryfall.com/card/blb/140/hired-claw) + [Greasewrench Goblin](https://scryfall.com/card/dft/132/greasewrench-goblin); if something stronger comes along in the future, we'll talk then.
 Don't consider [Elusive Otter](https://scryfall.com/card/soc/306/elusive-otter-groves-bounty). There aren't enough spells to make it big, and it is nearly useless on the green side as well.
 
@@ -181,7 +181,7 @@ Another common trap is:
 This hand looks wonderful, and the problem is also obvious: you need to draw a land.
 
 Aggro of course wants to deploy quickly, but the prerequisite is a mana curve that grows normally. A hand like this means you are betting that after playing two one-drops, you draw a land; otherwise you do nothing from then on.
-And there is a fatal problem: this opening hand has a Verge, which can only produce red at this stage. Even if you do draw a land, what if it's a transforming land?
+And there is a fatal problem: this opening hand has a Verge, which can only produce red at this stage. Even if you do draw a land, what if it's a creature land?
 
 There is also a subtle kind:
 
@@ -279,16 +279,16 @@ When, after turns three or four, you start to realize that creature combat can't
 
 **Avoid Running Out of Resources Entirely**
 This is exactly why I stressed holding back the [Greasewrench Goblin](https://scryfall.com/card/dft/132/greasewrench-goblin) earlier: with a Goblin you at least have a chance to draw cards, and being able to draw is moving forward.
-If you already have 6 to 7 lands on the battlefield, extra lands you draw can be held back and kept for when you draw the Goblin to cycle through them, unless they are transforming lands.
+If you already have 6 to 7 lands on the battlefield, extra lands you draw can be held back and kept for when you draw the Goblin to cycle through them, unless they are creature lands.
 
 ## Common Mistakes: Why Do You Lose Games You Could Have Won?
-### 1. Using All Your Burn on Creatures or Face at the Wrong Time
+### 1. Sending All Your Burn to the Face
 This topic is actually quite deep. I once tried to write an article on how "[Lightning Bolt](https://scryfall.com/card/m10/146/lightning-bolt) has different values when the opponent is at 20 life versus 3 life." I found that the content to discuss went far beyond my knowledge, wrote only a few lines, and gave up, and now I can quote all of it:
 
 "*A card's effect is fixed, but a card's value keeps changing with the board. Lightning Bolt is always just a card that deals three damage, but its value is completely different when the opponent has 20 life versus when they have 3.*"
 
 When to go face and when to clear obstacles is the biggest factor separating good aggro players from the rest.
-Here is a simple rule of thumb: anything with lifelink, Llanowar Elves, and anything that affects your attack between turns 1 and 3 should always be dealt with. You can ignore the rest for now.
+Here is a simple rule of thumb: anything with lifelink, mana creatures, and anything that affects your attack between turns 1 and 3 should always be dealt with. You can ignore the rest for now.
 
 ### 2. Overextending
 Playing too many creatures to get in a few more points of damage and getting swept.
@@ -337,7 +337,7 @@ Even in sideboarded games, you should keep the deck's core strategy intact. The 
 ## Matchup Analysis
 ### 1. Mono-Green Landfall
 Much easier to play without [Badgermole Cub](https://scryfall.com/card/tla/167/badgermole-cub). The trick is to finish off the opponent, or get them into burn range, before their [Sapling Nursery](https://scryfall.com/card/ecl/192/sapling-nursery) arrives.
-Dealing with [Llanowar Elves](https://scryfall.com/card/fdn/227/llanowar-elves) slows the opponent down.
+Dealing with [mana creatures](https://scryfall.com/card/fdn/227/llanowar-elves) slows the opponent down.
 
 IN: [Broadside Barrage](https://scryfall.com/card/dft/192/broadside-barrage) or [Sear](https://scryfall.com/card/ecl/154/sear)
 OUT: [Channeled Dragonfire](https://scryfall.com/card/tdm/102/channeled-dragonfire), [Razorkin Needlehead](https://scryfall.com/card/dsk/153/razorkin-needlehead)

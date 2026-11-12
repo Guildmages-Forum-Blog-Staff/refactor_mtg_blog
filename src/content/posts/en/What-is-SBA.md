@@ -21,7 +21,7 @@ SBA can be called MTG's background program: it constantly checks the current gam
 
 SBA is one of the foundations that lets MTG's rules run rigorously, and its descriptions are almost indistinguishable from real programming logic. SBA also affects every format, and many fine details of play can only be executed with an understanding of SBA. A classic case is the difference when [Dauthi Voidwalker](https://scryfall.com/card/mh2/81/dauthi-voidwalker) meets [Lightning Bolt](https://scryfall.com/card/2x2/117/lightning-bolt) versus [Fatal Push](https://scryfall.com/card/2xm/93/fatal-push); a correct understanding of SBA is an unavoidable part of improving your skill.
 
-![封面](https://images.guildmagesforum.tw/posts/What-is-SBA/25039d8ecc51.webp)
+![Cover](https://images.guildmagesforum.tw/posts/What-is-SBA/25039d8ecc51.webp)
 
 ---
 

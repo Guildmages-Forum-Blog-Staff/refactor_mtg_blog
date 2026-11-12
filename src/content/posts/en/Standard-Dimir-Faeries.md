@@ -38,7 +38,7 @@ At first glance it's just a [Midnight Haunting](https://scryfall.com/card/c14/80
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Faeries/b78bfc41b648.webp)
 
 
-Creatures at two mana or less are centered on the Faeries from *[Wilds of Eldraine](https://scryfall.com/sets/woe?as=grid&order=set)*. To steadily improve the reliability of Faerie-linked spells, the one-drop slot is filled with the hard-to-remove [Sleep-Cursed Faerie](https://scryfall.com/card/woe/66/sleep-cursed-faerie), the reusable-after-death [Faerie Dreamthief](https://scryfall.com/card/woe/89/faerie-dreamthief), the [Picklock Prankster](https://scryfall.com/card/woe/64/picklock-prankster-free-the-fae), which can adventure to take a creature or a spell, and the current star card of Dimir midrange, [Faerie Mastermind](https://scryfall.com/card/mom/58/faerie-mastermind).
+Creatures at two mana or less are centered on the Faeries from *[Wilds of Eldraine](https://scryfall.com/sets/woe?as=grid&order=set)*. To steadily improve the reliability of Faerie-linked spells, the one-drop slot is filled with the hard-to-remove [Sleep-Cursed Faerie](https://scryfall.com/card/woe/66/sleep-cursed-faerie), the reusable-after-death [Faerie Dreamthief](https://scryfall.com/card/woe/89/faerie-dreamthief), the [Picklock Prankster](https://scryfall.com/card/woe/64/picklock-prankster-free-the-fae), which can be used as either a creature or an adventure spell, and the current star card of Dimir midrange, [Faerie Mastermind](https://scryfall.com/card/mom/58/faerie-mastermind).
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Faeries/ab96413fb16a.webp)
 ![](https://images.guildmagesforum.tw/posts/Standard-Dimir-Faeries/3cf78bf47bf4.webp)

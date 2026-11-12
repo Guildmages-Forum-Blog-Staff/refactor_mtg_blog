@@ -38,7 +38,7 @@ But for a mythic, [Dark Leo](https://scryfall.com/card/tmt/142/dark-leo-&-shredd
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Orzhov-Sneak/ce5c173b1220.webp)
 
-In principle, this sneak deck's build continues the key concepts of ninjutsu decks: low-cost evasion and an offensive orientation. Having a one-mana evasive creature in your opening hand is crucial. I chose the one-mana flying soldiers with built-in enter-the-battlefield filtering, [Dream Beavers](https://scryfall.com/card/tmt/62/dream-beavers) and [Faerie Dreamthief](https://scryfall.com/card/woe/89/faerie-dreamthief), to adjust your draws and optimize your attack tempo, supported by two [Cecil, Dark Knight](https://scryfall.com/card/fin/91/cecil-dark-knight-cecil-redeemed-paladin), who is good at forcing through damage, forming the one-drop lineup.
+In principle, this sneak deck's build continues the key concepts of ninjutsu decks: low-cost evasion and an offensive orientation. Having a one-mana evasive creature in your opening hand is crucial. I chose the one-mana fliers with built-in enter-the-battlefield filtering, [Dream Beavers](https://scryfall.com/card/tmt/62/dream-beavers) and [Faerie Dreamthief](https://scryfall.com/card/woe/89/faerie-dreamthief), to adjust your draws and optimize your attack tempo, supported by two [Cecil, Dark Knight](https://scryfall.com/card/fin/91/cecil-dark-knight-cecil-redeemed-paladin), who is good at forcing through damage, forming the one-drop lineup.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Orzhov-Sneak/17ad35841c06.webp)
 

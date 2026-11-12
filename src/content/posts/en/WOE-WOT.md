@@ -179,7 +179,7 @@ After the opponent is enchanted with this Curse, whenever they cast an instant o
 
 **Limited Rating: 3.0**
 
-Perfect for adding extra value!
+Perfect fodder for bargain!
 
 ![Intruder Alarm](https://cards.scryfall.io/normal/front/0/c/0c7eafcf-49aa-4134-b2d8-d9804160bcca.jpg?1692948844)
 
@@ -217,7 +217,7 @@ Like the earlier tax-heavy card, you will soon have more cards in hand than your
 
 **Limited Rating: 0.5**
 
-Use it if you need to deal with the opponent's two-color transforming land, or simply want to trigger an enchantment's enters effect without losing card advantage.
+Use it if you need to deal with the opponent's two-color creature land, or simply want to trigger an enchantment's enters effect without losing card advantage.
 
 ![Bitterblossom](https://cards.scryfall.io/normal/front/b/d/bdf9661d-b581-4496-9004-f292d9ac03ef.jpg?1692932415)
 
@@ -373,7 +373,7 @@ In Limited, only creatures that can stand their ground have the capital to trade
 
 **Limited Rating: 4.0**
 
-Use it against decks like red-black Rats that are good at flooding the board. Maintaining it to fetch two big guys that teach the opponent a lesson is explosive.
+Use it against decks like red-black Rats that are good at flooding the board. Having it bring out two big guys at your upkeep to teach the opponent a lesson is explosive.
 
 ![Doubling Season](https://cards.scryfall.io/normal/front/c/7/c7d7db76-0a0c-444f-96f1-559838450549.jpg?1692932801)
 

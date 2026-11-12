@@ -26,7 +26,7 @@ excerpt: "RDW = Red Dragon Wins"
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Red-Dragon-Wins/af48d4b65efe.webp)
 
-To cast Dragons efficiently, acceleration is absolutely necessary. [Carnelian Orb of Dragonkind](https://scryfall.com/card/fdn/534/carnelian-orb-of-dragonkind), reprinted in *[Foundations](https://scryfall.com/sets/fdn?as=grid&order=set)*, is the core of this Dragon deck. Not only is it a three-mana ramp spell that lets you jump from three mana to five, but the mana it produces also gives the Dragon spells you cast haste, so your Dragon can hit the opponent with a wake-up call the turn it enters. The decklist is as follows:
+To cast Dragons efficiently, acceleration is absolutely necessary. [Carnelian Orb of Dragonkind](https://scryfall.com/card/fdn/534/carnelian-orb-of-dragonkind), reprinted in *[Foundations](https://scryfall.com/sets/fdn?as=grid&order=set)*, is the core of this Dragon deck. Not only is it a three-mana ramp artifact that lets you jump from three mana to five, but the mana it produces also gives the Dragon spells you cast haste, so your Dragon can hit the opponent with a wake-up call the turn it enters. The decklist is as follows:
 
 [Decklist](https://www.mtggoldfish.com/deck/6811247#paper)
 ![](https://images.guildmagesforum.tw/posts/Standard-Red-Dragon-Wins/878a3966b448.webp)

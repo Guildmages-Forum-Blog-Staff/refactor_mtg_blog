@@ -58,7 +58,7 @@ Apart from [The Irencrag](https://magicwizards.s3.ap-northeast-1.amazonaws.com/i
 
 **Limited rating: 3.0**
 
-A two-mana Bear fits red-green's mandatory 4-power plan. It discards first and then draws, but it's red after all, so nothing to be done; if you can trigger it reliably, you can swap your hand for something better, but if you can't, you might not need to use it.
+A two-mana Bear fits red-green's signature 4-power plan. It discards first and then draws, but it's red after all, so nothing to be done; if you can trigger it reliably, you can swap your hand for something better, but if you can't, you might not need to use it.
 
 ![Charming Scoundrel](https://images.guildmagesforum.tw/posts/WOE-Red/f1ed58c348c9.webp)
 
@@ -280,7 +280,7 @@ A three-mana 0/4 defender is nothing special, but what if it's a pinger? It fits
 
 **Limited rating: 3.5**
 
-On the Aura side, for five mana you need to deal noncombat damage to the opponent to start drawing cards, but it's quite flexible that you don't have to. The two-mana instant adventure dealing two is still decent, but if your deck doesn't have many other cards that can damage opponents, it's just a two-mana deal-two. By the way, the [Unruly Catapult](https://images.guildmagesforum.tw/posts/WOE-Red/12547d236bc4.webp) I just covered together with the Enchantment side can get a 5.0.
+On the Enchantment side, for five mana you need to deal noncombat damage to the opponent to start drawing cards, but it's quite flexible that you don't have to. The two-mana instant adventure dealing two is still decent, but if your deck doesn't have many other cards that can damage opponents, it's just a two-mana deal-two. By the way, the [Unruly Catapult](https://images.guildmagesforum.tw/posts/WOE-Red/12547d236bc4.webp) I just covered together with the Enchantment side can get a 5.0.
 
 ![Witch's Mark](https://images.guildmagesforum.tw/posts/WOE-Red/33217a2c32ca.webp)
 

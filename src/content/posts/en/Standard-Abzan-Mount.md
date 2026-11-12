@@ -17,7 +17,7 @@ authors:
 
 ## Before we start
 
-While the New Phyrexian army invaded the multiverse, a brave and fearless soldier wielding an angel-blessed lance, riding the most fearsome [The Gitrog Monster](https://scryfall.com/card/soi/245/the-gitrog-monster), charged among the mechanical army of Elesh Norn invading the Innistrad timeline, fighting for Innistrad's inhabitants! Even though her homeland had already been destroyed in the chaos of Eldritch Moon, with the Eldrazi and horrors running rampant, she still walked on steadfastly with her beliefs. She is our eternal [Thalia, Guardian of Thraben](https://scryfall.com/card/dka/24/thalia-guardian-of-thraben).
+While the New Phyrexian army invaded the multiverse, a brave and fearless soldier wielding an angel-blessed lance, riding the most fearsome [The Gitrog Monster](https://scryfall.com/card/soi/245/the-gitrog-monster), charged among the mechanical army of Elesh Norn invading the plane of Innistrad, fighting for Innistrad's inhabitants! Even though her homeland had already been destroyed in the chaos of Eldritch Moon, with the Eldrazi and horrors running rampant, she still walked on steadfastly with her beliefs. She is our eternal [Thalia, Guardian of Thraben](https://scryfall.com/card/dka/24/thalia-guardian-of-thraben).
 
 After the war, [Thalia and the Gitrog Monster](https://scryfall.com/card/mom/255/thalia-and-the-gitrog-monster) both vanished from Innistrad, whereabouts unknown...
 
@@ -30,7 +30,7 @@ After the war, [Thalia and the Gitrog Monster](https://scryfall.com/card/mom/255
 
 ### Gitrog Monster, Gitrog Monster, Number One!
 
-[The Gitrog, Ravenous Ride](https://scryfall.com/card/otj/206/the-gitrog-ravenous-ride) is without doubt the most powerful Mount in the Outlaws of Thunder Junction series. If you can cast it by ramping, it will be a huge nightmare for the opponent! And the turn-2 [Intrepid Stablemaster](https://scryfall.com/card/otj/169/intrepid-stablemaster) gives you a chance to land the Gitrog on turn three! Flashing in a 6/5 trampler on turn three is a nightmare for nearly every midrange deck ~~(OK, if the opponent has a [Glissa Sunslayer](https://scryfall.com/card/one/202/glissa-sunslayer) still standing, pretend I didn't say anything)~~.
+[The Gitrog, Ravenous Ride](https://scryfall.com/card/otj/206/the-gitrog-ravenous-ride) is without doubt the most powerful Mount in Outlaws of Thunder Junction. If you can cast it by ramping, it will be a huge nightmare for the opponent! And the turn-2 [Intrepid Stablemaster](https://scryfall.com/card/otj/169/intrepid-stablemaster) gives you a chance to land the Gitrog on turn three! Attacking right away with a 6/5 trampler on turn three is a nightmare for nearly every midrange deck ~~(OK, if the opponent has a [Glissa Sunslayer](https://scryfall.com/card/one/202/glissa-sunslayer) still standing, pretend I didn't say anything)~~.
 
 ### Other Mounts and Core Components
 
@@ -46,8 +46,8 @@ Now let's talk about the other Mounts used in the deck. Of course, because the G
 Now to the deck's core members. These three are important cards that must be played as full four-ofs in a Mounts build:
 
 - [Miriam, Herd Whisperer](https://scryfall.com/card/otj/221/miriam-herd-whisperer) is the core of the core. After she enters, your Mounts and Vehicles have hexproof during your turn, and they keep growing after attacking!
-- [Intrepid Stablemaster](https://scryfall.com/card/otj/169/intrepid-stablemaster), besides giving the deck a ceiling of the Gitrog on turn three, is itself a very good source of mana jumps for Mounts. After he comes down on turn two, even without the Gitrog you have a chance to cast two Mounts in a row to take over the board. He's an indispensable accelerant.
-- [Wylie Duke, Atiin Hero](https://scryfall.com/card/otj/239/wylie-duke-atiin-hero), a three-mana 4/2 with vigilance, looks ordinary, but he's an important way to earn resources in the deck. If you use him to crew the Gitrog, you can sacrifice it after combat, and including his own tapping, you draw five and gain five in total!
+- [Intrepid Stablemaster](https://scryfall.com/card/otj/169/intrepid-stablemaster), besides giving the deck a ceiling of the Gitrog on turn three, is itself a very good ramp source for Mounts. After he comes down on turn two, even without the Gitrog you have a chance to cast two Mounts in a row to take over the board. He's an indispensable accelerant.
+- [Wylie Duke, Atiin Hero](https://scryfall.com/card/otj/239/wylie-duke-atiin-hero), a three-mana 4/2 with vigilance, looks ordinary, but he's an important way to earn resources in the deck. If you use him to crew the Gitrog, you can sacrifice him after combat, and including his own tapping, you draw five and gain five in total!
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Abzan-Mount/c66b31a45749.webp)
 

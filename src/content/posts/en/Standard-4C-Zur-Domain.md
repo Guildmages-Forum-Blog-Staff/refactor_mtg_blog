@@ -15,7 +15,7 @@ excerpt: "Do you hit as hard as my Overlord? Do you draw as much as my beanstalk
 
 ## Introduction
 
-Hello everyone~ I'm Clark Shih (施兆恩), aka Wild Knight (荒野騎士). I originally meant to start writing this two or three months ago, but I held off because I didn't want to reveal my strategy before the tournament, and a new set was coming out soon too. But now the tournament is over, and [my Taiwanese teammate has qualified for the Pro Tour](https://guildmagesforum.tw/en/MIT-9-Review-sertyple/), so there's no reason not to write it, right?
+Hello everyone~ I'm Clark Shih, aka Wild Knight. I originally meant to start writing this two or three months ago, but I held off because I didn't want to reveal my strategy before the tournament, and a new set was coming out soon too. But now the tournament is over, and [my Taiwanese teammate has qualified for the Pro Tour](https://guildmagesforum.tw/en/MIT-9-Review-sertyple/), so there's no reason not to write it, right?
 
 ## Deck Introduction
 
@@ -215,7 +215,7 @@ However, in most cases things won't go so smoothly. The opponent also has enough
 5. Sometimes [Ride's End](https://scryfall.com/card/dft/25/rides-end) is better used on your own turn, especially when the opponent is already out of mana.
 
 ## About PT FINAL FANTASY
-At the world's most competitive team, ChannelFireball, several members (Edgar Magalhaes, Reid Duke, Seth Manfield, and Gabriel Nassif) also played Zur Domain at PT FINAL FANTASY.
+Several members of ChannelFireball, the world's most competitive team (Edgar Magalhaes, Reid Duke, Seth Manfield, and Gabriel Nassif), also played Zur Domain at PT FINAL FANTASY.
 Here is their decklist:
 ![](https://images.guildmagesforum.tw/posts/Standard-4C-Zur-Domain/64de63fc78df.webp)
 

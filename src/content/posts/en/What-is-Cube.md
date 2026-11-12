@@ -79,9 +79,9 @@ The CUBE used was a 180-card Near Standard Peasant CUBE, 4 colors, with six them
 * Black-Blue: Threshold control
 * Black-Red: Sacrifice aggro
 * Black-Green: Food, graveyard use
-* Blue-Red: Artifact synergy
+* Blue-Red: Affinity for artifacts
 * Blue-Green: Collect evidence, manifest
-* Red-Green: Frenzy
+* Red-Green: Delirium
 
 [CubeCobra link](https://cubecobra.com/cube/overview/be86ed58-8f80-4e47-b63e-b0139faca829)
 
@@ -114,7 +114,7 @@ This was also my first four-person paper draft, and being able to draft and tras
 ## Building a CUBE — How to Make Your First CUBE
 
 Linus Torvalds once said:
-> Talk is cheap， show me the code.
+> Talk is cheap, show me the code.
 
 By now readers can't help but ask, where is the CUBE? How do I make my first one?
 
@@ -224,7 +224,7 @@ Deathtouch
 Raid - When this creature enters, if you attacked this turn, look at the top three cards of your library. You may put one of them back on top of your library. Put the rest into your graveyard.
 
 - For black-blue, it can fill the graveyard and provide blocking,
-- For black-red, you can attack the opponent with menace, trample, or multiple attackers, then play this card to get the Raid payoff.
+- For black-red, you can get through with menace, or attack the opponent with multiple creatures, then play this card to get the Raid payoff.
 - For black-green, after this creature causes casualties, it can enable Raid again, or Morbid.
 
 The benefit of doing this is that the three players on black themes will all have some interest in this card, and fighting over valuable cards in pick order is also part of the fun of drafting.
@@ -285,7 +285,7 @@ The direction is small creatures and tokens, and I also added MKM's {% mtglink "
 I added {% mtglink "Phyrexian Warhorse" %} to give black-white some menace; {% mtglink "High Fae Negotiator" %} and {% mtglink "Wick's Patrol" %} serve as finishers for blue-black.
    - Red:
 ![cube_red_part](https://images.guildmagesforum.tw/posts/What-is-Cube/f908cad4088a.webp)
-I added quite a few 2-for-1 bodies: {% mtglink "Chimney Rabble" %} , {% mtglink "Edgewall Pack" %} , {% mtglink "Prickly Pair" %} .
+I added quite a few cards that bring two bodies: {% mtglink "Chimney Rabble" %} , {% mtglink "Edgewall Pack" %} , {% mtglink "Prickly Pair" %} .
    - Green:
 ![cube_green_part](https://images.guildmagesforum.tw/posts/What-is-Cube/b08906bae0a7.webp)
 I added SNC's gem {% mtglink "Jewel Thief" %}, and {% mtglink "A Killer Among Us" %}, a minigame I love in Limited. For green I built toward a board-advantage-heavy direction.

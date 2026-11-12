@@ -1,5 +1,5 @@
 ---
-title: "Pignose's Wilds of Eldraine (WOE) Limited First Look — Mechanics"
+title: "cephille's Wilds of Eldraine (WOE) Limited First Look — Mechanics"
 date: 2023-08-29 16:40:06
 categories:
   - "Limited"
@@ -31,7 +31,7 @@ authors:
 Role tokens are all enchantments with the Aura subtype. The enchanted creature receives the corresponding bonus or penalty, and some Role tokens also trigger an additional effect when they leave the battlefield. If the permanent the token is about to enchant already has another Role **you control**, the existing Role is put into the graveyard. The 6 Role tokens that appear in WOE are as follows:
 
 - **Cursed Role**: The enchanted creature is 1/1.
-  > > 6 cards in total, appearing in the white-blue-black color pairs.
+  > > 6 cards in total, appearing in white, blue, and black.
   > > Note that you cannot cover a Cursed Role token that the opponent attached to your creature first with another Role token of your own.
 
 ![Cursed Courtier](https://images.guildmagesforum.tw/posts/WOE-mechanism/a84943f1c38c.webp)

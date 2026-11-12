@@ -22,7 +22,7 @@ The FIN set made a major change to the Saga rules. The new rules change how a Sa
 
 ## Introduction
 
-If you ask which card in recent sets got judges the most rules questions, I think it has to be [Urza's Saga](https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3). It is not only the first enchantment land in history but also an unprecedented (and perhaps never to be repeated) Saga land, which makes its rules Q&A exceptionally interesting.
+If you ask which card in Modern Horizons 2 got judges the most rules questions, I think it has to be [Urza's Saga](https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3). It is not only the first enchantment land in history but also an unprecedented (and perhaps never to be repeated) Saga land, which makes its rules Q&A exceptionally interesting.
 
 The most common question is how its interactions with cards like [Blood Moon](https://scryfall.com/card/2xm/118/blood-moon) and [Spreading Seas](https://scryfall.com/card/zen/70/spreading-seas) cause [Urza's Saga](https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3) to blow itself up, so today let's talk about some rules topics regarding Sagas.
 

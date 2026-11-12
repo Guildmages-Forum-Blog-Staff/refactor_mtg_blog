@@ -117,7 +117,7 @@ Tarkir: Dragonstorm's Prerelease sealed events begin on April 4, 2025, so head t
 March 28 - Full card reveal
 April 4 to April 10 - Tarkir: Dragonstorm Prerelease
 April 11 - Tarkir: Dragonstorm release day
-April 4 to June 5 - Standard matches
+April 4 to June 5 - Standard Showdown
 April 4 to June 5 - Magic Academy
 April 11 to April 17 - Commander Celebration
 April 18 to May 4 - Magic Presents: Spring Flourishes

@@ -34,9 +34,9 @@ As for [Ninja creature cards, there are 42 in TMT](https://scryfall.com/search?a
 
 Let's start with the three two-color uncommon signposts on the far right of the image above. Both White-Black cards have a Sneak cost. If the Ninja creature {% mtglink "Karai, Future of the Foot" %} is cast for its Sneak cost, the effect that triggers when she later deals combat damage gets stronger. The other one, {% mtglink "Koya, Death from Above" %}, exiles a creature as soon as it enters, and at end of turn lets you choose whether to pay {three}{<span style="color:#808080">B</span>} to exile that creature permanently. You can treat it as a plain {% mtglink "Turn to Mist" %}, or pay 7 mana in total to eliminate the threat for good!
 
-> Like {% mtglink "Koya, Death from Above" %}, each single-color creature set in TMT has one card whose rules text uses an activated or triggered ability of another color. They also serve Limited as signpost uncommons.
+> Like {% mtglink "Koya, Death from Above" %}, each color in TMT has one mono-colored creature whose rules text uses an activated or triggered ability of another color. They also serve Limited as signpost uncommons.
 
-As for the two cards on the far left, {% mtglink "Leonardo, Cutting Edge" %}, as a red-uncommon {% mtglink "Ajani's Pridemate" "war" %}, naturally has to be a bit stronger. Besides coming with lifelink, if you Sneak him in and grab the signature gear {% mtglink "Quintessential Katana" %} that is lying in wait on the battlefield, after combat damage resolves you get a 4/4 lifelink Turtle that can block!
+As for the two cards on the far left, {% mtglink "Leonardo, Cutting Edge" %}, as a rare version of {% mtglink "Ajani's Pridemate" "war" %}, naturally has to be a bit stronger. Besides coming with lifelink, if you Sneak him in and grab the signature gear {% mtglink "Quintessential Katana" %} that is lying in wait on the battlefield, after combat damage resolves you get a 4/4 lifelink Turtle that can block!
 
 ![](https://images.guildmagesforum.tw/posts/TMT-Limited-Preliminary/a224758afcda.webp)
 

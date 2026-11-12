@@ -95,7 +95,7 @@ Comment: You can expect to gain 1 to 2 extra cards each turn, even more if you f
 
 {% mtgpick "SOS" 121 %}
 Rating: 2.5
-Comment: A two-mana 2/2 is no problem, but the other effect isn't very tempting either, a bit of a chicken rib.
+Comment: A two-mana 2/2 is no problem, but the other effect isn't very tempting either, so it's a bit meh.
 
 {% mtgpick "SOS" 122 %}
 Rating: 2.5

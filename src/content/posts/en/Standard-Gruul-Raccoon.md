@@ -25,7 +25,7 @@ As usual, let's first look at the legend:
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Gruul-Raccoon/245bb1107116.webp)
 >Muerra, Trash Tactician
->Legendary Creature ～ Raccoon Warrior
+>Legendary Creature — Raccoon Warrior
 >At the beginning of your first main phase, add {R} or {G} for each Raccoon you control.
 >Whenever you expend 4, you gain 3 life. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
 >Whenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
@@ -69,4 +69,4 @@ This match against red-white token control was not smooth sailing all the way li
 
 ## Conclusion
 
-In some ways, the design of raccoons looks a lot like Faeries snowballing: they ramp mana to build up a big play and trigger expend to deal a head-on blow to the opponent, and the weakness to sweepers is similar. But raccoons have a certain amount of combat power themselves, so after a sweeper, with the help of lands and burn, there is still some room to struggle. The new set *Duskmourn: House of Horror* is about to be released, so please look forward to new Standard articles.
+In some ways, the design of raccoons looks a lot like Elves snowballing: they ramp mana to build up a big play and trigger expend to deal a head-on blow to the opponent, and the weakness to sweepers is similar. But raccoons have a certain amount of combat power themselves, so after a sweeper, with the help of lands and burn, there is still some room to struggle. The new set *Duskmourn: House of Horror* is about to be released, so please look forward to new Standard articles.

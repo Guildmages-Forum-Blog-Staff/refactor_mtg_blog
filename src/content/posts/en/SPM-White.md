@@ -179,4 +179,4 @@ Comment: With great power comes great responsibility. This is an Aura that can b
 
 ## Conclusion
 
-White this time does not have many especially outstanding cards, but every card performs steadily. Also, among the multicolor cards there are many cards that fix mana, such as [Gallant Citizen](https://scryfall.com/card/spm/129/gallant-citizen), [Mary Jane Watson](https://scryfall.com/card/spm/134/mary-jane-watson), and [Spider-Woman, Stunning Savior](https://scryfall.com/card/spm/152/spider-woman-stunning-savior), all quite worth putting in your deck, suiting players who like to build an advantage step by step and play it safe.
+White this time does not have many especially outstanding cards, but every card performs steadily. Also, among the multicolor cards there are many hybrid-mana cards, such as [Gallant Citizen](https://scryfall.com/card/spm/129/gallant-citizen), [Mary Jane Watson](https://scryfall.com/card/spm/134/mary-jane-watson), and [Spider-Woman, Stunning Savior](https://scryfall.com/card/spm/152/spider-woman-stunning-savior), all quite worth putting in your deck, suiting players who like to build an advantage step by step and play it safe.

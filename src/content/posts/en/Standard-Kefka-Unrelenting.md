@@ -35,7 +35,7 @@ First, let's analyze the card itself. [**Kefka, Court Mage**](https://scryfall.c
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Kefka-Unrelenting/88eb6190f27f.webp)
 
-[**Rewrite Regrets**](https://scryfall.com/card/fra/62/rewrite-regrets): A new four-mana reanimation spell from *[Reality Fracture](https://scryfall.com/sets/fra?as=grid&order=set)*. Although the reanimation target has a mana value cap of six, it can bring back planeswalkers and also gives you surveil 2 for filtering, which is just right for digging up [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin).
+[**Rewrite Regrets**](https://scryfall.com/card/fra/62/rewrite-regrets): A new four-mana reanimation spell from *[Reality Fracture](https://scryfall.com/sets/fra?as=grid&order=set)*. Although the reanimation target has a mana value cap of six, it can bring back planeswalkers and also empowers Jace 2 for filtering, which is just right for digging up [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin).
 
 [**Ajani Unrelenting**](https://scryfall.com/card/fra/242/ajani-unrelenting): The other target for [Rewrite Regrets](https://scryfall.com/card/fra/62/rewrite-regrets), a powerful finisher that combines sweeping, board development, and card draw. The +1 gives your whole team haste so [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin) can attack right away, and the -3 deals 4 damage to sweep the board while just barely not killing [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin). [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin)'s hand disruption also has a chance of discarding your opponent's answers, helping you win quickly.
 
@@ -47,11 +47,11 @@ First, let's analyze the card itself. [**Kefka, Court Mage**](https://scryfall.c
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Kefka-Unrelenting/1062586f761d.webp)
 
-[**Theorist's Proxy**](https://scryfall.com/card/fra/44/theorists-proxy): An early blocker with built-in flash. Its enter-the-battlefield surveil 3 is just enough to draw you a card, so you don't lose card advantage, and sacrificing it can also protect your next spell from being countered, making it a great tool against control decks.
+[**Theorist's Proxy**](https://scryfall.com/card/fra/44/theorists-proxy): An early blocker with built-in flash. Its enter-the-battlefield empower Jace 3 is just enough to draw you a card, so you don't lose card advantage, and sacrificing it can also protect your next spell from being countered, making it a great tool against control decks.
 
 [**Chandra, Torch of Defiance**](https://scryfall.com/card/fra/244/chandra-torch-of-defiance): An all-around reliable old red friend. The -3 removal eases pressure on your board, the +1 ramp helps you hold up mana for a big play, and she is a finisher herself. With [Ashling](https://scryfall.com/card/ecl/124/ashling-rekindled-ashling-rimebound) you can land her on turn three, which suits her as a mainstay of this deck's curve.
 
-[**Way of the Pyromancer**](https://scryfall.com/card/fra/254/way-of-the-pyromancer): A ramp engine that goes from two to four. Its enter-the-battlefield surveil 2 can be used for filtering, and if the top card of your library is a reanimation target, you can surveil it into the graveyard on turn two and follow up with [Rewrite Regrets](https://scryfall.com/card/fra/62/rewrite-regrets) on turn three to bring it back.
+[**Way of the Pyromancer**](https://scryfall.com/card/fra/254/way-of-the-pyromancer): A ramp engine that goes from two to four. Its enter-the-battlefield empower Jace 2 can be used for filtering, and if the top card of your library is a reanimation target, you can surveil it into the graveyard on turn two and follow up with [Rewrite Regrets](https://scryfall.com/card/fra/62/rewrite-regrets) on turn three to bring it back.
 
 * **Removal and support: Burst Lightning, No Admittance, Vraska's Final Mercy, Sanctum Lurker**
 
@@ -59,11 +59,11 @@ First, let's analyze the card itself. [**Kefka, Court Mage**](https://scryfall.c
 
 [**Burst Lightning**](https://scryfall.com/card/fdn/192/burst-lightning): My favorite red one-mana removal, with the biggest upside being that it never becomes a dead card, and once kicked it has a chance to finish the game.
 
-[**No Admittance**](https://scryfall.com/card/fra/89/no-admittance): A [Volcanic Hammer](https://scryfall.com/card/9ed/226/volcanic-hammer) with surveil 1 attached, which you can fire at your opponent's face when you have nothing better to do while surveilling to filter. But it is, after all, a sorcery with limited range, so if you dislike it, feel free to swap it out (for example, [Bitter Triumph](https://scryfall.com/card/tdc/173/bitter-triumph), which is better suited to reanimation).
+[**No Admittance**](https://scryfall.com/card/fra/89/no-admittance): A [Volcanic Hammer](https://scryfall.com/card/9ed/226/volcanic-hammer) with empower Jace 1 attached, which you can fire at your opponent's face when you have nothing better to do while filtering. But it is, after all, a sorcery with limited range, so if you dislike it, feel free to swap it out (for example, [Bitter Triumph](https://scryfall.com/card/tdc/173/bitter-triumph), which is better suited to reanimation).
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Kefka-Unrelenting/fa8600c925a2.webp)
 
-[**Vraska's Final Mercy**](https://scryfall.com/card/fra/71/vraskas-final-mercy): At its core, a sorcery-speed removal version of [Sign in Blood](https://scryfall.com/card/dsc/156/sign-in-blood). In most situations you use it to surveil 6 and draw two, and only occasionally as removal. Because of the life-loss side effect, I only run two.
+[**Vraska's Final Mercy**](https://scryfall.com/card/fra/71/vraskas-final-mercy): At its core, a sorcery-speed removal version of [Sign in Blood](https://scryfall.com/card/dsc/156/sign-in-blood). In most situations you use it to empower Jace 6 and draw two, and only occasionally as removal. Because of the life-loss side effect, I only run two.
 
 [**Sanctum Lurker**](https://scryfall.com/card/fra/64/sanctum-lurker): A support creature for the planeswalker theme that protects your planeswalkers from being killed by damage, and also gives +2 and lifelink to speed your planeswalkers toward their ultimates. With burn support it has a chance of finishing your opponent outright.
 

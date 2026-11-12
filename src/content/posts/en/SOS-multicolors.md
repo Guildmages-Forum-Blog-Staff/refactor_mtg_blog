@@ -251,7 +251,7 @@ Comment: It makes a Pest on entering, and when your creatures die you draw cards
 <!---188--->
 {% mtgpick "sos" 188 %}
 Score: 2.5
-Comment: Completely useless early, but in the mid-to-late game with X >= 4 it can bring an advantage the opponent can't reverse in one shot, provided your life total is high enough to pay for it. The synergy with white-black Repartee aggro is also a bit awkward, so I docked some points.
+Comment: Completely useless early, but in the mid-to-late game, with X >= 4, a single cast can bring an advantage the opponent can't reverse, provided your life total is high enough to pay for it. The synergy with white-black Repartee aggro is also a bit awkward, so I docked some points.
 
 <!---189--->
 {% mtgpick "sos" 189 %}
@@ -501,7 +501,7 @@ Comment: Silverquill Charm. Short and sweet; all three options are good.
 <!---226--->
 {% mtgpick "sos" 226 %}
 Score: 4.5
-Comment: A 4-mana 4/4 vigilance dragon, which should have been the ruler of the skies at the time it appears; every instant/sorcery has Casualty 1, which is a bit subtle, since white-black isn't that good at making tokens this time, but if paired with some creature cards that can return from the graveyard, this ability becomes quite competitive. Conversely, if every Casualty costs you an actual creature card, the performance it can deliver is much more limited.
+Comment: A 4-mana 4/4 vigilance dragon, which should rule the skies when it lands; every instant/sorcery has Casualty 1, which is a bit subtle, since white-black isn't that good at making tokens this time, but if paired with some creature cards that can return from the graveyard, this ability becomes quite competitive. Conversely, if every Casualty costs you an actual creature card, the performance it can deliver is much more limited.
 
 
 <!---227--->
@@ -590,7 +590,7 @@ Comment: A stable Infusion (life gain) activator; basically it just attacks reck
 <!---239--->
 {% mtgpick "sos" 239 %}
 Score: 3.5
-Comment: Not very efficient as removal, but viewed as a two-mana instant rummage-draw-two-discard-one that can optionally pay extra to increase damage, it's strong enough.
+Comment: Not very efficient as removal, but viewed as a two-mana instant draw-two-discard-one that can optionally pay extra to increase damage, it's strong enough.
 
 
 <!---240--->
@@ -622,7 +622,7 @@ Comment: A 4-mana instant that deals 5 and exiles is already playable, and paire
 <!---244--->
 {% mtgpick "sos" 244 %}
 Score: 3.0
-Comment: Witherbloom Charm, which should have the best quality of three options among the five Charms:
+Comment: Witherbloom Charm, which probably has the strongest set of three options among the five Charms:
 
 1. You can proactively sacrifice excess lands or unusable permanents to draw two cards (two for two), or in response to the opponent's removal sacrifice the targeted permanent (two for three).
 2. Gaining 5 life looks ordinary at first, but that much life is almost a full turn of offense and defense, so you can treat it as a one-shot {% mtglink "Fog" %}. Life gain is also exactly this black-green archetype's theme, so there are plenty of chances for extra benefits.

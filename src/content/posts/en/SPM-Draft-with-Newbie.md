@@ -14,11 +14,11 @@ categories:
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../SPM-Draft-with-Newbie/).
 
-## 魔風集會所 Is Hosting an Event Again?
+## Guildmages Forum Is Hosting an Event Again?
 
 Yes, you read that right, and it really is this good! It's time again to read an article and play an in-person draft at the same time~
 
-First, we'd like to share some good news with you. Huge thanks to [睿卡潮玩](https://www.facebook.com/963Ruika) for their wholehearted support of limited play in Taiwan. They have teamed up with 魔風集會所 many times this year, letting newer players taste everything draft has to offer ~~cracking packs, picking cards, and chatting nonsense~~.
+First, we'd like to share some good news with you. Huge thanks to [睿卡潮玩](https://www.facebook.com/963Ruika) for their wholehearted support of limited play in Taiwan. They have teamed up with Guildmages Forum many times this year, letting newer players taste everything draft has to offer ~~cracking packs, picking cards, and chatting nonsense~~.
 
 We plan to keep running newbie-reader draft events for *Avatar: The Last Airbender*. If you'd like to take part, send a message to our fan page and leave your contact info. When the details are settled at the end of the year, we will contact and invite people in order of sign-up.
 
@@ -26,7 +26,7 @@ With the good news out of the way, let's get back to Marvel's Spider-Man. For me
 
 It turns out I was wrong, XD. At Pro Tour - Edge of Eternities on 9/26-9/28 this year, even though the constructed portion of that event was Modern, plenty of key Marvel's Spider-Man cards still showed up, which says a lot about the potential and value of the set.
 
-Since the experts ~~roasted us~~ helped us find the constructed place for SPM's individual cards, we naturally looked forward to this draft even more, hehe. Sure enough, the gathering held at [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) on 9/28 was fantastic. For some reason I ended up with eight red cards (and I really did pick them on purpose, see the player feedback at the end of the article), and the deck felt amazingly well-balanced. The little pieces of cardboard were beautiful and powerful as ever, and veterans and newbies alike went home with their hearts, minds and bodies full.
+Since the experts ~~roasted us~~ helped us find the constructed place for SPM's individual cards, we naturally looked forward to this draft even more, hehe. Sure enough, the gathering held at [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) on 9/28 was fantastic. For some reason I ended up with eight rares (and I really did pick them on purpose, see the player feedback at the end of the article), and the deck felt amazingly well-balanced. The little pieces of cardboard were beautiful and powerful as ever, and veterans and newbies alike went home with their hearts, minds and bodies full.
 
 
 
@@ -36,11 +36,11 @@ Since this article is promotional, please allow us to briefly introduce "draft" 
 
 Straight to the point: Magic: The Gathering draft is **insanely fun**. You get to crack packs, pick cards from them, snag the good stuff nobody else took (usually because they aren't playing that color this time and reluctantly pass it to you), build a deck, play matches, take home souvenirs provided by the store, and relax and trash-talk with a few friends. Or you can play seriously, so seriously that you can carry on to the Pro Tour.
 
-This year, Wizards is promoting **Pick-Two Draft**, which simply means you take two cards per pick instead of one. 魔風集會所 may try it at the next event, and we'll share our experience and how the signals differ for you then, so stay tuned.
+This year, Wizards is promoting **Pick-Two Draft**, which simply means you take two cards per pick instead of one. Guildmages Forum may try it at the next event, and we'll share our experience and how the signals differ for you then, so stay tuned.
 
 ## The Event Begins
 
-Sunday, September 28, 2025. Once again, thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for generously providing the venue. Before the tournament started, the 魔風集會所 crew all went to the counter to grab some singles, XD.
+Sunday, September 28, 2025. Once again, thanks to [遊戲平方](https://www.facebook.com/GameSquareTCG/?locale=zh_TW) for generously providing the venue. Before the tournament started, the Guildmages Forum crew all went to the counter to grab some singles, XD.
 
 While we're at it, I'd like to share my usual way of buying cards. Did you know that besides Ruten auctions, Taiwan has another powerful, real-time place to buy Magic cards? That's [遊戲平方's online store](https://gamesquare.tw/index.php).
 
@@ -84,18 +84,18 @@ That wraps up the recommendation segment. Now let's officially dive into the hig
 >Drafting is done and the battles begin with fervor! It's perfectly normal to glance at what the next table is playing while shuffling.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/98dada3b9231.webp)
->[Spider-Slayer, Hatred Honed](https://scryfall.com/card/spm/175/spider-slayer-hatred-honed) is way too cool to be a blue card.
+>[Spider-Slayer, Hatred Honed](https://scryfall.com/card/spm/175/spider-slayer-hatred-honed) is way too cool to be an uncommon.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/2a1934bfe5eb.webp)
 >Web-slinging is so flavorful.
 
 ## Wrap-Up
 
-The undefeated players that day were [faintmama](/en/authors/faintmama/), who hard-swept the board every game with [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath), and [Jru](/en/authors/JruMTG/), who didn't settle on a color in the first pack and picked up the key cards of as many themes as possible. [faintmama](/en/authors/faintmama/) also earned the title of off-table winner of the day by picking eight red cards (and had even passed three more red cards...). From what we saw that day, the number of rares left everyone thoroughly satisfied.
+The undefeated players that day were [faintmama](/en/authors/faintmama/), who hard-swept the board every game with [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath), and [Jru](/en/authors/JruMTG/), who didn't settle on a color in the first pack and picked up the key cards of as many themes as possible. [faintmama](/en/authors/faintmama/) also earned the title of off-table winner of the day by picking eight rares (and had even passed three more rares...). From what we saw that day, the number of rares left everyone thoroughly satisfied.
 
 However, winning and cards aren't necessarily the most important part. After the event, we heard readers say, "Draft is more fun and synergistic than I imagined" and "This is the most fun I've had in a draft so far," and that feedback made the point of the event very clear to us. I have to praise SPM's Web-slinging ability once more: it lets newbies feel that they've made excellent decisions, and it also captures the most classic flavor of Marvel's Spider-Man.
 
-As for 魔風集會所's in-person events, there are many venue, staffing, and before-and-after communication matters to handle one by one, so for now we can only run them by invitation. If you'd like to join the next event, or have any thoughts on supporting us to keep running them, feel free to message [魔風集會所](https://www.facebook.com/guildmagesforumtw/) and leave your info for our reference.
+As for Guildmages Forum's in-person events, there are many venue, staffing, and before-and-after communication matters to handle one by one, so for now we can only run them by invitation. If you'd like to join the next event, or have any thoughts on supporting us to keep running them, feel free to message [Guildmages Forum](https://www.facebook.com/guildmagesforumtw/) and leave your info for our reference.
 
 That's the event record for **Marvel's Spider-Man: A Crossover Set That Ages Like Fine Wine (Draft)**. If you're curious about how the picks went that day, please read the players' sharing that follows.
 
@@ -107,7 +107,7 @@ That's the event record for **Marvel's Spider-Man: A Crossover Set That Ages Lik
 [Anti-Venom, Horrifying Healer](https://scryfall.com/card/spm/1/anti-venom-horrifying-healer). My first pick of the day, a super bomb with a very steep casting cost. Opponents today just conceded when they saw it come down.
 
 #### How did the key turns of today go?
-I held off the opponent with the Spider tokens made by [Spiders-Man, Heroic Horde](https://scryfall.com/card/spm/117/spiders-man-heroic-horde), [Wall Crawl](https://scryfall.com/card/spm/121/wall-crawl) and [Spider-UK](https://scryfall.com/card/spm/17/spider-uk). [Silk, Web Weaver](https://scryfall.com/card/spm/145/silk-web-weaver) pumped the whole team for one big attack, and I successfully traded off the webs and held the line.
+I held off the opponent with the Spider tokens made by [Spiders-Man, Heroic Horde](https://scryfall.com/card/spm/117/spiders-man-heroic-horde), [Wall Crawl](https://scryfall.com/card/spm/121/wall-crawl) and [Spider-UK](https://scryfall.com/card/spm/17/spider-uk). [Silk, Web Weaver](https://scryfall.com/card/spm/145/silk-web-weaver) pumped the whole team for one big attack, and I successfully traded off Silk and held the line.
 
 #### Do you like draft? Any draft memories worth looking back on?
 I don't have any special memories of draft, but I do have one about sealed. At the 2014 Taipei GP, we played M15 sealed. As I recall, Day 1 was nine rounds, and six wins got you into Day 2. I started 5-0, then lost a bunch in a row and dragged it all the way to the last round. In that match I took an aggressive line early and pressed the opponent, then on turn six they slammed [Soul of Theros](https://scryfall.com/card/m15/34/soul-of-theros). I figured that if I let them activate the lifelink I'd be done, so I had to trade an extra card to deal with it. I thought I could breathe a little, and then I saw the opponent slam [Garruk, Apex Predator](https://scryfall.com/card/m15/210/garruk-apex-predator)...
@@ -189,10 +189,10 @@ Definitely [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath)
 Twice, with [Shriek, Treblemaker](https://scryfall.com/card/spm/144/shriek-treblemaker) on the battlefield, I cast [Villainous Wrath](https://scryfall.com/card/spm/74/villainous-wrath) and it resolved successfully. That was basically the win.
 
 #### Do you like draft? Any draft memories worth looking back on?
-This Marvel's Spider-Man draft left a deep impression on me. Mayhem is great for splashing a third color for other heavy bombs, because discarding a card lowers color-screw risk considerably. I'm very happy with the Jund-style Mayhem deck I built this time.
+This Marvel's Spider-Man draft left a deep impression on me. Mayhem is great for splashing a third color for other heavy bombs, because discarding a card lowers color-screw risk considerably. I'm very happy with the Jund Mayhem deck I built this time.
 
 #### How would you recommend draft?
-You can crack packs, pick cards, build a deck, play... let me put it this way: I honestly can't find a downside to the draft format. Pack luck doesn't fully decide the outcome, since a solid curve and sensibly trading up to find what you need are what matter. You can play it relaxed, or you can play it seriously.
+You can crack packs, pick cards, build a deck, play... let me put it this way: I honestly can't find a downside to the draft format. Pack luck doesn't fully decide the outcome, since a solid curve and sensibly using removal to trade up are what matter. You can play it relaxed, or you can play it seriously.
 
 ![](https://images.guildmagesforum.tw/posts/SPM-Draft-with-Newbie/6ccdda961887.webp)
 >faintmama's draft picks, left to right, top to bottom.

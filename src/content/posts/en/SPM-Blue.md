@@ -129,7 +129,7 @@ Comment: A front face that can't be blocked and connives every turn already appl
 <!---40--->
 ![](https://images.guildmagesforum.tw/SPM/40.webp)
 Score: 2.5
-Comment: Both the casting cost and the ability activation cost are on the high side, but it has a high survival rate, and once you successfully drag the game into the late game you can drown a dead opponent with card-advantage resources.
+Comment: Both the casting cost and the ability activation cost are on the high side, but it has a high survival rate, and once you successfully drag the game into the late game you can drown the opponent in card advantage.
 
 
 <!---41--->
@@ -189,4 +189,4 @@ Comment: It can bounce any nonland permanent, so it has high flexibility in how 
 
 The themes officially assigned to blue in this Limited format are White-Blue Modified and Blue-Black Connive, a complete throwback to the New Capenna-era Standard pairings, and these two mechanics also have quite good synergy with each other.
 
-However, the mechanic most worth noting this time is Mayhem from the Red-Black color pair. Mayhem is intuitively very strong in Limited, and its effect on card advantage in Limited is very significant; even just gaining a [4/3 vanilla creature](https://scryfall.com/card/spm/91/spider-islanders) has a major impact on the board. However, Mayhem needs a discard source to work. Red-Black does provide quite a few discard sources, but not necessarily in abundance, so it may seek outside help from Blue-Black Connive. From another angle, besides Blue-Black, Red-Blue or Golgari Connive + Mayhem is actually also a hidden blue color-pair theme.
+However, the mechanic most worth noting this time is Mayhem from the Red-Black color pair. Mayhem is intuitively very strong in Limited, and its effect on card advantage in Limited is very significant; even just gaining a [4/3 vanilla creature](https://scryfall.com/card/spm/91/spider-islanders) has a major impact on the board. However, Mayhem needs a discard source to work. Red-Black does provide quite a few discard sources, but not necessarily in abundance, so it may seek outside help from Blue-Black Connive. From another angle, besides Blue-Black, Red-Blue or Grixis Connive + Mayhem is actually also a hidden blue color-pair theme.

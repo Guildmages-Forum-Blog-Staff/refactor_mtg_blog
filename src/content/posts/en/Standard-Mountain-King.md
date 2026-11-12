@@ -69,7 +69,7 @@ This deck is built around low-cost legendary Dwarves and Equipment. With [Leylin
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Mountain-King/8094e11362b4.webp)
 
-The ruins of the dwarf kingdom occupied by the wicked dragon [Smaug](https://scryfall.com/card/hob/164/smaug-wicked-worm), "[The Lonely Mountain](https://scryfall.com/card/hob/187/the-lonely-mountain)," is the Company's ultimate goal. [The Lonely Mountain](https://scryfall.com/card/hob/187/the-lonely-mountain) can keep creating [Dwarf](https://scryfall.com/card/thob/6/dwarf) tokens for staying power in the game; [Leyline Axe](https://scryfall.com/card/fdn/129/leyline-axe) can enter untapped on turn one if it's in your opening hand and has the Mountain type, satisfying [Sunbillow Verge](https://scryfall.com/card/dft/264/sunbillow-verge)'s color condition, so it's absolutely worth a full playset.
+The ruins of the dwarf kingdom occupied by the wicked dragon [Smaug](https://scryfall.com/card/hob/164/smaug-wicked-worm), "[The Lonely Mountain](https://scryfall.com/card/hob/187/the-lonely-mountain)," is the Company's ultimate goal. [The Lonely Mountain](https://scryfall.com/card/hob/187/the-lonely-mountain) can keep creating [Dwarf](https://scryfall.com/card/thob/6/dwarf) tokens for staying power in the game; with [Leyline Axe](https://scryfall.com/card/fdn/129/leyline-axe) in your opening hand it can enter untapped on turn one, and it has the Mountain type, satisfying [Sunbillow Verge](https://scryfall.com/card/dft/264/sunbillow-verge)'s color condition, so it's absolutely worth a full playset.
 
 ## Gameplay Demo
 

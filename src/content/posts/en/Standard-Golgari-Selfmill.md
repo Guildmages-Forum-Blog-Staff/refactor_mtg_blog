@@ -16,7 +16,7 @@ excerpt: "Why does my hand keep getting bigger the longer I play?"
 
 ## Before We Start
 
-Golgari midrange has the best removal and creatures in the Standard card pool <font color="#AAAAAA">(BLB even added a Vraska-plus-green instant-win combo)</font>, and has been one of the pillars of Standard in recent years. However, the mainstream Golgari midrange in the meta is a proactive deck that emphasizes attacking tempo, while the author prefers a slower build that values long-game resource battles. The two share quite a few powerful cards, but the underlying logic of the game plan is completely different. Conveniently, the new DSK cards include quite a few resource-engine cards that make good use of the graveyard. They struggle to have an immediate impact on the board in a short tempo battle, but they are well suited to creating enormous card advantage in a long resource battle, so I built this Golgari resource-battle deck on that foundation.
+Golgari midrange has the best removal and creatures in the Standard card pool <font color="#AAAAAA">(BLB even added a Vraska + green Talent instant-kill combo)</font>, and has been one of the pillars of Standard in recent years. However, the mainstream Golgari midrange in the meta is a proactive deck that emphasizes attacking tempo, while the author prefers a slower build that values long-game resource battles. The two share quite a few powerful cards, but the underlying logic of the game plan is completely different. Conveniently, the new DSK cards include quite a few resource-engine cards that make good use of the graveyard. They struggle to have an immediate impact on the board in a short tempo battle, but they are well suited to creating enormous card advantage in a long resource battle, so I built this Golgari resource-battle deck on that foundation.
 
 ![Cover](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/2cd473e3da2a.webp)
 
@@ -89,7 +89,7 @@ However, Say Its Name & Altanak are also often the cards swapped out most in sid
 [Tear Asunder](https://scryfall.com/card/dmu/183/tear-asunder) (1): In today's environment, where artifacts and enchantments are everywhere, one copy in the main deck is certainly not a mistake; at worst it is a four-mana exile-anything answer and won't be a dead card.
 
 {% mtgcard "Invasion of Innistrad // Deluge of the Dead" %}
-[Invasion of Innistrad // Deluge of the Dead](https://scryfall.com/card/mom/115/invasion-of-innistrad-deluge-of-the-dead) (1): A removal spell for permanent types plus one more. Although the cost is a bit clunky, the effect is very powerful. As long as it transforms successfully, a card that can suppress the board, for a resource-oriented deck like ours, where sometimes the opponent's life total isn't under much pressure, attacking the battle can put even more defensive pressure on the opponent than attacking them directly. If you find this card too clunky, you can swap it for another regular two-mana removal spell.
+[Invasion of Innistrad // Deluge of the Dead](https://scryfall.com/card/mom/115/invasion-of-innistrad-deluge-of-the-dead) (1): One more permanent-type removal spell. Although the cost is a bit clunky, the effect is very powerful: once it transforms, it can suppress the board on its own. For a resource-oriented deck like ours, where the opponent's life total is sometimes under little pressure, attacking the battle puts more defensive pressure on the opponent than attacking them directly. If you find this card too clunky, you can swap it for another regular two-mana removal spell.
 
 {% mtgcard "Gix's Command" %}
 [Gix's Command](https://scryfall.com/card/bro/97/gixs-command) (1): A black all-purpose card, useful against almost any opponent.
@@ -206,7 +206,7 @@ Considering that the recent high share of white-based control is the [Caretaker'
 |+2 Scrapshooter||
 
 In this matchup there's no time for wide-open looting; we need to make sure we can always keep an eye on the state of the game, and even after sideboarding like this, we still have quite a few card-advantage sources.
-[Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge) is red aggro's most important Plan B win condition, so we need to bring in Tranquil Frillback & Scrapshooter to deal with it, and they are also good creatures against aggro: Tranquil Frillback can gain 4 life at once, which is effectively the damage of 1 to 2 of the opponent's spells, and Scrapshooter is a very sturdy blocker that can force a block even when [Slickshot Show-Off](https://scryfall.com/card/otj/146/slickshot-show-off) shows up.
+[Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge) is red aggro's most important Plan B win condition, so we need to bring in Tranquil Frillback & Scrapshooter to deal with it, and they are also good creatures against aggro: Tranquil Frillback can gain 4 life at once, which is effectively the damage of 1 to 2 of the opponent's spells, and Scrapshooter is a very sturdy blocker that can block even [Slickshot Show-Off](https://scryfall.com/card/otj/146/slickshot-show-off).
 
 
 ### Convoke

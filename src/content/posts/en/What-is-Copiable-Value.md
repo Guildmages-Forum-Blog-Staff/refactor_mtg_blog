@@ -41,7 +41,7 @@ First, let's look at the core rule defining copiable values:
 
 ![](https://cards.scryfall.io/large/front/d/e/de547f52-3798-4b3a-947d-24873251204b.jpg?1624591645)
 
-> As another example, take [Crackle with Power](https://scryfall.com/card/stx/95/crackle-with-power). If you decide X=3 when casting it, and it is a sorcery with total mana value 11 when copied, then the copy is likewise a sorcery with X=3 and mana value 11, and both can deal 5 damage each to up to 3 targets.
+> As another example, take [Crackle with Power](https://scryfall.com/card/stx/95/crackle-with-power). If you decide X=3 when casting it, and it is a sorcery with total mana value 11 when copied, then the copy is likewise a sorcery with X=3 and mana value 11, and both can deal 15 damage each to up to 3 targets.
 
 **"When copying an object, the copy acquires the copiable values of the original object's characteristics"** is the key to everything. Conversely, it can be read as "information that is not a copiable value does not take part in copy effects." When we discuss rules questions about copying an object, we are really trying to work out what the copiable values of that object are, and all the rules that follow either define what counts as a copiable value or describe which effects can modify an object's copiable values.
 
@@ -602,7 +602,7 @@ Now I equip the face-down Sagu Mauler with Blade of Shared Souls, choosing as th
 
 ![Try it yourself](https://images.guildmagesforum.tw/posts/What-is-Copiable-Value/7245cbdb270f.webp)
 
-Let's start analyzing from the flipped mouse. First, Kenrith's Transformation does not modify copiable values (same principle as the Oko example above), so here it is merely a distraction that can be ignored. Although this mouse is currently Stabwhisker the Odious (flipped), when a creature whose "status" is unflipped becomes a copy of it, the characteristics it shows are the unflipped ones, so the result of copying will be Nezumi Shortfang.
+Let's start analyzing from the flipped Rat. First, Kenrith's Transformation does not modify copiable values (same principle as the Oko example above), so here it is merely a distraction that can be ignored. Although this Rat is currently Stabwhisker the Odious (flipped), when a creature whose "status" is unflipped becomes a copy of it, the characteristics it shows are the unflipped ones, so the result of copying will be Nezumi Shortfang.
 
 Next, look at the face-down Sagu Mauler. Although it has now become a copy of Nezumi Shortfang, the characteristics defined by the **face-down** "status" will override the original characteristics, so what you see is still a colorless 2/2 creature with no subtypes. Also, because Sagu Mauler has become a copy of Nezumi Shortfang, it has lost its morph ability and cannot pay a morph cost to turn face up.
 

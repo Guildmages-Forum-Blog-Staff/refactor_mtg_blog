@@ -16,11 +16,11 @@ categories:
 
 ## Preface
 
-Hello everyone, I'm [faintmama](https://www.facebook.com/loudsidewang/), a bored uncle who lately likes writing diary-style posts on my little fan page, [FaintmamaのTCG實驗室](https://www.facebook.com/faintmama). Honestly, I never imagined I would write a Standard deckbuilding article for Guildmages' Forum, and in the past I didn't even think I should touch Standard, which rotates so quickly.
+Hello everyone, I'm [faintmama](https://www.facebook.com/loudsidewang/), a bored uncle who lately likes writing diary-style posts on my little fan page, [Faintmama's TCG Lab](https://www.facebook.com/faintmama). Honestly, I never imagined I would write a Standard deckbuilding article for Guildmages' Forum, and in the past I didn't even think I should touch Standard, which rotates so quickly.
 
 But in the end I played it anyway XD. For my birthday I received a box of [Duskmourn: House of Horror](https://scryfall.com/sets/dsk), and instantly became a rich man in powerful commons and uncommons. Then my friend [cephille](/en/authors/cephille/) shared a YouTube video about [mono-black Skeletons](https://youtu.be/PXcFrVlx700?si=XdWJUU_frNovJUjR), and I was immediately drawn to this tribe, so bad by design that it is almost funny. I thought, hey, they're cheap, so why not build it for fun.
 
-Of course, things were not as simple as I first thought, since I am an old newbie who can't be content with copying lists and loves tinkering. After noticing that [勇德大叔的日常](https://www.facebook.com/UncleJund) had played four [Blazemire Verge](https://scryfall.com/card/dsk/256/blazemire-verge) in a Golgari midrange deck, a clever idea, I admired it, copied it, and gradually set off down the road of no return of building my own **Rakdos Skeletons**.
+Of course, things were not as simple as I first thought, since I am an old newbie who can't be content with copying lists and loves tinkering. After noticing that [Jund Uncle's Daily Life](https://www.facebook.com/UncleJund) had played four [Blazemire Verge](https://scryfall.com/card/dsk/256/blazemire-verge) in a Golgari midrange deck, a clever idea, I admired it, copied it, and gradually set off down the road of no return of building my own **Rakdos Skeletons**.
 
 ## Why Splash Red?
 
@@ -32,7 +32,7 @@ At the end of 2024, I was having a great time with the combination of [Urabrask'
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/d821ad5eb00a.webp)
 
->I have told this story too many times. If you're interested, please see [誤闖競爭級別的大叔年末日記](https://guildmagesforum.tw/en/Uncles-Diary/) ~~but don't leave yet, finishing this article is more important~~.
+>I have told this story too many times. If you're interested, please see [A Middle-Aged Guy's Year-End Diary After Stumbling into Competitive Play](https://guildmagesforum.tw/en/Uncles-Diary/) ~~but don't leave yet, finishing this article is more important~~.
 
 From knowing nothing about Standard to today, what I would say now is: the biggest reason to splash red is to play four [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower), because black cannot deal with the format's great enemy [Enduring Curiosity](https://scryfall.com/card/dsk/51/enduring-curiosity) in time. As for [Urabrask's Forge](https://scryfall.com/card/one/153/urabrasks-forge), although it is a super favorite card of mine, the current version has no room for it: the Forge has to be played on time as much as possible, getting traded up against an opponent's main-deck [Spell Pierce](https://scryfall.com/card/dft/64/spell-pierce) is brutal, and it is not a good late-game topdeck.
 
@@ -50,10 +50,10 @@ Here is the [deck list link](https://www.mtggoldfish.com/deck/7245075#paper) to 
 
 ## So... Who Is Big Bro Seph?
 
-**菲哥** ("Big Bro Phi") is what the site's friend GY_Player calls [Sephiroth](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel) in our Discord group. Honestly, since I am of the early-middle-aged generation that lived through the variety show [龍兄虎弟](https://zh.wikipedia.org/zh-tw/%E9%BE%8D%E5%85%84%E8%99%8E%E5%BC%9F_(%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE)), this kind of silly humor makes my heart go doki-doki.
+**Big Bro Seph** (a nickname that sounds like "Brother Fei") is what the site's friend GY_Player calls [Sephiroth](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel) in our Discord group. Honestly, since I am of the early-middle-aged generation that lived through the variety show [*Long Xiong Hu Di*](https://zh.wikipedia.org/zh-tw/%E9%BE%8D%E5%85%84%E8%99%8E%E5%BC%9F_(%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE)), this kind of silly humor makes my heart go doki-doki.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-No-Shardmages-Rescue/ce8b5db39df3.webp)
->I never expected the young folks wouldn't know 金元萱. Sigh, she was a pioneering Korean entertainer who built her career in Taiwan.
+>I never expected the young folks wouldn't know the show's Korean co-host. Sigh, she was a pioneering Korean entertainer who built her career in Taiwan.
 
 Jokes aside, [Sephiroth](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel) really is a card worth discussing. Both I and several excellent players on the tournament scene were initially skeptical of [Sephiroth](https://scryfall.com/card/fin/115/sephiroth-fabled-soldier-sephiroth-one-winged-angel)'s value, for a simple reason: you will definitely run into the situation where it is answered with removal in response to casting, and it just enters alone and forlorn. If you spend three mana and only get a vanilla 3/3 creature, that would probably not be great even in Magic five years ago, let alone today.
 
@@ -83,11 +83,11 @@ Flashiness, showing off, and deep rules understanding are all part of [Forsaken 
 In the mid-to-late game this Case gives you a chance to pay two to search your library, and quite a few of my wins came from that play. Both the Case and the token can be used as sacrifice and Bargain costs, so when casting it, watch for signs of whether a blue opponent has a counterspell for noncreature spells.
 
 [Corpses of the Lost](https://scryfall.com/card/lci/98/corpses-of-the-lost) x4: The key card for racing. On entering, it first makes a 2/2 Skeleton, and all Skeletons on the battlefield get +1/+0 and haste, widening the board and pumping at once.
-If you [descend](https://mtg.fandom.com/wiki/Descend) during your turn, at the beginning of your end step you can decide whether to pay one life to return that Case to your hand. This deck does not roll resources by drawing cards but through all sorts of odd mechanics, which happens to sidestep situations where drawing extra cards gets punished.
+If you [descend](https://mtg.fandom.com/wiki/Descend) during your turn, at the beginning of your end step you can decide whether to pay one life to return that enchantment to your hand. This deck does not roll resources by drawing cards but through all sorts of odd mechanics, which happens to sidestep situations where drawing extra cards gets punished.
 When casting it, watch for signs of whether a blue opponent has a counterspell for noncreature spells, but when it's time to be brave and slam it down, you just have to, since failing to finish the race also ends in losing the match.
 
 ### Little Guys' League
->Creatures that come with a benefit when sacrificed, with artifacts, Cases, and tokens available for Bargain.
+>Creatures that come with a benefit when sacrificed, with artifacts, enchantments, and tokens available for Bargain.
 
 [Clockwork Percussionist](https://scryfall.com/card/dsk/130/clockwork-percussionist) x4: I call it the Clang-Clang Monkey XD. It has many strengths: haste early lets it race, being an artifact lets it serve more broadly as a sacrifice cost, and when it dies it keeps exploring deep into the library.
 Cards that make the opponent feel uncomfortable whatever they do (killing it feels like a waste, blocking it to death benefits me, but not dealing with it means being poked constantly) are, to me, good cards.
@@ -122,7 +122,7 @@ Sorcery-speed removal with a very high ceiling.
 [Bitter Triumph](https://scryfall.com/card/tdc/173/bitter-triumph) x1: If you happen to have [Forsaken Miner](https://scryfall.com/card/otj/88/forsaken-miner) in hand, you can make it the discard cost XD, then, following the earlier idea, immediately pay one black to let [Forsaken Miner](https://scryfall.com/card/otj/88/forsaken-miner) enter the battlefield. So cool.
 Instant-speed removal that handles big creatures and planeswalkers, but the cost of three life hurts quite a bit, so I ended up cutting it down to just one copy in the build.
 
-[Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) x1: It can turn off the opponent's creatures' Hexproof and Ward, and the Case itself can also serve as a sacrifice or Bargain cost.
+[Nowhere to Run](https://scryfall.com/card/dsk/111/nowhere-to-run) x1: It can turn off the opponent's creatures' Hexproof and Ward, and the enchantment itself can also serve as a sacrifice or Bargain cost.
 
 [Abrade](https://scryfall.com/card/fdn/188/abrade) x1: It can hit a creature for three at instant speed, or destroy an artifact. Against [Vivi Cauldron](https://www.mtggoldfish.com/archetype/standard-izzet-cauldron-dmu#paper) and [Boros Convoke](https://www.mtggoldfish.com/archetype/standard-boros-convoke-dmu#paper), it is a chance to make the opponent unexpectedly collapse. I think it is worth one main-deck copy in the July 2025 environment.
 
@@ -173,7 +173,7 @@ Originally I had no confidence in, and no plan to share, my Rakdos Skeletons bui
 
 But I have always known that when it comes to the purest love for a deck, I absolutely do not lose to any player.
 
-In several store championships this time in FIN, Rakdos Skeletons finally emerged from its cocoon and harvested some wonderful moments, even reaching third place with only a tiny gap to [City of Brass](https://scryfall.com/card/sch/41/city-of-brass) (though that distance was both tiny and enormous). Although I couldn't get a photo of the Skeletons posed next to [City of Brass](https://scryfall.com/card/sch/41/city-of-brass) to share, I thought it over and still decided to share this journey. As for a detailed tournament report, I won't belabor it on Guildmages' Forum, and friends who are interested are welcome to head over to [FaintmamaのTCG實驗室](https://www.facebook.com/faintmama) to keep exchanging ideas.
+In several store championships this time in FIN, Rakdos Skeletons finally emerged from its cocoon and harvested some wonderful moments, even reaching third place with only a tiny gap to [City of Brass](https://scryfall.com/card/sch/41/city-of-brass) (though that distance was both tiny and enormous). Although I couldn't get a photo of the Skeletons posed next to [City of Brass](https://scryfall.com/card/sch/41/city-of-brass) to share, I thought it over and still decided to share this journey. As for a detailed tournament report, I won't belabor it on Guildmages' Forum, and friends who are interested are welcome to head over to [Faintmama's TCG Lab](https://www.facebook.com/faintmama) to keep exchanging ideas.
 
 In the last two events, my OMW% (opponent match-win percentage) was 77.8% and 71.7% respectively. I was lucky enough to play against all the top players in Taipei, with some losses and some wins, a god-tier play I may never surpass, but also judgments that weren't perfect and mistakes.
 

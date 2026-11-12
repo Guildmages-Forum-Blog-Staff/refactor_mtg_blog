@@ -46,7 +46,7 @@ Comment: A hard-to-remove Aura whose pressure on the board is frightening, and i
 <!---166--->
 {% mtgpick "tla" 166 %}
 Score: 3.0
-Comment: Counting it up, it's like a six-power body for five mana. The base has four power, which fits the red-green theme, and trample fits with Earthbend; giving land creatures trample has great strategic value.
+Comment: Counting it up, it's like a 6/6 body for five mana. The base has four power, which fits the red-green theme, and trample fits with Earthbend; giving land creatures trample has great strategic value.
 
 
 <!---167--->

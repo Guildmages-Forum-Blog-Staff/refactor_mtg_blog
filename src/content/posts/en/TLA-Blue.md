@@ -136,7 +136,7 @@ Comment: A two-drop that doesn't lose you cards is great! When I see a good two-
 <!---61--->
 ![61](https://images.guildmagesforum.tw/posts/TLA-Blue/61aad24f2680.webp)
 Score: 3.5
-Comment: It gains resources twice by itself, and after transforming, the small creature it makes has trample. If it survives it's a card with a future.
+Comment: It gains resources twice by itself, and after transforming, the small creature it makes has evasion. If it survives it's a card with a future.
 
 
 <!---62--->
@@ -166,7 +166,7 @@ Comment: It can do something similar to ramp, and once you have overflowing mana
 <!---66--->
 {% mtgpick "tla" 66 %}
 Score: 2.5
-Comment: A blue Limited deck should definitely play one. It can bluff you into a lot of good things.
+Comment: A blue Limited deck should definitely play one. It can snag a lot of good things.
 
 
 <!---67--->
@@ -248,7 +248,7 @@ Comment: Casting it at six mana is its strongest point, combining a threat and c
 <!---79--->
 {% mtgpick "tla" 79 %}
 Score: 3.0
-Comment: Use an Aura to give creatures trample, and after completing the quest you keep drawing cards. It's counted separately for each creature, so you can draw a lot of cards at once and overwhelm your opponent.
+Comment: Use an Aura to give creatures evasion, and after completing the quest you keep drawing cards. It's counted separately for each creature, so you can draw a lot of cards at once and overwhelm your opponent.
 
 
 <!---80--->

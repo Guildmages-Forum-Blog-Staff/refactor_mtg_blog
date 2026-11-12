@@ -73,7 +73,7 @@ The indispensable land-fetching lands for a landfall deck. Besides the existing 
 
 {%youtube 6IWfCQIgM8U %}
 
-Although it has the flaw of an empty early defense, not relying on creatures for acceleration also means the opponent has a hard time disrupting your tempo. On top of that, this deck's snowball actually rolls surprisingly fast: it can go wide, it can pump brutally, and when conditions allow it can even mill the opponent out directly, and its rebuild ability is quite good too. As long as you don't frequently run into extreme aggro, you can have just as much fun in the high-rank MTGA ladder.
+Although it has the flaw of an empty early defense, not relying on creatures for acceleration also means the opponent has a hard time disrupting your tempo. On top of that, this deck's snowball actually rolls surprisingly fast: it can go wide, it can pump brutally, and when conditions allow it can even mill the opponent out directly, and its rebuild ability is quite good too. As long as you don't frequently run into extreme aggro, you can have just as much fun even at Mythic rank on MTGA.
 
 ## Conclusion
 

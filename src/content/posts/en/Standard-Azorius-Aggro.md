@@ -110,7 +110,7 @@ Early on, try not to leave any creatures on the opponent's board, so they can't 
 | -1 {% mtglink "Floodpits Drowner" %} |  |
 
 
-The Bunny and [Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts) are the win conditions. The opponent can't block the Bunny's toughness. [Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts) can go on creatures with good toughness (the Bunny, Steel Seraph) or on fliers. The deck also has [Elspeth's Smite](https://scryfall.com/card/mom/13/elspeths-smite), [Split Up](https://scryfall.com/card/dsk/32/split-up) and [Dusk Rose Reliquary](https://scryfall.com/card/lci/10/dusk-rose-reliquary), so it's basically a favorable matchup.
+The Bunny and [Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts) are the win conditions. The Bunny quickly gets too big for the opponent to block. [Sheltered by Ghosts](https://scryfall.com/card/dsk/30/sheltered-by-ghosts) can go on creatures with good toughness (the Bunny, Steel Seraph) or on fliers. The deck also has [Elspeth's Smite](https://scryfall.com/card/mom/13/elspeths-smite), [Split Up](https://scryfall.com/card/dsk/32/split-up) and [Dusk Rose Reliquary](https://scryfall.com/card/lci/10/dusk-rose-reliquary), so it's basically a favorable matchup.
 
 ## Conclusion
 

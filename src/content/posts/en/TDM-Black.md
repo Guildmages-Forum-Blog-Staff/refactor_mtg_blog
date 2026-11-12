@@ -43,7 +43,7 @@ Comment: The first card is our Abzan color fixer. It not only adds consistency, 
 <!---69--->
 {% mtgpick "tdm" 69 %}
 Score: 2.0
-Comment: A 5/3 for five; you would absolutely never want to cast it face up, and drawing it into your hand is a real headache. In the Sultai mill theme, it only gives +1/+1 as a reward, which feels a bit weak.
+Comment: A 5/3 for five; you would absolutely never want to hard-cast it, and drawing it into your hand is a real headache. In the Sultai mill theme, it only gives +1/+1 as a reward, which feels a bit weak.
 
 
 <!---70--->
@@ -55,7 +55,7 @@ Comment: Although looking at the hand can deal with the opponent's bomb early in
 <!---71--->
 {% mtgpick "tdm" 71 %}
 Score: 2.5
-Comment: A 2/1 body has a hard time attacking, and on defense cannot stop this set's mass of attacking 1/1 tokens, but it has a chance to give a trampler lifelink late in the game, offering a chance to turn the game around.
+Comment: A 2/1 body has a hard time attacking, and on defense cannot stop this set's mass of attacking 1/1 tokens, but it has a chance to give an evasive creature lifelink late in the game, offering a chance to turn the game around.
 
 
 <!---72--->
@@ -109,7 +109,7 @@ Comment: This time the straight removal needs only one colored mana, which stren
 <!---80--->
 {% mtgpick "tdm" 80 %}
 Score: 2.5
-Comment: Putting a counter on at two mana at sorcery speed plus the draw risk is high, and a 3/5 trampler for six is also a bit insufficient. As filler, it is just ordinary.
+Comment: Putting a counter on at two mana at sorcery speed plus the draw risk is high, and an evasive 3/5 for six is also a bit insufficient. As filler, it is just ordinary.
 
 
 <!---81--->
@@ -145,7 +145,7 @@ Comment: Deathtouch creatures generally want to be as cheap as possible. Mobiliz
 <!---86--->
 {% mtgpick "tdm" 86 %}
 Score: 4.0
-Comment: A single card that can win the game, and even if it gets killed it can give the next creature strong trample.
+Comment: A single card that can win the game, and even if it gets killed it can give the next creature strong evasion.
 
 
 <!---87--->
@@ -186,7 +186,7 @@ Comment: It will be pretty good in the Sultai color pair.
 <!---93--->
 {% mtgpick "tdm" 93 %}
 Score: 4.0
-Comment: It brings its own trample plus growth, or makes a 1/1 to help block during a race. Very strong.
+Comment: It brings its own evasion plus growth, or makes a 1/1 to help block during a race. Very strong.
 
 
 <!---94--->

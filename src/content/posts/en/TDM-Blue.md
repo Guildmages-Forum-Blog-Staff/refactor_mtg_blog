@@ -61,7 +61,7 @@ Comment: Although it's an instant that draws cards and has a chance at a 3-for-1
 <!---39--->
 {% mtgpick "tdm" 39 %}
 Score: 3.0
-Comment: It stuns an opponent's creature twice and the body isn't bad, and it can work with abilities that trigger when attacking with four or more creatures. A decent creature for clearing the way.
+Comment: It stuns an opponent's creature twice and the body isn't bad, and it can enable abilities that check for a creature with power 4 or greater. A decent creature for clearing the way.
 
 
 <!---40--->
@@ -79,7 +79,7 @@ Comment: If you have Dragons to Behold, early on it's basically a plain Counters
 <!---42--->
 {% mtgpick "tdm" 42 %}
 Score: 2.0
-Comment: Its enter chance is basically gaining a card, and if you see a Dragon, it seems the opponent can't remove the Dragon without using removal on it.
+Comment: When it enters it will likely net you a card, and if it reveals a Dragon, the opponent can hardly deal with that Dragon without spending removal on it.
 
 
 <!---43--->
@@ -169,7 +169,7 @@ Comment: The body is a bit weak, so just treat it as filtering a card on enterin
 <!---57--->
 {% mtgpick "tdm" 57 %}
 Score: 2.5
-Comment: On the opponent's turn it's an excellent blocker, and on your own turn it can trigger abilities that need four or more attackers. Late in the game it can also serve as an end piece. A very strong common creature.
+Comment: On the opponent's turn it's an excellent blocker, and on your own turn it can enable abilities that check for power 4 or greater. Late in the game it can also serve as an end piece. A very strong common creature.
 
 
 <!---58--->
@@ -200,7 +200,7 @@ Comment: A defender with an excellent body, and it's quite nice that using it fo
 <!---62--->
 {% mtgpick "tdm" 62 %}
 Score: 2.5
-Comment: The first use is great for triggering Flurry, and the second just lays down a four-attacker creature, which is about the same as a Divination.
+Comment: The first use is great for triggering Flurry, and the second just taps a creature with power 4, which is about the same as a Divination.
 
 
 <!---63--->
@@ -212,7 +212,7 @@ Comment: Bouncing twice is a really annoying card.
 <!---64--->
 {% mtgpick "tdm" 64 %}
 Score: 3.5
-Comment: If you get a chance to grow it, it's very lethal, and vigilance lets it keep defending even when it attacks without being blocked. A very nice creature.
+Comment: If you get a chance to grow it, it's very lethal, and with vigilance plus being unblockable, it can keep defending too. A very nice creature.
 
 
 <!---65--->
@@ -224,7 +224,7 @@ Comment: In an environment full of flying dragons, making 1/1 Birds probably can
 <!---66--->
 {% mtgpick "tdm" 66 %}
 Score: 3.0
-Comment: It can bounce repeatedly, a low-cost spell for Flurry, and the aura effect with trample is quite good.
+Comment: It can bounce repeatedly, a low-cost spell for Flurry, and the aura effect granting evasion is quite good.
 
 
 <!---67--->

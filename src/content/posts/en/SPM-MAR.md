@@ -94,7 +94,7 @@ Comment: The strongest hard counter in Magic.
 <!---10--->
 ![](https://images.guildmagesforum.tw/MAR/10.webp)
 Rating: 2.5
-Comment: A bit expensive and with no self-protection. Remember it taps a permanent, so you can tap down the opponent's land so they just pass the next turn. Once it succeeds there's a high chance it never untaps for the rest of the game.
+Comment: A bit expensive and with no self-protection. Remember it taps a permanent, so you can tap down the opponent's land so they just pass the next turn. Once it succeeds, there's a high chance they never get back on their feet.
 
 
 <!---11--->
@@ -250,13 +250,13 @@ Comment: A source that lets green refill a large number of cards in hand at once
 <!---36--->
 ![](https://images.guildmagesforum.tw/MAR/36.webp)
 Rating: 2.0
-Comment: More of a win-more card, and the main set has no token-attacking theme.
+Comment: More of a win-more card, and the main set has no token theme.
 
 
 <!---37--->
 ![](https://images.guildmagesforum.tw/MAR/37.webp)
 Rating: 3.0
-Comment: A very good protection spell. Even with only a little green you can use it to protect a creature that has already equipped.
+Comment: A very good protection spell. Even with only a little green you can use it to protect a creature that has already been modified.
 
 
 <!---38--->
@@ -268,7 +268,7 @@ Comment: Prevent damage, then create an opportunity to hit back next turn. A rat
 <!---39--->
 ![](https://images.guildmagesforum.tw/MAR/39.webp)
 Rating: 3.0
-Comment: Red-white in the main set doesn't focus on artifacts, so think of it as a single-target spell: call for the attack and you deal 1 and scry 1.
+Comment: Red-white in the main set doesn't focus on artifacts, so think of it as a single-target spell: cast it to deal 1 and scry 1.
 
 
 <!---40--->
