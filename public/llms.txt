@@ -23,6 +23,20 @@
 - [賽事 Tournaments](https://guildmagesforum.tw/categories/Tournaments/): 賽事報導
 - [專訪 Interview](https://guildmagesforum.tw/categories/Interview/): 選手專訪
 
+## English
+
+Every post is also available in English, machine-translated from the Chinese original (each English post links back to it).
+
+- [Home (latest posts)](https://guildmagesforum.tw/en/): all English posts by date
+- [All categories](https://guildmagesforum.tw/en/categories/): category index
+- [About us](https://guildmagesforum.tw/en/about/): authors and team
+- [RSS](https://guildmagesforum.tw/en/rss.xml): English feed
+- [Beginner](https://guildmagesforum.tw/en/categories/Beginner/): for new MTG players
+- [MTG Rules](https://guildmagesforum.tw/en/categories/MTG%20Rules/): rules and interactions
+- [Standard](https://guildmagesforum.tw/en/categories/Standard/), [Pioneer](https://guildmagesforum.tw/en/categories/Pioneer/), [Modern](https://guildmagesforum.tw/en/categories/Modern/): constructed formats
+- [Limited](https://guildmagesforum.tw/en/categories/Limited/): draft and sealed guides per set
+- [Interview](https://guildmagesforum.tw/en/categories/Interview/): player interviews
+
 ## Optional
 
 - [網站地圖](https://guildmagesforum.tw/sitemap-index.xml)
