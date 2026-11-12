@@ -99,10 +99,19 @@ const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Non-render-blocking: the CJK css is ~70 KB of @font-face rules and used to delay LCP. -->
     <link
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap"
       rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
     />
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
     <ClientRouter />
     <script is:inline>
       (function () {
