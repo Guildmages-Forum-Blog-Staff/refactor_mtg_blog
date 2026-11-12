@@ -129,7 +129,7 @@ Comment: If you can't remove it, you lose (why does this set have so many of the
 <!---213--->
 {% mtgpick "fin" 213 %}
 Score: 3.0
-Comment: A Vehicle-only card. Without Vehicles it's just a 3/4/3 vanilla guy, and the score is for the stats.
+Comment: A Vehicle-only card. Without Vehicles it's just a three-mana 4/3 with reach, and the score is for the stats.
 
 <!---214--->
 {% mtgpick "fin" 214 %}

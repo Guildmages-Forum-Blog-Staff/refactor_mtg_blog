@@ -129,7 +129,7 @@ It always triggers on entering, but without plot support early on it's hard to u
 
 **T1BloodMoon:** 2.5
 
-A 4/5 plotter with a solid body, and its ability fits the red-blue archetype and the crime theme well.
+A 4/5 with reach and a solid body, and its ability fits the red-blue archetype and the crime theme well.
 
 ![132](https://cards.scryfall.io/large/front/3/9/398d9a16-d72c-42e2-a0ea-d9da642ee046.jpg?1711665609)
 

@@ -65,7 +65,7 @@ The key card is [Unctus, Grand Metatect](https://scryfall.com/card/one/75/unctus
 
 [Original pilot's detailed deck article](https://note.com/kawatora_2/n/n4251f9e73b4a)
 
-This is the only deck I need to post a decklist for. It is the amazing deck that made the Top 8 of the 2020 Nagoya Pioneer GP. The original pilot also wrote an article introducing how the deck works, with a sideboard guide, which I have linked above. The author copied it exactly and played Pioneer with it for a while, and never lost to the then-dominant Oracle Rot deck. The whole deck is highly targeted (two main-deck [Scavenger Grounds](https://scryfall.com/card/otc/316/scavenger-grounds) plus four [Ramunap Ruins](https://scryfall.com/card/hou/181/ramunap-ruins), with four [Thought-Knot Seer](https://scryfall.com/card/ogw/9/thought-knot-seer) as disruption), and he never lost to that deck at the GP either.
+This is the only deck I need to post a decklist for. It is the amazing deck that made the Top 8 of the 2020 Nagoya Pioneer GP. The original pilot also wrote an article introducing how the deck works, with a sideboard guide, which I have linked above. The author copied it exactly and played Pioneer with it for a while, and never lost to the then-dominant Dimir Inverter (Thassa's Oracle) deck. The whole deck is highly targeted (two main-deck [Scavenger Grounds](https://scryfall.com/card/otc/316/scavenger-grounds) plus four [Ramunap Ruins](https://scryfall.com/card/hou/181/ramunap-ruins), with four [Thought-Knot Seer](https://scryfall.com/card/ogw/9/thought-knot-seer) as disruption), and he never lost to that deck at the GP either.
 
 Next, a few notable card interactions in this deck:
 

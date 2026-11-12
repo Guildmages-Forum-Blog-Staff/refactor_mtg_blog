@@ -46,7 +46,7 @@ Comment: Vigilance for the whole team, and once per turn you get a free crew or 
 <!---3--->
 {% mtgpick "dft" 3 %}
 Score: 2.0
-Comment: Basili is back, this time as a cat lover protecting the kitties, but unfortunately he only protects cats and his body is a bit weak. One key point to share with everyone: exert can be activated repeatedly, but it's checked all at once during the untap step. If you can untap Basili, you can keep exerting him; after the next untap-step check passes, he can stand up again the turn after that.
+Comment: Basri is back, this time as a cat lover protecting the kitties, but unfortunately he only protects cats and his body is a bit weak. One key point to share with everyone: exert can be activated repeatedly, but it's checked all at once during the untap step. If you can untap Basri, you can keep exerting him; after the next untap-step check passes, he can stand up again the turn after that.
 
 
 <!---4--->

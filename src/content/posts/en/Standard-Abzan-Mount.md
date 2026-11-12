@@ -17,7 +17,7 @@ authors:
 
 ## Before we start
 
-While the New Phyrexian army invaded the multiverse, a brave and fearless soldier wielding an angel-blessed lance, riding the most fearsome [The Gitrog Monster](https://scryfall.com/card/soi/245/the-gitrog-monster), charged among the mechanical army of 艾雷儂 invading the Innistrad timeline, fighting for Innistrad's inhabitants! Even though her homeland had already been destroyed in the chaos of Eldritch Moon, with the Eldrazi and horrors running rampant, she still walked on steadfastly with her beliefs. She is our eternal [Thalia, Guardian of Thraben](https://scryfall.com/card/dka/24/thalia-guardian-of-thraben).
+While the New Phyrexian army invaded the multiverse, a brave and fearless soldier wielding an angel-blessed lance, riding the most fearsome [The Gitrog Monster](https://scryfall.com/card/soi/245/the-gitrog-monster), charged among the mechanical army of Elesh Norn invading the Innistrad timeline, fighting for Innistrad's inhabitants! Even though her homeland had already been destroyed in the chaos of Eldritch Moon, with the Eldrazi and horrors running rampant, she still walked on steadfastly with her beliefs. She is our eternal [Thalia, Guardian of Thraben](https://scryfall.com/card/dka/24/thalia-guardian-of-thraben).
 
 After the war, [Thalia and the Gitrog Monster](https://scryfall.com/card/mom/255/thalia-and-the-gitrog-monster) both vanished from Innistrad, whereabouts unknown...
 
