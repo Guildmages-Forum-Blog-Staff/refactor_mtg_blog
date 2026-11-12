@@ -334,7 +334,7 @@ So why is the sacrifice-to-gain-life activated ability the only one kept? The re
 
 Earthbend is a very powerful mechanic, and can be seen as a super-powered version of [Awaken](https://scryfall.com/search?q=oracle%3AAwaken+%28game%3Apaper%29+set%3Abfz+prefer%3Abest&order=set&as=grid). You can tell the designers made earthbent lands come back when they are removed in order to fix Awaken's old pain point of lands getting blown up, especially since Earthbend is designed to be used in the early to mid game, when losing a land to removal might be no different from losing outright. To keep the new mechanic from becoming a joke, they added this protection.
 
-The intent is understandable, but adding it gave Earthbend all sorts of combo potential. For example, in Standard you can already play [Beifong's Bounty Hunters](https://scryfall.com/card/tla/209/beifongs-bounty-hunters) + [Bloodghast](https://scryfall.com/card/dft/77/bloodghast) + [Umbral Collar Zealot](https://scryfall.com/card/eoe/123/umbral-collar-zealot), paired with a [painful desert land](https://scryfall.com/card/dft/77/bloodghast) or another infinite-loop finisher.
+The intent is understandable, but adding it gave Earthbend all sorts of combo potential. For example, in Standard you can already play [Beifong's Bounty Hunters](https://scryfall.com/card/tla/209/beifongs-bounty-hunters) + [Bloodghast](https://scryfall.com/card/dft/77/bloodghast) + [Umbral Collar Zealot](https://scryfall.com/card/eoe/123/umbral-collar-zealot), paired with a [land like Abraded Bluffs](https://scryfall.com/card/otj/251/abraded-bluffs) or another infinite-loop finisher.
 
 ![Combo](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/b7efca71ddaf.webp)
 

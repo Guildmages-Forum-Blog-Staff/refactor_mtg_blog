@@ -332,7 +332,7 @@ WOE、LCI的變身地都與運土有不錯的搭配，因為這些地牌只要�
 
 運土是一個非常強力的機制，可以看做是[醒轉](https://scryfall.com/search?q=oracle%3AAwaken+%28game%3Apaper%29+set%3Abfz+prefer%3Abest&order=set&as=grid)的超級強化版，看的出來官方設計讓運土的地被解掉時能重新回場，是想改善以往醒轉會被炸地的痛點，尤其運土的設計是在遊戲前中期就會執行的，這時如果被炸地可能跟直接輸掉沒兩樣，為了不讓新機制變笑話，就只好這樣加保護了。
 
-雖然立意能夠理解，不過這麼一加，反而讓運土獲得了各種組合技潛力，例如標準內就可以玩[北方家的賞金獵人](https://scryfall.com/card/tla/209/beifongs-bounty-hunters)+[可怖血妖](https://scryfall.com/card/dft/77/bloodghast)+[免費犧牲源](https://scryfall.com/card/eoe/123/umbral-collar-zealot)，配上一個[痛血沙漠](https://scryfall.com/card/dft/77/bloodghast)或其他無限Loop的致勝出口。
+雖然立意能夠理解，不過這麼一加，反而讓運土獲得了各種組合技潛力，例如標準內就可以玩[北方家的賞金獵人](https://scryfall.com/card/tla/209/beifongs-bounty-hunters)+[可怖血妖](https://scryfall.com/card/dft/77/bloodghast)+[免費犧牲源](https://scryfall.com/card/eoe/123/umbral-collar-zealot)，配上一個[痛血沙漠](https://scryfall.com/card/otj/251/abraded-bluffs)或其他無限Loop的致勝出口。
 
 ![Combo](https://images.guildmagesforum.tw/posts/Something-About-Earthbend/b7efca71ddaf.webp)
 
