@@ -25,11 +25,11 @@ Unlike Prismari, which prizes spellcraft, Konstrari of the new plane specializes
 [**Decklist**](https://www.mtggoldfish.com/deck/7994362#paper)
 ![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/405b8b4837b0.webp)
 
-* **Konstrari Campus: Aerid, Hungering Puppetbeast, Tenured Tethermage, the Heartwood sculptor**
+* **Konstrari Campus: Aerid Konstrari, Hungering Puppetbeast, Tenured Tethermage, the Heartwood sculptor**
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/71d744fb48e7.webp)
 
-[**Aerid**](https://scryfall.com/card/fra/121/aerid-konstrari): The founder of Konstrari and a Quantum Riddler, a powerful 5/4 flying beater for four. It can actively make Heartwood to pump its power and may take down the opponent on its own, and it gives you a Heartwood that enters untapped both when it enters and when it dies, so even if it is answered right away it only costs you two mana. An indispensable core card for Konstrari-themed decks.
+[**Aerid Konstrari**](https://scryfall.com/card/fra/121/aerid-konstrari): The founder of Konstrari and a Quantum Riddler, a powerful 5/4 flying beater for four. It can actively make Heartwood to pump its power and may take down the opponent on its own, and it gives you a Heartwood that enters untapped both when it enters and when it dies, so even if it is answered right away it only costs you two mana. An indispensable core card for Konstrari-themed decks.
 
 [**Hungering Puppetbeast**](https://scryfall.com/card/fra/107/hungering-puppetbeast): A green five-mana 5/5 beater that gives you a Heartwood when it enters, and lets you pay to sacrifice artifacts to put +1/+1 counters and gain hexproof, haste, or trample. It is not great for ordinary green aggro decks, but in the Konstrari theme there is no shortage of Heartwood that can both produce mana and be sacrificed, so landing it in the mid to late game is a real threat.
 
@@ -41,7 +41,7 @@ Unlike Prismari, which prizes spellcraft, Konstrari of the new plane specializes
 
 
 
-* **Finishers: Biotech Specialist, Craterclaw Colossus, Ajani, Unrelenting, Chandra, Torch of Defiance**
+* **Finishers: Biotech Specialist, Craterclaw Colossus, Ajani Unrelenting, Chandra, Torch of Defiance**
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/a58672d4dfca.webp)
 
@@ -51,7 +51,7 @@ Unlike Prismari, which prizes spellcraft, Konstrari of the new plane specializes
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Konstrari-Aggro/7283dbea31d1.webp)
 
-[**Ajani, Unrelenting**](https://scryfall.com/card/fra/242/ajani-unrelenting): The this universe counterpart of [Ajani](https://scryfall.com/card/fra/195/ajani-resolute), an evolved [Chandra, Flamecaller](https://scryfall.com/card/c20/145/chandra-flamecaller), a super-strong planeswalker that combines sweeping, board development, and card draw in one. Its casting cost is not much of an obstacle for Konstrari decks.
+[**Ajani Unrelenting**](https://scryfall.com/card/fra/242/ajani-unrelenting): The this universe counterpart of [Ajani](https://scryfall.com/card/fra/195/ajani-resolute), an evolved [Chandra, Flamecaller](https://scryfall.com/card/c20/145/chandra-flamecaller), a super-strong planeswalker that combines sweeping, board development, and card draw in one. Its casting cost is not much of an obstacle for Konstrari decks.
 
 [**Chandra, Torch of Defiance**](https://scryfall.com/card/fra/244/chandra-torch-of-defiance): The old, trusted, best four-mana Chandra. Its all-around performance is just as powerful in today's Standard, and the fact that the old version is cheap and easy to pick up is another big highlight.
 

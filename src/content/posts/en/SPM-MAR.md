@@ -274,7 +274,7 @@ Comment: Red-white in the main set doesn't focus on artifacts, so think of it as
 <!---40--->
 ![](https://images.guildmagesforum.tw/MAR/40.webp)
 Rating: 3.0
-Comment: Quality removal for red-black. In Limited, preventing regeneration only matters against [Skithiryx](https://scryfall.com/card/mar/22).
+Comment: Quality removal for red-black. In Limited, preventing regeneration only matters against [Skithiryx, the Blight Dragon](https://scryfall.com/card/mar/22).
 
 
 ## Conclusion
