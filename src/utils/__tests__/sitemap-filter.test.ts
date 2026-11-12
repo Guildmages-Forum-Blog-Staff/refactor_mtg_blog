@@ -42,4 +42,14 @@ describe('getPreviewSlugs', () => {
     writeFileSync(join(dir, 'notes.txt'), 'preview: true');
     expect(getPreviewSlugs(dir)).toEqual([]);
   });
+
+  it('drops zh_tw/ and prefixes en/ preview posts with the en path', () => {
+    const dir = makePostsDir();
+    mkdirSync(join(dir, 'zh_tw'));
+    mkdirSync(join(dir, 'en'));
+    const fm = '---\ntitle: "Draft"\npreview: true\n---\n';
+    writeFileSync(join(dir, 'zh_tw', 'draft.md'), fm);
+    writeFileSync(join(dir, 'en', 'draft.md'), fm);
+    expect(getPreviewSlugs(dir).sort()).toEqual(['draft', 'en/draft']);
+  });
 });

@@ -1,11 +1,31 @@
+import { DEFAULT_LANG, POST_DIR, type Lang } from '../i18n';
+
+const LOCALE_DIR_RE = new RegExp(`^(${Object.values(POST_DIR).join('|')})/`);
+
+/**
+ * Language of a post, from the locale directory its collection-entry id
+ * starts with (`en/...` -> `en`, `zh_tw/...` -> `zh-tw`). Ids outside any
+ * locale directory count as the default language.
+ */
+export function postLang(id: string): Lang {
+  return id.startsWith(`${POST_DIR.en}/`) ? 'en' : DEFAULT_LANG;
+}
+
 /**
  * Derive a post's URL slug from its collection-entry id by stripping the
- * trailing `.md` / `.mdx` extension. Dots inside the name and nested
- * subdirectory segments are preserved. Single source of truth for the slug —
- * it must match the param produced by `[slug].astro`'s getStaticPaths.
+ * leading locale directory (`zh_tw/`, `en/`) and the trailing `.md` / `.mdx`
+ * extension. Dots inside the name and nested subdirectory segments below the
+ * locale directory are preserved. Single source of truth for the slug — it
+ * must match the param produced by `[slug].astro`'s getStaticPaths. The slug
+ * is language-free; the `/en/` URL prefix is added by the route.
  */
 export function postSlug(id: string): string {
-  return id.replace(/\.mdx?$/, '');
+  return id.replace(LOCALE_DIR_RE, '').replace(/\.mdx?$/, '');
+}
+
+/** Posts written in `lang`, without mutating the input. */
+export function postsInLang<T extends { id: string }>(posts: T[], lang: Lang): T[] {
+  return posts.filter((post) => postLang(post.id) === lang);
 }
 
 /**
