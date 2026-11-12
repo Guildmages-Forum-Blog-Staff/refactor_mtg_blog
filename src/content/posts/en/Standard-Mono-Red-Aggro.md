@@ -33,7 +33,7 @@ Looking at it, my main deck is practically already half a sideboard plan, and un
 
 ### The Cards I Chose That Differ From Other Mono-Red Aggro Decks
 
-![[[扭曲忠貞]]](https://cards.scryfall.io/large/front/3/8/382d6085-79b9-48f7-8949-9f44dde2c753.jpg?1692938579)
+![Twisted Fealty](https://cards.scryfall.io/large/front/3/8/382d6085-79b9-48f7-8949-9f44dde2c753.jpg?1692938579)
 
 Some players do run it too. Its greatest value is of course against creatures that give Mono-Red Aggro a headache, like [Atraxa, Grand Unifier](https://cards.scryfall.io/large/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1676519555) or [Phyrexian Obliterator](https://cards.scryfall.io/large/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg?1675957044). But it's also quite valuable against midrange or aggro decks: when you cast it successfully, you get one more creature that can attack, and your total power on board goes up by 1 because of the attached Wicked Role, while the opponent has one fewer creature that can block; when the opponent's life isn't so healthy, you may even see the opponent block the stolen creature with their own creatures!
 
@@ -68,13 +68,13 @@ I didn't pick it because the three-mana slot in my deck is too crowded. A three-
 ### Round 1: 2-0 vs. Azorius Prowess
 
 - Game 1, on the play, the opponent's [Monastery Mentor](https://cards.scryfall.io/large/front/7/5/75665c2f-a100-4e3f-be8e-b5cc3c9a090b.jpg?1682202772) was easily removed on time by me, and I won directly on total power.
-- Game 2, on the draw, I forgot that the 1/1s the opponent's Mentor makes have prowess, and because of that I paid for an extra [Play with Fire](https://cards.scryfall.io/large/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1636223358) + lost a Kumano in a trade; later I directly used [[[扭曲忠貞]]](https://cards.scryfall.io/large/front/3/8/382d6085-79b9-48f7-8949-9f44dde2c753.jpg?1692938579) on the opponent's [[[狂妄巨靈]]](https://cards.scryfall.io/large/front/3/5/35095a68-b7c0-4805-b0b6-6ca15a338692.jpg?1673306736) to end the game.
+- Game 2, on the draw, I forgot that the 1/1s the opponent's Mentor makes have prowess, and because of that I paid for an extra [Play with Fire](https://cards.scryfall.io/large/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1636223358) + lost a Kumano in a trade; later I directly used [Twisted Fealty](https://cards.scryfall.io/large/front/3/8/382d6085-79b9-48f7-8949-9f44dde2c753.jpg?1692938579) on the opponent's [Haughty Djinn](https://cards.scryfall.io/large/front/3/5/35095a68-b7c0-4805-b0b6-6ca15a338692.jpg?1673306736) to end the game.
 
 ### Round 2: 2-1 vs. Domain
 
 - Game 1, on the play, the opponent missed land drops on turns 3 and 5 once each, couldn't keep up with the tempo, and blew up.
   For the sideboard games I brought in [Alchemist's Gambit](https://cards.scryfall.io/large/front/a/8/a8fbf5d3-4677-4bf0-891f-57d6dcddaff7.jpg?1643590637) and [Invasion of Regatha](https://scryfall.com/card/mom/148/invasion-of-regatha-disciples-of-the-inferno)
-  For [[[扭曲忠貞]]](https://cards.scryfall.io/large/front/3/8/382d6085-79b9-48f7-8949-9f44dde2c753.jpg?1692938579), considering the opponent's Atraxa would come down, I only added one more.
+  For [Twisted Fealty](https://cards.scryfall.io/large/front/3/8/382d6085-79b9-48f7-8949-9f44dde2c753.jpg?1692938579), considering the opponent's Atraxa would come down, I only added one more.
 - Game 2, on the draw, the opponent gained 12 life in total and I couldn't win.
 - Game 3, on the play, I had two Kumano + [Goddric](<(https://cards.scryfall.io/large/front/f/e/fe93ef82-51de-40ad-9b52-8f3fd11c144f.jpg?1692938249)>) + Play with Fire.
   On turn 4 I later drew Alchemist's Gambit; at the time the opponent was at 12 life, my total power on board was 6, and the opponent had tapped out, so one extra turn won the game directly.
@@ -90,7 +90,7 @@ I didn't pick it because the three-mana slot in my deck is too crowded. A three-
 ### Round 4: 2-0 vs. Domain
 
 - Game 1, on the draw, the opponent used a kicked Angel twice to remove a 2/3 [Monastery Swiftspear](https://cards.scryfall.io/large/front/d/6/d6bfa227-4309-40ed-952c-279595eab17e.jpg?1701690543) with a counter, and a turn later I used Witchstalker Frenzy to easily remove the kicked Angel and win.
-- Game 2, on the draw, on turn 4 the opponent cast [Sunfall](https://cards.scryfall.io/large/front/3/2/32e29c7d-ed4b-4eff-b3c2-d99e5b63ef8d.jpg?1682202915) to sweep the board and made an Incubate 3; the opponent then flooded and passed two turns, only flipping the 3/3, and in the end I won using [[扭曲忠貞]] twice to apply damage.
+- Game 2, on the draw, on turn 4 the opponent cast [Sunfall](https://cards.scryfall.io/large/front/3/2/32e29c7d-ed4b-4eff-b3c2-d99e5b63ef8d.jpg?1682202915) to sweep the board and made an Incubate 3; the opponent then flooded and passed two turns, only flipping the 3/3, and in the end I won using Twisted Fealty twice to apply damage.
 
 Rounds 5 + 6: Draw, intentional draws, against Golgari Midrange and Azorius Midrange respectively.
 
@@ -100,11 +100,11 @@ Second place after six rounds.
 
 - Game 1, on the play, I had a pretty good opening hand and won outright; I've forgotten some of the details.
 - Game 2, on the draw, the opponent gained a fair amount of life and many of my creatures were removed; the opponent took this game by gaining a lot of board advantage from [Preacher of the Schism](https://cards.scryfall.io/large/front/8/9/89345f55-2b32-4356-945a-d56dded39909.jpg?1699044158).
-- Game 3, I flooded and the opponent was stuck on two lands for three turns; later I drew a [[扭曲忠貞]] to steal their creature and ended the game directly.
+- Game 3, I flooded and the opponent was stuck on two lands for three turns; later I drew a Twisted Fealty to steal their creature and ended the game directly.
 
 ### Top 4: 0-2 vs. Dimir Midrange
 
-- Game 1, the opponent and I each mulliganed to six, I got an opening hand that wasn't very smooth and my draws weren't smooth either, then I got color screwed; [[約格莫夫判官基克斯]](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) drew them a lot of cards, and in the end the opponent played [Sheoldred, the Apocalypse](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568) and drew cards and gained life like crazy.
+- Game 1, the opponent and I each mulliganed to six, I got an opening hand that wasn't very smooth and my draws weren't smooth either, then I got color screwed; [Gix, Yawgmoth Praetor](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) drew them a lot of cards, and in the end the opponent played [Sheoldred, the Apocalypse](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568) and drew cards and gained life like crazy.
 - Game 2, the opponent mulliganed to six; Urabrask's Forge got countered by [Tishana's Tidebinder](https://cards.scryfall.io/large/front/9/0/907b3d1d-8c85-4707-80b5-c4d832df9846.jpg?1699043973), and afterwards I couldn't produce creatures at all; lacking damage I couldn't kill the opponent and conceded.
 
 ## Conclusion: My Takeaways From Playing Mono-Red Aggro

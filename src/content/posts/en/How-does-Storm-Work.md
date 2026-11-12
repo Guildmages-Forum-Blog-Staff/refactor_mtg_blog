@@ -173,4 +173,4 @@ For details on the score definitions and the ratings of various mechanics, see t
 
 However, in the 2019-2020s, MTG's design philosophy underwent a huge shift, and the power and complexity of Standard sets before and after that period show an obvious break. So views on various mechanics in earlier articles may be outdated, and in any case this is just Maro's personal evaluation and doesn't represent the opinion of the entire official development team. So there's no need to take the ratings in them too seriously; just read them casually as light chatter.
 
-Still, there's one thing I want to complain about: Storm's appearance rate really doesn't look like the definition of a 10! Why not just rename it the [[行侶]] Scale instead? Oh wait, [[行侶]] is only a 9...? I give up complaining.
+Still, there's one thing I want to complain about: Storm's appearance rate really doesn't look like the definition of a 10! Why not just rename it the Companion Scale instead? Oh wait, Companion is only a 9...? I give up complaining.

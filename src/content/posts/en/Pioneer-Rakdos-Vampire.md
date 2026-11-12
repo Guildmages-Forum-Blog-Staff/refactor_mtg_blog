@@ -81,7 +81,7 @@ Basically this is a traditional Rakdos Midrange deck with a Sorin combo bolted o
 
 For this kind of aggro control deck, it comes down to discard disruption and cards brought in from the sideboard like [Leyline of the Void](https://scryfall.com/card/m20/107/leyline-of-the-void) to slow down the opponent's plan, while [Damping Sphere](https://scryfall.com/card/dmr/219/damping-sphere) will leave a Phoenix deck stuck and unable to deal with it in time, making their spell chains nearly impossible. Interestingly, in current Phoenix builds it is very difficult to deal with [Vein Ripper](https://scryfall.com/card/mkm/110/vein-ripper)! Besides Phoenix having so few creatures that it's hard to pay the ward cost, the only cards that can remove Ripper on their own are the 4 [Lightning Axe](https://scryfall.com/card/tsr/174/lightning-axe), while [Fiery Impulse](https://scryfall.com/card/ori/145/fiery-impulse) needs at least two, which means you must have two or more creatures to pay the ward cost, and I think the odds of that are very low.
 
-### Traditional Control: Such as Azorius Control and [[天光尼米捷]]
+### Traditional Control: Such as Azorius Control and Niv to Light
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Vampire/eb52f5bec230.webp)
 
@@ -125,7 +125,7 @@ As for Boros Heroic, if you carefully hold on to targeted kills and use discard 
 
 ### Predicted Metagame Changes After PT MKM
 
-Since Rakdos Vampires performed so well this time, there will surely be many players who want to follow along, and other anti players who don't want to let Sorin and Vein Ripper resolve will further stir up the metagame. Perhaps decks that previously did well against Rakdos Midrange, like Gruul Vehicles and [[老鼠車]], will increase their usage. And sacrifice-based answers like [Soul Shatter](https://scryfall.com/card/znr/127/soul-shatter), [Liliana of the Veil](https://scryfall.com/card/dmu/97/liliana-of-the-veil), and [Sheoldred's Edict](https://scryfall.com/card/one/108/sheoldreds-edict) may also re-enter the consideration of black-based players.
+Since Rakdos Vampires performed so well this time, there will surely be many players who want to follow along, and other anti players who don't want to let Sorin and Vein Ripper resolve will further stir up the metagame. Perhaps decks that previously did well against Rakdos Midrange, like Gruul Vehicles and Greasefang, will increase their usage. And sacrifice-based answers like [Soul Shatter](https://scryfall.com/card/znr/127/soul-shatter), [Liliana of the Veil](https://scryfall.com/card/dmu/97/liliana-of-the-veil), and [Sheoldred's Edict](https://scryfall.com/card/one/108/sheoldreds-edict) may also re-enter the consideration of black-based players.
 
 Let's keep watching.
 

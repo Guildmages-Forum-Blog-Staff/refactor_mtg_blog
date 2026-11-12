@@ -16,7 +16,7 @@ authors:
 ## Before We Start
 
 Ever since MH2 came out, Izzet Murktide has been one of my favorite Modern decks.
-Back then [[勒格文]] was too expensive, so I shelved the idea.
+Back then Ragavan was too expensive, so I shelved the idea.
 After plenty of ups and downs, I finally finished building the whole Murktide deck this May. I'll get into the details of that journey when I have time.
 
 I wrote a similar article on my own blog before, but that was back before Preordain got unbanned. If you want to look back at that old article, [click here](https://miohitokiri5474.github.io/game/Izzet-Murktide/).
@@ -39,7 +39,7 @@ After all, the original slot was there to cycle an Island and find a land, and i
 The creature suite is about the same as what over ninety percent of the meta is playing: a full set of Ragavan and DRC, two Subtlety, and three Murktide Regent.
 Ragavan is the strongest one-drop in the format. It feels great against tempo, midrange, and control alike, generating resources and Treasures. Awesome.
 DRC is the main graveyard-filling tool, and it also filters the top of your library when you draw. After delirium it becomes a 3/3 flyer and deals damage fast. It has to attack, which is sometimes awkward, but overall the upsides outweigh the downsides.
-Subtlety is there to deal with the one-mana Scam in the current environment, and with the Omnath / [[小泰]] / [[卡恩]] in four-color elementals that can't be countered.
+Subtlety is there to deal with the one-mana Scam in the current environment, and with the Omnath / Teferi, Time Raveler / Karn, the Great Creator in four-color elementals that can't be countered.
 Murktide Regent is the only big threat now. We used to have Ledger Shredder too, but ever since Orcish Bowmasters burst onto the scene, a card that requires you to draw an extra card had to be painfully cut.
 
 ### Spells

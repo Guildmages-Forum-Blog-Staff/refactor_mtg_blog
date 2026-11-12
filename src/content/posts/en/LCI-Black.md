@@ -213,7 +213,7 @@ As long as it attacks it's a gain. Once played, a 2/4 deathtouch body relatively
 
 **Jru**: 2.5
 
-A suicide-squad member that, on dying, uses [[傾探]] 3 for resource continuity. Overall it's a gain, but if you trade a five-mana creature for a Grizzly Bears, that doesn't seem to gain much, and it may be better at blocking than attacking; only by trading with the opponent's big creature can the value of the [[傾探]] 3 attached to its death show.
+A suicide-squad member that, on dying, uses discover 3 for resource continuity. Overall it's a gain, but if you trade a five-mana creature for a Grizzly Bears, that doesn't seem to gain much, and it may be better at blocking than attacking; only by trading with the opponent's big creature can the value of the discover 3 attached to its death show.
 
 ![115](https://cards.scryfall.io/large/front/d/0/d0a3339d-6067-4af5-9536-7e2d5ddd8918.jpg?1699044164)
 

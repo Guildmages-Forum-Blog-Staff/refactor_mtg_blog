@@ -71,7 +71,7 @@ Comment: Extremely inefficient color fixing: it takes six mana to produce five m
 <!---6--->
 {% mtgpick "eos" 6 %}
 Score: 3.0
-Comment: [[頌威]] is undoubtedly a fairly powerful ability in a Limited format that emphasizes creature combat, often creating favorable trades. However, its colorlessness and entering tapped cannot be ignored as weaknesses, and in deck building it may also limit the player's tempo and multicolor potential.
+Comment: Exalted is undoubtedly a fairly powerful ability in a Limited format that emphasizes creature combat, often creating favorable trades. However, its colorlessness and entering tapped cannot be ignored as weaknesses, and in deck building it may also limit the player's tempo and multicolor potential.
 
 
 <!---7--->

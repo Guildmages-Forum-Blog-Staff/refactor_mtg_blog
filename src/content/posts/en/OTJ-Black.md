@@ -278,7 +278,7 @@ A variant of [Phyrexian Rager](https://scryfall.com/card/cmr/142/phyrexian-rager
 > Have you committed a crime? With someone other than me... (X
 
 First, black as a mono-color really encourages committing crimes. Going Outlaws is middle of the road, going sacrifice is a bit hard, and you don't need to manage your graveyard specially. It basically encourages more crimes, encourages players to be criminals (X
-Fortunately we have the whole Breaking News, OTP, to support us committing crimes! You could say it is the color pair most influenced by the [[秘典]].
+Fortunately we have the whole Breaking News, OTP, to support us committing crimes! You could say it is the color pair most influenced by the Outlaws.
 
 Also, [Gisa, the Hellraiser](https://scryfall.com/card/otj/89/gisa-the-hellraiser) is my big sis. Commit one crime on entering and you instantly produce 10 power on board. Absolutely outrageous.
 

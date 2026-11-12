@@ -162,7 +162,7 @@ The first few are easy to understand: since you have no board and no removal or 
 High practice volume and flexible thinking are needed so you know which things on the current board threaten us and make countermeasures as early as possible (when you have a Field and Stage in hand, use the Forest's scry to first find Boseiju or Otawara in preparation), or know how to survive in the cracks when you are about to die.
 
 Finally, you have to be able to accept that you will be punished by the top of your library. Let me give an example, the last straw that broke me and made me determined to take the Lotus Field combo apart no matter what.
-It was a certain MITQ. In round one I played an ugly big match against Creativity, where neither side drew anything, the opponent had a hand full of counters and I had a hand full of lands, and in the end the opponent drew [[奇奇]] first. In round two I played control, and when I cast [Thought Distortion](https://cards.scryfall.io/large/front/f/4/f4a9d636-6720-4d7e-8b81-12c20bce6495.jpg?1592516789) I ran into [Narset's Reversal](https://cards.scryfall.io/large/front/6/3/63754036-d51e-47bb-925b-564d9dc922ff.jpg?1557576279), twice, so my standing no longer mattered, and I hadn't dropped yet, just treating it as practice.
+It was a certain MITQ. In round one I played an ugly big match against Creativity, where neither side drew anything, the opponent had a hand full of counters and I had a hand full of lands, and in the end the opponent drew Kiki-Jiki first. In round two I played control, and when I cast [Thought Distortion](https://cards.scryfall.io/large/front/f/4/f4a9d636-6720-4d7e-8b81-12c20bce6495.jpg?1592516789) I ran into [Narset's Reversal](https://cards.scryfall.io/large/front/6/3/63754036-d51e-47bb-925b-564d9dc922ff.jpg?1557576279), twice, so my standing no longer mattered, and I hadn't dropped yet, just treating it as practice.
 The match then was against Gruul Midrange. I had no lands in my opening hand so I mulliganed (or maybe my hand was all lands, I forget, anyway I had to mulligan either way). My hand was:
 2x Lotus Field
 1x Temple of Mystery
@@ -171,10 +171,10 @@ The match then was against Gruul Midrange. I had no lands in my opening hand so 
 1x Impulse
 There was one more card but I forgot what it was, and it isn't important and doesn't affect the rest of the story.
 Anyway, this was a hand I would keep, figuring I'd put a Lotus Field down, and I'd still have room to scry two cards off the top, so any second land that isn't a Lotus Field would do.
-Turn one, I play the scry land, see a nonland card, okay, bottom. The opponent plays a land and slams a [[密教徒]], then passes to me.
-Turn two, I draw a Lotus Field, nothing to do, pass; the opponent plays a land and slams [[追風客]], hitting me for three.
+Turn one, I play the scry land, see a nonland card, okay, bottom. The opponent plays a land and slams a Elvish Mystic, then passes to me.
+Turn two, I draw a Lotus Field, nothing to do, pass; the opponent plays a land and slams a three-power creature, hitting me for three.
 Turn three, I draw another Lotus Field, still nothing to do, pass; the opponent plays a land and slams Esika's Chariot, hitting me for seven.
-Turn four, I draw a sweeper but still have no land. The opponent plays a land, [[雲威號]], and kills me. Fun game, play it every day.
+Turn four, I draw a sweeper but still have no land. The opponent plays a land, Skysovereign, Consul Flagship, and kills me. Fun game, play it every day.
 
 I couldn't bear the situation of "I've been practicing seriously, but at the critical moment I still get messed up by my right hand," and I realized I seem better suited to midrange after all, and running into this finally broke me.
 So afterward I took the Lotus Field apart and went off in search of other decks better suited to me.

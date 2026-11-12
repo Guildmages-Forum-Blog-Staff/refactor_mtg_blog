@@ -8,7 +8,7 @@ categories:
   - "TLA"
 cover: "https://images.guildmagesforum.tw/posts/TLA-TLE/23835bf78372-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/TLA-TLE/23835bf78372-cover.jpg"
-excerpt: "Some old familiar faces, some old flames, and what, even [[貂蟬]] is here? Let's see what cards TLE has to offer."
+excerpt: "Some old familiar faces, some old flames, and what, even Diaochan is here? Let's see what cards TLE has to offer."
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../TLA-TLE/).

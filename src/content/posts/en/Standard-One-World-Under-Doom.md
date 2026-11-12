@@ -53,7 +53,7 @@ Connive would be pointless if it were only card filtering, so outside the offici
 
 ![](https://images.guildmagesforum.tw/posts/Standard-One-World-Under-Doom/42aea5495d49.webp)
 
-* **[[惡名助拳人]]: Tombstone, Mysterio, and The Masters of Evil**
+* **Notorious Allies: Tombstone, Mysterio, and The Masters of Evil**
 
 We also have a few "business partners" whose interests line up with ours: criminals with exclusive connections or unusual powers who can take what they need when called upon. [Tombstone, Career Criminal](https://scryfall.com/card/spm/70/tombstone-career-criminal) is the lubricant that reduces costs and speeds up the arrival of villains, and when he enters he recovers villains that died or were discarded into the graveyard, even letting you complete [Doom Reigns Supreme](https://scryfall.com/card/msh/96/doom-reigns-supreme) by fetching himself. [Mysterio, Master of Illusion](https://scryfall.com/card/spm/37/mysterio-master-of-illusion) is the main beater: he sends out as many illusions as the number of nontoken villains you control, and as long as he survives he can usually overrun the opponent in one wave, making the conditions of [Doom Reigns Supreme](https://scryfall.com/card/msh/96/doom-reigns-supreme) a piece of cake. What if the illusions are not big enough? Then [The Masters of Evil](https://scryfall.com/card/msh/105/the-masters-of-evil) can pump the whole team, and if you draw it early you can discard it to search for [Doom Reigns Supreme](https://scryfall.com/card/msh/96/doom-reigns-supreme), the first step of the evil plan.
 

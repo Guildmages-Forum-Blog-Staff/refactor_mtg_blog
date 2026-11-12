@@ -85,7 +85,7 @@ Back to the deck itself: because [Afterburner Expert](https://scryfall.com/card/
 [Decklist link](https://www.mtggoldfish.com/deck/6915010#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/DFT-Standard-Preliminary/7b2977c39723.webp)
 
-It looks like Wizards really wants to push the Goblin tribe lately. You can almost build the whole deck from just the two newest sets, and there are so many quality three-drops that the former war god [Squee, Dubious Monarch](https://scryfall.com/card/dmu/146/squee-dubious-monarch) can't find a slot. Because I liked the efficient board development and mana production of [[咆哮組打手]](https://scryfall.com/card/dmu/146/squee-dubious-monarch) + [Krenko, Mob Boss](https://scryfall.com/card/dmu/146/squee-dubious-monarch), I also experimentally included one [City on Fire](https://scryfall.com/card/mom/135/city-on-fire) to play as an ultimate.
+It looks like Wizards really wants to push the Goblin tribe lately. You can almost build the whole deck from just the two newest sets, and there are so many quality three-drops that the former war god [Squee, Dubious Monarch](https://scryfall.com/card/dmu/146/squee-dubious-monarch) can't find a slot. Because I liked the efficient board development and mana production of [Howlsquad Heavy](https://scryfall.com/card/dmu/146/squee-dubious-monarch) + [Krenko, Mob Boss](https://scryfall.com/card/dmu/146/squee-dubious-monarch), I also experimentally included one [City on Fire](https://scryfall.com/card/mom/135/city-on-fire) to play as an ultimate.
 
 ![Key cards](https://images.guildmagesforum.tw/posts/DFT-Standard-Preliminary/aab2be41a10e.webp)
 

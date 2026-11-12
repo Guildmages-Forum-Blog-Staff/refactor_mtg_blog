@@ -219,8 +219,8 @@ A good matchup. Use Dauthi to grab the opponent's Titan or Ring and use it yours
 |     +2 Bonecrusher Giant     |             -1 Blood Moon             |
 | +2 Sheoldred, the Apocalypse |    -4 Fable of the Mirror-Breaker     |
 
-Bite the bullet and mulligan down to an opening hand that can turn-one Grief scam. After that you basically just lie back and play (the opponent is burning your face anyway and there's nothing you can say about it), and the remaining attention goes to [[祝聖僧]] (put an X = 2 EE on the battlefield).
-Sheoldred on curve feels great, and I find Thoughtseize, trading two life for three, acceptable, and it also gives a chance to discard the [[祝聖僧]].
+Bite the bullet and mulligan down to an opening hand that can turn-one Grief scam. After that you basically just lie back and play (the opponent is burning your face anyway and there's nothing you can say about it), and the remaining attention goes to their key creature (put an X = 2 EE on the battlefield).
+Sheoldred on curve feels great, and I find Thoughtseize, trading two life for three, acceptable, and it also gives a chance to discard the their key creature.
 Then use Chalice to lock X = 1, more or less dodging the one-mana spells, betting the opponent didn't bring removal for it.
 
 ### Tron
@@ -260,7 +260,7 @@ Also, Chalice locking X = 1 is painful for Murktide Regent. Many Murktide Regent
 
 Basically the monkeys are useless, since the opponent has too many low-cost creatures, so it's better to bring in more removal and sweepers.
 Also note that the **modular** ability only triggers when the creature **dies**. If Dauthi or LotV is on the battlefield, modular won't trigger when it dies.
-And although in this matchup you should bring Blood Moon because of Urza's Saga and [[墨蛾地]], we might be dead before we ever land Blood Moon, so (ry
+And although in this matchup you should bring Blood Moon because of Urza's Saga and Inkmoth Nexus, we might be dead before we ever land Blood Moon, so (ry
 
 ### Hammer Time
 

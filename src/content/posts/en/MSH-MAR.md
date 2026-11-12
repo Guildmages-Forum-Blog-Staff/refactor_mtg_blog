@@ -83,7 +83,7 @@ Marvel Universe ([MAR](https://scryfall.com/sets/mar)) is a subset attached to t
  
  {% mtgpick "MAR" 52 %}
  Rating: 3.0
- Comment: [[魔風]] is the strongest Counterspell.
+ Comment: The strongest hard counter in Magic.
         
  
  {% mtgpick "MAR" 53 %}

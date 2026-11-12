@@ -4,7 +4,7 @@ title: "豬鼻子 Looks at the Late-2025 Standard Environment: Written Before th
 date: "2026-01-05 09:55:33"
 cover: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/2025-Standard-Review-Before-ECL-Release/c87f73d3a767-cover.jpg"
-excerpt: "Blue-green reigns as king, white and black keep the board company. Removal and discard fall short, and games end by turn four. New waves push the old, and bans pile up without end. [[飛踢]] chains into Thoughtseize, and Day of Black Sun hangs in the sky once more."
+excerpt: "Blue-green reigns as king, white and black keep the board company. Removal and discard fall short, and games end by turn four. New waves push the old, and bans pile up without end. Flying kicks chain into Thoughtseize, and Day of Black Sun hangs in the sky once more."
 authors:
   - "cephille"
 categories:

@@ -63,7 +63,7 @@ The second blue-white pool, but much weaker than the first, and more dependent o
 The second black-green pool has about the same bomb strength, but is structurally far inferior to the first black-green Villains deck. With too few two-drops, it had to squeeze Hero cards in, and bolted on a {% mtglink "Heroic Feast" %} life-gain-and-counters theme; if {% mtglink "Tigra, Feline Fury
 " %} and {% mtglink "Knight of Wundagore" %} are on the battlefield together, both of them get two counters out of it, but that's about all there is to it. Because its resource staying power is weak, it went the opposite way and added two {% mtglink "HYDRA Infiltration" %} to weaken the opponent's mid-to-late-game strength.
 
-![[[勇德]]](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/f118d6a78f80.webp)
+![Jund](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/f118d6a78f80.webp)
 
 The theme is less clear, but with 3 {% mtglink "Red Room Recruit" %} it should still survive the early game, and if the bombs show up there's still a chance to win. If it gets acceleration, holding the fort and counterattacking with the 676 dinosaur {% mtglink "Savage Land Dinosaur" %} also works.
 
@@ -73,7 +73,7 @@ If white-black doesn't have a dense low curve to go with Equipment, the other ax
 
 ![UG](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/bf3038c3e1ef.webp)
 
-Once acceleration and card draw are in place, the creature size of blue-green will definitely not let you down! Pair some disruptive blue creatures with brute-force green creature size to get across! {% mtglink "Pym Particles" %} is merely a middling card in other color pairs, leaning toward card filtering and triggering [[靈技]], but in blue-green it can be the key to a knockout!
+Once acceleration and card draw are in place, the creature size of blue-green will definitely not let you down! Pair some disruptive blue creatures with brute-force green creature size to get across! {% mtglink "Pym Particles" %} is merely a middling card in other color pairs, leaning toward card filtering and triggering Prowess, but in blue-green it can be the key to a knockout!
 
 ![RW](https://images.guildmagesforum.tw/posts/MSH-Booster-Festival/3bcec2e3d3a5.webp)
 

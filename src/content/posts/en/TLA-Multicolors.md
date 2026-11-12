@@ -169,7 +169,7 @@ Comment: Creating a Clue on entering supports Waterbend as well as drawing cards
 <!---207--->
 ![207](https://images.guildmagesforum.tw/posts/TLA-Multicolors/5f2b3e5ffbca.webp)
 Score: 3.0
-Comment: A quite powerful card, but four different colored requirements still make it somewhat hard to cast, so I recommend considering it only in green-based decks. If it can come down on time, it's a 4-mana 4/4 flyer that draws a card each time it attacks (the attack-triggered Firebending 2 can trigger the draw). If the other three bendings can all trigger on the same turn, the flipped [[神通王安]] can quickly help you win the game. However, rather than staying in the flipped [[神通王安]] state, the payoff of flipping back each time may be more appealing!
+Comment: A quite powerful card, but four different colored requirements still make it somewhat hard to cast, so I recommend considering it only in green-based decks. If it can come down on time, it's a 4-mana 4/4 flyer that draws a card each time it attacks (the attack-triggered Firebending 2 can trigger the draw). If the other three bendings can all trigger on the same turn, the flipped Avatar Aang can quickly help you win the game. However, rather than staying in the flipped Avatar Aang state, the payoff of flipping back each time may be more appealing!
 
 
 <!---208--->
@@ -406,7 +406,7 @@ Comment: An important amplifier for red-white go-wide aggro. The 4-mana 3/5 body
 <!---245--->
 {% mtgpick "tla" 245 %}
 Score: 3.0
-Comment: Creating a Clue on entering triggers the [[生人]] effect once, but it still needs other sacrifice-engine themes to work steadily.
+Comment: Creating a Clue on entering triggers the Clue-sacrifice effect once, but it still needs other sacrifice-engine themes to work steadily.
 
 
 <!---246--->

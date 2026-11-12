@@ -35,7 +35,7 @@ The picture above is the deck I used at the 桌遊侍 MITQ#5. That day I beat fo
 
 Who knew that the day after I qualified at the MITQ, [Fury](https://scryfall.com/card/mh2/126/fury) would get banned? I had been cutting corners by playing only [Fury](https://scryfall.com/card/mh2/126/fury) and no [Dead // Gone](https://scryfall.com/card/tsr/161/dead-gone) to deal with small creatures, and now that was gone.
 
-The tasty Scam decks became rarer, and so did the annoying 4C Omnath. Without Fury, you can expect more small-creature decks, so the stronger Hammertime, Hardened Scales, Humans, Golgari Yawgmoth and Selesnya Company decks should show up more; and rare animals like Faeries, Merfolk, [[共鳴]], Infect, Death & Taxes and Bant Cloudshift should appear too. Originally I just wanted to replace [Fury](https://scryfall.com/card/mh2/126/fury) with [Bonecrusher Giant](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp)......
+The tasty Scam decks became rarer, and so did the annoying 4C Omnath. Without Fury, you can expect more small-creature decks, so the stronger Hammertime, Hardened Scales, Humans, Golgari Yawgmoth and Selesnya Company decks should show up more; and rare animals like Faeries, Merfolk, Affinity, Infect, Death & Taxes and Bant Cloudshift should appear too. Originally I just wanted to replace [Fury](https://scryfall.com/card/mh2/126/fury) with [Bonecrusher Giant](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp)......
 
 ![](https://images.guildmagesforum.tw/posts/Modern-Temur-Rhinos-LD/379f6fb7fcaf.webp)
 
@@ -266,6 +266,6 @@ I looked over the Open List first: both main deck and sideboard had [Dauthi](htt
 
 Some people say that what Taiwanese players do best is copy a Top 8 deck and then ruin it with their own tinkering before they're willing to take it to a tournament 😆
 
-I don't think so. In a national team qualifier Standard event I once played [Basilisk Collar](https://scryfall.com/card/wwk/122/basilisk-collar) in [[勇得]], going 6-0 in the constructed rounds; and in White-Blue [[雲雀]] I played [Loxodon Warhammer](https://scryfall.com/card/mrd/201/loxodon-warhammer) and beat up a bunch of mirror matches. Spending more time testing and fine-tuning a deck is definitely better than copying a deck while only half understanding it.
+I don't think so. In a national team qualifier Standard event I once played [Basilisk Collar](https://scryfall.com/card/wwk/122/basilisk-collar) in Jund, going 6-0 in the constructed rounds; and in White-Blue Spirits I played [Loxodon Warhammer](https://scryfall.com/card/mrd/201/loxodon-warhammer) and beat up a bunch of mirror matches. Spending more time testing and fine-tuning a deck is definitely better than copying a deck while only half understanding it.
 
 I got into Magic in high school, and twenty years have gone by like one day. I've played in plenty of the old national team qualifiers, but I never imagined I'd win a championship during the busiest time of life with three little ones. I've taken this Rhino deck to tournaments only three times, which is truly very lucky. I hope to keep winning glory for Taiwan at Worlds!

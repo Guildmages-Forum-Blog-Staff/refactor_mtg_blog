@@ -3,7 +3,7 @@ title: "Outlaws of Thunder Junction (OTJ) Limited Primer — Breaking News (OTP)
 date: "2024-04-12 18:34:46"
 cover: "https://images.guildmagesforum.tw/posts/OTJ-OTP/c3c1051917d6-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-OTP/c3c1051917d6-cover.jpg"
-excerpt: "Extra, extra! My opponent used Thoughtseize to discard my Terror of the Peaks, then dug it back up with [[活屍法]]! So ruthless!"
+excerpt: "Extra, extra! My opponent used Thoughtseize to discard my Terror of the Peaks, then dug it back up with Animate Dead! So ruthless!"
 categories:
   - "Limited"
   - "OTJ"
@@ -137,7 +137,7 @@ If you can cast it you usually win, but eight mana is still too big.
 
 **cephille:** 3.0
 
-I thought I was playing Legacy Cube! Being able to use ancient god cards like [[屍變]] in Limited should be a great experience! Remember you can dig up your opponent's creatures too, and if you have enough life, pay it boldly!
+I thought I was playing Legacy Cube! Being able to use ancient god cards like Reanimate in Limited should be a great experience! Remember you can dig up your opponent's creatures too, and if you have enough life, pay it boldly!
 
 ![019](https://cards.scryfall.io/large/front/1/1/11cc603a-5d60-4959-a03f-e3dfbee4606b.jpg?1712094585)
 

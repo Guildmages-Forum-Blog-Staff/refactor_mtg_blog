@@ -110,7 +110,7 @@ However, Say Its Name & Altanak are also often the cards swapped out most in sid
 [Fabled Passage](https://scryfall.com/card/blb/252/fabled-passage) (2): Extra fixing, and proactively putting lands into the graveyard also makes [Say Its Name](https://scryfall.com/card/dsk/197/say-its-name), [Altanak, the Thrice-Called](https://scryfall.com/card/dsk/166/altanak-the-thrice-called), and [Titania](https://scryfall.com/card/bro/193/titania-voice-of-gaea) run more consistently.
 
 {% mtgcard "Restless Cottage" %}
-[Restless Cottage](https://scryfall.com/card/woe/258/restless-cottage) (4): How to balance manlands against the [surveil land](https://scryfall.com/card/mkm/271/underground-mortuary) is up to personal understanding. For the author, I prefer increasing the number of manlands, and since there is currently no on-color [[[邊陲地]]](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/1477ab9ba869.webp), there's no need to consider the ratio of typed lands.
+[Restless Cottage](https://scryfall.com/card/woe/258/restless-cottage) (4): How to balance manlands against the [surveil land](https://scryfall.com/card/mkm/271/underground-mortuary) is up to personal understanding. For the author, I prefer increasing the number of manlands, and since there is currently no on-color [Verge](https://images.guildmagesforum.tw/posts/Standard-Golgari-Selfmill/1477ab9ba869.webp), there's no need to consider the ratio of typed lands.
 
 [Blooming Marsh](https://scryfall.com/card/otj/266/blooming-marsh) (4), [Llanowar Wastes](https://scryfall.com/card/blc/315/llanowar-wastes) (4), Forest (4), Swamp (4): the rest of the fairly standard mana base.
 

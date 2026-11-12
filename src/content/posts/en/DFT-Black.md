@@ -91,7 +91,7 @@ Comment: In this half-artifact environment, reducing the cost by 2 shouldn't be 
 <!---84--->
 {% mtgpick "dft" 84 %}
 Rating: 3.0
-Comment: A 1-mana deathtouch creature has always been an annoying presence on defense, and if the game really drags into a stalemate it becomes the terminator of [[異次元打擊]].
+Comment: A 1-mana deathtouch creature has always been an annoying presence on defense, and if the game really drags into a stalemate it becomes a finisher.
 
 
 

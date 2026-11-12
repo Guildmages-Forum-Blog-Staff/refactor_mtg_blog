@@ -42,7 +42,7 @@ Review:
 
 - [Alania, Divergent Storm](https://scryfall.com/card/blb/204) has a floor of a [Thraben Purebloods](https://scryfall.com/card/isd/37), but its ceiling in the red-blue color pair is something to look forward to.
 - [Baylen, the Haymaker](https://scryfall.com/card/blb/205) is a three-color creature with an ordinary body, and its ability needs extra support to be strong. BLB is a two-color environment with little support for three colors, so I gave it a low score to steer readers away from it.
-- [Burrowguard Mentor](https://scryfall.com/card/blb/206) gives trample, the ability most needed by creatures like [[莊嚴獨角兔]](https://scryfall.com/card/woe/25) that grow huge when you go wide, so look forward to its excellent performance in the green-white color pair!
+- [Burrowguard Mentor](https://scryfall.com/card/blb/206) gives trample, the ability most needed by creatures like [Regal Bunnicorn](https://scryfall.com/card/woe/25) that grow huge when you go wide, so look forward to its excellent performance in the green-white color pair!
 
 |                                                  207                                                  |                                                  208                                                  |                                                  209                                                  |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |

@@ -180,14 +180,14 @@ Quintorius's passive ability should be the core of your build: simply casting sp
 ![239](https://cards.scryfall.io/large/front/0/b/0ba99b60-c7d0-4041-a065-f2c510745223.jpg?1698263877)
 
 **cephille**: 3.5
-As long as you have other creatures and artifacts she is a very strong [[[奇奇幾奇映影]]](https://cards.scryfall.io/large/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103), and she can even copy artifacts and legendary creatures/artifacts. Remember that the token she makes is also an artifact, so although it's not directly related, it still connects with the Pirate theme designated for blue-red.
+As long as you have other creatures and artifacts she is a very strong [Fable of the Mirror-Breaker](https://cards.scryfall.io/large/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103), and she can even copy artifacts and legendary creatures/artifacts. Remember that the token she makes is also an artifact, so although it's not directly related, it still connects with the Pirate theme designated for blue-red.
 
-> Our silk-and-metal master Saheeli also lost her spark after the great Phyrexian invasion, but that's fine: after crossing the Omenpaths she arrived on Ixalan and found her lover, the battle poet [[華特莉]], and the two of them are living happily on Ixalan.
+> Our silk-and-metal master Saheeli also lost her spark after the great Phyrexian invasion, but that's fine: after crossing the Omenpaths she arrived on Ixalan and found her lover, the battle poet Huatli, and the two of them are living happily on Ixalan.
 
 ![240](https://cards.scryfall.io/large/front/7/0/70c75aa7-e2f9-4a69-8086-c982019ca714.jpg?1698265344)
 
 **cephille**: 4.0
-With [[豹王歐奇尼亞豪]] on the battlefield, every creature you control with power greater than its base power gets bigger and bigger whenever the Leopard King attacks. Combined with pump spells, a quick calculation: if I cast [Staggering Size](https://cards.scryfall.io/large/front/e/3/e34c4946-6c21-4ae1-9595-35933d38da52.jpg?1699044491) on any of my creatures, giving it +3/+3 until end of turn, then when the Leopard King attacks I also put 3 extra +1/+1 counters on that creature, and if I pumped the Leopard King itself it becomes a 9/10 behemoth that turn. In short, if your pumped creature survives the punch, your opponent's creatures will have a hard time catching up to your size again.
+With Sovereign Okinec Ahau on the battlefield, every creature you control with power greater than its base power gets bigger and bigger whenever the Leopard King attacks. Combined with pump spells, a quick calculation: if I cast [Staggering Size](https://cards.scryfall.io/large/front/e/3/e34c4946-6c21-4ae1-9595-35933d38da52.jpg?1699044491) on any of my creatures, giving it +3/+3 until end of turn, then when the Leopard King attacks I also put 3 extra +1/+1 counters on that creature, and if I pumped the Leopard King itself it becomes a 9/10 behemoth that turn. In short, if your pumped creature survives the punch, your opponent's creatures will have a hard time catching up to your size again.
 
 ![241](https://cards.scryfall.io/large/front/8/e/8ee16629-f9be-4cdb-bf52-1d640781ee00.jpg?1698704592)
 
@@ -204,7 +204,7 @@ A 4-mana 4/4 flyer that also has the black-white Vampire tribe is basically wort
 ![244](https://cards.scryfall.io/large/front/6/7/67108256-b7da-44bd-9639-4264931d348f.jpg?1699044584)
 
 **cephille**: 2.5
-Without reaching Descend 8, picking just one mode is fairly weak. Its ceiling is a sorcery-speed [[[退縮]]](https://cards.scryfall.io/large/front/2/2/225f700c-fdf6-41ea-a091-36b0f75f0211.jpg?1562903083) for a nonland permanent plus a [[[戰略計畫]]](https://cards.scryfall.io/large/front/0/0/0050801d-8d39-47e1-bff3-175ac677d3b3.jpg?1645822127).
+Without reaching Descend 8, picking just one mode is fairly weak. Its ceiling is a sorcery-speed [Recoil](https://cards.scryfall.io/large/front/2/2/225f700c-fdf6-41ea-a091-36b0f75f0211.jpg?1562903083) for a nonland permanent plus a [Strategic Planning](https://cards.scryfall.io/large/front/0/0/0050801d-8d39-47e1-bff3-175ac677d3b3.jpg?1645822127).
 
 ## Colorless
 
@@ -244,7 +244,7 @@ I would only want to play it in three or more colors; otherwise, putting a land 
 ![251](https://cards.scryfall.io/large/front/7/1/71cb7776-a6af-4efb-b536-6b9b4f3d3874.jpg?1699044604)
 
 **cephille**: 1.0
-A card-draw source that your opponent might steal, and after at most five cards drawn it becomes a Treasure. But I really don't want to put a card in my own deck that might refill my opponent's hand. Given the choice, I'd rather use other draw options; even something like [[[卜卦]]](https://cards.scryfall.io/large/front/7/4/746a5919-637a-4fbd-8327-c37871e33f22.jpg?1531199027) is probably better than this.
+A card-draw source that your opponent might steal, and after at most five cards drawn it becomes a Treasure. But I really don't want to put a card in my own deck that might refill my opponent's hand. Given the choice, I'd rather use other draw options; even something like [Divination](https://cards.scryfall.io/large/front/7/4/746a5919-637a-4fbd-8327-c37871e33f22.jpg?1531199027) is probably better than this.
 
 ![252](https://cards.scryfall.io/large/front/d/f/dfa3cd5e-b727-479d-9a77-9f320b92f3f2.jpg?1698355580)
 
@@ -296,7 +296,7 @@ By this estimate, it takes at least nine turns to make your opponent lose 1,000 
 ![258](https://cards.scryfall.io/large/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1699044623)
 
 **cephille**: 4.0
-A 4-mana 4/4 artifact creature with ward {2} is no slouch in size, and it makes triggered abilities of your chosen creature type trigger an additional time. [Captain Storm, Cosmium Raider](https://cards.scryfall.io/large/front/1/4/14c65f5a-10bd-4f9b-b816-46c2240b11ff.jpg?1698446586) putting +1/+1 counters on a Pirate twice when an artifact enters? [[[帕拉尼的育幼龍]]](https://cards.scryfall.io/large/front/8/6/86ff73c7-428c-469c-b564-6aa9f4eeca14.jpg?1698348584) making four 0/1 Dinosaur eggs on entering, and hatching two eggs into two 3/3 Dinosaurs at the beginning of your combat? As long as it's on the battlefield and you chose the matching creature type, you can pull it off easily. Great!
+A 4-mana 4/4 artifact creature with ward {2} is no slouch in size, and it makes triggered abilities of your chosen creature type trigger an additional time. [Captain Storm, Cosmium Raider](https://cards.scryfall.io/large/front/1/4/14c65f5a-10bd-4f9b-b816-46c2240b11ff.jpg?1698446586) putting +1/+1 counters on a Pirate twice when an artifact enters? [Palani's Hatcher](https://cards.scryfall.io/large/front/8/6/86ff73c7-428c-469c-b564-6aa9f4eeca14.jpg?1698348584) making four 0/1 Dinosaur eggs on entering, and hatching two eggs into two 3/3 Dinosaurs at the beginning of your combat? As long as it's on the battlefield and you chose the matching creature type, you can pull it off easily. Great!
 
 ![259](https://cards.scryfall.io/large/front/0/6/06d47a3b-dc66-48d8-981b-dde0ccc34ad5.jpg?1699044629)
 
@@ -306,7 +306,7 @@ A 6-mana flash spell that deals 6 to a target creature can kill the vast majorit
 ![260](https://cards.scryfall.io/large/front/a/f/afcb2a90-d4c0-4c83-8ee7-2ac3a23b4402.jpg?1699044632)
 
 **cephille**: 3.5
-Wow! For four mana, a one-shot [[[徒長]]](https://cards.scryfall.io/large/front/7/4/74f91e65-1035-4ba4-b44f-5f1fe164bb7f.jpg?1562647755) that can find a Cave and also gives you a 3/2 artifact creature. A very nice 4-drop.
+Wow! For four mana, a one-shot [Rampant Growth](https://cards.scryfall.io/large/front/7/4/74f91e65-1035-4ba4-b44f-5f1fe164bb7f.jpg?1562647755) that can find a Cave and also gives you a 3/2 artifact creature. A very nice 4-drop.
 
 ![261](https://cards.scryfall.io/large/front/1/9/194b7899-6b44-4ecc-8ddc-ec24304eb14c.jpg?1699044632)
 

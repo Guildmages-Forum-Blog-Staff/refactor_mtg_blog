@@ -3,7 +3,7 @@ title: "Outlaws of Thunder Junction (OTJ) Limited Primer — Red"
 date: "2024-04-09 00:09:34"
 cover: "https://images.guildmagesforum.tw/posts/OTJ-Red/a12e9c02fdc8-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Red/a12e9c02fdc8-cover.jpg"
-excerpt: "A two-mana 4-power wasn't enough, so how about a two-mana 5-power? [[啟示天災希歐蕊]] says: not yet."
+excerpt: "A two-mana 4-power wasn't enough, so how about a two-mana 5-power? Sheoldred, the Apocalypse says: not yet."
 categories:
   - "Limited"
   - "OTJ"

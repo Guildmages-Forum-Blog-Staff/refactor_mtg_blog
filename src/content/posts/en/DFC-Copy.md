@@ -16,7 +16,7 @@ authors:
 
 ## Before We Start
 
-Double-faced cards and copy effects are both bosses of the rules Q&A world. Either one alone already pulls in a pile of rules, and when the two interact, the result is often not just counterintuitive: you may not even know where to start analyzing it. On top of that, the Incubator token that came with the [[邪軍壓境]] set completely upended many people's understanding of how double-faced cards work. Maybe you have tried searching the rules yourself, only to be lost in a sea of rule text, or got dizzy the moment you saw that a characteristic has seven Layers.
+Double-faced cards and copy effects are both bosses of the rules Q&A world. Either one alone already pulls in a pile of rules, and when the two interact, the result is often not just counterintuitive: you may not even know where to start analyzing it. On top of that, the Incubator token that came with the March of the Machine set completely upended many people's understanding of how double-faced cards work. Maybe you have tried searching the rules yourself, only to be lost in a sea of rule text, or got dizzy the moment you saw that a characteristic has seven Layers.
 
 In this column, let's take on the challenge of explaining, in plain language and without losing rules rigor, what you get when you copy a double-faced card. And let's narrow the question a bit and focus on just one thing: so which face is this card now?
 
@@ -43,7 +43,7 @@ Transforming double-faced cards involve a lot of rules, but if you hold on to th
 - 712.18
   When a transforming double-faced permanent transforms, it doesn't become a new object. Any effects that applied to that permanent will continue to apply to it after it transforms.
 
-Of these, **712.9** is a very recent rules change, and it is the root of many people's confused understanding. It is the token rules change brought by the [Incubator token](https://images.guildmagesforum.tw/posts/DFC-Copy/c43d513a4d7d.webp) from [[邪軍壓境]].
+Of these, **712.9** is a very recent rules change, and it is the root of many people's confused understanding. It is the token rules change brought by the [Incubator token](https://images.guildmagesforum.tw/posts/DFC-Copy/c43d513a4d7d.webp) from March of the Machine.
 
 Under the old rule, only a "transforming double-faced **card**" could transform. A token did not meet the condition and had no back face to transform into, so when you made a token copy of a double-faced card, you only got the information of one face and could not perform the transform action.
 
@@ -94,7 +94,7 @@ While we are at it, let's extrapolate and see what happens when your life drops 
 
 Based on this rule, no matter what becomes a copy of Enduring Angel, it can only see the characteristics of Enduring Angel as the front face.
 [Mirror Image](https://cards.scryfall.io/large/front/5/b/5b3ffc69-f21b-410e-8993-8c1b4669fc19.jpg?1562302230) isn't a double-faced card, so it obviously can't perform the transform action (rule 712.9), and you lose the game.
-[[[鏡廊擬妖]]](https://cards.scryfall.io/large/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1643588179) works on the same principle as Ludevic, Necrogenius, and the process can follow the one above exactly: it becomes an Angel that locks your life total forever.
+[Mirrorhall Mimic](https://cards.scryfall.io/large/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1643588179) works on the same principle as Ludevic, Necrogenius, and the process can follow the one above exactly: it becomes an Angel that locks your life total forever.
 [Glasspool Mimic](https://cards.scryfall.io/large/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976) is also a double-faced card, but it is a **modal double-faced card** rather than a **transforming double-faced card**. A modal double-faced card cannot perform the transform action, so the result is the same as Mirror Image: you lose the game because it can't transform.
 
 ---
@@ -133,27 +133,27 @@ The "current zone" Mirror Image was last in is exactly exile, so it stays there.
 
 ---
 
-## Sheoldred + [[共魂利刃]] + Edgar, Charmed Groom
+## Sheoldred + Blade of Shared Souls + Edgar, Charmed Groom
 
 ![Blade 1](https://images.guildmagesforum.tw/posts/DFC-Copy/b415f037b32b.webp)
 
-When [Sheoldred](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978) equips [[[共魂利刃]]](https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948) and makes it a copy of [Edgar, Charmed Groom](https://cards.scryfall.io/large/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1643594071), and then dies for any reason (for example, sacrificed to the legend rule), Edgar's death ability triggers: "When this creature dies, return it to the battlefield transformed under its owner's control." Since the rules text says "transformed," Sheoldred returns to the battlefield as its back face ([The True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back)). And because it is already a Saga as it enters, it meets the condition for a Saga to get a lore counter, so a lore counter is put on it and its chapter I ability is performed.
+When [Sheoldred](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978) equips [Blade of Shared Souls](https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948) and makes it a copy of [Edgar, Charmed Groom](https://cards.scryfall.io/large/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1643594071), and then dies for any reason (for example, sacrificed to the legend rule), Edgar's death ability triggers: "When this creature dies, return it to the battlefield transformed under its owner's control." Since the rules text says "transformed," Sheoldred returns to the battlefield as its back face ([The True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back)). And because it is already a Saga as it enters, it meets the condition for a Saga to get a lore counter, so a lore counter is put on it and its chapter I ability is performed.
 
 ![Blade 1](https://images.guildmagesforum.tw/posts/DFC-Copy/0f997b3f6096.webp)
 
 ---
 
-## Sheoldred + [[共魂利刃]] + [[遮物簾幕]]
+## Sheoldred + Blade of Shared Souls + Concealing Curtains
 
 ![Blade 2](https://images.guildmagesforum.tw/posts/DFC-Copy/59bf2b1830c3.webp)
 
-A big feature of [[共魂利刃]] is that it lets card A become a copy of card B like Clone does, and it can end the copy effect without the card leaving the battlefield and becoming a new object. This shows more clearly the underlying logic of copy effects acting on double-faced cards.
+A big feature of Blade of Shared Souls is that it lets card A become a copy of card B like Clone does, and it can end the copy effect without the card leaving the battlefield and becoming a new object. This shows more clearly the underlying logic of copy effects acting on double-faced cards.
 
-The scenario is as follows. Suppose [Sheoldred](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978) equips [[[共魂利刃]]](https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948) and makes it a copy of [[[遮物簾幕]]](https://cards.scryfall.io/large/front/6/1/612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1.jpg?1643596119), then activates [[遮物簾幕]]'s "transform this card" ability. What state is Sheoldred in now? And what happens after the equipment is unattached?
+The scenario is as follows. Suppose [Sheoldred](https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978) equips [Blade of Shared Souls](https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948) and makes it a copy of [Concealing Curtains](https://cards.scryfall.io/large/front/6/1/612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1.jpg?1643596119), then activates Concealing Curtains's "transform this card" ability. What state is Sheoldred in now? And what happens after the equipment is unattached?
 
-First, what happens after activating the transform ability of [[遮物簾幕]]? Just like the Ludevic, Necrogenius + Enduring Angel case, Sheoldred is a transforming double-faced card and can perform the transform action, but the effect "this card becomes a copy of [[遮物簾幕]]" is still in force, so what you end up seeing is still a 0/4 [[遮物簾幕]].
+First, what happens after activating the transform ability of Concealing Curtains? Just like the Ludevic, Necrogenius + Enduring Angel case, Sheoldred is a transforming double-faced card and can perform the transform action, but the effect "this card becomes a copy of Concealing Curtains" is still in force, so what you end up seeing is still a 0/4 Concealing Curtains.
 
-But Sheoldred has indeed transformed to its back face, [The True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back); the copy effect just covers it so you can't tell. Now let's unattach [[共魂利刃]] to end the effect "this card becomes a copy of [[遮物簾幕]]." You will then see the card's original state, which is The True Scriptures. However, since the Saga never had a moment of entering the battlefield that it could check, it currently has no lore counters on it. Only at the beginning of your next precombat main phase will it get a lore counter and perform its chapter I ability.
+But Sheoldred has indeed transformed to its back face, [The True Scriptures](https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back); the copy effect just covers it so you can't tell. Now let's unattach Blade of Shared Souls to end the effect "this card becomes a copy of Concealing Curtains." You will then see the card's original state, which is The True Scriptures. However, since the Saga never had a moment of entering the battlefield that it could check, it currently has no lore counters on it. Only at the beginning of your next precombat main phase will it get a lore counter and perform its chapter I ability.
 
 ![Blade 2](https://images.guildmagesforum.tw/posts/DFC-Copy/c4a7c00b8b63.webp)
 

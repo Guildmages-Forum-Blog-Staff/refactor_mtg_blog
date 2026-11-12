@@ -273,7 +273,7 @@ The ability is very strong, but only if it can connect with a player.
 
 **cephille:** 0.0
 
-Unless you open something like [Bristly Bill, Spine Sower](https://scryfall.com/card/otj/157/bristly-bill-spine-sower), you probably shouldn't put [[變境]] in your Limited deck.
+Unless you open something like [Bristly Bill, Spine Sower](https://scryfall.com/card/otj/157/bristly-bill-spine-sower), you probably shouldn't put Scapeshift in your Limited deck.
 
 ![0035](https://cards.scryfall.io/normal/front/e/e/ee7bdfa2-2263-4585-8f53-f2d66ecc31a0.jpg?1711513293)
 

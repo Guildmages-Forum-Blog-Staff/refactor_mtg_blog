@@ -66,7 +66,7 @@ Although 柏宇 has a sharp tongue and is often in roast mode, he's the gentlest
 
 The three of us started chatting idly again, and bursts of laughter rose and fell. I said this season's Standard is really hard. 4-2-0 (four wins, two losses) only got me 11th place, missing the top-8 playoff. Mainly because turnout was huge; if I remember right, 45 players took part, and the competition was intense.
 
-My Rakdos [[骷髏妖]] deck and I didn't seem to have done anything wrong. Did we? The more I think about it, the less sure I am. Maybe the deck itself... is a mistake?
+My Rakdos Skeleton deck and I didn't seem to have done anything wrong. Did we? The more I think about it, the less sure I am. Maybe the deck itself... is a mistake?
 
 I'd poured out the same self-pitying complaints earlier to my senior [蹦蹦](https://www.facebook.com/UncleJund), who patted my arms lightly and said quietly, "Keep going next time." Those few words, together with the earlier chance to interview him and the many times I've seen his resilient mindset in pulling off win streaks after two losses, made me glad that I bravely picked up Magic: The Gathering at thirty-five, and that I got to know these people. Of course, next time we keep going. I tried to convince myself: this was only my second time going out to play a Standard tournament, so it could count as a satisfying result.
 
@@ -148,7 +148,7 @@ I also really liked today's MITQ match against 子安, naturally because I won a
 "No," 子安 didn't even look at me. "The condition is different."
 I figured my idle chatter hadn't achieved anything, so all that was left was to focus on the match.
 
-Game one: 子安's board lacked quality creatures, with only a few 1/1 Fish tokens made by [Fountainport](https://scryfall.com/card/blb/253/fountainport) standing the whole way through, while my [[骷髏妖]] were removed one after another by 子安. I held one [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat) tightly in my hand, quietly watching a school of small fish push my life total down to 4. Only then did I finally spend that last [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat), but it was too late, and 子安 broke through.
+Game one: 子安's board lacked quality creatures, with only a few 1/1 Fish tokens made by [Fountainport](https://scryfall.com/card/blb/253/fountainport) standing the whole way through, while my Skeleton were removed one after another by 子安. I held one [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat) tightly in my hand, quietly watching a school of small fish push my life total down to 4. Only then did I finally spend that last [Go for the Throat](https://scryfall.com/card/j25/447/go-for-the-throat), but it was too late, and 子安 broke through.
 
 "I really think this was the best game I've played recently," 子安 said contentedly, looking thrilled.
 

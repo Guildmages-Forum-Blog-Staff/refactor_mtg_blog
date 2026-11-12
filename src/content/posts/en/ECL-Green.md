@@ -47,7 +47,7 @@ Comment: The body plus trample alone is enough to smash the opponent, and the en
 
 {% mtgpick "ECL" 166 %}
 Rating: 4.0
-Comment: The creature type is right, and it can bring a huge mana advantage. Note that the [[蒔花師]] can't produce colors you don't have on the battlefield, so it doesn't solve your color-fixing problems.
+Comment: The creature type is right, and it can bring a huge mana advantage. Note that it can't produce colors you don't have on the battlefield, so it doesn't solve your color-fixing problems.
         
 
 {% mtgpick "ECL" 167 %}

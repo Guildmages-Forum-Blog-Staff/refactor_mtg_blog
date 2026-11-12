@@ -77,7 +77,7 @@ Comment: A five-mana 4/5 with ward 3 is quite hard to kill. Besides being a good
 
 {% mtgpick "hob" 42 %}
 Score: 4.0
-Comment: When it attacks it can [[募兵]] and filter resources, the body is decent, and this set doesn't have many cards that can handle it.
+Comment: When it attacks it can recruit and filter resources, the body is decent, and this set doesn't have many cards that can handle it.
 
 {% mtgpick "hob" 43 %}
 Score: 2.5
@@ -89,7 +89,7 @@ Comment: The Adventure side can protect your own permanents or re-trigger ETBs, 
 
 {% mtgpick "hob" 45 %}
 Score: 2.5
-Comment: A flier that does [[募兵]] once on entering, unfortunately with a rather small body.
+Comment: A flier that does recruit once on entering, unfortunately with a rather small body.
 
 {% mtgpick "hob" 46 %}
 Score: 2.0

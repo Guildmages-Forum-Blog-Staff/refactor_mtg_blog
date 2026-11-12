@@ -46,7 +46,7 @@ As a supplement to the creatures, I also included two [Abhorrent Oculus](https:/
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Temur-Manifest/c17e02777d1b.webp)
 
-For removal, to deal with the rampant [[靈技]]/burn-type red aggro decks, I chose low-cost answers that don't trigger death abilities, such as [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower), [Scorching Dragonfire](https://scryfall.com/card/dsk/156/scorching-dragonfire), and [Into the Flood Maw](https://scryfall.com/card/blb/52/into-the-flood-maw), to get in the opponent's way.
+For removal, to deal with the rampant Prowess/burn-type red aggro decks, I chose low-cost answers that don't trigger death abilities, such as [Torch the Tower](https://scryfall.com/card/woe/153/torch-the-tower), [Scorching Dragonfire](https://scryfall.com/card/dsk/156/scorching-dragonfire), and [Into the Flood Maw](https://scryfall.com/card/blb/52/into-the-flood-maw), to get in the opponent's way.
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Temur-Manifest/74b96556efae.webp)
 

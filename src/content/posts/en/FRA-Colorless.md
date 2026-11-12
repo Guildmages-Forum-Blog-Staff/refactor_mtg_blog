@@ -116,7 +116,7 @@ Comment: In the late-game topdeck war, having this land puts you ahead of everyo
 
 {% mtgpick "spg" 159 %}
 Rating: 0.0
-Comment: Let this strong Constructed card shine in Constructed. In this set, there's only one [[奧札奇]] card, so it's hard to make use of.
+Comment: Let this strong Constructed card shine in Constructed. In this set, there's only one Eldrazi card, so it's hard to make use of.
 
 {% mtgpick "spg" 160 %}
 Rating: 4.0

@@ -8,7 +8,7 @@ categories:
   - "DFT"
 cover: "https://images.guildmagesforum.tw/posts/DFT-Colorless/c5f94c4704b4-cover.jpg"
 thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Colorless/c5f94c4704b4-cover.jpg"
-excerpt: "In a race pursuing top speed, you need all kinds of supplies, items to disrupt your opponents, and on-the-spot repair services! And if you can pick up a [[雲威號]] along the road, even better!"
+excerpt: "In a race pursuing top speed, you need all kinds of supplies, items to disrupt your opponents, and on-the-spot repair services! And if you can pick up a Skysovereign, Consul Flagship along the road, even better!"
 ---
 
 > **Note:** This article was translated from Chinese by AI and may contain errors. [Read the original Chinese version](../../DFT-Colorless/).
@@ -232,7 +232,7 @@ Comment: Even with just this creature alone, attacking is a 6/6 trampler, to say
 <!---92--->
 {% mtgpick "spg" 92 %}
 Score: 2.5
-Comment: Seeing it in your opening hand is a great way to ramp, but drawing it late you can only sacrifice it or use it to add to the number of artifacts for [[共鳴]].
+Comment: Seeing it in your opening hand is a great way to ramp, but drawing it late you can only sacrifice it or use it to add to the number of artifacts for Affinity.
 
 
 <!---93--->

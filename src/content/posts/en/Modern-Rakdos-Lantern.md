@@ -189,7 +189,7 @@ The other colored lands are split as follows:
 
 - **[Vexing Bauble](https://scryfall.com/card/mh3/212/vexing-bauble) (1):**
 
-Used against [[共鳴]] and cards like [Goblin Charbelcher](https://scryfall.com/card/ema/222/goblin-charbelcher) that make heavy use of alternative-cost spells. It's worth considering for the main deck.
+Used against Affinity and cards like [Goblin Charbelcher](https://scryfall.com/card/ema/222/goblin-charbelcher) that make heavy use of alternative-cost spells. It's worth considering for the main deck.
 
 
 - **[Torpor Orb](https://scryfall.com/card/big/27/torpor-orb) (2):**
@@ -200,7 +200,7 @@ These days there are a great many decks built on creature ETB abilities, to the 
 
 - **[Cursed Totem](https://scryfall.com/card/mh2/295/cursed-totem) (1):**
 
-Also one of the old-school artifact lock choices, but its applicable situations in the current environment really aren't plentiful. The matchup where it's used most is probably [[蜥蜴刀]], so it's a take-it-or-leave-it option.
+Also one of the old-school artifact lock choices, but its applicable situations in the current environment really aren't plentiful. The matchup where it's used most is probably Hammer Time, so it's a take-it-or-leave-it option.
 
 
  

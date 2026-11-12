@@ -261,7 +261,7 @@ Note here that different people have different Engimatic Incarnation builds. Som
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/14867d16ac91.webp)
 
-Basically Mono-White splashing blue. For the sake of four {% mtgcard "Mockingbird" tooltip=true %}, {% mtgcard "Mockingbird" tooltip=true %} fills in when there aren't enough [[副官]].
+Basically Mono-White splashing blue. For the sake of four {% mtgcard "Mockingbird" tooltip=true %}, {% mtgcard "Mockingbird" tooltip=true %} fills in when there aren't enough Thalia's Lieutenant.
 
 ### Izzet Pheonix
 

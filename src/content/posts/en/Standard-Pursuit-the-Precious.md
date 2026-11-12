@@ -66,4 +66,4 @@ Compared to a traditional sacrifice deck, this one can't knock out the opponent 
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Pursuit-the-Precious/68bcbc4aea3f.webp)
 
-Time flies, and next week we return to the home series *[[[現實裂界]]](https://scryfall.com/sets/fra?as=grid&order=set)*. Just from the previews released recently I can feel how much fun it will be, and I can hardly wait to try it. Let's say a temporary goodbye to the collaboration sets and get ready to embrace a big helping of Jace!
+Time flies, and next week we return to the home series *[Reality Fracture](https://scryfall.com/sets/fra?as=grid&order=set)*. Just from the previews released recently I can feel how much fun it will be, and I can hardly wait to try it. Let's say a temporary goodbye to the collaboration sets and get ready to embrace a big helping of Jace!

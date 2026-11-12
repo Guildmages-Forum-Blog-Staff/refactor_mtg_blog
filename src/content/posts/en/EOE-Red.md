@@ -317,7 +317,7 @@ Comment: Each time a nontoken artifact you control enters, this enchantment make
 {% mtgpick "eoe" 169 %}
 Rating: 2.5
 Archetype: Blue-Red Artifact Aggro
-Comment: This card can enter cheaply early with Warp, serving as a trigger source for [[連咒]] or Void, and later be hard cast for three mana. As long as an artifact or creature enters under your control, it deals extra damage to the opponent, especially suited to decks with many artifacts or that produce tokens.
+Comment: This card can enter cheaply early with Warp, serving as a trigger source for flurry or Void, and later be hard cast for three mana. As long as an artifact or creature enters under your control, it deals extra damage to the opponent, especially suited to decks with many artifacts or that produce tokens.
 
 
 <!---170--->

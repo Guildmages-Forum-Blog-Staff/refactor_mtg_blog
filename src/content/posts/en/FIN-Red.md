@@ -240,7 +240,7 @@ Comment: A 4-mana 4/3 vanilla creature, with a frighteningly high equip cost. Yo
 <!---170--->
 {% mtgpick "fin" 170 %}
 Score: 3.0
-Comment: In Red-Green landfall decks, being able to trigger the landfall effect one extra time each turn is very powerful. Beyond that, it also guarantees you have a land to play every turn, and with luck it can pair with [[歷險地]]!
+Comment: In Red-Green landfall decks, being able to trigger the landfall effect one extra time each turn is very powerful. Beyond that, it also guarantees you have a land to play every turn, and with luck it can pair with Town lands!
 
 ## Conclusion
 It feels like the keyword haste appears especially frequently, but overall the Limited environment still looks like a slower set.

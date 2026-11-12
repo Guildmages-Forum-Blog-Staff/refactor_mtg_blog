@@ -47,7 +47,7 @@ For this bonus set, 4 pieces of original art were specially picked from each ins
 <!---1--->
 {% mtgpick "fca" 1 %}
 Score: 5.0
-Comment: [[艾德琳]] is strong in every format.
+Comment: Adeline is strong in every format.
 
 <!---2--->
 {% mtgpick "fca" 2 %}

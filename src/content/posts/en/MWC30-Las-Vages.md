@@ -153,7 +153,7 @@ If he had cast the gym, he'd have a 5/5 and a 3/4 Cryptid Inspector, and Kona na
 #### R4 [Robert Wagner Krankel](https://melee.gg/Profile/Index/DonZaloog69) Golgari Midrange OXX 
 
 In game one, the cards I stole with Cruelclaw's Heist left him unable to cope.
-Games two and three were very similar: I never drew [[逼從]] or Cruelclaw's Heist and never hit Unholy Annex, both Archfiends got hit by removal one after another, and then the opponent cast two Unholy Annexes in a row, and his card advantage crushed me.
+Games two and three were very similar: I never drew Duress or Cruelclaw's Heist and never hit Unholy Annex, both Archfiends got hit by removal one after another, and then the opponent cast two Unholy Annexes in a row, and his card advantage crushed me.
 
 #### R5 [Adam Edelson](https://melee.gg/Profile/Index/_goblinlackey) Gruul Prowess OO
 
@@ -258,7 +258,7 @@ After we agreed, he said I was right to draw. His Gruul deck had [Leyline of Res
 
 ![](https://images.guildmagesforum.tw/posts/MWC30-Las-Vages/b7c863b21464.webp)
 
-In game one he had Leyline of Resonance, turn one [Monastery Swiftspear](https://scryfall.com/card/bro/144/monastery-swiftspear), turn two a scheming [Slickshot Show-Off](https://scryfall.com/card/otj/146/slickshot-show-off). On my turn two [[逼從]] took [Monstrous Rage](https://scryfall.com/card/woe/142/monstrous-rage), and on turn three I thought for a long time about whether Legions to Ashes should pick Swiftspear or the Leyline, and I chose the Leyline. He said I was right, since damage is higher if Leyline of Resonance is out. So his Swiftspear + Show-Off pumped by Monstrous Rage, plus two [Might of the Meek](https://scryfall.com/card/blb/144/might-of-the-meek), smacked me in the face.
+In game one he had Leyline of Resonance, turn one [Monastery Swiftspear](https://scryfall.com/card/bro/144/monastery-swiftspear), turn two a scheming [Slickshot Show-Off](https://scryfall.com/card/otj/146/slickshot-show-off). On my turn two Duress took [Monstrous Rage](https://scryfall.com/card/woe/142/monstrous-rage), and on turn three I thought for a long time about whether Legions to Ashes should pick Swiftspear or the Leyline, and I chose the Leyline. He said I was right, since damage is higher if Leyline of Resonance is out. So his Swiftspear + Show-Off pumped by Monstrous Rage, plus two [Might of the Meek](https://scryfall.com/card/blb/144/might-of-the-meek), smacked me in the face.
 Games two and three were about the same as my other matches. When he was on the draw I guessed he'd play the Leyline, so I won smoothly, ending this World Championship.
 
 DAY 2 record 8-5-1, 23rd place  

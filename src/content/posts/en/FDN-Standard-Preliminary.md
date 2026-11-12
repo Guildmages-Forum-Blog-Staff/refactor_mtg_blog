@@ -184,7 +184,7 @@ Goblins are treated quite well this time too, picking up the new cards [Searslic
 [Decklist link](https://www.mtggoldfish.com/deck/6739208#paper)
 ![decklist](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/d9a19d2104f8.webp)
 
-The Skeleton deck actually gets very little support this time, but it at least fills out the creature curve to a usable count. [[[飾品妙盜細骨]]](https://scryfall.com/card/fdn/717/impact-tremors) might let you gain a bit of value while disrupting the opponent's hand, slightly improving the deck's staying power, but mainly it is just a usable two-drop. At three mana we get the reprinted lord [Death Baron](https://scryfall.com/card/fdn/717/impact-tremors). As a regular tribal lord there's not much to complain about, but note that it is itself a Zombie; it merely pumps Skeletons.
+The Skeleton deck actually gets very little support this time, but it at least fills out the creature curve to a usable count. [new two-drop Skeleton](https://scryfall.com/card/fdn/717/impact-tremors) might let you gain a bit of value while disrupting the opponent's hand, slightly improving the deck's staying power, but mainly it is just a usable two-drop. At three mana we get the reprinted lord [Death Baron](https://scryfall.com/card/fdn/717/impact-tremors). As a regular tribal lord there's not much to complain about, but note that it is itself a Zombie; it merely pumps Skeletons.
 
 ![](https://images.guildmagesforum.tw/posts/FDN-Standard-Preliminary/7f9fd57ddc52.webp)
 

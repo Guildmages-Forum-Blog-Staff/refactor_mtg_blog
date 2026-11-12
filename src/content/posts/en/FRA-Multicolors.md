@@ -45,7 +45,7 @@ The alumni of Stingerquill turn their words into blades. Use direct damage spell
 
 ![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/cd0625afd911.webp)
 
-Konstrari trains artisan mages to build giant creations for the [[塑理師]]. Ramp with the heartwood tokens from {% mtglink "Woodwork Prodigy" %} and {% mtglink "Konstrari Improviser" %}. The extra mana from these tokens lets you cast your biggest creature spells far ahead of schedule, so don't be afraid to fill your deck with several {% mtglink "Archive Arbiter" %} or {% mtglink "Vinelasher Adept" %}. This deck's mana curve may lean toward expensive spells, so don't stick to convention, just like a true Konstrari artisan.
+Konstrari trains artisan mages to build giant creations for the Shapers. Ramp with the heartwood tokens from {% mtglink "Woodwork Prodigy" %} and {% mtglink "Konstrari Improviser" %}. The extra mana from these tokens lets you cast your biggest creature spells far ahead of schedule, so don't be afraid to fill your deck with several {% mtglink "Archive Arbiter" %} or {% mtglink "Vinelasher Adept" %}. This deck's mana curve may lean toward expensive spells, so don't stick to convention, just like a true Konstrari artisan.
 
 ### <span style="color:#C3B270">White</span> <span style="color:#4A8A3D">Green</span> Life Gain
 
@@ -206,7 +206,7 @@ Comment: A creature that is threatening just by standing there. Blue-white can b
 
 {% mtgpick "fra" 147 %}
 Score: 3.5
-Comment: Making two 2/2 Cadets for four mana is decent, and what comes back via [[返照]] is most likely a creature with huge stats, though getting blue-black up to eight mana may be a problem.
+Comment: Making two 2/2 Cadets for four mana is decent, and what comes back via flashback is most likely a creature with huge stats, though getting blue-black up to eight mana may be a problem.
 
 {% mtgpick "fra" 148 %}
 Score: 3.0

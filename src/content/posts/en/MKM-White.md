@@ -155,7 +155,7 @@ A 1/1 plus a 2/2 for three mana is passable overall. It is one of the tribal-pay
 **Jru:** 3.0
 
 On its own the body is a bit meager, but once the attack condition is met it is a one-turn anthem, and this burst fits very well with aggro's need for finishing damage. Also, this set has quite a few low-cost fliers, so early attackers have a higher chance of surviving.
-There is also an added value against Disguise and [[匿伏]]: if the opponent uses many face-down cards, it can work wonders.
+There is also an added value against Disguise and cloak: if the opponent uses many face-down cards, it can work wonders.
 
 ![021](https://cards.scryfall.io/large/front/f/6/f663cd86-39e6-467b-85b7-dd27536251a6.jpg?1705688225)
 

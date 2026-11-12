@@ -38,7 +38,7 @@ The Pauper ban article was too long and full of fluff, so I didn't finish readin
 ### Pioneer, Explorer
 
 In past metagames, Karn always had a high play rate (in mono-green devotion), until it dropped noticeably after LCI's release, when the deck got beaten down by the Discover Combo.
-Karn's presence turned many decks into decks that are written as 60 cards but are actually 75, increasing the flexibility of matches. At the same time, it served as a combo component, added board pressure (Esika's Chariot), provided board disruption (the [[法老像]], [[腦石]], Skysovereign, Consul Flagship, the [[夷城械]]), and locked down artifact activation. Doing too many things at once made it very hard for certain decks to fight against it.
+Karn's presence turned many decks into decks that are written as 60 cards but are actually 75, increasing the flexibility of matches. At the same time, it served as a combo component, added board pressure (Esika's Chariot), provided board disruption (the God-Pharaoh's Statue, The Stone Brain, Skysovereign, Consul Flagship, the Cityscape Leveler), and locked down artifact activation. Doing too many things at once made it very hard for certain decks to fight against it.
 ~~From a Yu-Gi-Oh! perspective, Karn is Crystron, and deserved to be banned.~~
 
 Geological Appraiser, on the other hand, is unquestionably environment-breaking. With a small bit of acceleration beforehand, the whole combo is done on turn three, and who can stand that? Even against matchups with counterspells or removal, it can wait until you have multiple copies in hand before coming out.

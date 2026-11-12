@@ -183,7 +183,7 @@ A 1/3 mana creature for two that can also filter colors, so there is nothing to 
 
 A better [Snakeskin Veil](https://cards.scryfall.io/large/front/4/d/4dce7ff4-c30c-467e-9832-2595b973a9e8.jpg?1619503804)!
 
-> Although the character on the card has taken plenty of arrows in his cloak, he is completely unharmed under the protection of this spell. Then he slowly turns around and says, "[[各位平民，刀下留情]](https://www.mtgct.com/card/7403)". The Conqueror's Haki of a Royal Role is on full display, stunning the half-foxes besieging him!
+> Although the character on the card has taken plenty of arrows in his cloak, he is completely unharmed under the protection of this spell. Then he slowly turns around and says, "[Citizens, spare them](https://www.mtgct.com/card/7403)". The Conqueror's Haki of a Royal Role is on full display, stunning the half-foxes besieging him!
 
 ![Sentinel of Lost Lore](https://images.guildmagesforum.tw/posts/WOE-Green/2f1ff12084ef.webp)
 
@@ -192,7 +192,7 @@ A better [Snakeskin Veil](https://cards.scryfall.io/large/front/4/d/4dce7ff4-c30
 A 3/4 body for three mana is already great, and it comes with a choose-one-or-more enter ability. Let's take a look:
 
 - Return target Adventure card from your exile to your hand --> basically lets you do an Adventure once more
-- Put target Adventure card in exile that you don't control on the bottom of its owner's library --> the [[五秘稀]] of the Virtue cycle, getting greedy, lol
+- Put target Adventure card in exile that you don't control on the bottom of its owner's library --> the five mythics of the Virtue cycle, getting greedy, lol
 - Exile target player's graveyard
 
 The first two abilities are both about gaining and denying Adventure resources, which is very interesting, while the third, graveyard hate, can be used if you need it.
@@ -234,7 +234,7 @@ A 2/3 defender for two. Once you have another creature with power 4 or greater a
 **Limited Rating: 3.0**
 **Limited Rating: 4.0 (if you can ramp into it)**
 
-With gift it is basically very close to [[尖牙銳爪]](https://cards.scryfall.io/normal/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199). Looking at 20 cards from the top of your library for two creatures to put into your hand or onto the battlefield, and still missing the creatures you need means either you are very unlucky or you didn't play any, right? This should be a big finisher for ramp decks in blue-green or red-green. Try to gift it whenever you can, otherwise ramping all the way to eight mana and then passing a turn is a bit too sluggish.
+With gift it is basically very close to [Tooth and Nail](https://cards.scryfall.io/normal/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199). Looking at 20 cards from the top of your library for two creatures to put into your hand or onto the battlefield, and still missing the creatures you need means either you are very unlucky or you didn't play any, right? This should be a big finisher for ramp decks in blue-green or red-green. Try to gift it whenever you can, otherwise ramping all the way to eight mana and then passing a turn is a bit too sluggish.
 
 ![Titanic Growth](https://images.guildmagesforum.tw/posts/WOE-Green/3f9fa0b7f9ac.webp)
 

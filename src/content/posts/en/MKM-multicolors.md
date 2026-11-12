@@ -505,7 +505,7 @@ The Golgari side is a two-mana instant that exiles up to two cards from a single
 
 **cephille:** 2.5
 
-**This is a split card that is <font color="#FD0214">Red</font> mixed with Blue-<font color="#0A883B">Green</font>.** The Izzet side, a one-mana instant that makes a target creature have to attack or block this turn, may not be worth a card on its own, but adding the Gruul six-mana sorcery side changes things. The Gruul side is basically a six-mana [[壓襲]](https://cards.scryfall.io/large/front/4/0/4089c088-b113-467c-9160-f6bac779ddd7.jpg?1706052522), and it can also turn a face-down creature you control face up, enabling an advantageous all-out assault.
+**This is a split card that is <font color="#FD0214">Red</font> mixed with Blue-<font color="#0A883B">Green</font>.** The Izzet side, a one-mana instant that makes a target creature have to attack or block this turn, may not be worth a card on its own, but adding the Gruul six-mana sorcery side changes things. The Gruul side is basically a six-mana [Overcome](https://cards.scryfall.io/large/front/4/0/4089c088-b113-467c-9160-f6bac779ddd7.jpg?1706052522), and it can also turn a face-down creature you control face up, enabling an advantageous all-out assault.
 
 <!---Card image to be added after the English version is updated--->
 
@@ -513,7 +513,7 @@ The Golgari side is a two-mana instant that exiles up to two cards from a single
 
 **cephille:** 3.5
 
-**This is a split card that is Black mixed with <font color="#FED761">White</font>-<font color="#FD0214">Red</font>.** The Orzhov side as a [[報仇]](https://cards.scryfall.io/large/front/6/6/66fbde22-d98d-4f12-b4d8-1bad2a9878b2.jpg?1562302645) may be merely playable; but the Rakdos side can reanimate two creatures from one graveyard at once, earning ETB abilities and joining one attack, and the stronger the opponent's or your own bombs, the greater this card's payoff!
+**This is a split card that is Black mixed with <font color="#FED761">White</font>-<font color="#FD0214">Red</font>.** The Orzhov side as a [Take Vengeance](https://cards.scryfall.io/large/front/6/6/66fbde22-d98d-4f12-b4d8-1bad2a9878b2.jpg?1562302645) may be merely playable; but the Rakdos side can reanimate two creatures from one graveyard at once, earning ETB abilities and joining one attack, and the stronger the opponent's or your own bombs, the greater this card's payoff!
 
 ## Colorless
 
@@ -595,7 +595,7 @@ When Wizards wants to give you common color-fixing lands specifically for Limite
 
 **cephille:** 2.5
 
-Although as a prism land it is much weaker than the earlier WOE [[水晶石室]](https://cards.scryfall.io/large/front/6/f/6f6f9d3d-600d-43f3-a915-612e5d53aaa1.jpg?1692939958), the artifact and Clue subtypes link up with many cards in this set, and sacrificing it to draw a card in the mid to late game is also a nice investment. But be careful: if this land gets hit by artifact removal, that would be really bad value. If you're playing an artifact theme, you can consider cutting it in the sideboard for a basic land that can't be destroyed.
+Although as a prism land it is much weaker than the earlier WOE [Crystal Grotto](https://cards.scryfall.io/large/front/6/f/6f6f9d3d-600d-43f3-a915-612e5d53aaa1.jpg?1692939958), the artifact and Clue subtypes link up with many cards in this set, and sacrificing it to draw a card in the mid to late game is also a nice investment. But be careful: if this land gets hit by artifact removal, that would be really bad value. If you're playing an artifact theme, you can consider cutting it in the sideboard for a basic land that can't be destroyed.
 
 ![Land](https://images.guildmagesforum.tw/posts/MKM-multicolors/37f63fac9295.webp)
 

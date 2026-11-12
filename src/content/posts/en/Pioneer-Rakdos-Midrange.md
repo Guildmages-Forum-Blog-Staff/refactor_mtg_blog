@@ -48,7 +48,7 @@ The best one-mana removal in the environment.
 4x Thoughtseize
 The best discard in the environment.
 4x Fable of the Mirror-Breaker
-A card so strong in Standard that it got banned; there's no reason not to run the full four. It filters, makes a Goblin, makes Treasure, and is also a win con, [[蒿吐露絲]].
+A card so strong in Standard that it got banned; there's no reason not to run the full four. It filters, makes a Goblin, makes Treasure, and is also a win con, Fable of the Mirror-Breaker.
 25x ~ 26x Lands
 I'll write more about the lands later.
 
@@ -56,11 +56,11 @@ Next are the other creatures. I'm currently using the following extra creatures:
 1x Kroxa, Titan of Death's Hunger
 Very comfortable in mirror matches and against control, and also useful against Rogues (whether it resolves or not doesn't matter, I get to push down the graveyard count first).
 1x Misery's Shadow
-The aim is to keep the sacrifice Cat-Oven from spinning, to jam up the flip-two-use-one of [[見證人]], and also to handle Green Devotion's [[綠騎]] and the Troll's death effect.
+The aim is to keep the sacrifice Cat-Oven from spinning, to jam up the flip-two-use-one of Witness, and also to handle Green Devotion's Old-Growth Troll and the Troll's death effect.
 2x Graveyard Trespasser
 A slightly awkward card. In the current environment most graveyard hate wants to exile everything, but its life gain is quite important in some matchups (mirror, aggro), and I haven't found a better replacement for now.
 2x Sheoldred, the Apocalypse + 2x Archfiend of the Dross
-A rather large number of four-drop creatures. Archfiend of the Dross is a tech card that only appeared in the last month or two, meant to fight the whole pack of aggro decks and creature decks, and it also works wonders against Green Devotion (though it still gets blocked by [[綠騎]], at least it won't die). Since our deck already has plenty of removal, its life-loss effect can speed up the game, but the downside is that it squeezes Sheoldred's slot. I'll adjust according to the environment, and if its payoff isn't high I'll change this back to three Sheoldred plus one [[黑召現]] or one [[雲威號]].
+A rather large number of four-drop creatures. Archfiend of the Dross is a tech card that only appeared in the last month or two, meant to fight the whole pack of aggro decks and creature decks, and it also works wonders against Green Devotion (though it still gets blocked by Old-Growth Troll, at least it won't die). Since our deck already has plenty of removal, its life-loss effect can speed up the game, but the downside is that it squeezes Sheoldred's slot. I'll adjust according to the environment, and if its payoff isn't high I'll change this back to three Sheoldred plus one Invoke Despair or one Skysovereign, Consul Flagship.
 
 > Edit(July 12, 2023):
 > I later changed to 3x Sheoldred, the Apocalypse + 1x Kalitas, Traitor of Ghet, our old friend we haven't seen in nearly a year.
@@ -83,7 +83,7 @@ The rest is adjusted to personal preference:
 2x Blackcleave Cliffs + 2x Blightstep Pathway + 1x Sulfurous Springs
 Other fixing lands. I personally don't like modal double-faced lands, mainly because they're not flexible enough in the late game, and Blackcleave Cliffs used to be three copies, but it was too easy to get stuck on turn four unable to hard-cast Sheoldred on time, which is awkward, so I cut it to two and put Sulfurous Springs in the extra slot to hold things up.
 1x Den of the Bugbear + 2x Hive of the Eye Tyrant + 1x Mutavault
-It used to be 2x Den of the Bugbear + 2x Hive of the Eye Tyrant, but honestly Den of the Bugbear isn't that suited to Rakdos. Although its attacking power is better than Hive of the Eye Tyrant's, it has no trample and can't gain any resource advantage. At least Hive of the Eye Tyrant has menace and fills the graveyard, but its four-mana activation is too heavy, so I changed one to Mutavault. The reason I didn't run three like 八十岡 is that I wanted to avoid color screw early, with the aim of the [[黑召現]] that comes in from the sideboard.
+It used to be 2x Den of the Bugbear + 2x Hive of the Eye Tyrant, but honestly Den of the Bugbear isn't that suited to Rakdos. Although its attacking power is better than Hive of the Eye Tyrant's, it has no trample and can't gain any resource advantage. At least Hive of the Eye Tyrant has menace and fills the graveyard, but its four-mana activation is too heavy, so I changed one to Mutavault. The reason I didn't run three like 八十岡 is that I wanted to avoid color screw early, with the aim of the Invoke Despair that comes in from the sideboard.
 1x Takenuma + 1x Sokenzan
 I'm quite satisfied with how these two have worked so far, so I'm keeping them.
 1x Urborg + 2x Castle Locthwain
@@ -156,7 +156,7 @@ I'll finish that part in one go when I have time.
 
 Also, I've recently been researching Grixis builds. So far I've tested
 
-1. [[複製皮惡魔]]
+1. Clone-Demon
 2. Pure Grixis midrange
 3. Grixis Yorion 80 cards
 4. Grixis Atraxa Gacha
@@ -180,8 +180,8 @@ Also, since WOE is about to be released, let me write a bit about how I'd want t
 
 ![The End](https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg)
 
-Needless to say, The End is for fighting Green Devotion: exiling [[綠騎]] or Karn directly relieves a lot of our pressure.
-It's also comfortable for killing control's [[大泰]], or the [[藍鋼彈]] in Blue Gundam Innovation, or even Greasefang in the Rat vehicle deck (although a four-mana removal spell against Rats seems a bit too slow, it's still worth trying).
+Needless to say, The End is for fighting Green Devotion: exiling Old-Growth Troll or Karn directly relieves a lot of our pressure.
+It's also comfortable for killing control's Teferi, Hero of Dominaria, or the Blue Gundam in Blue Gundam Innovation, or even Greasefang in the Rat vehicle deck (although a four-mana removal spell against Rats seems a bit too slow, it's still worth trying).
 Barring surprises I'll put one in the main deck, possibly replacing a removal spell or Liliana, and this part still needs more testing and adjustment.
 
 ### Beseech the Mirror

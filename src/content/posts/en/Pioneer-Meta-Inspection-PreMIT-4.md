@@ -25,7 +25,7 @@ The main point is that when mulliganing we know what deck the opponent is playin
 
 Take Pioneer Rakdos Midrange as an example. In one of my earlier articles, [Something About Rakdos Midrange](https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/#Starting-Hands-Countermeasures-and-Mulligan), I mentioned that against slower decks such as combo and control we lean toward playing faster to avoid dragging the game out, while against aggro we have to find a way to stall into the late game and win on board/resource advantage.
 
-Or here's an example from a friend. In a previous MIT he played Mono-Green and was in the last-round pairing, sitting at the fourth or fifth table (I forget which). After looking at the decklist he saw his opponent was on Mono-White Humans with four copies of protection spells. Considering Mono-Green has a hard time in that matchup (turn 1 a 2/1, turn 2 [[人類王]], turn 3 Adeline, Resplendent Cathar, turn 4 [[副官]] + Brave the Elements, all pushed in response before blockers by throwing Brave the Elements for protection from green), he intentionally drew with his opponent. He knew a draw might not get him into the top 8, but it was better than playing on, getting crushed and crashing out, with no chance to gamble on making top 8.
+Or here's an example from a friend. In a previous MIT he played Mono-Green and was in the last-round pairing, sitting at the fourth or fifth table (I forget which). After looking at the decklist he saw his opponent was on Mono-White Humans with four copies of protection spells. Considering Mono-Green has a hard time in that matchup (turn 1 a 2/1, turn 2 Thalia, turn 3 Adeline, Resplendent Cathar, turn 4 Thalia's Lieutenant + Brave the Elements, all pushed in response before blockers by throwing Brave the Elements for protection from green), he intentionally drew with his opponent. He knew a draw might not get him into the top 8, but it was better than playing on, getting crushed and crashing out, with no chance to gamble on making top 8.
 
 This is also why many Pioneer Rakdos builds main deck a bit of everything, such as an extra Unlicensed Hearse or Extinction Event. In a matchup where they aren't good, if you draw one you just count it as a mulligan to six; at worst you feed it to Fable of the Mirror-Breaker or Bloodtithe Harvester to filter a card, and if the rest of the hand is really bad you just mulligan.
 Pioneer is also a format that rewards answers: many things basically can't be left for more than two turns. For example, letting Sheoldred, the Apocalypse sit for two turns plus taking a hit equals a life difference of at least 10 (4 damage from the body + 4 from two of your draw steps + 2 from the opponent's draw steps gaining life). The more games with an open decklist, the more preparation you can do.
@@ -117,7 +117,7 @@ Compared with the other three RCs that have already finished, this top 8 is made
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/5a52299002f0.webp)
 
-Heroic is doing pretty well in the current metagame. Basically you have to respect the [[連擊籌謀人]] that comes down on turn 2 on schedule and kill it, or you could easily get killed on turn 3.
+Heroic is doing pretty well in the current metagame. Basically you have to respect the Illuminator Virtuoso that comes down on turn 2 on schedule and kill it, or you could easily get killed on turn 3.
 
 ### Abzan Greasefang
 
@@ -225,7 +225,7 @@ The top 8 decks are as follows, with records taken from the Swiss rounds:
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-4/920758cec2a2.webp)
 
-Sacrifice looks the same as ever, but the sideboard's [[判刑]] slot is [The Akroan War](https://cards.scryfall.io/large/front/7/8/78161e60-878a-45a2-aced-40b739bd0a07.jpg?1674141847), presumably to avoid stealing something that then has nothing to do; at least it can attack/block one more time before you figure out what to do.
+Sacrifice looks the same as ever, but the sideboard's removal slot is [The Akroan War](https://cards.scryfall.io/large/front/7/8/78161e60-878a-45a2-aced-40b739bd0a07.jpg?1674141847), presumably to avoid stealing something that then has nothing to do; at least it can attack/block one more time before you figure out what to do.
 
 ### Rakdos Midrange
 

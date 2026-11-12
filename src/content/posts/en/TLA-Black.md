@@ -236,7 +236,7 @@ Comment: The new [Graveyard Trespasser](https://scryfall.com/card/mid/104/gravey
 Rating: 5.0
 Comment: Chapter I is a sweeper, Chapter II is [Lobotomy](https://scryfall.com/card/inv/255/lobotomy), and in Chapter III, after it flips, the 5/5 menace hits and digs through the opponent's graveyard, with a chance to dig out more than one creature. Firebending 3 makes that graveyard-digging effect even stronger!
 
-> Don't forget, the combat phase doesn't end immediately after combat damage is dealt, so you still have the chance to use the mana produced by firebending to pay for [[烈火王蘇進]]'s ability in the end of combat step!
+> Don't forget, the combat phase doesn't end immediately after combat damage is dealt, so you still have the chance to use the mana produced by firebending to pay for Fire Lord Sozin's ability in the end of combat step!
 
 
 <!---118--->

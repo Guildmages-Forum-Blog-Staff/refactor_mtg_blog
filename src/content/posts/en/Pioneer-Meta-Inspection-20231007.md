@@ -238,8 +238,8 @@ Compared with the European RC, this is much slower; at least half of the decks a
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/91dd6f4d4166.webp)
 
 As mentioned before, Phoenix is back in the meta now that it has Sleight of Hand. With more ways to find cards, it's easier to dig up the right resources, and since Sleight of Hand isn't drawing, it slightly lowers Sheoldred's threat.
-The build takes the older route: [[複製多兩回合]], keeping resources for a mid-to-late-game burst.
-The sideboard has flexibility against control, plus the [[莎希莉龍獸]] combo.
+The build takes the older route: copying for two extra turns, keeping resources for a mid-to-late-game burst.
+The sideboard has flexibility against control, plus the Saheeli combo.
 
 ### Rakdos Sacrifice
 
@@ -265,7 +265,7 @@ This Rakdos Midrange list moved the two [Reckoner Bankbuster](https://cards.scry
 
 ![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/277839f5199d.webp)
 
-Heroic uses a newer build. The main deck has a one-mana red pump spell that gives +2/+0 and trample (plus [[野獸皮]]), and the sideboard has three [Showdown of the Skalds](https://cards.scryfall.io/large/front/3/d/3d9d840e-1f13-44e3-a4de-903cfa58a346.jpg?1631051876) to add resources for matchups that go to the mid-to-long game.
+Heroic uses a newer build. The main deck has a one-mana red pump spell that gives +2/+0 and trample (plus a Monster Role), and the sideboard has three [Showdown of the Skalds](https://cards.scryfall.io/large/front/3/d/3d9d840e-1f13-44e3-a4de-903cfa58a346.jpg?1631051876) to add resources for matchups that go to the mid-to-long game.
 
 ### UW Control
 

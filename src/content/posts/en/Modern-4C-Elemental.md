@@ -72,7 +72,7 @@ It triggers a card draw on entering, so if you want to avoid it triggering landf
 - The damage ability of landfall 3 is rarely used, but if the opponent is in lethal range or has a planeswalker that must be dealt with, you can consider waiting until next turn and using a fetchland to trigger landfall three times at once.
 
 ![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/123c71bc3d2b.webp)
-Mom (Elesh Norn) is not played in large numbers. Her main uses are to trigger your own enters abilities, to fight the mirror, or to fight decks that need enters abilities (such as `Amulet Titan` or [[變境]]).
+Mom (Elesh Norn) is not played in large numbers. Her main uses are to trigger your own enters abilities, to fight the mirror, or to fight decks that need enters abilities (such as `Amulet Titan` or Scapeshift).
 Please note that when she's on the battlefield with Omnath at the same time, playing a single land triggers Omnath's landfall abilities twice.
 
 ![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/e8e839ed9cd3.webp)
@@ -217,7 +217,7 @@ Creativity, Cascade decks, Four-Color Elementals, UB/UW Control, Indomitable Cre
 An Elemental used when you need graveyard hate; some builds put one in the main deck to prevent decking themselves from drawing too many cards.
 
 **Suggested matchups:**
-Izzet Murktide, Death's Shadow, [[勇德克薩傳]], Living End, Mill (shuffling their own graveyard), Rakdos Scam, Golgari Yawgmoth
+Izzet Murktide, Death's Shadow, Jund Saga, Living End, Mill (shuffling their own graveyard), Rakdos Scam, Golgari Yawgmoth
 
 ![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/e1410b0ffb37.webp)
 The land-destroying dragon, used against decks that need special lands to operate. Being nonlegendary gives it a chance to be copied by [Reflection of Kiki-Jiki](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?back).

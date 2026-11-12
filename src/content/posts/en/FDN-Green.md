@@ -149,7 +149,7 @@ Comment: On average it's a 2.0, but if you open it or draw it early in the draft
 <!---217--->
 {% mtgpick "fdn" 217 %}
 Rating: 3.5
-Comment: The 4-mana 3/4 [[妖精讚美詩]]; the third ability is more of a gift, and unless you're very tempo-oriented, an Elf body is hard to play proactively. In Limited, life gain is an important ability, and it can help you survive a few more turns and see a few more cards.
+Comment: The 4-mana 3/4 Dwynen, Gilt-Leaf Daen; the third ability is more of a gift, and unless you're very tempo-oriented, an Elf body is hard to play proactively. In Limited, life gain is an important ability, and it can help you survive a few more turns and see a few more cards.
 
 >Not counting this card, there are 9 other Elves in this set (3 black-green, 6 mono-green).
 
@@ -161,7 +161,7 @@ Comment: A 2-mana 2/2 for filling your curve, with extra benefit if you have eno
 <!---219--->
 {% mtgpick "fdn" 219 %}
 Rating: 3.0
-Comment: The mana-acceleration [[妖精讚美詩]]. If you land an Elf on turn 1 or 2 and this one isn't removed, you can jump to 6 or 7 mana by turn 4, putting a lot of pressure on the opponent.
+Comment: The mana-acceleration Dwynen, Gilt-Leaf Daen. If you land an Elf on turn 1 or 2 and this one isn't removed, you can jump to 6 or 7 mana by turn 4, putting a lot of pressure on the opponent.
 
 <!---220--->
 {% mtgpick "fdn" 220 %}
@@ -221,7 +221,7 @@ Comment: A powerful green finisher, but it can't help you once you fall behind. 
 <!---231--->
 {% mtgpick "fdn" 231 %}
 Rating: 2.5
-Comment: The [[回歸自然人]], a 3-mana 2/1. Even being an Elf can't save it from sideboard duty.
+Comment: The Reclamation Sage, a 3-mana 2/1. Even being an Elf can't save it from sideboard duty.
 
 <!---232--->
 {% mtgpick "fdn" 232 %}

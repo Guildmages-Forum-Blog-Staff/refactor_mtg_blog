@@ -15,7 +15,7 @@ excerpt: "I never expected to see the day Split Second returned to Standard"
 
 ## Introduction
 
-In the [[現實碎片]] set, a very rule-breaking ancient mechanic, Split Second, has reappeared in Standard along with [the new Samut](https://scryfall.com/search?as=grid&order=released&q=%21%22Samut%2C+Tyrant+of+Naktamun%22+oracleid%3Aa275f7ac-7dae-4422-875a-f34f24b6f28a+include%3Aextras&unique=prints), and it has drawn quite a bit of discussion.
+In the Reality Fracture set, a very rule-breaking ancient mechanic, Split Second, has reappeared in Standard along with [the new Samut](https://scryfall.com/search?as=grid&order=released&q=%21%22Samut%2C+Tyrant+of+Naktamun%22+oracleid%3Aa275f7ac-7dae-4422-875a-f34f24b6f28a+include%3Aextras&unique=prints), and it has drawn quite a bit of discussion.
 
 So why is the Split Second mechanic so eye-catching? Let us see exactly what kind of ability Split Second is.
 

@@ -18,7 +18,7 @@ excerpt: "The distortion of this world will be corrected by Emrakul!"
 
 ![](https://images.guildmagesforum.tw/posts/Standard-Devoid-Emrakul-Tron/df8a9ef47fa2.webp)
 
-In Magic's stories, the appearance of an Eldrazi Titan often signals an ending, and the finale of *[**[[現實碎片]]**](https://scryfall.com/sets/fra?as=grid&order=set)* is no exception.
+In Magic's stories, the appearance of an Eldrazi Titan often signals an ending, and the finale of *[**Reality Fracture**](https://scryfall.com/sets/fra?as=grid&order=set)* is no exception.
 As the pinnacle of the Eldrazi, Emrakul gets her fourth version in this set, [**Emrakul, the Exigent Doom**](https://scryfall.com/card/fra/1/emrakul-the-exigent-doom), and the friend of the Eldrazi, [**Ugin, Eye of the Storms**](https://scryfall.com/card/tdm/1/ugin-eye-of-the-storms), is also in the card pool. When these two ancient beasts come together, can they spark something in Standard?
 
 ## Deck Analysis

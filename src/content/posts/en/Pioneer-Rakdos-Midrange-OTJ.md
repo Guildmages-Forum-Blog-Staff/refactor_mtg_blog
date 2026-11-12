@@ -142,7 +142,7 @@ I really don't want to say that resolving [Reckoner Bankbuster](https://scryfall
 |+1 Torch the Tower|-2 Liliana of the Veil|
 |+1 Sheoldred's Edict|-2 Thoughtseize|
 |+2 Path of Peril|-2 Invoke Despair|
-|+1 [[衰萎]]||
+|+1 Languish||
 |+1 Tale's End||
 
 I think this is a very good matchup. We have lots of removal and also lifegain, so what we need to do is keep our life total as high as possible and then finish the game quickly. The only tricky ones are probably the red-green and red-white versions that bring protection, since we have to slam removal around the protection. A trick is to use removal only at the opponent's end step, because the opponent will always hold a spell to respond to your removal, and even if your removal gets dodged at their end step, on your turn the opponent won't necessarily have enough mana to respond. And you take less damage from the last turn too, because the opponent isn't using the spell before damage is dealt.
@@ -155,7 +155,7 @@ I think this is a very good matchup. We have lots of removal and also lifegain, 
 |+1 Torch the Tower|-2 Liliana of the Veil|
 |+1 Noxious Grasp|-1 Duress|
 |+2 Path of Peril|-1 Sheoldred's Edict|
-|+1 [[衰萎]]|-2 Invoke Despair|
+|+1 Languish|-2 Invoke Despair|
 |+1 Tale's End||
 
 This matchup depends heavily on the experience of both players. I've faced very strong opponents who kept me under pressure the whole game, and I've also faced players unfamiliar with the deck who gave me very easy wins. If the opponent knows how to play, they usually play more conservatively until they're confident enough to go for the combo. And you don't dare cast spells carelessly either, because you want to hold mana to respond to the opponent. The problem is that they're the more proactive side, slamming down some irrelevant creatures early to attack and force us to act, and we don't have a good solution for that. I really find it hard to explain the tricks of this matchup; all I can say is use your mana carefully, and if you can see their hand early with [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize), this matchup goes much better.

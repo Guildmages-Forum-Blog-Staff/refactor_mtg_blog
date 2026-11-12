@@ -85,7 +85,7 @@ Comment: This card needs only one mana and has 2 power, which looks quite attrac
 <!---109--->
 {% mtgpick "tdm" 109 %}
 Rating: 3.0
-Comment: Although this card is only a five-mana 3/4 with a somewhat ordinary body, the burst potential of its enter-the-battlefield ability shouldn't be underestimated. If you happen to hold a high-cost creature in hand (such as [[五星精靈龍]]!!!!!), it can achieve an astonishing board development or Flurry trigger in a single turn, with huge upside. Even without specific burst pieces, a free 3/4 creature still has decent baseline value, and in three-color decks it can help with color fixing and tempo, fitting the multicolor themes of the environment quite well. Its consistency is a bit low, limited by card order and pairing requirements, but overall it is an above-average card that can play an important role in the right deck.
+Comment: Although this card is only a five-mana 3/4 with a somewhat ordinary body, the burst potential of its enter-the-battlefield ability shouldn't be underestimated. If you happen to hold a high-cost creature in hand (such as a five-color Dragon!!!!!), it can achieve an astonishing board development or Flurry trigger in a single turn, with huge upside. Even without specific burst pieces, a free 3/4 creature still has decent baseline value, and in three-color decks it can help with color fixing and tempo, fitting the multicolor themes of the environment quite well. Its consistency is a bit low, limited by card order and pairing requirements, but overall it is an above-average card that can play an important role in the right deck.
 
 
 <!---110--->

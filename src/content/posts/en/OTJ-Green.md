@@ -57,7 +57,7 @@ An instant-speed fight is great, but this cost is way too high! Perhaps it's mea
 
 **GY_Player:** 2.5
 
-As mentioned for [Beastbond Outcaster](https://scryfall.com/card/otj/154/beastbond-outcaster), four power is fairly common so you needn't worry about being unable to kick it, not to mention that giving [[棘群哨衛]](https://cards.scryfall.io/large/front/6/a/6aea6702-16a8-4073-9c83-fbea20a5fd32.jpg?1711664929) one more power makes it self-sufficient. A good two-drop for the curve.
+As mentioned for [Beastbond Outcaster](https://scryfall.com/card/otj/154/beastbond-outcaster), four power is fairly common so you needn't worry about being unable to kick it, not to mention that giving [Bristlepack Sentry](https://cards.scryfall.io/large/front/6/a/6aea6702-16a8-4073-9c83-fbea20a5fd32.jpg?1711664929) one more power makes it self-sufficient. A good two-drop for the curve.
 
 ![157](https://cards.scryfall.io/large/front/5/2/52eef0d6-24b7-40b7-8403-e8e863d0cd55.jpg?1712355894)
 

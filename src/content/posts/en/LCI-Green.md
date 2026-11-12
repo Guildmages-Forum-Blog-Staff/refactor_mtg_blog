@@ -110,7 +110,7 @@ By the time you can slam it at eight mana, the Dinosaurs in your hand should all
 ![186](https://cards.scryfall.io/large/front/d/e/de7d6aed-3dc8-417d-a190-1660cfc8ee4a.jpg?1698700673)
 
 **cephille**: 2.5
-Early on it is a [[[勇闖北疆]]](https://cards.scryfall.io/large/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405) that can only find Forests; in the mid-to-late game it can return to the battlefield a Cave you've already used, but only finding Forests still can't solve color-screw in extreme situations. If you are playing green and need acceleration, you can run one.
+Early on it is a [Into the North](https://cards.scryfall.io/large/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405) that can only find Forests; in the mid-to-late game it can return to the battlefield a Cave you've already used, but only finding Forests still can't solve color-screw in extreme situations. If you are playing green and need acceleration, you can run one.
 
 ![187](https://cards.scryfall.io/large/front/b/a/bafde87c-743d-4307-93e0-fbd30f5d92f6.jpg?1698702316)
 
@@ -120,7 +120,7 @@ A somewhat subtle Equipment. Even if I can look at the top card of my library, I
 ![188](https://images.guildmagesforum.tw/posts/LCI-Green/16b02cb2f10c.webp)
 
 **cephille**: 1.5
-A reprint. Entering for three mana and looking at four to take a creature can still whiff, getting four creatures on the battlefield to transform isn't an easy condition either, and by the time it flips into [[[蓋亞的育苗地]]](https://cards.scryfall.io/large/front/2/5/25b0b816-0583-44aa-9dc5-f3ff48993a51.jpg?1562902898) you may not need the mana that much anyway. To me it is a card I wouldn't want to play.
+A reprint. Entering for three mana and looking at four to take a creature can still whiff, getting four creatures on the battlefield to transform isn't an easy condition either, and by the time it flips into [Gaea's Cradle](https://cards.scryfall.io/large/front/2/5/25b0b816-0583-44aa-9dc5-f3ff48993a51.jpg?1562902898) you may not need the mana that much anyway. To me it is a card I wouldn't want to play.
 
 ![189](https://images.guildmagesforum.tw/posts/LCI-Green/c873ab116b34.webp)
 

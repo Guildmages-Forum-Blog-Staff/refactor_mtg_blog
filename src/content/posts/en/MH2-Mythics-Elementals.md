@@ -96,7 +96,7 @@ Finally, please allow me to ramble a bit, composing this ode in memory of Fury, 
 > The great river flows east, its waves washing away all the heroes of ages past.
 > Where the meta ends, they say, are the five Elementals of MH2.
 > Endurance and Solitude, Grief and Subtlety, rolling up a thousand heaps of snow.
-> Old gives way to new, and [[大傑斯]] has no takers.
+> Old gives way to new, and Jace, the Mind Sculptor has no takers.
 > I imagine Fury in those years, when MH2 was released, crouching first and then leaping.
 > Four damage for zero mana, and amid talk and laughter, the aggro decks were turned to ash.
 > The Pro Tour One Ring, red-black scam, unrivaled glory.

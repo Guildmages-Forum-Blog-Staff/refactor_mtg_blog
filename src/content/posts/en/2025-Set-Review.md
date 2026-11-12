@@ -157,7 +157,7 @@ Overall, FF really is a carefully designed set, with many places where people wh
 
 Although we're back to MTG's own universe, this set has flown out into outer space, with not only spaceships but also planets, which is so sci-fi that it doesn't feel much like MTG...
 
-Surprisingly some old creature types appear: Kavu, [[裂片妖]], Eldrazi... so are these races all from outside? Honestly by this point I no longer know where the story is going XD.
+Surprisingly some old creature types appear: Kavu, Sliver, Eldrazi... so are these races all from outside? Honestly by this point I no longer know where the story is going XD.
 
 EOE is probably the set I drafted the most this year. As I recall it's fairly balanced, with nothing especially strong or especially weak. It's also a set with quite a few strong rares and mythics, but probably because shock lands have been reprinted so many times, [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler) and [Ouroboroid](https://scryfall.com/card/eoe/201/ouroboroid) are still expensive QQ.
 
@@ -255,7 +255,7 @@ Last, a look at the protagonist Aang. These four cards follow the story, where A
     
 Airbend → Waterbend → Earthbend → Firebending
 
-Each one he learns adds another color. Are you [[歐納斯]]? ~~They really never appeared together at the same time XD~~
+Each one he learns adds another color. Are you Omnath? ~~They really never appeared together at the same time XD~~
 
 ![](https://images.guildmagesforum.tw/posts/2025-Set-Review/842f3d1b6e3e.webp)
     

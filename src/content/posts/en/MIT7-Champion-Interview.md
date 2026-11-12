@@ -21,7 +21,7 @@ I haven't been playing Magic: The Gathering for very long. When I first got into
 Later, we got to exchange ideas ~~beat each other up~~ at events a few times and gradually got to know each other better, and this time we finally had the chance to sit down for a deep conversation. 思源's road in Magic is very special and exceptionally brave, and I hope this interview can serve as a reference for our readers. I'm also really looking forward to hearing 思源 share his experiences after Worlds. I wish him the best in enjoying the journey ahead!
 
 ![](https://images.guildmagesforum.tw/posts/MIT7-Champion-Interview/602a051d7bc2.webp)
->The interview begins! A red player naturally has to sit next to [[茜卓]].
+>The interview begins! A red player naturally has to sit next to Chandra.
 
 #### Q1: First of all, congratulations to 思源 on qualifying for Worlds! Let's go back to the scene of the 7th MIT Championship. How did you feel being in the final decisive stretch?
 

@@ -184,7 +184,7 @@ On the other hand, Taiwanese players are hyper-competitive to an extreme, basica
 ## The Current Modern Environment
 
 Having said all that, the current Modern environment may still be the most balanced of all formats.
-Standard has been stagnant ever since [[肉勾]] was banned, with fewer people playing and fewer meta deck types, and looking around it's always the same few similar decks on top.
+Standard has been stagnant ever since Meathook Massacre was banned, with fewer people playing and fewer meta deck types, and looking around it's always the same few similar decks on top.
 Pioneer, needless to say, many people just finished experiencing it not long ago; luck (positioning) far outweighs practice, and in many games you basically know the result as soon as you sit down and decide who goes first.
 Legacy goes without saying: cast one [Brainstorm](https://cards.scryfall.io/large/front/4/8/48070245-1370-4cf1-be15-d4e8a8b92ba8.jpg?1631586166) and you get hit in the face for four plus the opponent gets a 4/4, or before I've even drawn a card the opponent kills me on turn one, or slams a Trinisphere and just watches me there.
 Pauper has more and more powerful commons (not to mention some uncommons or even rares being downshifted to Pauper), and the whole field is getting more chaotic.

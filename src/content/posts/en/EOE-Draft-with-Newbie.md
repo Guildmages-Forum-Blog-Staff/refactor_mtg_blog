@@ -57,7 +57,7 @@ Tired or not, draft is too fun not to play. Let the battle begin!
 >[XSBeeble](/authors/XSBeeble/) checking prices ~~watching the market~~ while grabbing cards. He has apparently forgotten what analysis he wrote himself, and your author boldly suspects he's bluffing us.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/a56e9ff7ef6f.webp)
->Being unable to decide is both joyful and painful... wait, [[骷髏妖]] again!? Your author suddenly felt the stirrings of love.
+>Being unable to decide is both joyful and painful... wait, Skeleton again!? Your author suddenly felt the stirrings of love.
 
 ![](https://images.guildmagesforum.tw/posts/EOE-Draft-with-Newbie/abb16c184ec0.webp)
 >Guildmages' Forum has a famous saying: "When in doubt, ask [Jru](/authors/JruMTG/)." Being able to ask right away when you're confused is the best kind of practice ~~your author often asks him questions too XD~~.

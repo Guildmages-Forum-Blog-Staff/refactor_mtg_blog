@@ -173,7 +173,7 @@ Ratings:
 Ratings:
 
 - [Three Tree Scribe](https://scryfall.com/card/blb/199) A 2/2/3 body that is above average, a card that goes with the blue-green theme of re-entering creatures over and over.
-- [Treeguard Duo](https://scryfall.com/card/blb/200) On entering it pumps the team and attacks while staying untapped; in a go-wide deck, giving creatures trample or [[穿透]] has a chance to be a one-hit kill.
+- [Treeguard Duo](https://scryfall.com/card/blb/200) On entering it pumps the team and attacks while staying untapped; in a go-wide deck, giving creatures trample or menace has a chance to be a one-hit kill.
 - [Treetop Sentries](https://scryfall.com/card/blb/201) A defensive creature, and the condition to draw a card on entering is not hard to meet.
 
 |                                                  202                                                  |                                                  203                                                  |                    ###                    |

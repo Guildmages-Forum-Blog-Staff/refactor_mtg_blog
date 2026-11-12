@@ -62,7 +62,7 @@ With Tidebinder it can also handle more matchups, so [Narset, Parter of Veils](h
 
 Some players have also started adding [Ledger Shredder](https://cards.scryfall.io/large/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1664410287) back into their lists. The main reason is that with fewer Scam decks, there are fewer [Orcish Bowmasters](https://cards.scryfall.io/large/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1686968669) too, and you couldn't beat Bowmasters anyway, so you might as well raise your win rate in the matchups without Bowmasters.
 
-For the sideboard you might consider one more [Brotherhood's End](https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089). It's a bit of a shame that it went from a one-sided zero-mana sweep to a symmetrical one, but it's still better than nothing. If there are a lot of [[鄰甲]] in the metagame, consider two copies.
+For the sideboard you might consider one more [Brotherhood's End](https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089). It's a bit of a shame that it went from a one-sided zero-mana sweep to a symmetrical one, but it's still better than nothing. If there are a lot of Hardened Scales in the metagame, consider two copies.
 
 ### Mono-Green Tron
 

@@ -52,7 +52,7 @@ Comment: The expected use in Limited is a 3-4 mana instant-speed press.
 <!---3--->
 ![](https://images.guildmagesforum.tw/MAR/3.webp)
 Rating: 1.0
-Comment: [[九命]] adds one counter for each source, so it's relatively hard to make work in Limited. Consider it only if the opponent is playing a single big creature.
+Comment: Nine Lives adds one counter for each source, so it's relatively hard to make work in Limited. Consider it only if the opponent is playing a single big creature.
 
 
 <!---4--->
@@ -256,7 +256,7 @@ Comment: More of a win-more card, and the main set has no token-attacking theme.
 <!---37--->
 ![](https://images.guildmagesforum.tw/MAR/37.webp)
 Rating: 3.0
-Comment: A very good protection spell. Even with only a little green you can use it to protect a creature that has already [[飾裝]].
+Comment: A very good protection spell. Even with only a little green you can use it to protect a creature that has already equipped.
 
 
 <!---38--->
@@ -274,7 +274,7 @@ Comment: Red-white in the main set doesn't focus on artifacts, so think of it as
 <!---40--->
 ![](https://images.guildmagesforum.tw/MAR/40.webp)
 Rating: 3.0
-Comment: Quality removal for red-black. In Limited, preventing regeneration only matters against [[[毒龍]]](https://scryfall.com/card/mar/22).
+Comment: Quality removal for red-black. In Limited, preventing regeneration only matters against [Skithiryx](https://scryfall.com/card/mar/22).
 
 
 ## Conclusion

@@ -153,7 +153,7 @@ We signed up for Challenge Standard, with an entry fee of 2500 JPY per person:
 4-	Staff verify the player's app name to confirm they have joined the event
 Once these are done you can leave the queue, wait for pairings and a seat, and then you can start fighting.
 
-My husband, the strong one, nicely took three wins, and his mono-red [[大鼠]] blitz did well in the warm-up.
+My husband, the strong one, nicely took three wins, and his mono-red Mice blitz did well in the warm-up.
 Requiem_Black, with Izzet Prowess, got one win, slowly getting a feel in the event, and, not understanding Japanese, calling a JUDGE first got more and more natural (?)!
 
 In Challenge Standard events, players with three wins get an FFXIV twin-panel promo, the left panel a Magic card and the right panel a card from the Final Fantasy Trading Card Game published by SQUARE ENIX.
@@ -185,7 +185,7 @@ Below is a visual report of rookie Requiem_Black's first time back in a big tour
 Round 1 Won 2-1, opponent Izzet Cauldron (Izzet Cauldron)
 Round 2 Won 2-0, opponent Golgari Overlord (Glogari Beanstalk)
 Round 3 Drew 1-1, opponent Izzet Prowess (Izzet Prowess) [mirror match]
-Round 4 Lost 0-2, opponent Four-Color Zur [[白綠霸]] (W-U-B-G Aggro)
+Round 4 Lost 0-2, opponent Four-Color Zur Domain (W-U-B-G Aggro)
 Round 5 Lost 1-2, opponent Izzet Cauldron (Izzet Cauldron)
 　　　　[Played against SamuelChang of Taipei, a strong player who finished 45th in this event, report 11-3-1]
 Round 6 Won 2-0, opponent Izzet Prowess (Izzet Prowess) [mirror match]
@@ -247,7 +247,7 @@ We were there to take part. Although we didn't place in Team Limited Open, the w
 
 ![53](https://images.guildmagesforum.tw/posts/Happy-Journey-Final-Fantasy/8184af83862e.webp)
 
-Quickly, the three-day event was about to end. During these days, Tokyo left me with a great many stories and feelings, giving me special memories of Magic to savor. Next time, I want to successfully beat up the Japanese players with Prowess, hahahaha! Sadly my [[刀]] and [[熊皮]] both said bye bye after the 6/30 banned and restricted announcement, so the legend of Izzet Prowess should stop at this page, right?
+Quickly, the three-day event was about to end. During these days, Tokyo left me with a great many stories and feelings, giving me special memories of Magic to savor. Next time, I want to successfully beat up the Japanese players with Prowess, hahahaha! Sadly my Cori-Steel Cutter and Monstrous Rage both said bye bye after the 6/30 banned and restricted announcement, so the legend of Izzet Prowess should stop at this page, right?
 
 ## Conclusion
 Thanks to cephille, who, knowing I talk a lot, still had the courage to invite me to write!

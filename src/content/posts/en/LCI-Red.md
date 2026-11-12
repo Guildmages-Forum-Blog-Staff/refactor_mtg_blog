@@ -45,7 +45,7 @@ For the mechanics, see this article: [The Lost Caverns of Ixalan Mechanics Expla
 
 Instant-speed, two mana for 3 damage. As cheap removal there's nothing to complain about, and since LCI has an extremely high density of artifacts, to the point you could say it rivals a real artifact environment, the ability to remove artifacts is worth more here than in a regular set.
 
-By the way, Abrade seems to be on its way to becoming a standard evergreen common like [[失效]] and [[逼從]].
+By the way, Abrade seems to be on its way to becoming a standard evergreen common like Negate and Duress.
 
 ![132](https://cards.scryfall.io/large/front/e/9/e90d5b7d-e27d-42d6-ba7a-d4a6b0dd8549.jpg?1699044222)
 
@@ -240,7 +240,7 @@ Note that because casting an artifact spell immediately produces a Dinosaur, eve
 Side note: this card's art enlightened me. (I'm just reading the flavor text aloud, okay?)
 
 > **cephile**:
-> I'm not giving a rating, but a three-mana Enchantment into a four-mana [[自動龍械]](https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263), then on turn five attacking with two Dinosaurs to make two Treasures and jump to seven mana, is really too explosive! Saheeli will indeed love it! (And the expressions on these two characters are so dramatic XD)
+> I'm not giving a rating, but a three-mana Enchantment into a four-mana [Dinotomaton](https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263), then on turn five attacking with two Dinosaurs to make two Treasures and jump to seven mana, is really too explosive! Saheeli will indeed love it! (And the expressions on these two characters are so dramatic XD)
 
 ![162](https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122)
 
@@ -302,7 +302,7 @@ This set's Dinosaur density is high enough that one mana for 5 damage isn't hard
 
 **Jru**: 5.0
 
-The body alone has the combat power of a six-drop, and Discover 5 is profit no matter what, with a very high ceiling on that profit. When you're short on removal it can also help: the pseudo-[[魂力]] three mana for 3 isn't efficient, but at least it has acceptable range, and it's a free extra flexible option.
+The body alone has the combat power of a six-drop, and Discover 5 is profit no matter what, with a very high ceiling on that profit. When you're short on removal it can also help: the pseudo-channel three mana for 3 isn't efficient, but at least it has acceptable range, and it's a free extra flexible option.
 
 ![172](https://cards.scryfall.io/large/front/2/1/2101921a-d26f-4a00-a0db-1b418f2e6b01.jpg?1699044357)
 

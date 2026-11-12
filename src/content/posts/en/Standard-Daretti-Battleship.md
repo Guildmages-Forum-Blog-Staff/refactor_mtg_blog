@@ -1,6 +1,6 @@
 ---
 
-title: '[[整修充能]]: Standard Daretti Battleship'
+title: 'Overhaul and Recharge: Standard Daretti Battleship'
 date: 2025-08-12 12:00:00
 authors:
   - "JerobaMTG"

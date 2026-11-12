@@ -34,7 +34,7 @@ And Dimir midrange is a deck that only holds together because of the strength of
 
 ### Weeks 1-4 (20260201 - 20260228)
 
-These five weeks were basically spent tinkering with the previous version of Dimir midrange in various ways, plus slacking off during the Lunar New Year. In that time I picked up an MIT#12 qualification, 2 store-championship foil {% mtglink "Ocelot Pride" "sch" %}, played a few ECL drafts, and stared blankly at the new Turtles cards. Although I had some new ideas when I saw the new ninja cards, I hadn't acted on them. I still remember that at the store championship at [[艾克米]], the judge 多多 came and asked me whether the new card {% mtglink "Dream Beavers" %} had a place in Dimir midrange, and my answer at the time was:
+These five weeks were basically spent tinkering with the previous version of Dimir midrange in various ways, plus slacking off during the Lunar New Year. In that time I picked up an MIT#12 qualification, 2 store-championship foil {% mtglink "Ocelot Pride" "sch" %}, played a few ECL drafts, and stared blankly at the new Turtles cards. Although I had some new ideas when I saw the new ninja cards, I hadn't acted on them. I still remember that at the store championship at 艾克米, the judge 多多 came and asked me whether the new card {% mtglink "Dream Beavers" %} had a place in Dimir midrange, and my answer at the time was:
 
 "In Dimir midrange, Dream Beavers can't replace {% mtglink "Spyglass Siren" %}." But as I'll write later, I had it wrong.
 

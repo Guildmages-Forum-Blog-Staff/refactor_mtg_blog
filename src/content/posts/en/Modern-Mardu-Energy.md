@@ -298,7 +298,7 @@ Against decks with too many varied targets, like [Yawgmoth, Thran Physician](htt
 <!---!![](https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759)--->
 {% mtgpick "dom" 213 %}
 
-For decks like [Primeval Titan](https://scryfall.com/card/ima/183/primeval-titan), mono-red Storm, Tron, and [[奧扎奇]] (& [Through the Breach](https://scryfall.com/card/uma/152/through-the-breach)); among the more niche ones there's also [Twiddle](https://scryfall.com/card/8ed/111/twiddle) [Lotus Field](https://scryfall.com/card/m20/249/lotus-field).
+For decks like [Primeval Titan](https://scryfall.com/card/ima/183/primeval-titan), mono-red Storm, Tron, and Eldrazi (& [Through the Breach](https://scryfall.com/card/uma/152/through-the-breach)); among the more niche ones there's also [Twiddle](https://scryfall.com/card/8ed/111/twiddle) [Lotus Field](https://scryfall.com/card/m20/249/lotus-field).
 
 Its first ability is for hitting combos, and its second ability punishes lands that tap for 2 mana. Bring in extra copies when the metagame has more of the decks above.
 
@@ -307,7 +307,7 @@ Its first ability is for hitting combos, and its second ability punishes lands t
 <!---![](https://cards.scryfall.io/large/front/0/f/0f279560-7e9f-4a6d-9fd6-6c8c6bd94a1b.jpg?1608917739)--->
 ![](https://images.guildmagesforum.tw/posts/Modern-Mardu-Energy/8e7cb7cee814.webp)
 
-For Domain, Goblin Charbelcher decks (keeping the opponent from casting [Goblin Charbelcher](https://scryfall.com/card/ddt/57/goblin-charbelcher) and just waiting a turn), [Grinding Station](https://scryfall.com/card/5dn/127/grinding-station), [Primeval Titan](https://scryfall.com/card/ima/183/primeval-titan), [Hardened Scales](https://scryfall.com/card/lcc/243/hardened-scales), [Colossus Hammer](https://scryfall.com/card/afc/202/colossus-hammer), [[神器共鳴]] decks, and so on.
+For Domain, Goblin Charbelcher decks (keeping the opponent from casting [Goblin Charbelcher](https://scryfall.com/card/ddt/57/goblin-charbelcher) and just waiting a turn), [Grinding Station](https://scryfall.com/card/5dn/127/grinding-station), [Primeval Titan](https://scryfall.com/card/ima/183/primeval-titan), [Hardened Scales](https://scryfall.com/card/lcc/243/hardened-scales), [Colossus Hammer](https://scryfall.com/card/afc/202/colossus-hammer), Affinity decks, and so on.
 It simply destroys artifacts and enchantments, and with enough mana you can get a 2-for-1. Aside from not being able to hit [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring), it's a very good universal answer. The awkward part is decks like [Yawgmoth, Thran Physician](https://scryfall.com/card/dmr/110/yawgmoth-thran-physician) that win with an add-on [Agatha's Soul Cauldron](https://scryfall.com/card/woe/242/agathas-soul-cauldron) but only have one target; it's really hard to use there (that's where [Static Prison](https://scryfall.com/card/mh3/44/static-prison), which can exile anything, comes out ahead).
 
 ### [Ob Nixilis, the Adversary](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary)
@@ -326,7 +326,7 @@ When you notice that the opponent's deck leans on the graveyard to some degree, 
 {% mtgpick "mh2" 137 %}
 
 Nickname: the land-blasting dragon
-The final weapon against decks built mostly on colorless lands, like Tron and [[奧扎奇]]. Besides those, it can also be used against decks with lots of utility lands and nonbasic lands, such as Charbelcher, Titan, and Scales decks, if you're confident you can slow the opponent's tempo.
+The final weapon against decks built mostly on colorless lands, like Tron and Eldrazi. Besides those, it can also be used against decks with lots of utility lands and nonbasic lands, such as Charbelcher, Titan, and Scales decks, if you're confident you can slow the opponent's tempo.
 Combined with [Chthonian Nightmare](https://scryfall.com/card/mh3/83/chthonian-nightmare), pulling it up from the graveyard over and over to blow up all the opposing lands is super satisfying, but it takes a lot of energy, so you basically need to have completed the [Guide of Souls](https://scryfall.com/card/mh3/29/guide-of-souls) and [Ocelot Pride](https://scryfall.com/card/mh3/38/ocelot-pride) combo before you can use it freely.
 Note that after siding it in, remember to put your companion away, so you don't take a game loss for no reason.
 

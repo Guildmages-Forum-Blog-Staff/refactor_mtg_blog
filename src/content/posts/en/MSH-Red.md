@@ -147,7 +147,7 @@ Marvel Super Heroes (MSH) holds its Prerelease events on June 19, 2026, and rele
  
  {% mtgpick "MSH" 148 %}
  Score: 2.0
- Comment: A creature that can come in as early as the start of the game, but the body is just 1/1, and even after [[超能]] it's only a 2/2 double striker, so it's better suited to early aggro decks.
+ Comment: A creature that can come in as early as the start of the game, but the body is just 1/1, and even after power-up it's only a 2/2 double striker, so it's better suited to early aggro decks.
         
  
  {% mtgpick "MSH" 149 %}
@@ -207,7 +207,7 @@ Marvel Super Heroes (MSH) holds its Prerelease events on June 19, 2026, and rele
  
  {% mtgpick "MSH" 160 %}
  Score: 3.0
- Comment: Although [[超能]] is relatively expensive to activate, after two activations the creature is usually a size larger than your opponent's, and if it can be paired with the value from {% mtglink "Hulk, Gamma Goliath" %}, it's extremely high.
+ Comment: Although power-up is relatively expensive to activate, after two activations the creature is usually a size larger than your opponent's, and if it can be paired with the value from {% mtglink "Hulk, Gamma Goliath" %}, it's extremely high.
 
  
  ## Conclusion

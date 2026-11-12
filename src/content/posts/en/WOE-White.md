@@ -140,7 +140,7 @@ A three-mana 2/3 first striker that is good on both offense and defense, and if 
 
 **Limited rating: 3.0**
 
-Although it can only remove people or tokens of mana value three or less, you can basically still run one. Against blue-green five-mana ramp you can consider cutting it for another removal spell (but if the opponent has [[鵝鵝媽]](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0204_MTGWOE_Main.png), you can still suppress it!).
+Although it can only remove people or tokens of mana value three or less, you can basically still run one. Against blue-green five-mana ramp you can consider cutting it for another removal spell (but if the opponent has [Mother Goose](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0204_MTGWOE_Main.png), you can still suppress it!).
 
 > Is Snow White's sleeping posture in the glass coffin training her core?
 

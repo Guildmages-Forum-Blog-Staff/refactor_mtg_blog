@@ -97,7 +97,7 @@ Comment: Only seven creatures in this set can't be killed by it, so it's a solid
 <!---91--->
 {% mtgpick "fdn" 91 %}
 Score: 3.0
-Comment: It's our [[凱瀾哥]], with an effect that keeps evolving and getting stronger. Unfortunately this time the evolutions don't stack and can only keep going upward, but as a one-drop it's already quite good.
+Comment: It's our Kellan, with an effect that keeps evolving and getting stronger. Unfortunately this time the evolutions don't stack and can only keep going upward, but as a one-drop it's already quite good.
 
 <!---92--->
 {% mtgpick "fdn" 92 %}

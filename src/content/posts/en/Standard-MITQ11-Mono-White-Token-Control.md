@@ -486,9 +486,9 @@ This Simic midrange deck has a very dense curve of low-cost creatures, so the ra
 
 
 
-### [[鐵木爾戰呼人]] Combo
+### Temur Battlecrier Combo
 
-![[[鐵木爾戰呼人]] Combo](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/78acc0d4cde0.webp)
+![Temur Battlecrier Combo](https://images.guildmagesforum.tw/posts/Standard-MITQ11-Mono-White-Token-Control/78acc0d4cde0.webp)
 
 | Ont | In | 
 | :-: | :-: | 

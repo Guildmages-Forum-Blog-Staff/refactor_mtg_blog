@@ -155,7 +155,7 @@ Finally, a few decks that are not bad matchups for control, but have a big enoug
 
 - White-based spell chain
 - Izzet Elementals
-- Simic [[蔓蛇]], or the Simic-based multicolor toolbox decks derived from it
+- Simic Snakes, or the Simic-based multicolor toolbox decks derived from it
 
 
 
@@ -802,7 +802,7 @@ Against Landfall there are a great many offensive and defensive decision points 
 
 
 
-### Simic [[蔓蛇]]
+### Simic Snakes
 
 ![Simic deck](https://images.guildmagesforum.tw/posts/Standard-Sultai-Creature-Control/c7abb1806a35.webp)
 
@@ -832,7 +832,7 @@ This matchup is basically an all-out board development versus all-out board clea
 |  | Essence Scatter +1 | 
 |  | Tishana's Tidebinder +1 | 
 
-In essence, this is also one of the branches of the Simic [[蔓蛇]] system above, but with a more clearly specialized structure and an infinite combo, so I listed a separate sideboard plan.
+In essence, this is also one of the branches of the Simic Snakes system above, but with a more clearly specialized structure and an infinite combo, so I listed a separate sideboard plan.
 
 
 

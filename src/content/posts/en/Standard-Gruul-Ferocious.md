@@ -1,6 +1,6 @@
 ---
 
-title: "[[蠻野覺醒]]: Standard Gruul Ferocious"
+title: "Wild Awakening: Standard Gruul Ferocious"
 date: "2025-03-09 16:09:32"
 authors:
   - "JerobaMTG"

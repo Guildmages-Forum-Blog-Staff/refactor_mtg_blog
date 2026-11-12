@@ -110,11 +110,11 @@ The survival ability is naturally a great fit with Mounts and Vehicles. [Rip, Sp
 
 ![Single card](https://images.guildmagesforum.tw/posts/DSK-Standard-Preliminary/28a6907899da.webp)
 
-### Azorius [[明師]]
+### Azorius Mentor
 [Decklist link](https://www.mtggoldfish.com/deck/6648926#paper)
 ![DeckList](https://images.guildmagesforum.tw/posts/DSK-Standard-Preliminary/696e51eeca27.webp)
 
-The exile-six-cards part of [Abhorrent Oculus](https://scryfall.com/card/dsk/42/abhorrent-oculus) is an additional cost paid when casting it, so if you dig it straight onto the battlefield you don't have to care about that cost at all. Even if you want to cast it normally, it isn't a problem in a [[明師]] deck with plenty of self-mill.
+The exile-six-cards part of [Abhorrent Oculus](https://scryfall.com/card/dsk/42/abhorrent-oculus) is an additional cost paid when casting it, so if you dig it straight onto the battlefield you don't have to care about that cost at all. Even if you want to cast it normally, it isn't a problem in a Mentor deck with plenty of self-mill.
 
 ![Single card](https://images.guildmagesforum.tw/posts/DSK-Standard-Preliminary/c8873dc2aa53.webp)
 
@@ -195,7 +195,7 @@ Put in sacrifice engines and sacrifice fodder in proportion, and a deck is done~
 
 Powerful ETB creatures like [Overlord of the Boilerbilges](https://scryfall.com/card/dsk/146/overlord-of-the-boilerbilges) and [Trumpeting Carnosaur](https://scryfall.com/card/lci/171/trumpeting-carnosaur) have always been good targets for reanimator decks, and cheap removal options also keep them from getting stuck in hand easily. Because they aren't legendary, they're also suited to [Coiling Rebirth](https://scryfall.com/card/blb/86/coiling-rebirth) for even more outrageous boards.
 
-If you reanimate [Overlord of the Boilerbilges](https://scryfall.com/card/dsk/146/overlord-of-the-boilerbilges) while [[苦澀重逢]](https://scryfall.com/card/dsk/146/overlord-of-the-boilerbilges) is on the battlefield, or put it onto the battlefield with [Push // Pull](https://scryfall.com/card/mkm/250/push-pull), it can attack immediately, suddenly making multiple burn shots dealing 4 to any target in a single turn. Most opponents should feel enormous pressure.
+If you reanimate [Overlord of the Boilerbilges](https://scryfall.com/card/dsk/146/overlord-of-the-boilerbilges) while [Bitter Reunion](https://scryfall.com/card/dsk/146/overlord-of-the-boilerbilges) is on the battlefield, or put it onto the battlefield with [Push // Pull](https://scryfall.com/card/mkm/250/push-pull), it can attack immediately, suddenly making multiple burn shots dealing 4 to any target in a single turn. Most opponents should feel enormous pressure.
 
 ![Single card](https://images.guildmagesforum.tw/posts/DSK-Standard-Preliminary/569fa8eef174.webp)
 

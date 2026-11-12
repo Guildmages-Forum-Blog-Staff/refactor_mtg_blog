@@ -111,7 +111,7 @@ Comment: This is a very interesting card. Its ability to put +1/+1 counters and 
 
 That means when you land it on turn two, on your opponent's turn it puts 1 counter on itself and gets you 1 colorless mana to speed you up. On your turn, of course, you continue the cycle: put a second counter, add 2 colorless, and then it is a 4/4... see whether you want to attack. This card fits perfectly with the Red-Green large-spell theme. However, if your opponent also plays red-green, or can make effective use of that extra mana, then it may be rough for us.
 
-Is [[Spider-Man的歡樂群眾]] our good partner, or a teammate who feeds the opponent? You will only know by playing it!
+Is Spider-Man's merry crowd our good partner, or a teammate who feeds the opponent? You will only know by playing it!
 
 
 <!---127--->
