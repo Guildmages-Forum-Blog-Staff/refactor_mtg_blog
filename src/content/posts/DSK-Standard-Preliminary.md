@@ -7,8 +7,8 @@ authors:
 categories:
   - "Construct"
   - "Standard"
-cover: "https://media.wizards.com/2024/images/daily/ZRJvURYMUR.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/ZRJvURYMUR.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Standard-Preliminary/ef15cc9dfc34-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Standard-Preliminary/ef15cc9dfc34-cover.jpg"
 excerpt: "歡迎來到全新的鬼屋時空暮悲邸，總之先做個 SAN 值判定吧"
 ---
 

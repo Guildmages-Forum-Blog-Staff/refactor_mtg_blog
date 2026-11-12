@@ -1,8 +1,8 @@
 ---
 title: "近代賽場：四色元素"
 date: 2023-09-20 10:19:10
-cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/09/omnath-locus-of-creation_icon.jpg?fit=768%2C432&ssl=1"
-thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/09/omnath-locus-of-creation_icon.jpg?fit=768%2C432&ssl=1"
+cover: "https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/21f5664bd494-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/21f5664bd494-cover.jpg"
 excerpt: "為應戰第五季的近代賽季，來聊聊這套處於meta頂端之一的多色主題牌組，其潛在威力和應對方法吧！"
 categories:
   - "Construct"
@@ -129,7 +129,7 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 2. **抽牌懲罰**
    對手如果有[奧克弓手](https://scryfall.com/card/ltr/103/orcish-bowmasters)或是[啟示天災希歐蕊](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse)存在的話，太多的豆莖反而成為雙面刃。主要是因為豆莖的異能是"**施放觸發**"，在透過使用5費以上的解場牌張時，會因為堆疊規則的關係使[奧克弓手](https://scryfall.com/card/ltr/103/orcish-bowmasters)和[啟示天災希歐蕊](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse)在被解掉前觸發他們的異能，如果是多張的豆莖甚至有可能因此幫助對手將你的血量壓入他們的斬殺線，對上黑色套牌時還請多注意。
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551493&type=card)![](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551494&type=card)
+![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/811e5873d09d.webp)![](https://images.guildmagesforum.tw/posts/Modern-4C-Elemental/3f23b61ec98b.webp)
 奇奇結界，相信應該不用我多說，從~~標準、~~先驅乃至近代都看的到它的身影，資源賺到翻掉的強力單卡。
 三個異能都很優秀，產珍寶來調整mana base、濾牌和複製生物都跟這套牌相當契合。
 

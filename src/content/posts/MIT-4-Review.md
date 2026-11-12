@@ -72,7 +72,7 @@ authors:
 另外蹦蹦也將他這次MIT的賽報分享在他個人的臉書粉專 – [勇德大叔的日常](https://www.facebook.com/UncleJund)上，歡迎有興趣的讀者也去看看，相信對不管打不打紅黑色組的你都能學習到許多！
 
 [蹦蹦的第四季MIT賽報連結](https://www.facebook.com/UncleJund/posts/pfbid02MzjMXXhFry1RRaioHPRa3YPFrFNccUQMnorMYQS2tDSAaJezGym8CLGsa7WeUC5Fl)
-![紅黑中速牌表連結](https://pbs.twimg.com/media/F-QgvFdW4AEdnro?format=jpg&name=large)
+![紅黑中速牌表連結](https://images.guildmagesforum.tw/posts/MIT-4-Review/090791daaf4a.webp)
 
 ### Guildmages' Forum參賽選手們的賽報與參賽心得
 

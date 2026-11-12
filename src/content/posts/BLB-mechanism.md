@@ -6,8 +6,8 @@ categories:
   - "BLB"
 authors:
   - "JruMTG"
-cover: "https://media.wizards.com/2024/images/daily/a50f2e8a33.jpg"
-thumbnail: "https://media.wizards.com/2024/images/daily/a50f2e8a33.jpg"
+cover: "https://images.guildmagesforum.tw/posts/BLB-mechanism/ade660052933-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-mechanism/ade660052933-cover.jpg"
 excerpt: "來看看斑隆洛中出現了哪些機制吧！"
 ---
 

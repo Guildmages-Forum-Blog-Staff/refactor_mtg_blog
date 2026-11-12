@@ -1,8 +1,8 @@
 ---
 title: "艾卓仙蹤標準初探 : 葛加理互鬥抹煞獸"
 date: 2023-09-05 17:48:11
-cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2023/01/Obliter.jpg?fit=555%2C414&ssl=1"
-thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2023/01/Obliter.jpg?fit=555%2C414&ssl=1"
+cover: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/8bd37d9719c6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Standard-Golgari-Obliterator/8bd37d9719c6-cover.jpg"
 categories:
   - "Construct"
   - "Standard"

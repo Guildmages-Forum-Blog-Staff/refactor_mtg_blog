@@ -38,7 +38,7 @@ excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶
 
 ### [卡洛夫莊園謀殺案](https://magic.wizards.com/zh-Hant/products/murders-at-karlov-manor)
 
-![](https://images.ctfassets.net/0piqveu8x9oj/6xe3Lg5K6A8awKmFruCSEg/32c3bc71dd4d15364306cdf7f5c4a923/WPN_Articles_Header_Image_w03_01.jpg?q=80)
+![](https://images.guildmagesforum.tw/posts/2024-Set-Review/2d5866db676f.webp)
 
 2024年2月9日，「卡洛夫莊園謀殺案」正式發售，我們跟隨著故事來到了拉尼卡，除了探查等舊機制的回歸，本次還新增了偽裝（Disguise）及蒐證（Collect evidence）等機制，詳細細則可以回顧魔風集會所當時分享的[卡洛夫莊園謀殺案機制解析](https://guildmagesforum.tw/MKM-mechanism/)！
 > 經過一整年的新系列推出，目前我們已知標準賽制環境內同時存在偽裝（Disguise）&匿伏（Cloak）與顯化懼象（Manifest Dread），三個異能會造成檯面上有許多面朝下的卡牌（筆者相當疑惑，為什麼這兩種面朝下效應會同時出現在標準賽制環境內）。玩家除了透過TOKEN協助，分辨場面上的反面卡擁有守護2外，玩家亦要注意將因不同異能而面朝下進場的卡牌分成兩區，不要重疊，遊戲結束後也要記得將面朝下的卡牌打開展示給對手看。
@@ -70,7 +70,7 @@ excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶
 ---
 
 ### [光雷驛鏢客](https://magic.wizards.com/zh-Hant/products/outlaws-of-thunder-junction)
-![](https://images.ctfassets.net/0piqveu8x9oj/3DhLctvhwqKe4J1KyXSuPP/45e6e036a98c704b695e0b8bf9d387c3/outlaws-of-thunder-junction-events-_-promos-overview--en.png?q=80)
+![](https://images.guildmagesforum.tw/posts/2024-Set-Review/6f58c4a5ecae.webp)
 
 2024年4月19日，「光雷驛鏢客」正式發售，那個萬惡的男人甌柯帶領狂徒集團來到全新的時空「光雷驛」，準備「配鞍備馬，稱雄荒野」。說到狂徒與鞍馬，就要提到本次的全新機制狂徒（Outlaw）、乘駕（Saddle）與犯下罪行（Commit a crime），詳細機制介紹可以回顧[光雷驛鏢客機制解析](https://guildmagesforum.tw/OTJ-mechanism/)。
 
@@ -98,7 +98,7 @@ excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶
 ---
 
 ### [斑隆洛](https://magic.wizards.com/en/products/bloomburrow)
-![](https://images.ctfassets.net/0piqveu8x9oj/2PbhtUL8FYfa6OZJSSMbGa/240f14bc54d9e1917339c9525e815bee/Articles_Header_Image_w32.png?q=80)
+![](https://images.guildmagesforum.tw/posts/2024-Set-Review/966d689818bb.webp)
 
 2024年8月2日，魔法風雲會迎來一群可愛的小動物，「斑隆洛」的推出~~相信讓各位獸控不獸控制~~衝擊了標準環境，當然「斑隆洛」的機制是圍繞著這群可愛的小動物們設計，全新機制繁生（Offspring）與英武（Valiant）讓以生物為主的套牌得到強化，詳細機制介紹可以回顧[斑隆洛機制解析](https://guildmagesforum.tw/BLB-mechanism/)。
 
@@ -135,7 +135,7 @@ excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶
 ---
 
 ### [暮悲邸：鬼屋驚魂](https://magic.wizards.com/en/products/duskmourn-house-of-horror)
-![](https://images.ctfassets.net/0piqveu8x9oj/6sPDYdDouR8WDjf6GlzlQM/56805ff720868463af7b33ca94d5e9b9/Articles_Header_Image_w36-1.png?q=80)
+![](https://images.guildmagesforum.tw/posts/2024-Set-Review/d3fc0a95fb5e.webp)
 
 2024年9月27日，魔法風雲會以「恐怖、克蘇魯元素」為主題的「暮悲邸：鬼屋驚魂」系列正式發售，除了從卡圖可以看出各種「致敬」外，全新異能隱現（Impending）與顯化懼象（Manifest Dread）除了，符合主題外，強力的效果更是衝擊了各個賽制，詳細機制介紹可以回顧[暮悲邸機制解析](https://guildmagesforum.tw/DSK-mechanism/)。
 
@@ -165,7 +165,7 @@ excerpt: "隨著「基石構築」系列發售，2024年也準備結束。節慶
 ---
 
 ### [基石構築](https://magic.wizards.com/en/products/foundations)
-![](https://images.ctfassets.net/s5n2t79q9icq/6uAB9xH7h3G9wC8Kw8OtMS/4e6d88cd45a27791efefc585654d4360/bdjsIbjkldje44758gg382g_1920x700.jpg?q=80)
+![](https://images.guildmagesforum.tw/posts/2024-Set-Review/4eb9c1c5276a.webp)
 
 2024年11月15日，本年度最震撼的系列上市，也是筆者心中今年最喜歡的系列 **「基石構築」**。
 基石構築系列與以往的標準系列不同，**本系列推出的卡牌可以在接下來五年內的標準賽制中使用**，且推出的卡牌多達512張，除了魔風歷史上經典的卡牌外，亦有新的卡牌推出，詳細內容歡迎閱讀[論 Foundation 基石構築對標準賽制的衝擊](https://guildmagesforum.tw/Standard-Crushing-by-FDN/)。

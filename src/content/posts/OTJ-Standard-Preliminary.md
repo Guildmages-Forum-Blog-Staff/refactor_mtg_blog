@@ -1,8 +1,8 @@
 ---
 title: "光雷驛鏢客標準初探"
 date: "2024-04-26 10:33:22"
-cover: "https://media.wizards.com/2024/images/daily/e2Wn82hgjad2-1920x1080.jpg"
-thumbnail: "https://media.wizards.com/2024/images/daily/e2Wn82hgjad2-1920x1080.jpg"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-Standard-Preliminary/a2e490c54fe3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-Standard-Preliminary/a2e490c54fe3-cover.jpg"
 excerpt: "來看看光雷驛鏢客標準初探有甚麼新的標準構築"
 categories:
   - "Construct"

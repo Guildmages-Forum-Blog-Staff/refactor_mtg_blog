@@ -7,8 +7,8 @@ categories:
   - "Casual"
 authors:
   - "MiohitoKiri5474"
-cover: "https://cloudflare.edhrec.com/articles/wp-content/uploads/2026/03/Featured-Image-Dandan-Deck-Out-Today.jpg"
-thumbnail: "https://cloudflare.edhrec.com/articles/wp-content/uploads/2026/03/Featured-Image-Dandan-Deck-Out-Today.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Forgetful-Fish/9a7d432f3bf3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Forgetful-Fish/9a7d432f3bf3-cover.jpg"
 excerpt: "我要把你的丹丹康回牌庫頂，下回合再抽起來"
 ---
 
@@ -132,6 +132,6 @@ excerpt: "我要把你的丹丹康回牌庫頂，下回合再抽起來"
 雖然已經（差不多）組完牌了，但還是覺得沒有收到那套 SLD 很可惜，而且那張牌墊也好想要（縮在棉被裡咬枕頭），雖然 UG 有賣但寄送地址只限歐洲。
 
 還有那一套海島真的香，身為一個海島廚（？）不收藏一套有點對不起自己。
-![](https://images.ctfassets.net/s5n2t79q9icq/5LfG5lEuzQKKbKyNXbPEq9/192f59b1b1cafa2466c0e79edcf0e111/SL_Dandan_Island_960x540.jpg)
+![](https://images.guildmagesforum.tw/posts/Forgetful-Fish/0ad8f97aa7f4.webp)
 
 ⋯⋯不過話說回來，在 Twitter 和 Reddit 上看到不少人遇到錯印或是被運送搞，又覺得沒訂到好像還好了。

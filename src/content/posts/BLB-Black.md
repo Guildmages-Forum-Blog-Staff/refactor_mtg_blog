@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 黑色"
 date: "2024-07-26 00:08:52"
-cover: "https://media.wizards.com/2024/images/daily/fe051b2d92.jpg"
-thumbnail: "https://media.wizards.com/2024/images/daily/fe051b2d92.jpg"
+cover: "https://images.guildmagesforum.tw/posts/BLB-Black/5b35f6884cbd-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-Black/5b35f6884cbd-cover.jpg"
 excerpt: "強！還要更強！強力殺牌加強力生物，你拿什麼贏我！"
 categories:
   - "Limited"

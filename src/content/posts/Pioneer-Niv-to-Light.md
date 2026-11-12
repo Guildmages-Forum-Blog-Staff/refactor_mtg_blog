@@ -4,8 +4,8 @@ date: "2024-03-06 12:24:33"
 categories:
   - "Construct"
   - "Pioneer"
-cover: "https://scg-static.starcitygames.com/articles/2020/10/4ed35a02-209.jpg"
-thumbnail: "https://scg-static.starcitygames.com/articles/2020/10/4ed35a02-209.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Niv-to-Light/a3bf174a5e2c-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Niv-to-Light/a3bf174a5e2c-cover.jpg"
 excerpt: "來看看經過莊園謀殺案強化後的五色天光尼米捷吧！！"
 authors:
   - "Enki"

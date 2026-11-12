@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/bTYwGsxvHeoL.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/bTYwGsxvHeoL.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-colorless/e14567317c24-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-colorless/e14567317c24-cover.jpg"
 excerpt: "十三個充滿穢氣的神器、窺伺你我健康的十三恐懼地。故事的基礎全都在這裡了，加上幾位誤入時空的貴客，鬼屋遊戲即將啟程。"
 ---
 

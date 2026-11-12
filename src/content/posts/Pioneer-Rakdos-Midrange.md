@@ -1,8 +1,8 @@
 ---
 title: "Something About Rakdos Midrange"
 date: 2023-08-20 20:21:01
-cover: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
-thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange/9277a23e5f78-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange/9277a23e5f78-cover.jpg"
 excerpt: "看起來好像似曾相識的標題？這就對啦！"
 categories:
   - "Construct"

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/VSorilPAMx.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/VSorilPAMx.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-Black/e521e33339df-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Black/e521e33339df-cover.jpg"
 excerpt: "你玩你的牌庫，我玩你的牌庫，我們應該沒什麼差吧？ By貢提"
 ---
 

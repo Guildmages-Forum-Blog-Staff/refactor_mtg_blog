@@ -76,7 +76,7 @@ authors:
 6. 血辮妖精粉絲狂喜
 7. 每次discover就像抽卡一樣，真爽！
 
-![](https://i.ibb.co/t87NtQY/Real-Gix-Creulty.png)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/8a9fa5dcf3d5.webp)
 
 ## 缺點
 
@@ -87,7 +87,7 @@ authors:
 
 2. discover抽卡大爆死
 
-![](https://image.gameapps.hk/images/201503/27/lmain.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/271fa84c8931.webp)
 （676翻出[斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)的時候相信我，超級難受的）
 
 3. 每一步動作都相對大的緣故，容易被康或殺懲罰，備牌後可一定程度把動作做細來改善，但還是沒藍黑那麼靈活
@@ -115,7 +115,7 @@ authors:
 20240113 彰化鬥陣MITQ，總人數14人
 使用紅黑Discover，第一名優勝獲得資格
 
-![](https://i.ibb.co/sHr8zjw/20240118-132350.jpg)
+![](https://images.guildmagesforum.tw/posts/Standard-Rakdos-Discover-Midrange-Kappa/fabed7acb974.webp)
 台中七面鳥，麻婆豆腐漢堡扒濃湯拉麵（特辣），320元
 （本來是想貼當天贏冠軍之後吃的拉麵，不過那張畫質有點低，所以改用最近吃的拉麵）
 

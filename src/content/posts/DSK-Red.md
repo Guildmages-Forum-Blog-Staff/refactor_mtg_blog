@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/2RQCMyjALa.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/2RQCMyjALa.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Red/d00010fcd3d6-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Red/d00010fcd3d6-cover.jpg"
 excerpt: "讓火焰淨化一切！把你燒到連渣都不剩，在放逐區待好吧阿鬼！"
 ---
 

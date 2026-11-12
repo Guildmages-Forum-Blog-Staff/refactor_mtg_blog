@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/2MNh5nAMFL.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/2MNh5nAMFL.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-Colorless/8365df014b74-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-Colorless/8365df014b74-cover.jpg"
 excerpt: "調色大部隊全面出動！準備好迎接豐富多彩的多色環境了嗎？"
 ---
 

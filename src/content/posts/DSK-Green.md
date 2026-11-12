@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/dUEBmLVBUf.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/dUEBmLVBUf.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Green/5d769c6f41c8-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Green/5d769c6f41c8-cover.jpg"
 excerpt: "恐懼來自於火力不足，嚐嚐綠色壓倒性的火力吧！"
 ---
 

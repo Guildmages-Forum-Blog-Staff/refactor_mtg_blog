@@ -1,8 +1,8 @@
 ---
 title: "Pioneer 環境考察 2023/10/07"
 date: 2023-10-07 09:00:00
-cover: "https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg"
-thumbnail: "https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/3e172b22eb5d-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/3e172b22eb5d-cover.jpg"
 excerpt: "加拿大 RC 和歐洲 RC 在上週末結束了，讓我們來看看有哪些突出的套牌吧！"
 categories:
   - "Construct"
@@ -94,26 +94,26 @@ Day 2：則是額外六輪之後取八強單淘汰。
 
 ### Lotus Field Combo
 
-![](https://cdn.melee.gg/decklists/1c4bf64b-db52-4361-b6b1-b1ed26857ea9.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/813b4b5fba5a.webp)
 
 ![](https://cards.scryfall.io/large/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451)
 
 這邊先說說冠軍版本的，冠軍版本的構築在活動卡位多了三張 Discontinuity，用來回應蓮花田的 etb 切回合，或是在對手的維持切回合。
 
-![](https://cdn.melee.gg/decklists/58bb1d2c-e7d6-4582-8b08-38313be61adb.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/e804c738fd63.webp)
 
 而另一位八強的玩家 Sam Rolph 則是在自由卡位放了 [Growth Spiral](https://cards.scryfall.io/large/front/7/d/7d0ae655-c64e-470d-a7ae-e06b89c77e57.jpg?1673305543) 和更多的過牌。
 
 ### Abzan Greasefang
 
-![](https://cdn.melee.gg/decklists/68980614-17c5-464c-ac8a-f91b07dcfe12.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/23d359c74d7b.webp)
 
 老鼠車的構築跟我上[次寫的近代考察](https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/#Abzan-Greasefang)差不多，但打的更中速的構築，正邊除了放滿 [Thoughtseize](https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001) 以外還帶了兩張 [Duress](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024) 和一張 [Collective Brutality](https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285)。
 備牌還有兩張 [Reckoner Bankbuster](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706)，應該是預期會有很多中速對局（他也的確吃了不少中速套牌）。
 
 ### Rakdos Sacrifice
 
-![](https://cdn.melee.gg/decklists/f6bca97e-07db-4344-b220-cc698b3a0cf5.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/14f3ac5a7511.webp)
 
 犧牲的構築十分中規中矩，至少在正編的部分是這樣。
 備牌的部分應該也是預期會有很多中速對局，所以帶了一張 [Reckoner Bankbuster](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706) 和三張 [Ob Nixilis, the Adversary](https://cards.scryfall.io/large/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1664413416) 以及兩張 [Archfiend of the Dross](https://cards.scryfall.io/large/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg?1675957007)。
@@ -121,7 +121,7 @@ Day 2：則是額外六輪之後取八強單淘汰。
 
 ### Fire-Color Combo
 
-![](https://cdn.melee.gg/decklists/d5620e3f-eba9-4178-af66-0062a5d1584a.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/16a87305483a.webp)
 
 ![](https://cards.scryfall.io/large/front/f/4/f487b582-e73f-4325-939f-95fc5a9aba49.jpg?1682203390)
 
@@ -154,19 +154,19 @@ Day 2：則是額外六輪之後取八強單淘汰。
 
 ### Gruul Vehicles
 
-![](https://cdn.melee.gg/decklists/165a3504-f5f2-462c-afed-481f8ea68d8f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/fda08be3b6f5.webp)
 
 載具則是跟之前的構築差不多，正編多帶了 WOE 的新牌 [The Huntsman's Redemption](https://cards.scryfall.io/large/front/2/7/27003577-e276-4ad5-b3e9-8523b166ad49.jpg?1692938904)，除了本身可以視為是一張三費 3/3 以外，也可以找備牌局上上來的針對生物，以及最後的給兩隻生物 +2/+2 和踐踏。
 
 ### Enigmatic Fires
 
-![](https://cdn.melee.gg/decklists/7fae23f7-87a5-4820-bc30-cc12f86d599f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/f13de7b9f681.webp)
 
 創火的部分也是跟之前提過的差不多，不過多了 [Up the Beanstalk](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184) 這張二費節奏，個人覺得比起 [Omen of the Sea](https://cards.scryfall.io/large/front/a/5/a5f30ecd-d009-4d44-aef4-c926ed55a521.jpg?1581479435) 來說稍微好一點點，但因為創火基本上不會正拍太多 5 cmc 以上的咒語，能多抽的量還是有限，但無不小補是吧。
 
 ### Rakdos Midrange
 
-![](https://cdn.melee.gg/decklists/fd55b8f9-6a84-47a6-84c2-4739919e4b05.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/46a5890604b5.webp)
 
 紅黑中速表現相當中規中矩，但生物較多比較偏向 aggro 那一邊，
 整體的感覺差不多，備牌很精簡但也有些太過於精簡了，可能是選項太多了，不如選擇最重要的幾項做處理，提高這些對局的勝率。
@@ -233,7 +233,7 @@ Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 
 ### Izzet Phoenix
 
-![](https://cdn.melee.gg/decklists/9098f275-14be-421f-899e-b4ae5d9c490c.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/91dd6f4d4166.webp)
 
 之前就有提過，鳳凰在多了變戲法之後重返 meta，有更多的找牌比較容易挖到正確的資源，而且變戲法不是抽牌，可以稍微降低 Sheoldred 的威脅。
 構築上採用比較舊型的路線：複製多兩回合，保留做中後期爆發的資源。
@@ -241,47 +241,47 @@ Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 
 ### Rakdos Sacrifice
 
-![](https://cdn.melee.gg/decklists/07e8072b-3bd2-402a-bf42-13376a8ce6d7.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/f50b4278d447.webp)
 
 犧牲的構築也是差不多，不過備牌只有多帶一張 Duress，改帶第三張歐尼醬，也帶了四張黑地脈打內戰、老鼠車用。
 不過備牌四張黑地脈好佔位置，可能需要想一下換備要怎麼處理。
 
 ### Gruul Vehicles
 
-![](https://cdn.melee.gg/decklists/041da542-f882-400e-8091-7729ad218c79.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/36c406881e69.webp)
 
 古魯載具的成績在這個週末挺不錯的，有兩套進 RC 八強。
 構築也是大同小異，一樣新增了 WOE 的傳記增強資源和打點。
 
 ### Rakdos Midrange
 
-![](https://cdn.melee.gg/decklists/e939fe65-d651-4d8f-ad75-13e3bce7e4a6.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/892d07fd3e64.webp)
 
 這一套紅黑中速選擇將原先會放在備牌的兩張 [Reckoner Bankbuster](https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706) 放在正編，而把通常會放在正編的 [Misery's Shadow](https://cards.scryfall.io/large/front/5/1/514c5e77-9ecc-41c9-b104-76343601fafb.jpg?1674420938) 放到備牌，應該是預期會有比較多的中速內戰，但代價就是打綠獻跟犧牲的時候正編局會比較難贏。
 
 ### Boros Heroic
 
-![](https://cdn.melee.gg/decklists/24e7ddf4-008c-4eec-aef2-6435b99b9d1c.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/277839f5199d.webp)
 
 勇行是用了比較新的構築，正編放了一張給 +2/+0 踐踏 & 野獸皮的一點紅灌大，備牌帶了三張 [Showdown of the Skalds](https://cards.scryfall.io/large/front/3/d/3d9d840e-1f13-44e3-a4de-903cfa58a346.jpg?1631051876) 用來增加打到中長盤對局的資源。
 
 ### UW Control
 
-![](https://cdn.melee.gg/decklists/4f934d11-0be4-4a77-85b9-3d90bcaffd85.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/ce69ee4e32a8.webp)
 
 這一套控制減少了掃場的數量，增加了更多的低費去除和低費康（連 [Absorb](https://cards.scryfall.io/large/front/1/e/1e8a43c1-42d1-45ef-8a63-4b87775a6e88.jpg?1584831352) 都只帶三張），感覺沒有 [Teferi, Hero of Dominaria](https://cards.scryfall.io/large/front/5/d/5d10b752-d9cb-419d-a5c4-d4ee1acb655e.jpg?1562736365) 很容易斷資源。
 不確定組牌者的想法，不過就結果來說這是一個不錯的構築。
 
 ### Mono-Green Devotion
 
-![](https://cdn.melee.gg/decklists/e6087278-0626-45a7-bed1-79ad755cdea0.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/19c8ca12d7fc.webp)
 
 正編構築部分，選擇多帶一張 [Cityscape Leveler](https://cards.scryfall.io/large/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950)。
 備牌則是很標準的卡恩工具箱。
 
 ### Enigmatic Fires
 
-![](https://cdn.melee.gg/decklists/fd710409-e44c-4026-89e4-403148b2e673.jpg?v=3)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-20231007/de840d2de8dc.webp)
 
 這一套創火則是打 61 張 [Keruga, the Macrosage](https://cards.scryfall.io/large/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1666782800) 的版本，四費的生物選擇帶 [Nicol Bolas, the Ravager](https://cards.scryfall.io/large/front/7/b/7b215968-93a6-4278-ac61-4e3e8c3c3943.jpg?1566971561) 而不是更常見的 [Omnath, Locus of Creation](https://cards.scryfall.io/large/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1639436752)，但老龍會飛、翻面後能自主提供資源，不像是 Omnath 還需要下地配合，在沒有找地地的賽制沒辦法展現出他的強度。
 

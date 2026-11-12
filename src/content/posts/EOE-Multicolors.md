@@ -17,7 +17,7 @@ excerpt: "太空系列來臨，大家準備好翱翔於宇宙間，駕駛太空�
 
 ## 色組主題
 
-![](https://media.wizards.com/2025/images/daily/qEvy10hlaV.jpg)
+![](https://images.guildmagesforum.tw/posts/EOE-Multicolors/b5231e0c95b5.webp)
 
 ### <span style="color:#C3B270">白</span><span style="color:#006DB3">藍</span> — 第二個咒語
 

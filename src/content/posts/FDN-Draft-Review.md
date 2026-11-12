@@ -120,7 +120,7 @@ MH3展示出比哪個環境都更小的變異性，從這項驗證中可以說�
 
 還想再驗證一下，但還有其他惡名昭彰的環境嗎…啊！
 
-![](https://imageio.forbes.com/specials-images/imageserve/6397814510ea85c23e3ef9b2/0x0.jpg?format=jpg&width=1200)
+![](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/6be057dcbc1f.webp)
 
 追加非瑞克西亞：萬界歸一（ONE）至圖表中。
 
@@ -133,7 +133,7 @@ ONE之所以惡名昭彰是因為環境異常地高速和先手優勢，但這�
 之後還想看看什麼核心系列之類的環境…
 不過核心系列的17Lands數據幾乎不存在…啊！
 
-![](https://4.bp.blogspot.com/-X564HeK5qBg/VAnSc6ZtPoI/AAAAAAAAX_c/_c74AqcXKt4/s1600/khans%2Bof%2Btarkir%2Bbanner.jpg)
+![](https://images.guildmagesforum.tw/posts/FDN-Draft-Review/cea4e0f45528.webp)
 
 追加以「昭和MTG」而廣為人知，韃契可汗（KTK）至圖表中看看。
 

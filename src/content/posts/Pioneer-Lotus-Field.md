@@ -1,8 +1,8 @@
 ---
 title: "先驅蓮花田組合技：從入門到放棄"
 date: 2023-10-01 15:58:50
-cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1"
-thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field/2008245ae30b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Lotus-Field/2008245ae30b-cover.jpg"
 excerpt: "組合技玩家從入門到放棄的心路歷程。"
 categories:
   - "Construct"

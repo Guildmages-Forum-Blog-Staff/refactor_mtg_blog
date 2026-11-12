@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/mMM4xzlAgo.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/mMM4xzlAgo.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-Black/e31ca99d6e45-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-Black/e31ca99d6e45-cover.jpg"
 excerpt: "轉瞬間，死亡的利刃已投向敵人，然而你將以驚詫的表情看著敵人再次站起"
 ---
 

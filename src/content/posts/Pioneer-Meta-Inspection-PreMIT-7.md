@@ -29,7 +29,7 @@ categories:
 > 一天內要打完八輪 + 單淘汰真的好硬 = =
 > 雖然台灣的七輪 + 單淘汰好像也沒有比較軟就是。
 
-![](https://images.ctfassets.net/ryplwhabvmmk/6p8hlTj3PDNfn10LjACbzl/a4b44fa4c0d16a24a20ba4afae6c470b/City_Class_metagame.png)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/dd8e4e7086a2.webp)
 
 其中 Rakdos Aggro 佔 14% 最多，其次是 Jund Sacrifice 12.6% 和 Azorius Control 的 10.6%。
 這個數字比我預期的略低一些，原先我預期這邊大概都會佔個 50%（美國就佔了 46%），不過還算是正常範圍。
@@ -54,7 +54,7 @@ categories:
 
 ### Azorius Control
 
-![](https://cdn.melee.gg/decklists/7f1f61ea-a93c-425b-b0e7-edd19252cce3.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/f547f080c8e5.webp)
 
 現在的 UWx Control 可以說是版本解答，左打 Phoenix 右踢 Rakdos Aggro，構築基本上和之前的結構差不多，不過冠軍牌表比起抽濾放了更多的解牌，打前面提到兩套牌時比較不用花前兩三個回合找解答，畢竟現在 Rakdos Aggro 三回就能斬人了，二回還在做 {% mtgcard "Deduce" tooltip=true %} 有那麼億點爛⋯⋯
 但這樣的代價是，預期在打 Control mirror 和 5C Enigmatic Incarnation 的時候不太舒服，像是 {% mtgcard "Portable Hole" tooltip=true %} 在這個對局中根本是辣雞⋯⋯
@@ -65,7 +65,7 @@ categories:
 
 ### 5C Enigmatic Incarnation
 
-![](https://cdn.melee.gg/decklists/579e462b-0af4-403a-8462-dcb16fb9dbe2.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/43b404a75152.webp)
 
 雖然 list 上面還是寫作 Enigmatic Fires，不過現在其實都不會帶 {% mtgcard "Fires of Invention" tooltip=true %} 了。
 主要理由和前面講 Azorius Control 時一樣，作為慢速套牌 {% mtgcard "High Noon" tooltip=true %} 相當適合，同樣的可以阻止 Phoenix 和 Rakdos Aggro 的超絕展開，並且需要的時候也能給 {% mtgcard "Enigmatic Incarnation" tooltip=true %} 吃掉找三費的生物工具箱。
@@ -76,8 +76,8 @@ categories:
 
 ### Rakdos Aggro
 
-![](https://cdn.melee.gg/decklists/559a5753-a321-4546-82b6-6b71ce960975.jpg?v=1)
-![](https://cdn.melee.gg/decklists/856b4129-31ac-4018-81a6-6c093a14e553.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/e464aa67cf8b.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/b609d6ee99a4.webp)
 
 Rakdos Aggro 也算是現在的環境新寵兒，基本上可以將其看作是完全沒有保護也沒有後續資源的 Gruul Aggro，但換來的是更高的傷害上限。
 雖然如同標準搭配新的地脈 {% mtgcard "Leyline of Resonance" tooltip=true %} 可以打到更高的上限，不過有鑒於先驅比起標準有更多的低費去除（{% mtgcard "Fatal Push" tooltip=true %}、{% mtgcard "March of Otherworldly Light" tooltip=true %}、{% mtgcard "Play with Fire" tooltip=true %}），拼這個上限的回報太低。
@@ -88,7 +88,7 @@ Rakdos Aggro 也算是現在的環境新寵兒，基本上可以將其看作是�
 
 ### Rakdos Transmogrify
 
-![](https://cdn.melee.gg/decklists/12547dff-73bb-468f-bdb5-80abd0f61419.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/6065c9d9190b.webp)
 
 Rakdos Transmogrify 是利用 {% mtgcard "Transmogrify" tooltip=true %} 低費轉 {% mtgcard "Atraxa, Grand Unifier" tooltip=true %} 出來、並且靠大量的去除和掉手壓制對手行動。
 可以視為紅黑版本的 {% mtgcard "Indomitable Creativity" tooltip=true %}，不過做出來並不會馬上贏，取而代之的是更舒服的高下限。
@@ -101,7 +101,7 @@ Rakdos Transmogrify 是利用 {% mtgcard "Transmogrify" tooltip=true %} 低費�
 
 ### Rakdos Midrange
 
-![](https://cdn.melee.gg/decklists/5ffc967e-e5ce-4790-b627-3a37b471a93a.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/abc652d7a96b.webp)
 
 這個版本的 Rakdos Midrange 算是對環境的特化，改用 {% mtgcard "Archfiend of the Dross" tooltip=true %} 快速 clock 對手、並且也能有效的壓制 Sacrifice 套牌，同時加入更多的點殺和更多的 {% mtgcard "Graveyard Trespasser // Graveyard Glutton" tooltip=true %} 以應對 Rakdos Aggro。
 
@@ -122,13 +122,13 @@ Rakdos Transmogrify 是利用 {% mtgcard "Transmogrify" tooltip=true %} 低費�
 
 ### Jund Sacrifice
 
-![](https://cdn.melee.gg/decklists/fac4f8f8-e64a-45b2-b3b0-d035e15a2503.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/9b78488bd8a8.webp)
 
 BLB 的兩張新牌 {% mtgcard "Ygra, Eater of All" tooltip=true %} 和 {% mtgcard "Scavenger's Talent" tooltip=true %} 大大的補強 Sacrifice，前者提供了無限組合技，後者則是集 `肥料`、`堆墳`、`挖墳` 為一體。
 
 ### Dimir Rouges
 
-![](https://cdn.melee.gg/decklists/14b26c54-c15f-4eb5-ae6b-2d24b8b6c908.jpg?v=3)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/3fff00839a32.webp)
 
 Dimir Rouges 拿到八強了。
 ⋯⋯Dimir Rouges 拿到八強了？！
@@ -144,7 +144,7 @@ Dimir Rouges 拿到八強了。
 
 再來看看美國的冠軍賽吧，這次一樣是分兩天共打 15 輪瑞制，其中 Day 1 拿到 18 分以上的玩家才能進 Day 2。
 
-![](https://images.ctfassets.net/ryplwhabvmmk/4Eu0pDSsqlcmGLJyjV2ncq/67b6ed7c2687b7161fca4a1109b412b2/SCG_Metagame.jpg)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/e7ac25f34876.webp)
 
 一樣先看個環境，應該是鑑於巴西場 5C Enigmatic Incarnation 的成績不錯，所以有不少人選這套牌。
 另外犧牲數量蠻少的（跟巴西比起來），猜測是大家覺得犧牲會被嚴重針對（畢竟他也最好針對），因此選擇其他套牌。
@@ -163,7 +163,7 @@ Dimir Rouges 拿到八強了。
 
 ### Rakdos Cauldron
 
-![](https://cdn.melee.gg/decklists/cd98df61-9348-41e1-8379-438fe1bd580c.jpg?v=4)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/08f7e8a4905a.webp)
 
 基本上這是一套中速外掛組合技的套牌，組合技的部分用 {% mtgcard "Agatha's Soul Cauldron" tooltip=true %} 吃掉 {% mtgcard "Tree of Perdition" tooltip=true %}、搭配別的生物將對手血量扣低，再用 {% mtgcard "Voldaren Thrillseeker" tooltip=true %} 的 Backup 異能給其他生物投擲能力斬殺對手，也可以同樣用 {% mtgcard "Agatha's Soul Cauldron" tooltip=true %} 吃掉後用一隻有帶 +1/+1 的生物斬殺。
 
@@ -176,27 +176,27 @@ Cauldron 因為卡地只能硬著頭皮抽一棄一把 {% mtgcard "Tree of Perdi
 
 ### Rakdos Transmogrify
 
-![](https://cdn.melee.gg/decklists/9ba7bdae-74ab-4d5d-a40a-cfba8b3c5037.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/cd38b0b245a5.webp)
 
 帶了兩張歐尼醬的 Transmogrify，還有正 + 備共計三張 HCA，看來很不想輸犧牲。
 
 ### Rakdos Aggro
 
-![](https://cdn.melee.gg/decklists/b598ee39-1dfd-4f0a-8e2f-5b7fa8a440be.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/104ba9c059c6.webp)
 
 ~~很沒創意的 Rakdos Aggro~~
 
 ### Enigmatic Incarnation
 
-![](https://cdn.melee.gg/decklists/21e9d402-8f52-48f0-b4c2-b4a5f2684553.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/651b420a97e2.webp)
 
 呃，就是 Enigmatic Incarnation 然後不同的工具箱組合，沒啥好說的。
 比較特別的是多帶一張 {% mtgcard "Bitter Reunion" tooltip=true %} 加速斬殺。
 
 ### Izzet Phoenix
 
-![](https://cdn.melee.gg/decklists/5050be45-534a-4fd3-aa6d-b4f1e27664f6.jpg?v=1)
-![](https://cdn.melee.gg/decklists/f36e8c35-5c14-4a9e-9ff5-6618e93f6c8a.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/b5e91905c7c3.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/6b27687e0de1.webp)
 
 這兩套 Phoenix 長得基本上差不多，只是細節上的差異。
 另外現在的 Phoenix 正編局基本上都會帶回手或是拆了，沒辦法 {% mtgcard "High Noon" tooltip=true %} 太多了解不完。
@@ -205,7 +205,7 @@ Cauldron 因為卡地只能硬著頭皮抽一棄一把 {% mtgcard "Tree of Perdi
 
 ### Selesnya Company
 
-![](https://cdn.melee.gg/decklists/100cdceb-5fc5-442e-842a-5ebfb62f8259.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/9ef4fd980a28.webp)
 
 基本上就是薪傳的 Death & Taxes，不過是混綠的先驅版本。
 混八張 mana 頭和四張 {% mtgcard "Collected Company" tooltip=true %} 作為加速和 value 手段，並且加入新牌 {% mtgcard "Enduring Innocence" tooltip=true %} 補手牌，除了少數的生物以外、其他生物進場都能抽一張。
@@ -215,7 +215,7 @@ Cauldron 因為卡地只能硬著頭皮抽一棄一把 {% mtgcard "Tree of Perdi
 
 ###  Azorius Lotus Field
 
-![](https://cdn.melee.gg/decklists/885eb743-c127-4aaf-b6b3-6d4fd3fd6b58.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/d4f74ea3b9e4.webp)
 
 本質上就是一套控制，不過帶了 {% mtgcard "Lotus Field" tooltip=true %} 和 {% mtgcard "Strict Proctor" tooltip=true %} 作 mana cheating，另外掛了三張 {% mtgcard "Thespian's Stage" tooltip=true %} 一路貪到底。
 不過雖然說他是控制，但這套牌其實只有帶一張康牌 {% mtgcard "Censor" tooltip=true %}，其他都是解牌。
@@ -243,28 +243,28 @@ Cauldron 因為卡地只能硬著頭皮抽一棄一把 {% mtgcard "Tree of Perdi
 
 ### Rakdos Aggro
 
-![](https://cdn.melee.gg/decklists/01e21a3f-1b62-40f1-9968-839d4320fc85.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/732ba9e9efa4.webp)
 
 老樣子的 Rakdos Aggro。
 
 ### Engimatic Incarnation
 
-![](https://cdn.melee.gg/decklists/9fbd422e-f7ff-4c8f-b4d8-22f441febab6.jpg?v=3)
-![](https://cdn.melee.gg/decklists/634a593b-7627-4fdf-9197-6370c2dbb949.jpg?v=1)
-![](https://cdn.melee.gg/decklists/ba51c426-e1b7-427f-97cd-7cd2f8ef53c1.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/e49fc5bd35a1.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/e43a2471a6ad.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/371ac8519677.webp)
 
 這邊可以注意一下，不同的人會有不同的 Engimatic Incarnation 構築，像是有些選用 {% mtgcard "Lightning Helix" tooltip=true %} 等紅色和白色為主的殺牌，但也有人選用 {% mtgcard "Vanishing Verse" tooltip=true %} 和 {% mtgcard "Fatal Push" tooltip=true %} 這類黑色為主的殺牌。
 
 ### Azorius Humans
 
-![](https://cdn.melee.gg/decklists/b4a1ccec-3912-4117-9f1d-505f5dde0621.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/14867d16ac91.webp)
 
 基本上就是 Mono-White Spash Blue，為了四張 {% mtgcard "Mockingbird" tooltip=true %}，副官不夠 {% mtgcard "Mockingbird" tooltip=true %} 來湊。
 
 ### Izzet Pheonix
 
-![](https://cdn.melee.gg/decklists/2cfe776c-7a60-45ec-af84-06f5f6a7258d.jpg?v=1)
-![](https://cdn.melee.gg/decklists/faf4debc-d789-4f89-a766-dd12ce0893c2.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/ec5fc6031327.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/b9af06eb0cdc.webp)
 
 四強的 Pheonix 比較特別的是正編就有 {% mtgcard "Crackling Drake" tooltip=true %} 了，並且帶了四張 {% mtgcard "Artist's Talent" tooltip=true %} 輔助抽濾（對應正常構築的 {% mtgcard "Ledger Shredder" tooltip=true %}），有些同樣帶 {% mtgcard "Artist's Talent" tooltip=true %} 的備牌會多帶一張 {% mtgcard "Thassa's Oracle" tooltip=true %} 作為額外獲勝手段。
 
@@ -272,7 +272,7 @@ Cauldron 因為卡地只能硬著頭皮抽一棄一把 {% mtgcard "Tree of Perdi
 
 ### Mono-Black Midrange
 
-![](https://cdn.melee.gg/decklists/3372001f-6476-468f-8e69-67a9b3a40f95.jpg?v=4)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/a6d4a3c46092.webp)
 
 Mono-Black Demons 是利用 {% mtgcard "Unstoppable Slasher" tooltip=true %} 打到扣一半血的效果，搭配 {% mtgcard "Bloodletter of Aclazotz" tooltip=true %} 扣血 double 可以一擊將對手斬殺，加上 DSK 的新牌 {% mtgcard "Unholy Annex // Ritual Chamber" tooltip=true %} 作為良好的資源補點。
 
@@ -309,45 +309,45 @@ Day 2 我們則可以看到 Mono-Black Demons 的轉換率最高，再次證明�
 
 ### Mono-Black Demons
 
-![](https://cdn.melee.gg/decklists/acf9f5a3-abc7-48be-9504-9f38227350a3.jpg?v=1)
-![](https://cdn.melee.gg/decklists/6ae8fbd1-0330-48ce-9f39-bcbbf0088076.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/ca8d1436e60c.webp)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/ca84cad8af44.webp)
 
 正編不能說很像，只能說是一模一樣，兩套牌只有殺牌的數量組和不同。
 備牌選用的東西就比較不同了，但還是常見的那些牌。
 
 ### Rakdos Transmogrify
 
-![](https://cdn.melee.gg/decklists/8f55fed7-55b0-4e18-870b-ab36300f1851.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/f267109d35f4.webp)
 
 同樣很標準的 Rakdos Transmogrify 構築，不過選擇放一張 {% mtgcard "Hidetsugu Consumes All // Vessel of the All-Consuming" tooltip=true %} 放到正編，可以有意識的去找這張牌，或是用結案的 {% mtgcard "Case of the Stashed Skeleton" tooltip=true %} 去找。
 
 ### Rakdos Midrange
 
-![](https://cdn.melee.gg/decklists/78ac33d0-399b-4037-a8e0-ec818fdde0dc.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/2848e685dcde.webp)
 
 新版本的 Rakdos Midrange，三費曲線改成帶 {% mtgcard "Unstoppable Slasher" tooltip=true %} 加速 clock 對手、同時惡魔變多了因此也跟著用 {% mtgcard "Unholy Annex // Ritual Chamber" tooltip=true %} 替代掉 {% mtgcard "Reckoner Bankbuster" tooltip=true %} 的位置。
 
 ### Mono-Red Aggro
 
-![](https://cdn.melee.gg/decklists/8cd7991f-8dc7-49f6-b080-8d8e6706abbd.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/6b0ffeb9886f.webp)
 
 ~~都 4202 年了別再打 RDW 了~~
 
 ### Rakdos Aggro
 
-![](https://cdn.melee.gg/decklists/dfe0dc36-7f8e-4878-8c12-20115c91ac36.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/022519194bb3.webp)
 
 就是 Rakdos Aggro，不過比較特別的是正編就有兩張 {% mtgcard "Thoughtseize" tooltip=true %} 了。
 
 ### Selesnya Company
 
-![](https://cdn.melee.gg/decklists/1670c4c2-fbc7-4cfe-9060-e348a9a372e4.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/0bed62debdcc.webp)
 
 很標準的 Selesnya Company。
 
 ### Azorius Humans
 
-![](https://cdn.melee.gg/decklists/ee870d5b-2892-402d-9320-09b788b39889.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/5921908a4d6b.webp)
 
 這套 Azorius Humans 除了多掛 {% mtgcard "Mockingbird" tooltip=true %} 以外還有兩張 {% mtgcard "Reflector Mage" tooltip=true %}。
 
@@ -357,7 +357,7 @@ Day 2 我們則可以看到 Mono-Black Demons 的轉換率最高，再次證明�
 
 ### Sans-Red Enigmatic Incarnation
 
-![](https://cdn.melee.gg/decklists/ab27e9a9-40af-4cbf-af04-8d447c020173.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/675fa047139c.webp)
 
 現在主要的 Enigmatic Incarnation 構築都會帶紅色，搭配 {% mtgcard "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki" alt="Fable of the Mirror-Breaker" tooltip=true %} 濾牌，還有 {% mtgcard "Overlord of the Boilerbilges" tooltip=true %} 作為解場和最後的收頭手段。
 
@@ -367,21 +367,21 @@ Day 2 我們則可以看到 Mono-Black Demons 的轉換率最高，再次證明�
 
 ### Abzan Greasefang w/ Overlord of the Balemurk & Say Its Name
 
-![](https://cdn.melee.gg/decklists/fa8cdf41-19e1-42d9-b171-4da39ee432c1.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/ed74184f3ec0.webp)
 
 用新牌 DSK 的 {% mtgcard "Say Its Name" tooltip=true %} 和 {% mtgcard "Overlord of the Balemurk" tooltip=true %}、BLB 的 {% mtgcard "Cache Grab" tooltip=true %} 替代掉之前的 {% mtgcard "Grisly Salvage" tooltip=true %} 和 {% mtgcard "Witherbloom Command" tooltip=true %}，作為新的堆墳手段。
 另外墳場有三張 {% mtgcard "Say Its Name" tooltip=true %} 的時候，可以將這三張都放逐，從牌庫/墳場/手牌中丟一隻 {% mtgcard "Altanak, the Thrice-Called" tooltip=true %} 回來，而且自身就有一條啟動式異能，上手至少可以把它丟了拿去 ramp，不算是澈底的 dead draw。
 
 ### Boros Token Control
 
-![](https://cdn.melee.gg/decklists/51c3cc59-6804-4017-b44d-cb07e55f8762.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/301f23b34620.webp)
 
 基本上就是標準的 Boros Token Control，然後加上 {% mtgcard "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki" alt="Fable of the Mirror-Breaker" tooltip=true %} 和 {% mtgcard "March of Otherworldly Light" tooltip=true %}，有些人會放 {% mtgcard "Wedding Announcement // Wedding Festivity" tooltip=true %}。
 打 UW Control 或是中速對局很舒服，資源很難斷。
 
 ### Sultai Landfall Combo
 
-![](https://cdn.melee.gg/decklists/438ccaaf-3077-45a2-8b00-e51ebe683a1f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Pioneer-Meta-Inspection-PreMIT-7/31ba26d40830.webp)
 
 前面各種 ramp，後面用 {% mtgcard "Port of Karfell" tooltip=true %} 將 {% mtgcard "Lumra, Bellow of the Woods" tooltip=true %} 挖回場上，這時 {% mtgcard "Lumra, Bellow of the Woods" tooltip=true %} 的進場效果會將 {% mtgcard "Port of Karfell" tooltip=true %} 也挖回場上。
 如果墳場有第二隻 {% mtgcard "Lumra, Bellow of the Woods" tooltip=true %} 的話，可以重複此動作將整套牌都磨進墳場，並且將所有地挖回來，其中就包括 {% mtgcard "Festering Gulch" tooltip=true %} 這張進場會打對手一點的地，並用 {% mtgcard "Lotus Field" tooltip=true %} 將他和 {% mtgcard "Lotus Field" tooltip=true %} 自己吃掉，然後挖回來做無限循環。

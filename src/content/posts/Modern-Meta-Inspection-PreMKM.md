@@ -1,8 +1,8 @@
 ---
 title: "Modern 環境考察 pre MKM"
 date: "2024-02-12 09:56:02"
-cover: "https://assets.moxfield.net/cards/card-Waw8l-art_crop.webp"
-thumbnail: "https://assets.moxfield.net/cards/card-Waw8l-art_crop.webp"
+cover: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/06fcf0ebd5c3-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/06fcf0ebd5c3-cover.jpg"
 excerpt: "犀牛犀牛犀牛，怎麼到處都是犀牛"
 categories:
   - "Construct"
@@ -91,8 +91,8 @@ LEC Ghent 醫生的表現挺不錯的老實說，另外是龍侯全軍覆沒，D
 
 ### Temur Rhinos
 
-![](https://cdn.melee.gg/decklists/6b4296d6-aa9a-4ae4-8220-f21eac2bfe45.jpg?v=1)
-![](https://cdn.melee.gg/decklists/be9f28e6-94ab-483b-a2df-d4cb1d6897ce.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/34edf365aa37.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/6f436e145425.webp)
 
 兩套牌基本上一樣，正編只差一張牌，一個選擇帶 [Murktide Regent](https://scryfall.com/card/mh2/52/murktide-regent)、另一個選擇帶 [Mystical Dispute](https://scryfall.com/card/eld/58/mystical-dispute)；備牌也是差一張，一個選擇帶 [Flame of Anor](https://scryfall.com/card/ltr/203/flame-of-anor)、另一個選擇多帶一張 [Boseiju, Who Endures](https://scryfall.com/card/neo/266/boseiju-who-endures)。
 
@@ -101,28 +101,28 @@ LEC Ghent 醫生的表現挺不錯的老實說，另外是龍侯全軍覆沒，D
 
 ### Golgari Yawgmoth
 
-![](https://cdn.melee.gg/decklists/57999785-1576-470d-a7a9-7ddb213f5df8.jpg?v=2)
-![](https://cdn.melee.gg/decklists/2fbe5638-ddb8-4c12-9feb-b539f3901f2f.jpg?v=1)
-![](https://cdn.melee.gg/decklists/05c5cdbf-5e2e-4c40-a76c-7246ae8097de.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/cf65406973d4.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/c345324ce35e.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/10f5661d9539.webp)
 
 這週末進入 top 8 三套醫生的構築可以說是大致相同，只是在小地方有差別而已。
 
 ### Living End
 
-![](https://cdn.melee.gg/decklists/c6944411-1cb3-4b6e-9412-19929b8c2822.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/3dc7f3481eb6.webp)
 
 Living End 的構築相當中規中矩，不過可能是因為 Living End 本身比起 Temur Rhinos 更 aggressive 一點，備牌沒有看到 [Ertai's Scorn](https://scryfall.com/card/dmu/48/ertais-scorn)。
 
 ### Mono-Green Tron
 
-![](https://cdn.melee.gg/decklists/0f3f8678-9da7-464b-8b0c-ff25d5aca151.jpg?v=3)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/50a70a819469.webp)
 
 一樣中規中矩的塔脈爐，雖然環境中已經沒有 [Fury](https://scryfall.com/card/mh2/126/fury) 了，但還是選擇帶三張 [Dismember](https://scryfall.com/card/mm2/79/dismember)。
 備牌則全部都是工具箱。
 
 ### Izzet Breach
 
-![](https://cdn.melee.gg/decklists/05bc43fa-729b-4450-b3e9-960190bfbe8e.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/6f9277d8f8e6.webp)
 
 這套牌是看直播兩天下來最驚豔的套牌，沒有帶 [Grinding Station](https://scryfall.com/card/5dn/127/grinding-station) 和 [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle) 的組合技，也不像龍侯有中後期的生物，算是徹頭徹尾的 tempo 套，中後期魔法力和墳場夠了之後丟 [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach) 不斷 escape [Lightning Bolt](https://scryfall.com/card/clu/141/lightning-bolt) 燒光對手的血。
 
@@ -177,10 +177,10 @@ Meta 比較分散一些。
 
 ### Rakdos Scam
 
-![](https://cdn.melee.gg/decklists/e3b62e7b-5910-4813-ad7d-e679776a8916.jpg?v=2)
-![](https://cdn.melee.gg/decklists/49d0fe36-0bdf-4f63-919e-cce71832e1e1.jpg?v=2)
-![](https://cdn.melee.gg/decklists/a5bbbedf-9e8b-45ee-a0e9-ffd58e16d670.jpg?v=2)
-![](https://cdn.melee.gg/decklists/afe0344e-7344-45b8-a775-2cf848e85844.jpg?v=3)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/5b09751475c5.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/66a470905a4d.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/db40ed8fb83d.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/6e9aa5b91b84.webp)
 
 不能說很像，只能說是一模一樣。
 牌組相似度超過 90%，除了一些地牌的配置、殺牌的配置有一點點不同以外，其他基本上都相同。
@@ -188,7 +188,7 @@ Meta 比較分散一些。
 
 ### Izzet Murktide
 
-![](https://cdn.melee.gg/decklists/4e092db6-7560-4416-bab4-bd6e79d4ee7c.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/983845378014.webp)
 
 相較於歐洲龍侯的全軍覆沒，巴西這邊有一套龍侯存活了下來。
 我覺得以現在的環境來說，這個對局已經沒有那麼難打了，至少不會出現一回猴子、二回 DRC DRC 然後被反手 Fury scam 直接掃爛，也不會有那麼大的血量壓力。
@@ -200,14 +200,14 @@ Meta 比較分散一些。
 
 ### Amulet Titan
 
-![](https://cdn.melee.gg/decklists/65538811-6fef-40a1-a6b9-000c6221a3ed.jpg?v=2)
-![](https://cdn.melee.gg/decklists/f2caa81b-6f33-49dc-929e-6ba830b38e19.jpg?v=2)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/480ba065d555.webp)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/160cddb0f782.webp)
 
 一個是很標準的泰坦 list，另一個 list 比較有趣一點，加入了平常不常見的地牌，用來當作備案/更快的魔法力加速，能更穩定的在三回出泰坦而且不一定需要依賴護身符，畢竟現在環境有些對局只要有一隻泰坦當阻擋者就會贏了。
 
 ### Golgari Yawgmoth
 
-![](https://cdn.melee.gg/decklists/cfab8347-903f-4d46-b8ec-29768ee76d3f.jpg?v=1)
+![](https://images.guildmagesforum.tw/posts/Modern-Meta-Inspection-PreMKM/4043e9401922.webp)
 
 算是很標準的醫生構築，選擇採用 [Zulaport Cutthroat](https://scryfall.com/card/clb/775/zulaport-cutthroat) 應該是想要躲 [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) 的反一切保護。
 不過說真的，醫生應該是有能力在對手的維持階段取勝，而且 [Blood Artist](https://scryfall.com/card/lcc/182/blood-artist) 在對手的生物死去時也會觸發，應該會好一些才對。

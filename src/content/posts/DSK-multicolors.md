@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/MYthLBTfx9QQ.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/MYthLBTfx9QQ.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-multicolors/84a2b8394cd9-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-multicolors/84a2b8394cd9-cover.jpg"
 excerpt: "多色牌通常都和其特定主題息息相關，這次恐怖鬼屋是主打哪十種主題呢？總歸一句：我怕"
 ---
 

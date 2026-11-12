@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 多色"
 date: "2024-07-26 00:10:00"
-cover: "https://media.wizards.com/2024/images/daily/7u6u5do9bcsc.webp"
-thumbnail: "https://media.wizards.com/2024/images/daily/7u6u5do9bcsc.webp"
+cover: "https://images.guildmagesforum.tw/posts/BLB-multicolors/3d3a4964b741-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-multicolors/3d3a4964b741-cover.jpg"
 excerpt: "天真！可愛！小動物！闔家同樂！！！帶你的朋友/兒女/鄰居/曖昧對象一起來打BLB限制賽吧！"
 categories:
   - "Limited"

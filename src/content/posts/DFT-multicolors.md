@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/Ks7ZwGJnqh.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/Ks7ZwGJnqh.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-multicolors/b30b57bb0f05-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-multicolors/b30b57bb0f05-cover.jpg"
 excerpt: "想成為吉拉波車神嗎？來看看多色牌是如何在乙太飄移中大放異彩吧！"
 ---
 

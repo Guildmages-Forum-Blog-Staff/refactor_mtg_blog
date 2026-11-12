@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DFT"
-cover: "https://media.wizards.com/2024/images/daily/s07A5VmUGx.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/s07A5VmUGx.png"
+cover: "https://images.guildmagesforum.tw/posts/DFT-Blue/0c57e12c34c5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DFT-Blue/0c57e12c34c5-cover.jpg"
 excerpt: "速度決定了勝負，而藍色定義何謂速度"
 ---
 

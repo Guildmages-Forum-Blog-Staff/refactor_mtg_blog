@@ -1,8 +1,8 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 藍色"
 date: "2024-07-26 00:08:40"
-cover: "https://media.wizards.com/2024/images/daily/cardart_daring_waverider_wisnu_tan_j78x8n8y9jpl.webp"
-thumbnail: "https://media.wizards.com/2024/images/daily/cardart_daring_waverider_wisnu_tan_j78x8n8y9jpl.webp"
+cover: "https://images.guildmagesforum.tw/posts/BLB-Blue/b7e72c268d56-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/BLB-Blue/b7e72c268d56-cover.jpg"
 excerpt: "套牌潤滑度就靠藍色了！"
 categories:
   - "Limited"

@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/Z5p4jyoSV6ae.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/Z5p4jyoSV6ae.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-White/7872127388be-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-White/7872127388be-cover.jpg"
 excerpt: "歡迎來到暮碑邸，這裡有令人躁狂的詭異景象、祈求生還的人們、打不開的隔間、還有……ET與幽浮！"
 ---
 

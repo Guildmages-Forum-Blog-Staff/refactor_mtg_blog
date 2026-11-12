@@ -502,7 +502,7 @@ authors:
 
 本身是沙漠，而當你的套牌拿了五張以上的坐騎（mounts）會變得很不錯，三費起動的異能不僅有機會把坐騎拿上手，中後期也是一個法力水槽可以看牌庫頂一張牌濾掉。
 
-![enemy fastlands](https://dotesports.com/wp-content/uploads/2024/03/GJnIMVnaIAQAlg6.jpg)
+![enemy fastlands](https://images.guildmagesforum.tw/posts/OTJ-multicolors/381e559a4e28.webp)
 
 **cephille:** 3.0
 
@@ -510,7 +510,7 @@ authors:
 
 > 千呼萬喚始出來，我們標準賽制終於有10種顏色的快地（fastlands）可以用了真感動...。
 
-![crime deserts](https://dotesports.com/wp-content/uploads/2024/03/b5b3dec4e246ef12e52321ced9f7b7bb.jpg)
+![crime deserts](https://images.guildmagesforum.tw/posts/OTJ-multicolors/8c40f0bf0743.webp)
 
 **cephille:** 3.0
 

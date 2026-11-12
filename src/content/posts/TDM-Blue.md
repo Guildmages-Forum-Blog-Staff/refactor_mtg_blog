@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/U9qwkb9WfZ.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/U9qwkb9WfZ.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-Blue/ad99328a376e-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-Blue/ad99328a376e-cover.jpg"
 excerpt: "介紹到了藍色，客倌是想要連續發咒語，還是跟著龍一起起飛呢"
 ---
 

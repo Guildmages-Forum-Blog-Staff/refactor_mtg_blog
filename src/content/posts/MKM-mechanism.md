@@ -1,8 +1,8 @@
 ---
 title: "卡洛夫莊園謀殺案機制解析"
 date: "2024-01-22 23:06:22"
-cover: "https://images.ctfassets.net/s5n2t79q9icq/5IpzwfzisqktbGso4ADudz/b82affc918ac3f6ccc6e2b0bccc125ec/SuzzZi1lLfhTt7T_1600x1080.jpg?q=70&w=1920&fm=avif"
-thumbnail: "https://images.ctfassets.net/s5n2t79q9icq/5IpzwfzisqktbGso4ADudz/b82affc918ac3f6ccc6e2b0bccc125ec/SuzzZi1lLfhTt7T_1600x1080.jpg?q=70&w=1920&fm=avif"
+cover: "https://images.guildmagesforum.tw/posts/MKM-mechanism/212fd054e2ae-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MKM-mechanism/212fd054e2ae-cover.jpg"
 excerpt: "來看看卡洛夫莊園謀殺案中出現了哪些機制吧！"
 categories:
   - "Limited"

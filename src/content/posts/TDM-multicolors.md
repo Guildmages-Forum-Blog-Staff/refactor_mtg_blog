@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "TDM"
-cover: "https://media.wizards.com/2025/images/daily/a9TtBK5hgQ.webp"
-thumbnail: "https://media.wizards.com/2025/images/daily/a9TtBK5hgQ.webp"
+cover: "https://images.guildmagesforum.tw/posts/TDM-multicolors/a92b8c98bd47-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/TDM-multicolors/a92b8c98bd47-cover.jpg"
 excerpt: "想深入了解TDM限制賽嗎？從這篇多色開始閱讀，相信您能大有斬獲！"
 ---
 

@@ -6,8 +6,8 @@ categories:
   - "OTJ"
 authors:
   - "JruMTG"
-cover: "https://images.ctfassets.net/s5n2t79q9icq/4VBECMvWFGU6QL69sRtxsq/2abcd63683ee80c11422cdf43631a7fb/Wallpaper_2560x1600_Oko__the_Ringleader.jpg"
-thumbnail: "https://images.ctfassets.net/s5n2t79q9icq/4VBECMvWFGU6QL69sRtxsq/2abcd63683ee80c11422cdf43631a7fb/Wallpaper_2560x1600_Oko__the_Ringleader.jpg"
+cover: "https://images.guildmagesforum.tw/posts/OTJ-mechanism/b34df43ac969-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/OTJ-mechanism/b34df43ac969-cover.jpg"
 excerpt: "來看看光雷驛鏢客中出現了哪些機制吧！"
 ---
 

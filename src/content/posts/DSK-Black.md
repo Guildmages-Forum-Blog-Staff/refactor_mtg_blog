@@ -6,8 +6,8 @@ authors:
 categories:
   - "Limited"
   - "DSK"
-cover: "https://media.wizards.com/2024/images/daily/ye8d05Df5a.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/ye8d05Df5a.png"
+cover: "https://images.guildmagesforum.tw/posts/DSK-Black/6c51bca7e62b-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/DSK-Black/6c51bca7e62b-cover.jpg"
 excerpt: "對手碩大的生物，被你輕描淡寫地消滅……你是喜歡黑色，還是喜歡折磨人的過程？陰鬱的畫風，僅存於噩夢裡的驚懼異象，此刻都將於你腦中尖嘯。"
 ---
 

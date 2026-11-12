@@ -1,8 +1,8 @@
 ---
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 多色、無色、地"
 date: "2024-01-30 15:01:45"
-cover: "https://media.wizards.com/2024/images/daily/g0Q11FtoDS3l.png"
-thumbnail: "https://media.wizards.com/2024/images/daily/g0Q11FtoDS3l.png"
+cover: "https://images.guildmagesforum.tw/posts/MKM-multicolors/30387f8680a5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/MKM-multicolors/30387f8680a5-cover.jpg"
 excerpt: "新年新系列新氣象，來看看MKM的多色神器地牌吧！熟悉的電震地最對味...不對RVR印過了..."
 categories:
   - "Limited"

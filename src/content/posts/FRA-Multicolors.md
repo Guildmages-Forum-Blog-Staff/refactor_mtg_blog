@@ -19,7 +19,7 @@ excerpt: "逆聲宇宙來臨，許多老朋友成對出現，但好像不是結�
 
 ## 色組主題
 
-![](https://media.wizards.com/2026/images/daily/mgwSZ3s56Q/en_WOHFBfkghh.jpg)
+![](https://images.guildmagesforum.tw/posts/FRA-Multicolors/1a9212b24d3e.webp)
 
 ### <span style="color:#006DB3">藍</span><span style="color:#C3B270">白</span> 刺探快攻
 
