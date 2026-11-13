@@ -1,7 +1,6 @@
 ---
 title: "狂熱壓迫：標準無情凱夫卡"
-date: "10/28/2026, 6:12:26 AM"
-updated: "2026-11-11 22:38:43"
+date: "11/14/2026, 2:20:55 AM"
 preview: false
 categories:
   - "Construct"
