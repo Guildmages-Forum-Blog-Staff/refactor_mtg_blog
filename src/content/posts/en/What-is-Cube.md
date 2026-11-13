@@ -1,8 +1,8 @@
 ---
 title: "What Is a CUBE - Your First Cube"
 date: "2025-03-07 15:21:25"
-cover: "https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg"
-thumbnail: "https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg"
+cover: "https://images.guildmagesforum.tw/posts/What-is-Cube/af2c6aa5f4f5-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/What-is-Cube/af2c6aa5f4f5-cover.jpg"
 excerpt: "Want to find out what a CUBE is? Come in and take a look!"
 authors:
   - "dalance"

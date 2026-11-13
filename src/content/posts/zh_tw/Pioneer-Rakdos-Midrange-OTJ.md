@@ -6,8 +6,8 @@ categories:
   - "Pioneer"
 authors:
   - "ClarkShih"
-cover: "https://cards.scryfall.io/art_crop/front/8/d/8df6603a-38c1-4d18-8b84-6211e9a7cc09.jpg?1684919918"
-thumbnail: "https://cards.scryfall.io/art_crop/front/8/d/8df6603a-38c1-4d18-8b84-6211e9a7cc09.jpg?1684919918"
+cover: "https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/b47a92888700-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Pioneer-Rakdos-Midrange-OTJ/b47a92888700-cover.jpg"
 excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 ---
 
