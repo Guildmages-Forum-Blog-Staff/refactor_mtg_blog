@@ -1,8 +1,8 @@
 // Copies a post's images from third-party hosts into the self-hosted images
 // repo (served at images.guildmagesforum.tw) and rewrites the URLs.
 // An image is any URL in `![](…)`, `<img src>`, cover or thumbnail, plus any
-// URL at all on the known image hosts below. Scryfall card art and our own
-// domains are left alone.
+// URL at all on the known image hosts below. Our own domains are left alone,
+// and so is Scryfall card art in the body; a Scryfall cover is copied.
 // Body images become 1200px WebP; cover/thumbnail become 1200px JPEG so every
 // og:image consumer can read them. GIFs are copied untouched (animation).
 // Any failure leaves that one URL as-is and is reported as a warning — a dead
@@ -21,8 +21,13 @@ const urlPattern = () =>
 // `![alt](url` and `<img … src="url"`; group 1 is the URL.
 const imageSyntax = () =>
   /!\[[^\]]*\]\(\s*<?(https?:\/\/[^\s)>]+)|<img\b[^>]*?\bsrc\s*=\s*["'](https?:\/\/[^"']+)/gi;
-// Card art stays on Scryfall (remark-scryfall turns it into card links); our own hosts are already home.
-const KEEP_HOST = /(^|\.)(scryfall\.io|scryfall\.com|guildmagesforum\.tw)$/i;
+// Our own hosts are already home.
+const OWN_HOST = /(^|\.)guildmagesforum\.tw$/i;
+// Body card art stays on Scryfall (remark-scryfall turns it into card links).
+// A cover has no such use, and hot-linking it slows the page's LCP image.
+const SCRYFALL_HOST = /(^|\.)scryfall\.(io|com)$/i;
+// Scryfall answers 400 to requests without a User-Agent and an Accept header.
+const FETCH_HEADERS = { 'User-Agent': 'GuildmagesForumBot/1.0', Accept: 'image/*' };
 
 export const WARN_PREFIX = '[images] WARN';
 
@@ -45,10 +50,14 @@ export interface CoverFields {
 }
 
 /** True for an http(s) URL that should be copied to our host. */
-export function isExternalImage(url: string): boolean {
+export function isExternalImage(url: string, kind: Kind = 'body'): boolean {
   try {
     const u = new URL(url);
-    return /^https?:$/.test(u.protocol) && !KEEP_HOST.test(u.hostname);
+    return (
+      /^https?:$/.test(u.protocol) &&
+      !OWN_HOST.test(u.hostname) &&
+      (kind === 'cover' || !SCRYFALL_HOST.test(u.hostname))
+    );
   } catch {
     return false;
   }
@@ -64,7 +73,10 @@ function bodyImageUrls(body: string): Set<string> {
 }
 
 async function download(url: string, fetchImpl: FetchLike): Promise<Buffer> {
-  const res = await fetchImpl(url, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
+  const res = await fetchImpl(url, {
+    headers: FETCH_HEADERS,
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+  });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   // Deleted imgur images redirect to a "removed" placeholder that is still a valid PNG.
   if (/\/removed\.(png|jpe?g)$/i.test(new URL(res.url || url).pathname)) {
@@ -143,7 +155,8 @@ export async function localizeImages<T extends CoverFields>(
   for (const field of ['cover', 'thumbnail'] as const) {
     // Authors sometimes leave a trailing space inside the quotes.
     const url = fm[field]?.trim();
-    if (url && isExternalImage(url)) fm[field] = (await move(url, 'cover')) as T[typeof field];
+    if (url && isExternalImage(url, 'cover'))
+      fm[field] = (await move(url, 'cover')) as T[typeof field];
   }
 
   const urls = [...bodyImageUrls(body)];

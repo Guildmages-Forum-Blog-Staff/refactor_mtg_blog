@@ -51,9 +51,35 @@ describe('isExternalImage', () => {
     'https://guildmagesforum.tw/images/a.jpg',
     'not a url',
   ])('ignores %s', (u) => expect(isExternalImage(u)).toBe(false));
+
+  it('copies Scryfall art only as a cover', () => {
+    expect(isExternalImage('https://cards.scryfall.io/art_crop/a.jpg', 'cover')).toBe(true);
+    expect(isExternalImage('https://images.guildmagesforum.tw/a.jpg', 'cover')).toBe(false);
+  });
 });
 
 describe('localizeImages', () => {
+  it('copies a Scryfall cover but keeps Scryfall card art in the body', async () => {
+    const fetchImpl = vi.fn(async (_url: string, _init?: RequestInit) =>
+      respond(png, 'image/jpeg'),
+    );
+    const art = 'https://cards.scryfall.io/art_crop/front/a.jpg?1';
+    const r = await localizeImages(
+      { cover: art, thumbnail: art },
+      '![card](https://cards.scryfall.io/large/k.jpg)',
+      opts(fetchImpl),
+    );
+
+    expect(r.warnings).toEqual([]);
+    expect(fetchImpl).toHaveBeenCalledTimes(1);
+    expect(fetchImpl.mock.calls[0][1]?.headers).toMatchObject({ Accept: 'image/*' });
+    expect(r.frontmatter.cover).toMatch(
+      /^https:\/\/images\.example\/posts\/Test\/\w{12}-cover\.jpg$/,
+    );
+    expect(r.frontmatter.thumbnail).toBe(r.frontmatter.cover);
+    expect(r.body).toContain('https://cards.scryfall.io/large/k.jpg');
+  });
+
   it('stores body images as 1200px webp and the cover as jpg, rewriting both', async () => {
     const fetchImpl = vi.fn(async () => respond(png, 'image/png'));
     const body =
