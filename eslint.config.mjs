@@ -6,7 +6,7 @@ import vueParser from 'vue-eslint-parser';
 import tsParser from '@typescript-eslint/parser';
 
 export default defineConfig(
-  globalIgnores(['dist/', 'node_modules/', '.astro/']),
+  globalIgnores(['dist/', 'node_modules/', '.astro/', '.scripts-dist/']),
   tseslint.configs.recommended,
   astro.configs['flat/recommended'],
   {
