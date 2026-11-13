@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import fsp from 'node:fs/promises';
 import path from 'node:path';
-import { fileURLToPath, pathToFileURL } from 'node:url';
+import { fileURLToPath } from 'node:url';
 import {
   parseSearchTagArgs,
   parsePickArgs,
@@ -866,7 +866,10 @@ function summarize(cache: CacheShape, refs: Map<string, PostRef>): void {
   }
 }
 
-const isMain = import.meta.url === pathToFileURL(process.argv[1]).href;
+// Matched by script name, not import.meta.url: check-post-tags imports this module, and
+// once bundled (npm run build:scripts) both share one import.meta.url, so a URL check
+// would run a full cache update on every check:tags.
+const isMain = /(^|[\\/])build-card-cache\.(ts|mjs)$/.test(process.argv[1] ?? '');
 if (isMain) {
   main().catch((err: unknown) => {
     console.error('[build-card-cache] fatal:', err);
