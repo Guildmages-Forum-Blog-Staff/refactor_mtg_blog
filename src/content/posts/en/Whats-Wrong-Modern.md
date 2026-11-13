@@ -1,8 +1,8 @@
 ---
 title: "What's Going On with Modern Lately?"
 date: "2023-11-23 14:22:34"
-cover: "https://cards.scryfall.io/art_crop/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805"
-thumbnail: "https://cards.scryfall.io/art_crop/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805"
+cover: "https://images.guildmagesforum.tw/posts/Whats-Wrong-Modern/205f325851ff-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Whats-Wrong-Modern/205f325851ff-cover.jpg"
 excerpt: "Going first and stripping two cards from the opponent's hand on turn one: a fun game... right?"
 categories:
   - "Construct"

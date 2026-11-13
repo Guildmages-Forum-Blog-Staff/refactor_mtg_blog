@@ -1,8 +1,8 @@
 ---
 title: "最近的近代怎麼了？"
 date: "2023-11-23 14:22:34"
-cover: "https://cards.scryfall.io/art_crop/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805"
-thumbnail: "https://cards.scryfall.io/art_crop/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805"
+cover: "https://images.guildmagesforum.tw/posts/Whats-Wrong-Modern/205f325851ff-cover.jpg"
+thumbnail: "https://images.guildmagesforum.tw/posts/Whats-Wrong-Modern/205f325851ff-cover.jpg"
 excerpt: "先手一回丟對手兩張手牌，好玩遊戲......嗎？"
 categories:
   - "Construct"
