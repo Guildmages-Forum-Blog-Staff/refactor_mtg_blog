@@ -1,7 +1,7 @@
 ---
 title: "黑老闆的近代風暴分享"
 date: "11/18/2026, 8:11:46 PM"
-updated: "2026-11-18 20:20:15"
+updated: "2026-11-18 20:51:42"
 preview: false
 categories:
   - "Modern"
@@ -43,9 +43,9 @@ excerpt: "風暴數19加霰擊彈本體打你20"
 這副套牌就是以他為名，能讓所有紅色咒語都減一費施放。是的～是所有的紅色咒語。所以包含 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %}、{% mtglink "Artist's Talent" %} 甚至是備牌的 {% mtglink "Stormscale Scion" %} 都能享有減免效果，身為神器的特性讓他在正編局比較不容易被對手解掉。
 
 {% mtgcard "Ral, Monsoon Mage//Ral, Leyline Prodigy" %}
-相較於 {% mtglink "Ruby Medallion" %}，{% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 只能讓瞬間與巫術咒語減少一費施放，而且作為生物的原罪就是很容易吃殺死去。甚至在對手 tap-out 的時候，都可能被憑空出現的 {% mtglink "Solitude" %} 給送去異次元。還有運氣很差的時候翻硬幣永遠翻輸，然後就把自己痛死……
+相較於 {% mtglink "Ruby Medallion" %}，他只能讓瞬間與巫術咒語減少一費施放，而且作為生物的原罪就是很容易吃殺死去。甚至在對手 tap-out 的時候，都可能被憑空出現的 {% mtglink "Solitude" %} 給送去異次元。還有運氣很差的時候翻硬幣永遠翻輸，然後就把自己痛死……
 
-但這可不代表 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 比較差。只要你能成功施放 6 個以上的瞬間巫術並且贏得擲硬幣，它翻到背面後就能直接開大絕。替你帶來大量免費的牌張，這也幾乎是宣告你的勝利。
+但這可不代表 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} 比較差。只要你能成功施放 6 個以上的瞬間巫術並且贏得擲硬幣，它翻到背面後就能直接開大絕。替你帶來大量免費的牌張，這也幾乎是宣告你的勝利。
 
 而這張牌也是這整套牌中細節最多，也最影響你勝率的一張。如果你要打這套，以下這些你一定要熟記於心！
 
@@ -82,21 +82,24 @@ excerpt: "風暴數19加霰擊彈本體打你20"
 ### 3. 賺牌與濾牌
 
 ![Exile_2](https://images.guildmagesforum.tw/posts/Modern-Ruby-Storm/b3c3ecdb0476.webp)
-可以賺一張牌，也是提供火力給你演牌的啟動點。很適合在第二回合時丟一發，來 set 第三回合的爆發。也有人用 `Opera Love Song`，但這就看個人的喜好了。
+可以賺一張牌，也是提供火力給你演牌的啟動點。很適合在第二回合時丟一發，來 set 第三回合的爆發。也有人用 {% mtglink "Opera Love Song" %} ，但這就看個人的喜好了。
 
 {% mtgcard "Hex Magic" %}
-[MSH](https://scryfall.com/sets/msh)系列帶來的新玩具，現在幾乎是接管了下面幾張的飯碗。能在前期提供 4-5 張牌的優勢。做出來幾乎是勝利的保證。但到了開始連招的階段就會隨著手牌數減少而越變越爛。是把套牌削得更尖更極端的一張牌。
+[MSH](https://scryfall.com/sets/msh)系列帶來的新玩具，現在幾乎是接管了下面幾張的飯碗。能在前期提供 4～5 張牌的優勢。做出來幾乎是勝利的保證。但到了開始連招的階段就會隨著手牌數減少而越變越爛。是把套牌削得更尖更極端的一張牌。
 
 {% mtgcard "Glimpse the Impossible" %}
 <p style="text-align: center;"><a class="small">（選用）</a></p>
+
 被 {% mtglink "Hex Magic" %} 搶飯碗的一號，雖然能提供三張牌的爆發，但是三點的費用加上當回合就要用就讓靈活性低了一點，所以即使有投入正編，在備牌局通常都會優先被下掉。
 > *小技巧：* 這張有個適用於少數場景的小技巧，就是用了以後故意不施放那些牌，來生成 3 隻[奧札奇後裔](https://scryfall.com/card/tmh3/38/eldrazi-spawn)擋人續命。而沒使用的牌是丟墳場，不是放逐，可以在這回合活下來之後，成為墳場的火力來源。
 
 {% mtgcard "Heroes' Hangout" %}
 <p style="text-align: center;"><a class="small">（選用）</a></p>
+
 被 {% mtglink "Hex Magic" %} 搶飯碗的二號。如前面所說，因為這套牌第一回合沒事做，所以以前會投入這張。但吃不到減費以及賺不到牌的缺點，我個人很不喜歡。
 
 {% mtgcard "Valakut Awakening//Valakut Stoneforge" %}
+
 差點被 {% mtglink "Hex Magic" %} 搶飯碗的三號。本來因為性質類似而被認為是會優先被取代的牌。但卻因為其背面是地的靈活性讓它目前還是保住了飯碗。在備牌局被對手定了haters的時候，能用這張在對手回合結束一次濾大量牌來找解。
 
 ### 4. 中繼 & 終結點
@@ -112,9 +115,9 @@ excerpt: "風暴數19加霰擊彈本體打你20"
 
 {% mtgcard "Wish" %}
 可以找中繼也可以找勝利的重要卡片，甚至有些時候還能拿來找備牌的解。特別要注意它的效果是 **本回合可以使用一張備牌**，而非強制你要在結算當下就用喔！而且你也不需要宣布你要用哪張，等你需要的時候再去備牌拿你要的牌來用就好。至於何時該許願？又該許什麼願呢？
-- 通常第一發都是找 {% mtglink "Past in Flames" %} 中繼。這裡要記得算好法力，在有一個減費組件的情況下，你會需要 `2 + 3 + 1 = 6` 點法力（`Wish` + `Past in Flames` + 發動墳場的法力源）才能繼續演下去。不要為了貪多發一兩發賺牌咒語，結果反而法力不夠斷掉自己的連招。
-- 如果風暴數累積得很順利，當然是直接許願 {% mtglink "Grapeshot" %} 殺人。而且你其實不需要真的把風暴數搞到 20 來殺人。如果法力充足（7 點以上），在對方血量 20 點的情況下，你只需要達到風暴數 6，接下來就能 {% Wish" %} + {% mtglink "Grapeshot" %} （風暴數 8 + 本體 = <font color="#FF0000">9 點傷害</font>） + {% mtglink "Past in Flames" %} + {% mtglink "Grapeshot" %} （風暴數 10 + 本體 = <font color="#FF0000">11 點傷害</font>），剛好打滿 <font color="#FF0000">20 點傷害</font>。如果對手的血量因為地牌只有 18 點的話，則只需風暴數 5 就能打掉。所以其實只要牌張是對的，要打死人需要的風暴數沒有想像中的高。但很多時候這條 Line 很容易被忽略。
-- 當然在你沒有辦法走這條 Line（例如被下了 {% mtglink "Rest in Peace" %}），且風暴數沒辦法一路累積到斬殺的時候，另外兩個選擇就出現了：{% mtglink "Stormscale Scion" %} vs {% mtglink "Empty the Warrens" %}
+- 通常第一發都是找 {% mtglink "Past in Flames" %} 中繼。這裡要記得算好法力，在有一個減費組件的情況下，你會需要 `2 + 3 + 1 = 6` 點法力（{% mtglink "Wish" %} + {% mtglink "Past in Flames" %} + 發動墳場的法力源）才能繼續演下去。不要為了貪多發一兩發賺牌咒語，結果反而法力不夠斷掉自己的連招。
+- 如果風暴數累積得很順利，當然是直接許願 {% mtglink "Grapeshot" %} 殺人。而且你其實不需要真的把風暴數搞到 20 來殺人。如果法力充足（7 點以上），在對方血量 20 點的情況下，你只需要達到風暴數 6，接下來就能 {% mtglink "Wish" %} + {% mtglink "Grapeshot" %} （風暴數 8 + 本體 = <font color="#FF0000">9 點傷害</font>） + {% mtglink "Past in Flames" %} + {% mtglink "Grapeshot" %} （風暴數 10 + 本體 = <font color="#FF0000">11 點傷害</font>），剛好打滿 <font color="#FF0000">20 點傷害</font>。如果對手的血量因為地牌只有 18 點的話，則只需風暴數 5 就能打掉。所以其實只要牌張是對的，要打死人需要的風暴數沒有想像中的高。但很多時候這條 Line 很容易被忽略。
+- 當然在你沒有辦法走這條 Line（例如被下了 {% mtglink "Rest in Peace" %}），且風暴數沒辦法一路累積到斬殺的時候，另外兩個選擇就出現了：{% mtglink "Stormscale Scion" %} v.s. {% mtglink "Empty the Warrens" %}
 - 如果法力允許，請務必以 {% mtglink "Stormscale Scion" %} 為第一優先，因為穿透力強，且龍又超大隻。{% mtglink "Empty the Warrens" %} 是真的法力不夠且又要斷招的時候才做的不得已選擇。
 
 > 你說生個十幾二十隻鬼怪也很猛啊？那你不妨看看 Mengucci 的悲慘教訓吧！
@@ -142,7 +145,7 @@ excerpt: "風暴數19加霰擊彈本體打你20"
 
 > **經典實例分享：**
 > 一個經典的例子就是在我取得 MIT 資格的決定最終戰（Win & In），當時我跟打 Prowess 的對手 1：1 平手，第三盤我後手的狀態。對手一回 {% mtglink "Monastery Swiftspear" %}，然後第二回合設謀（Plot） {% mtglink "Slickshot Show-Off" %}。這時我心中警報大響！因為對手在第二盤上了很多干擾的備牌，打得偏被動並一直處於保有法力狀態。但這時候居然直接 tap-out 來設謀了 Prowess 最有爆發力的 {% mtglink "Slickshot Show-Off" %}。
-> 我頓時覺得我如果這回合不贏，我可能就沒有下一回合，或是即使有下一回合，我的血量也有可能低到會被自己的 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 給痛死。看著只要進牌一不好就會斷，但是有機會一拼的手牌。我就牙一咬、冒著失敗的風險就衝了！最後運氣很好，在極限的操作下完成擊殺。而對手也無奈的 show 出手上那個可以下一回合直接幹掉我的 17 點傷害。
+> 我頓時覺得我如果這回合不贏，我可能就沒有下一回合，或是即使有下一回合，我的血量也有可能低到會被自己的 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} 給痛死。看著只要進牌一不好就會斷，但是有機會一拼的手牌。我就牙一咬、冒著失敗的風險就衝了！最後運氣很好，在極限的操作下完成擊殺。而對手也無奈的 show 出手上那個可以下一回合直接幹掉我的 17 點傷害。
 > 如果我沒有問自己我下一回合會不會死，而是採取了比較穩固的第三回合路線的話，今天的結果就會完全不一樣了。
 
 所以熟悉對手套牌的類型、知道對手可能有什麼干擾、被干擾的話你是否會直接卡住、以及最重要的現在如果不做，下一回合會不會死？這些就是你在練習這副套牌時的重點。組合技操作本身你對著牆壁都可以練習，但是與真人對練的時候，如果要檢討與學習，那請務必著重在這幾點上面。
@@ -172,17 +175,17 @@ excerpt: "風暴數19加霰擊彈本體打你20"
 如果你要打的是沒開牌表的比賽，我會建議你賽前把前十套熱門套牌裡面，對手會用的備牌有什麼是克制你的，記錄在你的 sideboard 用紙上。這樣換備的時候就可以知道你該上哪些東西來應對。
 
 知道怎麼換備牌後，怎麼繞著對手的haters操作也是很重要的：
-> 來看看 Pierre Liebsch 大神怎麼在對手下一回合就能殺了你，而且場上同時有 {% mtglink "Damping Sphere" %} + 兩張 {% mtglink "Tormod's Crypt" %} + {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 還被 {% mtglink "Pithing Needle" %} 給插住的絕對封鎖下，精彩的逃脫並取勝吧！
+> 來看看 Pierre Liebsch 大神怎麼在對手下一回合就能殺了你，而且場上同時有 {% mtglink "Damping Sphere" %} + 兩張 {% mtglink "Tormod's Crypt" %} + {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} 還被 {% mtglink "Pithing Needle" %} 給插住的絕對封鎖下，精彩的逃脫並取勝吧！
 > [超精彩對局影片](https://youtu.be/OR6I2TPNtzw?t=2973)
 
 ### 對局剖析
 
 - **Esper Goryo’s**：不太好打
-    *   *正編局*：會被對手 {% mtglink "Thoughtseize" %} 掉關鍵牌，{% mtglink "Ruby Medallion" %} 可能會被 {% mtglink "Force of Negation" %}，然後 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 可能會死於 {% mtglink "Solitude" %} 或 {% mtglink "Fatal Push" %}。但頭過身就過，你的減費組件如果沒有被搞掉，你開演後對手也只能雙手一攤等你演完。
+    *   *正編局*：會被對手 {% mtglink "Thoughtseize" %} 掉關鍵牌，{% mtglink "Ruby Medallion" %} 可能會被 {% mtglink "Force of Negation" %}，然後 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} 可能會死於 {% mtglink "Solitude" %} 或 {% mtglink "Fatal Push" %}。但頭過身就過，你的減費組件如果沒有被搞掉，你開演後對手也只能雙手一攤等你演完。
     *   *備牌局*：對手基本上除了一點點清墳，基本上還是圍繞在各種康來干擾你。上 {% mtglink "Orim's Chant" %} 來確保你可以安心演出吧！
 
 - **Esper Blink**：還算好打
-    *   *正編局*：對手大概只能殺 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %}，跟你的互動不會太多，而且這套偏慢，你血量壓力通常不大。所以不要抽太爛且稍微小心一點，大概不太會有什麼問題。
+    *   *正編局*：對手大概只能殺 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} ，跟你的互動不會太多，而且這套偏慢，你血量壓力通常不大。所以不要抽太爛且稍微小心一點，大概不太會有什麼問題。
     *   *備牌局*：因為對面會有 {% mtglink "High Noon" %}，所以記得上清除咒語。另外對手的康也會變多，可以上一些 {% mtglink "Orim's Chant" %}。
 
 - **Izzet Prowess**：很難打
@@ -190,7 +193,7 @@ excerpt: "風暴數19加霰擊彈本體打你20"
     *   *備牌局*：對手會上比較多康牌，所以會慢一些些。但你也因此得帶 {% mtglink "Orim's Chant" %}，所以你也會變慢。總之重點就是我前面講的，感知危險，盡快取勝！
 
 - **Mono-Green Broodscale (俗稱蜥蜴刀)**：好打
-    *   *正編局*：對手只有 {% mtglink "Vexing Bauble" %} 可能會卡到 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 大招。其他基本上對你束手無策。在對手做出無限前打死他就好。
+    *   *正編局*：對手只有 {% mtglink "Vexing Bauble" %} 可能會卡到 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} 的大招。其他基本上對你束手無策。在對手做出無限前打死他就好。
     *   *備牌局*：對手會有 {% mtglink "Damping Sphere" %} 或 {% mtglink "Soulless Jailer" %} 這類干擾。帶上你的拆神器牌吧。拆掉這些一樣是隨你演。
 
 - **Affinity**：好打
@@ -198,7 +201,7 @@ excerpt: "風暴數19加霰擊彈本體打你20"
     *   *備牌局*：一樣會碰到 {% mtglink "Damping Sphere" %} 跟少量的康。帶上你的拆神器大隊，{% mtglink "Orim's Chant" %} 我覺得可帶可不帶。
 
 - **Boros Energy**：還算好打
-    *   *正編局*：大概只怕 {% mtglink "Ranger-Captain of Eos" %} 斷你的招，以及 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" %} 被宰掉。不然對手基本上也無法跟你有什麼互動。
+    *   *正編局*：大概只怕 {% mtglink "Ranger-Captain of Eos" %} 斷你的招，以及 {% mtglink "Ral, Monsoon Mage//Ral, Leyline Prodigy" alt="拉爾" %} 被宰掉。不然對手基本上也無法跟你有什麼互動。
     *   *備牌局*：一樣是會有討人厭的 {% mtglink "High Noon" %}，帶上拆除大隊吧。
 
 - **Eldrazi Tron**：普通對局
