@@ -1,6 +1,7 @@
 ---
 title: "MIT#13 季軍心得: Azorius Chant"
 date: "11/19/2026, 5:18:23 PM"
+updated: "2026-11-19 18:05:38"
 preview: false
 categories:
   - "Tournaments"
@@ -35,7 +36,7 @@ excerpt: "沉默中的人是無法說 「不」的。"
 
 而為了應對氾濫的神器共鳴，玩家給出的解答是：｢神器共鳴是如此Unfair，但最快也要4回才有機會把人打死吧? 那我3回贏不就好了ㄏㄏ」，於是最快3回就能贏的血刀出現了。
 
-而為了應對接管近代的血刀，當時也出現了一個另一個正夯的牌組: [Devoted Druid Combo](https://www.mtggoldfish.com/archetype/modern-devoted-combo#paper)，理由大同小異：｢你3回贏，那有看過2回贏嗎？」
+而為了應對接管近代的血刀，當時也出現了一個另一個正夯的牌組：[Devoted Druid Combo](https://www.mtggoldfish.com/archetype/modern-devoted-combo#paper)，理由大同小異：｢你3回贏，那有看過2回贏嗎？」
 
 這兩套的出現活生生把當時的近代變成了超級賽跑遊戲，有看過Baltimore的八強直播就知道，一個bo3十來分鐘就結束了，相當鬼扯。
 
@@ -56,36 +57,36 @@ excerpt: "沉默中的人是無法說 「不」的。"
 
 ![03-ottawa-chant](https://images.guildmagesforum.tw/posts/MIT13-Azorius-Chant/1904cdf6767d.webp)
 看到此等喜訊的當下，深藏於我內心的惡魔隨即甦醒，操控了我將Esper Blink解體，讓Mana Base類似的Azorius Chant繼承了它的衣缽，就此踏上一去不復返的道路……
-雖然講得有點戲劇性，但其實當下換套牌時我是很理性的。理由只有一個、而且非常簡單，那就是：**我有很高的熟練度加成**。
+雖然講得有點戲劇性，但其實當下換套牌時我是很理性的。理由只有一個，而且非常簡單。那就是：**我有很高的熟練度加成**。
 去年MIT#10雖然成績不盡理想，但當時我就是使用[Fransisco Sanchez 的Azorius Chant](https://www.mtggoldfish.com/deck/7365218#paper)。且這一季在拿到資格後去充當香菇的每一場MITQ，我幾乎都是使用同一套、或是相同概念的藍白控制型牌組參戰。對我來說，我並不需要花太多時間去熟悉套牌邏輯，可以在很短的時間內就去驗收套牌可行性。最差的情況，就只是轉回去打Esper Blink，僅此而已。因此我決定在準備時間有限的情況下，嘗試轉打7 Silence/chant 的 Azorius Chant。
 
 ![](https://images.guildmagesforum.tw/posts/MIT13-Azorius-Chant/7901a544795d.webp)
-<p style="text-align: center;"><a class="small">7 Silence/chant</a></p>
+<p style="text-align: center;"><a class="small">7 Silence / chant</a></p>
 
-經過了一陣子的測試後，我發現7 Silence/Chant解決了不少過去的問題、而且在當時的環境有明顯優勢。除了在對上剛剛有提到的Druid Combo、血刀與泰坦有很高的勝率外、取代原本 {% mtglink "Counterspell" %} 位置的Silence在對上原本很不利的 [Izzet Prowess](https://www.mtggoldfish.com/archetype/modern-izzet-prowess#paper) 與 [Boros Energy](https://www.mtggoldfish.com/archetype/modern-boros-energy#paper)時會比CounterSpell有用很多（下面會提到差異），因此勝率有提高許多，而且優開Blink或是Goryo這種環境數量不少且看似不利、但實際上卻很有利的對局。在獲得了這些資訊之後我當下就確定要打Chant了。
+經過了一陣子的測試後，我發現7 Silence/Chant解決了不少過去的問題，而且在當時的環境有明顯優勢。除了在對上剛剛有提到的Druid Combo、血刀與泰坦有很高的勝率外，取代原本 {% mtglink "Counterspell" %} 位置的Silence在對上原本很不利的 [Izzet Prowess](https://www.mtggoldfish.com/archetype/modern-izzet-prowess#paper) 與 [Boros Energy](https://www.mtggoldfish.com/archetype/modern-boros-energy#paper)時會比Counterspell有用很多（下面會提到差異）。因此提高了勝率，而且優開Blink或是Goryo這種環境數量不少且看似不利，但實際上卻很有利的對局。在獲得了這些資訊之後，我當下就確定要打Chant了。
 
 後來過了一周環境又出現了變化，[紅黑Aggro](https://www.mtggoldfish.com/archetype/modern-rakdos-midrange#paper)在國外RC大量發生，聽說打藍白的勝率很高。而且為了對應紅黑、有無敵[地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)[龍](https://scryfall.com/card/mh2/234/scion-of-draco)的[Domain Zoo](https://www.mtggoldfish.com/archetype/modern-domain-zoo#paper)數量似乎也有所提升。而據某位魔風里長伯的線報，MIT要打紅黑的人似乎很多，Domain也有人要打，我當下其實就有點慌，完蛋要被針對了。但想想也沒辦法了，只能先改牌。
 
-後續我針對了這兩套要來扁我的套牌，做了一些針對的改動。最主要的，就是捨棄了把一些用途較窄的牌放一張在正編的習慣，並將它們移除來提高容錯率。改成能提高對紅黑/Domain的勝率，並在多數對局不太會變成死牌的有效單卡。
+後續我針對了這兩套要來扁我的套牌做了一些改動。最主要的，就是捨棄了把一些用途較窄的牌各放一張在正編的習慣。改成能提高對紅黑/Domain的勝率，並在多數對局不太會變成死牌的有效單卡。
 
-在最後一個星期的測試中，這些改動也發揮了成效。雖然勝率表上藍白打紅黑的勝率較低，但在測試中，我改完的版本在正編局是有辦法做到優開紅黑的。雖然也有可能是受到一些波動影響，導致我測試的結果不太準確。但總體來講說，我相當滿意這次的改動，在最後也是交了這個能夠跟紅黑掰掰手腕的版本。至於Domain Zoo這個對局，在測完後我幾乎是完全放棄的。不管有沒有做針對快攻的改動，應該都是打不太贏，只能祈禱當天不要遇到。
+在最後一個星期的測試中，這些改動也發揮了成效。雖然勝率表上藍白打紅黑的勝率較低，但在測試中，我改完的版本在正編局是有辦法做到優開紅黑的。雖然也有可能是受到一些波動影響，導致我測試的結果不太準確。但總體來說，我相當滿意這次的改動，在最後也是交了這個能夠跟紅黑扳扳手腕的版本。至於Domain Zoo這個對局，在測完後我幾乎是完全放棄的。不管有沒有做針對快攻的改動，應該都是打不太贏，只能祈禱當天不要遇到。
 
 ## 遊戲計畫
 
 先附上[卡表](https://melee.gg/Decklist/View/4f87df2d-383b-4851-9cb1-b4ee0107f13d):
 ![04-enki-chant](https://images.guildmagesforum.tw/posts/MIT13-Azorius-Chant/fea632d7a6d4.webp)
 
-主要改動邏輯是參考[SCG CON Los Angeles](https://melee.gg/Tournament/View/405591)冠軍Toothy的型、並與Fransisco Sanchez 去年的舊型做參照，兩邊的Guide我都有買。雖然套牌時空背景不同，但比較差異讓我的打法很快的從舊型轉成新型邏輯。
+主要改動邏輯是參考[SCG CON Los Angeles](https://melee.gg/Tournament/View/405591)冠軍Toothy的型、並與Fransisco Sanchez 去年的舊型做參照，兩邊的Guide我都有買。雖然套牌時空背景不同，但比較差異後，我的打法很快地從舊型轉為新型邏輯。
 
 新舊型的主要差異在於：新型幾乎是完全捨棄掉康牌，增加更多的 {% mtglink "Silence" %} 去封鎖對手，並讓 {% mtglink "Day's Undoing" %} 有更好的發揮空間。較常使用情境為：
 1. 在清掉對手場面後，使用 {% mtglink "Day's Undoing" %} （以下簡稱 Day's）的情況下抽到Silence/chant的機率上升。可以很有效地連續封鎖掉對手後續的展開回合，製造出只有自己能玩遊戲的場面。
 2. 跟第1點用法差不多，先手的情況下可以Keep 2 Silence/chant + Day's，連續鎖對面兩回合後直接開Day's把前兩回合失去的牌差直接打回來。
 
-以上兩種情境在對上任何牌型幾乎都適用，尤其第2點在對上快攻（Prowess/紅黑/Energy）是非常好的拖延手段，對手會無法在前期展開。且以套牌構成來講，我方在第四塊地之後的回合都會比對面強。可以很容易的在快攻對手把我方打死之前，就製造出第1點的連續封鎖情境，或是直接用資源Control Win。
+以上兩種情境在對上任何牌型幾乎都適用，尤其第2點在對上快攻（Prowess / 紅黑 / Energy）是非常好的拖延手段，對手會無法在前期展開。且以套牌構成來講，我方在第四塊地之後的回合都會比對面強。可以很容易地在快攻對手把我方打死之前，就製造出第1點的連續封鎖情境，或是直接用資源Control Win。
 
-舊型仍有一半的Control成分，利用康牌干擾、濾牌、解場是Plan A， {% mtglink "Narset, Parter of Veils" %} + Day's則是Plan B。當時的環境還容許放康牌去跟堆疊互動，但在現在的超絕Turbo環境，康牌反而成了絆腳石。發揮得不夠快，而且在打一些容易Double Spell的超展開套牌時幾乎是一張死牌。此外，舊型最嚴重的缺陷是：比起新型，它更難有效地去保護自己最重要的組合技Wincon。
+舊型仍有一半的Control成分，利用康牌干擾、濾牌、解場是Plan A， {% mtglink "Narset, Parter of Veils" %} + Day's 的組合技則是Plan B。當時的環境還容許放康牌去跟堆疊互動，但在現在的超絕Turbo環境，康牌反而成了絆腳石。不但發揮得不夠快，而且在打一些容易Double Spell的超展開套牌時，幾乎是一張死牌。此外，舊型最嚴重的缺陷是：比起新型，它更難有效地去保護自己最重要的組合技Wincon。
 
-而新型則是更加著重於組合技本身，但依舊保留了解場Control的Plan A。只有在一些組合技不容易成功、且我方會被強逼轉打資源取向的對局時、才會啟用這套解場控制的隱藏Plan B。
+而新型則是更加著重於組合技本身，但依舊保留了解場Control的Plan A。當在一些組合技不易成功，且我方會被強迫轉打資源戰的對局時，就有可能改用隱藏Plan A獲勝。
 
 ## 套牌底層邏輯
 
@@ -95,10 +96,10 @@ excerpt: "沉默中的人是無法說 「不」的。"
 
 大部分時間，Chant要贏都只能等到第5塊地之後。理想情況下，我們有 {% mtglink "Narset, Parter of Veils" alt="Narset" %} 、{% mtglink "Teferi, Time Raveler" %} 跟複數Silence/Chant的時候，通常會從自己要進4費的前一個回合開始 {% mtglink "Silence" alt="封口" %} 對手，在出完Teferi的下一個回合再封口對手一次，下個回合再出Narset去找更多的封口，同時 {% mtglink "Teferi, Time Raveler" alt="Teferi" %} 持續 [+1] 。用這個連續封鎖策略去買更多的回合找Day's，並爭取在下個對手的抽牌階段直接開Day's施展手牌消失術以取勝。
 
-但這僅限於手牌不錯的狀況。大多數情況會是需要打更長盤的情境：解場較多、Silence/Chant只有1～2張、然後Narset/Teferi只來其中一邊。在那之前我們必須要做的，就是盡可能讓對手 **場上不要出現地以外的東西**，並透過Narset、 {% mtglink "Consult the Star Charts" %} 或是右手去找到Day's Undoing，並在至少有5塊地的回合正開Day's Undoing逼大家重玩。而因為現在有7～8張Silence/chant，重打後墳場也會洗回去的關係，能抽到至少一張Silence的機率是接近65%的。意味著我們有很高的可能性，能在開完Day's的下一個對手回合的維持階段繼續封口，讓遊戲的主導權回到我方。
-只要對手場面全空且無法行動，我們就又回到可以去找連續封鎖 + Narset & Day's 組合技的情境了。
+但這僅限於手牌不錯的狀況。大多數情況會是需要打更長盤的情境：解場較多、Silence/Chant只有1～2張、然後Narset/Teferi只來其中一邊。在那之前我們必須要做的，就是盡可能讓對手 **場上不要出現地以外的東西**，並透過Narset、 {% mtglink "Consult the Star Charts" %} 或是右手去找到Day's Undoing，並在至少有5塊地的回合正開Day's Undoing逼大家重玩。而因為現在有7～8張Silence/chant，重打後墳場也會洗回去的關係，能抽到至少一張Silence的機率是接近65%的。意味著我們有很高的可能性能在開完Day's後，下一個對手的維持階段繼續封口，讓遊戲的主導權回到我方。
+只要對手場面全空且無法行動，我們就又回到可以去找連續封鎖 +  {% mtglink "Narset, Parter of Veils" alt="Narset" %} &  {% mtglink "Day's Undoing" alt="Day's" %} 組合技的情境了。
 
-沒錯，整個套牌的目的就是在中期不間斷地去找連續封鎖、過程中同時也找到組合技組件。即使還沒有找到，那就再開Day's重打，然後再繼續重複同樣的流程。而就算中間發生斷檔，我們也可以用抽到的解場或濾牌去買時間，直到你可以Control Win或是 Combo Win。
+沒錯，整個套牌的目的就是在中期不間斷地去找連續封鎖，過程中同時也找到組合技組件。即使還沒有找到，那就再開Day's重打，然後再繼續重複同樣的流程。而就算中間發生斷檔，我們也可以用抽到的解場或濾牌去買時間，直到你可以Control Win或是 Combo Win。
 
 永遠不要因為害怕對手會把手牌補滿而不在該做的時機正開Day's，要記住： **Chant的套牌邏輯就是圍繞著這張去組成的，但對手的不是。**
 
@@ -128,12 +129,12 @@ excerpt: "沉默中的人是無法說 「不」的。"
 
 {% mtgcard "The Wandering Emperor" %} 
 飄萍皇，先驅老朋友。
-其實很多Chant已經開始在備編投入這張牌了，我則是直接在正編投入兩張。它在對上內戰、紅黑、Prowess或是Energy都是可以拖很多時間，讓你活下來的牌，甚至自己就可以成為Win Con。
+其實很多Chant已經開始在備編投入這張牌了，我則是直接在正編投入兩張。它在對上內戰、紅黑、Prowess或是Energy都是可以讓你活下來的牌，甚至自己就可以成為Win Con。
 
 {% mtgcard "The Mind Stone" %}
 大概算是我覺得改動後、整套牌裡面強化封口策略最重要的一張牌，有買Toothy的guide才會知道有這個選項。
-它給套牌帶來的好處是：你可以在2回的時候跳費，並用封口封鎖對手下回的節奏。到了下個你的回合讓你能夠出3費的旅法師，並保有1費拿去做連續封口，或是解場空間。
-它是白色的牌，可以讓你拿來pitch給 {% mtglink "Solitude" alt="白元素" %} 、甚至不會被自己的 {% mtglink "Wrath Of The Skies" %} 炸掉。四強內戰輸給[Gman](https://melee.gg/Profile/Index/Peter780107)，很大部分原因就是他後手2回先出了這張牌，在我的回合封口讓我不能出Teferi。到他的回合他就可以出他的Teferi，並可以留有1費跟我的 {% mtglink "Mystical Dispute" alt="dispute" %} 對康。
+它給套牌帶來的好處是：你可以在2回的時候跳費，並用封口封鎖對手下回的節奏。到了下個你的回合讓你能夠出3費的旅法師，並保有1費拿去做連續封口，或是解場的空間。
+另外，它是白色的牌，可以讓你拿來pitch給 {% mtglink "Solitude" alt="白元素" %} 、甚至不會被自己的 {% mtglink "Wrath Of The Skies" %} 炸掉。四強內戰輸給[Gman](https://melee.gg/Decklist/View/3b0ef459-6c02-44e3-9f1e-b4f300120390)，很大部分原因就是他後手2回先出了這張牌，在我的回合封口讓我不能出Teferi。到他的回合他就可以出他的Teferi，並可以留有1費跟我的 {% mtglink "Mystical Dispute" alt="dispute" %} 對康。
 
 {% mtgcard "Erode" %}
 國外RC有不少list都開始放這張，理由是為了打內戰，需要很有效率的手段去除對手的旅法師。我自己則是有時候會Evoke出白元素之後，再Erode它自己來讓我跳費。
@@ -175,7 +176,7 @@ excerpt: "沉默中的人是無法說 「不」的。"
 在跟 {% mtglink "Rest in Peace" alt="RIP" %} 互相比較後，在各種意義上我都覺得比較優秀的單卡。原本剋墳是有放 {% mtglink "Surgical Extraction" %} ，但後來我連堆墳都不想讓對手堆，於是就把歪腦筋動到這張牌上了。
 跟RIP的主要差異是：它可以提供一個幾乎不會死的阻擋者，且不會把我自己墳場的Silence放逐。所以我正開Day's還是會有一樣、甚至更高的機率去重抽到Silence去打我想要的Plan。但RIP會影響到這件事。加上我覺得現在真的算墳場deck就只有紅黑，而Goryo也會因為吃這張牌讓他失去唯一能贏chant的plan，因此選擇它。
 
-{% mtgcard "Supreme Verdict" %}
+{% mtgcard "Supreme Verdict" "rtr" %}
 正加備各一張，還是給了神器共鳴 / Domain Zoo 一點Respect。且打到血刀若 {% mtglink "Emrakul, the Promised End" %} 不幸結算也需要這張牌去把它給掃掉，算是重新讀過Fransisco Sanchez的guide之後下的判斷。打神器共鳴最好的一張牌並不會是 {% mtglink "Wrath of the Skies" %} ，而是能清掉 {% mtglink "Kappa Cannoneer" %} 的Verdict。而在對上Domain Zoo時，沒有這張牌幾乎是不可能贏的。 
 
 ## Sideboard Plan
@@ -185,7 +186,7 @@ excerpt: "沉默中的人是無法說 「不」的。"
 ## 結語
 這次我覺得各種意義上運氣都不錯吧。套牌強度不錯，也是我喜歡的牌。環境不錯、優勢對局多。走位也不錯，沒有遇到最難打的神器共鳴 / Domain Zoo，看到[碩恩](https://guildmagesforum.tw/authors/Sekun/)大大一直坐在附近真的很怕遇到。
 Win & In 運氣也不錯，剛好抓到據稱勝率有80%以上的[風暴](https://guildmagesforum.tw/Modern-Ruby-Storm/)，只能跟對手說Sorry。
-比賽的結果也不錯。季軍戰對上韓同學本來打錯沒留飄萍皇，但右手進牌讓我解掉了他的Power Turn。後續來來回回他手牌不夠強，我才能贏下這個對局。
+比賽的結果也不錯。季軍戰對上韓同學本來打錯沒留 {% mtglink "The Wandering Emperor" alt="飄萍皇" %} ，但右手進牌讓我解掉了他的Power Turn。後續來來回回他手牌不夠強，我才能贏下這個對局。
 幾乎每次MIT給自己設定的目標都是八強，但有幾次都剛好差一點。而這次超出八強、甚至能前進PT的結果，算是讓我了結了過去的遺憾吧。
 
 ![](https://images.guildmagesforum.tw/posts/MIT13-Azorius-Chant/7850e28dada6.webp)
