@@ -110,7 +110,7 @@ const friendLinks = [
             id="friends-dropdown"
             class="dark:bg-dark-bg absolute top-full left-0 z-50 mt-2 hidden w-64 overflow-hidden rounded-xl border border-gray-200 bg-white shadow-lg dark:border-gray-700"
           >
-            <ul class="py-1">
+            <ul class="max-h-[calc(100dvh-5rem)] overflow-y-auto overscroll-contain py-1">
               {
                 friendLinks.map((link) => (
                   <li>
