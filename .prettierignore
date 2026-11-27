@@ -4,3 +4,4 @@ dist/
 public/
 src/content/posts/
 src/content/authors/
+.scripts-dist/
